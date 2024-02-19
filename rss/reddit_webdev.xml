@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 19 Feb 2024 00:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 03:06:07 GMT</lastBuildDate>
+    <item>
+      <title>为中小型企业设计并构建 5 页网站的市场价格是多少？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aucbiw/what_is_the_market_rate_for_designing_and_then/</link>
+      <description><![CDATA[如果你能说出你的位置和估计数字，那将是一个很好的开始。 我正在抓紧的事情最重要的是我花在与客户沟通上的时间。加起来！ 考虑提高我的价格。   由   提交/u/Famous_Clerk_7529   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aucbiw/what_is_the_market_rate_for_designing_and_then/</guid>
+      <pubDate>Mon, 19 Feb 2024 02:33:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>reddit 是如何生成这些 og 图像的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aubqul/how_is_reddit_generating_these_og_images/</link>
+      <description><![CDATA[       由   提交/u/bdlowery2  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aubqul/how_is_reddit_generating_these_og_images/</guid>
+      <pubDate>Mon, 19 Feb 2024 02:05:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>迄今为止与您合作过的最好的 Web 开发人员是谁？为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1auatyh/who_are_the_best_web_developers_you_have_worked/</link>
+      <description><![CDATA[嘿！迄今为止与您合作过的最好的 Web 开发人员是谁？为什么？想知道伟大的全栈工程是什么样的！ ​   由   提交/u/lelouch999  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1auatyh/who_are_the_best_web_developers_you_have_worked/</guid>
+      <pubDate>Mon, 19 Feb 2024 01:20:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>无需太多编码即可从您的计算机托管网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aua3ku/host_website_from_your_computer_without_much/</link>
+      <description><![CDATA[前几天我创建了一个网站，我可以通过 Onion Share 从我的计算机上共享它，但它只能与 Tor 浏览器和链接一起使用很奇怪。我正在尝试找到一个类似的应用程序，它可以让您上传 html 并创建链接。我尝试过其他程序，例如 Wamp 服务器，但设置起来太混乱（没有按钮，让我进入命令提示符）。 谢谢！   由   提交 /u/gamebreaker-fan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aua3ku/host_website_from_your_computer_without_much/</guid>
+      <pubDate>Mon, 19 Feb 2024 00:45:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>公会标签</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aua080/guildtag/</link>
+      <description><![CDATA[这里有在 GuildTag 网站上工作过的网络开发人员吗？   由   提交/u/JesterDemi-  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aua080/guildtag/</guid>
+      <pubDate>Mon, 19 Feb 2024 00:41:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>针对我的学习情况做出反应</title>
+      <link>https://www.reddit.com/r/webdev/comments/1au9r7g/react_for_my_learning_situation/</link>
+      <description><![CDATA[大家好--  我有一个问题。我目前正在 Codecademy 上学习完整的堆栈开发课程，并且已经学习了课程的 React 部分。  我的主要目标是进行自由 Web 开发，同时还构建小型（微型）SaaS 项目。我并不急于开始，我目前在另一个行业有一份工作，最终想转向网络开发。  我知道 React 让你更“受雇”。到一家公司，但我真的不想尝试被一家公司雇用（即使现在几乎不可能），并且更喜欢自由职业的想法。我的想法是在一段时间内培养我的技能，从基本/初学者的想法开始构建一些项目，并开始慢慢建立小企业客户的渠道。我一直在搞乱的唯一非普通的 javascript 东西是 Astro，我发现它非常简单且使用起来很有趣。最终，当 Astro 的边界被拉伸或不足以满足我正在构建的项目时，我想看看像 Svelte Kit 这样的东西。 我的主要问题是，因为我真的对 React 不感兴趣，是无论如何，值得学习它的基础知识吗？它看起来是如此专有，而且似乎也针对大公司的大型项目，我担心我可能会在学习它时浪费时间。某些概念是否适用于所有 javascript 框架？我知道 Svelte 相对于 React、Vue 等来说是独一无二的，它的工作方式看起来更简单，对我来说更有吸引力。我只是不认为 React 与我的具体目标非常相关，但如果我跳过课程的这一部分，我是否会搬起石头砸自己的脚？  ​   由   提交 /u/ApeWithAKnife   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1au9r7g/react_for_my_learning_situation/</guid>
+      <pubDate>Mon, 19 Feb 2024 00:29:40 GMT</pubDate>
+    </item>
     <item>
       <title>V8到底是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1au8hiv/what_actually_is_v8/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[       大家好，有人可以检查并告诉我我在 Cloudflare 上所做的一切是否正确吗？我有一个域名，并且名称服务器指向 Cloudflare。 从那里，我使用“A”记录将域指向服务器的 IP。 我还对 www 使用 CNAME（我将 www 重定向到服务器的非 www 版本） 我还有另一个“A”记录未通过 Cloudflare 代理，以便我可以通过同一服务器接收电子邮件。 该服务器是使用 cPanel 设置的，我在其中创建了电子邮件并使用它已有一年多了。  参见下面的屏幕截图： https://preview.redd.it/2zaa2saj9ejc1.jpg?width=1313&amp;format=pjpg&amp;auto=webp&amp;s=a4a54306a164d2398247066ca10fba01ce3a792 4 这个设置正确吗？&lt; br /&gt; 我知道我的 IP 是通过邮件记录暴露的。 我还能如何设置呢？  如果有更适合此问题的 Reddit 子版块，请告诉我。 谢谢   由   提交 /u/vskand   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1au2ans/cloudflare_setup_check/</guid>
       <pubDate>Sun, 18 Feb 2024 19:23:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>GetTrumpSneakers.com - 像这样的网站要花多少钱？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1au1wf8/gettrumpsneakerscom_how_much_would_a_website_like/</link>
-      <description><![CDATA[我不是该领域的专家，但对我来说看起来只是一个简单的模板。 我认为在我的国家这将花费大约 200 美元。 如果开发者在不同的网站上使用该模板，可能会更便宜，就像特朗普 NFT 卡等其他一些网站的情况一样。 我对此没有任何反对。我什至同意，如果它能完成工作，并且是一个响应式网站，那就没问题了。 我只是想知道像这样的网站在美国要花多少钱？ 谢谢。   由   提交/u/yoo420blazeit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1au1wf8/gettrumpsneakerscom_how_much_would_a_website_like/</guid>
-      <pubDate>Sun, 18 Feb 2024 19:07:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么方法可以将 API 中的图像保存到我自己的数据库中吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1au1oxc/any_way_to_save_images_from_api_into_my_own/</link>
-      <description><![CDATA[我正在使用免费的公共 API，您可以根据图像的 URL + 标识符访问图像。有什么方法可以开始将实际图像保存到我自己的数据库中，以便我可以自己管理和提供图像？  就像用户查询 API 时一样，我会抓取与其查询相关的图像并将其存储在我的存储桶中，因此下次使用它时，它将来自我的存储桶。因此，当用户使用该应用程序时，我正在慢慢建立自己的图像存储。   由   提交/u/Commercial-Map-1333   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1au1oxc/any_way_to_save_images_from_api_into_my_own/</guid>
-      <pubDate>Sun, 18 Feb 2024 18:59:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>流行的（众所周知的）Web 应用程序现在是移动应用程序吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1au0pdm/popular_well_known_webapps_that_are_now_mobile/</link>
-      <description><![CDATA[有没有流行的网络应用，现在的移动应用是用HTML、CSS 和 JavaScript？    由   提交/u/beginningofdayz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1au0pdm/popular_well_known_webapps_that_are_now_mobile/</guid>
-      <pubDate>Sun, 18 Feb 2024 18:18:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何将您的设计交付给客户？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1atzvh6/how_do_you_deliver_your_design_to_a_client/</link>
-      <description><![CDATA[嗨， 我刚开始在付费环境中为其他人构建网站，所以如果我正在考虑这是错误的方式。  我被要求为经营一家媒体咨询机构的当地客户设计和构建一个网站。简单的东西，大概2-3页。我过去构建过许多网站，主要使用 Next.js（也尝试过使用 Framer 进行设计/构建），但我不太确定向他们提供网站的标准是什么。  我真的不希望他们不断地要求我更新他们网站上的信息（因为我是一名大学生，这些电子邮件的涌入可能非常耗时）。交付此内容的标准方式是什么？我需要在 Wix 或其他东西上构建它吗？我应该直接问他们吗？ 请告诉我 - 谢谢！   由   提交/u/HarvardUSimp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1atzvh6/how_do_you_deliver_your_design_to_a_client/</guid>
-      <pubDate>Sun, 18 Feb 2024 17:44:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求一些部署全栈应用程序的帮助:(</title>
-      <link>https://www.reddit.com/r/webdev/comments/1atzn37/looking_for_some_help_deploying_fullstack_app/</link>
-      <description><![CDATA[大家好！ 我在决定如何部署一个非常小的网页时遇到一些问题！ 我想让这篇文章简短一些。我是一名具有 JS 经验的前端开发人员，一位朋友向我寻求网站方面的帮助。这只是一个网站，展示他的新实体店的一些促销活动。他希望能够逐月更改此促销活动。没有付款过程、购买过程，只是展示产品。当然，还可以展示过去的促销活动。就像一个标准的博客网页。 我想过一个非常小的全栈应用程序，使用 React + Node + DB（mongo 或 mysql，可以是任何东西） 问题是我真的不知道不知道如何部署这一切。在 GoDaddy 或 Hostinger 等普通托管中使用 Node 似乎有点困难。我看到一些有关 WordPress 的无头 CMS 的内容，但它说您需要两个域？据说AWS很贵。一个普通的 WordPress 就足够了？ Digital Ocean 看起来是一个不错的选择（每月 4 美元），但不确定它是否是我所需要的。如果有人能给我更多关于这方面的信息，我将非常感激！太感谢了！    由   提交/u/NayT-37  /u/NayT-37  reddit.com/r/webdev/comments/1atzn37/looking_for_some_help_deploying_fullstack_app/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1atzn37/looking_for_some_help_deploying_fullstack_app/</guid>
-      <pubDate>Sun, 18 Feb 2024 17:35:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>请提出建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1atziqd/suggestion_please/</link>
-      <description><![CDATA[请提出建议 我正在开发一个基于网络的库存管理系统 CRM。它确实有：- 1 仪表板 2 项目 Crud 3 传入订单部分 4 传出订单部分 5 供应商和客户 Crud 6 向用户分配角色的部分 7 导入和导出 Excel 8 传出部分还包括发票，它确实创建了一个 pdf。 请给我建议这些东西是否足以让我开始做生意。您对此的想法对我来说非常有价值。   由   提交/u/Aakash_-16   /u/Aakash_-16 reddit.com/r/webdev/comments/1atziqd/suggestion_please/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1atziqd/suggestion_please/</guid>
-      <pubDate>Sun, 18 Feb 2024 17:30:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
