@@ -4,88 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 19 Feb 2024 12:05:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 15:05:19 GMT</lastBuildDate>
     <item>
-      <title>标题：告诉 HN：很难将 Chrome 中的默认搜索引擎更改为 DuckDuckGo</title>
-      <link>https://t.me/hn_summary/74946</link>
-      <description><![CDATA[告诉 HN：很难将 Chrome 中的默认搜索引擎更改为 DuckDuckGo&lt; /a&gt;
-标题：告诉 HN：很难将 Chrome 中的默认搜索引擎更改为 DuckDuckGo
-
-正在努力将 Chrome 的默认搜索引擎切换为 DuckDuckGo？尽管做出了努力，但该选项在下拉菜单中不可用。即使将搜索 URL 复制到“站点搜索”也不起作用。谷歌关于如何做出改变的搜索结果已经过时，让用户感到沮丧。这个问题，特别是在安装了普通 Chrome 的 Ubuntu LTS 上，表明 Google 正在推动用户坚持使用他们的搜索引擎。在不安装扩展程序或不使用浏览器的情况下切换到 DuckDuckGo 仍然是一个挑战。]]></description>
-      <guid>https://t.me/hn_summary/74946</guid>
-      <pubDate>Mon, 19 Feb 2024 12:05:32 GMT</pubDate>
+      <title>[媒体]Google 的 Go 语言在 Tiobe 语言流行中的地位飙升至历史最高位置 [...]</title>
+      <link>https://t.me/hn_summary/74973</link>
+      <description><![CDATA[Go 语言在 Tiobe 指数中名列前茅
+谷歌的 Go 语言在 Tiobe 语言流行度指数中飙升至历史最高位置，目前排名第八。 Go 在 2009 年发布后最初受到欢迎，但在 2015 年经历了下滑，之后通过定期更新卷土重来。 Go 因其在 Docker 和 Kubernetes 中的使用而闻名，现在广泛应用于后端编程、Web 服务和 API。最近发布的 Go 1.22 包括对 for 循环的更改。此外，定位为C++继承者的谷歌Carbon语言首次进入前100名。 Go 的未来一片光明，预计将长期保持在前 10 名的位置。]]></description>
+      <guid>https://t.me/hn_summary/74973</guid>
+      <pubDate>Mon, 19 Feb 2024 15:05:19 GMT</pubDate>
     </item>
     <item>
-      <title>山体滑坡领域的权威专家戴夫·佩特利 (Dave Petley) 分享了 2 月 13 日的第一张卫星图像，[...]</title>
-      <link>https://t.me/hn_summary/74945</link>
-      <description><![CDATA[2024 年 2 月 13 日乔普勒矿山体滑坡的第一张卫星图像在土耳其
-山体滑坡领域的权威专家戴夫·佩特利 (Dave Petley) 分享了 2024 年 2 月 13 日土耳其乔普勒矿发生山体滑坡的首张卫星图像。来自卡佩拉太空的雷达图像在社交媒体上引发了争论，一些人质疑这是否是一场山体滑坡。托尔加·戈鲁姆（Tolga Gorum）正确地识别出山体滑坡向两个方向移动，大部分碎片进入山谷，一些进入主坑。寻找失踪员工的工作仍在继续，估计有 3500 万立方米的废物需要转移。该矿的许可证已被终止，并已逮捕了一些人，这表明在失败之前疏忽了对活动迹象的监测。山体滑坡的触发因素尚不清楚，爆破可能是一个因素。预计山体滑坡造成的损失将是巨大的，凸显了矿场正确建设和运营的重要性。]]></description>
-      <guid>https://t.me/hn_summary/74945</guid>
-      <pubDate>Mon, 19 Feb 2024 12:01:28 GMT</pubDate>
+      <title>作者分享了他们戒掉咖啡因的个人经历以及他们[...]</title>
+      <link>https://t.me/hn_summary/74972</link>
+      <description><![CDATA[针对咖啡因的案例
+作者分享了他们戒掉咖啡因的个人经历，以及他们所经历的令人惊讶的好处，包括提高工作效率、减少焦虑和改善睡眠。他们提供了来自 r/decaf Reddit 子版块的见解，并深入研究了咖啡因对身体影响背后的科学，强调了个体差异如何发挥关键作用。作者挑战了咖啡因消费的标准叙述，并鼓励读者考虑不摄入咖啡因的潜在好处。争议性的方面是作者对传统生产力研究的摒弃，而强调个人经验。令人惊讶的是作者意识到没有咖啡因生活可能会更好。]]></description>
+      <guid>https://t.me/hn_summary/74972</guid>
+      <pubDate>Mon, 19 Feb 2024 15:01:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]GlobalFoundries 将获得高达 31 亿美元的联邦拨款和贷款 [...]</title>
-      <link>https://t.me/hn_summary/74944</link>
-      <description><![CDATA[GlobalFoundries 赢得纽约州、佛蒙特州 CHIPS 法案 3.1B 美元补贴
-GlobalFoundries 将获得高达 31 亿美元的联邦拨款和贷款，用于扩建其位于纽约州北部的芯片工厂，并对佛蒙特州的一家工厂进行现代化改造。这笔巨额补贴是迄今为止 520 亿美元《CHIPS 和科学法案》下最大的一笔补贴。此次扩建预计将创造数千个新就业岗位，并确保对国家安全至关重要的芯片的稳定供应。该交易为与美光科技等其他半导体公司达成类似协议奠定了基础。 《CHIPS 法案》旨在促进国内芯片生产，并将美国打造为全球半导体制造中心。]]></description>
-      <guid>https://t.me/hn_summary/74944</guid>
-      <pubDate>Mon, 19 Feb 2024 11:57:23 GMT</pubDate>
+      <title>[媒体]间歇性禁食 (IF) 对脑源性神经营养因子 (BD [...]</title>
+      <link>https://t.me/hn_summary/74971</link>
+      <description><![CDATA[间歇性禁食对 BDNF 水平和认知功能有不同的影响
+间歇性禁食（IF）对脑源性神经营养因子（BDNF）水平和认知功能有不同的影响。 BDNF 在认知功能、新陈代谢和能量稳态中发挥着至关重要的作用。 IF 已被证明可以通过刺激 BDNF 的产生来改善认知能力和代谢健康。然而，研究结果相互矛盾，一些研究显示 BDNF 水平增加，而另一些研究显示 BDNF 水平下降。研究的质量评估揭示了可能影响结果解释的偏差。了解 IF、BDNF 和认知健康之间的相互作用可能会为促进认知健康和潜在缓解与年龄相关的认知衰退带来令人兴奋的途径。 （根据故事文本的 60% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/74971</guid>
+      <pubDate>Mon, 19 Feb 2024 14:57:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] PostgreSQL 中的 PRQL 是一个 PostgreSQL 扩展，允许用户使用 [...] 编写函数</title>
-      <link>https://t.me/hn_summary/74943</link>
-      <description><![CDATA[在 PostgreSQL 中显示 HN：PRQL
-PostgreSQL 中的 PRQL 是 PostgreSQL 的扩展，允许用户使用 PRQL 编写函数，PRQL 是一种编译为 SQL 的查询语言，并引入了数据转换的管道概念。此扩展对于管理长而复杂的 SQL 查询的复杂性非常有用，使数据操作逻辑更易于读写。主要功能包括使用 PRQL 编写函数、用于开发和调试的 PRQL 编译器以及 ORM 中原型设计和自定义查询的内联执行。与传统 SQL 查询相比，该项目通过提供独特的数据操作和分析方法而脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/74943</guid>
-      <pubDate>Mon, 19 Feb 2024 11:53:19 GMT</pubDate>
+      <title>[媒体]大约一年前，OpenAI 在围绕其人工智能产品的炒作浪潮中如日中天 [...]</title>
+      <link>https://t.me/hn_summary/74970</link>
+      <description><![CDATA[我们不要再这样做了
+大约一年前，OpenAI 掀起了围绕其人工智能产品的炒作浪潮，ChatGPT 测试表现出色，人工智能生成的图像充斥社交媒体。首席执行官萨姆·奥尔特曼 (Sam Altman) 成为全球名人，在大肆投资的同时警告人工智能的危险。然而，随着 OpenAI 推出视频创作人工智能 Sora，人们开始担心该技术对创意劳动和环境的影响。报告显示，ChatGPT 的受欢迎程度正在下降，OpenAI 正在争夺一种收入模式。虽然 Sora 的视频可能看起来令人印象深刻，但它们更多的是关于自动化而不是真正的人工智能，引发了人们对公司动机和创意工作未来的疑问。我们不要再陷入炒作之中。]]></description>
+      <guid>https://t.me/hn_summary/74970</guid>
+      <pubDate>Mon, 19 Feb 2024 14:53:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] CodeRev.app 提供了一种通过代码 revi 评估技术候选人的新方法 [...]</title>
-      <link>https://t.me/hn_summary/74942</link>
-      <description><![CDATA[显示 HN：CodeRev.app – 代码审查面试
-CodeRev.app 提供了一种通过代码审查来评估技术候选人的新方法作为面试过程。这种方法可以更好地理解候选人如何与代码交互，反映日常的工程职责。它是开放式的、协作性的，很难与生成式人工智能博弈，可以更准确地反映候选人的推理和沟通技巧。该工具易于设置、隔离，并且专注于分析和反馈而不是算法复杂性。它对于涉及阅读和评估代码的角色（例如经理或技术支持）特别有益。该堆栈包括 Nuxt3 (Vue.js) + Quasar Framework + Google Cloud Firebase。]]></description>
-      <guid>https://t.me/hn_summary/74942</guid>
-      <pubDate>Mon, 19 Feb 2024 11:49:14 GMT</pubDate>
+      <title>阿斯利康（AstraZeneca）在肺癌治疗方面取得了重大进展，并取得了令人鼓舞的结果 [...]</title>
+      <link>https://t.me/hn_summary/74969</link>
+      <description><![CDATA[阿斯利康在肺癌治疗方面取得成功
+阿斯利康在肺癌治疗方面取得了重大进展，其令人鼓舞的结果正在改变癌症治疗的格局。他们的创新方法取得了显着的成功率，为患者和医疗保健专业人员带来了希望。在有限的时间内，您可以节省高达 40% 的标准数字访问费用，以随时了解癌症治疗的最新进展。不要错过这项在任何设备上获取优质新闻的重要优惠。立即订阅，在对抗肺癌的斗争中保持领先地位。]]></description>
+      <guid>https://t.me/hn_summary/74969</guid>
+      <pubDate>Mon, 19 Feb 2024 14:49:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 苹果因涉嫌限制访问而面临欧盟 5 亿欧元的潜在罚款 [...]</title>
-      <link>https://t.me/hn_summary/74941</link>
-      <description><![CDATA[据报道苹果面临欧盟 5 亿欧元的罚款
-苹果可能面临欧盟 5 亿欧元的罚款，原因是其涉嫌限制音乐流媒体服务的访问，并阻止公司向用户告知其应用商店之外更便宜的订阅选项。欧盟委员会正在调查苹果对应用程序商店中的所有购买收取 30% 的费用是否具有反竞争性，Spotify 于 2019 年提出了投诉。苹果辩称，该费用对于维护安全平台来说是合理的，但 Spotify 声称它为 Apple Music 提供了不公平的优势。此案突显了苹果和谷歌等大型科技公司对欧盟竞争问题的持续审查。]]></description>
-      <guid>https://t.me/hn_summary/74941</guid>
-      <pubDate>Mon, 19 Feb 2024 11:45:10 GMT</pubDate>
+      <title>由于周五早上的服务中断，我们经历了一次安全事件，导致一些[...]</title>
+      <link>https://t.me/hn_summary/74968</link>
+      <description><![CDATA[24/24 Wyze 安全事件更新&lt; br/&gt;
+亲爱的 Wyze 朋友们，
+由于周五早上的服务中断，我们遇到了安全事件，导致一些用户看到不正确的缩略图和活动视频。大约 13,000 名用户收到了来自非自己相机的缩略图，但只有 1,504 名用户点击了这些缩略图。其他人看不到您的缩略图。这是由第三方缓存客户端库在前所未有的负载条件下造成的。我们已经实施了新的验证措施，以防止将来出现这种情况。我们对此次违规行为表示歉意，并致力于改进我们的安全措施。如有任何与帐户相关的问题，请访问 support.wyze.com 。 
+威兹团队]]></description>
+      <guid>https://t.me/hn_summary/74968</guid>
+      <pubDate>Mon, 19 Feb 2024 14:44:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在旧金山的露天毒品市场，糖果的销售速度比芬太尼还要快。</title>
-      <link>https://t.me/hn_summary/74940</link>
-      <description><![CDATA[旧金山露天毒品市场上糖果的销售速度比芬太尼快&lt; /a&gt;
-在旧金山的露天毒品市场，糖果的销售速度比芬太尼快。克里斯是一名供应商，由于竞争对手以更便宜的价格出售糖果，他很难盈利。尽管面临挑战，克里斯多年来一直从事糖果行业，甚至在无家可归时找到过期的巧克力来维持自己的生活。他相信糖果可以通过提升大脑的快乐中枢来帮助那些吸食阿片类药物的人。有争议的方面是糖果和芬太尼销售之间的比较，突显了该地区吸毒的普遍性。克里斯的经验和对市场的洞察使本书成为一本独特且令人大开眼界的读物。]]></description>
-      <guid>https://t.me/hn_summary/74940</guid>
-      <pubDate>Mon, 19 Feb 2024 11:41:06 GMT</pubDate>
+      <title>[媒体]如果公共住房适合所有人怎么办？</title>
+      <link>https://t.me/hn_summary/74967</link>
+      <description><![CDATA[如果公共住房适合所有人会怎样？
+受维也纳、芬兰和新加坡成功模式的启发，面向所有收入水平的公有住房的概念正在悄然发生革命，在美国越来越受欢迎。马里兰州蒙哥马利县以其创新的社会住房方法处于领先地位，吸引了亚特兰大和波士顿等城市的兴趣。通过利用公共资金并提供优惠的融资条件，这些项目正在重塑住房格局。然而，这种模式能否真正满足低收入人群的需求仍然存在疑问。尽管存在一些争议，但像 The Laureate 这样的项目的成功凸显了混合收入住房为住房危机提供长期解决方案的潜力。 （根据 90% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/74967</guid>
+      <pubDate>Mon, 19 Feb 2024 14:40:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]软银的孙正义计划为新人工智能项目“Project Izanagi”筹集 1000 亿美元 [...]</title>
-      <link>https://t.me/hn_summary/74939</link>
-      <description><![CDATA[Project Izanagi：软银的孙正义计划投资 100B 美元的人工智能芯片企业
-软银的孙正义计划为 Project Izanagi 筹集 1000 亿美元，这是一家可以与 Nvidia 竞争的新人工智能芯片企业。该项目以日本创世之神命名，目前仍处于早期阶段，软银持有 90% 股份的 Izanagi 与 Arm 之间的确切关系尚未确定。孙正义以快速决策而闻名，长期以来一直是通用人工智能的支持者，并且有着雄心勃勃的投资历史。尽管软银愿景基金遭遇挫折，孙正义最近在 Arm 方面取得的成功帮助增强了该公司的财务状况。与 OpenAI 首席执行官 Sam Altman 在半导体制造方面的潜在合作为软银的未来计划增添了有趣的转折。]]></description>
-      <guid>https://t.me/hn_summary/74939</guid>
-      <pubDate>Mon, 19 Feb 2024 11:37:02 GMT</pubDate>
+      <title>[媒体]摄影师在什罗普希尔捕捉到了带有彩虹翅膀的英国鸟类的令人惊叹的照片[...]</title>
+      <link>https://t.me/hn_summary/74966</link>
+      <description><![CDATA[英国鸟类在什罗普郡拍摄到彩虹翅膀
+摄影师在什罗普郡拍摄了带有彩虹翅膀的英国鸟类的令人惊叹的照片，这一壮举需要完美的时机和照明条件。摄影师利用先进的相机技术在早晨 15 分钟的短暂时间内在光线下拍摄，以达到令人着迷的效果。这些图像展示了光线以正确的角度照射鸟类时的“转变行为”，创造出独特而非凡的景象。摄影师形容这个过程非常困难，但最终还是有回报的，突出了每张照片中捕捉到的自然之美和复杂性。]]></description>
+      <guid>https://t.me/hn_summary/74966</guid>
+      <pubDate>Mon, 19 Feb 2024 14:34:44 GMT</pubDate>
     </item>
     <item>
-      <title>在 www.dantleech.com 上的“我的 PHP 问题”中，作者分享了他们对某些 [...]</title>
-      <link>https://t.me/hn_summary/74938</link>
-      <description><![CDATA[我的 PHP 问题
-在 www.dantleech.com 上的“我的 PHP 问题”中，作者分享了他们对 PHP 开发的某些方面的挫败感。他们讨论了构造函数、注释与属性、嵌套属性以及序列化/反序列化的问题。作者探讨了潜在的解决方案和替代方案，强调了他们遇到的复杂性和烦恼。他们还提到了 Valinor 和 Serde 等旨在简化这些流程的工具。作者对他们的挣扎和提出的解决方案进行了坦诚的讨论，为了解 PHP 开发的挑战提供了见解。 （根据 59% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/74938</guid>
-      <pubDate>Mon, 19 Feb 2024 11:32:58 GMT</pubDate>
+      <title>[媒体]GCC 14 版本系列带来了支持新标准和提高性能的更改。</title>
+      <link>https://t.me/hn_summary/74965</link>
+      <description><![CDATA[移植到 GCC 14：C 语言问题
+GCC 14 版本系列带来了支持新标准和提高性能的更改。某些警告现在是错误，例如隐式 int 类型和函数声明。删除对旧 C 语言功能的支持可能会在移植到 GCC 14 时导致问题。函数原型中的拼写错误和不正确的返回语句用法现在被视为错误。指针类型转换和类型检查也已更新。这些更改旨在为程序员提供更清晰的反馈并提高代码质量。移植到 GCC 14 可能需要更新上游版本的源文件并解决历史上的 C 兼容性问题。 （根据故事文本的 65% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/74965</guid>
+      <pubDate>Mon, 19 Feb 2024 14:24:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇文章中，我分享了我在算法中解决数学问题的独特方法[...]</title>
-      <link>https://t.me/hn_summary/74937</link>
-      <description><![CDATA[数学能力差的计算机科学家如何思考&lt; br/&gt;
-在这篇文章中，我分享了我在算法课上解决数学问题的独特方法，尽管我的数学技能很差。我意识到，要根据 2 的幂计算程序运行时的上限，我可以简单地计算 1 到 n 范围内的 2 的幂数。通过使用数字的对数来确定它是否是整数（表示 2 的幂），我能够创建一个简单的公式来迭代数字并仅计算 2 的幂。这种非常规的方法展示了即使数学能力较差的计算机科学家仍然可以创造性地思考并有效地解决问题。]]></description>
-      <guid>https://t.me/hn_summary/74937</guid>
-      <pubDate>Mon, 19 Feb 2024 11:28:54 GMT</pubDate>
+      <title>htmz 是一个极简 HTML 微框架，允许用户创建模块化 Web 用户界面 [...]</title>
+      <link>https://t.me/hn_summary/74964</link>
+      <description><![CDATA[显示 HN：htmz – 低功耗 HTML 工具
+htmz 是一个极简 HTML 微框架，允许用户使用纯 HTML 创建模块化 Web 用户界面。它非常轻量，总共只有 181 字节并且零依赖。该工具使用户能够将页面片段与服务器上的 HTML 交换，单击链接时仅更新页面的相关部分。受各种 Web 应用程序架构的启发，htmz 简化了在页面上任何元素中加载 HTML 资源的过程，提供了 HTML 框架概念的现代呈现。该工具是可扩展的，允许用户根据自己的需要定制和增强其功能。 （根据 66% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/74964</guid>
+      <pubDate>Mon, 19 Feb 2024 13:53:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
