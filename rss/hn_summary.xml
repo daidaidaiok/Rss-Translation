@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 20 Feb 2024 12:07:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 18:02:46 GMT</lastBuildDate>
     <item>
-      <title>前端框架毁掉了网络吗？</title>
-      <link>https://t.me/hn_summary/75124</link>
-      <description><![CDATA[前端框架摧毁了网络吗？
-前端框架确实对网络产生了不利影响，许多开发人员忽视了站点地图和正确标签使用等基本元素。对 React 等框架的依赖导致了元标记和性能问题，以及对 Google Search Console 等工具缺乏了解。虽然 WordPress 为初创公司提供了快速且经济高效的解决方案，但它也存在安全风险和可扩展性限制。然而，随着开发人员和框架正在努力解决这些问题，还是有希望的。最终，技术的选择应该与项目的目标保持一致，WordPress 对于某些场景来说是一个可行的选择。]]></description>
-      <guid>https://t.me/hn_summary/75124</guid>
-      <pubDate>Tue, 20 Feb 2024 12:07:41 GMT</pubDate>
+      <title>[媒体] GOV.UK 更新了其皇冠标志，以反映国王查理三世陛下的皇家 Cyph [...]</title>
+      <link>https://t.me/hn_summary/75195</link>
+      <description><![CDATA[更新 GOV.UK 的皇冠
+GOV.UK 已更新其皇冠徽标以反映查尔斯国王陛下III 的皇家密码，带有都铎王冠。这一变化是跨政府努力更新国家象征的一部分。新王冠经过精心设计，旨在补充 GOV.UK 视觉形象并正在政府网站上推广。分阶段实施从主页和站点范围的菜单栏开始。各部门必须在 3 月 1 日之前做出必要的改变。 GOV.UK 设计系统使服务可以轻松更新皇冠始终如一。新冠现已在 GOV.UK 主页和其他网站上发布域名。]]></description>
+      <guid>https://t.me/hn_summary/75195</guid>
+      <pubDate>Tue, 20 Feb 2024 18:02:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]摘要：作者详细介绍了他们从 FDA 510k 数据库中清理数据的经验 [...]</title>
-      <link>https://t.me/hn_summary/75123</link>
-      <description><![CDATA[使用用户脚本向已有 24 年历史的政府网站添加键盘快捷键
-摘要：作者详细介绍了他们在一个有 24 年历史的政府网站上从 FDA 510k 数据库中清理数据的经验。它们强调了网站过时的外观和数据输入过程的低效率。为了简化工作流程，他们使用 ViolentMonkey 的用户脚本为打开搜索页面、关注搜索输入和复制设备 ID 号等任务添加键盘快捷键。作者解释了编写这些快捷方式的过程，并最后推荐了用于自动执行网站上重复任务的用户脚本，最终节省了时间并提高了工作流程效率。]]></description>
-      <guid>https://t.me/hn_summary/75123</guid>
-      <pubDate>Tue, 20 Feb 2024 11:53:32 GMT</pubDate>
+      <title>询问 HN：您如何找到 Gemini Ultra？</title>
+      <link>https://t.me/hn_summary/75194</link>
+      <description><![CDATA[询问 HN：您如何找到 Gemini Ultra？ 
+您是否正在考虑订阅 Gemini Ultra，但不确定与 GPT-4 相比是否值得？加入用户所在的 news.ycombinator.com 上的讨论分享他们在编程、常规查找、数学等各个类别的经验和轶事。与其他人工智能工具相比，发现有关 Gemini Ultra 的有效性和价值的独特见解和意见。不要错过这场激烈的辩论，并更好地了解用户如何找到 Gemini Ultra。]]></description>
+      <guid>https://t.me/hn_summary/75194</guid>
+      <pubDate>Tue, 20 Feb 2024 18:01:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]剑桥大学和 OpenAI 的研究人员提议监管 AI ha [...]</title>
-      <link>https://t.me/hn_summary/75122</link>
-      <description><![CDATA[科学家提议监管人工智能硬件
-剑桥大学和 OpenAI 的研究人员提议监管人工智能硬件，以防止其滥用。通过在硬件中实施远程终止开关和锁定，政策制定者可以更好地控制基础设施并防止未经授权访问强大的人工智能模型。这种方法类似于监管核武器，旨在解决控制人工智能开发的挑战，因为人工智能一旦发布就很容易传播。虽然存在争议，但该提案建议对人工智能芯片销售进行全球登记，并在芯片中包含终止开关以防止恶意应用程序。该论文承认，硬件监管本身并不是一个完整的解决方案，但可能是防止人工智能滥用的关键一步。]]></description>
-      <guid>https://t.me/hn_summary/75122</guid>
-      <pubDate>Tue, 20 Feb 2024 11:43:22 GMT</pubDate>
+      <title>[媒体] 读心设备，称为脑机接口 (BCI)，正在彻底改变 [...]</title>
+      <link>https://t.me/hn_summary/75193</link>
+      <description><![CDATA[读心设备正在揭示大脑的秘密&lt; br/&gt;
+读心设备，即脑机接口（BCI），正在彻底改变瘫痪患者与世界互动的方式。这些设备仅由思想驱动，捕捉神经活动来控制假肢、说话的化身等等。除了恢复功能之外，脑机接口还为研究人员提供了了解大脑组织的独特窗口，挑战了有关大脑解剖学的传统假设。令人惊讶的发现包括发现大脑区域之间的模糊界限以及大脑适应和重新连接自身的能力。脑机接口不仅改善了瘫痪患者的生活，还提供了对大脑内部运作的宝贵见解。 （根据 85% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75193</guid>
+      <pubDate>Tue, 20 Feb 2024 17:59:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在最近的一份声明中，FreeBSD 正在逐步取消 upcom 中对 32 位平台的支持 [...]</title>
-      <link>https://t.me/hn_summary/75121</link>
-      <description><![CDATA[FreeBSD 中 32 位平台支持的未来&lt; br/&gt;
-在最近的一份声明中，FreeBSD 将在即将发布的版本中逐步取消对 32 位平台的支持。 FreeBSD 15.0 中将不包含armv6、i386 和powerpc 平台，FreeBSD 16.0 中将排除armv7。虽然对在 64 位内核上运行 32 位二进制文​​件的支持仍然存在，但由于市场份额下降和开发人员资源有限，重点将转向 64 位系统。这一决定反映了 FreeBSD 致力于为现代架构提供稳定高效的操作系统的承诺。有关更多信息，请参阅 FreeBSD 14.0 的发行说明。]]></description>
-      <guid>https://t.me/hn_summary/75121</guid>
-      <pubDate>Tue, 20 Feb 2024 11:38:16 GMT</pubDate>
+      <title>[媒体]金属价格飙升。</title>
+      <link>https://t.me/hn_summary/75192</link>
+      <description><![CDATA[金属价格飙升。金属盗窃也是如此
+随着大宗商品价格飙升，金属盗窃案呈上升趋势，窃贼的目标从排水沟盖到数英里长的铜缆等各种物品。这些盗窃造成的破坏往往与被盗材料的价值不成比例。历史学家认为，金属盗窃并不是一个新现象，古代盗贼甚至从埃及法老图坦卡蒙的坟墓中偷走了金属剃须刀片。最近发生的事件包括金属窃贼使德国铁路系统瘫痪，以及偷窃印度一条主要高速公路上长达 1 公里的金属围栏。金属盗窃对基础设施和社会的影响日益严重，让受害者不知道如何制止。]]></description>
+      <guid>https://t.me/hn_summary/75192</guid>
+      <pubDate>Tue, 20 Feb 2024 17:55:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 举石礼仪对于参与这项小众活动的人来说至关重要。</title>
-      <link>https://t.me/hn_summary/75120</link>
-      <description><![CDATA[提石礼仪
-举石礼仪对于参与这项利基活动的人来说至关重要。它结合了健身礼仪和登山礼仪的元素，强调对石头及其所在土地的责任和尊重。在尝试抬起石头之前，必须研究石头背后的历史和文化，并获得石头守护者的许可。严禁使用粘性物质，石头掉落可能会造成严重后果。将石头放回原来的位置也很重要，教导他人正确的礼仪也很重要。归根结底，尊重是提石礼仪的关键词。]]></description>
-      <guid>https://t.me/hn_summary/75120</guid>
-      <pubDate>Tue, 20 Feb 2024 11:27:09 GMT</pubDate>
+      <title>[媒体] 标题：Show HN：一个简单的 HEIC 到 PDF 转换器</title>
+      <link>https://t.me/hn_summary/75191</link>
+      <description><![CDATA[展示 HN：一个简单的 HEIC 到 PDF 转换器&lt; br/&gt;
+标题：Show HN：一个简单的 HEIC 到 PDF 转换器
+
+HEIC to PDF Converter 是一款免费的在线工具，可让用户轻松将 HEIC 图像转换为 PDF 格式。 HEIC 是 Apple 在 iOS 11 中引入的一种高效文件格式，可以在压缩照片的同时保持图像质量。该转换器可确保转换后的 PDF 文件的质量反映原始 HEIC 文件，使其适合专业用途。该工具使用安全，可以加密文件传输并自动删除上传的文件以保护隐私。用户可以将多个 HEIC 文件转换为单个 PDF 文档，使共享和打印变得轻松。]]></description>
+      <guid>https://t.me/hn_summary/75191</guid>
+      <pubDate>Tue, 20 Feb 2024 17:47:19 GMT</pubDate>
     </item>
     <item>
-      <title>Z 世代对待雇主就像对待糟糕的约会一样，93% 的人在面试中重蹈覆辙，87% 的人没有在面试中露面 [...]</title>
-      <link>https://t.me/hn_summary/75119</link>
-      <description><![CDATA[Z 世代对待雇主就像对待糟糕的约会一样 93% 的幽灵面试 87% 不这样做不上班
-Z 世代对待雇主就像对待糟糕的约会一样，93% 的人在面试中重蹈覆辙，87% 的人没有去上班。这种行为使得企业招聘变得更加困难，超过一半的企业报告面临挑战。虽然 Z 世代是罪魁祸首，但其他几代人也犯了重影罪。令人惊讶的是，一些公司还隐瞒候选人，导致人们相信这是公平的游戏。为了防止重影，更高的工资和更好的福利是关键。由于年轻工人难以负担与工作相关的费用，生活成本危机正在加剧“鬼魂”现象。最终，财务报价的透明度有助于防止招聘过程中的重影。]]></description>
-      <guid>https://t.me/hn_summary/75119</guid>
-      <pubDate>Tue, 20 Feb 2024 11:13:30 GMT</pubDate>
+      <title>[媒体] 介绍 uiloos，一个无头组件库，可简化 v 中的 DOM 操作 [...]</title>
+      <link>https://t.me/hn_summary/75190</link>
+      <description><![CDATA[显示 HN：uiloos 一个无头组件库
+隆重推出 uiloos，这是一个无头组件库，可简化普通 JavaScript 中的 DOM 操作。使用uiloos，您可以轻松处理ActiveList内部的更改，而不需要复杂的回调函数。该库对于使用 Vue、React 或 Angular 等框架的开发人员特别有用，因为它简化了 DOM 操作过程。告别繁琐的 DOM 操作，拥抱 uiloos，获得更流畅的开发体验。查看 www.uiloos.dev 了解更多信息并开始简化您今天的编码。]]></description>
+      <guid>https://t.me/hn_summary/75190</guid>
+      <pubDate>Tue, 20 Feb 2024 17:46:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 该项目是一个名为 Wrm 的 CLI 工具，允许用户轻松安全地删除文件 [...]</title>
-      <link>https://t.me/hn_summary/75118</link>
-      <description><![CDATA[Show HN：一个 CLI 工具，可让您轻松删除文件安全
-该项目是一个名为 Wrm 的 CLI 工具，允许用户轻松安全地删除文件或目录。它提供了将文件移动到垃圾箱目录、删除文件、从垃圾箱恢复文件、列出垃圾箱中的文件以及永久删除垃圾箱中的所有文件的命令。该工具提供非交互模式、安静模式、帮助和版本信息选项。它根据 Apache 许可证 2.0 版和 MIT 许可证获得许可。作者提到计划在未来添加自动清空功能和对多个平台的支持，使该项目与其他项目区分开来。]]></description>
-      <guid>https://t.me/hn_summary/75118</guid>
-      <pubDate>Tue, 20 Feb 2024 11:01:21 GMT</pubDate>
+      <title>[媒体] 发现你隐藏的偏见，并通过 [...] 探索你的同理心和人工智能之间的一致性</title>
+      <link>https://t.me/hn_summary/75189</link>
+      <description><![CDATA[展示 HN：通过模棱两可的句子发现你的同理心和 AI 一致性
+发现您隐藏的偏见，并通过隐藏偏见上的歧义句子探索您的同理心与人工智能之间的一致性.com。拙劣的写作可能会导致基于个人偏见和刻板印象的不同解释。回答问题，看看您的假设是否与其他人或人工智能一致。你的结果将在最后揭晓，还有来自 GPT-4、Gemini 和你自己的投票。了解您的世界观如何影响您对歧义句子的理解。]]></description>
+      <guid>https://t.me/hn_summary/75189</guid>
+      <pubDate>Tue, 20 Feb 2024 17:45:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]二十一世纪的英雄阿列克谢·纳瓦尔尼 (Alexei Navalny) 与纳坦·夏兰斯基 (Natan Sharansky) 通信，[...]</title>
-      <link>https://t.me/hn_summary/75117</link>
-      <description><![CDATA[纳瓦尔尼从古拉格给内森·夏兰斯基的信
-二十一世纪的英雄阿列克谢·纳瓦尔尼在古拉格期间与二十世纪的英雄纳坦·夏兰斯基通信。纳瓦尔尼受到夏兰斯基回忆录《无惧邪恶》的启发，给他写了两封信，展示了他们的博学、幽默和道德清晰。夏兰斯基赞扬纳瓦尔尼的勇气和影响力，敦促他保持内心的自由。这些信件充满了对历史和圣经段落的提及，强调了苏联和普京领导下的俄罗斯之间的相似之处。尽管面临挑战，两人仍然对自由盛行的未来充满希望。他们的信件证明了持不同政见者争取正义的持久精神。]]></description>
-      <guid>https://t.me/hn_summary/75117</guid>
-      <pubDate>Tue, 20 Feb 2024 11:00:16 GMT</pubDate>
+      <title>[媒体] 查看 Feedcheck.co，对超过 300 万条酒店评论进行全面分析 [...]</title>
+      <link>https://t.me/hn_summary/75188</link>
+      <description><![CDATA[显示 HN：我为酒店和餐厅基准收集了 300 万条评论&lt; /a&gt;
+请访问 Feedcheck.co，了解超过 300 万条评论的综合分析适用于美国的酒店和餐馆。根据 2024 年 2 月收集的数据了解餐厅和酒店的平均评论排名。获得有关客户满意度的宝贵见解，并根据行业标准对您自己的餐厅进行基准测试。这种数据驱动的方法提供了酒店业的独特视角，为寻求改善客户体验的企业提供了丰富的信息。探索这项广泛研究中揭示的令人惊讶的趋势和发现。]]></description>
+      <guid>https://t.me/hn_summary/75188</guid>
+      <pubDate>Tue, 20 Feb 2024 17:44:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]澳大利亚天文学家发现了宇宙中最亮的物体——类星体[...]</title>
-      <link>https://t.me/hn_summary/75116</link>
-      <description><![CDATA[天文学家发现宇宙最亮的天体
-澳大利亚天文学家发现了宇宙中最亮的物体，这是一个由迄今为止发现的增长最快的黑洞提供动力的类星体。这个天体巨人比我们的太阳亮 500 倍，每天吞噬相当于一个太阳的量。这个令人难以置信的天体发出的光经过 120 亿年到达地球。首席研究员克里斯蒂安·沃尔夫 (Christian Wolf) 将其描述为“巨大的磁力风暴单元”，温度高达 10,000 摄氏度。这一发现是利用澳大利亚 2.3 米望远镜发现的，令科学家们对发现如此极端且隐藏的自然奇迹感到敬畏和喜悦。]]></description>
-      <guid>https://t.me/hn_summary/75116</guid>
-      <pubDate>Tue, 20 Feb 2024 10:59:11 GMT</pubDate>
+      <title>[媒体]在 crypto-lake.com，我们提供非常详细的历史加密货币市场数据，我 [...]</title>
+      <link>https://t.me/hn_summary/75187</link>
+      <description><![CDATA[显示 HN：历史加密订单簿数据提供商&lt; br/&gt;
+在 crypto-lake.com，我们提供历史加密货币市场具有高细节的数据，包括 L2 深度快照、分时交易等。我们的 Python API 针对定量和机器学习目的进行了优化，提供高性能和便利性。我们通过提供每侧 20 个级别的订单簿数据的深度快照而脱颖而出，这对于精确的回测和策略至关重要。我们的订阅者已经看到了我们数据的成功，多年来我们提供了 7 种高频数据类型，涵盖 50 多个代币。加入我们，仅需 3 分钟即可推进您的研究。在 Twitter 上关注我们以获取新闻和提示，并联系我们获取特别优惠或反馈。]]></description>
+      <guid>https://t.me/hn_summary/75187</guid>
+      <pubDate>Tue, 20 Feb 2024 17:43:00 GMT</pubDate>
     </item>
     <item>
-      <title>mary.codes 上网页内容的作者正在修改一个名为 Line Buddy 的旧项目，使用 [...]</title>
-      <link>https://t.me/hn_summary/75115</link>
-      <description><![CDATA[使用 Rust 和 WebAssembly 将 OpenStreetMap 数据转换为 HTML5 Canvas 
-mary.codes 上的网页内容的作者正在修改旧的使用 OpenStreetMap 数据、Rust 和 WebAssembly 的名为 Line Buddy 的项目。他们将地图绘制到 HTML5 画布上，从简化的 2D 版本开始，然后转向 3D。由于 Rust 处理大量数据的速度，作者使用 Rust 和 WebAssembly 进行数据处理。他们建立了项目，创建了一个新的 wasm-pack 项目，构建并测试了 WASM 代码，获取地图坐标，调用 Overpass API 获取数据，并编写 Rust 代码来解析 XML 文件。作者计划使用此过程创建自己的地图。 （根据 31% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75115</guid>
-      <pubDate>Tue, 20 Feb 2024 10:58:07 GMT</pubDate>
+      <title>[媒体]Hyperdiv 是一个适用于 Python 的反应式即时模式 Web UI 框架，旨在简化 [...]</title>
+      <link>https://t.me/hn_summary/75186</link>
+      <description><![CDATA[显示 HN：Hyperdiv – 反应式即时模式 Web UI 框架Python
+Hyperdiv 是一个适用于 Python 的反应式即时模式 Web UI 框架，旨在通过内置组件、即时模式语法和最少的样板文件来简化浏览器 UI 应用程序的开发。它包括 Shoelace 组件系统、Mistune 的降价支持、图表的 Chart.js、本地存储支持和基于 Python 的表单验证逻辑等功能。 Hyperdiv 的与众不同之处在于它注重简单性和易用性，以及未来改进的路线图，例如第三方插件、分布式状态和可视化组件构建器。该项目还提供演示应用程序和文档以方便集成。]]></description>
+      <guid>https://t.me/hn_summary/75186</guid>
+      <pubDate>Tue, 20 Feb 2024 17:41:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
