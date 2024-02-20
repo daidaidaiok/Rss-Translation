@@ -4,86 +4,87 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 19 Feb 2024 21:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 00:14:20 GMT</lastBuildDate>
     <item>
-      <title>[媒体]由于加州降雨过多，死亡谷国家公园现在提供[...]</title>
-      <link>https://t.me/hn_summary/75020</link>
-      <description><![CDATA[死亡谷国家公园现在提供难得的机会 - 皮划艇
-由于加利福尼亚州降雨过多，死亡谷国家公园现在为北美海拔最低的恶水盆地提供了难得的皮划艇机会。这个临时湖，非正式地称为曼利湖，长约 6 英里，宽 3 英里，深仅 1 英尺。虽然这个浅湖可能只适合划皮划艇几周，但公园管理员相信它会在整个四月创造出美丽的倒影。我们鼓励游客遵守公园规则，以尽量减少对脆弱的沙漠环境的影响。此外，公园还将举办一年一度的死亡谷黑暗天空节，以供观赏史诗般的星空。]]></description>
-      <guid>https://t.me/hn_summary/75020</guid>
-      <pubDate>Mon, 19 Feb 2024 21:05:30 GMT</pubDate>
+      <title>[媒体] 在编程世界中，找出代码出了什么问题可能需要很长时间 - [...]</title>
+      <link>https://t.me/hn_summary/75054</link>
+      <description><![CDATA[如何使用 rr 调试 C 和 C++ 程序（2021）
+在编程世界中，找出代码出了什么问题就像穿越时空去修复错误一样。 rr 项目允许开发人员使用 C 和 C++ 程序来做到这一点，记录和重放代码执行以查明哪里出了问题。 rr 与 Red Hat Enterprise Linux 和 Fedora 打包在一起，提供了一种独特的方法，通过重放程序运行并在 GNU 调试器中检查它们来调查间歇性问题。通过设置 rr 并使用它来调试简单的程序，开发人员可以发现令人惊讶的问题（例如变量覆盖）并修复它们以达到预期结果。 （根据 91% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75054</guid>
+      <pubDate>Tue, 20 Feb 2024 00:14:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国联邦贸易委员会 (FTC) 禁止使用人工智能工具冒充个人，理由是此类行为有所增加 [...]</title>
-      <link>https://t.me/hn_summary/75019</link>
-      <description><![CDATA[FTC 禁止 AI 冒充个人
-美国联邦贸易委员会 (FTC) 禁止使用人工智能工具冒充个人，理由是有关冒充欺诈的投诉有所增加。该机构正在寻求打击网络犯罪分子使用 ChatGPT 等公共生成人工智能工具创建的深度伪造品。除了禁止通过冒充故意伤害消费者的人工智能平台外，联邦贸易委员会还敲定了一项规则，允许他们直接向滥用人工智能欺骗真实实体的骗子寻求金钱救济。此举是为了回应公众反馈，旨在加强联邦贸易委员会解决人工智能诈骗的能力。该裁决以 3 比 0 获得通过，并将在《联邦公报》上公布。]]></description>
-      <guid>https://t.me/hn_summary/75019</guid>
-      <pubDate>Mon, 19 Feb 2024 21:01:25 GMT</pubDate>
+      <title>[媒体] 隆重推出 Extracta.ai，这是一个突破性的 API，可让您轻松提取数据 [...]</title>
+      <link>https://t.me/hn_summary/75053</link>
+      <description><![CDATA[显示 HN：我们构建了一个 API 来从非结构化文档中提取数据
+隆重推出 Extracta.ai，这是一个突破性的 API，可让您轻松提取来自非结构化文档（例如简历、发票和扫描图像）的数据。告别复杂的设置，迎接即时结果。只需指定您需要的信息，上传您的文件，然后观看 API 在几秒钟内将它们转换为结构化数据。 Extracta.ai 前所未有地简化了数据提取过程，使其成为企业和个人的必备工具。今天就尝试一下，亲自体验一下便利。]]></description>
+      <guid>https://t.me/hn_summary/75053</guid>
+      <pubDate>Tue, 20 Feb 2024 00:10:15 GMT</pubDate>
     </item>
     <item>
-      <title>星际迷航：博格 – 重制版</title>
-      <link>https://t.me/hn_summary/75018</link>
-      <description><![CDATA[星际迷航：博格 – 重制版
-“星际迷航：博格 - 重制版”是一个粉丝项目，旨在使用 AI 在浏览器中以高清质量重新创建 1996 年 FMV 游戏。玩家可以通过 LCARS 界面控制游戏，做出选择并使用 Q 的三录仪扫描物品。该项目获得了意想不到的关注，导致一些用户出现服务器负载问题。游戏默认为高视频质量，因此使用移动数据的玩家可能需要调整设置以避免使用过多的数据。独特地使用人工智能来重新制作游戏镜头，使该项目与其他粉丝翻拍作品区分开来。]]></description>
-      <guid>https://t.me/hn_summary/75018</guid>
-      <pubDate>Mon, 19 Feb 2024 20:57:22 GMT</pubDate>
+      <title>作者最初认为“快速工程”和“LLMOps”的想法是不必要的，b [...]</title>
+      <link>https://t.me/hn_summary/75052</link>
+      <description><![CDATA[为什么提示工程师和 LLMOps 工程师将成为真正的职位
+作者最初认为“快速工程”和“LLMOps”的想法是不必要的，但在深入研究部署大型语言模型 (LLM) 的世界后，他们现在看到了这些新兴技能的重要性。即时工程被比作用于控制法学硕士的编程语言，指导他们如何与用户和系统交互、防止恶意行为以及处理输入和输出。另一方面，LLMOps 涉及在生产中持续开发、测试和部署 LLM，类似于 DevOps 角色。作者预测，这些新的工作角色将在人工智能领域变得至关重要，为企业在有效构建和自动化系统方面提供竞争优势。]]></description>
+      <guid>https://t.me/hn_summary/75052</guid>
+      <pubDate>Mon, 19 Feb 2024 23:54:06 GMT</pubDate>
     </item>
     <item>
-      <title>在 fffuel.co，我们提供各种免费的 SVG 生成器和网页设计工具来帮助您创建 [...]</title>
-      <link>https://t.me/hn_summary/75017</link>
-      <description><![CDATA[免费 SVG 生成器、颜色工具和网页设计工具 
-在 fffuel.co，我们提供各种免费的 SVG 生成器和网页设计工具可帮助您为您的项目创建独特且具有视觉吸引力的图形。我们的 SVG 制作工具可让您轻松自定义背景、图案、渐变、纹理、形状和斑点，以与您的设计无缝集成。 SVG 具有许多优点，例如在不损失质量的情况下可扩展、易于编辑以及与光栅图像相比文件大小较小。需要将 SVG 转换为 PNG 吗？我们已经为您提供了转换工具。如果您想使用 SVG 作为背景图案，我们的 base64 编码器可以轻松将它们添加到您的 CSS 中。探索我们的颜色工具（例如颜色选择器和调色板生成器）来增强您的设计。]]></description>
-      <guid>https://t.me/hn_summary/75017</guid>
-      <pubDate>Mon, 19 Feb 2024 20:52:53 GMT</pubDate>
+      <title>[媒体] 网络上的 E2EE：网络有那么糟糕吗？</title>
+      <link>https://t.me/hn_summary/75051</link>
+      <description><![CDATA[网络上的 E2EE：网络有那么糟糕吗？
+在我关于 emilymstark.com 的最新博客文章中，我深入研究了围绕网络端对端加密 (E2EE) 的争论。虽然有些人认为 Web 的代码注入漏洞使其不适合 E2EE 应用程序，但我通过比较 Web、移动和桌面平台的安全模型来挑战这一观点。令人惊讶的是，桌面应用程序在代码分布和安全风险方面与 Web 应用程序有相似之处。为了弥合 Web 和其他平台之间的差距，我建议为 Web 应用程序实施代码捆绑和签名机制。然而，问题在于用户体验的细节和部署挑战。我们不要低估解决这些问题对于将 E2EE 引入网络的重要性。]]></description>
+      <guid>https://t.me/hn_summary/75051</guid>
+      <pubDate>Mon, 19 Feb 2024 23:49:01 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇文章中，我介绍了新的 Python 运算符，包括有争议的“海象运算符”[...]</title>
-      <link>https://t.me/hn_summary/75016</link>
-      <description><![CDATA[Peter Norvig：新的 Python 运算符
-在这篇文章中，我介绍了新的 Python 运算符，包括有争议的“海象运算符”:=，以及名称奇特的运算符，如“滑雪帽”、“哑铃”、“拍打猫”和“飞碟”运算符。这些运算符自 2023 年 4 月 1 日起可用，为 Python 添加了独特的功能，例如清空变量、强调序列，甚至实现部分阶乘运算符。虽然这些运算符可能违反 PEP 8 准则，但它们为编码增添了乐趣。查看我的旧帖子了解更多运算符，包括 C++ 中 ++ 和 &lt;&lt; 运算符的实现。 PS：这篇文章中的所有内容都是真实的，除了“这已经足够好了，对吧？”这个问题。]]></description>
-      <guid>https://t.me/hn_summary/75016</guid>
-      <pubDate>Mon, 19 Feb 2024 20:48:49 GMT</pubDate>
+      <title>[媒体] Pydantic Inc.</title>
+      <link>https://t.me/hn_summary/75050</link>
+      <description><![CDATA[帮助我们制定路线图 – Pydantic
+Pydantic Inc. 正在寻求反馈，以帮助制定新数据平台的路线图。他们的目标是让 Python 之外的数据处理变得更容易、更愉快。该平台不会是一个新的数据库，但将重点关注 Python 分析/可观察性、对象存储和数据仓库的数据网关、模式目录以及由 Pydantic 模型支持的仪表板/UI 等组件。该平台将与 Pydantic 紧密集成，轻松从数据中提取上下文。此外，对象存储的数据网关将为 S3 等对象存储提供验证、转换和编目。为了提高成本效率，该服务将在 Rust 中实现。 （根据 49% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75050</guid>
+      <pubDate>Mon, 19 Feb 2024 23:37:55 GMT</pubDate>
     </item>
     <item>
-      <title>高通对主线 Linux 内核的硬件支持有了显着改善，新的 [...]</title>
-      <link>https://t.me/hn_summary/75015</link>
-      <description><![CDATA[Linux 内核对高通硬件的支持日益良好 
-高通对主线Linux内核的硬件支持显着改善，新的Snapdragon 8 Gen 3设备得到了良好的支持和快速集成。由 Snapdragon 提供支持的 ThinkPad X13s 由于其上游支持而受到 Linux 开发人员的欢迎。来自 Linaro 的 Neil Armstrong 强调了 FOSDEM 2024 的进展，展示了高通公开宣布后短短两个月内取得的进展。虽然 Linux 6.8 上的 Snapdragon 8 Gen 3 拥有令人印象深刻的功能，但仍有需要改进的地方。联想ThinkPad X13s还因其出色的Linux兼容性而受到好评。请查看 Armstrong 的演示，了解有关 Qualcomm 对 Linux 的硬件支持的更多详细信息。]]></description>
-      <guid>https://t.me/hn_summary/75015</guid>
-      <pubDate>Mon, 19 Feb 2024 20:44:44 GMT</pubDate>
+      <title>[媒体] 您是否对旧硬盘的怀旧声音感到好奇，但又没有机会使用？</title>
+      <link>https://t.me/hn_summary/75049</link>
+      <description><![CDATA[DiskClick：曾经想听听旧硬盘驱动器的声音 
+标题：DiskClick：体验旧硬盘驱动器的声音
+您是否对旧硬盘驱动器的怀旧声音感到好奇，但又无法使用？ DiskClick 是适合您的解决方案。该程序允许您使用 C 驱动器的真实活动来模拟各种硬盘驱动器的声音，从软盘驱动器到 Rickroll。您甚至可以通过加载不同的样本来自定义您自己的声音。您只需要 Python 3.12、Pygame 和 psutil，可以使用 CMD 中的 Pip Install 轻松安装它们。使用 DiskClick 体验旧硬盘声音的独特世界。]]></description>
+      <guid>https://t.me/hn_summary/75049</guid>
+      <pubDate>Mon, 19 Feb 2024 23:28:50 GMT</pubDate>
     </item>
     <item>
-      <title>希望找到延迟最低的云提供商？</title>
-      <link>https://t.me/hn_summary/75014</link>
-      <description><![CDATA[Cloudflare Workers 上的 Hono 比替代方案快 3 倍&lt; br/&gt;
-希望找到延迟最低的云提供商？ www.openstatus.dev 上的这篇文章比较了 Cloudflare Workers，使用 OpenStatus 进行飞行、Koyeb、铁路和渲染。 Cloudflare Workers 的速度比其他产品快 3 倍，可提供全局性能，且不会出现冷启动问题。 Fly.io 和 Koyeb 非常适合多区域部署，而铁路和渲染在特定区域部署方面表现出色。 Cloudflare Workers 在全球范围内高效部署应用程序，使其成为低延迟的首选。过去两周的数据显示，Cloudflare Workers 在正常运行时间和延迟指标方面处于领先地位，使他们成为云提供商领域的有力竞争者。 （根据 96% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75014</guid>
-      <pubDate>Mon, 19 Feb 2024 20:40:40 GMT</pubDate>
+      <title>[媒体] 我们公司通过简单的 GPT 包装产品实现了 300 万美元的年度经常性收入。</title>
+      <link>https://t.me/hn_summary/75048</link>
+      <description><![CDATA[简单的 GPT 包装产品每年带来 300 万美元的经常性收入
+我们公司通过简单的 GPT 包装产品实现了 300 万美元的年度经常性收入。这种创新工具彻底改变了企业与人工智能技术交互的方式，使其更易于访问和用户友好。争议在于产品的简单性，证明有时最直接的解决方案可以产生最好的结果。禁用 JavaScript 后，用户可能需要切换到支持的浏览器才能充分体验我们产品的优势。与我们一起拥抱人工智能技术的力量，看看我们的 GPT 包装器如何改变您的业务。]]></description>
+      <guid>https://t.me/hn_summary/75048</guid>
+      <pubDate>Mon, 19 Feb 2024 23:24:45 GMT</pubDate>
     </item>
     <item>
-      <title>询问 HN：开源项目是否应该允许禁用遥测？</title>
-      <link>https://t.me/hn_summary/75013</link>
-      <description><![CDATA[询问 HN：开源项目是否应该允许禁用遥测？
-DiggerHQ 的团队面临着一个困境 - 开源项目是否应该允许用户禁用遥测？最近的一个问题和 PR 引发了社区内的争论。虽然与作者共享使用数据对于早期项目可能有益，但一些用户重视他们的隐私并希望选择退出。该团队在保持使用情况可见性和尊重用户隐私之间左右为难。这是开源公司的常见问题，但找到双方都满意的平衡点是关键。有没有可以达成的折衷办法？]]></description>
-      <guid>https://t.me/hn_summary/75013</guid>
-      <pubDate>Mon, 19 Feb 2024 20:25:34 GMT</pubDate>
+      <title>[媒体] 数据库分片是一种强大的数据架构策略，可将数据拆分为块 [...]</title>
+      <link>https://t.me/hn_summary/75047</link>
+      <description><![CDATA[数据库分片：它是什么、何时进行以及如何进行做吧
+数据库分片是一种强大的数据架构策略，它将数据分割成块（称为分片），并将它们分布在多个数据库服务器上，以提高性能和可扩展性。分片非常适合高流量、大数据量的大规模分布式环境。本文探讨了数据库分片背后的概念、传统数据库的局限性以及分片和分区之间的差异。它还讨论了最佳的分片架构，包括基于键、基于范围、垂直和基于目录的分片。此外，它还涵盖了手动与自动分片数据库，并提供了数据库分片项目的高级概述。 （根据故事文本的 75% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/75047</guid>
+      <pubDate>Mon, 19 Feb 2024 23:20:42 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：您多久重新启动一次计算机？</title>
-      <link>https://t.me/hn_summary/75012</link>
-      <description><![CDATA[询问 HN：您多久重新启动一次计算机？
-作者反思了计算机重新启动的演变，从过去定期重新启动的必要性到目前认为性能不需要重新启动的信念。尽管有专家的建议，作者还是发现他们的计算机在重新启动后运行速度更快，CPU 使用率更低，可用 RAM 更大。作者向社区提出了这个问题，询问其他人多久重新启动一次计算机。令人惊讶的是，即使拥有现代 M2 MBA，作者仍然发现重新启动计算机以提高性能是有价值的。]]></description>
-      <guid>https://t.me/hn_summary/75012</guid>
-      <pubDate>Mon, 19 Feb 2024 20:21:31 GMT</pubDate>
+      <title>[媒体]斯坦福大学医学院的研究人员开发了一种人工智能模型，[...]</title>
+      <link>https://t.me/hn_summary/75046</link>
+      <description><![CDATA[人工智能通过大脑扫描确定人的性别
+斯坦福大学医学院的研究人员开发了一种人工智能模型，可以根据脑部扫描准确确定个体性别，成功率超过 90%。这一突破支持了大脑组织存在显着性别差异的理论，挑战了长期存在的争议。人工智能模型确定了关键的大脑网络，例如默认模式、纹状体和边缘网络，对于区分男性和女性大脑至关重要。这项研究不仅加深了我们对大脑发育和衰老的理解，而且为解决精神和神经疾病中性别特异性的脆弱性开辟了新途径。研究结果表明，承认大脑组织中的性别差异对于开发个性化治疗至关重要。]]></description>
+      <guid>https://t.me/hn_summary/75046</guid>
+      <pubDate>Mon, 19 Feb 2024 23:13:36 GMT</pubDate>
     </item>
     <item>
-      <title>在 bbarrows.com，我与 Bevy 一起深入练习 Rust 并为其创建了 WASM Snake 游戏 [...]</title>
-      <link>https://t.me/hn_summary/75011</link>
-      <description><![CDATA[练习 Rust，学习 Bevy，为浏览器创建 WASM 贪吃蛇游戏
-在 bbarrows.com，我深入研究了与 Bevy 一起练习 Rust 并创建用于浏览器的 WASM 贪吃蛇游戏。 Bevy 的依赖注入系统是一个突出的功能，使其 ECS 架构易于使用。非官方的 Bevy 书籍和 ECS 文档对于理解游戏引擎非常有帮助。使用组件和生成命令简化了蛇、食物和身体部位等实体的创建。 Bevy 真正的魔力在于它的查询/DI 系统，让我可以轻松地在每个游戏循环中操作实体。 Rust 和 Bevy 的力量在创建像我的 Snake 克隆这样的复杂游戏时真正发挥了作用。查看游戏并在您的浏览器中玩它（仅限 WASM 支持的浏览器）！]]></description>
-      <guid>https://t.me/hn_summary/75011</guid>
-      <pubDate>Mon, 19 Feb 2024 20:17:27 GMT</pubDate>
+      <title>[媒体] 使用返回库（类型安全、单子等）的 Python 函数式编程</title>
+      <link>https://t.me/hn_summary/75045</link>
+      <description><![CDATA[带有返回库（类型安全、单子等）的 Python 函数式编程.)
+该 GitHub 项目专注于通过提供一个库来将函数式编程概念引入 Python，该库允许编写具有类型安全性和强制法律的声明性业务逻辑。该项目旨在通过引入 Maybe、RequiresContext、Result、IO 和 Future 等容器来解决编写可读且安全的代码的问题。这些容器有助于以更加结构化和类型安全的方式处理空检查、依赖项注入、错误处理和异步代码。该项目的与众不同之处在于，它提供了一种 Pythonic 且令人愉快的方式来编写和阅读代码，以及易于采用的大量文档、测试和教程。 （根据故事文本的 51% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/75045</guid>
+      <pubDate>Mon, 19 Feb 2024 23:07:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
