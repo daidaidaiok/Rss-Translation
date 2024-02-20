@@ -4,87 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 20 Feb 2024 00:14:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 02:45:31 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在编程世界中，找出代码出了什么问题可能需要很长时间 - [...]</title>
-      <link>https://t.me/hn_summary/75054</link>
-      <description><![CDATA[如何使用 rr 调试 C 和 C++ 程序（2021）
-在编程世界中，找出代码出了什么问题就像穿越时空去修复错误一样。 rr 项目允许开发人员使用 C 和 C++ 程序来做到这一点，记录和重放代码执行以查明哪里出了问题。 rr 与 Red Hat Enterprise Linux 和 Fedora 打包在一起，提供了一种独特的方法，通过重放程序运行并在 GNU 调试器中检查它们来调查间歇性问题。通过设置 rr 并使用它来调试简单的程序，开发人员可以发现令人惊讶的问题（例如变量覆盖）并修复它们以达到预期结果。 （根据 91% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75054</guid>
-      <pubDate>Tue, 20 Feb 2024 00:14:20 GMT</pubDate>
+      <title>[媒体]为什么 Prettier 坚如磐石？</title>
+      <link>https://t.me/hn_summary/75072</link>
+      <description><![CDATA[为什么 Prettier 坚如磐石？
+Prettier 以其坚如磐石的质量而闻名，其 HTML、CSS、JS 和 TS 的核心格式化程序从未破坏过代码。尽管对默认值或速度问题可能存在分歧，但 Prettier 的功能仍然很可靠。 Philip Wadler 的一篇论文给出了对其质量的令人惊讶的答案，原作者发现并使用该论文有效地实现了 Prettier。与 Haskell 的这种联系展示了该语言如何继续丰富项目，甚至是那些与其没有直接关系的项目。 Prettier 的可靠性和研究基础使其在 JavaScript 库领域中脱颖而出。]]></description>
+      <guid>https://t.me/hn_summary/75072</guid>
+      <pubDate>Tue, 20 Feb 2024 02:45:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Extracta.ai，这是一个突破性的 API，可让您轻松提取数据 [...]</title>
-      <link>https://t.me/hn_summary/75053</link>
-      <description><![CDATA[显示 HN：我们构建了一个 API 来从非结构化文档中提取数据
-隆重推出 Extracta.ai，这是一个突破性的 API，可让您轻松提取来自非结构化文档（例如简历、发票和扫描图像）的数据。告别复杂的设置，迎接即时结果。只需指定您需要的信息，上传您的文件，然后观看 API 在几秒钟内将它们转换为结构化数据。 Extracta.ai 前所未有地简化了数据提取过程，使其成为企业和个人的必备工具。今天就尝试一下，亲自体验一下便利。]]></description>
-      <guid>https://t.me/hn_summary/75053</guid>
-      <pubDate>Tue, 20 Feb 2024 00:10:15 GMT</pubDate>
+      <title>[媒体]SpaceX最近发射了一枚猎鹰9号火箭，运载着六颗军用卫星，其设计目的是 [...]</title>
+      <link>https://t.me/hn_summary/75071</link>
+      <description><![CDATA[SpaceX 发射了旨在跟踪高超音速导弹的军用卫星&lt; br/&gt;
+SpaceX 最近发射了一枚猎鹰 9 号火箭，运载着六颗旨在跟踪高超音速导弹的军用卫星。这些卫星是新一代航天器的一部分，旨在探测来自中国、俄罗斯、伊朗和朝鲜等国家的新兴导弹威胁。太空发展局（SDA）一直在发射原型卫星，以在近地轨道上创建一个星座，称为“扩散作战空间架构”（PWSA），以跟踪和中继有关导弹飞行路径的数据。 SDA 的方法利用商用技术，具有成本效益和弹性。此次成功发射，标志着美军导弹防御能力提升迈出重要一步。]]></description>
+      <guid>https://t.me/hn_summary/75071</guid>
+      <pubDate>Tue, 20 Feb 2024 02:44:26 GMT</pubDate>
     </item>
     <item>
-      <title>作者最初认为“快速工程”和“LLMOps”的想法是不必要的，b [...]</title>
-      <link>https://t.me/hn_summary/75052</link>
-      <description><![CDATA[为什么提示工程师和 LLMOps 工程师将成为真正的职位
-作者最初认为“快速工程”和“LLMOps”的想法是不必要的，但在深入研究部署大型语言模型 (LLM) 的世界后，他们现在看到了这些新兴技能的重要性。即时工程被比作用于控制法学硕士的编程语言，指导他们如何与用户和系统交互、防止恶意行为以及处理输入和输出。另一方面，LLMOps 涉及在生产中持续开发、测试和部署 LLM，类似于 DevOps 角色。作者预测，这些新的工作角色将在人工智能领域变得至关重要，为企业在有效构建和自动化系统方面提供竞争优势。]]></description>
-      <guid>https://t.me/hn_summary/75052</guid>
-      <pubDate>Mon, 19 Feb 2024 23:54:06 GMT</pubDate>
+      <title>[媒体]以太网是一种通用且广泛使用的技术，只需要两个差异对（f [...]</title>
+      <link>https://t.me/hn_summary/75070</link>
+      <description><![CDATA[以太网：基础知识
+以太网是一种通用且广泛使用的技术，只需要两个差分对（四根线）即可建立 100Mbit 链路。它快速、简单，并且受到许多微控制器和 SoC 的支持。虽然大多数人都熟悉面向消费者的以太网，但有些工业和汽车标准挑战了常见的假设。以太网的世界非常广阔，有各种速度和电缆类型。了解以太网基础知识（例如布线和连接器）对于使用网络技术的任何人都至关重要。此外，了解交叉电缆和对引脚映射可以为了解以太网连接的复杂性提供有价值的见解。 （根据 87% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75070</guid>
+      <pubDate>Tue, 20 Feb 2024 02:30:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网络上的 E2EE：网络有那么糟糕吗？</title>
-      <link>https://t.me/hn_summary/75051</link>
-      <description><![CDATA[网络上的 E2EE：网络有那么糟糕吗？
-在我关于 emilymstark.com 的最新博客文章中，我深入研究了围绕网络端对端加密 (E2EE) 的争论。虽然有些人认为 Web 的代码注入漏洞使其不适合 E2EE 应用程序，但我通过比较 Web、移动和桌面平台的安全模型来挑战这一观点。令人惊讶的是，桌面应用程序在代码分布和安全风险方面与 Web 应用程序有相似之处。为了弥合 Web 和其他平台之间的差距，我建议为 Web 应用程序实施代码捆绑和签名机制。然而，问题在于用户体验的细节和部署挑战。我们不要低估解决这些问题对于将 E2EE 引入网络的重要性。]]></description>
-      <guid>https://t.me/hn_summary/75051</guid>
-      <pubDate>Mon, 19 Feb 2024 23:49:01 GMT</pubDate>
+      <title>本文探讨了硬盘驱动器的物理几何结构，重点关注扇区、磁道、[...]</title>
+      <link>https://t.me/hn_summary/75069</link>
+      <description><![CDATA[通过微基准测试发现硬盘物理几何形状（2019） 
+本文探讨了硬盘驱动器的物理几何结构，重点关注扇区、磁道和柱面。它讨论了数据如何存储在磁盘上、读/写头的移动以及硬盘驱动器接口的演变。作者描述了用于提取驱动器几何形状的各种微基准，包括测量 RPM、扇区位置、磁道边界、寻道时间和缺陷扇区。本文强调了现代硬盘驱动器的复杂性，具有不同的磁道布局和可变的磁道密度。它还讨论了微基准测试的挑战，并提供了 17 个硬盘型号（从 45 MB 到 5 TB）的测量结果。 （根据故事文本的 12% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/75069</guid>
+      <pubDate>Tue, 20 Feb 2024 02:17:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Pydantic Inc.</title>
-      <link>https://t.me/hn_summary/75050</link>
-      <description><![CDATA[帮助我们制定路线图 – Pydantic
-Pydantic Inc. 正在寻求反馈，以帮助制定新数据平台的路线图。他们的目标是让 Python 之外的数据处理变得更容易、更愉快。该平台不会是一个新的数据库，但将重点关注 Python 分析/可观察性、对象存储和数据仓库的数据网关、模式目录以及由 Pydantic 模型支持的仪表板/UI 等组件。该平台将与 Pydantic 紧密集成，轻松从数据中提取上下文。此外，对象存储的数据网关将为 S3 等对象存储提供验证、转换和编目。为了提高成本效率，该服务将在 Rust 中实现。 （根据 49% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75050</guid>
-      <pubDate>Mon, 19 Feb 2024 23:37:55 GMT</pubDate>
+      <title>[媒体] 文章讨论了代码编辑器的演变，重点介绍了 N [...]</title>
+      <link>https://t.me/hn_summary/75068</link>
+      <description><![CDATA[Pulsar，自 Atom 以来最好的代码编辑器
+本文讨论了代码编辑器的演变，重点介绍了 Nathan Sobo 所创建的 Atom 以及它因 Microsoft 收购 GitHub 而最终消亡的情况。然而，Atom 的源代码以 Pulsar 的形式存在，Pulsar 是一个使用 Web 技术构建的开源编辑器。 Pulsar 拥有一个包含超过 10,000 个社区开发的软件包的插件系统，使其具有高度可定制性。该编辑器的功能（例如 linter、文件浏览器和强大的搜索功能）可提高工作效率。 Pulsar 的键盘快捷键和缺乏模式使其与 Vim 和 Emacs 等传统编辑器区分开来。虽然 Pulsar 的启动时间可能较慢，但其性能和灵活性使其成为作者首选的代码编辑器。]]></description>
+      <guid>https://t.me/hn_summary/75068</guid>
+      <pubDate>Tue, 20 Feb 2024 02:11:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 您是否对旧硬盘的怀旧声音感到好奇，但又没有机会使用？</title>
-      <link>https://t.me/hn_summary/75049</link>
-      <description><![CDATA[DiskClick：曾经想听听旧硬盘驱动器的声音 
-标题：DiskClick：体验旧硬盘驱动器的声音
-您是否对旧硬盘驱动器的怀旧声音感到好奇，但又无法使用？ DiskClick 是适合您的解决方案。该程序允许您使用 C 驱动器的真实活动来模拟各种硬盘驱动器的声音，从软盘驱动器到 Rickroll。您甚至可以通过加载不同的样本来自定义您自己的声音。您只需要 Python 3.12、Pygame 和 psutil，可以使用 CMD 中的 Pip Install 轻松安装它们。使用 DiskClick 体验旧硬盘声音的独特世界。]]></description>
-      <guid>https://t.me/hn_summary/75049</guid>
-      <pubDate>Mon, 19 Feb 2024 23:28:50 GMT</pubDate>
+      <title>[媒体] 2013 年，GNU 编译器集合 (GCC) 迈出了从 [...] 过渡的重大举措</title>
+      <link>https://t.me/hn_summary/75067</link>
+      <description><![CDATA[GCC 转向 C++ (2013)
+2013 年，GNU 编译器集合 (GCC) 做出了从 C 过渡到 C++ 的重大举措。这一改变遭到了支持和反对，人们的担忧包括速度和内存使用以及开发人员缺乏 C++ 经验。尽管最初遇到阻力，转换的支持者仍努力解决异议并实施编码标准，以确保平稳过渡。随着项目的进展，尽管挑战仍然存在，特别是在将某些组件转换为 C++ 方面，但改进的模块化和编译时间效率等优势已被注意到。 GCC 转向 C++ 的未来仍然是一项持续的努力，既有积极的影响，也有消极的影响。]]></description>
+      <guid>https://t.me/hn_summary/75067</guid>
+      <pubDate>Tue, 20 Feb 2024 02:07:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 我们公司通过简单的 GPT 包装产品实现了 300 万美元的年度经常性收入。</title>
-      <link>https://t.me/hn_summary/75048</link>
-      <description><![CDATA[简单的 GPT 包装产品每年带来 300 万美元的经常性收入
-我们公司通过简单的 GPT 包装产品实现了 300 万美元的年度经常性收入。这种创新工具彻底改变了企业与人工智能技术交互的方式，使其更易于访问和用户友好。争议在于产品的简单性，证明有时最直接的解决方案可以产生最好的结果。禁用 JavaScript 后，用户可能需要切换到支持的浏览器才能充分体验我们产品的优势。与我们一起拥抱人工智能技术的力量，看看我们的 GPT 包装器如何改变您的业务。]]></description>
-      <guid>https://t.me/hn_summary/75048</guid>
-      <pubDate>Mon, 19 Feb 2024 23:24:45 GMT</pubDate>
+      <title>[媒体] 伯克利软件发行版 (BSD) 的根源可以追溯到联合国成立初期 [...]</title>
+      <link>https://t.me/hn_summary/75066</link>
+      <description><![CDATA[伯克利软件发行版
+Berkeley Software Distribution (BSD) 的历史可以追溯到 UNIX 的早期，由 Bill Joy 负责开发和分发该软件。围绕 AT&amp;T 向大学和研究中心分发 UNIX 的法律复杂性给这个故事增添了一层神秘色彩。在 Joy 和其他人的重要贡献下，BSD 从 1BSD 到 3BSD 的演变标志着操作系统历史上的一个重要里程碑。 DARPA 决定为 ARPAnet 制定 UNIX 标准化，以及随后与伯克利计算机系统研究小组签订的合同，进一步巩固了 BSD 在计算领域的地位。 （根据故事文本的 28% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/75066</guid>
+      <pubDate>Tue, 20 Feb 2024 02:00:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 数据库分片是一种强大的数据架构策略，可将数据拆分为块 [...]</title>
-      <link>https://t.me/hn_summary/75047</link>
-      <description><![CDATA[数据库分片：它是什么、何时进行以及如何进行做吧
-数据库分片是一种强大的数据架构策略，它将数据分割成块（称为分片），并将它们分布在多个数据库服务器上，以提高性能和可扩展性。分片非常适合高流量、大数据量的大规模分布式环境。本文探讨了数据库分片背后的概念、传统数据库的局限性以及分片和分区之间的差异。它还讨论了最佳的分片架构，包括基于键、基于范围、垂直和基于目录的分片。此外，它还涵盖了手动与自动分片数据库，并提供了数据库分片项目的高级概述。 （根据故事文本的 75% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/75047</guid>
-      <pubDate>Mon, 19 Feb 2024 23:20:42 GMT</pubDate>
+      <title>[媒体] 如何在 Common Lisp 中进行基于图像的开发？</title>
+      <link>https://t.me/hn_summary/75065</link>
+      <description><![CDATA[如何在 Common Lisp 中进行基于图像的开发？
+在 Stack Overflow 上的这篇文章中，作为 Common Lisp 新手的作者分享了他们在其他语言和 Common Lisp 中的典型开发过程。他们概述了传统的写入-编译-运行周期，并对 Common Lisp 中的“基于图像的开发”表示好奇。作者寻求有关如何过渡到此方法的指导，并要求提供分步示例。这篇文章强调了作者学习和调整其开发实践的意愿，展示了探索新编程范例的主动方法。]]></description>
+      <guid>https://t.me/hn_summary/75065</guid>
+      <pubDate>Tue, 20 Feb 2024 01:53:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]斯坦福大学医学院的研究人员开发了一种人工智能模型，[...]</title>
-      <link>https://t.me/hn_summary/75046</link>
-      <description><![CDATA[人工智能通过大脑扫描确定人的性别
-斯坦福大学医学院的研究人员开发了一种人工智能模型，可以根据脑部扫描准确确定个体性别，成功率超过 90%。这一突破支持了大脑组织存在显着性别差异的理论，挑战了长期存在的争议。人工智能模型确定了关键的大脑网络，例如默认模式、纹状体和边缘网络，对于区分男性和女性大脑至关重要。这项研究不仅加深了我们对大脑发育和衰老的理解，而且为解决精神和神经疾病中性别特异性的脆弱性开辟了新途径。研究结果表明，承认大脑组织中的性别差异对于开发个性化治疗至关重要。]]></description>
-      <guid>https://t.me/hn_summary/75046</guid>
-      <pubDate>Mon, 19 Feb 2024 23:13:36 GMT</pubDate>
+      <title>通过学习如何折叠朱莉娅分形，探索复数的迷人世界。</title>
+      <link>https://t.me/hn_summary/75064</link>
+      <description><![CDATA[如何折叠 Julia 分形
+通过学习如何折叠朱莉娅分形，探索复数的迷人世界。通过将数字表示为箭头或向量，我们可以探索乘法和旋转在这个独特的数学领域中的工作原理。发现允许负数平方根的规则令人惊讶的一致性，并引入难以捉摸的 $i$。复数具有旋转和扭曲的能力，开启了数学可能性的全新维度。深入复杂的平面，圆变成半圆，角减半，揭示了一个数学之美和复杂的世界。 （根据 80% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75064</guid>
+      <pubDate>Tue, 20 Feb 2024 01:43:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 使用返回库（类型安全、单子等）的 Python 函数式编程</title>
-      <link>https://t.me/hn_summary/75045</link>
-      <description><![CDATA[带有返回库（类型安全、单子等）的 Python 函数式编程.)
-该 GitHub 项目专注于通过提供一个库来将函数式编程概念引入 Python，该库允许编写具有类型安全性和强制法律的声明性业务逻辑。该项目旨在通过引入 Maybe、RequiresContext、Result、IO 和 Future 等容器来解决编写可读且安全的代码的问题。这些容器有助于以更加结构化和类型安全的方式处理空检查、依赖项注入、错误处理和异步代码。该项目的与众不同之处在于，它提供了一种 Pythonic 且令人愉快的方式来编写和阅读代码，以及易于采用的大量文档、测试和教程。 （根据故事文本的 51% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/75045</guid>
-      <pubDate>Mon, 19 Feb 2024 23:07:29 GMT</pubDate>
+      <title>[媒体] Microsoft Azure 最近遭受了其历史上最大的数据泄露，妥协 [...]</title>
+      <link>https://t.me/hn_summary/75063</link>
+      <description><![CDATA[Microsoft Azure 遭遇史上最大规模数据泄露
+Microsoft Azure 最近遭遇了历史上最大的数据泄露事件，数百个高管帐户遭到泄露，并导致重大用户数据泄露。此次网络攻击利用了 2023 年 11 月发现的恶意技术，包括凭证盗窃和云帐户接管。这次攻击之所以特别隐蔽，是因为在电子邮件中使用了伪装成“查看文档”的网络钓鱼链接。黑客以中高层管理人员为目标，旨在进行财务欺诈和数据盗窃。攻击者据信来自俄罗斯和尼日利亚，可能篡改了多因素身份验证系统。这次泄露凸显了微软糟糕的安全实践，首席执行官 Amit Yoran 批评了他们疏忽的网络安全措施。]]></description>
+      <guid>https://t.me/hn_summary/75063</guid>
+      <pubDate>Tue, 20 Feb 2024 01:39:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
