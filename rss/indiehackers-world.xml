@@ -4,7 +4,40 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 21 Feb 2024 21:06:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 00:17:57 GMT</lastBuildDate>
+    <item>
+      <title>您应该为您的博客使用子域或子目录吗？</title>
+      <link>https://feed.indiehackers.world/post/512db04e9b</link>
+      <description><![CDATA[那么您是否有理由不应该使用子域？
+答案取决于您自己公司的目标，以及您是否可以进行两个单独的内务管理，即您只需一组反向链接，您想要管理一个 Google 搜索控制台等。
+附注
+我喜欢回答营销问题。如果您有任何疑问，请随时联系 X、LinkedIn（查看我的个人资料）。或者您可以直接在下面评论
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/512db04e9b</guid>
+      <pubDate>Wed, 21 Feb 2024 22:58:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果你刚刚起步，你需要做终身优惠。</title>
+      <link>https://feed.indiehackers.world/post/f1c81434b8</link>
+      <description><![CDATA[我目前还在为我的产品 Zylvie 进行 LTD 促销活动，此处：
+https://zylvie.com/deals/p/kenmoo
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/f1c81434b8</guid>
+      <pubDate>Wed, 21 Feb 2024 22:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过简单的 Web 应用程序帮助 100 多家企业获得更多正面评价</title>
+      <link>https://feed.indiehackers.world/post/903e1f3f69</link>
+      <description><![CDATA[免费创建您的评论渠道：www.reviewfunnel.io
+我很想听听您的反馈！
+&lt;小时/&gt;
+如果您想了解更多关于我是如何制作的：https://medium.com/@reviewfunnel.io/how-i-made-a-web-app-in-1-month-with-no-experience-fdebfd62ed59
+这篇文章的缩略图是用以下命令创建的：shots.so
+附注如果有人对我如何营销评论漏斗感兴趣或有任何其他问题，请不要害羞！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/903e1f3f69</guid>
+      <pubDate>Wed, 21 Feb 2024 21:36:35 GMT</pubDate>
+    </item>
     <item>
       <title>Dibs：从乘坐火车到产品发布只需 3 周</title>
       <link>https://feed.indiehackers.world/post/6abe3f9b6d</link>
@@ -127,31 +160,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/be2e896a8a</guid>
       <pubDate>Wed, 21 Feb 2024 13:26:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>元广告是广告的未来吗？</title>
-      <link>https://feed.indiehackers.world/post/4d911f194a</link>
-      <description><![CDATA[要获取包含图表和表格的完整内容，请订阅飞轮效果：https://flywheeleffect.substack.com/ 
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/4d911f194a</guid>
-      <pubDate>Wed, 21 Feb 2024 12:49:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们创建了人工智能商业应用程序构建器</title>
-      <link>https://feed.indiehackers.world/post/afaf9fe8c6</link>
-      <description><![CDATA[您可以在 Discord 中聊天，并获取包含所有表格和连接的业务应用程序。在屏幕截图中，您可以看到我的应用程序用于存储动物之间的拥抱。
-现在就试试吧！很有趣😁
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/afaf9fe8c6</guid>
-      <pubDate>Wed, 21 Feb 2024 11:11:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个产品搜寻替代方案</title>
-      <link>https://feed.indiehackers.world/post/f53d7e9f00</link>
-      <description><![CDATA[这是网站：https://uneed.best
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/f53d7e9f00</guid>
-      <pubDate>Wed, 21 Feb 2024 11:08:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
