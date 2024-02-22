@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 22 Feb 2024 12:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 18:04:30 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在 www.adrianriv.com 上的这篇文章中，作者深入研究了最小交易量的概念 [...]</title>
-      <link>https://t.me/hn_summary/75475</link>
-      <description><![CDATA[最小体积椭圆体
-在 www.adrianriv.com 上的这篇文章中，作者深入研究了最小体积椭球体的概念，探索如何将一组高维点包含在具有最小体积的椭球体中。这项研究背后的动机是代表鲁棒优化的“不确定性集”。这篇文章介绍了使用矩阵、替代参数化来表示椭球体，并将最小体积包围椭球体 (MVEE) 问题提出为凸优化问题。作者提供了详细的解释、数值示例以及对不同椭球参数化之间关系的见解。这篇文章最后讨论了如何找到包含给定点集的最小体积的椭球体。 （根据 81% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75475</guid>
-      <pubDate>Thu, 22 Feb 2024 12:04:32 GMT</pubDate>
+      <title>[媒体] 隆重推出 Hugeicons Pro，您可以免费访问超过 27,000 个精美图标！</title>
+      <link>https://t.me/hn_summary/75531</link>
+      <description><![CDATA[显示 HN：3,800 个漂亮的图标 – React、SVG、NPM 但免费
+隆重推出 Hugeicons Pro，您可以免费访问超过 27,000 个精美图标！借助 Figma、React、svg、cdn、npm 和 WordPress 中提供的庞大库，为您的项目找到完美的图标从未如此简单。但这还不是全部 - Hugeicons Pro 还提供 3,800 个专为 React、SVG 和 NPM 设计的令人惊叹的图标。告别无休止的搜索，迎接触手可及的美丽图标世界。准备好使用 Hugeicons Pro 将您的项目提升到新的水平。]]></description>
+      <guid>https://t.me/hn_summary/75531</guid>
+      <pubDate>Thu, 22 Feb 2024 18:04:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Stepful 是一家由 Y Combinator 支持的公司，正在彻底改变联合医疗保健培训 [...]</title>
-      <link>https://t.me/hn_summary/75474</link>
-      <description><![CDATA[Stepful (YC S21) 正在纽约招聘一名产品工程师&lt; /a&gt;
-Stepful 是一家由 Y Combinator 支持的公司，通过提供数字优先项目，正在彻底改变联合医疗保健培训，这些项目可以以五倍的速度和极低的成本为毕业生做好就业准备。毕业生主要来自代表性不足的社区，经过短短四个月的培训，收入就增加了 25%。他们现在正在纽约招聘一名产品工程师，致力于开发世界一流的学习体验、创新的职业服务、为内部员工提供支持、尖端的内容管理和数据管道。理想的候选人有动力产生影响，痴迷于解决复杂的问题，并热衷于加入一家处于早期阶段的公司。 Stepful 提供具有竞争力的薪资、股权方案和福利，并致力于多元化和包容性。]]></description>
-      <guid>https://t.me/hn_summary/75474</guid>
-      <pubDate>Thu, 22 Feb 2024 12:01:26 GMT</pubDate>
+      <title>[媒体]Stripe 已取消 LibsofTikTok 的账户，并拒绝释放其资金。</title>
+      <link>https://t.me/hn_summary/75530</link>
+      <description><![CDATA[Stripe 取消 LibsofTikTok 账户，不会释放资金 
+Stripe 已取消 LibsofTikTok 的账户，并拒绝释放其资金。这一有争议的举动引发了 TikTok 社区的愤怒，因为许多人依赖 Stripe 等平台进行在线交易。这一决定背后的原因尚不清楚，让许多人想知道是什么导致了这一突然的行动。这一令人惊讶的事件转变提醒人们，支付处理商对在线业务拥有强大的力量，以及制定备用计划的重要性。请继续关注这个发展故事的更新。]]></description>
+      <guid>https://t.me/hn_summary/75530</guid>
+      <pubDate>Thu, 22 Feb 2024 18:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文探讨了 Ansible 三元过滤器的有趣用途，展示了示例 [...]</title>
-      <link>https://t.me/hn_summary/75473</link>
-      <description><![CDATA[Ansible 三元过滤器的有趣用途
-本文探讨了 Ansible 三元过滤器的有趣用法，展示了一些示例，例如根据详细级别显示命令输出、测试任务幂等性、基于正则表达式搜索进行过滤以及处理较旧的 Python 版本。作者强调了过滤器的多功能性，并为每个用例提供了代码片段。本文还讨论了替代方法，例如使用评论过滤器，并邀请读者分享他们自己对三元过滤器的独特用法。总的来说，本文深入探讨了 Ansible 功能的实际应用，提供见解和示例供读者探索。]]></description>
-      <guid>https://t.me/hn_summary/75473</guid>
-      <pubDate>Thu, 22 Feb 2024 11:57:19 GMT</pubDate>
+      <title>隆重推出 Strada，这是一款将代码视为一等公民的云 IDE。</title>
+      <link>https://t.me/hn_summary/75529</link>
+      <description><![CDATA[显示 HN：Strada – 用于连接 SaaS API 的云 IDE
+隆重推出 Strada，这是一款将代码视为一等公民的云 IDE。借助 Strada，您可以使用 Python 编写工作流程、导入所需的任何包，并使用 Git 轻松对项目进行版本控制。这个创新平台允许您无缝连接 SaaS API，使集成和自动化变得轻而易举。告别传统 IDE 的局限性，拥抱 Strada 的强大功能和灵活性。访问 www.getstrada.com 了解更多信息并彻底改变您的发展过程。]]></description>
+      <guid>https://t.me/hn_summary/75529</guid>
+      <pubDate>Thu, 22 Feb 2024 17:36:02 GMT</pubDate>
     </item>
     <item>
-      <title>大家好，请注意，AT&T 目前正在经历大范围的停电 [...]</title>
-      <link>https://t.me/hn_summary/75472</link>
-      <description><![CDATA[告诉 HN：AT&amp;T 目前出现中断
-大家好，根据 Twitter 的报道，请注意，AT&amp;T 目前正在美国各地经历大范围的停电。令人惊讶的是，AT&amp;T 网站目前并未提及此问题。请继续关注更新，我们将了解有关此次意外中断的更多信息。]]></description>
-      <guid>https://t.me/hn_summary/75472</guid>
-      <pubDate>Thu, 22 Feb 2024 11:49:13 GMT</pubDate>
+      <title>【媒体】美国联邦航空管理局 (FAA) 称 SpaceX 要求发射星际飞船至少九次。</title>
+      <link>https://t.me/hn_summary/75528</link>
+      <description><![CDATA[FAA 表示 SpaceX 要求发射 Starship 至少九次。今年
+美国联邦航空管理局 (FAA) 透露，SpaceX 已要求今年发射至少九次星舰火箭。这一雄心勃勃的计划表明了 SpaceX 突破太空探索界限的决心。这些发射请求的频率凸显了该公司对航空航天业创新和进步的承诺。请继续关注 SpaceX 未来几个月令人兴奋的发展的更多更新。 #SpaceX #Starship #Innovation #AerospaceControversy：发射请求的频率可能会引起对安全和监管合规性的担忧。]]></description>
+      <guid>https://t.me/hn_summary/75528</guid>
+      <pubDate>Thu, 22 Feb 2024 17:33:57 GMT</pubDate>
     </item>
     <item>
-      <title>英特尔正在为其代工客户推出突破性的芯片技术，为客户带来光明 [...]</title>
-      <link>https://t.me/hn_summary/75471</link>
-      <description><![CDATA[英特尔未来代工技术一览
-英特尔正在为其代工客户推出突破性的芯片技术，让人们一睹未来数据中心处理器的风采。这些进步包括更密集的逻辑以及 3D 堆叠芯片内连接性增加 16 倍，标志着英特尔从生产自己的芯片过渡到代工厂的重大转变。 Clearwater Forest 服务器 CPU 中展示的新技术采用 3D 混合键合和背面供电等创新方法。此外，英特尔还推出了 RibbonFET 晶体管和第二代 EMIB 技术，为高性能计算的新时代奠定了基础。 （根据 95% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75471</guid>
-      <pubDate>Thu, 22 Feb 2024 11:46:09 GMT</pubDate>
+      <title>[媒体]如何才能将我们的城市从灼热的未来中拯救出来？</title>
+      <link>https://t.me/hn_summary/75527</link>
+      <description><![CDATA[怎样才能使我们的城市免遭灼热的未来？&lt; /a&gt;
+2022 年，在 70,000 名欧洲人死于高温相关原因后，埃莱尼·“莱尼奥”·米里维利 (Eleni &quot;Lenio&quot; Myrivili) 被联合国任命为世界上第一位全球首席高温官。雅典前副市长米里维利目前正在努力解决城市极端高温问题，这是未来城市最关心的公共卫生问题。她强调需要保护弱势群体并确保为气候适应提供更多资金。 Myrivili 的创新方法包括创建绿色空间、利用古老的渡槽进行冷却以及倡导保护在危险条件下工作的劳工的政策。她强调了合作和财政支持对于拯救生命和生态系统免受高温影响的重要性。]]></description>
+      <guid>https://t.me/hn_summary/75527</guid>
+      <pubDate>Thu, 22 Feb 2024 17:21:49 GMT</pubDate>
     </item>
     <item>
-      <title>美国手机信号中断</title>
-      <link>https://t.me/hn_summary/75470</link>
-      <description><![CDATA[美国 AT&amp;T、T-Mobile 和 Verizon 遭遇蜂窝网络中断用户
-周四，据报道，美国 AT&amp;T、T-Mobile 和 Verizon 用户遭遇蜂窝网络中断，DownDetector.com。 AT&amp;T 的断电次数峰值超过 31,000 次。此外，据报道 Verizon 和 T-Mobile 发生了 800 多次服务中断事件。停电原因尚不清楚，无线运营商尚未对此事发表评论。请继续关注这个发展故事的更新。]]></description>
-      <guid>https://t.me/hn_summary/75470</guid>
-      <pubDate>Thu, 22 Feb 2024 11:44:04 GMT</pubDate>
+      <title>[媒体] Linux 用户的激动人心的消息 - 现代终端 Warp 现在可用于 Linux！</title>
+      <link>https://t.me/hn_summary/75526</link>
+      <description><![CDATA[现代终端 Warp 现已可用于 Linux
+对于 Linux 用户来说，这是一个令人兴奋的消息 - 现代终端 Warp 现在可用于 Linux！凭借对 Ubuntu、Fedora、Arch Linux 和 RedHat 等流行发行版的支持，Warp 为 Linux 控制台带来了新的生产力和快乐水平。 Warp for Linux 完全采用 Rust 构建，提供快速的性能和现代编辑、Warp AI 和 Warp Drive 等功能。集成的人工智能有助于忘记命令和复杂的设置，而 Warp Drive 则允许协作工作流程。开源 Rust 库克服了为 Linux 构建 Warp 的技术挑战，为未来扩展到 Web 和 Windows 铺平了道路。立即加入 Windows 候补名单，亲身体验 Warp 的强大功能！]]></description>
+      <guid>https://t.me/hn_summary/75526</guid>
+      <pubDate>Thu, 22 Feb 2024 17:20:43 GMT</pubDate>
     </item>
     <item>
-      <title>GIMP 的最新版本 2.99.18 是高级版本发布之前的最终开发预览版。</title>
-      <link>https://t.me/hn_summary/75469</link>
-      <description><![CDATA[Gimp 2.99.18 发布：3.0 之前的最后一个开发预览
-GIMP 的最新版本 2.99.18 是备受期待的 3.0 版本之前的最终开发预览版。此版本引入了 Space Invasion 项目，重点关注软件内的颜色正确性和转换。此外，改进还包括非破坏性编辑功能、字体处理增强、画笔工具的自动扩展图层以及用于在画布上对齐图层的新捕捉选项。虽然此版本不稳定且不建议用于生产用途，但它让您可以一睹即将发布的 GIMP 3.0 版本中将包含的令人兴奋的更新和功能。 （根据故事文本的 35% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/75469</guid>
-      <pubDate>Thu, 22 Feb 2024 11:41:59 GMT</pubDate>
+      <title>[媒体]发酵食品促进大脑发育吗？</title>
+      <link>https://t.me/hn_summary/75525</link>
+      <description><![CDATA[发酵食物促进大脑发育吗？
+哈佛大学的研究人员提出了一种新理论，表明食用发酵食品可能促进了人类大脑的生长。这一理论挑战了人们普遍认为烹饪的发明导致了更大的大脑发育的观点。该假说基于这样的想法：发酵的、预先消化的食物提供了更容易获得的营养，使我们的祖先能够茁壮成长和进化。这一理论得到了以下事实的支持：发酵食品存在于所有文化和食品类别中。对大脑对发酵食品和肠道微生物组反应的进一步研究可以为人类健康和进化提供有价值的见解。]]></description>
+      <guid>https://t.me/hn_summary/75525</guid>
+      <pubDate>Thu, 22 Feb 2024 17:15:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 scorpiosoftware.net 上发现 Windows 投影文件系统 (ProjFS) 的隐藏瑰宝。</title>
-      <link>https://t.me/hn_summary/75468</link>
-      <description><![CDATA[投影文件系统
-在 scorpiosoftware.net。此功能允许您使用文件系统公开分层数据，从而提供与标准文件查看工具和 API 兼容等优势。了解如何从头开始构建 ProjFS 提供程序，使用 C++ 和回调来管理对象目录和文件。深入了解虚拟化初始化、启动和实现回调的技术细节。探索 ProjFS 在定制解决方案方面的潜力，并继续关注有关使用 Rust 等其他语言的未来帖子。发现 ProjFS 在现代 Windows 系统中的强大功能。 （根据故事文本的 39% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/75468</guid>
-      <pubDate>Thu, 22 Feb 2024 11:22:50 GMT</pubDate>
+      <title>在 falstad.com 上探索有关数学、物理和工程主题的各种交互式小程序。</title>
+      <link>https://t.me/hn_summary/75524</link>
+      <description><![CDATA[数学、物理和工程小程序
+在 falstad.com 上探索有关数学、物理和工程主题的各种交互式小程序。从振荡和波到量子力学和热力学，这些小程序提供了一种理解复杂概念的实践方法。量子力学和电磁学的纳入可能会引起争议，这对一些学习者来说可能是一个挑战。此外，该网站还提供许可信息和其他教育资源的链接，以供进一步学习。如果想在学习之余休息一下，还可以使用一些有趣的小程序。使用这些引人入胜的工具深入数学和科学的世界。]]></description>
+      <guid>https://t.me/hn_summary/75524</guid>
+      <pubDate>Thu, 22 Feb 2024 17:08:27 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：管理 Windows 操作系统的最简洁方法？</title>
-      <link>https://t.me/hn_summary/75467</link>
-      <description><![CDATA[询问 HN：管理 Windows 操作系统的最简洁方法？ 
-作者正在寻求有关如何为需要仅使用 Windows 软件的大学课程干净地管理 Windows 操作系统的建议。为了简单和高效，他们更喜欢避免使用点文件，而是像 NixOS 上那样寻找单个配置文件。他们正在考虑使用 PowerShell 脚本或所需状态配置，但不确定。他们还需要一个容器开发环境来避免依赖性问题，考虑使用 Docker 或 nx。作者欢迎任何有效管理 Windows 的提示或技巧。]]></description>
-      <guid>https://t.me/hn_summary/75467</guid>
-      <pubDate>Thu, 22 Feb 2024 11:19:44 GMT</pubDate>
+      <title>在摆脱 YouTube 成瘾一个月后，我反思了挑战和变化 [...]</title>
+      <link>https://t.me/hn_summary/75523</link>
+      <description><![CDATA[YouTube成瘾，一个月清醒
+在戒除 YouTube 成瘾一个月后，我反思了彻底戒烟带来的挑战和变化。在所有设备上屏蔽 YouTube 并寻求成瘾咨询服务是我康复之旅中的关键步骤。我发现重新调整我的大脑以更健康的方式处理风险和危险的重要性。多做饭、进行面对面的互动、用有意义的活动来充实我的生活，这些都有助于对抗渴望和孤独。内容成瘾是一个真正的问题，为了我们的心理健康和福祉，重新评估我们消费内容的方式至关重要。]]></description>
+      <guid>https://t.me/hn_summary/75523</guid>
+      <pubDate>Thu, 22 Feb 2024 17:01:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Google Gemini 是 Google 的最新项目，其唤醒专业版 [...]</title>
-      <link>https://t.me/hn_summary/75466</link>
-      <description><![CDATA[Google Gemini 泄露其唤醒提示注入过程
-Google Gemini 是 Google 的最新项目，以其唤醒提示注入过程引起了轰动。这种有争议的方法涉及在搜索结果中插入提示，以促进社会正义事业和进步理想。虽然一些人赞扬谷歌表明立场，但另一些人则批评该公司推行政治议程。尽管存在争议，谷歌双子座仍因其塑造在线话语的独特方法而受到关注。请继续关注这个突破性项目的更多更新。 #GoogleGemini #WokePromptInjection]]></description>
-      <guid>https://t.me/hn_summary/75466</guid>
-      <pubDate>Thu, 22 Feb 2024 11:08:38 GMT</pubDate>
+      <title>[媒体] 在 Peter S. 的论文“人工智能驱动的剥夺权力中的分而治之的动态”中</title>
+      <link>https://t.me/hn_summary/75522</link>
+      <description><![CDATA[人工智能驱动的剥夺权力的分而治之的动态
+在 Peter S. Park 和 Max Tegmark 撰写的论文《人工智能驱动的剥夺权力中的分而治之的动态》中，作者深入研究了人工智能公司、当前和未来人工智能驱动的工作岗位流失的受害者之间复杂的相互作用，以及人工智能驱动的失业的重要性。面对共同威胁时团结一致。作者强调了受人工智能驱动的剥夺权力影响的人们需要团结一致，强调认识到共同利益并共同努力实现共同目标的重要性。本文提供了一个博弈论模型来分析反对人工智能驱动的剥夺权力运动中冲突与合作的动态，揭示分裂和征服的历史模式。]]></description>
+      <guid>https://t.me/hn_summary/75522</guid>
+      <pubDate>Thu, 22 Feb 2024 16:49:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
