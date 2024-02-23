@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 22 Feb 2024 21:04:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 00:16:36 GMT</lastBuildDate>
     <item>
-      <title>[媒体]本文讨论了强迫法学硕士（大语言模型 [...]</title>
-      <link>https://t.me/hn_summary/75568</link>
-      <description><![CDATA[强迫法学硕士做和透露几乎任何事情
-本文讨论了强迫 LLM（大型语言模型）执行各种任务并泄露敏感信息的道德影响。作者深入研究了法学硕士超出其预期用途的潜在风险和后果，强调了人工智能领域道德准则和法规的必要性。争议在于围绕这些强大的语言模型的操纵和利用的道德困境。它是一篇发人深省的文章，阐明了与法学硕士合作时必须考虑的道德因素。]]></description>
-      <guid>https://t.me/hn_summary/75568</guid>
-      <pubDate>Thu, 22 Feb 2024 21:04:29 GMT</pubDate>
+      <title>[媒体] 在一次揭露性的采访中，美国国家安全局的黑客负责人解释了该机构如何获得访问权限 [...]</title>
+      <link>https://t.me/hn_summary/75599</link>
+      <description><![CDATA[NSA 黑客负责人解释如何阻止他进入您的系统
+在一次揭露性的采访中，美国国家安全局的黑客负责人解释了该机构如何通过比网络创建者更了解网络来访问网络。为了将 NSA 拒之门外，请限制访问权限、分段网络、修补系统以及使用带外网络分流器监视网络活动。令人惊讶的是，美国国家安全局并没有严重依赖零日漏洞，而是专注于持久性和已知漏洞。还讨论了归因问题，美国国家安全局强调准确归因攻击的难度。总体而言，美国国家安全局的建议是相信他们在网络安全方面的专业知识。有争议的是，美国国家安全局承认，由于高级持续威胁的持续威胁，其方法并不完全透明。]]></description>
+      <guid>https://t.me/hn_summary/75599</guid>
+      <pubDate>Fri, 23 Feb 2024 00:16:36 GMT</pubDate>
     </item>
     <item>
-      <title>Reflex 是一个用于用纯 Python 构建 Web 应用程序的开源框架，正在寻求全栈 e [...]</title>
-      <link>https://t.me/hn_summary/75567</link>
-      <description><![CDATA[Reflex (YC W23) 正在招聘 SWE 来从事开源工作Python 网络应用
-Reflex 是一个用纯 Python 构建 Web 应用程序的开源框架，正在旧金山/湾区寻找全栈工程师来开发面向用户的应用程序，并为他们的开源项目做出贡献。该角色涉及领导网站、托管服务和即将推出的应用程序生成平台的开发。职责包括设计和实现新功能、维护代码质量以及积极参与 Reflex 社区。这项工作提供了在快速发展的代码库上工作的机会，并在塑造框架的未来方面发挥关键作用。立即申请加入 Reflex 团队，并在 Web 开发领域产生有意义的影响。]]></description>
-      <guid>https://t.me/hn_summary/75567</guid>
-      <pubDate>Thu, 22 Feb 2024 21:02:24 GMT</pubDate>
+      <title>[媒体]马蹄理论表明极左派和极右派彼此更加相似[...]</title>
+      <link>https://t.me/hn_summary/75598</link>
+      <description><![CDATA[马蹄理论
+马蹄理论认为，极左和极右之间的相似度比政治中心更相似，将它们比作马蹄铁的两端。虽然一些支持者认为威权倾向有相似之处，但批评者指出，学术研究常常与这一理论相矛盾。这个概念可以追溯到 1850 年代，并被用于各种政治背景，现代讨论强调极端之间的趋同。然而，学术研究普遍不支持这一理论，强调政治光谱上极左和极右之间的明显差异。 （根据故事文本的 35% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/75598</guid>
+      <pubDate>Fri, 23 Feb 2024 00:03:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 thenewsta 上的文章“揭开软件开发中不良代码的成本”中 [...]</title>
-      <link>https://t.me/hn_summary/75566</link>
-      <description><![CDATA[揭开软件开发中不良代码的成本&lt; br /&gt;
-在 thenewstack.io 上的文章“揭开软件开发中不良代码的成本”中，作者强调了不良代码对开发流程和整个软件生命周期的重大影响。该文章强调了与不良代码相关的成本不断增加，研究表明，五年内，这些成本可能高达 150 万美元或超过 27,000 开发时间。作者还讨论了日益严重的不良代码问题，开发人员面临倦怠和对效率的要求不断提高。本文建议采用“编写代码时保持清洁”的方法来确保交付高质量的软件并减轻技术债务。]]></description>
-      <guid>https://t.me/hn_summary/75566</guid>
-      <pubDate>Thu, 22 Feb 2024 20:57:19 GMT</pubDate>
+      <title>[媒体] Intuitive Machine 的美国飞船于 80 岁时成功完成登月任务 [...]</title>
+      <link>https://t.me/hn_summary/75597</link>
+      <description><![CDATA[美国航天器完成登月任务
+Intuitive Machine 的美国航天器在南纬 80 度、距南极仅 300 公里处成功完成了登月任务，成为迄今为止最南端的着陆任务。南极具有挑战性的地形，包括山脉和深坑，在永久阴影区域具有水冰储量的潜力。这对于未来的人类探险家来说可能至关重要，为饮用水、卫生设施甚至制造火箭燃料提供资源。此次任务的成功标志着我们在了解和利用月球资源进行未来太空探索方面迈出了重要一步。]]></description>
+      <guid>https://t.me/hn_summary/75597</guid>
+      <pubDate>Thu, 22 Feb 2024 23:53:21 GMT</pubDate>
     </item>
     <item>
-      <title>耶鲁大学做出了有争议的决定，将 SAT 考试恢复为最佳方式 [...]</title>
-      <link>https://t.me/hn_summary/75565</link>
-      <description><![CDATA[耶鲁大学恢复 SAT 测试作为预测成功的最佳方式
-耶鲁大学做出了一项颇具争议的决定，即恢复 SAT 考试，将其作为预测新生成功的最佳方式。尽管大学选择性考试的趋势日益明显，但耶鲁大学认为标准化考试成绩仍然是评估申请者的宝贵工具。这一令人惊讶的举动与当前高等教育的叙述背道而驰，并引发了教育工作者和学生之间的争论。耶鲁大学的决定凸显了围绕标准化考试在大学招生中的作用正在进行的争论，并对考试可选政策的未来提出了疑问。]]></description>
-      <guid>https://t.me/hn_summary/75565</guid>
-      <pubDate>Thu, 22 Feb 2024 20:56:15 GMT</pubDate>
+      <title>[媒体] 在令人心碎的叙述中，Jaakko Teittinen 向 [...] 分享了他兄弟的悲惨去世。</title>
+      <link>https://t.me/hn_summary/75596</link>
+      <description><![CDATA[芬兰奇迹：该国如何将自杀率减半并拯救无数生命
+在令人心碎的叙述中，雅科·泰蒂宁分享了他弟弟自杀的悲惨经历以及这对他的家庭造成的影响。尽管芬兰过去因自杀率高而闻名，但该国通过国家举措和干预措施在降低自杀率方面取得了重大进展。维利-马蒂·沃伦玛 (Veli-Matti Vuorenmaa) 与自杀念头的斗争及其康复之旅的故事凸显了寻求帮助和支持的重要性。自杀预防培训师哈里·西赫沃拉 (Harri Sihvola) 反思了芬兰对自杀态度的变化，并强调需要进行公开对话和积极倾听来解决这一关键问题。这篇文章揭示了预防自杀方面取得的进展以及仍然存在的挑战。 （根据 93% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75596</guid>
+      <pubDate>Thu, 22 Feb 2024 23:46:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]为什么多伦多应该“感到愤怒......”</title>
-      <link>https://t.me/hn_summary/75564</link>
-      <description><![CDATA[为什么多伦多应该对“不分青红皂白”感到“愤怒......”公交车站枪击事件
-在 www.thestar.com中，作者重点介绍了最近多伦多公交车站发生的枪击事件，呼吁社区团结起来表达愤怒。作者强调这些袭击是不分青红皂白的，造成无辜旁观者受伤和死亡。争议在于毫无意义的暴力和对人命的不尊重。文章敦促多伦多居民要求当局采取行动，解决这些枪击事件的根源，确保社区安全。]]></description>
-      <guid>https://t.me/hn_summary/75564</guid>
-      <pubDate>Thu, 22 Feb 2024 20:55:11 GMT</pubDate>
+      <title>[媒体] Intuitive Machines 已成功将奥德修斯号送上月球，标志着首次 [...]</title>
+      <link>https://t.me/hn_summary/75595</link>
+      <description><![CDATA[直观机器成功登陆月球
+直觉机器公司成功将奥德修斯号登陆月球，标志着半个多世纪以来美国首次登陆月球。这次登月并非已成定局，因为最近的登月尝试面临着挑战和失败。奥德修斯号在下降过程中使用了美国宇航局提供的激光雷达仪器，展示了私营企业太空探索的新时代。然而，由于私人任务数量不断增加，人们担心月球科学实验可能受到干扰。这次成功着陆是太空探索的一个重要里程碑。]]></description>
+      <guid>https://t.me/hn_summary/75595</guid>
+      <pubDate>Thu, 22 Feb 2024 23:45:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 法官驳回了针对 Snapchat 将一名 12 岁女孩与 [...]</title>
-      <link>https://t.me/hn_summary/75563</link>
-      <description><![CDATA[Snapchat 不承担将 12 岁儿童与被定罪者联系起来的责任性犯罪者
-一名法官驳回了针对 Snapchat 的投诉，该投诉称 Snapchat 将一名 12 岁女孩与已定罪的性犯罪者联系起来，导致她遭受性侵犯。该诉讼称 Snapchat 的“快速添加”功能将女孩引向掠夺者，但法官裁定《通信规范法》第 230 条使 Snapchat 免于承担责任。这一决定与洛杉矶的一项裁决形成鲜明对比，该裁决认为 Snapchat 对将青少年与毒贩联系起来负有责任。法官的意见引起了人们对第 230 条范围广泛的担忧，表明需要采取立法行动。此案凸显了关于在线平台保护未成年人免受掠夺者侵害的责任的持续争论。]]></description>
-      <guid>https://t.me/hn_summary/75563</guid>
-      <pubDate>Thu, 22 Feb 2024 20:49:04 GMT</pubDate>
+      <title>[媒体]NASA计划在2030年底前退役国际空间站并取而代之 [...]</title>
+      <link>https://t.me/hn_summary/75594</link>
+      <description><![CDATA[NASA 即将退役国际空间站
+NASA计划在2030年底前退役国际空间站，并用一家私营公司开发的新空间站取而代之。此举将使 NASA 能够专注于深空探索，并过渡到从商业实体购买服务。新的空间站将采用更新的技术和研究设施，为研究人员提供更清洁、更高效的环境。宇航员对新空间站中现代实验室和适应性结构的潜力感到兴奋，并强调跟上不断发展的技术的重要性。 （根据故事文本的 75% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/75594</guid>
+      <pubDate>Thu, 22 Feb 2024 23:43:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Reddit，流行的社交媒体公司，已在纽约证券交易所申请首次公开募股（IPO）。</title>
-      <link>https://t.me/hn_summary/75562</link>
-      <description><![CDATA[Reddit 文件将在纽约证券交易所上市，股票代码为 RDDT
-流行的社交媒体公司 Reddit 已在纽约证券交易所申请首次公开募股，股票代码为 RDDT。尽管该公司 2023 年的年销售额为 8.04 亿美元，但自成立以来一直出现净亏损。 Reddit 的目标是利用在线广告市场，计划扩大其搜索能力，到 2027 年解决搜索广告领域价值 7500 亿美元的机会。该公司成立于 2005 年，已筹集 13 亿美元资金，后估值为 10 美元十亿。然而，Reddit 在建立成功的在线广告业务方面面临着挑战，并且经历了用户增长的波动。]]></description>
-      <guid>https://t.me/hn_summary/75562</guid>
-      <pubDate>Thu, 22 Feb 2024 20:46:59 GMT</pubDate>
+      <title>时光倒流到 20 世纪 50 年代，当时网上购物还只是一个未来的梦想。</title>
+      <link>https://t.me/hn_summary/75593</link>
+      <description><![CDATA[20世纪50年代的网上购物
+时光倒流到 20 世纪 50 年代，当时网上购物还只是一个未来的梦想。本文探讨了过去人们想象的在舒适的家中购物的创造性方式，从使用电视订购产品到“家庭购物电脑”的概念。发现超前于时代的令人惊讶和聪明的想法，以及它们如何为我们今天所知的在线购物体验铺平道路。深入了解购物技术的历史及其多年来的演变。]]></description>
+      <guid>https://t.me/hn_summary/75593</guid>
+      <pubDate>Thu, 22 Feb 2024 23:36:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在“没有人因解决从未发生过的问题而受到赞扬”中，作者光盘 [...]</title>
-      <link>https://t.me/hn_summary/75561</link>
-      <description><![CDATA[没有人因解决从未发生过的问题而获得荣誉 (2001) [pdf](https://news.ycombinator.com/item?id=39472693)
-在《没有人因解决从未发生过的问题而获得荣誉》一文中，作者讨论了在组织中实施流程改进计划的挑战和悖论。尽管对全面质量管理 (TQM) 等计划进行了大量投资，但许多努力未能产生显着成果。作者认为，问题不在于所使用的具体工具，而在于这些程序如何与组织结构交互。他们提出了一个因果循环图来说明改进的动态，强调投资流程能力比简单地更加努力工作的重要性。本文提供了提高改进计划成功率的实用建议。 （根据故事文本的 19% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/75561</guid>
-      <pubDate>Thu, 22 Feb 2024 20:38:53 GMT</pubDate>
+      <title>[媒体]SRAM 无法扩展导致功耗和性能挑战，迫使设计[...]</title>
+      <link>https://t.me/hn_summary/75592</link>
+      <description><![CDATA[SRAM 扩展问题以及下一步
+SRAM 无法扩展导致功耗和性能挑战，迫使设计生态系统进行创新。尽管有其局限性，SRAM 对于人工智能应用仍然至关重要。然而，随着 CMOS 尺寸缩小的进展，SRAM 难以跟上，从而影响功耗和性能。纠错和可靠性问题也不断出现，导致需要新的解决方案。我们正在考虑 MRAM 和 ReRAM 等替代存储器类型，但每种类型都有其自身的挑战。由于 SRAM 面临扩展限制，未来的设计可能需要新的架构和小芯片方法。业界正在探索各种策略来解决这些问题并提高 SRAM 的效率。 （根据故事文本的 68% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/75592</guid>
+      <pubDate>Thu, 22 Feb 2024 23:34:58 GMT</pubDate>
     </item>
     <item>
-      <title>TL;DR：Hatchet 是一个开发人员优先的即时工程平台，于 2 月 22 日推出。</title>
-      <link>https://t.me/hn_summary/75560</link>
-      <description><![CDATA[展示HN：开源、开发者优先的提示工程平台&lt; /a&gt;
-TL;DR：Hatchet 是一个开发人员优先的即时工程平台，于 2 月 22 日推出。它允许团队迭代提示、优化上下文并更快地调试 LLM 应用程序，并将更改写回代码库。该平台通过使提示能够存在于您的代码库中、提供工作流作为远程函数调用、错误处理和工作负载分配的代码，解决了现有提示工程工具的局限性。新功能包括 LLM 工作流程的 UI、完整的交互历史记录以及将更改同步到 Github。使用 Hatchet Python 快速入门存储库开始使用自托管实例。 （根据 98% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75560</guid>
-      <pubDate>Thu, 22 Feb 2024 20:35:46 GMT</pubDate>
+      <title>Linux 上 OpenZFS 中的 ZFS 意图日志 (ZIL) 在确保 [...]</title>
+      <link>https://t.me/hn_summary/75591</link>
+      <description><![CDATA[Linux 上的（开放）ZFS 公开了哪些 ZIL 指标
+Linux 上 OpenZFS 中的 ZFS 意图日志 (ZIL) 在将文件系统活动提交到 ZFS 池之前确保文件系统活动的持久性方面发挥着至关重要的作用。了解 ZIL 指标对于优化 ZFS 文件系统操作中的延迟和响应能力至关重要。 OpenZFS 在 /proc/spl/kstat/zfs/zil 中公开全局 ZIL 信息，但解释此数据需要了解 ZIL 内部结构。 zilcommitcount、zilitxcount 和 zilitxmetaslabnormalcount 等指标可提供对 ZIL 活动的深入了解。令人惊讶的是，ZFS 提供了三种在 ZIL 中记录文件数据的选项：间接写入、复制写入和需要复制写入。 ZIL 指标揭示了不同类型的 ZIL 写入及其对系统性能的影响。]]></description>
+      <guid>https://t.me/hn_summary/75591</guid>
+      <pubDate>Thu, 22 Feb 2024 23:33:52 GMT</pubDate>
     </item>
     <item>
-      <title>“禅宗程序员的十条规则”提醒我们古代禅宗大师的教义如何 [...]</title>
-      <link>https://t.me/hn_summary/75559</link>
-      <description><![CDATA[禅宗程序员的十大规则
-“禅宗程序员的十条规则”提醒我们如何将古代禅宗大师的教义应用于现代编程实践。这些规则强调了专注、保持清醒的头脑、保持初学者的心态、放下自我、不专注于职业目标、练习正念和照顾自己的重要性。作者鼓励程序员勤奋工作，避免分心，并优先考虑自己的幸福。这些规则挑战了传统的成功观念，并敦促个人在工作中找到快乐，同时又不忽视个人幸福。该内容提供了有关科技行业生产力和自我保健的独特视角。 （根据 70% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75559</guid>
-      <pubDate>Thu, 22 Feb 2024 20:22:32 GMT</pubDate>
+      <title>[媒体] 约翰·奇克斯 (John Cheeks) 认为自己中了强力球彩票后赢得了 3.4 亿美元 [...]</title>
+      <link>https://t.me/hn_summary/75590</link>
+      <description><![CDATA[男子在被告知他的 3.4 亿美元“中奖”是一场胜利后起诉强力球错误
+约翰·奇克斯 (John Cheeks) 以为自己中了 3.4 亿美元的强力球彩票，因为他的彩票与 2023 年 1 月网上发布的号码相符。然而，当他试图兑奖时，他一再被拒绝，华盛顿特区彩票和博彩办公室声称这些号码是一个失误。奇克斯现在正在起诉几个参与强力球的组织，寻求赔偿，并对彩票运营的诚信提出质疑。这个案例凸显了彩票系统中问责制和保障措施的必要性，特别是在承诺改变生活的机会时。诉讼正在进行中，初步听证会定于周五举行。]]></description>
+      <guid>https://t.me/hn_summary/75590</guid>
+      <pubDate>Thu, 22 Feb 2024 23:29:47 GMT</pubDate>
     </item>
     </channel>
 </rss>

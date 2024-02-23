@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 22 Feb 2024 15:06:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 00:17:14 GMT</lastBuildDate>
     <item>
-      <title>如果 NextJS 中的后端使用某些容器编排/在 EC2 上运行（基本上没有 Vercel），它的运行情况会怎样？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ax8h8i/what_does_a_backend_in_nextjs_run_like_if_its_run/</link>
-      <description><![CDATA[我相信 NextJS 具有无服务器功能，并将后端部署为无服务器，并在特定区域有流量时启动实例。但是，如果我们在本地构建它并在没有 vercel 的情况下提供它，会发生什么？   冷重启问题是否仍然存在？ 如果我们不使用 vercel，它会像服务器后端一样工作吗？    由   提交 /u/imaburneracc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ax8h8i/what_does_a_backend_in_nextjs_run_like_if_its_run/</guid>
-      <pubDate>Thu, 22 Feb 2024 15:01:58 GMT</pubDate>
+      <title>大型军团在设计和部署方面使用什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1axlhqc/what_do_large_corps_use_in_terms_of_design_and/</link>
+      <description><![CDATA[纯粹是出于好奇。我设计 WordPress 是因为它是我所知道的，所以我坚持使用它并支持非常小的本地企业。但百思买或家得宝等企业巨头使用什么平台？或者他们根本使用平台吗？   由   提交/u/Pleaseclap4  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1axlhqc/what_do_large_corps_use_in_terms_of_design_and/</guid>
+      <pubDate>Thu, 22 Feb 2024 23:37:09 GMT</pubDate>
     </item>
     <item>
-      <title>@dev 自由职业者！您现在专注于 WordPress、Shopify、salesforce 或 service 等 CMS 系统吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ax8f6m/dev_freelancers_do_you_specialize_in_cms_systems/</link>
-      <description><![CDATA[我在想，因为并非每个客户都需要从头开始构建整个应用程序。有些可以使用 cms 系统更有效地构建。我正在尝试探索自由开发工作的领域。有什么想法要重点关注吗？我只有一些 .net 经验和一些 React 经验。不确定该技术堆栈在自由职业中会有多棒。有什么建议以及如何获得客户吗？是通过 Fiverr 还是直接联系？   由   提交 /u/vilusion   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ax8f6m/dev_freelancers_do_you_specialize_in_cms_systems/</guid>
-      <pubDate>Thu, 22 Feb 2024 14:59:52 GMT</pubDate>
+      <title>JSR：目前我们对 Deno 新 JavaScript 包注册表的了解</title>
+      <link>https://www.reddit.com/r/webdev/comments/1axldou/jsr_what_we_know_so_far_about_denos_new/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1axldou/jsr_what_we_know_so_far_about_denos_new/</guid>
+      <pubDate>Thu, 22 Feb 2024 23:32:29 GMT</pubDate>
     </item>
     <item>
-      <title>身份验证从 SPA 迁移到 Nuxt</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ax89hu/authentication_moving_from_spa_to_nuxt/</link>
-      <description><![CDATA[嘿，目前正在从 vue3 spa 转向 nuxt 方法并考虑身份验证。我觉得很混乱！ 目前我们的架构看起来像这样.. https:// imgur.com/a/76Nev4f UI 调用 keycloak 并使用屏幕截图中使用的身份验证方法获取身份验证令牌。 我们如何利用 ssr + auth？这是一个已解决的问题吗？因为我们的 API 是一个单独的服务，所以我想知道如何在“nuxt ssr 后端”上进行操作。您可以使用令牌以不公开令牌的安全方式使用 C# API 进行身份验证。我们是否需要更改 C# API 来查看 cookie？ 有关 cookie、auth 的任何说明，我们将不胜感激！干杯   由   提交/u/cheeno12  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ax89hu/authentication_moving_from_spa_to_nuxt/</guid>
-      <pubDate>Thu, 22 Feb 2024 14:52:45 GMT</pubDate>
+      <title>Shoelace：一个具有前瞻性的 Web 组件库。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1axkqrm/shoelace_a_forwardthinking_library_of_web/</link>
+      <description><![CDATA[   /u/fagnerbrack   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1axkqrm/shoelace_a_forwardthinking_library_of_web/</guid>
+      <pubDate>Thu, 22 Feb 2024 23:06:25 GMT</pubDate>
     </item>
     <item>
-      <title>Web 开发中最高级的主题...如何将 Div 居中。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ax82kp/the_most_advanced_topic_in_web_dev_how_to_center/</link>
-      <description><![CDATA[   /u/Vaylx  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ax82kp/the_most_advanced_topic_in_web_dev_how_to_center/</guid>
-      <pubDate>Thu, 22 Feb 2024 14:44:32 GMT</pubDate>
+      <title>带有 Shopify UX 的 WP 主题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1axkbfp/wp_theme_with_shopify_ux/</link>
+      <description><![CDATA[有谁知道WordPress上是否有插件主题的作用类似于Shopify的主题？ 它不仅仅是拖动并下降，但无论如何它也是 100% 响应的？  我只能找到其设置模板具有响应性的 WP 主题和插件，但如果您只是拖放它们提供的任何页面块，则无法找到，这让我慢慢地丧命。  我正在处理一个非常旧的网站，它让我发疯。  如果您有可以改变我生活的主题或插件，请告诉我！ （我不是网络开发人员，所以我真的失去了理智）&lt; /p&gt; 谢谢！！！   由   提交/u/Burreaux_Heaux9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1axkbfp/wp_theme_with_shopify_ux/</guid>
+      <pubDate>Thu, 22 Feb 2024 22:49:25 GMT</pubDate>
     </item>
     <item>
-      <title>寻找第一批客户的技巧？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ax7lg8/tips_for_finding_your_first_clients/</link>
-      <description><![CDATA[嘿伙计们， TLDR： 这里的自由职业者们，你们是如何获得第一个客户的？有什么提示/技巧吗？ 我正在寻找网络开发自由职业，我发现最大的挑战实际上是寻找客户。我有一个相当广泛的工具包可供使用，我绝对可以进行全栈开发。但由于我才刚刚起步，我几乎通过使用我的网络和四处询问而几乎成功登陆的少数客户最终选择与网络开发机构签约 - 只是出于风险逆境。因此，我明白我需要改善我的业绩记录并从满意的客户那里获得一些自白，以增加将来有人雇用我的可能性。但如果没有客户，我就无法获得任何好的评论。 我尝试过 Fiverr 和 Upwork 等常见网站，但竞争非常激烈，当有这么多专业人士时，我个人永远不会雇用未经测试的人数百条评论以如此便宜的价格出售他们的专业服务。 因此，我正在寻找有关如何获得第一批客户的一般提示。我并不羞于联系任何人，也不羞于抓住机会，但是，是的，我在哪里可以找到他们？我如何吸引他们？任何有关您如何做到这一点的帮助或故事都将非常感激。 它甚至不必是 Web 开发，我也从事自动化（使用 Python 和软件）和数据科学，但是从事有限任务的自由职业者市场在这里似乎更加有限。    由   提交 /u/whateverbeaver   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ax7lg8/tips_for_finding_your_first_clients/</guid>
-      <pubDate>Thu, 22 Feb 2024 14:23:46 GMT</pubDate>
+      <title>Reddit Web 开发：团队项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1axjuyj/reddit_web_dev_team_project/</link>
+      <description><![CDATA[这篇文章的灵感来自于《Last Epoch》，这款游戏最初是在 Reddit 上诞生的，现在在 Steam 上的销量已超过 1,000,000 份。 Eleventh Hour Games 解决了游戏玩家正在寻找的东西。  对于网络开发：您有任何暂时搁置的项目、想要启动的项目，或者您想要开始的任何想法吗？您认为需要在线的任何类型的项目？如果有人有兴趣组队，请随时在下面发帖。 只需回答以下 3 个问题即可： 1) 您的网络开发技能和经验是什么？ 2) 您的项目希望关注什么类型的行业？ 3) 您有时间参与该项目吗？ （每周工作小时数） 对于第二个问题，您不必详细介绍该项目，但如果您愿意的话可以这样做。只是为了获得整体感觉。 我可以继续开始：1) HTML、CSS、JS。我喜欢使用 Astro 来构建简单的网站，使用 NextJS 来构建更复杂的网站。从事前端工作超过 15 年。另外，也是 Figma 的忠实粉丝，并且精通 Tailwind。 2）汽车行业（车辆）。我对一个网站有一个有趣的想法，我认为人们会真正使用和访问该网站。用 Figma 创建模型，用 NextJS 和 Tailwind 制作布局，数据库已经购买，现在只是连接内容和功能。3）每周 6-8 小时开始，保持灵活性。   由   提交/u/avidrunner84  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1axjuyj/reddit_web_dev_team_project/</guid>
+      <pubDate>Thu, 22 Feb 2024 22:31:07 GMT</pubDate>
     </item>
     <item>
-      <title>对我的学士论文组件库的反馈 || TypeScript 和 React</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ax75yw/feedback_for_my_bachelor_thesis_component_library/</link>
-      <description><![CDATA[大家好， 这篇文章针对的是软件和 Web 开发人员或那些想成为一名经验丰富的开发人员的人在 React 和 TypeScript / JavaScript 中。无论您编程时间有多长，无论您是作为业余爱好还是职业。 如果您是开发人员但不符合上述标准，那不是问题：也欢迎您简单地查看文档并提供反馈。 我目前正在撰写有关 Web 应用程序中的数字可访问性主题的学士论文。作为其中的一小部分，我根据万维网联盟公司的指南和成功标准及其 Web 内容可访问性指南 2.2 创建了一个 npm 库。 如果您既没有 React 也没有如果您想安装或测试该库，也欢迎您查看 README 或 Storybook 文档中的文档，并回答有关文档或 Storybook 的一些问题。如果您只是提供有关组件名称的反馈，我也很高兴。 如果您有时间并且愿意支持我的这项工作，欢迎您查看里面的文档阅读该库和库本身的自述文件，并根据需要安装它。如果您随后能花 8 到 10 分钟在下面链接的反馈位置回答一些问题，我将非常感激。 我也很高兴收到评论中的反馈，尽管我会如果您填写反馈，我们会更高兴。反馈的重点应该是组件名称的命名，因为这些名称是根据各自 WCAG 技术的实现来命名的。 预先感谢， Michael  p&gt; npm 库 故事书文档 提供反馈的地方   由   提交/u/Foreign_Equipment_97   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ax75yw/feedback_for_my_bachelor_thesis_component_library/</guid>
-      <pubDate>Thu, 22 Feb 2024 14:04:49 GMT</pubDate>
+      <title>包含成员社区 Web 堆栈的目录</title>
+      <link>https://www.reddit.com/r/webdev/comments/1axjng0/directory_with_member_community_web_stack/</link>
+      <description><![CDATA[我无法决定如何构建具有后端社区参与功能和电子商务的前端成员目录。对于这些方面有什么建议或经验吗？   由   提交/u/myyninja14   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1axjng0/directory_with_member_community_web_stack/</guid>
+      <pubDate>Thu, 22 Feb 2024 22:22:53 GMT</pubDate>
     </item>
     <item>
-      <title>“最便宜的”第 3 方日志和错误跟踪？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ax6vcz/cheapest_3rd_party_log_and_error_tracking/</link>
-      <description><![CDATA[我把“最便宜”放在了用引号引起来，因为我可以想到六种方法将它们放入自托管非索引数据库或像 S3 这样的对象存储中，但如果不需要的话，我不想重新发明轮子。&lt; /p&gt; 我想要的是 LogRocket、BugSnag、Datadog 等，但价格实惠（阅读：一个很好的免费套餐），同时我的副项目启动规模足够大，可以开始支付成本。我已经研究了很多选项，类似于我上面提到的那些，但它们的负载非常大，而且都有低得离谱的限制。我完全理解这一点，因为正确地做到这一点是昂贵的......但这并没有改变我们的成本限制，而且与其他人相比，这是相对较低的优先级。 我现在的想法是去S3 路由（或数字海洋空间）并使用消息队列来记录日志。但是，我必须建造它。所以我并不反对图书馆为我做类似的事情。  仅供参考，目前的堆栈是 Cloudflare 上的无服务器 Remix，并且 Cloudflare 还不支持 Cloudflare Pages 的持久日志记录，这很糟糕，但它们的成本非常便宜，并且拥有我所有的 CDN、边缘缓存、无服务器功能、无服务器站点和同一平台上的 DNS 非常棒。  我们在 VPS 上有一个简单的 Fastify/Apollo GQL API 服务器来连接到我们的 Neo4j 数据库，但我真的不想为此单独启动一个新的 VPS。现在我们有很多成本需要自掏腰包，我只是不想增加这些成本。我可能可以在同一台服务器上放置一个，但随后我担心存储管理。   由   提交/u/trout_fucker  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ax6vcz/cheapest_3rd_party_log_and_error_tracking/</guid>
-      <pubDate>Thu, 22 Feb 2024 13:51:34 GMT</pubDate>
+      <title>从机器学习转移过来</title>
+      <link>https://www.reddit.com/r/webdev/comments/1axjcvd/moving_over_from_ml/</link>
+      <description><![CDATA[我作为 ML 工程师工作了大约 2 年，比起科学工作，我更喜欢工程工作。我最初是一名前端工程师，提高技能并向已经有工作经验的人申请前端工作的最佳方式是什么   由   提交/u/C_tha_shocker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1axjcvd/moving_over_from_ml/</guid>
+      <pubDate>Thu, 22 Feb 2024 22:11:06 GMT</pubDate>
     </item>
     <item>
-      <title>帮助在一页中显示网站的所有帖子</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ax6rvx/help_to_display_all_post_of_a_website_in_one_page/</link>
-      <description><![CDATA[让我们以 GJU 为例 我在网站的搜索字段中搜索了一些文本，它为我提供了一些帖子，位于底部有页面导航  现在我不希望加载 100 个页面的页面导航 我希望所有帖子都显示在一页中    由   提交 /u/AbhiBoris   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ax6rvx/help_to_display_all_post_of_a_website_in_one_page/</guid>
-      <pubDate>Thu, 22 Feb 2024 13:46:47 GMT</pubDate>
+      <title>2024 年 JavaScript 膨胀</title>
+      <link>https://www.reddit.com/r/webdev/comments/1axjc20/javascript_bloat_in_2024/</link>
+      <description><![CDATA[ 由   提交 /u/stefanjudis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1axjc20/javascript_bloat_in_2024/</guid>
+      <pubDate>Thu, 22 Feb 2024 22:10:19 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 CSS/JS 制作方圆（超椭圆）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ax6ptk/how_would_you_make_a_squircle_superellipse_with/</link>
-      <description><![CDATA[我正在谈论这样的形状：https://superellipse .xxhax.com/ 它需要在上述网站中的任何宽高比、任何宽度和高度以及任何边框半径（“power”）下工作。 我考虑过 houdini，但 Firefox 和 safari 不支持它。   由   提交/u/gg-phntms   /u/gg-phntms  reddit.com/r/webdev/comments/1ax6ptk/how_would_you_make_a_squircle_superellipse_with/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ax6ptk/how_would_you_make_a_squircle_superellipse_with/</guid>
-      <pubDate>Thu, 22 Feb 2024 13:44:10 GMT</pubDate>
+      <title>WP 网站当前最佳订阅付费专区？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1axj1f2/best_current_subscription_paywall_for_wp_website/</link>
+      <description><![CDATA[所以，我正在 WP 中构建一个博客/电子商务网站。我不是编码员，尽管我可以按照说明编辑/调整代码中的设置。  我想设置以下内容：  我的网站上有大约 5 个仅限会员的部分（即儿童角、商业资源、创意（Photoshop 模板库） / Premier / Canva / 等...） 每个会员部分将有 2-3 个等级，控制可以下载的项目数量（但所有会员都可以无限制地在线查看）嵌入式翻页图书和视频）   第 1 级 = 每月 3.99 美元，每周可下载 15 个项目 第 2 级= 每月 5 美元，可下载每周下载 30 个项目 第 3 级 = 每月 15 美元，每周可下载 100 个项目 第 4 级 = 每月 25 美元，上帝级可以访问所有 5 个会员部分并下载 500 个项目每周（每个部分 100）   自动管理付款失败通知，并在 XX 周后 XX 次付款尝试失败后取消会员资格 处理从设置到重置的密码管理 用于进一步安全的选项，例如每个帐户注册 3 台设备（笔记本电脑、手机、平板电脑）。这是为了帮助防止密码共享。 后端统计信息，配置为向我们公司的客户经理提供的自动通知触发器，  ​ 你发现了什么（希望这不是雇佣编码员来构建它的解决方案）你使用过、知道、喜欢……或者你讨厌的、每个人都应该远离的等等……   由   提交 /u/Hobbes-Is-Real   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1axj1f2/best_current_subscription_paywall_for_wp_website/</guid>
+      <pubDate>Thu, 22 Feb 2024 21:58:26 GMT</pubDate>
     </item>
     <item>
-      <title>我有一个动态大小的导航栏。在同一容器中调整元素大小以使其占据屏幕的其余部分但不再占据的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ax6po0/i_have_a_dynamicallysized_navbar_what_is_the_best/</link>
-      <description><![CDATA[我有一个高度可变的导航栏（在某些移动视口上它更厚，因为在特定的视口大小下文本会溢出到下一行。&lt; /p&gt; 我的 React 结构设置如下： ​  ;      基本上，我希望  填充其余部分 留下的 100vh。将高度设置为 100% 会使  100vh 并溢出屏幕。目前，我想出的最佳解决方案包括使用 js 检索导航栏高度并使用 calc (100vh - navbarHeight) 设置主体高度，但这似乎不太理想。 ​ 在纯 CSS 中没有一种简单的方法可以做到这一点吗？&lt; /p&gt; ​ 谢谢！    提交者    /u/MajorLeagueGMoney   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ax6po0/i_have_a_dynamicallysized_navbar_what_is_the_best/</guid>
-      <pubDate>Thu, 22 Feb 2024 13:43:59 GMT</pubDate>
+      <title>JSR：目前我们对 Deno 新 JavaScript 包注册表的了解</title>
+      <link>https://www.reddit.com/r/webdev/comments/1axiqa3/jsr_what_we_know_so_far_about_denos_new/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1axiqa3/jsr_what_we_know_so_far_about_denos_new/</guid>
+      <pubDate>Thu, 22 Feb 2024 21:45:35 GMT</pubDate>
     </item>
     <item>
-      <title>谁是你的客户？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ax6emu/who_are_your_clients/</link>
-      <description><![CDATA[对于那些为客户创建网站的人，无论是作为自由职业者还是代理机构 - 谁是您的客户？ 什么级别他们追求的是复杂性吗？您主要为小型企业工作吗？您多久有一次需要复杂构建的客户？   由   提交/u/Project-Weary  /u/Project-Weary  reddit.com/r/webdev/comments/1ax6emu/who_are_your_clients/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ax6emu/who_are_your_clients/</guid>
-      <pubDate>Thu, 22 Feb 2024 13:28:54 GMT</pubDate>
+      <title>您的客户有自己的付费插件帐户吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1axinnr/do_your_clients_have_their_own_accounts_for_paid/</link>
+      <description><![CDATA[对于您在客户端站点（例如联系表单）上使用的插件，您是否有自己的订阅或者是否使用自己的子组件设置客户端？我知道很多插件都有“代理”功能您可以在无限个网站上使用它的选项，这让我想知道您如何处理这个问题。   由   提交/u/Pleaseclap4  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1axinnr/do_your_clients_have_their_own_accounts_for_paid/</guid>
+      <pubDate>Thu, 22 Feb 2024 21:42:43 GMT</pubDate>
     </item>
     <item>
-      <title>嘿开发者！如何恢复丢失的文件或代码？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ax4auj/hey_dev_how_you_recover_lost_file_or_code/</link>
-      <description><![CDATA[就像我说的，某个该死的傻瓜迅速切断了电源，我真的丢失了我正在处理的文件。启动pc后，当我打开vs code时，文件消失了：“找不到文件” ，显示了创建新选项。它简直浪费了我三天的努力。看我没有使用 git，我很遗憾。但是有人遇到过同样的问题并且在没有 git 的情况下成功恢复吗？任何帮助将不胜感激   由   提交/u/WeedLover_1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ax4auj/hey_dev_how_you_recover_lost_file_or_code/</guid>
-      <pubDate>Thu, 22 Feb 2024 11:33:05 GMT</pubDate>
+      <title>有人正在重新提供我的服务器的响应吗？建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1axiia6/someone_is_reserving_responses_from_my_server/</link>
+      <description><![CDATA[我最近为一个热情的项目购买了一个域名。主要目的是熟悉 Node.js。我正在谷歌的一些微型虚拟机实例上运行它。我将这些文件托管在 Github 上（为了不违反规则 3，我不会链接这些文件）。大约一周过去了，我在 google 和 duckduckgo 上进行了搜索，只是为了好玩，看看爬虫是否已经找到了它。  令我惊讶的是，它发现 https://clientsarea.exante.eu/ （目前已关闭，请阅读更多以供解释）。这不是我的域。乍一看，这是我的存储库的最新副本。这让我有点奇怪，但它并没有违反许可证，所以我没有做什么。但是，在我将一些更改推送到存储库后，我注意到假网站不会更新*直到*我将更改拉到我的服务器上。所以我把它关掉只是为了看看你知道什么——他们的网站也突然关闭了。  所以现在我陷入困境，不知道该怎么办。当然，我可以阻止他们对我的服务器的请求，但这似乎不是一个永久的解决方案。我也很想知道这样做的目的是什么。我最好的选择是它试图通过网络钓鱼形成数据。  非常感谢任何信息，因为这有点可怕：D   由   提交/u/spaghetsie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1axiia6/someone_is_reserving_responses_from_my_server/</guid>
+      <pubDate>Thu, 22 Feb 2024 21:36:50 GMT</pubDate>
     </item>
     <item>
-      <title>我怎样才能创建一个这样的前端？后端可以是JS吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ax46jl/how_can_i_create_a_frontend_like_this_backend/</link>
-      <description><![CDATA[   /u/kalitfma   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ax46jl/how_can_i_create_a_frontend_like_this_backend/</guid>
-      <pubDate>Thu, 22 Feb 2024 11:25:29 GMT</pubDate>
+      <title>由于路由的原因，为什么 React 文档提到使用基于 React 的框架？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1axhxak/why_does_react_documentation_refer_to_using_react/</link>
+      <description><![CDATA[这里是 Angular 开发，所以不太理解为什么 React 文档这么说： „你绝对可以在没有框架的情况下使用 React —这就是您在页面的一部分中使用 React 的方式。但是，如果您完全使用 React 构建新应用程序或网站，我们建议使用框架。 原因如下。 即使您不需要路由或数据首先获取，您可能需要为它们添加一些库。“ react 不带有路由吗？你们是怎么处理的？   由   提交 /u/PiponePatrone   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1axhxak/why_does_react_documentation_refer_to_using_react/</guid>
+      <pubDate>Thu, 22 Feb 2024 21:13:48 GMT</pubDate>
     </item>
     <item>
-      <title>对于那里的自由职业者</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ax3uc6/to_the_freelancers_out_there/</link>
-      <description><![CDATA[嘿伙计们！ 我有一个问题要问这个子项目的自由职业者：你们是如何开始/进入自由职业的？&lt; /p&gt; 我对它的前景很感兴趣。 下面评论👇，谢谢。   由   提交/u/Sure-Bank-5726  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ax3uc6/to_the_freelancers_out_there/</guid>
-      <pubDate>Thu, 22 Feb 2024 11:04:28 GMT</pubDate>
+      <title>使用基本 JavaScript 的 Headless WordPress</title>
+      <link>https://www.reddit.com/r/webdev/comments/1axfvpd/headless_wordpress_with_basic_javascript/</link>
+      <description><![CDATA[我一生都找不到基本的方法，这里是如何使用无头 WordPress 和基本的 JavaScript。都是Next或者其他框架。有谁知道有什么地方解释了如何使用 WordPress 项目设置一个简单的 REST API？    由   提交/u/DotBrilliant156   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1axfvpd/headless_wordpress_with_basic_javascript/</guid>
+      <pubDate>Thu, 22 Feb 2024 19:54:47 GMT</pubDate>
     </item>
     <item>
-      <title>职员：如何在 Modal 中显示 UserProfile，而不通过 UserButton 进行导航？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ax3h4h/clerk_how_do_i_show_userprofile_in_modal_without/</link>
-      <description><![CDATA[如标题所示 https://clerk.com/docs/components/user/user-button UserButton 有一个属性 userProfileMode = &#39;modal&#39; | &#39;navigation&#39;  但是我如何直接显示https://clerk. com/docs/components/user/user-profile 以模式形式，我尝试使用 Dialog 来实现此目的，我猜我需要停止这种方法并为其创建一个新页面 i我正在使用 nextjs14、typescript、tailwind、shadcn、convex+clerk 进行这个项目   由   提交 /u/lowKeySum   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ax3h4h/clerk_how_do_i_show_userprofile_in_modal_without/</guid>
-      <pubDate>Thu, 22 Feb 2024 10:41:29 GMT</pubDate>
+      <title>使用代码创建样式表</title>
+      <link>https://www.reddit.com/r/webdev/comments/1axftqw/style_sheet_create_with_code/</link>
+      <description><![CDATA[我的任务是创建样式表或更广为人知的样式指南。但是，我需要对其进行编码，而不是使用 Figma 之类的东西。很快我也需要用代码制作不同布局的原型和模型。我作为专业网络开发人员工作了不到一年，我认为这很荒谬。  你对此有何看法？我怎样才能让我的经理相信这不是通常的做法？   由   提交/u/guitnut   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1axftqw/style_sheet_create_with_code/</guid>
+      <pubDate>Thu, 22 Feb 2024 19:52:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
