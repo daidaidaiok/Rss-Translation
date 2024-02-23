@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 23 Feb 2024 06:07:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 09:06:23 GMT</lastBuildDate>
+    <item>
+      <title>cvss 3.1 分数 api 的攻击向量</title>
+      <link>https://www.reddit.com/r/software/comments/1axvrdf/attack_vector_to_cvss_31_score_api/</link>
+      <description><![CDATA[大家好，有谁知道有哪些 API 可以将 3.1 版攻击向量转换为 cvss 分数吗？   由   提交 /u/cannon_pais   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1axvrdf/attack_vector_to_cvss_31_score_api/</guid>
+      <pubDate>Fri, 23 Feb 2024 08:40:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 USB/任何电缆连接将一台笔记本电脑镜像到另一台笔记本电脑？</title>
+      <link>https://www.reddit.com/r/software/comments/1axtdwg/mirror_one_laptop_to_another_over_usbany_cable/</link>
+      <description><![CDATA[有没有办法通过 USB 或 HDMI 有线连接将一台笔记本电脑镜像到另一台笔记本电脑？请注意，我已经尝试过 Miracast 无线镜像，发现它的延迟令人难以忍受。我也无法使用 spacedesk，因为我的一台笔记本电脑使用 Linux，另一台使用 Windows。   由   提交 /u/OmnipresentDonut123   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1axtdwg/mirror_one_laptop_to_another_over_usbany_cable/</guid>
+      <pubDate>Fri, 23 Feb 2024 06:07:06 GMT</pubDate>
+    </item>
     <item>
       <title>用户无法从 BREVO 软件打开电子邮件</title>
       <link>https://www.reddit.com/r/software/comments/1aximh2/users_cannot_open_email_from_brevo_software/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[适用于 Windows 10。 我使用 GOM Player 和 KM Player，但找不到任何下载字幕的选项观看电影时来自播放器本身。  有一个名为 MX 播放器的 Android 应用程序，我可以在其中从 MX 播放器本身在线搜索字幕。现在我正在为我的 Windows 10 笔记本电脑寻找类似的应用程序。    由   提交/u/thescarface5567  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ax2uwi/looking_for_a_media_player_software_from_which_i/</guid>
       <pubDate>Thu, 22 Feb 2024 10:01:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>从多个视频（例如 lightcut 或 capcut）自动创建视频工具</title>
-      <link>https://www.reddit.com/r/software/comments/1ax2tsu/auto_create_video_tool_from_multiple_videos_like/</link>
-      <description><![CDATA[我正在寻找一种工具（iOS 或 Windows），可以使用它自动从多个视频中剪切一个视频。 LightCut 很棒，但剪辑太短了。我也想在 Windows 上使用它（如果存在的话）。 由于数据保护，CapCut 是不可能的。  &amp;# 32；由   提交/u/phrankme  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ax2tsu/auto_create_video_tool_from_multiple_videos_like/</guid>
-      <pubDate>Thu, 22 Feb 2024 09:59:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于儿童 iPhone 的手机镜像软件</title>
-      <link>https://www.reddit.com/r/software/comments/1ax1qwh/phone_mirroring_software_for_kids_iphone/</link>
-      <description><![CDATA[我一直在寻找手机镜像软件，我 11 岁的女儿想要一部 iPhone，但我很难找到合法的软件。当我在谷歌上搜索时，我看到了诸如 mspy、clevguard kids pro、parentaler、eyezy 等之类的东西。我需要有一些东西，可以通过计算机或其他东西在不被发现的情况下安装它，并且能够监控位置以及短信和电话，所有这些公司声称这样做，但经过更多研究后，我发现他们都是欺骗人们的欺诈公司。请告诉我是否有一个真正有效的软件可供我使用。   由   提交 /u/ChampionshipCommon23   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ax1qwh/phone_mirroring_software_for_kids_iphone/</guid>
-      <pubDate>Thu, 22 Feb 2024 08:45:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
