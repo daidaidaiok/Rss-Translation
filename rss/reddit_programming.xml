@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 25 Feb 2024 15:05:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 18:06:52 GMT</lastBuildDate>
+    <item>
+      <title>消息代理：RabbitMQ</title>
+      <link>https://www.reddit.com/r/programming/comments/1azueq7/message_brokers_rabbitmq/</link>
+      <description><![CDATA[ 由   提交/u/gpskwlkr  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azueq7/message_brokers_rabbitmq/</guid>
+      <pubDate>Sun, 25 Feb 2024 18:06:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>工程更多的是关于人而不是技术</title>
+      <link>https://www.reddit.com/r/programming/comments/1azslp1/engineering_is_more_about_people_than_tech/</link>
+      <description><![CDATA[ 由   提交/u/gregorojstersek  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azslp1/engineering_is_more_about_people_than_tech/</guid>
+      <pubDate>Sun, 25 Feb 2024 16:53:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件工程师主持会议指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1azsgic/guide_to_leading_meetings_as_a_software_engineer/</link>
+      <description><![CDATA[ 由   提交/u/xxjcutlerxx  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azsgic/guide_to_leading_meetings_as_a_software_engineer/</guid>
+      <pubDate>Sun, 25 Feb 2024 16:47:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cample.js 应用程序的起点</title>
+      <link>https://www.reddit.com/r/programming/comments/1azsf1c/starting_point_for_a_camplejs_application/</link>
+      <description><![CDATA[ 由   提交/u/antonmak1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azsf1c/starting_point_for_a_camplejs_application/</guid>
+      <pubDate>Sun, 25 Feb 2024 16:46:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xmake v2.8.7 发布，添加 cosmocc 工具链支持，一次构建，随处运行</title>
+      <link>https://www.reddit.com/r/programming/comments/1azr46c/xmake_v287_released_add_cosmocc_toolchain_support/</link>
+      <description><![CDATA[ 由   提交/u/waruqi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azr46c/xmake_v287_released_add_cosmocc_toolchain_support/</guid>
+      <pubDate>Sun, 25 Feb 2024 15:53:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我第一次使用 SST 构建是一场灾难</title>
+      <link>https://www.reddit.com/r/programming/comments/1azqr4b/my_first_time_building_with_sst_was_a_disaster/</link>
+      <description><![CDATA[ 由   提交/u/azaaaad  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azqr4b/my_first_time_building_with_sst_was_a_disaster/</guid>
+      <pubDate>Sun, 25 Feb 2024 15:37:57 GMT</pubDate>
+    </item>
     <item>
       <title>专业工程师的培养：里科弗海军上将</title>
       <link>https://www.reddit.com/r/programming/comments/1azpajq/the_making_of_a_professional_engineer_admiral/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[ 由   提交/u/andycoupe  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1azlmtm/my_quick_interactive_mental_model_of_the_stack/</guid>
       <pubDate>Sun, 25 Feb 2024 11:18:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>🔍 跟踪您作为工程师的成长</title>
-      <link>https://www.reddit.com/r/programming/comments/1azjwa3/track_your_growth_as_an_engineer/</link>
-      <description><![CDATA[ 由   提交/u/erFrankie99  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1azjwa3/track_your_growth_as_an_engineer/</guid>
-      <pubDate>Sun, 25 Feb 2024 09:25:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shoelace：一个具有前瞻性的 Web 组件库。</title>
-      <link>https://www.reddit.com/r/programming/comments/1azjlxv/shoelace_a_forwardthinking_library_of_web/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1azjlxv/shoelace_a_forwardthinking_library_of_web/</guid>
-      <pubDate>Sun, 25 Feb 2024 09:06:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>大型语言模型可以破解网站。</title>
-      <link>https://www.reddit.com/r/programming/comments/1azjaom/large_language_models_can_hack_websites/</link>
-      <description><![CDATA[ 由   提交/u/Connect_Tear402   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1azjaom/large_language_models_can_hack_websites/</guid>
-      <pubDate>Sun, 25 Feb 2024 08:46:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可能不知道的 Google Cloud Spanner 5 大功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1azhkst/top_5_features_of_google_cloud_spanner_you_might/</link>
-      <description><![CDATA[ 由   提交/u/ablx0000  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1azhkst/top_5_features_of_google_cloud_spanner_you_might/</guid>
-      <pubDate>Sun, 25 Feb 2024 06:55:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 工程：摘要#11</title>
-      <link>https://www.reddit.com/r/programming/comments/1azcmg5/engineering_with_java_digest_11/</link>
-      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1azcmg5/engineering_with_java_digest_11/</guid>
-      <pubDate>Sun, 25 Feb 2024 02:22:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>#CodeForPeace：俄罗斯入侵乌克兰两周年支持乌克兰的黑客马拉松</title>
-      <link>https://www.reddit.com/r/programming/comments/1azb04x/codeforpeace_a_hackathon_supporting_ukraine_on/</link>
-      <description><![CDATA[ 由   提交 /u/ml_keychain   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1azb04x/codeforpeace_a_hackathon_supporting_ukraine_on/</guid>
-      <pubDate>Sun, 25 Feb 2024 01:05:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
