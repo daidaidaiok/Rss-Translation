@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 26 Feb 2024 12:07:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 15:06:35 GMT</lastBuildDate>
+    <item>
+      <title>如何管理开源项目的多个开发环境？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b0henw/how_do_you_manage_multiple_dev_environments_for/</link>
+      <description><![CDATA[调整各种开源贡献的开发环境可能是一项艰巨的任务。我发现自己花在准备上的时间比实际贡献的时间还多。你们如何处理它？&lt;​​br /&gt;我写了一个指南介绍如何使用 Docker 和 VS Code 简化流程，旨在在项目之间无缝切换。很想听听您的想法和策略！ 在这里查看我的方法 - 也许它可以提供帮助，或者您可能有一些改进它的建议？ 您在多个代码库中保持理智的秘诀是什么？    由   提交/u/vivaciouslytain  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b0henw/how_do_you_manage_multiple_dev_environments_for/</guid>
+      <pubDate>Mon, 26 Feb 2024 13:23:31 GMT</pubDate>
+    </item>
     <item>
       <title>您如何知道何时采用开源？</title>
       <link>https://www.reddit.com/r/opensource/comments/1b0fngg/how_do_you_know_when_to_go_opensource/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>我制作了一个像 Urban Dictionary 这样的众包网站，但针对的是开发人员条款！</title>
       <link>https://www.reddit.com/r/opensource/comments/1b01zr8/i_made_a_crowdsourced_website_like_urban/</link>
-      <description><![CDATA[嘿朋友们！ 👋 我是一名大学生，拥有构建软件的诀窍。 我注意到的一件事是，Google 并不总是能让您轻松找到正确的定义。寻找，特别是在这个 SEO 稀释的互联网中的利基开发者术语。 作为一个解决方案，我刚刚构建了 DevTerms — 一个开源、众包的词典网站，开发人员可以在其中查找技术术语、编程术语等！想想城市词典，但对于开发人员来说！ 非常感谢所有反馈！ :) 如果您也想查看源代码，请在此处获取： https: //github.com/aelew/devterms   由   提交 /u/MajesticWeb2250   [链接] [评论]]]></description>
+      <description><![CDATA[嘿朋友们！ 👋 我是一名大学生，拥有构建软件的诀窍。 我注意到的一件事是，Google 并不总是能让您轻松找到正确的定义。寻找，特别是在这个 SEO 稀释的互联网中的利基开发者术语。 作为一个解决方案，我刚刚构建了 DevTerms — 一个开源、众包的词典网站，开发人员可以在其中查找技术术语、编程术语等！想想城市词典，但对于开发人员来说！ 非常感谢所有反馈！ :) 如果您也想查看源代码，请点击此处： https: //github.com/aelew/devterms   由   提交/u/MajesticWeb2250   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b01zr8/i_made_a_crowdsourced_website_like_urban/</guid>
       <pubDate>Sun, 25 Feb 2024 23:07:40 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/dale_glass  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1az562r/overte_an_open_source_social_vr_platform_has/</guid>
       <pubDate>Sat, 24 Feb 2024 20:57:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>PDF 阅读器应用程序（例如 MS Edge） - 从您离开的地方继续</title>
-      <link>https://www.reddit.com/r/opensource/comments/1az54oc/pdf_reader_app_like_ms_edge_pick_up_where_you_left/</link>
-      <description><![CDATA[您知道是否有一款开源 PDF 阅读器应用程序具有像 Microsoft Edge 一样的“从上次离开的地方继续”功能？始终在您离开的位置打开特定的 PDF，非常方便   由   提交/u/Appressive_Ad_5042   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1az54oc/pdf_reader_app_like_ms_edge_pick_up_where_you_left/</guid>
-      <pubDate>Sat, 24 Feb 2024 20:56:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
