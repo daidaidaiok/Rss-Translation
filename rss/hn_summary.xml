@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 26 Feb 2024 18:05:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 21:06:17 GMT</lastBuildDate>
     <item>
-      <title>[媒体]谷歌的图像生成工具因争议而被下架后将重新启动 [...]</title>
-      <link>https://t.me/hn_summary/76251</link>
-      <description><![CDATA[Google 图片生成器因图像不准确而重新启动
-谷歌的图像生成工具因历史描述不准确而被下架，之后将重新启动。该工具是谷歌称为 Gemini 的人工智能模型套件的一部分，因根据用户提示生成种族多样化且历史上不准确的图像而面临强烈反对。这场争议引发了人工智能行业内关于人工智能开发的道德规范和细致专业知识需求的争论。谷歌首席执行官桑达尔·皮查伊(Sundar Pichai)强调了公司对人工智能的承诺，计划提供可以在谷歌搜索中完成任务的人工智能代理。谷歌聊天机器人更名为 Gemini 也引发了讨论，一些人称该工具太“觉醒”，另一些人则批评谷歌对待人工智能道德的做法。尽管遇到了挫折，谷歌仍在大力投资开发人工智能助手，这些助手可以执行除总结和生成待办事项列表等简单功能之外的广泛任务。重新推出图像生成器是 Google 打造真正的 AI 助手努力的一部分。]]></description>
-      <guid>https://t.me/hn_summary/76251</guid>
-      <pubDate>Mon, 26 Feb 2024 18:05:22 GMT</pubDate>
+      <title>[媒体] Kollabe 是参与和高效敏捷会议的终极工具。</title>
+      <link>https://t.me/hn_summary/76284</link>
+      <description><![CDATA[展示 HN：Kollabe – 参与和高效敏捷会议的终极工具
+Kollabe 是举办引人入胜且富有成效的敏捷会议的终极工具。有了 Kollabe，运行冲刺回顾会变得轻而易举。只需开始会议、选择 Sprint 回顾并邀请团队成员参与即可。讨论哪些有效，哪些无效，并就可行的改进达成一致。该平台的工具使协作和反馈收集变得高效且有效。告别效率低下的会议，迎接 Kollabe 简化的敏捷流程。]]></description>
+      <guid>https://t.me/hn_summary/76284</guid>
+      <pubDate>Mon, 26 Feb 2024 21:06:17 GMT</pubDate>
     </item>
     <item>
-      <title>我一直是 GNU/Linux 的长期用户，但是当我切换到 Mac 时，我错过了软件包管理 [...]</title>
-      <link>https://t.me/hn_summary/76250</link>
-      <description><![CDATA[我在 macOS 上使用 Nix
-我一直是 GNU/Linux 的长期用户，但是当我切换到 Mac 时，我错过了包管理系统。使用 Homebrew 一段时间后，我发现了 Nix，一个跨平台的包管理器，它从根本上改变了我的工作流程。借助 Nix，我可以轻松搜索、安装、升级和删除软件包，同时保持系统干净高效。 Nix 包的不变性允许轻松回滚和实验，而不会使系统混乱。虽然 Nix 可能没有像 Homebrew Cask 这样简单的方法来安装 GUI 应用程序，但它的强大功能和效率使其成为 macOS 用户的游戏规则改变者。尝试一下，亲自体验它的好处！]]></description>
-      <guid>https://t.me/hn_summary/76250</guid>
-      <pubDate>Mon, 26 Feb 2024 18:04:15 GMT</pubDate>
+      <title>[媒体]美国为何不由纳税人资助</title>
+      <link>https://t.me/hn_summary/76283</link>
+      <description><![CDATA[为什么纳税人资助的美国宽带地图数据不归公开？
+美国政府在宽带地图数据上花费了近 5 亿美元，尽管这些数据是由纳税人资助的，但这些数据并不完全准确，也不属于公众所有。由 Costquest 开发的 FCC 新地图仍然存在夸大覆盖范围和可用速度的问题。这些数据缺乏透明度和所有权，阻碍了扩大负担得起的宽带接入的努力。为改善接入而提供的 420 亿美元补贴是积极的一步，但对腐败和缺乏监督的担忧仍然存在，康卡斯特和 AT&amp;T 等行业巨头可能会受益。]]></description>
+      <guid>https://t.me/hn_summary/76283</guid>
+      <pubDate>Mon, 26 Feb 2024 21:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Niklaus Wirth 是计算机科学领域的杰出人物，曾任苏黎世联邦理工学院教授 [...]</title>
-      <link>https://t.me/hn_summary/76249</link>
-      <description><![CDATA[“我一直将自己视为一名工程师” – 第 1/3 部分
-Niklaus Wirth 是计算机科学界的杰出人物，曾在苏黎世联邦理工学院担任教授三十多年。他开发了多种编程语言，并在瑞士开创了个人计算机。他的贡献为他赢得了多项著名奖项，包括 ACM 图灵奖。 Friedemann Mattern，计算机科学系教授，专注于分布式系统和普适计算。他在教学中强调批判性思维和跨学科交流。马特恩发表了大量著作，并且是受人尊敬的科学院的成员。他们在苏黎世联邦理工学院的工作对计算机科学领域产生了持久的影响。]]></description>
-      <guid>https://t.me/hn_summary/76249</guid>
-      <pubDate>Mon, 26 Feb 2024 18:03:09 GMT</pubDate>
+      <title>[媒体]科学家在量子存储技术方面取得了突破性进展，为 [...]</title>
+      <link>https://t.me/hn_summary/76282</link>
+      <description><![CDATA[“量子存储突破”可能会带来量子互联网
+科学家在量子存储技术方面取得了突破性进展，为量子互联网铺平了道路。通过在室温下存储和检索光子量子位，他们在创建互连量子计算机网络方面迈出了关键一步。这种量子存储器将数据存储为量子位，量子位可以是 1 和 0 的叠加，使得量子计算比传统方法强大得多。量子互联网的潜力在于能够利用量子力学传输数据，确保安全高效的通信。开发大规模量子互联网所需技术的竞赛正在进行。]]></description>
+      <guid>https://t.me/hn_summary/76282</guid>
+      <pubDate>Mon, 26 Feb 2024 20:52:35 GMT</pubDate>
     </item>
     <item>
-      <title>Apple 即将推出的 iOS 17.4 更新将影响渐进式 Web 应用程序 (PWA) 的可用性 [...]</title>
-      <link>https://t.me/hn_summary/76248</link>
-      <description><![CDATA[iOS 17.4也是对加密货币的攻击
-Apple 即将推出的 iOS 17.4 更新将影响渐进式 Web 应用程序 (PWA) 的可用性，影响 Kiwi News 等应用程序。此次更新将阻止 PWA 在 iOS 上作为独立应用程序打开，从而要求用户重新委派投票权并删除存储的私钥。苹果降级 PWA 功能的决定归因于欧盟关于浏览器中立性的规定，引起了开发者的争议和沮丧。此举被视为对加密创新和开放网络的攻击，限制了未经许可的创新，并使苹果对应用程序功能有更多的控制权。作者对苹果的行为表示失望，并呼吁重新考虑他们的做法。]]></description>
-      <guid>https://t.me/hn_summary/76248</guid>
-      <pubDate>Mon, 26 Feb 2024 18:00:03 GMT</pubDate>
+      <title>[媒体]埃隆·马斯克雄心勃勃的维加斯隧道项目，旨在连接酒店和修道院 [...]</title>
+      <link>https://t.me/hn_summary/76281</link>
+      <description><![CDATA[埃隆·马斯克的维加斯隧道项目一直存在安全违规行为
+埃隆·马斯克雄心勃勃的维加斯隧道项目旨在连接酒店和会议中心，但一直面临安全违规问题。工人们涉过充满促进剂的危险泥浆，这些促进剂会灼伤裸露的皮肤。内华达州职业安全与健康管理局的调查显示，工人们遭受了永久性疤痕和烧伤，其中一名员工甚至脸部被击中。使用促进剂来固化水泥浆导致了危险的工作条件，使工人对自己的安全产生了质疑。围绕这一备受瞩目的项目的安全违规争议引起了人们对其施工人员福祉的担忧。]]></description>
+      <guid>https://t.me/hn_summary/76281</guid>
+      <pubDate>Mon, 26 Feb 2024 20:43:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]埃隆·马斯克宣布开发新的电子邮件服务引发争议 [...]</title>
-      <link>https://t.me/hn_summary/76247</link>
-      <description><![CDATA[Elon Musk 将推出新的 Xmail 服务挑战 Gmail 
-就在 Gmail 将于 8 月 1 日关闭的传言被揭穿之际，埃隆·马斯克 (Elon Musk) 宣布开发一款名为 Xmail 的新电子邮件服务，引发了争议。马斯克对 Xmail 发布日期问题的神秘回答引发了许多猜测。然而，围绕此公告的安全风险令人担忧，因为网络犯罪分子可能会利用混乱来传播网络钓鱼消息。此外，马斯克可能面临挑战，因为一些现有的电子邮件服务已经使用 Xmail 这个名称。尽管大肆宣传，但马斯克的 Xmail 服务是否可能对 Gmail 的 20 亿用户产生重大影响仍不确定。]]></description>
-      <guid>https://t.me/hn_summary/76247</guid>
-      <pubDate>Mon, 26 Feb 2024 17:47:55 GMT</pubDate>
+      <title>[媒体]什么是通用Windows平台？</title>
+      <link>https://t.me/hn_summary/76280</link>
+      <description><![CDATA[什么是通用 Windows 平台？ （2021）
+在这篇内容丰富的博客文章中，作者讨论了通用 Windows 平台 (UWP) 及其各种组件，包括 UWP 应用、XAML 框架、控件、WinRT、打包和应用模型。作者解决了围绕 UWP 术语及其多维使用的困惑，澄清了 UWP 实际包含的内容。这篇文章重点介绍了 Windows 操作系统上 UWP XAML 控件和框架的依赖性问题，以及 Microsoft 如何通过引入 WinUI 2.x 和 WinUI 3.0 NuGet 包来解决这些依赖性。作者的详细解释揭示了 UWP 的复杂性及其在 Windows 生态系统中的演变。 （根据故事文本的 50% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/76280</guid>
+      <pubDate>Mon, 26 Feb 2024 20:35:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重介绍 Darwin，您的新 Github 代理，它使用 AI 来自动化您的项目管理 [...]</title>
-      <link>https://t.me/hn_summary/76246</link>
-      <description><![CDATA[展示 HN：Darwin – 使用 AI 自动化您的 GitHub 项目
-隆重推出 Darwin，您的新 Github 代理，它使用 AI 来自动化您的项目管理任务。该工具由 Darwin 和 Marco Lamina 共同开发，旨在简化您的工作流程并使项目管理比以往更轻松。借助 Darwin，您可以自动执行重复性任务、分析数据并做出明智的决策，以优化项目的成功。告别手动流程，迎接更高效的 Darwin 工作方式。访问 darwin-ai.dev 立即开始。&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/76246</guid>
-      <pubDate>Mon, 26 Feb 2024 17:46:50 GMT</pubDate>
+      <title>[媒体]育碧宣布《飙酷车神》将于 2024 年关闭，服务器也将关闭 [...]</title>
+      <link>https://t.me/hn_summary/76279</link>
+      <description><![CDATA[育碧正在砍掉一款数百万人购买的游戏（《飙酷车神》）&lt; /a&gt;
+育碧宣布《飙酷车神》将于 2024 年关闭，服务器将被关闭，游戏将从商店下架。拥有该游戏的玩家必须在 2024 年 3 月 31 日之前玩该游戏，否则该游戏将永远消失。缺乏离线模式意味着即使那些购买了游戏的人也将无法再玩它。此举引发了争议，因为它凸显了当今玩家对其内容缺乏所有权。关闭《飙酷车神》这部大预算 AAA 级影片的决定让许多粉丝感到失望和沮丧。]]></description>
+      <guid>https://t.me/hn_summary/76279</guid>
+      <pubDate>Mon, 26 Feb 2024 20:28:14 GMT</pubDate>
     </item>
     <item>
-      <title>你是如何找到人生目标的？</title>
-      <link>https://t.me/hn_summary/76245</link>
-      <description><![CDATA[您是如何找到人生目标的？&lt; br/&gt;
-作者分享了他们在多年的日常饮酒后戒酒并专注于锻炼以提高头脑清晰度的历程。尽管有这些积极的变化，他们仍在努力寻找生活的目标。他们质疑自己的工作、爱好和人际关系是否足以带来满足感。作者向分析性受众寻求建议，表达了对一般自助建议的沮丧，并寻求发现真正目的和意义的路线图。他们在追求成就感的过程中表现出的脆弱和诚实使得这篇文章具有相关性且发人深省。]]></description>
-      <guid>https://t.me/hn_summary/76245</guid>
-      <pubDate>Mon, 26 Feb 2024 17:45:45 GMT</pubDate>
+      <title>在 voussoir.net 上的“纸上笔记（2023）”中，作者反思了他们的习惯和选择 [...]</title>
+      <link>https://t.me/hn_summary/76278</link>
+      <description><![CDATA[纸质笔记（2023）
+在 voussoir.net 上的“纸上笔记 (2023)”中，作者反思了他们手写笔记的习惯和选择，强调了日期戳、活页纸、全尺寸纸、黑色墨水和方格纸的重要性。他们讨论了重写笔记、使用数字平板电脑记笔记的好处，以及纸质方法相对于数字方法的优势。作者还分享了他们的扫描过程，并展示了他们笔记中视觉上有趣的页面。一个独特的方面是作者使用 DIY 方法来制作方格纸。这篇文章提供了对笔记实践和作者个人笔记之旅的见解。]]></description>
+      <guid>https://t.me/hn_summary/76278</guid>
+      <pubDate>Mon, 26 Feb 2024 20:16:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 IETF 加密货币研究论坛小组正在进行的有关 KEM 组合器的辩论中，D [...]</title>
-      <link>https://t.me/hn_summary/76244</link>
-      <description><![CDATA[KEM 路径 – 了解关键封装机制
-在 IETF 加密货币研究论坛小组正在进行的关于 KEM 组合器的辩论中，Deirdre Connolly 的博客文章“如何持有 KEM”提供了关于如何处理这些复杂机制的令人耳目一新的诚实看法。这篇文章介绍了密钥封装机制 (KEM) 作为非对称加密之上的结构，为开发人员提供了简化的解释。该文章强调了了解 KEM 的重要性，深入探讨了 RSA 加密、不安全填充方案和创新的 X-Wing 混合 KEM 的挑战。争议在于关于 KEM 组合器的争论以及不同方法的安全影响，引发了 CFRG 内部的讨论。]]></description>
-      <guid>https://t.me/hn_summary/76244</guid>
-      <pubDate>Mon, 26 Feb 2024 17:37:39 GMT</pubDate>
+      <title>[媒体]苹果决定在欧盟放弃 iPhone 网络应用程序正面临欧洲委员会的审查 [...]</title>
+      <link>https://t.me/hn_summary/76277</link>
+      <description><![CDATA[Apple 放弃 iPhone Web 应用程序的决定在欧盟受到审查&lt; /a&gt;
+苹果在欧盟放弃 iPhone 网络应用程序的决定正面临欧盟委员会的审查，该委员会已要求苹果和应用程序开发商提供更多信息。该公司将这一变化归咎于欧盟的数字市场法案，并表示支持其他浏览器需要进行重大改革。应用程序开发人员正在反对这一决定，开放网络倡导组织进行了一项调查来评估其影响。争议在于苹果以用户采用率低和安全风险为由停止网络应用程序的理由。此次调查可能会对苹果在欧盟的做法产生重大影响。]]></description>
+      <guid>https://t.me/hn_summary/76277</guid>
+      <pubDate>Mon, 26 Feb 2024 20:05:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“sqlbind”Python 库允许用户在基于文本的原始 SQL 查询中绑定参数。</title>
-      <link>https://t.me/hn_summary/76243</link>
-      <description><![CDATA[显示 HN：Sqlbind 一个 Python 库来编写原始 SQL
-“sqlbind”Python 库允许用户在基于文本的原始 SQL 查询中绑定参数。它旨在解决静态和动态查询类型的问题，使编写和执行原始 SQL 查询变得更容易。该项目的独特之处在于支持所有 DBAPI 参数样式并与接受原始 SQL 查询和参数的各种系统兼容。对于由于复杂性或开销而不适合 ORM 框架的场景特别有用。该库提供了一个用于编写原始 SQL 查询的简单 API，并提供了 q 模板和动态查询条件等功能。 （根据故事文本的 57% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/76243</guid>
-      <pubDate>Mon, 26 Feb 2024 17:32:33 GMT</pubDate>
+      <title>[媒体] 在本周的《谁，我？》中</title>
+      <link>https://t.me/hn_summary/76276</link>
+      <description><![CDATA[如果我们在不告诉任何人的情况下将其插入，没有人会知道我们造成的停电
+在本周的《谁，我？》中Padraic 在 The Register 上分享了 20 世纪 90 年代爱尔兰一家制造工厂服务器中断的故事。在狭窄的服务器机房安装 PBX 后，他们在不知不觉中将 SCSI 电缆推离了位置，导致混乱并损失了金钱。尽管在无人知晓的情况下解决了这个问题，但最终的罪魁祸首是电缆连接器上缺少简单的夹子。这是一个代价高昂的教训，告诉我们关注细节的重要性以及小疏忽的潜在后果。]]></description>
+      <guid>https://t.me/hn_summary/76276</guid>
+      <pubDate>Mon, 26 Feb 2024 19:59:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Jaro-Winkler 距离是计算机科学和统计学中使用的字符串度量 [...]</title>
-      <link>https://t.me/hn_summary/76242</link>
-      <description><![CDATA[哈罗-温克勒距离
-Jaro-Winkler 距离是计算机科学和统计学中使用的字符串度量，用于测量两个序列之间的编辑距离。它是 William E. Winkler 于 1990 年提出的 Jaro 距离度量的变体。Jaro-Winkler 距离使用前缀比例来为从头开始匹配设定前缀长度的字符串提供更有利的评级。分数经过标准化，0 表示完全匹配，1 表示不存在相似性。虽然通常被称为距离度量，但它不遵守三角不等式。 Jaro-Winkler 距离不是数学意义上的度量。 （根据 93% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76242</guid>
-      <pubDate>Mon, 26 Feb 2024 17:23:56 GMT</pubDate>
+      <title>[媒体]美国国税局在审计美国最富有的个人方面面临着挑战，其经验 [...]</title>
+      <link>https://t.me/hn_summary/76275</link>
+      <description><![CDATA[国税局部门对付美国的百万富翁和亿万富翁&lt; br/&gt;
+美国国税局在审计美国最富有的个人方面面临挑战，需要聘请经验丰富的税务专业人士来应对逃税指控。尽管获得了历史性的资金来增强其能力，但该机构仍然无法与超级富豪的专业知识相媲美。重点是对百万富翁、亿万富翁和大公司进行审计，以缩小每年估计达 1,630 亿美元的税收差距。美国国税局还针对加密货币逃税，重点关注虚拟货币。然而，由于联邦对富有的税务欺诈行为的起诉有所减少，该机构在起诉刑事税务案件方面面临障碍。 （根据 84% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76275</guid>
+      <pubDate>Mon, 26 Feb 2024 19:52:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
