@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 27 Feb 2024 12:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 14:49:41 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Promoted.ai 是一家 Y Combinator W21 初创公司，目前正在寻找 Flink 专家加入 [...]</title>
-      <link>https://t.me/hn_summary/76387</link>
-      <description><![CDATA[Promoted.ai (YC W21) 正在招聘 – Flink 专家
-Promoted.ai 是一家 Y Combinator W21 初创公司，目前正在寻找Flink Expert 加入他们的团队。该公司专门优化 Airbnb 等在线市场，通过分类和推广最佳房源来增加收入。 Promoted 的与众不同之处在于，他们专注于构建第一方无处不在的广告网络，由来自 Facebook 和 Google 的经验丰富的工程师团队领导。凭借良好的成功记录，这个机会提供了研究尖端技术并在数字广告领域产生重大影响的机会。立即申请成为这个创新团队的一员。]]></description>
-      <guid>https://t.me/hn_summary/76387</guid>
-      <pubDate>Tue, 27 Feb 2024 12:01:04 GMT</pubDate>
+      <title>[媒体]我们的高级 MistralAI 模型现已可用于本地部署，提供快速 [...]</title>
+      <link>https://t.me/hn_summary/76416</link>
+      <description><![CDATA[高级 MistralAI 模型可用于本地部署&lt; br/&gt;
+我们的高级 MistralAI 模型现已可用于本地部署，提供经过独立测量并与竞争对手进行比较的尖端技术，取得了非常有利的结果。在 LMSys 聊天机器人竞技场中，根据人类偏好，Mistral Medium 在所有法学硕士中排名第二，展示了我们对质量和用户满意度的承诺。此外，我们的人工分析 Mixtral 8x7B 在性能成本效率方面设定了最高标准，使其成为寻求一流人工智能解决方案的企业的首选。今天就亲自体验 MistralAI 的强大功能！]]></description>
+      <guid>https://t.me/hn_summary/76416</guid>
+      <pubDate>Tue, 27 Feb 2024 14:49:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]据专家Dr.</title>
-      <link>https://t.me/hn_summary/76386</link>
-      <description><![CDATA[专家表示，精神病患者的女性数量可能比之前想象的要多
-专家克莱夫·博迪博士表示，具有精神病特征的女性数量可能比之前想象的要多。虽然男性精神病患者通常与暴力和反社会行为有关，但女性精神病患者可能表现出更微妙的操纵和情感暴力形式。博迪认为，目前对精神病患者的评估偏向于男性，导致对女性精神病患者的潜在低估。他的研究表明，大约 12-13% 的女性可能具有足够多的精神病特征，从而产生问题。认识到两种性别的精神病态至关重要，因为具有这些特征的个人可以对工作场所和社会产生重大影响。博迪主张对求职者进行筛选，以保护员工免受潜在伤害。]]></description>
-      <guid>https://t.me/hn_summary/76386</guid>
-      <pubDate>Tue, 27 Feb 2024 11:54:27 GMT</pubDate>
+      <title>[媒体] Blazer 是一款商业智能工具，允许用户使用 SQL、cr [...]</title>
+      <link>https://t.me/hn_summary/76415</link>
+      <description><![CDATA[Blazer：商业智能变得简单
+Blazer 是一款商业智能工具，允许用户使用 SQL 探索数据、创建图表和仪表板，并与团队共享。它支持多个数据源、用于运行具有不同值的查询的变量、用于监控数据质量的检查和警报、用于跟踪查询的审核以及与身份验证系统的安全集成。 Blazer 通过提供异常检测、预测、群组分析以及智能变量和列等功能而脱颖而出。它可以轻松地作为 Docker 镜像安装，并且已经在 Instacart 上经过了实际测试。 （根据故事文本的 44% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/76415</guid>
+      <pubDate>Tue, 27 Feb 2024 14:37:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]AMD 正准备发布 ROCm 6.1，这是其开源 GPU 计算的最新更新 [...]</title>
-      <link>https://t.me/hn_summary/76385</link>
-      <description><![CDATA[AMD 准备发布具有新功能的 ROCm 6.1&lt; br/&gt;
-AMD 正准备发布 ROCm 6.1，这是其开源 GPU 计算堆栈的最新更新。继 ROCm 6.0 的成功引入了对 AMD Instinct MI300A/MI300X 的支持并增强了 AI 功能后，即将发布的版本预计将带来更多改进，以与 NVIDIA 的 CUDA 竞争。凭借新的求解器、FP8 支持和扩展的算子支持，ROCm 6.1 有望将 GPU 计算提升到新的高度。此外，针对非 AMD 平台的“hipother”存储库的引入以及 HIPIFY 工具的更新表明了 AMD 致力于使 GPU 编程更易于访问和通用。敬请期待ROCm 6.1正式发布。]]></description>
-      <guid>https://t.me/hn_summary/76385</guid>
-      <pubDate>Tue, 27 Feb 2024 11:45:18 GMT</pubDate>
+      <title>[媒体]萨里大学领导的一项新研究发现，植物园可以降低[...]</title>
+      <link>https://t.me/hn_summary/76414</link>
+      <description><![CDATA[植物园可使城市空气平均降温 5°C&lt; /a&gt;
+萨里大学领导的一项新研究发现，植物园可以将城市内的气温降低高达 5°C，为应对热浪期间气温上升提供了潜在的解决方案。该研究分析了各种绿色空间和水道的冷却效果，强调了将自然融入城市环境以减轻气候变化影响的重要性。虽然树木和水体等绿色基础设施可以帮助城市降温，但有效规划和评估当地条件对于确保长期有效性至关重要。该研究强调需要量身定制的解决方案来应对不同社区面临的独特挑战。]]></description>
+      <guid>https://t.me/hn_summary/76414</guid>
+      <pubDate>Tue, 27 Feb 2024 14:29:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]大型语言模型 (LLM) 在科技界掀起波澜，但火车的成本 [...]</title>
-      <link>https://t.me/hn_summary/76384</link>
-      <description><![CDATA[即使是法学硕士也需要教育——高质量的数据使法学硕士表现出色 
-大型语言模型（LLM）正在科技界掀起波澜，但培训它们的成本可能令人震惊。然而，研究人员发现，在特定基准上，较小的模型可以胜过较大的模型，从而产生更具成本效益的解决方案。通过使用有针对性的数据集和高质量数据，法学硕士可以在金融或编码等专业领域表现出色。此外，将法学硕士与检索增强生成（RAG）设置中的信息检索系统配对可以确保响应植根于经过验证的信息。就像人类一样，法学硕士受益于良好的教育，因此为他们提供高质量的数据是他们成功创建令人印象深刻的 GenAI 应用程序的关键。]]></description>
-      <guid>https://t.me/hn_summary/76384</guid>
-      <pubDate>Tue, 27 Feb 2024 11:28:08 GMT</pubDate>
+      <title>[媒体] Vice Media 的倒闭并不是因为在线新闻业无利可图，而是 [...]</title>
+      <link>https://t.me/hn_summary/76413</link>
+      <description><![CDATA[副媒体完全崩溃是无能、失败的Brunchords的错
+Vice Media 的倒闭并不是因为网络新闻业无利可图，而是因为高管们的无能，未能登上权力的宝座。罪魁祸首是信托基金的失败者，他们对公司管理不善，收取过高的工资，并以不切实际的策略烧毁了大量资金。虽然 Vice 制作了出色的新闻报道，但该行业的经济激励措施指向盲目的参与和党派宣传。新闻业的未来是不确定的，较小的媒体和个人通讯作者面临着可持续发展的挑战。如果不进行重大改革，该行业将继续走目前的榨取式获利的道路。]]></description>
+      <guid>https://t.me/hn_summary/76413</guid>
+      <pubDate>Tue, 27 Feb 2024 14:17:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 十五年前，我开始以激进的方式发布开源软件，[...]</title>
-      <link>https://t.me/hn_summary/76383</link>
-      <description><![CDATA[我把我的开源项目变成了全职业务&lt; /a&gt;
-十五年前，我开始以激进的方式发布开源软件，仅使用 MIT 或 BSD 等宽松的许可证。然而，当一家使用我的 Nodemailer 库的初创公司被以 5 亿美元收购时，我意识到我的工作对财务产生了影响，之后我决定将我的新项目 EmailEngine 转变为一项全职业务。通过实施商业许可证、许可证密钥系统和增加订阅费，我能够产生稳定的收入，甚至在不失去客户的情况下提高价格。现在，EmailEngine 每月带来 6100 欧元的经常性收入，使我能够全职从事我的项目。]]></description>
-      <guid>https://t.me/hn_summary/76383</guid>
-      <pubDate>Tue, 27 Feb 2024 11:16:59 GMT</pubDate>
+      <title>[媒体]MeMPA 协处理器旨在通过实施 [...]</title>
+      <link>https://t.me/hn_summary/76412</link>
+      <description><![CDATA[MeMPA：应对的内存映射 M-SIMD 协处理器内存墙问题
+MeMPA 协处理器旨在通过实施内存映射 M-SIMD 计算范例来解决内存墙问题。通过映射 K 最近邻、K 均值、矩阵向量乘法、均值和方差以及离散傅里叶变换等基准，MeMPA 的性能优势得以凸显。 MVM 等算法的实现展示了约简树机制和 M-SIMD 计算范式如何有效地执行应用程序，特别有利于卷积神经网络等数据密集型任务。 MVM的详细映射过程涉及两个宏观阶段：处理矩阵初始化和算法执行，展示了MeMPA在克服内存限制方面的创新方法。 （根据 97% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76412</guid>
+      <pubDate>Tue, 27 Feb 2024 14:15:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Blender 打开电影。</title>
-      <link>https://t.me/hn_summary/76382</link>
-      <description><![CDATA[搅拌机打开电影。包含所有制作文件、资产和艺术品
-在我们的网站上探索 Blender Open Movies 的世界。深入了解我们标志性电影的幕后花絮，探索创作这些杰作的所有制作文件、资产和艺术品。从概念艺术到最终渲染，您将找到您需要学习的一切，并从我们才华横溢的艺术家团队中获得灵感。不要错过这个独特的机会来观看前所未见的内容并一睹 Blender Open Movies 的创作过程。立即访问我们的网站来探索和下载这些令人惊叹的资源。]]></description>
-      <guid>https://t.me/hn_summary/76382</guid>
-      <pubDate>Tue, 27 Feb 2024 10:51:48 GMT</pubDate>
+      <title>本田首款美国市场电动汽车 2024 Prologue 在中型跨界 SUV 领域引起轰动 [...]</title>
+      <link>https://t.me/hn_summary/76411</link>
+      <description><![CDATA[本田首款美国市场电动汽车来了——2024 Prologue，由
+本田首款美国市场电动汽车 2024 Prologue 在中型跨界 SUV 领域引起轰动。虽然 Prologue 与雪佛兰 Blazer EV 有相似之处，但本田努力通过独特的造型和内饰功能使 Prologue 脱颖而出。 Prologue 简洁的矩形设计让人想起 80 年代的美学，使其与 Blazer 的锐角区分开来。本田以车辆的“高帽”为重点，为 Prologue 创造了独特的形象，标志着该品牌在电动汽车市场的新时代。]]></description>
+      <guid>https://t.me/hn_summary/76411</guid>
+      <pubDate>Tue, 27 Feb 2024 14:14:03 GMT</pubDate>
     </item>
     <item>
-      <title>在一项开创性的研究中，研究人员发现蚂蚁社会中受伤的蚂蚁可以得到治疗 [...]</title>
-      <link>https://t.me/hn_summary/76381</link>
-      <description><![CDATA[蚂蚁在蚂蚁社会中用抗菌化合物治疗受伤的巢友 
-在一项开创性的研究中，研究人员发现，蚂蚁社会中受伤的蚂蚁会被它们的巢友用其后胸膜腺 (MG) 分泌的抗菌化合物进行治疗。这种行为显着降低了受感染蚂蚁的死亡率，凸显了社会免疫在蚁群中的重要性。这项研究在科特迪瓦科莫埃国家公园进行，揭示了蚂蚁社会的复杂机制及其照顾受伤成员的能力。这些发现为社会行为的演变以及抗菌化合物在维持群体健康中的作用提供了宝贵的见解。 （根据 27% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76381</guid>
-      <pubDate>Tue, 27 Feb 2024 10:26:36 GMT</pubDate>
+      <title>[媒体]美国联邦航空局 (FAA) 的一份报告指出，波音公司缺失了安全文化的关键要素 [...]</title>
+      <link>https://t.me/hn_summary/76410</link>
+      <description><![CDATA[波音公司缺少安全文化的关键要素：美国联邦航空局报告 
+美国联邦航空局的一份报告指出，波音公司缺乏安全文化的关键要素，员工缺乏如何报告安全问题的意识。该小组强烈批评波音公司的安全做法，强调其缺乏基本的安全协议。该报告揭示了公司内部可能影响客机安全的潜在问题。]]></description>
+      <guid>https://t.me/hn_summary/76410</guid>
+      <pubDate>Tue, 27 Feb 2024 13:59:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]奇妙的古代自动机探索古代自动机的迷人历史[...]</title>
-      <link>https://t.me/hn_summary/76380</link>
-      <description><![CDATA[神奇的古代自动机（2018）
-《奇妙的古代自动机》探索了古代自动机的迷人历史，从君士坦丁七世宫殿中精致的特效奇观到伊斯梅尔·贾扎里的异想天开的装置。这些自动机被用来唤起奇迹、娱乐甚至让观众不安，正如马克·安东尼的演讲和黄铜之城的传说中所见。本文深入探讨了自动机对欧洲和中东文化的影响，强调了这些机械奇迹的复杂设计和相互作用。隐藏在地下的失落自动机的故事为这些古老机器的历史增添了神秘而迷人的元素。]]></description>
-      <guid>https://t.me/hn_summary/76380</guid>
-      <pubDate>Tue, 27 Feb 2024 10:21:29 GMT</pubDate>
+      <title>[媒体]Cormac McCarthy 独特的标点符号风格和对科学的深入参与是高度 [...]</title>
+      <link>https://t.me/hn_summary/76409</link>
+      <description><![CDATA[Cormac McCarthy 的副业：自由文案编辑
+本文重点介绍了科马克·麦卡锡独特的标点符号风格和对科学的深入参与。麦卡锡对标点符号的极简主义方法，以及他与其他作家的编辑工作，展示了他对写作的清晰和精确的奉献。他与圣达菲研究所的科学家合作，创建了一份写作和编辑建议清单，强调极简主义和表达伟大想法的乐趣。麦卡锡对科学和写作的热情与他对好奇心、冒险精神和冒险思维的信念交织在一起。他的影响力超越了他自己的小说，影响了其他作家和科学家的作品。]]></description>
+      <guid>https://t.me/hn_summary/76409</guid>
+      <pubDate>Tue, 27 Feb 2024 13:58:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Shittier 是一个代码格式化工具，它故意让你的代码看起来很糟糕，我 [...]</title>
-      <link>https://t.me/hn_summary/76379</link>
-      <description><![CDATA[Shittier：让你的代码看起来很糟糕的代码格式化工具
-Shittier 是一个代码格式化工具，它故意让你的代码看起来很糟糕，与 Prettier 等旨在提高可读性的工具形成鲜明对比。它会给你的代码库带来混乱、杂乱和困惑，包括随机缩进、大小写混合和间距噩梦。该项目纯粹是讽刺性的，并不适合严肃的开发，因为在生产代码上使用它可能会导致混乱和沮丧。 Shittier 可以与 Node.js 一起安装，并提供格式化文件的选项。拥抱混乱，让 Shittier 将您的代码变成难以辨认的混乱，以供娱乐。]]></description>
-      <guid>https://t.me/hn_summary/76379</guid>
-      <pubDate>Tue, 27 Feb 2024 10:02:20 GMT</pubDate>
+      <title>在蚂蚁的世界里，一小群物种已经成功地扩展到整个地球，resha [...]</title>
+      <link>https://t.me/hn_summary/76408</link>
+      <description><![CDATA[蚂蚁地缘政治
+在蚂蚁的世界里，一小群物种成功地在地球上传播，重塑了生态系统并创造了人类已知的最大的动物社会。这些蚂蚁，特别是像红火蚁和阿根廷蚁这样的单群体物种，已经适应了新的环境并繁衍生息，无论它们走到哪里都会造成严重破坏和破坏。它们形成相互连接的群体并迅速传播的能力使它们成为成功的入侵者，能够在竞争中击败本地物种。尽管人们努力控制它们，但这些蚂蚁仍在继续扩大它们的领地，对全世界的生态系统构成了挑战。全球蚂蚁社会的故事是一个复杂而引人入胜的故事，其中有关于适应、合作以及入侵物种对环境的影响的教训。 （根据 53% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76408</guid>
+      <pubDate>Tue, 27 Feb 2024 13:54:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]也门叛乱分子损坏了红海的四根海底通讯电缆，破坏了 [...]</title>
-      <link>https://t.me/hn_summary/76378</link>
-      <description><![CDATA[连接非洲-亚洲-欧洲的海底电缆被切断&lt; br/&gt;
-也门叛乱分子损坏了红海的四根海底通信电缆，中断了欧洲和亚洲之间的互联网通信。损坏的电缆属于 AAE-1、Seacom、EIG 和 TGN 公司，造成了严重但不严重的中断。修复估计表明可能需要至少八周的时间，并且由于暴露于胡塞恐怖组织而涉及高风险保费。 EIG 是第一条从英国到印度的电缆，耗资 7 亿美元铺设。 Seacom 电缆连接欧洲、非洲和印度。该事件引发国际通信及水下光缆公司关注。]]></description>
-      <guid>https://t.me/hn_summary/76378</guid>
-      <pubDate>Tue, 27 Feb 2024 09:59:14 GMT</pubDate>
+      <title>[媒体]木瓜是一种北美本土水果，多年来一直被忽视和遗忘 [...]</title>
+      <link>https://t.me/hn_summary/76407</link>
+      <description><![CDATA[考虑木瓜
+木瓜是一种北美本土水果，多年来一直被忽视和遗忘，但现在越来越受欢迎。俄亥俄州木瓜节通过音乐、竞赛和食品摊贩提供创意木瓜菜肴来庆祝这种独特的水果。木瓜的味道很复杂，类似于热带水果与香草和香料的混合。尽管保质期很短，但木瓜营养丰富且美味。该节日旨在教育公众了解这种水果及其潜力。随着人们对觅食和当地食物的兴趣日益浓厚，木瓜正成为备受追捧的秋季美食。 （根据故事文本的 36% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/76407</guid>
+      <pubDate>Tue, 27 Feb 2024 13:51:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
