@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 27 Feb 2024 06:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 09:05:49 GMT</lastBuildDate>
+    <item>
+      <title>适合多个编辑器的最快、简单的 NAS？</title>
+      <link>https://www.reddit.com/r/editors/comments/1b153e5/fastest_straightforward_nas_for_multiple_editors/</link>
+      <description><![CDATA[您好！ 一些 NAS 问题。希望购买不需要太多配置的设备。最多可同时为 4 名编辑提供服务。大约有 8 个驱动器托架。倾向于 QNAP 或 Synology，但开放！预算不是一个问题，而是简单性和读/写速度。 其他问题：  最好采用全闪存 SSD 而不是 HDD，对吗？我想是的，虽然我听说在某些 RAID 设置中，HDD 的速度很快？ 为了减少瓶颈，多个 10gbe 端口是理想的选择，对吗？与只有一个编辑器一样，所有编辑器都将争夺该带宽。  我见过配备 4x 10gbe 的 Blackmagic Cloud Store...尽管对该产品的其他担忧让我犹豫不决。 或者，25gbe 端口会更好，对吗？   编辑方面，配备 10gbe 适配器的 MacBook Pro（通过本机 10gbe 端口，如 Mac Studio）有什么缺点吗？ &lt; /ul&gt; 非常感谢。   由   提交 /u/OpanDeluxe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1b153e5/fastest_straightforward_nas_for_multiple_editors/</guid>
+      <pubDate>Tue, 27 Feb 2024 06:28:12 GMT</pubDate>
+    </item>
     <item>
       <title>雇主强迫承包商每周去办公室 5 次？</title>
       <link>https://www.reddit.com/r/editors/comments/1b13ihd/employer_forcing_contractor_to_go_in_to_office_5/</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[大家好，我收到了播放规范，其中规定了以下音频配置： -24 LKFS/LUFS ( ITU-R BS.1770-3)没有超过-10dBTP（真实峰值）的峰值在整个视频持续时间内进行长期测量 因此，我将响度计应用于混音/主轨道并选择ITU BS.1770-3 预设和设置中，我已将最大真实峰值设置为 -10.1dBTPI 还将硬限制器应用于混音/主轨道并尝试了两个选项： 默认预设，最大幅度设置为 -10.1dB以及最大振幅设置为 -10.1dB 的真实峰值预设。 尽管存在上述所有情况，在演奏过程中观看响度计时，我发现真实峰值几乎一致达到 -5.3dBTP . 有人能找出我做错了什么吗？任何指导将不胜感激。 编辑：Apple M1 Ultra，128GB 内存，音轨来自混音器（VO、DIA、SFX）- 立体声 .wav + 1 重新混合的音乐轨道（立体声 .wav）  演奏时响度计的屏幕截图： https://imgur.com/a/ 1YRcQnU   由   提交 /u/linedpapers   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b11rv3/premiere_loudness_meter_and_true_peaks_issue/</guid>
       <pubDate>Tue, 27 Feb 2024 03:30:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>将书籍的 pdf 转换为可滚动视频的最省时的方法？</title>
-      <link>https://www.reddit.com/r/editors/comments/1b10od8/most_time_efficient_way_to_convert_a_pdf_of_a/</link>
-      <description><![CDATA[寻找将书籍转换为垂直滚动条的方法。 ChatGPT 提供了实现此目的的手动方法，想知道是否有更简单的方法或软件可以批量处理该过程。谢谢！   由   提交 /u/Critical-Pattern9654    reddit.com/r/editors/comments/1b10od8/most_time_efficient_way_to_convert_a_pdf_of_a/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b10od8/most_time_efficient_way_to_convert_a_pdf_of_a/</guid>
-      <pubDate>Tue, 27 Feb 2024 02:37:49 GMT</pubDate>
     </item>
     <item>
       <title>Premiere Productions 正在迁移 NEXIS - 但我需要重新链接吗？</title>
