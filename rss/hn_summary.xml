@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 26 Feb 2024 21:06:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 00:14:36 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Kollabe 是参与和高效敏捷会议的终极工具。</title>
-      <link>https://t.me/hn_summary/76284</link>
-      <description><![CDATA[展示 HN：Kollabe – 参与和高效敏捷会议的终极工具
-Kollabe 是举办引人入胜且富有成效的敏捷会议的终极工具。有了 Kollabe，运行冲刺回顾会变得轻而易举。只需开始会议、选择 Sprint 回顾并邀请团队成员参与即可。讨论哪些有效，哪些无效，并就可行的改进达成一致。该平台的工具使协作和反馈收集变得高效且有效。告别效率低下的会议，迎接 Kollabe 简化的敏捷流程。]]></description>
-      <guid>https://t.me/hn_summary/76284</guid>
-      <pubDate>Mon, 26 Feb 2024 21:06:17 GMT</pubDate>
+      <title>本文讨论了当今共享云基础设施环境中云 HSM 的局限性 [...]</title>
+      <link>https://t.me/hn_summary/76320</link>
+      <description><![CDATA[租赁农场和云 HSM
+本文讨论了云 HSM 在当今共享云基础设施环境中的局限性，强调了与 HSM 最初用途不同的安全问题和设计限制。它强调在保护密钥时需要考虑威胁模型和用例，建议将密钥移动到在不同用户上下文中运行的另一个进程作为更安全的方法。作者还批评 Hashicorp Vault 等解决方案可能会将密钥暴露给未经授权的用户。总体而言，本文呼吁采用更加批判性和实用性的密钥管理方法，而不是依赖教条式的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/76320</guid>
+      <pubDate>Tue, 27 Feb 2024 00:14:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国为何不由纳税人资助</title>
-      <link>https://t.me/hn_summary/76283</link>
-      <description><![CDATA[为什么纳税人资助的美国宽带地图数据不归公开？
-美国政府在宽带地图数据上花费了近 5 亿美元，尽管这些数据是由纳税人资助的，但这些数据并不完全准确，也不属于公众所有。由 Costquest 开发的 FCC 新地图仍然存在夸大覆盖范围和可用速度的问题。这些数据缺乏透明度和所有权，阻碍了扩大负担得起的宽带接入的努力。为改善接入而提供的 420 亿美元补贴是积极的一步，但对腐败和缺乏监督的担忧仍然存在，康卡斯特和 AT&amp;T 等行业巨头可能会受益。]]></description>
-      <guid>https://t.me/hn_summary/76283</guid>
-      <pubDate>Mon, 26 Feb 2024 21:00:11 GMT</pubDate>
+      <title>[媒体] 帝国时代 2，一款深受喜爱的即时战略游戏，正在获得新的资料片标题 [...]</title>
+      <link>https://t.me/hn_summary/76319</link>
+      <description><![CDATA[25 年后《帝国时代 2》再次推出资料片 
+深受喜爱的即时战略游戏《帝国时代 2》在首次发布 25 年后，推出了名为“Victors and Vanquished”的新资料片。该资料片增加了 19 个以织田信长、查理曼和拉格纳·洛斯布鲁克等历史人物为主角的场景，并提供了新的机制和改进。该游戏凭借受社区启发的内容（包括叙事活动）继续蓬勃发展。 Developer World&#39;s Edge Studios 一直致力于扩展游戏，并计划在未来进行更多扩展。 《帝国时代》系列也有了新的发展，《神话时代：重述》和《帝国时代 III：决定版》获得更新，《帝国时代 IV》正在开发中。]]></description>
+      <guid>https://t.me/hn_summary/76319</guid>
+      <pubDate>Tue, 27 Feb 2024 00:05:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]科学家在量子存储技术方面取得了突破性进展，为 [...]</title>
-      <link>https://t.me/hn_summary/76282</link>
-      <description><![CDATA[“量子存储突破”可能会带来量子互联网
-科学家在量子存储技术方面取得了突破性进展，为量子互联网铺平了道路。通过在室温下存储和检索光子量子位，他们在创建互连量子计算机网络方面迈出了关键一步。这种量子存储器将数据存储为量子位，量子位可以是 1 和 0 的叠加，使得量子计算比传统方法强大得多。量子互联网的潜力在于能够利用量子力学传输数据，确保安全高效的通信。开发大规模量子互联网所需技术的竞赛正在进行。]]></description>
-      <guid>https://t.me/hn_summary/76282</guid>
-      <pubDate>Mon, 26 Feb 2024 20:52:35 GMT</pubDate>
+      <title>[媒体] Unity 软件公司</title>
+      <link>https://t.me/hn_summary/76318</link>
+      <description><![CDATA[盈利令人失望后，Unity 股价下跌 15%
+由于盈利和预测令人失望，Unity Software Inc. 的股价暴跌 15%。该公司第一季度营收预测未达预期，其预测与分析师预期存在较大差距。 Unity 还透露了较低的全年收入预期，导致其股价在盘后交易中下跌超过 17%。该公司公布第四财季净亏损，进一步加剧了投资者的担忧。尽管面临这些挑战，Unity 仍然对其未来持乐观态度，并表示公司正在进行重组，以推动可持续增长和成功。]]></description>
+      <guid>https://t.me/hn_summary/76318</guid>
+      <pubDate>Mon, 26 Feb 2024 23:54:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]埃隆·马斯克雄心勃勃的维加斯隧道项目，旨在连接酒店和修道院 [...]</title>
-      <link>https://t.me/hn_summary/76281</link>
-      <description><![CDATA[埃隆·马斯克的维加斯隧道项目一直存在安全违规行为
-埃隆·马斯克雄心勃勃的维加斯隧道项目旨在连接酒店和会议中心，但一直面临安全违规问题。工人们涉过充满促进剂的危险泥浆，这些促进剂会灼伤裸露的皮肤。内华达州职业安全与健康管理局的调查显示，工人们遭受了永久性疤痕和烧伤，其中一名员工甚至脸部被击中。使用促进剂来固化水泥浆导致了危险的工作条件，使工人对自己的安全产生了质疑。围绕这一备受瞩目的项目的安全违规争议引起了人们对其施工人员福祉的担忧。]]></description>
-      <guid>https://t.me/hn_summary/76281</guid>
-      <pubDate>Mon, 26 Feb 2024 20:43:28 GMT</pubDate>
+      <title>[媒体] 在这篇文章中，我分享了我在计算机视觉课程中使用 SAM 的项目，这是 [...]</title>
+      <link>https://t.me/hn_summary/76317</link>
+      <description><![CDATA[使用 SAM 分割漫画书（分段任意） 
+在这篇文章中，我分享了我的计算机视觉课程中的项目，其中我使用 SAM（一种尖端图像分割模型）来分割漫画书框架。我开发了一个程序漫画生成器来创建用于训练模型的合成数据，从而可以控制帧属性。通过修改 SAM 来预测框架角点，与原始 SAM 和 Halford 的方法相比，我取得了令人印象深刻的结果。虽然我的方法在复杂页面上有局限性，但我相信设计算法比传统启发式方法的力量。查看我的 Github 存储库以获取代码并提出任何改进！]]></description>
+      <guid>https://t.me/hn_summary/76317</guid>
+      <pubDate>Mon, 26 Feb 2024 23:39:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]什么是通用Windows平台？</title>
-      <link>https://t.me/hn_summary/76280</link>
-      <description><![CDATA[什么是通用 Windows 平台？ （2021）
-在这篇内容丰富的博客文章中，作者讨论了通用 Windows 平台 (UWP) 及其各种组件，包括 UWP 应用、XAML 框架、控件、WinRT、打包和应用模型。作者解决了围绕 UWP 术语及其多维使用的困惑，澄清了 UWP 实际包含的内容。这篇文章重点介绍了 Windows 操作系统上 UWP XAML 控件和框架的依赖性问题，以及 Microsoft 如何通过引入 WinUI 2.x 和 WinUI 3.0 NuGet 包来解决这些依赖性。作者的详细解释揭示了 UWP 的复杂性及其在 Windows 生态系统中的演变。 （根据故事文本的 50% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/76280</guid>
-      <pubDate>Mon, 26 Feb 2024 20:35:21 GMT</pubDate>
+      <title>极右活动家 Chaya Raichik 因其社交媒体账户 Libs of TikTok 而闻名，她的 [...]</title>
+      <link>https://t.me/hn_summary/76316</link>
+      <description><![CDATA[Libs of TikTok 在俄克拉荷马州学校中占据重要地位 
+极右翼活动家 Chaya Raichik 因其社交媒体账户 Libs of TikTok 而闻名，尽管只访问过该州一次，但她在俄克拉荷马州的学校中获得了重大影响力。被任命为俄克拉荷马州图书馆媒体咨询委员会成员的 Raichik 推动从学校图书馆中删除 LGBTQ+ 内容，引发了争议和对造成有毒环境的指控。她的在线形象与全国各地的暴力和威胁有关。 Raichik 的行为导致教育工作者和学生感到不安全，LGBTQ+ 个人面临歧视和骚扰。她的言论对俄克拉荷马州 LGBTQ+ 青少年的影响被认为是危险且具有破坏性的。]]></description>
+      <guid>https://t.me/hn_summary/76316</guid>
+      <pubDate>Mon, 26 Feb 2024 23:19:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]育碧宣布《飙酷车神》将于 2024 年关闭，服务器也将关闭 [...]</title>
-      <link>https://t.me/hn_summary/76279</link>
-      <description><![CDATA[育碧正在砍掉一款数百万人购买的游戏（《飙酷车神》）&lt; /a&gt;
-育碧宣布《飙酷车神》将于 2024 年关闭，服务器将被关闭，游戏将从商店下架。拥有该游戏的玩家必须在 2024 年 3 月 31 日之前玩该游戏，否则该游戏将永远消失。缺乏离线模式意味着即使那些购买了游戏的人也将无法再玩它。此举引发了争议，因为它凸显了当今玩家对其内容缺乏所有权。关闭《飙酷车神》这部大预算 AAA 级影片的决定让许多粉丝感到失望和沮丧。]]></description>
-      <guid>https://t.me/hn_summary/76279</guid>
-      <pubDate>Mon, 26 Feb 2024 20:28:14 GMT</pubDate>
+      <title>我们对拜占庭帝国有什么误解？</title>
+      <link>https://t.me/hn_summary/76315</link>
+      <description><![CDATA[我们对拜占庭帝国有什么误解？ 
+在本文中，我们探讨了关于拜占庭帝国的常见误解。 “拜占庭”一词的发明是为了否认这个国家及其人民的罗马身份，他们就像凯撒或哈德良一样是罗马人。与压迫性暴政的信念相反，帝国与其臣民之间存在着一种响应和问责的关系。这个帝国在种族和语言上是多元化的，除了宗教主题之外还拥有丰富的文化遗产。通过关注拜占庭的世俗方面，如艺术、文学和科学进步，我们可以更准确地了解这个迷人的帝国。]]></description>
+      <guid>https://t.me/hn_summary/76315</guid>
+      <pubDate>Mon, 26 Feb 2024 23:12:47 GMT</pubDate>
     </item>
     <item>
-      <title>在 voussoir.net 上的“纸上笔记（2023）”中，作者反思了他们的习惯和选择 [...]</title>
-      <link>https://t.me/hn_summary/76278</link>
-      <description><![CDATA[纸质笔记（2023）
-在 voussoir.net 上的“纸上笔记 (2023)”中，作者反思了他们手写笔记的习惯和选择，强调了日期戳、活页纸、全尺寸纸、黑色墨水和方格纸的重要性。他们讨论了重写笔记、使用数字平板电脑记笔记的好处，以及纸质方法相对于数字方法的优势。作者还分享了他们的扫描过程，并展示了他们笔记中视觉上有趣的页面。一个独特的方面是作者使用 DIY 方法来制作方格纸。这篇文章提供了对笔记实践和作者个人笔记之旅的见解。]]></description>
-      <guid>https://t.me/hn_summary/76278</guid>
-      <pubDate>Mon, 26 Feb 2024 20:16:06 GMT</pubDate>
+      <title>问 HN：为什么推荐系统看起来不好？</title>
+      <link>https://t.me/hn_summary/76314</link>
+      <description><![CDATA[问 HN：为什么推荐系统看起来不好？
+news.ycombinator.com 上这篇文章的作者是质疑为什么 YouTube 等平台上的推荐系统没有达到预期。尽管机器学习取得了进步，但作者发现推荐常常没有达到目标，而且令人不愉快。作者强调了对 YouTube 上最近内容的明显偏见，并对音乐、电影和电视的推荐表示失望。这就提出了一个有争议的问题，即推荐系统是否真正有效地提供个性化推荐，尽管这些系统得到了广泛的开发和实施。]]></description>
+      <guid>https://t.me/hn_summary/76314</guid>
+      <pubDate>Mon, 26 Feb 2024 22:51:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果决定在欧盟放弃 iPhone 网络应用程序正面临欧洲委员会的审查 [...]</title>
-      <link>https://t.me/hn_summary/76277</link>
-      <description><![CDATA[Apple 放弃 iPhone Web 应用程序的决定在欧盟受到审查&lt; /a&gt;
-苹果在欧盟放弃 iPhone 网络应用程序的决定正面临欧盟委员会的审查，该委员会已要求苹果和应用程序开发商提供更多信息。该公司将这一变化归咎于欧盟的数字市场法案，并表示支持其他浏览器需要进行重大改革。应用程序开发人员正在反对这一决定，开放网络倡导组织进行了一项调查来评估其影响。争议在于苹果以用户采用率低和安全风险为由停止网络应用程序的理由。此次调查可能会对苹果在欧盟的做法产生重大影响。]]></description>
-      <guid>https://t.me/hn_summary/76277</guid>
-      <pubDate>Mon, 26 Feb 2024 20:05:59 GMT</pubDate>
+      <title>Pheasant 框架是 Dart 的一个新的 Web 开发工具，它提供了基于组件的应用程序 [...]</title>
+      <link>https://t.me/hn_summary/76313</link>
+      <description><![CDATA[展示 HN：Pheasant 框架：深入了解现代 Web 开发飞镖
+Pheasant Framework 是 Dart 的新 Web 开发工具，提供基于组件的方法、与 Dart 代码的无缝集成以及对 Sass 和 SCSS 的支持。与 Flutter 和 AngularDart 等其他框架不同，Pheasant 专注于简单性和性能，这使其成为创建快速、简单的 Web 应用程序的宝贵工具。一项独特的功能是它能够呈现 Markdown 代码，从而简化静态站点的生成。虽然仍处于预发布阶段，但该框架已为 Dart 和 JavaScript 开发人员带来了希望。在 GitHub 上查看该项目，并考虑支持其开发，以实现 Dart Web 开发的未来。]]></description>
+      <guid>https://t.me/hn_summary/76313</guid>
+      <pubDate>Mon, 26 Feb 2024 22:24:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在本周的《谁，我？》中</title>
-      <link>https://t.me/hn_summary/76276</link>
-      <description><![CDATA[如果我们在不告诉任何人的情况下将其插入，没有人会知道我们造成的停电
-在本周的《谁，我？》中Padraic 在 The Register 上分享了 20 世纪 90 年代爱尔兰一家制造工厂服务器中断的故事。在狭窄的服务器机房安装 PBX 后，他们在不知不觉中将 SCSI 电缆推离了位置，导致混乱并损失了金钱。尽管在无人知晓的情况下解决了这个问题，但最终的罪魁祸首是电缆连接器上缺少简单的夹子。这是一个代价高昂的教训，告诉我们关注细节的重要性以及小疏忽的潜在后果。]]></description>
-      <guid>https://t.me/hn_summary/76276</guid>
-      <pubDate>Mon, 26 Feb 2024 19:59:53 GMT</pubDate>
+      <title>[媒体]内华达州总检察长亚伦·福特已提出临时限制令动议 [...]</title>
+      <link>https://t.me/hn_summary/76312</link>
+      <description><![CDATA[内华达州提起诉讼，拒绝儿童访问 Meta 的 Messenger 加密 
+内华达州总检察长亚伦·福特 (Aaron Ford) 已提出一项临时限制令动议，以防止未成年人访问 Meta Messenger 应用上的加密通信。在此之前，包括 Meta 在内的社交媒体公司被指控向年轻人欺骗性地推销其服务。法庭文件认为，Meta 的端到端加密阻碍了执法工作，对儿童构成危险。然而，批评者认为，禁止内华达州儿童加密会损害他们的数字隐私和网络安全。关于这一争议问题的听证会结果仍有待确定。]]></description>
+      <guid>https://t.me/hn_summary/76312</guid>
+      <pubDate>Mon, 26 Feb 2024 22:16:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国国税局在审计美国最富有的个人方面面临着挑战，其经验 [...]</title>
-      <link>https://t.me/hn_summary/76275</link>
-      <description><![CDATA[国税局部门对付美国的百万富翁和亿万富翁&lt; br/&gt;
-美国国税局在审计美国最富有的个人方面面临挑战，需要聘请经验丰富的税务专业人士来应对逃税指控。尽管获得了历史性的资金来增强其能力，但该机构仍然无法与超级富豪的专业知识相媲美。重点是对百万富翁、亿万富翁和大公司进行审计，以缩小每年估计达 1,630 亿美元的税收差距。美国国税局还针对加密货币逃税，重点关注虚拟货币。然而，由于联邦对富有的税务欺诈行为的起诉有所减少，该机构在起诉刑事税务案件方面面临障碍。 （根据 84% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76275</guid>
-      <pubDate>Mon, 26 Feb 2024 19:52:47 GMT</pubDate>
+      <title>[媒体] 墨西哥辣椒变得不那么辣，而且更加不可预测，这是我们有意选择的 [...]</title>
+      <link>https://t.me/hn_summary/76311</link>
+      <description><![CDATA[为什么墨西哥辣椒比以往不那么辣
+墨西哥辣椒正变得不那么辣且更加不可预测，这是该行业为满足加工需求而特意选择的。由德克萨斯 A&amp;M 大学开发的 TAM II 墨西哥胡椒系列是向淡辣椒转变的关键角色。墨西哥辣椒的标准化是由于萨尔萨酱和酱汁等加工食品的一致性需求所推动的。然而，对于香料爱好者来说，还是有希望的，因为像 Mitla 和 Early 这样的传家宝辣椒品种提供了更辣的选择。在杂货店游说特定辣椒品种可能有助于恢复墨西哥辣椒作为可靠香料来源的时代。 （根据 97% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76311</guid>
+      <pubDate>Mon, 26 Feb 2024 22:15:15 GMT</pubDate>
     </item>
     </channel>
 </rss>

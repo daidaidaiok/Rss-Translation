@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 26 Feb 2024 21:06:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 00:17:53 GMT</lastBuildDate>
+    <item>
+      <title>有谁知道您可以参与一些有趣的新开源项目吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b0sy8e/does_anyone_know_of_some_interesting_new_open/</link>
+      <description><![CDATA[我目前正在寻找可以参与的有趣项目。最好的是仍处于早期阶段的年轻项目。我最初来自与硬件相关的世界。我的专长主要在于汇编语言、C 和 C++，但我也有 Web 开发经验，并且非常擅长 JavaScript、Typescript、HTML、CSS、Python，并且熟悉框架/库，例如 NextJs、React、Node、MongoDB 和火炬。使用 Java、Kotlin 或 Swift 的原生移动项目不太适合我，不是因为它们更糟糕，而是因为我不太熟悉这些语言和相关的开发环境。提前致谢：D   由   提交/u/Bremse161  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b0sy8e/does_anyone_know_of_some_interesting_new_open/</guid>
+      <pubDate>Mon, 26 Feb 2024 21:12:55 GMT</pubDate>
+    </item>
     <item>
       <title>需要人们微调模型</title>
       <link>https://www.reddit.com/r/opensource/comments/1b0scwr/need_folks_to_finetune_a_model/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[   /u/warengonzaga   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1azigov/xplorescan_never_memorize_a_blockchain_explorer/</guid>
       <pubDate>Sun, 25 Feb 2024 07:51:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一个可以构建好看的流程图并支持图遍历算法的UI库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1azhsxs/looking_for_a_ui_library_which_can_build_good/</link>
-      <description><![CDATA[ 由   提交 /u/LiberatedTester   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1azhsxs/looking_for_a_ui_library_which_can_build_good/</guid>
-      <pubDate>Sun, 25 Feb 2024 07:09:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
