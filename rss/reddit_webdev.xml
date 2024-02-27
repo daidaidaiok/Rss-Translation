@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 27 Feb 2024 15:06:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 21:06:14 GMT</lastBuildDate>
     <item>
-      <title>如果来自电子邮件中的链接，我的应用程序中的每个表单都会被破坏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1dr5m/every_form_in_my_app_is_broken_if_coming_from/</link>
-      <description><![CDATA[我在正在构建的应用程序中设置了密码重置过程。我正在使用 imitate.email 接收包含来自我的应用程序的链接的电子邮件。该链接由 3 部分组成：我的本地域、用户 ID 和新生成的令牌。所以它看起来像 http://127.0.0.1:3000:{user.id}/{token }。 当我点击虚假邮箱中的链接时，它会在新选项卡中正确打开我的应用程序的密码重置页面。在该选项卡中，所有表单都停止工作。  在密码重置页面中，我有一个用于输入新密码的表单，当我单击提交按钮时，什么也没有发生，也没有请求发送到服务器。例如，如果在同一个选项卡上我转到登录页面或任何其他带有表单的页面，则所有表单都会以相同的方式被破坏。 我使用一些中间件来验证用户 ID 和令牌在那次路由中，如果我输入错误的用户 ID 或错误的令牌，我会被重定向到错误页面。只是添加此内容以防有人认为链接已损坏。我没有收到任何错误，路由使用标题中的用户名正确打开页面（用户 ID 已验证的另一个证据）。按钮已经失效了，键盘上的回车键也失效了。 有什么线索吗？   由   提交/u/aquilaruspante1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1dr5m/every_form_in_my_app_is_broken_if_coming_from/</guid>
-      <pubDate>Tue, 27 Feb 2024 14:54:57 GMT</pubDate>
+      <title>此 ICANN 信息意味着什么？处于“赎回期”但要到六月才到期？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1m2pv/what_does_this_icann_info_mean_in/</link>
+      <description><![CDATA[   我有一位客户想要此 URL，但我从未见过这种状态组合。如果几个月都没有过期，为什么会处于赎回期？   由   提交 /u/atalkingfish   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1m2pv/what_does_this_icann_info_mean_in/</guid>
+      <pubDate>Tue, 27 Feb 2024 20:28:13 GMT</pubDate>
     </item>
     <item>
-      <title>这种类型的身份验证是如何创建的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1d7e8/how_is_this_type_of_authentication_created/</link>
-      <description><![CDATA[       由   提交/u/sujaudd1n   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1d7e8/how_is_this_type_of_authentication_created/</guid>
-      <pubDate>Tue, 27 Feb 2024 14:30:37 GMT</pubDate>
+      <title>开源 Swagger v2 示例</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1m0du/open_source_swagger_v2_examples/</link>
+      <description><![CDATA[我正在寻找使用 json 和版本 2 的开放式 swagger 示例，例如 Petstore ( petstore.swagger.io），但找不到任何。有什么建议吗？   由   提交 /u/haasilein   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1m0du/open_source_swagger_v2_examples/</guid>
+      <pubDate>Tue, 27 Feb 2024 20:25:32 GMT</pubDate>
     </item>
     <item>
-      <title>如果客户不使用我的网站，我是否应该将其从我的投资组合中删除？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1cunv/should_i_take_down_my_clients_site_from_my/</link>
-      <description><![CDATA[大家好，我一直在网上为一些服装品牌建立网站，这家公司付钱给我从一个网站重建他们的网站平台到另一个。我几个月前就完成了这项工作，一切都很好。今天我收到一条消息，说他们从未使用过我建立的网站，因此他们希望我将其从我的投资组合网站中删除。我最终没有与他们签订合同，因为那是我刚开始的时候，但我想知道你们都认为我应该在这里做什么。他们是一个相当大的客户，我想将他们的网站保留在我的网站上，但我也不想成为一个混蛋或其他什么。感谢所有建议！   由   提交/u/harris0501  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1cunv/should_i_take_down_my_clients_site_from_my/</guid>
-      <pubDate>Tue, 27 Feb 2024 14:15:05 GMT</pubDate>
+      <title>了解速度指数</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1lwp1/understanding_speed_index/</link>
+      <description><![CDATA[       加载时间为1.7秒，为什么速度指数是橙色？  Lighthouse 确定分数的方式以及我从 PageSpeed 洞察中得到的结果如下 ​ ​  https://preview.redd.it/1az1nrn3s6lc1.png？ width=881&amp;format=png&amp;auto=webp&amp;s=d55962c7c1d1a886cd033c663a1aea80b0242ff9 https://preview.redd.it/i6ab7e26s6lc1.png?width=915&amp;format=png&amp;auto=webp&amp;s=33237fdf2a197a861f3fdea6 f1d8d8859c2545c6 &lt; /div&gt;  由   提交/u/bartsimpson09   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1lwp1/understanding_speed_index/</guid>
+      <pubDate>Tue, 27 Feb 2024 20:21:36 GMT</pubDate>
     </item>
     <item>
-      <title>作为内容消费者，您首选网站上的广告类型是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1c767/as_a_content_consumer_what_is_your_preferred_type/</link>
-      <description><![CDATA[当然，我们都希望看不到任何广告，只看到我们点击的内容。但由于网站有其成本，而且有些网站还要养活人，那么什么样的广告类型更“可以忍受”呢？适合您吗？ 一些广告类型：横幅（图片、gif、视频）、弹出窗口、赞助/广告内容、附属链接、信息流广告（例如 reddit） &lt; !-- SC_ON --&gt;  由   提交 /u/mekmookbro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1c767/as_a_content_consumer_what_is_your_preferred_type/</guid>
-      <pubDate>Tue, 27 Feb 2024 13:45:36 GMT</pubDate>
+      <title>这甚至是 openapi 规范版本 2 中的有效定义吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1l7w8/is_this_even_a_valid_defintion_in_an_openapi_spec/</link>
+      <description><![CDATA[       由   提交/u/haasilein  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1l7w8/is_this_even_a_valid_defintion_in_an_openapi_spec/</guid>
+      <pubDate>Tue, 27 Feb 2024 19:54:19 GMT</pubDate>
     </item>
     <item>
-      <title>为什么某些应用程序对密码设置字符限制？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1c5y5/why_do_some_applications_put_a_character_limit_on/</link>
-      <description><![CDATA[我一直认为密码不应该有字符限制，因为密码越长，帐户就越安全，所以我不明白为什么 TikTok 等应用程序会对密码设置字符限制。它是否来自限制数据库中密码内存占用的地方（也许不是小规模的问题，但我想它可能会成为大型应用程序和/或应用程序的问题）那里面有很多数据）？如果是这样，对于像密码这样重要的事情，考虑数据库限制是否值得？   由   提交 /u/U51dJegT6RPyyziJxqvG   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1c5y5/why_do_some_applications_put_a_character_limit_on/</guid>
-      <pubDate>Tue, 27 Feb 2024 13:43:59 GMT</pubDate>
+      <title>有开源的网络视频编辑器吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1kxyc/is_there_an_opensource_web_video_editor/</link>
+      <description><![CDATA[我正在寻找类似于 veed.io、capcut.com 等，但经过一番搜索后似乎找不到任何内容。  不介意自己构建一个开源的，但如果有一个我可以使用并做出贡献的不错的选择，那就太好了。    由   提交/u/stephenw310  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1kxyc/is_there_an_opensource_web_video_editor/</guid>
+      <pubDate>Tue, 27 Feb 2024 19:43:26 GMT</pubDate>
     </item>
     <item>
-      <title>股票、衍生品、客户关系管理</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1c3cg/equities_derivatives_crm/</link>
-      <description><![CDATA[大家早上好。我很抱歉这不是正确的话题。我在技术方面并不是最好的。我有几个问题希望有人能帮助我。   如果您从一个提供购买/出售加密货币能力的基础平台开始，那么在此基础上构建股票交易能力的过程将是多么困难/耗时。和衍生品（期权和期货）？ 我们目前有机会选择一个提供一切的平台，但它只是前端。就服务器、CRM 和客户风险管理而言，我关注的是什么？   如果这听起来有点误导，我很抱歉，但除非你是某个大型基金，否则很难真正找到有关这些东西的信息。任何帮助将不胜感激。谢谢大家，祝你有美好的一天！    由   提交 /u/expandedrealms   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1c3cg/equities_derivatives_crm/</guid>
-      <pubDate>Tue, 27 Feb 2024 13:40:29 GMT</pubDate>
+      <title>人们做实际项目的视频</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1kred/videos_of_people_doing_actual_projects/</link>
+      <description><![CDATA[有人知道有哪些 Youtube 频道的视频只是某人在共享屏幕时从事专业级项目/工作/任务吗？与其说是以教学或教程的方式展示他们的工作流程、环境和流程，不如说他们是在处理真实的事情？特别是如果它与 React/Nextjs 相关？我会喜欢这样的东西，如果不存在，应该有人开始类似的东西，因为我认为需求会非常高。    由   提交/u/hamburgerlove413  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1kred/videos_of_people_doing_actual_projects/</guid>
+      <pubDate>Tue, 27 Feb 2024 19:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>LeetCode如何渲染答案页面？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1c15u/how_does_leetcode_render_the_solutions_page/</link>
-      <description><![CDATA[他们如何在网页上呈现来自 /graphql CommunitySolutions 的 API 响应？？ 此处页面是：https://imgur.com/a/r8awuZ2   由   提交 /u/myself_anurag   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1c15u/how_does_leetcode_render_the_solutions_page/</guid>
-      <pubDate>Tue, 27 Feb 2024 13:37:32 GMT</pubDate>
+      <title>API 端点集成测试 - 请求学习资源</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1kkh9/api_endpoint_integration_testing_requesting/</link>
+      <description><![CDATA[大家好， 我目前正在为我的应用程序的所有 API 端点实施集成测试，但我正在努力寻找结构性测试感觉可扩展的方法。到目前为止，我尝试过的所有事情都感觉随着我的应用程序扩展而变得难以管理（假设我足够幸运遇到这个问题）。  谁能推荐一些提供系统化端点测试方法的好书、博客文章、youtube 视频等？我专门寻找一个基本结构，说明任何给定的 CRUD 操作应该出现哪些测试用例，以及跨文件/目录模块化组织集成测试套件的策略。  理想情况下，可以针对超出一两个基本端点后开始出现的问题。   由   提交 /u/bmchicago   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1kkh9/api_endpoint_integration_testing_requesting/</guid>
+      <pubDate>Tue, 27 Feb 2024 19:28:17 GMT</pubDate>
     </item>
     <item>
-      <title>Warp：使用 Rust 和 AI 构建的快速而现代的终端模拟器？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1bcj8/warp_the_fast_and_modern_terminal_emulator_built/</link>
-      <description><![CDATA[    /u/moonbunR   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1bcj8/warp_the_fast_and_modern_terminal_emulator_built/</guid>
-      <pubDate>Tue, 27 Feb 2024 13:03:33 GMT</pubDate>
+      <title>Javascript 最好的 fp 语言？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1kgju/javascript_best_fp_language/</link>
+      <description><![CDATA[       由   提交/u/djmill0326   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1kgju/javascript_best_fp_language/</guid>
+      <pubDate>Tue, 27 Feb 2024 19:23:48 GMT</pubDate>
     </item>
     <item>
-      <title>认真的 Web 组件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1bbqp/web_components_in_earnest/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1bbqp/web_components_in_earnest/</guid>
-      <pubDate>Tue, 27 Feb 2024 13:02:26 GMT</pubDate>
+      <title>项目 - 建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1kfej/project_advice/</link>
+      <description><![CDATA[我正在规划一个大型项目。我本人不是开发人员。我想知道这里是否有人愿意解释我的项目需要什么类型的专业服务？以下是该项目包含内容的摘要列表。   付费会员网站 与消费者和提供商分开  论坛 讨论类别/市场/Classifieds/Escrow Service  移动应用程序  正如前面提到的，我很好奇更多地了解这个项目需要什么，所以我可以为该项目寻找合适的人员。我并不是在寻求有关如何自己构建这个或任何类似内容的建议。这远远超出了我的能力范围。我只是不知道从哪里开始。   由   提交 /u/kennyarsen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1kfej/project_advice/</guid>
+      <pubDate>Tue, 27 Feb 2024 19:22:38 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 Astro、Tailwind CSS 和 Alpine.js 创建自适应滚动导航</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1b4vo/how_to_create_an_adaptable_navigation_on_scroll/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1b4vo/how_to_create_an_adaptable_navigation_on_scroll/</guid>
-      <pubDate>Tue, 27 Feb 2024 12:53:02 GMT</pubDate>
+      <title>在 Nextjs 中将服务器组件放在客户端组件中（以及具有自己的 layout.ts 文件的嵌套组件）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1k2rs/having_server_components_inside_a_client/</link>
+      <description><![CDATA[如标题所示，我可以在类组件中包含服务器组件吗？  简而言之，我想要实现的是  &lt;应用程序/&gt;&gt; &lt;/GlobalContextProvider&gt;  因此，包含全局上下文的组件将是客户端组件，我希望应用程序是否可以是服务器组件，因为我想根据值呈现一些数据来自 GlobalContext。我还想要反应性，因此服务器组件会获取一些数据并呈现页面，并且我想从客户端本身调用某些 API（分页）。  我想知道这种模式是否是最佳实践，或者是否应该避免，以及是否有更好的方法来做到这一点。  此外，我想知道子布局是否可以覆盖父布局的属性，例如 ; // 此路由器中所有页面的共享元素 &gt;  &lt;/App&gt; NestedApp 包含它自己的layout.ts，我想在显示 NestedApp 组件时对元数据进行更改，否则，它显示应用程序目录内的layout.ts的元数据   由   提交 /u/imaburneracc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1k2rs/having_server_components_inside_a_client/</guid>
+      <pubDate>Tue, 27 Feb 2024 19:08:36 GMT</pubDate>
     </item>
     <item>
-      <title>Cookie 同意</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1b3wz/cookie_consent/</link>
-      <description><![CDATA[我有一些客户网站，我必须将其更新到最新的 cookie 同意规定，但我很难找到我到底需要什么。我的网站主要有 googleAnalytics、googleAds 和一些强制 cookie，如 csrf_token。我已经在 googletagmanager 上设置了“68publishers”的 cookie 同意模板。问题是这是否足够。我可以看到 gtm 在网站上提供 cookie 同意横幅，您可以允许或拒绝营销/分析 cookie，但没有 cookie 表。如果可能的话，我不想使用 CMP，但如果确实有必要，你能推荐一些东西吗？最好的是开源或免费，没有真正的低限制。  感谢您提前提供的任何帮助！   由   提交/u/Oynoo  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1b3wz/cookie_consent/</guid>
-      <pubDate>Tue, 27 Feb 2024 12:51:39 GMT</pubDate>
+      <title>有没有办法创建旅行历史时间表？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1jtgk/is_there_a_way_to_create_a_travel_history_timeline/</link>
+      <description><![CDATA[制作这样的东西的最佳方法是什么？ https://napoleon.nli.org.il/eng/   由   提交 /u/balaboss   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1jtgk/is_there_a_way_to_create_a_travel_history_timeline/</guid>
+      <pubDate>Tue, 27 Feb 2024 18:58:20 GMT</pubDate>
     </item>
     <item>
-      <title>您的团队如何与您分享反馈？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1afi6/how_does_your_team_share_feedback_with_you/</link>
-      <description><![CDATA[嗨， 我们一直在研究网站反馈小部件，例如 Hotjar 提供的东西。网站侧面的一个小按钮，任何人都可以点击。然后它会打开并让用户分享带有一些反馈的屏幕截图。 我们正在寻找一种更简单的方法来收集我们网站上的反馈，不仅来自我们的用户，还来自内部。 p&gt; 您的团队分享反馈的流程是怎样的？   由   提交/u/TargetHot2087  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1afi6/how_does_your_team_share_feedback_with_you/</guid>
-      <pubDate>Tue, 27 Feb 2024 12:15:03 GMT</pubDate>
+      <title>Fastify 基础知识：插件和封装快速指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1jizt/fastify_fundamentals_a_quick_guide_to_plugins_and/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1jizt/fastify_fundamentals_a_quick_guide_to_plugins_and/</guid>
+      <pubDate>Tue, 27 Feb 2024 18:46:50 GMT</pubDate>
     </item>
     <item>
-      <title>鉴于最近的 netlify 丑闻，我们可以将免费项目转移到哪里？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1a9gc/in_light_of_the_recent_netlify_scandal_where_can/</link>
-      <description><![CDATA[大家好， 与本子中的大多数人一样，今天我感到非常不安Netlify 的做法试图向甚至没有关联信用卡的免费账户收取 10 万美元的费用。 首席执行官的回应让事情变得更糟，因为他暗示你必须希望他们原谅这项法案。因此，我今天将删除我的 Netlify 帐户。 现在有哪些替代方案？ Cloudflare Pages 是更好的解决方案还是会产生同样的不正当费用？从他们的定价页面来看，情况似乎并非如此。 Vercel 或 Github 页面会更好吗？我主要使用 NextJS。 关于在没有后端的情况下免费处理表单的任何建议，因为我在大多数网站上使用 Netlify 表单。我所需要的只是一封发送到包含表单内容的帐户的电子邮件。 谢谢   由   提交 /u/bananas-and-whiskey   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1a9gc/in_light_of_the_recent_netlify_scandal_where_can/</guid>
-      <pubDate>Tue, 27 Feb 2024 12:05:34 GMT</pubDate>
+      <title>我需要有关时间显示的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1im8v/i_need_help_with_time_display/</link>
+      <description><![CDATA[我制作了一个网络应用程序来练习，它基本上是一个实时聊天应用程序，但我在显示时间时遇到了问题。当我发送消息时，它显示为“You – 13:38 – message”，显示与我的 Windows 相同的时间，但当我收到消息时，它显示一些不同的时间，可能是部署的时间。我该如何修复它？这是应用程序链接和/u/NeriosVag  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1im8v/i_need_help_with_time_display/</guid>
+      <pubDate>Tue, 27 Feb 2024 18:09:52 GMT</pubDate>
     </item>
     <item>
-      <title>帆船网站的定价和技术堆栈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1a6hd/pricing_and_techstack_for_sailing_website/</link>
-      <description><![CDATA[我的老板要求我计算出为该组织开发网站的价格估算。  该网站的想法是让休闲船船长将他们的船添加到平台上，并添加他们预期的航行路线。然后其他人应该可以浏览路线并作为客人在船上保留一个位置。  预计实现的内容：  身份验证和个人资料 图像和文本 搜索功能  我有一些 webdev 经验，特别是 MERN 堆栈，但我不知道这是否是正确的技术堆栈。 另外，如果项目应该全部或部分外包（可能只是后端），预计定价是多少？ 谢谢   由   提交 /u/krag16   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1a6hd/pricing_and_techstack_for_sailing_website/</guid>
-      <pubDate>Tue, 27 Feb 2024 12:01:09 GMT</pubDate>
+      <title>在客户端上重复验证。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1i55i/duplicating_validation_on_the_client/</link>
+      <description><![CDATA[我正在用 GoLang API + AlpineJS 编写一个小应用程序。 GoLang API 非常丰富，返回 400 并带有字段和错误的错误数组。我的下意识反应是简单地将这些映射到我的表单并显示它们。 我已经读到客户端验证更友好并且值得推荐。我确实看到 HTML5 现在有大量方便的验证功能，但您在客户端只能做这么多。例如，如何编写客户端验证来查看电子邮件地址是否已被使用？你不能。 我是否应该花时间在客户端上复制尽可能多的服务器端验证。然后显示服务器端特定内容的更改？或者我应该走捷径，简单地将所有服务器端字段错误映射到我的 UI 并编写一次验证内容。   由   提交 /u/floundersubdivide21   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1i55i/duplicating_validation_on_the_client/</guid>
+      <pubDate>Tue, 27 Feb 2024 17:51:01 GMT</pubDate>
     </item>
     <item>
-      <title>与 Windows 相比，Linux 或 Mac 为何更适合 Web 开发？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b191le/what_makes_linux_or_mac_good_for_web_dev_compared/</link>
-      <description><![CDATA[就像为什么人们说，在 Linux 上开发更好。 并说 WSL 只是 Windows 中的一个度假胜地。  p&gt; 是关于性能还是其他。因为我从来没有遇到过 Windows 问题。    由   提交 /u/Himanshu_Chauhan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b191le/what_makes_linux_or_mac_good_for_web_dev_compared/</guid>
-      <pubDate>Tue, 27 Feb 2024 10:50:49 GMT</pubDate>
+      <title>我有一个垂直的 Flex div，在它里面，我如何拥有一个在同一行上有元素的 div</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b0snfk/i_have_a_vertical_flex_div_inside_it_how_do_i/</link>
+      <description><![CDATA[  ...   这是季节吗：  &lt;/div&gt; CSS: .new_tournament div { justify-content: center;显示：柔性；弹性方向：列；对齐项目：居中； }  抱歉，如果这很简单，我尝试用谷歌搜索它，但没有任何效果   由   提交 /u/centerdeveloper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b0snfk/i_have_a_vertical_flex_div_inside_it_how_do_i/</guid>
+      <pubDate>Mon, 26 Feb 2024 21:01:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
