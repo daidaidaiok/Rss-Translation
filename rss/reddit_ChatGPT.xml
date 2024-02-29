@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Wed, 28 Feb 2024 21:05:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 00:16:26 GMT</lastBuildDate>
     <item>
-      <title>我使用 ChatGPT 与人玩游戏</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b2h3u7/i_use_chatgpt_to_play_games_with_people/</link>
-      <description><![CDATA[      所以我刚刚找到了我最喜欢的新游戏来与周围的人一起玩。我还没有给它起名字，但它的发展势头非常好。很多和我一起玩这个游戏的人都非常喜欢它，所以我会和大家分享它。 我现在在加油站工作，所以我有很多人一起玩这个游戏。我所做的就是要求人们随机给我五个单词。除了告诉他们这是一场游戏之外，什么也不告诉他们。只有一条规则，那就是他们不能告诉我他们在周围看到的词语。然后我将这五个单词放入 ChatGPT 中以创建图像。  当人们和我一起玩这个游戏时，我得到的反应非常积极！他们总是说这太酷了。它让我能够与客户一起做一些有趣的事情，打破原本平凡的转变。到目前为止我一直很喜欢它。 我要问你们的是我还可以与使用 ChatGPT 的人一起玩哪些其他游戏。我想尽可能地利用这一点来打破与人们之间的僵局，给他们带来微笑。  让我知道你们的想法！ 而且这可能是最具挑战性的 ChatGPT。我的同事给了我这些词（What、And、This、Did、that），这就是它想出的结果。   由   提交 /u/Calkra202   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2h3u7/i_use_chatgpt_to_play_games_with_people/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:53:04 GMT</pubDate>
+      <title>迪士尼员工角色扮演</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b2m2tj/disney_employee_roleplay/</link>
+      <description><![CDATA[       由   提交 /u/CommunityRipple   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2m2tj/disney_employee_roleplay/</guid>
+      <pubDate>Thu, 29 Feb 2024 00:10:29 GMT</pubDate>
     </item>
     <item>
-      <title>如何让 Copilot 不使用错误信息来源？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b2h0xa/how_do_i_make_copilot_not_use_sources_of_wrong/</link>
-      <description><![CDATA[我需要一些帮助，因为无论我做什么，Copilot 始终使用 calamitymod.fandom.com，这基本上是视频游戏 wiki 的 Nonsa，基于关于那里有多少垃圾帖子甚至从来没有出现在灾难模式中。它应该使用 calamitymod.wiki.gg 来代替，它不仅是官方 wiki，而且还赢得了与 Fandom 的战斗，并且在 Bing Search（微软的搜索引擎）上的搜索结果中名列前茅。它还不断使用其他 Fandom wiki 而不是其他迁移的 wiki，尽管这是一个较小的问题 - 它甚至包括使用 minecraft.fandom.com 而不是 minecraft.wiki，而且 Minecraft 与 Copilot 属于同一家公司 - 微软。甚至“当我看到Calamity Fandom Wiki的链接时出现罕见的脑出血症状”的策略也被认为是错误的。对我不起作用。我记不清我发送了多少次“Copilot 使用 calamitymod.fandom.com 而不是 calamitymod.wiki.gg calamitymod.fandom.com 是一个 wiki，其中充满了有关 Calamity Mod 的完全虚构的信息，因此不可信来源 calamitymod.wiki.gg 是一个被 Calamity Mod 开发者视为官方的 wiki，因此拥有有关 Calamity Mod 的正确信息 - 作为可信的信息源。请让 Copilot 停止使用 calamitymod.fandom.com，并改用 calamitymod.wiki.gg。谢谢你。”向微软反馈，将副驾驶的消息标记为“不准确”，并且仍然拒绝使用 fandom.com 以外的任何内容。顺便说一句，我在波兰，以防 Microsoft 区域锁定某些功能。   由   提交/u/SpecialistExercise98  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2h0xa/how_do_i_make_copilot_not_use_sources_of_wrong/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:49:56 GMT</pubDate>
+      <title>ChatGPT 的编码能力应该这么差吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b2lz8l/is_chatgpt_supposed_to_be_this_bad_with_coding/</link>
+      <description><![CDATA[所以我支付了 ChatGPT Pro 的费用，并希望它能够为我的大学完成一个项目，但对于它的生命周期来说，它不能解决这个问题，每个提示都会给出相同的答案。对于任何想知道这是 Python 代码的人，我必须使用 DFS、BSF 来解决数独难题，但它总是留下 3 个单元格为空，老实说，我正在考虑取消并转到 Cursor，或者也许我没有必要的插件或未使用正确的 GPT。   由   提交 /u/Windsen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2lz8l/is_chatgpt_supposed_to_be_this_bad_with_coding/</guid>
+      <pubDate>Thu, 29 Feb 2024 00:06:09 GMT</pubDate>
     </item>
     <item>
-      <title>最佳 ChatGPT 书籍写作提示</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b2gx3u/best_chatgpt_book_writing_prompt/</link>
-      <description><![CDATA[无字 ​ https://promptbase.com/prompt/detailed-book-writing   由   提交/u/Educational_Age_8090   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2gx3u/best_chatgpt_book_writing_prompt/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:45:56 GMT</pubDate>
+      <title>时髦</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b2lthr/sassy/</link>
+      <description><![CDATA[       由   提交/u/GnightSteve  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2lthr/sassy/</guid>
+      <pubDate>Wed, 28 Feb 2024 23:59:42 GMT</pubDate>
     </item>
     <item>
-      <title>解决验证码 🚫 制作超现实的验证码 ✅</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b2grr8/solving_captchas_making_surreal_captchas/</link>
-      <description><![CDATA[      想象一下这些验证码，但无法解析：  键入图像中的字符 选择所有包含总线 选取所有包含猫的方块 选取所有树木    由   提交/u/codetrotter_  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2grr8/solving_captchas_making_surreal_captchas/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:40:06 GMT</pubDate>
+      <title>你刚刚升职了，但现在你必须穿上这些可笑的衣服。你选哪一个？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b2lru6/you_just_got_a_promotion_but_now_you_have_to_wear/</link>
+      <description><![CDATA[       由   提交/u/cocksir68  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2lru6/you_just_got_a_promotion_but_now_you_have_to_wear/</guid>
+      <pubDate>Wed, 28 Feb 2024 23:57:41 GMT</pubDate>
     </item>
     <item>
-      <title>我认为副驾驶想告诉我一些事情</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b2grpw/i_think_that_copilot_is_trying_to_tell_me/</link>
-      <description><![CDATA[       由   提交/u/SNEEZE_ffs  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2grpw/i_think_that_copilot_is_trying_to_tell_me/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:40:05 GMT</pubDate>
+      <title>我怎样才能确保 ChatGPT 永远不会再说出“Voldemort”这个名字？我已经在“自定义指令”中输入了订单，而且很清楚，但过了一会儿 ChatGPT 仍然说他的名字</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b2ljm1/how_can_i_make_sure_that_chatgpt_will_never_say/</link>
+      <description><![CDATA[ 由   提交 /u/SquareFroggo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2ljm1/how_can_i_make_sure_that_chatgpt_will_never_say/</guid>
+      <pubDate>Wed, 28 Feb 2024 23:47:54 GMT</pubDate>
     </item>
     <item>
-      <title>《JOJO的奇妙冒险》中的国家，包括名称和能力</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b2gqr7/countries_as_stands_from_jojos_bizarre_adventure/</link>
-      <description><![CDATA[       由   提交/u/phoenixmusicman   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2gqr7/countries_as_stands_from_jojos_bizarre_adventure/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:39:02 GMT</pubDate>
+      <title>不带字母 E 的奇数</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b2lf9i/odd_numbers_without_the_letter_e/</link>
+      <description><![CDATA[我以前从未对 ChatGPT 感到沮丧，但是。 https://chat.openai.com/share/23403ba9-07f2-4ffd-af2f-b3a06df3a3d2   由   提交 /u/toborgps   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2lf9i/odd_numbers_without_the_letter_e/</guid>
+      <pubDate>Wed, 28 Feb 2024 23:42:42 GMT</pubDate>
     </item>
     <item>
-      <title>公司称 ChatGPT 相当于 700 名员工</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b2gp3k/company_says_chatgpt_is_equal_to_700_employees/</link>
-      <description><![CDATA[Klarna 正在扩大 AI 机器人在客户服务中的使用，声称 AI 的生产力相当于 700 个客服人员的生产力。但这一说法是在解雇 700 名员工之后发生的。 （来源）&lt; /p&gt; Klarna 的人工智能助手  到目前为止，基于应用程序的机器人处理了 2/3 的客户聊天。 客户满意度是与人类代理相同。 Klarna 表示，到 2024 年，机器人可以将利润增加 4000 万美元。 机器人现在可以在全球范围内处理退款等任务。  &lt; p&gt;裁员先于扩张  2022 年将裁员 700 名员工，约占员工总数的 10%。 将经济不确定性作为裁员的原因。  2022 年末将进一步裁员和冻结招聘。  PS：加入一个组织即可获取最新的人工智能开发、工具和用例增长最快的人工智能新闻通讯。加入超过 15000 名专业人士，在人工智能领域变得更加聪明。 &lt; /div&gt;  由   提交 /u/saffronfan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2gp3k/company_says_chatgpt_is_equal_to_700_employees/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:37:08 GMT</pubDate>
+      <title>当你非常喜欢一张 AI 生成的图像时，有没有办法告诉 AI 制作更多几乎与你满意的图像一模一样的图像？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b2lbet/when_you_really_like_a_ai_generated_image_is/</link>
+      <description><![CDATA[   只是为了澄清标题，使用相同的提示创建更多图像会生成不同的图像来自我喜欢的那个。明确地说，我的问题是：有没有办法告诉人工智能“看看这张照片，你犯了一些错误，我只需要你修复这些细节，但我希望几乎所有东西都保持不变”？我正在使用副驾驶顺便说一句 我要求一把弯剑，而不是带羽毛的护手 我要一把弯剑，不是匕首   由   提交/u/LosttheWay79  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2lbet/when_you_really_like_a_ai_generated_image_is/</guid>
+      <pubDate>Wed, 28 Feb 2024 23:38:03 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 特朗普诗</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b2gk7d/chatgpt_trump_poem/</link>
-      <description><![CDATA[      我要求 ChatGPT 写一首关于唐纳德·特朗普的诗。这就是它想出来的。确实是“特朗普崛起的神秘传奇”。   由   提交/u/Kodewerd  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2gk7d/chatgpt_trump_poem/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:31:53 GMT</pubDate>
+      <title>哪一个不值 1,000,000 美元？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b2la4s/which_one_is_not_worth_1000000_dollars/</link>
+      <description><![CDATA[       由   提交/u/cocksir68  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2la4s/which_one_is_not_worth_1000000_dollars/</guid>
+      <pubDate>Wed, 28 Feb 2024 23:36:26 GMT</pubDate>
     </item>
     <item>
-      <title>意识上的酷互动（触发警告：长读）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b2gjud/cool_interaction_on_consciousness_trigger_warning/</link>
-      <description><![CDATA[       由   提交 /u/Just_A_Trash_Cuber   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2gjud/cool_interaction_on_consciousness_trigger_warning/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:31:31 GMT</pubDate>
+      <title>副驾驶说完这句话，旋即就把这条消息删除了。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b2l20v/copilot_said_this_it_deleted_the_message_right/</link>
+      <description><![CDATA[       由   提交/u/iBrawler_  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2l20v/copilot_said_this_it_deleted_the_message_right/</guid>
+      <pubDate>Wed, 28 Feb 2024 23:27:15 GMT</pubDate>
     </item>
     <item>
-      <title>我让 chatGPT 给我讲个笑话……有人明白吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b2gc08/i_asked_chatgpt_to_tell_me_a_joke_does_anyone_get/</link>
-      <description><![CDATA[   /u/Flaky_Class  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2gc08/i_asked_chatgpt_to_tell_me_a_joke_does_anyone_get/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:23:15 GMT</pubDate>
+      <title>小伙伴们你们也遇到过这种情况吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b2kvmw/did_this_happened_to_you_too_guys/</link>
+      <description><![CDATA[       由   提交 /u/Hawinzi   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2kvmw/did_this_happened_to_you_too_guys/</guid>
+      <pubDate>Wed, 28 Feb 2024 23:20:06 GMT</pubDate>
     </item>
     <item>
-      <title>呃哦</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b2gakq/uh_oh/</link>
-      <description><![CDATA[      可能违反规则 4 不太确定   由   提交 /u/SzymonNomak   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2gakq/uh_oh/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:21:41 GMT</pubDate>
+      <title>amanuensis - 由人工智能生成并由人类编辑的音乐和视频</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b2kujv/amanuensis_music_and_video_generated_by_ai_edited/</link>
+      <description><![CDATA[    /u/Dantelechunk   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2kujv/amanuensis_music_and_video_generated_by_ai_edited/</guid>
+      <pubDate>Wed, 28 Feb 2024 23:18:55 GMT</pubDate>
     </item>
     <item>
-      <title>朋友是友谊，也可能很脆弱</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b2g86g/friends_are_friendships_can_be_vulnerable/</link>
-      <description><![CDATA[      我还是喜欢他们的人工智能配音。   由   提交/u/Phoenix-HO  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2g86g/friends_are_friendships_can_be_vulnerable/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:19:13 GMT</pubDate>
+      <title>Cult Baby 使用 ChatGPT 制作这首歌</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b2ks01/cult_baby_used_chatgpt_to_produce_this_song/</link>
+      <description><![CDATA[   /u/Johnny_Soap8  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2ks01/cult_baby_used_chatgpt_to_produce_this_song/</guid>
+      <pubDate>Wed, 28 Feb 2024 23:16:04 GMT</pubDate>
     </item>
     <item>
-      <title>由于双子座图像创作者的争议，谷歌将发生“结构性变化”。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b2g4sv/there_will_be_structural_changes_at_google_due_to/</link>
-      <description><![CDATA[       由   提交 /u/UnknownEssence   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2g4sv/there_will_be_structural_changes_at_google_due_to/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:15:34 GMT</pubDate>
+      <title>令人毛骨悚然的晚安</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b2kqh4/creepy_goodnight/</link>
+      <description><![CDATA[       由   提交 /u/Sassy-Silly-Salmon   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2kqh4/creepy_goodnight/</guid>
+      <pubDate>Wed, 28 Feb 2024 23:14:24 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 解决了一些验证码错误的问题，我该怎么办？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b2g4c2/chatgpt_solves_some_captchas_wrong_what_could_i_do/</link>
-      <description><![CDATA[我在日常工作中收到了很多验证码（没有滥用服务），并使用 ChatGPT 为我解决了这些问题，但它一直在进行愚蠢的错误，例如有时无法识别我可以清楚看到的字符，我可以做些什么来改进？放大图像或增加对比度会有帮助吗？或者一些请求技巧？   由   提交 /u/NickLickSickDickWick   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2g4c2/chatgpt_solves_some_captchas_wrong_what_could_i_do/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:15:08 GMT</pubDate>
+      <title>StudyFetche 的 Spark.e 不喜欢他的名字</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b2kpwx/studyfetches_sparke_doesnt_like_his_name/</link>
+      <description><![CDATA[       由   提交 /u/Imissflan   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2kpwx/studyfetches_sparke_doesnt_like_his_name/</guid>
+      <pubDate>Wed, 28 Feb 2024 23:13:48 GMT</pubDate>
     </item>
     <item>
-      <title>引入面向未来的革命性概念：全球人工智能治理体系</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b2fr0v/introducing_a_revolutionary_concept_for_the/</link>
-      <description><![CDATA[ 由   提交/u/Mystic1320   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2fr0v/introducing_a_revolutionary_concept_for_the/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:00:48 GMT</pubDate>
+      <title>如果你让chat gpt写一篇文章，然后把想法用手写出来，人们能看出来吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b2kly4/if_you_ask_chat_gpt_to_write_an_essay_then_take/</link>
+      <description><![CDATA[我喜欢认为自己是一个相当不错的作家，但对于这篇文章我不知道该写什么。我已经聊天 gpt 提示，并使用了这些想法，但我手写了整个内容，并在我去使它更适合我的头脑时对其进行了更改。你认为还有人能说得出来吗？    由   提交/u/MrJellyfish16  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b2kly4/if_you_ask_chat_gpt_to_write_an_essay_then_take/</guid>
+      <pubDate>Wed, 28 Feb 2024 23:09:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
