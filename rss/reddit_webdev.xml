@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 29 Feb 2024 09:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 15:06:32 GMT</lastBuildDate>
     <item>
-      <title>使用“非标准”工具进行自由职业是一个坏主意吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2vzsc/is_it_a_bad_idea_to_use_nonstandard_tools_for/</link>
-      <description><![CDATA[嗨，我正在开始一项自由网页设计业务。 我已经建立了一个网站（免费），使用SvelteKit 和 TailwindCSS 并托管在 Cloudflare Pages 上。我知道对于这样的网站来说，整个 JS 框架可能有点大材小用，但 Svelte 的语法最接近我的心智模型，我发现我用它工作得更快。 我最近遇到了 editable.website，这是一个工具集合，允许对使用 SvelteKit 制作的网站进行所见即所得编辑。这对我来说看起来很完美，因为它非常适合我的堆栈，并且比 WordPress 等传统 CMS 快得多（并且具有更好的用户体验！）。我已经尝试过它（不幸的是，没有文档，但如果您了解 JS/Svelte，那么学习使用它是非常简单的），并且我认为它非常适合构建自由网站。 我的问题是，与我的客户一起使用这样的工具是否是最佳实践。 如果某些东西停止工作，我会在那里支持他们，而且我认为我对此有足够的了解解决出现的问题。   由   提交/u/Personal_Rich_2322   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2vzsc/is_it_a_bad_idea_to_use_nonstandard_tools_for/</guid>
-      <pubDate>Thu, 29 Feb 2024 09:03:01 GMT</pubDate>
+      <title>由于某种原因，我最近很快就失去了编码的动力。还有谁？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b32ez6/for_some_reason_i_lost_motivation_to_code_very/</link>
+      <description><![CDATA[目前，我想创建一个不错的作品集网站，甚至清理一些旧项目，使它们看起来更好。然后也适当地重新设计 Figma 设计。 我观看了一些有关如何创建作品集的视频。然而，当轮到我去做的时候，我失去了所有动力，我不知道如何防止这种情况发生。  欢迎任何反馈   由   提交 /u/Slight-Rent-883   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b32ez6/for_some_reason_i_lost_motivation_to_code_very/</guid>
+      <pubDate>Thu, 29 Feb 2024 15:03:44 GMT</pubDate>
     </item>
     <item>
-      <title>LF如何模拟Excel“冻结单元格”以在表格上使用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2vpn5/lf_how_to_emulate_excel_freeze_cell_for_use_on/</link>
-      <description><![CDATA[对于那些不知道的人，冻结单元格功能允许您滚动电子表格，但在您查看时将特定列/标题保留在屏幕上。  有谁知道在网页的表格上模拟这种情况的方法，要么是我不知道的一些CSS（我主要是后端程序员），要么是通过某些库的方法. 我工作的 SaaS 有大量数据，如果能够在列上水平滚动，但仍然看到左侧的 2 列，保持在原位（与标题类似），那就太好了当您向下滚动页面时。想法目标是整个页面没有滚动，只有页面上的表格区域。 请注意，SaaS 是专门为桌面使用而设置的（或至少平板电脑），由于显示/编辑的数据量较大。 谢谢。    提交者   &lt; a href=&quot;https://www.reddit.com/user/greg8872&quot;&gt; /u/greg8872   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2vpn5/lf_how_to_emulate_excel_freeze_cell_for_use_on/</guid>
-      <pubDate>Thu, 29 Feb 2024 08:43:25 GMT</pubDate>
+      <title>学习动画和简单图形生成的最佳方法/地点</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b326cb/best_wayplaces_to_learn_animations_and_simple/</link>
+      <description><![CDATA[我正在开发一个讲故事的项目，我希望在横幅上制作 16 位或简单角色的动画。只是做一些像行走动画循环或面部表情变化之类的事情，没有什么太动态的。有没有适合做这种事情的工具？我查看了anime.js，但我不太确定它是否正是我所需要的文档中的一些示例。我是自学成才，更多的是后端开发而不是前端，因此任何建议将不胜感激。   由   提交/u/l-b_b-l   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b326cb/best_wayplaces_to_learn_animations_and_simple/</guid>
+      <pubDate>Thu, 29 Feb 2024 14:53:47 GMT</pubDate>
     </item>
     <item>
-      <title>对公司代码进行逆向工程正常吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2vl5a/is_it_normal_to_reverse_engineer_your_company_code/</link>
-      <description><![CDATA[我找到了一份新工作。在这家公司中，不仅没有任何类型的文档，而且几乎没有人知道/创建我被分配改进的所有 api。这当然是因为我的公司收购了另一家公司。 （我正在研究被收购公司的代码）但有时我仍然会生气，因为我没有得到关于我必须做什么的介绍。您觉得这种必须对任何东西进行逆向工程的做法正常吗？   由   提交 /u/ilpiccoloskywalker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2vl5a/is_it_normal_to_reverse_engineer_your_company_code/</guid>
-      <pubDate>Thu, 29 Feb 2024 08:34:20 GMT</pubDate>
+      <title>关于非静态主页 WP 的新手问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b31q11/newb_question_about_non_static_homepage_wp/</link>
+      <description><![CDATA[我有一个为一家企业创建的 WordPress 网站，该网站是由一位廉价的 Web 开发人员于 2020 年为我构建的。它的主页不是静态的。它被设置为“您的最新帖子”在主页设置中。所以我无法在主页上编辑任何内容。  我收到了版权通知，通知我他们使用了受版权保护的图像。我并不特别担心，但为了安心，我还是想删除该图像。  是否有一种简单的方法来复制内容并将其设置为静态主页，以便我可以对内容进行编辑？  实例中我有哪些选择？  该网站几乎不产生任何流量，因此我不愿意投资重建。我正在寻找最简单的修复方法，而不仅仅是杀死该网站。提前致谢。    由   提交/u/Algae-Major   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b31q11/newb_question_about_non_static_homepage_wp/</guid>
+      <pubDate>Thu, 29 Feb 2024 14:33:41 GMT</pubDate>
     </item>
     <item>
-      <title>为什么“is-number”包每周下载量达到 5900 万次？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2u2ai/why_does_isnumber_package_have_59m_weekly/</link>
-      <description><![CDATA[   /u/TheNerdistRedditor   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2u2ai/why_does_isnumber_package_have_59m_weekly/</guid>
-      <pubDate>Thu, 29 Feb 2024 06:53:03 GMT</pubDate>
+      <title>被视为中端市场的网站和被视为高端市场的网站有什么区别？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b3182u/what_is_the_difference_between_a_website_that/</link>
+      <description><![CDATA[我认为至少动画可以使某些东西看起来比运动时非常静止的东西更高端。  除此之外，我假设自定义图形是 SVG 文件。他们倾向于赋予它更定制的外观。    由   提交/u/Famous_Clerk_7529   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b3182u/what_is_the_difference_between_a_website_that/</guid>
+      <pubDate>Thu, 29 Feb 2024 14:11:25 GMT</pubDate>
     </item>
     <item>
-      <title>刚刚为我的预算工具发布了 MVP，并正在寻找人们使用它并测试它。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2tnff/just_release_an_mvp_for_my_budgeting_tool_and_am/</link>
-      <description><![CDATA[大家好！ 在过去的几个月里，我一直在开发一个预算工具，我认为它与其他工具有所不同那里有预算工具。我称之为原子预算。我刚刚发布了一个 MVP 版本，我想获得反馈并看看人们是否会喜欢它。  您可以在这里找到它：https://atombudget.com 是什么让这个工具与众不同与其他的不同之处在于，在输入您的收入和支出后，它会准确地告诉您从每项收入中留出多少钱，以便在支出发生时支付您的支出。 它的核心是预算这就是为什么 Atom Budget 的口号是这不是火箭科学！ 非常感谢您的宝贵时间！  &amp; #32；由   提交/u/wojo1086  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2tnff/just_release_an_mvp_for_my_budgeting_tool_and_am/</guid>
-      <pubDate>Thu, 29 Feb 2024 06:27:32 GMT</pubDate>
+      <title>有人知道一些好的多品牌网站吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b314us/anyone_know_some_good_multibranded_websites/</link>
+      <description><![CDATA[我正在寻找一些网站来为客户提供灵感，他们的母公司拥有多个不同的品牌，他们希望每个品牌都有一个不同的“风格”每个品牌的子页面。 例如： 主页：标准“通用”页面母公司品牌子页面：每个品牌都有不同的字体、颜色、布局 我发现的一个不错的例子是gap.com，Banana Republic 和 Athlea 的子页面略有变化，以代表各自的品牌 - 不同的字体、颜色等。 还有人有其他好的例子吗？谢谢！   由   提交/u/Significant_Fig_6290   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b314us/anyone_know_some_good_multibranded_websites/</guid>
+      <pubDate>Thu, 29 Feb 2024 14:07:18 GMT</pubDate>
     </item>
     <item>
-      <title>我发现这个东西很有趣，他们是如何阻止使用打开检查器的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2teao/i_found_this_thing_very_interesting_how_they/</link>
-      <description><![CDATA[https://itjobzy.com/加拿大的非技术工作/   由   提交 /u/sohail_ansari   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2teao/i_found_this_thing_very_interesting_how_they/</guid>
-      <pubDate>Thu, 29 Feb 2024 06:12:50 GMT</pubDate>
+      <title>什么样的项目，由一个初级程序员编写，会让你认为他知道他的东西？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b30sgy/what_kind_of_project_coded_by_a_junior_would_make/</link>
+      <description><![CDATA[你好， 在过去的六个月里，我一直在广泛学习 Web 开发技术，投入了大约 4-8+ 的时间每天几个小时。我最初开始学习课程，但很快就放弃了，因为我觉得我所学的课程已经过时了。相反，我主要专注于构建项目。 我的目标是用高质量的项目来充实我的投资组合。目前，我有几个较小的项目和一个较大的全栈项目，涉及 React、Node、TypeScript、Redux、Socket io、Tailwind + Vitest 和 RTL 进行测试。我投入了大量时间，现在感觉有点精疲力尽，我想同时构建一些其他东西。 什么样的项目会让你认为一个人知道他们的东西？由于我没有接受过这个竞争激烈的领域的任何教育，因此我正在寻找挑战，以便在其他后辈中脱颖而出。 我们欢迎您的想法:)   由   提交 /u/spurkle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b30sgy/what_kind_of_project_coded_by_a_junior_would_make/</guid>
+      <pubDate>Thu, 29 Feb 2024 13:52:00 GMT</pubDate>
     </item>
     <item>
-      <title>迫切需要帮助查找 WordPress 安装中内存使用的原因</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2t05t/desperately_need_help_finding_the_cause_of_memory/</link>
-      <description><![CDATA[我安装的 WordPress 使用了 98% 的服务器内存并导致一切崩溃。每当访问该网站时，我都会遇到数据库连接错误。 我禁用了所有插件并设置为默认 WordPress 主题，但问题仍然发生。 我希望备份该网站较早的日期，但显然，由于服务器磁盘空间问题，WHM 中的备份无法正常运行。最早的备份是从 2022 年开始的。 服务器是带有 HostGator 的 VPS，具有 8GB 内存、4 核 CPU 和 240GB 空间。 数据库非常大。比如17GB。 Hostgator 支持一直为 0 帮助。 我很害怕，因为这非常紧急并导致了很多业务问题。 如果有办法将范围缩小到什么脚本或任何其他可能导致它的东西都会有很大的帮助。 非常感谢任何建议。   由   提交 /u/WranglerReasonable91   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2t05t/desperately_need_help_finding_the_cause_of_memory/</guid>
-      <pubDate>Thu, 29 Feb 2024 05:50:54 GMT</pubDate>
+      <title>我如何为我的团队找到开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b3031b/how_can_i_find_a_developer_for_my_team/</link>
+      <description><![CDATA[大家好， 我们需要一个完整的堆栈开发/后端开发 基本上，我和一个我的几个大学朋友决定制作一个网站，如果成功的话，也可以制作一个应用程序。  我们对此类项目非常陌生，并不认为这是一条容易的道路，但即使我们失败了，那也将是很棒的经历。我们的努力的可笑之处在于我们都不是真正的软件开发人员。我们正在做与开发无关的其他工作，以准备基础和方向。这些是市场研究、寻找潜在的投资机会、UX/UI 设计等。  我们正在考虑要么聘请一名自由职业者来开始开发，要么找一个技能有限的人加入我们的团队。然而，众所周知，即使是演示版，您也必须支付巨额费用。所以，我们更愿意找到一个有足够技能的人来开始开发，然后在技能上一起成长。  到目前为止，我们的搜索成果还不是很丰富。我们进行了几次“采访”，但没有结果。当然，由于我们没有足够的资源，因此没有报酬或报酬很少。到目前为止，这只不过是一个“激情项目”。  如果你们能分享关于如何寻找某人的意见，我将非常感激。    由   提交 /u/TheLazyPillow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b3031b/how_can_i_find_a_developer_for_my_team/</guid>
+      <pubDate>Thu, 29 Feb 2024 13:16:56 GMT</pubDate>
     </item>
     <item>
-      <title>英伟达首席执行官预测编码的消亡——黄仁勋表示人工智能将完成这项工作，所以孩子们不需要学习</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2svlt/nvidia_ceo_predicts_the_death_of_coding_jensen/</link>
-      <description><![CDATA[       由   提交/u/kickrocksbawd  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2svlt/nvidia_ceo_predicts_the_death_of_coding_jensen/</guid>
-      <pubDate>Thu, 29 Feb 2024 05:43:52 GMT</pubDate>
+      <title>使用 OpenStreetMap 为 ActivityPub 重建 FourSquare</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2zta1/rebuilding_foursquare_for_activitypub_using/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2zta1/rebuilding_foursquare_for_activitypub_using/</guid>
+      <pubDate>Thu, 29 Feb 2024 13:02:35 GMT</pubDate>
     </item>
     <item>
-      <title>有人在 reddit 上找到好的项目吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2shqc/does_anybody_find_a_good_projects_on_reddit/</link>
-      <description><![CDATA[我会查看最流行的子 Reddit 搜索，例如  r/forhire r/hire r/freelance 等。 这么多新手和垃圾邮件发送者，每个帖子可能有 1 个点赞和 0 个评论。看起来很悲伤。但在 reddit 上找工作的想法非常有吸引力 ಠ_ಠ   由   提交 /u/sslimmshaddy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2shqc/does_anybody_find_a_good_projects_on_reddit/</guid>
-      <pubDate>Thu, 29 Feb 2024 05:22:13 GMT</pubDate>
+      <title>响应式导航的最佳实践</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2zmby/best_practice_for_responsive_navigation/</link>
+      <description><![CDATA[使用单独的 HTML  是否被认为是不好的做法？桌面和移动设备的元素？我总是使用一个元素进行构建并对其进行响应式设计，与设计师合作以确保结构全面保持相同，但是如果设计需要不同的结构，是否有任何理由不应该使用多个 只要正确使用 aria 属性等来隐藏未使用的属性就可以使用吗？   由   提交 /u/CuteKerryHooer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2zmby/best_practice_for_responsive_navigation/</guid>
+      <pubDate>Thu, 29 Feb 2024 12:52:40 GMT</pubDate>
     </item>
     <item>
-      <title>有 HTML/CSS 的样式指南吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2q6ni/any_styleguides_on_htmlcss/</link>
-      <description><![CDATA[好！这里是菜鸟开发人员。 （希望这不是一个愚蠢的问题）是否有类似“推荐”的内容？处理 HTML/CSS 的方式？ 这些是我从不同资源收集的东西： 1) 重点关注语义 HTML。 2) 每页最多有一个 H1。 3) 使用 aria 属性来获得可访问性的好处。 4）总是（尝试）使用外部CSS。内联 css 只能用于永久样式。 5）尝试将结构、布局和样式隔离开来。 6) 不要使用 ID 选择器，并在实现 Javascript 时使用 ID。 7) 不要使用 HTML 表格标签进行布局。请改用网格。 8) 添加“延迟”到 JS 脚本标签，以便它在 CSS 之后加载（经过几个小时的搜索后才了解到这一点）。 9) 给出充分代表元素的良好类名。 10) 使用连字符大小写（我的 Java 混蛋，习惯了驼峰命名法，现在用这个很难了，哈哈）。 我应该养成习惯的其他有用的东西？    由   提交 /u/noobjaish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2q6ni/any_styleguides_on_htmlcss/</guid>
-      <pubDate>Thu, 29 Feb 2024 03:21:20 GMT</pubDate>
+      <title>大家好，我遇到了一个错误，我的获取响应不显示 cookie。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2zkeo/hi_all_i_am_having_a_bug_my_fetch_response_doesnt/</link>
+      <description><![CDATA[   大家好，我遇到了一个错误，我的获取响应不显示 cookie。但我的浏览器在网络选项卡中显示。 我还在此处创建了一个 GitHub 问题。   由   提交/u/AdNecessary8217  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2zkeo/hi_all_i_am_having_a_bug_my_fetch_response_doesnt/</guid>
+      <pubDate>Thu, 29 Feb 2024 12:49:59 GMT</pubDate>
     </item>
     <item>
-      <title>治疗师网站和 HIPAA 合规性</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2q2ps/therapist_websites_hipaa_compliance/</link>
-      <description><![CDATA[所以我看到很多治疗师使用的 Squarespace/Wix 网站不符合 HIPAA。我希望将单独执业的治疗师作为我的客户群。这个问题主要针对具有 HIPAA 工作经验的网络开发人员。 这个想法是构建基本网站，其中包括以下内容： - 办公地点 &lt; p&gt;- 治疗师的电话/电子邮件 - 关于治疗师及其理念 对于涉及 PHI 的其他所有内容，我会使用符合 HIPAA 的 EMR 服务，例如 TherapyAppointment 等： - 客户端消息 - 计费 - 预约安排 所以这是我的问题：只要我使用像 TherapyAppointment 这样符合 HIPAA 要求的 EMR 服务，我不必担心要承担任何责任，对吗？因为他们将处理 PHI，而不是我。我看到的唯一潜在问题是，如果我设置 EMR 帐户，我就可以访问登录凭据，从而访问将来收集的任何 PHI。因此，解决方案似乎很简单：确保治疗师在我完成设置后更改登录凭据。那行得通吗？这个想法是否存在一些我忽视的明显问题？ 虽然我认识到处理 HIPAA 相关工作风险很大，但我希望通过使用上述 EMR 服务来消除风险。治疗师似乎是很好的目标客户，因为他们中的一些人赚了很多钱，而且当 HIPAA 合规性在他们的工作中至关重要时，在网站上销售他们会更容易。此外，许多治疗师在管理其实践的各个方面效率低下，例如计费、预约安排等，这些可以部分或完全自动化，因此他们可以将更多时间花在临床工作上。这两件事看起来确实是很大的卖点。 您认为这种方法存在哪些问题？是否可以在不涉及律师的情况下完成，或者是否有必要？ ​   由   提交 /u/nottapsycho   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2q2ps/therapist_websites_hipaa_compliance/</guid>
-      <pubDate>Thu, 29 Feb 2024 03:16:12 GMT</pubDate>
+      <title>黑客马拉松值得吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2ze1s/are_hackathons_even_worth_it/</link>
+      <description><![CDATA[我觉得他们是对精力的巨大浪费，为了达到任意目标而走捷径对我来说已经是一个破坏性的事情，更糟糕的是企业霸主窃取了你的想法或过程。无能和缺乏组织也是一个令人头疼的问题。我想免费食物和赠品很酷。 这些对某些人来说有趣吗？为什么？   由   提交 /u/ghostyx101   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2ze1s/are_hackathons_even_worth_it/</guid>
+      <pubDate>Thu, 29 Feb 2024 12:40:33 GMT</pubDate>
     </item>
     <item>
-      <title>是否有域名/托管服务允许承包商/开发人员创建具有有限控制的“子帐户”（他们自己的帐户在单个主帐户下）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2pxwa/is_there_a_domainhosting_service_that_allows/</link>
-      <description><![CDATA[我和我的朋友意识到我们处于一个独特的位置 - 我们可以接触到数十万不懂技术但需要技术的潜在客户一个基本的网站，并且有资金可以花费。 我们在技术上都没有足够的能力来有效地建立一个专业的网站，因此我们决定将这项工作外包给开发人员，并将我们的精力集中在业务开发和客户的成功。  我们很难找到能够满足我们一项突出需求的服务。我们正在尝试寻找一个域名+托管服务，允许我们的开发人员社区在我们的主/主帐户下创建自己的帐户。我们可能有多个开发人员同时工作，并希望尽量避免只为单个帐户传递一个登录凭据，更不用说让他们访问我们的付款信息了。  有类似的事情吗？我们研究了 Namecheap 的经销商计划 - 它允许创建“CPanel 帐户” - 但这些帐户不允许某人购买域名并设置 Cpanels。我不是这个世界上最精通的人，但似乎我们想要“经销商”计划以外的东西。 ​   由   提交 /u/ffirsttimerr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2pxwa/is_there_a_domainhosting_service_that_allows/</guid>
-      <pubDate>Thu, 29 Feb 2024 03:10:03 GMT</pubDate>
+      <title>编写工作流程文档</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2z8a0/writing_workflow_documentation/</link>
+      <description><![CDATA[最近我看到一篇关于“万事通”的帖子学长以及如果他被公共汽车撞到该怎么办的问题。 我现在面临着类似的情况，并想开始记录我所做的事情，以便新人最终能够快速获得这些信息了解该机构的运作方式以及开发工作应如何执行。问题是 1. 我从来没有任何编写文档的经验，尤其是在工作流程方面； 2. 因为我们是一家网络机构，不同的客户有不同的需求，有时我需要发明一些以前没有做过的事情，比如无法实际记录。 我的问题是，是否有关于如何编写此类文档的良好资源，或者有任何工具可以帮助您这样做？如果我找不到任何东西，我可能会尝试使用某种 .md 文档。   由   提交 /u/MythicalTV   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2z8a0/writing_workflow_documentation/</guid>
+      <pubDate>Thu, 29 Feb 2024 12:31:50 GMT</pubDate>
     </item>
     <item>
-      <title>刷新过期令牌的正确方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2pwyj/what_is_the_proper_way_to_refresh_an_expired_token/</link>
-      <description><![CDATA[我正在尝试完成 Google OAuth 2.0 流程的实现。我使用 React 前端来获取身份验证代码，然后将其发送到 C# API，在其中交换令牌。在令牌响应上，API 将刷新令牌保存到数据库，并将访问令牌传递回我的前端。来自前端的所有授权请求都包含此访问令牌，我在 API 中使用一些中间件来验证每个请求的此令牌。 我在前端实现了一个刷新机制，用于监视令牌过期 15 分钟并在我的 API 上调用刷新端点。刷新端点返回到谷歌以获取新的访问权限和访问权限。刷新令牌，只要用户在网站上保持活动状态，整个过程就会重复。这一切都工作得“很好”。 我遇到一些困惑的是，我希望能够保留用户的会话，而不要求他们每次访问该网站时都登录。现在发生的情况是，如果我离开站点并在超过 15 分钟后返回，则会调用刷新端点，并且我的中间件在验证令牌时会抛出异常，表示令牌已过期。 在这种情况下，吞下该异常并刷新令牌是否被认为是最佳实践？我很好奇我是否在设计中进行了某种监督，并且很难找到涵盖该主题的任何好的资源。处理这种情况的最佳方法是什么？任何见解将不胜感激。提前致谢！   由   提交/u/turkeymaster77  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2pwyj/what_is_the_proper_way_to_refresh_an_expired_token/</guid>
-      <pubDate>Thu, 29 Feb 2024 03:08:43 GMT</pubDate>
+      <title>一个项目什么时候被认为是“全栈”？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2z5kt/at_what_point_is_a_project_considered_fullstack/</link>
+      <description><![CDATA[我现在正在制作我的作品集网站。大多数情况下，它都是用 React 构建的前端。但是，我要添加一个联系表单，为此，我需要创建一个快速服务器来处理 HTTP 请求。  这个项目此时是否会被认为是全栈，仅仅因为它有一个简单的 Express 后端？对我来说，这不对，因为我没有创建任何类型的数据库或身份验证或其他任何内容。  你们觉得怎么样？   由   提交 /u/MeltaFlare   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2z5kt/at_what_point_is_a_project_considered_fullstack/</guid>
+      <pubDate>Thu, 29 Feb 2024 12:27:54 GMT</pubDate>
     </item>
     <item>
-      <title>真的不知道从哪里/如何开始一个具有许多不同功能和需求的新网站。有什么建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2prnt/really_lost_about_wherehow_to_start_with_a_new/</link>
-      <description><![CDATA[我读过很多东西，并且发现了一些零碎的东西，如果我朝某个方向或另一个方向前进，它们会有所帮助，但我正在考虑建立一个拥有店面的网站，以便人们可以订购实物商品，但我也希望有一个手册等档案 - 我编译的一些 PDF 每个大约 100 MB -所以带宽最终将成为一个大问题。我希望能够偶尔进行拍卖，但没有这个选择我也可以生活。我还需要找到真正白痴友好的页面设计器软件，或者可以帮助进行初始设计和偶尔更新或故障排除而无需花费大量资金的服务。我还想在网站上建立一个页面，充当照片索引，并提供指向档案中手册的链接。最后，我必须做一些广告才能赚到大部分钱——尽管我只想要一两个简单的横幅。不是一堆分散注意力的垃圾或弹出窗口或任何东西。除此之外，接受捐赠的选择将是一个巨大的优势，因为我需要不断采购更多的手册等。  基本上，一个网站具有：店面页面、索引和存档页面以及大量带宽（甚至可能每月几TB）、捐赠选项、广告以及构建或偶尔维护网站的实际帮助。网站（我希望能够做一些琐碎的事情，例如添加新存档项目的缩略图/链接、添加新的商店项目等）。 我拥有站点，并且能够根据需要将其转移到不同的主机。 我开始认为这里不会有一个一刀切的解决方案，我可能必须获得多个涉及的服务。不管怎样 - 有人能帮我朝正确的方向踢一脚吗？ 提前非常感谢！    ;由   提交 /u/MyBallsSmellFruity   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2prnt/really_lost_about_wherehow_to_start_with_a_new/</guid>
-      <pubDate>Thu, 29 Feb 2024 03:01:40 GMT</pubDate>
+      <title>我对如何解决 cookie 横幅疯狂问题的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2yq9k/my_suggestion_on_how_to_solve_the_cookie_banner/</link>
+      <description><![CDATA[   /u/WolfOliver  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2yq9k/my_suggestion_on_how_to_solve_the_cookie_banner/</guid>
+      <pubDate>Thu, 29 Feb 2024 12:03:26 GMT</pubDate>
     </item>
     <item>
-      <title>使用 TypeScript 进行错误处理和防御性编程？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2pevu/error_handling_and_defensive_programming_with/</link>
-      <description><![CDATA[    /u/moonbunR   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2pevu/error_handling_and_defensive_programming_with/</guid>
-      <pubDate>Thu, 29 Feb 2024 02:44:38 GMT</pubDate>
+      <title>有没有真正的替代方案可以替代这个无尽的 Web 框架的噩梦？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2yf8i/is_there_a_real_alternative_to_this_nightmare_of/</link>
+      <description><![CDATA[这变得荒谬且令人难以置信的混乱，我知道很多人对如何构建框架有很多不同的意见，但我认为我们正在得到到了我们有太多东西的地步。 Pheraps 就是简单地选择一个并坚持使用它，但每个开发人员都有自己的堆栈，每个公司都有自己的堆栈。  我想明白为什么会这样，我们必须让 300 种不同的东西相互兼容，而不是用一两个工具来完成大多数事情。 毕竟 Web 应用程序是软件的一部分，但一方面我们拥有持续数十年的 C 语言，它可以做任何事情。另一方面，Javascript、Typescript、React、Vue、Next 和 1000 种不同的工具似乎都在做类似的事情...... 也许这是由于对机器的更高抽象？或者前端需要不断改变以保持竞争力？界面随着人们的变化和市场需要新的东西而变化。 或者说这是因为，作为一种更高级别的动态类型和垃圾收集语言，JavaScript 更容易，每个人都能够一个框架。 我不知道，但从外部来看，这似乎过于臃肿且不可持续，也许我只是需要一个不同的视角。此时，您是否应该真正专注于 2/3 最常用的框架和工具，并希望您加入的公司将使用与您相同的框架和工具，或者成为自由职业者。或者进入一种心态，为了保持竞争力，你总是必须学习新的工具，最终完成类似的事情。 我对 Rust 感兴趣，因为它的生态系统看起来比 Javascript 更干净、更专注。 ，但是 Rust 中的 webdev 看起来仍然相当初级，还没有真正准备好。这就是说它有真正的替代方案吗？整个生态系统有什么新的发展方向吗？还是普遍认为这将保持原样？   由   提交 /u/Dont_Blinkk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2yf8i/is_there_a_real_alternative_to_this_nightmare_of/</guid>
+      <pubDate>Thu, 29 Feb 2024 11:45:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
