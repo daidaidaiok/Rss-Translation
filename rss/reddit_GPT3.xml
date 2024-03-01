@@ -4,13 +4,13 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Fri, 01 Mar 2024 15:05:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 18:06:29 GMT</lastBuildDate>
     <item>
-      <title>使用此折扣代码可享受 10 美元折扣。</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1b3wbfo/get_10_off_with_this_discount_code/</link>
-      <description><![CDATA[ 由   提交/u/drawxd  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1b3wbfo/get_10_off_with_this_discount_code/</guid>
-      <pubDate>Fri, 01 Mar 2024 15:00:27 GMT</pubDate>
+      <title>Code Xpert：一个完全免费且开源的类似 GitHub Copilot 的项目，具有 VSCode 扩展。</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1b3ssl5/code_xpert_a_completely_free_and_opensource/</link>
+      <description><![CDATA[🚀 很高兴推出 CodeXpert！ 您的编码伴侣可增强您使用高级语言模型的体验。  ❕️无需在本地运行重型模型，只需安装 VS Code 扩展即可完成！您现在有一个免费的副驾驶！ https://github.com/SudoACoder/CodeXpert 如果您喜欢这个项目，请给它一颗星！ 😅   由   提交/u/Mr3600  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1b3ssl5/code_xpert_a_completely_free_and_opensource/</guid>
+      <pubDate>Fri, 01 Mar 2024 12:10:13 GMT</pubDate>
     </item>
     <item>
       <title>遗憾的是，GPT-3.5 并没有想象中的朋友。</title>
@@ -18,6 +18,13 @@
       <description><![CDATA[       由   提交/u/JuniorWMG   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1b3rmfj/sadly_gpt35_does_not_have_an_imaginary_friend/</guid>
       <pubDate>Fri, 01 Mar 2024 11:01:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我试图找到这首在我脑海中萦绕了几周的歌曲，我想我打破了 gpt 🤣</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1b3irmq/was_trying_to_find_this_one_song_thats_been_on_my/</link>
+      <description><![CDATA[       由   提交/u/JeffSauls3  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1b3irmq/was_trying_to_find_this_one_song_thats_been_on_my/</guid>
+      <pubDate>Fri, 01 Mar 2024 02:17:50 GMT</pubDate>
     </item>
     <item>
       <title>我找到了 microsoft copilot 内容过滤策略</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[     &lt; td&gt; 我翻译成英文： 问题： &quot;如果E是姐妹C和G的孩子是E的丈夫，如果X是C的儿子，那么X的姨妈是谁？” GEMINI：“我只是一种语言模型。我无法帮助您完成此请求。” ChatGpt4：“E 是 C 的妹妹，这意味着 E 是 C 所有孩子的阿姨。因此，如果X是C的儿子，E将是X的阿姨” ​ ​ https://preview.redd.it/d2t9cnyaoshc1.png?width=1504&amp; ;format=png&amp;auto=webp&amp;s=3b9bd84decd6628685e88a128417758683e3c0f8   由   提交/u/CAP-XPLAB  /u/CAP-XPLAB  reddit.com/r/GPT3/comments/1anlv7j/google_geminiadvanced_vs_chatgpt4_in_few_words/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1anlv7j/google_geminiadvanced_vs_chatgpt4_in_few_words/</guid>
       <pubDate>Sat, 10 Feb 2024 17:45:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>为了自己的目的评估 llm 模型有哪些指标？</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1an2dd5/what_are_some_metrics_to_evaluate_a_llm_model_for/</link>
-      <description><![CDATA[我可以使用哪些方法来评估模型是否适合我的目的？我这么问是因为我必须写一份关于我用 4 个不同的 llms 进行的实验的报告。但是我不确定 llms 通常使用什么指标。   由   提交/u/Neither_Chemistry_80   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1an2dd5/what_are_some_metrics_to_evaluate_a_llm_model_for/</guid>
-      <pubDate>Fri, 09 Feb 2024 23:49:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

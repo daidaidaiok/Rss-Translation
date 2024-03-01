@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 01 Mar 2024 15:05:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 18:06:09 GMT</lastBuildDate>
+    <item>
+      <title>最佳模型的集成 Web UI (+API)</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b3xbcc/integral_web_uis_for_the_best_models_api/</link>
+      <description><![CDATA[在Infermatic.ai上您可以找到多种具有独特功能的模型，这是当前托管的模型 您将找到的所有模型均未经审查，可以通过请求&lt; /p&gt; - MiquMaid-v2-70B，角色扮演/故事写作 - Noromaid-13b-v0.2 角色扮演/故事写作 - bagel-dpo-8x7b-v0.2 一般/问题/笑话 - Noromaid-v0.1-mixtral-8x7b-Instruct-v3 角色扮演/故事写作 - Mixtral-8x7B-Instruct-v0.1 学术/研究 - dolphin-2.8-mixtral-8x7b 学术/研究 即将推出--&gt; Buttercup-4x7B-V2-laser ERP 模型排名第 3（Rolepley/storywriting）  对于喜欢在自己的本地聊天机器人上使用 API 的人，您可以使用此 API 作为 OpenAI 兼容。  另一个选择是 OperRouter，它有一堆模型（太多了，我无法列出）和 API。如果您想测试不同的法学硕士，这是一个非常好的选择 在评论中添加更多内容，我真的很想知道这两个的替代方案 &lt;!-- SC_ON - -&gt;  由   提交 /u/Horror_Echo6243   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b3xbcc/integral_web_uis_for_the_best_models_api/</guid>
+      <pubDate>Fri, 01 Mar 2024 15:42:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>即使是坏的点击，一天也有两次是正确的。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b3x92k/even_a_broken_click_is_right_twice_a_day/</link>
+      <description><![CDATA[https://www.nytimes.com/2024/03/01/business/elon-musk-openai-sam-altman-lawsuit.html 埃隆OpenAI 明显违反了他们的章程，这是正确的。当然，他是自私的，但这套衣服有其优点。    由   提交 /u/Dr_Starcat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b3x92k/even_a_broken_click_is_right_twice_a_day/</guid>
+      <pubDate>Fri, 01 Mar 2024 15:39:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>更改视频中的语音</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b3x12n/change_speech_in_a_video/</link>
+      <description><![CDATA[为了演示，我想更改一个人在视频中所说的内容。是否有任何免费工具网站或 python 库可用，也可以适应嘴唇运动？   由   提交/u/Electronic-Letter592   reddit.com/r/ArtificialInteligence/comments/1b3x12n/change_speech_in_a_video/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b3x12n/change_speech_in_a_video/</guid>
+      <pubDate>Fri, 01 Mar 2024 15:30:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周人工智能——所有主要人工智能发展简而言之</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b3wy6p/this_week_in_ai_all_the_major_ai_developments_in/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b3wy6p/this_week_in_ai_all_the_major_ai_developments_in/</guid>
+      <pubDate>Fri, 01 Mar 2024 15:27:00 GMT</pubDate>
+    </item>
     <item>
       <title>Web UI AI 工具的托管应用程序？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b3vfpm/host_app_for_web_ui_ai_tools/</link>
@@ -20,32 +48,11 @@
       <pubDate>Fri, 01 Mar 2024 10:34:45 GMT</pubDate>
     </item>
     <item>
-      <title>每日人工智能新闻摘要 (01/03/2024)</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b3r691/daily_ai_news_summary_01032024/</link>
-      <description><![CDATA[ 美国证券交易委员会正在调查 Sam Altman 的内部通信&lt; /li&gt; 人形机器人启动人偶 AI 估值为 26 亿美元 &lt; li&gt;阿里巴巴的 EMO 模型从照片生成栩栩如生的视频 微软推出1 位法学硕士 前 Twitter 工程师正在构建 Particle，一个 人工智能驱动新闻阅读器 变形 利用 Stability AI 让电影制作变得更轻松 Meta 宣布 Llama 3 的发布日期 Microsoft添加了新的 Windows 11 的 Copilot AI 功能  更多易于理解的人工智能新闻请参见每日时事通讯。   由   提交 /u/Used-Bat3441    reddit.com/r/ArtificialInteligence/comments/1b3r691/daily_ai_news_summary_01032024/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b3r691/daily_ai_news_summary_01032024/</guid>
-      <pubDate>Fri, 01 Mar 2024 10:32:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>在笔记本电脑上训练和运行模型？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b3qynf/training_and_running_models_on_your_laptop/</link>
-      <description><![CDATA[所以我查看了一些论坛和深度人工智能学习课程，显然他们不建议使用你自己的笔记本电脑来训练和运行人工智能模型之类的东西，这对笔记本电脑有害吗？会有什么后果？还有其他人这样做过吗？ 我有一个 x1 Lenovo 16gb 内存，4 核，i7-8650，1.9GHz 供参考  &amp;# 32；由   提交/u/johnjohn10240525   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b3qynf/training_and_running_models_on_your_laptop/</guid>
-      <pubDate>Fri, 01 Mar 2024 10:18:13 GMT</pubDate>
-    </item>
-    <item>
       <title>这家价值 5.5 亿英镑的初创公司两年前解雇了 700 名员工，称人工智能完成了所有工作</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b3qpvh/this_55b_startup_laid_off_700_employees_2_years/</link>
       <description><![CDATA[Klarna 声称其人工智能聊天机器人现在可以处理以前由 700 名全职客户服务代理管理的工作量。 阅读完整的故事：https://www.ibtimes.co.uk/this-55b-start-laid-off-700-employees-2-years-ago-says-ai-does-all-their-work- 1723766   由   提交/u/vinaylovestotravel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b3qpvh/this_55b_startup_laid_off_700_employees_2_years/</guid>
       <pubDate>Fri, 01 Mar 2024 10:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>从零到云九：如何通过 Llama 2 使用 AWS Bedrock</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b3q9kr/ground_zero_to_cloud_nine_how_to_use_aws_bedrock/</link>
-      <description><![CDATA[AWS Bedrock 使开发人员可以轻松构建生成式 AI 应用程序。随着强大的基础模型 (FM) 的出现，开发人员可以利用文本生成、代码完成和问答等功能。这是一项完全托管的服务，可通过统一的 AWS Bedrock API 提供来自领先 AI 初创公司（AWS Bedrock 合作伙伴）和 Amazon 的高性能 FM 供您使用。  阅读：https://www.seaflux.tech/blogs/aws -bedrock-with-llama-2   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b3q9kr/ground_zero_to_cloud_nine_how_to_use_aws_bedrock/</guid>
-      <pubDate>Fri, 01 Mar 2024 09:30:45 GMT</pubDate>
     </item>
     <item>
       <title>2024 年最好的人工智能作家是什么？</title>
@@ -74,13 +81,6 @@
       <description><![CDATA[对人工智能了解肤浅的男性。  AFAIK LLM 使用人类创建的数据作为处理和分析的基础。因而继承了偏见和局限性，如何在道德、伦理和物理的护栏内应对？例如，如果历史上的数据显示酷儿/犹太人并不总是被接受，那么它如何知道成为酷儿/犹太人是可以的？ 注意：引用酷儿/犹太人是为了表明观点，而不是为任何其他人服务目的    由   提交/u/The_NeutralGuy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b3d2ho/how_does_ai_overcome_the_inherent_human_bias_from/</guid>
       <pubDate>Thu, 29 Feb 2024 22:12:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>最有前景的职业？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b35ht1/most_futureproof_career/</link>
-      <description><![CDATA[大家好，这将是一篇很长的文章，所以请注意。我目前处于两难的境地，因为我想学习大学职业，但我担心某些事情。  首先我有3个选择； 1.- 设计（我在第四学期离开了多媒体设计），这次专注于 UX/UI。 2.- 软件工程师/人工智能工程师（取决于哪个大学、程序等） 3.- 数据科学家/分析师，据我所知，它经常与机器学习相关（我大麦对这个选项一无所知，所以可能被丢弃） 现在，我担心每个学位都有不同的事情，Ux/UI 未来如何抵御 AI？就像我在过去 4 年里担任设计师一样，随着生成式人工智能的兴起，它对我的​​工作帮助很大，但随着它的进展，我可以看到它完全取代了设计师，除了 UX/UI 设计师，因为它需要我认为更复杂的过程仍然需要人为因素。另外，UX/UI 是迄今为止薪酬最高的设计分支，与工业设计一样。  对于人工智能工程师，我担心将其作为一个完整的职业来学习是否方便，因为它的进步速度快得令人难以置信，以及学习软件工程师然后专注于是否会更方便艾 最近几天我想到了数据科学家，似乎很有趣，薪水不错等，但我大麦对此一无所知，所以如果这里有人在该领域工作，我很想听听需要！  作为结束语，我知道人工智能本质上可以取代大多数工作，从长远来看甚至是软件开发人员，而且没有人可以预测未来，但我很想拥有最面向未来的工作到底。是的，我对软件/技术和设计同样感兴趣。  感谢您的阅读！    由   提交 /u/exiovamusic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b35ht1/most_futureproof_career/</guid>
-      <pubDate>Thu, 29 Feb 2024 17:10:41 GMT</pubDate>
     </item>
     <item>
       <title>在过去的半个小时里，我一直在为一段人工智能生成的音乐而哭泣</title>
