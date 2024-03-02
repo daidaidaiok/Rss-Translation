@@ -4,7 +4,16 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 01 Mar 2024 21:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 00:17:20 GMT</lastBuildDate>
+    <item>
+      <title>为我的目标受众撰写博客文章并不符合 SEO 规模</title>
+      <link>https://feed.indiehackers.world/post/8bc01a0e1d</link>
+      <description><![CDATA[我什至很难让 Google 为所有页面建立索引。我完全不明白为什么，因为所有帖子都遵循相同的格式，但这完全是一个不同的主题。
+我想我发布这篇文章是为了看看是否有人已经摆脱了这个困境。如果答案是“变得好起来”，我可以诚实地接受。但如果还有其他我没有考虑过的事情，我会很高兴！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/8bc01a0e1d</guid>
+      <pubDate>Fri, 01 Mar 2024 22:30:44 GMT</pubDate>
+    </item>
     <item>
       <title>如何让 Facebook 广告产生更高的投资回报率？</title>
       <link>https://feed.indiehackers.world/post/43a36e235c</link>
@@ -147,22 +156,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9db7692ac2</guid>
       <pubDate>Fri, 01 Mar 2024 12:44:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>启动产品化服务机构所需的一切</title>
-      <link>https://feed.indiehackers.world/post/2eff998cdb</link>
-      <description><![CDATA[
-获取有关新请求、付款和消息的 Slack 通知
-获取电子邮件通知
-
-&lt;小时/&gt;
-就是这样！ 
-如果您有任何问题，请发表评论，我很乐意扩展任何主题！
-PS 我正在构建动量，我们可以自动化这个确切的剧本。使用 Momentum 在几分钟内启动您的产品化服务机构。
-谢谢！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/2eff998cdb</guid>
-      <pubDate>Fri, 01 Mar 2024 12:34:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
