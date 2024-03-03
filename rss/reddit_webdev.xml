@@ -4,20 +4,27 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 03 Mar 2024 00:19:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 03:06:33 GMT</lastBuildDate>
+    <item>
+      <title>Bouncy Ball - 比较网页动画技术</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b56pnx/bouncy_ball_compare_web_animation_techniques/</link>
+      <description><![CDATA[      由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b56pnx/bouncy_ball_compare_web_animation_techniques/</guid>
+      <pubDate>Sun, 03 Mar 2024 03:05:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何免费部署 Node.js Web 应用程序。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b55cuj/how_to_deploy_nodejs_web_application_for_free/</link>
+      <description><![CDATA[大家好，我是一名初学者，正在寻找有关如何部署 Node.js 应用程序的资源。我也想使用 docker，但目前我正在学习如何使用 docker。 谢谢。   由   提交/u/martian1939   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b55cuj/how_to_deploy_nodejs_web_application_for_free/</guid>
+      <pubDate>Sun, 03 Mar 2024 01:57:55 GMT</pubDate>
+    </item>
     <item>
       <title>为了到达现在的位置，你一生付出了多少努力？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b536ha/how_much_have_you_worked_in_your_life_to_get_to/</link>
       <description><![CDATA[我需要知道你在生活中付出了多少努力才达到现在的成就，因为我做得还不够！我无法做到最好... ​   由   提交 /u/CodeSilva   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b536ha/how_much_have_you_worked_in_your_life_to_get_to/</guid>
       <pubDate>Sun, 03 Mar 2024 00:14:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>用我创建的平台制作了我的新投资组合网站！感谢您的反馈！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b535sx/made_my_new_portfolio_website_with_a_platform_i/</link>
-      <description><![CDATA[       由   提交/u/bustingbuster1  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b535sx/made_my_new_portfolio_website_with_a_platform_i/</guid>
-      <pubDate>Sun, 03 Mar 2024 00:14:03 GMT</pubDate>
     </item>
     <item>
       <title>简历审核？</title>
@@ -29,7 +36,7 @@
     <item>
       <title>网站无法上线</title>
       <link>https://www.reddit.com/r/webdev/comments/1b522t6/website_wont_go_live/</link>
-      <description><![CDATA[嗨，我正在开发一个班级项目，我正在尝试使用免费的 Hostia 来托管我的网站。在我购买了域名和其他东西后，我尝试查找它，但没有任何结果。我该怎么办？  我上网看到了有关 DNS 的信息，但我相信我遵循了所有说明。我很困惑。    由   提交/u/therealmarcywu1   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我正在开发一个班级项目，我正在尝试使用免费的 Hostia 来托管我的网站。在我购买了域名和其他东西后，我尝试查找它，但没有任何结果。我该怎么办？  我上网看到了有关 DNS 的信息，但我相信我遵循了所有说明。我很困惑。    由   提交 /u/therealmarcywu1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b522t6/website_wont_go_live/</guid>
       <pubDate>Sat, 02 Mar 2024 23:27:03 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>添加架构数据会导致水合错误（Nextjs 14.0.4）</title>
       <link>https://www.reddit.com/r/webdev/comments/1b517oq/adding_schema_data_causes_hydration_error_nextjs/</link>
-      <description><![CDATA[我按照官方文档添加架构数据，并将以下内容添加到我的 layout.tsx 文件中： &lt;代码&gt; &lt;脚本类型=“application/ld+json” angerlySetInnerHTML={{ __html: JSON.stringify(schema) }} //&gt; &lt;正文&gt; ... &lt;/body&gt; &lt;/html&gt;  这工作正常，除了现在出现水合错误： 警告：预期服务器 HTML 包含匹配的 ]]></description>
+      <description><![CDATA[我按照官方文档添加架构数据，并将以下内容添加到我的 layout.tsx 文件中： &lt;代码&gt; &lt;脚本类型=“application/ld+json” angerlySetInnerHTML={{ __html: JSON.stringify(schema) }} /&gt; /&gt; &lt;正文&gt; ... &lt;/body&gt; &lt;/html&gt;  这工作正常，除了现在出现水合错误： 警告：预期服务器 HTML 包含匹配的 ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b517oq/adding_schema_data_causes_hydration_error_nextjs/</guid>
       <pubDate>Sat, 02 Mar 2024 22:50:47 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/Cold_Complex945  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b4ycpm/after_many_users_telling_me_they_get_stuck/</guid>
       <pubDate>Sat, 02 Mar 2024 20:49:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果推翻了在欧盟删除主屏幕网络应用程序的决定 - The Register</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b4y8ez/apple_reverses_decision_to_remove_home_screen_web/</link>
-      <description><![CDATA[       由   提交 /u/overbyte   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b4y8ez/apple_reverses_decision_to_remove_home_screen_web/</guid>
-      <pubDate>Sat, 02 Mar 2024 20:44:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
