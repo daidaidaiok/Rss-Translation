@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 03 Mar 2024 09:06:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 12:07:50 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找一个程序，允许跟踪在家工作的工作笔记本电脑的分配，最好与 Hexnode 配合使用。</title>
+      <link>https://www.reddit.com/r/software/comments/1b5dz2v/looking_for_a_program_that_will_allow_tracking/</link>
+      <description><![CDATA[在工作中，我们使用 Hexnode 来管理我们使用的所有设备，包括 Windows 和 Mac 笔记本电脑。有时，员工需要将 Windows 笔记本电脑带回家在家工作几天。我们将其记录在纸上（是的，我知道......） Hexnode 非常适合跟踪使用情况和部署内容，但它没有能力管理员工注销（如在当他们把它们带回家时，将它们签入库存，而不是像注销一样），并在归还它们时将它们重新签入库存。 有人知道可以做到这一点的免费或廉价系统吗？如果它可以与 Hexnode 通信那就太理想了，因为我们有 130 多个设备，将它们全部输入到一个新系统中将是一个巨大的痛苦。    ;由   提交 /u/Cilvaa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1b5dz2v/looking_for_a_program_that_will_allow_tracking/</guid>
+      <pubDate>Sun, 03 Mar 2024 10:18:46 GMT</pubDate>
+    </item>
     <item>
       <title>sharex安全吗？</title>
       <link>https://www.reddit.com/r/software/comments/1b565at/is_sharex_safe/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>是否存在任何其他软件问题或场合，例如 Year 2038、y2k 或 42.zip？</title>
       <link>https://www.reddit.com/r/software/comments/1b4u6hg/are_there_any_other_software_issues_or_occasions/</link>
-      <description><![CDATA[我对 y2k 和 42.zip 等问题感兴趣。您还知道其他类似的问题吗？解决或未解决并不重要。我想了解一下他们的情况。您能给我推荐软件世界中未解决的主题吗？或者已解决但被遗忘。   由   提交 /u/heyd00d3   [链接] [评论]]]></description>
+      <description><![CDATA[我对 y2k 和 42.zip 等问题感兴趣。您还知道类似的其他问题吗？解决或未解决并不重要。我想了解一下他们的情况。您能给我推荐软件世界中未解决的主题吗？或者已解决但被遗忘。   由   提交 /u/heyd00d3   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b4u6hg/are_there_any_other_software_issues_or_occasions/</guid>
       <pubDate>Sat, 02 Mar 2024 17:53:11 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[有人有适用于 MacOS 或 Web 浏览器的免费 AI Upscaler 吗？  &amp;# 32；由   提交 /u/SuperMarioBrotherYT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b4bdq1/free_ai_upscaler_for_macweb/</guid>
       <pubDate>Sat, 02 Mar 2024 01:06:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于双显示器设置之间边缘的软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1b49u71/software_for_the_edges_in_between_my_dual_monitor/</link>
-      <description><![CDATA[我已经使用双显示器设置有一段时间了，但我有一个非常具体的问题，这确实让我很烦恼。特别是，我的显示器有两种不同的分辨率，因此当我在 Windows 的多显示设置中重新排列它时，总会留下一个小间隙，当我的鼠标在显示器上移动时，它无法通过。 这个小间隙死亡空间的间隙确实一直困扰着我，任何帮助将不胜感激。对于上下文，显示器 1 的物理尺寸小于显示器 2。 ​ https://preview.redd.it/gglj7nq0atlc1.png?width=558&amp;format=png&amp;auto=webp&amp;s=80150b6dd3693849359 9fb19da6965f27be9d986&lt; /p&gt;   由   提交/u/jpbd23  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1b49u71/software_for_the_edges_in_between_my_dual_monitor/</guid>
-      <pubDate>Fri, 01 Mar 2024 23:59:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
