@@ -4,11 +4,11 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 04 Mar 2024 00:17:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 03:26:27 GMT</lastBuildDate>
     <item>
       <title>在 Premiere Pro 中编辑 6K B-RAW 素材的最佳工作流程</title>
       <link>https://www.reddit.com/r/editors/comments/1b5wezx/best_workflow_for_editing_6k_braw_footage_in/</link>
-      <description><![CDATA[我在这里有点困惑，需要一些指导。因此，我正在 Premiere Pro 中处理一些大量的 6K B-RAW 素材，并且正在尝试找出最佳工作流程来优化我的编辑过程。 我应该： 1. 导入直接将素材导入 Premiere 并从那里创建代理？ 2. 首先将素材导入 Adob​​e Media Encoder 以创建具有更多控制权的代理？ 3. 将单独的文件从 B-RAW 编码为 4K ProRes 和 480p，然后使用 480p 代理进行编辑，同时在 Premiere 中将 4K ProRes 文件链接为全分辨率媒体？（我知道所有方法都使用 AME，但我在选项 2/3 中拥有更多控制权，例如将代理设置为低如 6K 的 480p 分辨率）。我倾向于选项 3，但我不完全确定。有经验丰富的剪辑师可以介绍一下在 Premiere Pro 中处理高分辨率素材的最有效工作流程吗？ 我担心的是，当我创建代理并在分辨率之间切换时，它会弄乱我的效果、变换、和调整层。另一方面，如果我制作从 B-RAW 编码为 4K ProRes 以及 480p 的单独文件，并使用链接为全分辨率媒体的 4K ProRes 从 480p 进行编辑，这会是一个更流畅的工作流程吗？ 480p 也应该编码为 ProRes 还是 H.264？因为我听说 NLE 针对 ProRes Media 进行了更好的优化。   由   提交 /u/CineTechWiz   [链接] [评论]]]></description>
+      <description><![CDATA[我在这里有点困惑，需要一些指导。因此，我正在 Premiere Pro 中处理一些大量的 6K B-RAW 素材，并且正在尝试找出最佳工作流程来优化我的编辑过程。  我应该：  将素材直接导入 Premiere 并从那里创建代理吗？ 将素材导入 Adob​​e Media Encoder首先创建具有更多控制权的代理？ 将单独的文件从 B-RAW 编码为 4K ProRes 和 480p，然后使用 480p 代理进行编辑，同时将 4K ProRes 文件链接为全分辨率媒体Premiere？  （我知道所有方法都使用 AME，但我在选项 2/3 中拥有更多控制权，例如为 6K 制作低至 480p 分辨率的代理）。  我倾向于选项 3，但我并不完全确定。有没有经验丰富的剪辑师可以介绍一下在 Premiere Pro 中处理高分辨率素材的最有效工作流程？  我担心的是，当我创建代理并在分辨率之间切换时，它会弄乱我的效果、变换和调整图层。 另一方面，如果我对单独的文件进行编码从 B-RAW 到 4K ProRes 以及 480p，并从 480p 进行编辑，并将 4K ProRes 作为全分辨率媒体链接，这会是一个更流畅的工作流程吗？  在这方面，我是否应该将 480p 编码为 ProRes 还是 H.264？因为我听说 NLE 针对 ProRes Media 进行了更好的优化。   由   提交 /u/CineTechWiz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b5wezx/best_workflow_for_editing_6k_braw_footage_in/</guid>
       <pubDate>Mon, 04 Mar 2024 00:03:25 GMT</pubDate>
     </item>
