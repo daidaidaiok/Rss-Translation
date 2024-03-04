@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 03 Mar 2024 11:56:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 00:17:15 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Hancho 是一个简单而令人愉快的构建系统，由大约 500 行 Python 编写。</title>
-      <link>https://t.me/hn_summary/77320</link>
-      <description><![CDATA[展示 HN：Hancho – 一个简单而令人愉快的构建系统，大约 500 Python 行
-Hancho 是一个简单而令人愉快的构建系统，由大约 500 行 Python 代码编写。它不需要安装，可以轻松集成到您的源代码树中。受到 Ninja 和 Bazel 的启发，Hancho 注重速度和简单性，同时考虑到语法和可扩展性。与 Ninja 不同，Hancho 不需要为每个输出文件调用单独的构建规则。它允许您创建调用任意 Python 代码的构建规则。 Hancho 适用于中小型项目，旨在快速组装和运行命令。它提供了教程和附加文档供参考。]]></description>
-      <guid>https://t.me/hn_summary/77320</guid>
-      <pubDate>Sun, 03 Mar 2024 11:56:16 GMT</pubDate>
+      <title>[媒体] 厌倦了被互联网分散注意力？</title>
+      <link>https://t.me/hn_summary/77416</link>
+      <description><![CDATA[用大约 12 行 bash 重新集中注意力&lt; br/&gt;
+厌倦了被互联网分散注意力吗？了解如何仅用大约 12 行 bash 重新集中注意力。通过实施“检查”功能，您可以阻止分散注意力的网站并重新掌控您的时间。只需备份您的主机文件，创建一个包含干扰站点的新文件，并将检查功能添加到您的 bashrc 中。设置检查会话的持续时间，并观察分散注意力的网站是否被阻止。这种简单而有效的方法包括一个宽限期和一个提醒，以在挂起系统之前完成工作。自定义您阻止的网站以满足您的需求，但请记住，没有保修 - 如果它损坏，您可以保留两个部分。]]></description>
+      <guid>https://t.me/hn_summary/77416</guid>
+      <pubDate>Mon, 04 Mar 2024 00:17:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 厌倦了浪费时间看长视频？</title>
-      <link>https://t.me/hn_summary/77319</link>
-      <description><![CDATA[显示 HN：利用 Summarize.ing 的丰富内容节省长视频时间摘要
-厌倦了浪费时间观看长视频？ Summarize.ing 就是您的最佳选择！我们最新的摘要提供了丰富的内容摘要，可以节省您的时间并为您提供任何视频的要点。使用我们的创新工具告别无休止的滚动并快速前进。今天就尝试一下，看看如何节省宝贵的时间。 Summarize.ing 正在彻底改变我们消费视频内容的方式。查看我们刚刚发布的最新摘要，立即开始节省时间！]]></description>
-      <guid>https://t.me/hn_summary/77319</guid>
-      <pubDate>Sun, 03 Mar 2024 11:44:10 GMT</pubDate>
+      <title>[媒体]大家好！</title>
+      <link>https://t.me/hn_summary/77415</link>
+      <description><![CDATA[我们的 GDC 产品阵容简介
+嘿大家！我们正在为 GDC 做准备，迫不及待地想在那里见到您！参观我们的展位，玩一些精彩的游戏，与赞助商聊天，并与 Godot 背后的团队见面。另外，欢迎在 GitHub 总部参加我们的非正式聚会。查看使用 Godot 制作的游戏阵容，包括惊心动魄的“Halls of Torment”和独特的“Windowkill”。不要错过玩这些游戏并与开发者见面的机会。 GDC 见！]]></description>
+      <guid>https://t.me/hn_summary/77415</guid>
+      <pubDate>Mon, 04 Mar 2024 00:14:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]AuthWin 是一款适用于 Windows 的桌面身份验证器应用程序，允许用户生成时间 - [...]</title>
-      <link>https://t.me/hn_summary/77318</link>
-      <description><![CDATA[显示 HN：AuthWin – 适用于 Windows 的身份验证器应用&lt; br/&gt;
-AuthWin 是一款适用于 Windows 的桌面身份验证器应用程序，允许用户为网站上的两因素身份验证生成基于时间的一次性密码。与大多数仅适用于手机的身份验证器应用程序不同，AuthWin 提供了在计算机上安装身份验证器的便利。它允许用户从 Google Authenticator 导入帐户、手动添加新帐户以及导出帐户进行备份。该应用程序通过仅将帐户数据存储在用户的计算机上来确保数据安全。用户可以通过导出和导入帐户轻松将 AuthWin 移动到另一台计算机。]]></description>
-      <guid>https://t.me/hn_summary/77318</guid>
-      <pubDate>Sun, 03 Mar 2024 11:39:05 GMT</pubDate>
+      <title>在死亡谷的中心地带，一个早已死寂的湖泊因创纪录的降雨而复活， [...]</title>
+      <link>https://t.me/hn_summary/77414</link>
+      <description><![CDATA[加利福尼亚州的降雨使干燥的死亡谷中死寂已久的湖泊复活
+在死亡谷的中心地带，一个长期死寂的湖泊因创纪录的降雨而复活，这让游客和科学家都感到惊讶。曼利湖曾经是一片数千年前消失的广阔水域，现在在沙漠盆地中重新焕发活力，倒映着高耸的山脉，吸引着所有参观者。这种罕见的现象是沙漠活力的有力宣言，展示了死亡谷的动态本质。当游客蜂拥而至目睹这一转瞬即逝的奇观时，曼利湖的回归挑战了人们对贫瘠景观的看法，并凸显了生态系统面对气候变化的恢复能力。]]></description>
+      <guid>https://t.me/hn_summary/77414</guid>
+      <pubDate>Mon, 04 Mar 2024 00:02:03 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能聊天机器人很难解决数学问题，因为它们通常根据 [...]</title>
-      <link>https://t.me/hn_summary/77317</link>
-      <description><![CDATA[人工智能聊天机器人显然可以因为最奇怪的原因在数学方面变得更好
-人工智能聊天机器人很难解决数学问题，因为它们通常根据统计数据生成响应，而不是找到正确的答案。然而，VMware 的一项研究发现，当聊天机器人被提示假装身处《星际迷航》中时，它们在数学问题上的表现会更好。这种积极的框架导致了更准确的反应，诸如“船长日志，Stardate 在此处插入日期：”之类的短语产生了最佳结果。研究人员对这种方法的有效性感到惊讶，强调了人工智能语言模型的神秘本质，以及即使专家也很难完全理解其工作原理。这项研究揭示了通过非常规方法改进人工智能的独特方式。]]></description>
-      <guid>https://t.me/hn_summary/77317</guid>
-      <pubDate>Sun, 03 Mar 2024 11:34:01 GMT</pubDate>
+      <title>Roku 向客户发出最后通牒：要么放弃陪审团审判权，要么失去 [...]</title>
+      <link>https://t.me/hn_summary/77413</link>
+      <description><![CDATA[Roku 的最后通牒：放弃陪审团审判权或失去对电视的访问权&lt; /a&gt;
+Roku 向客户发出最后通牒：要么放弃陪审团审判权，要么失去对电视的访问权。更新后的服务条款要求客户同意仲裁，如果他们不遵守，则会有效地禁用设备。这一有争议的举动引发了用户的愤怒，他们感到被迫放弃合法权利。拒绝仲裁的过程非常复杂且成本高昂，客户需要发送包含具体信息的信件。这种令人惊讶和沮丧的情况让许多 Roku 用户感到陷入困境和无能为力。]]></description>
+      <guid>https://t.me/hn_summary/77413</guid>
+      <pubDate>Sun, 03 Mar 2024 23:53:50 GMT</pubDate>
     </item>
     <item>
-      <title>2005 年，独立绩效顾问 Brendan Gregg 接受了来自 [...]</title>
-      <link>https://t.me/hn_summary/77316</link>
-      <description><![CDATA[令人难以置信的演示
-2005 年，独立性能顾问 Brendan Gregg 接受了 Sun Microsystems VIP 的演示，展示了基于 DTrace 的新产品。令 Brendan 惊讶的是，他意识到正在演示的工具实际上是他自己的开源工具，剥夺了他的姓名、版权和许可证。这位 VIP 似乎没有意识到这一点，导致了一场有争议的会议，布伦丹在会议上就未经授权使用他的作品与他对质。这一事件揭示了 Sun 公司的一个文化问题，即外部贡献被低估。尽管如此，Brendan 的工具此后受到了 Apple 和 Oracle 等公司的欢迎，这凸显了开源中正确归属的重要性。]]></description>
-      <guid>https://t.me/hn_summary/77316</guid>
-      <pubDate>Sun, 03 Mar 2024 11:18:53 GMT</pubDate>
+      <title>[媒体] 技术工会正在兴起，UNI 全球工会和专业工会等组织 [...]</title>
+      <link>https://t.me/hn_summary/77412</link>
+      <description><![CDATA[科技行业的工会
+科技工会正在兴起，UNI 全球工会和澳大利亚专业人士协会等组织代表了全球科技工作者。在德国，IG Metall 和 ver.di 竞相代表科技工人，而在中国，中华全国总工会在劳工领域占据主导地位。令人惊讶的是，自 2018 年以来，韩国的科技工人一直在组建工会，并在 Nexon 和 Smilegate 等公司取得了成功。在美国，科技工会相对较新，亚马逊员工带头争取认可。总体而言，科技行业正在全球范围内掀起一股工会浪潮，挑战着传统的劳工规范。 （根据故事文本的 21% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/77412</guid>
+      <pubDate>Sun, 03 Mar 2024 23:45:43 GMT</pubDate>
     </item>
     <item>
-      <title>archive.org 上标题为“Telegram for America (1956)”的网页内容是令人着迷的回顾 [...]</title>
-      <link>https://t.me/hn_summary/77315</link>
-      <description><![CDATA[美国电报 (1956)
-archive.org 上标题为“Telegram for America (1956)”的网页内容）”是对美国电报技术历史的精彩回顾。这部电影突出了塞缪尔·FB·塞缪尔 (Samuel F.B.莫尔斯的发明以及西联汇款如何在 20 世纪 30 年代到 60 年代将其推向新的高度。提到的一个令人惊讶的事实是 1956 年美国人口为 1.5 亿，而 60 年后这一数字已超过 3.2 亿。这部电影还涉及电报的各种用途，包括发送新闻甚至私人电报服务。此外，影片中还有一个颇具争议的时刻，似乎有人从燃烧的建筑物中跳下。总的来说，这是一段引人入胜的历史，揭示了过去的通信技术时代。]]></description>
-      <guid>https://t.me/hn_summary/77315</guid>
-      <pubDate>Sun, 03 Mar 2024 11:09:46 GMT</pubDate>
+      <title>[媒体]你所在的城市人口密度如何？</title>
+      <link>https://t.me/hn_summary/77411</link>
+      <description><![CDATA[您所在城市的人口密度如何？
+您有没有想过您的城市到底有多拥挤？城市密度来帮助您找到答案！我们的交互式地图可让您探索世界各地城市的人口密度，让您对城市生活有独特的视角。从繁华的大都市到安静的城镇，您可以看到您的城市与其他城市相比的密集程度。发现有关人口分布的令人惊讶的事实，并探索围绕城市扩张的争议。立即访问城市密度，看看您的城市表现如何！]]></description>
+      <guid>https://t.me/hn_summary/77411</guid>
+      <pubDate>Sun, 03 Mar 2024 23:23:33 GMT</pubDate>
     </item>
     <item>
-      <title>失明技术先驱戴维·霍拉迪 (David Holladay) 去世，享年 70 岁。</title>
-      <link>https://t.me/hn_summary/77314</link>
-      <description><![CDATA[失明技术先驱 David Holladay 去世，享年 70 岁
-David Holladay 是盲人技术领域的先驱，现已去世，享年 70 岁。他是 Raising DotComputing 的联合创始人，后来加入 Duxbury Systems，致力于扩大全球盲人用户的可访问性。尽管与健康问题作斗争，大卫仍继续热情地工作，直到他的最后一天。他在盲文软件方面的创新工作，包括推出 MegaDots，对盲文社区产生了持久的影响。他的葬礼将在网上直播，供那些希望吊唁的人观看。所有认识大卫的人都会深深怀念大卫对盲文的奉献。]]></description>
-      <guid>https://t.me/hn_summary/77314</guid>
-      <pubDate>Sun, 03 Mar 2024 11:06:41 GMT</pubDate>
+      <title>[媒体] 在“采样：奈奎斯特没有说什么，以及如何应对”中，Wescot 的 Tim Wescott [...]</title>
+      <link>https://t.me/hn_summary/77410</link>
+      <description><![CDATA[采样：奈奎斯特没有说的话，以及如何处理它 [pdf](https://news.ycombinator.com/item?id=39584201)
+Wescott Design Services 的 Tim Wescott 在《采样：奈奎斯特没有提到的内容以及如何应对》中深入研究了奈奎斯特-香农采样定理的复杂性及其实际应用。虽然该定理指出，如果以高于带宽两倍的速率采样，就可以完美捕获信号，但现实世界的信号并不是完全受带宽限制，从而导致混叠等问题。韦斯科特解释了采样对信号质量的影响以及将离散时间信号转换回连续时间的重建过程。本文挑战了误解，并提供了有关设计有效采样系统的见解。 （根据故事文本的 22% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/77410</guid>
+      <pubDate>Sun, 03 Mar 2024 23:21:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Monaspace 是一个创新的字体超家族，专为代码设计，提供 [...]</title>
-      <link>https://t.me/hn_summary/77313</link>
-      <description><![CDATA[Monaspace：代码字体的创新超家族&lt; br/&gt;
-Monaspace 是专为代码设计的创新字体超家族，提供五种相互兼容的可变轴字体。该项目旨在通过提供广泛的连字和字体选项来增强代码的可读性和美观性。 Monaspace 提供可变和静态字体构建，使其现代且方便地适用于不同平台。该项目还包括桌面和 Web 字体安装的说明，以及 Visual Studio Code 的编辑器特定设置。 Monaspace 是 GitHub Next 与 Lettermatic 合作开发的，重点是通过排版改善开发者体验。]]></description>
-      <guid>https://t.me/hn_summary/77313</guid>
-      <pubDate>Sun, 03 Mar 2024 10:56:34 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/77409</link>
+      <description><![CDATA[商务部提议对 IaaS 提供商实施“了解你的客户”
+美国商务部提出了一项规则，对基础设施即服务 (IaaS) 提供商提出“了解你的客户”要求，以防止外国行为者利用美国云计算服务进行恶意网络活动。该规则侧重于客户识别程序、报告要求和合规性评估。提供商必须验证潜在外国客户和受益所有人的身份，报告针对恶意活动的大型人工智能模型训练实例，并向商务部提交年度认证。该规则还允许针对某些外国人或司法管辖区采取特别措施。遵守该规则对于 IaaS 提供商避免处罚和维护安全至关重要。 （根据 85% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/77409</guid>
+      <pubDate>Sun, 03 Mar 2024 23:20:24 GMT</pubDate>
     </item>
     <item>
-      <title>摩托罗拉 6809：最好的 8 位处理器？</title>
-      <link>https://t.me/hn_summary/77312</link>
-      <description><![CDATA[摩托罗拉 6809：最好的 8 位芯片？&lt; br/&gt;
-我们 8 位设计系列的最后一篇文章探讨了 Motorola 6809，它可能是这个时代最先进的设计。在家用电脑市场输给6502后，摩托罗拉重建了团队，并吸引了通用汽车等大客户。 6809 的设计目标是与 6800 源代码兼容，添加了直接页寄存器、“U”堆栈指针和分支相对寻址等功能。 1979 年，6809 在 Byte 杂志上分三部分发布，是向前迈出的重要一步，为微处理器技术的未来进步铺平了道路。 （根据 63% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/77312</guid>
-      <pubDate>Sun, 03 Mar 2024 10:53:30 GMT</pubDate>
+      <title>询问 HN：有人考虑取消 ChatGPT 订阅吗？</title>
+      <link>https://t.me/hn_summary/77408</link>
+      <description><![CDATA[询问 HN：有人考虑取消 ChatGPT 订阅吗？
+news.ycombinator.com 上帖子的作者是对 ChatGPT 订阅的不稳定感到沮丧。尽管喜欢该功能并经常使用它，但由于尝试使用该服务时不断失败，他们正在考虑取消。作者质疑他们每月 20 美元的订阅是否不是该公司追求 AGI 的优先事项。这凸显了将研究置于用户体验之上的争议。]]></description>
+      <guid>https://t.me/hn_summary/77408</guid>
+      <pubDate>Sun, 03 Mar 2024 22:59:45 GMT</pubDate>
     </item>
     <item>
-      <title>中国电动汽车制造商正在凭借卓越的技术和 [...]</title>
-      <link>https://t.me/hn_summary/77311</link>
-      <description><![CDATA[“非常好”的中国电动汽车动力领先于劣势的美国竞争对手&lt; /a&gt;
-中国电动汽车制造商正在凭借卓越的技术和设计超越美国竞争对手。这些“简直就是好”的车辆提供了创新的功能和令人印象深刻的性能，让美国公司望尘莫及。通过限时优惠，您可以在标准数字访问优质 FT 新闻时节省高达 40% 的费用，为您提供这个开创性行业的最新动态。不要错过这个了解最新动态并保持领先地位的机会。]]></description>
-      <guid>https://t.me/hn_summary/77311</guid>
-      <pubDate>Sun, 03 Mar 2024 09:25:03 GMT</pubDate>
+      <title>[媒体] 在 www.emilydamstra.com 上的这篇文章中，作者表达了她对 ina 的不满 [...]</title>
+      <link>https://t.me/hn_summary/77407</link>
+      <description><![CDATA[拜托，受够了死蝴蝶
+在 www.emilydamstra.com 上的这篇文章中，作者表达了她对各种媒体对蝴蝶的不准确描述的不满。她解释了活蝴蝶的自然翅膀位置与野外指南和其他参考材料中常见的死蝴蝶的姿势之间的差异。作者以栩栩如生的姿势展示了她自己的蝴蝶插图，并敦促其他人在描绘时更加准确。她强调了流行文化中死蝴蝶形象的流行，并鼓励将蝴蝶描绘成活的，反映它们的美丽和象征意义。]]></description>
+      <guid>https://t.me/hn_summary/77407</guid>
+      <pubDate>Sun, 03 Mar 2024 22:54:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
