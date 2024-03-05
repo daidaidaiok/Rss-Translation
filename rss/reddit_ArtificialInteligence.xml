@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 05 Mar 2024 12:06:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 15:04:53 GMT</lastBuildDate>
+    <item>
+      <title>哪门课程</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b75bx6/which_course/</link>
+      <description><![CDATA[我有很多关于机器学习的课程 我有深度学习的机器学习 还有深度学习课程 还有 NLP/tensorflow/数据营课程 只是想知道最好的如果您有任何其他建议，也可以从机器学习开始课程。我是全栈 JavaScript 开发人员，还有一些数据分析练习   由   提交 /u/Superhero_os   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b75bx6/which_course/</guid>
+      <pubDate>Tue, 05 Mar 2024 13:35:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>克劳德3确实是个东西</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b73ylv/claude_3_is_really_something/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b73ylv/claude_3_is_really_something/</guid>
+      <pubDate>Tue, 05 Mar 2024 12:24:33 GMT</pubDate>
+    </item>
     <item>
       <title>一些基德谈论人工智能对齐</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b73hfj/some_kidd_talking_about_ai_alignment/</link>
@@ -48,20 +62,6 @@
       <pubDate>Tue, 05 Mar 2024 09:49:44 GMT</pubDate>
     </item>
     <item>
-      <title>[R] 第三届 Tsetlin 机器国际研讨会征文 (ISTM 2024)</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b71c0s/r_call_for_papers_third_international_symposium/</link>
-      <description><![CDATA[ 由   提交 /u/olegranmo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b71c0s/r_call_for_papers_third_international_symposium/</guid>
-      <pubDate>Tue, 05 Mar 2024 09:35:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 的人工智能水印计划充其量是脆弱的：水印太容易删除，无法提供任何针对虚假信息的保护</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b70nzi/metas_ai_watermarking_plan_is_flimsy_at_best/</link>
-      <description><![CDATA[ Meta 的 AI 水印系统依赖于可检测标记，但很容易被绕过。 去除水印的简易性削弱了它的功能打击虚假信息的有效性。 开源工具可以创建没有水印的内容，从而增加了滥用的风险。 大公司的人工智能工具仍然可能被操纵以避免被发现。 提出了最大程度不可消除的水印作为一种更具弹性的解决方案。  了解更多信息： https://spectrum.ieee.org/meta-ai-watermarks    由   提交 /u/clonefitreal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b70nzi/metas_ai_watermarking_plan_is_flimsy_at_best/</guid>
-      <pubDate>Tue, 05 Mar 2024 08:47:36 GMT</pubDate>
-    </item>
-    <item>
       <title>[投票] 你能区分 Gemini、ChatGPT 和人类内容吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b70f5i/poll_can_you_distinguish_between_gemini_chatgpt/</link>
       <description><![CDATA[亲爱的r/ArtificialInteligence 这是我们的第一次民意调查，所以请友善！ 特别是因为我们不使用 Reddit 民意调查功能来启动它，这让事情变得更加困难🙃 ❓你能告诉谁吗？生成了什么❓ 关闭选项： 🟨人类生成 🟩ChatGPT 🟦Gemini 以下是文本： TEXT 1️⃣ 时间限制是黑客马拉松在提升创造力方面如此有效的关键因素之一。截止日期的压力提供了一种真正的紧迫感，而这种紧迫感在“一切照旧”的正常公司环境中通常是不存在的。在黑客马拉松中，这种紧迫感是兴奋、意志和热情的代名词，这与严格的自上而下的管理要求所带来的感觉有很大不同。 TEXT 2️⃣ 黑客马拉松休息打破个人孤岛，将具有不同技能和观点的不同思想聚集在一起。这种协作环境可以实现思想的交叉授粉，一个人的建议可以引发创意解决方案的连锁反应。有限的时间是创造性解决问题的催化剂。面对在短时间内制作出工作原型的挑战，参与者被迫跳出框框思考并探索非传统方法。 TEXT 3️⃣ 在技术创新和解决问题的领域，黑客马拉松已成为培养创造力、协作和快速原型设计的强大平台。这些紧张、有时限的活动将不同的程序员、设计师和领域专家团队聚集在一起，共同应对现实世界的挑战并创建创新的解决方案。虽然黑客马拉松通常与编码和软件开发相关，但它们的影响远远超出了技术领域。 您可以在评论中留下您的答案。 3 月 12 日星期二，我们将揭示正确答案，并使用非常酷的 #opensource #ai content #detection 工具来验证它们，我们将与您分享该工具（我们不隶属于该工具）   由   提交 /u/pristineagencyeu   [链接] [评论]]]></description>
@@ -76,18 +76,18 @@
       <pubDate>Tue, 05 Mar 2024 05:55:34 GMT</pubDate>
     </item>
     <item>
+      <title>我让 ChatGPT 告诉我人工智能给人类带来的 100 种风险：</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b6xdya/i_asked_chatgpt_to_tell_me_100_risks_ai_poses_to/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b6xdya/i_asked_chatgpt_to_tell_me_100_risks_ai_poses_to/</guid>
+      <pubDate>Tue, 05 Mar 2024 05:21:04 GMT</pubDate>
+    </item>
+    <item>
       <title>克劳德始终称自己为 AGI</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b6xdmk/claude_consistently_refers_to_itself_as_agi/</link>
       <description><![CDATA[所以，今天和Claude Sonnet聊天，它总是把自己称为AGI，并且很乐意讨论它自己的自我意识和意识。就这些。    由   提交 /u/Puzzleheaded_Owl_928   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b6xdmk/claude_consistently_refers_to_itself_as_agi/</guid>
       <pubDate>Tue, 05 Mar 2024 05:20:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 3/4/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b6xckw/oneminute_daily_ai_news_342024/</link>
-      <description><![CDATA[ Anthropic，由 Amazon 和 Google 支持，首次推出迄今为止最强大的聊天机器人 Claude 3。[1] 唐纳德·特朗普支持者一直在创建和分享人工智能生成的黑人选民的虚假图像鼓励非裔美国人投票给共和党。[2] MIT 衍生公司 DataCebo 通过创建模仿真实数据的合成数据来帮助公司增强其数据集。 [3] OpenAI 签署公开信，以负责任的方式构建人工智能，就在埃隆·马斯克起诉该公司将利润置于人之上的几天后。[4]  TurboTax 和 H&amp;R Block 现在使用 AI 提供税务建议。太糟糕了。[5] 来源包括：https://bushaicave。 com/2024/03/04/3-4-2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b6xckw/oneminute_daily_ai_news_342024/</guid>
-      <pubDate>Tue, 05 Mar 2024 05:19:02 GMT</pubDate>
     </item>
     <item>
       <title>AI要走EVS路线？投资者担心英伟达等股票会像特斯拉一样放缓</title>

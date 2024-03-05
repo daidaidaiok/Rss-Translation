@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 05 Mar 2024 12:07:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 15:06:14 GMT</lastBuildDate>
+    <item>
+      <title>🕹️ apk.sh 是一个 Bash 脚本，可以更轻松地对 Android 应用进行逆向工程，自动执行一些重复性任务，例如提取、解码、重建和修补 APK。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b76gr2/apksh_is_a_bash_script_that_makes_reverse/</link>
+      <description><![CDATA[   /u/recovo_recovo   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b76gr2/apksh_is_a_bash_script_that_makes_reverse/</guid>
+      <pubDate>Tue, 05 Mar 2024 14:27:01 GMT</pubDate>
+    </item>
     <item>
       <title>Djapy：基于 Pydantic 的 RestAPI 库，具有 I/O 流控制和精确的 Swagger 支持</title>
       <link>https://www.reddit.com/r/opensource/comments/1b73cu5/djapy_pydanticbased_restapi_library_with_io_flow/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/zerojames_  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b6ep1y/turn_an_image_of_a_bookshelf_into_an_interactive/</guid>
       <pubDate>Mon, 04 Mar 2024 16:09:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>安装 Windows 后您要做的第一件事是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b6bikp/what_are_the_first_things_you_do_after_installing/</link>
-      <description><![CDATA[大家好，我目前正在开发一个开源程序，该程序可以自动执行标准 Windows OOBE 不允许我们个性化/执行的许多任务，如 Debloating、禁用（真正的）数据收集和遥测、安装所有第 3 方程序、驱动程序等。 我想知道我还可以将哪些内容集成到我的程序中，所以我问你，安装 Windows 后你要做的第一件事是什么？ （除了基准测试和安装 chrome）。我没有提到的书呆子技术和简单任务都值得赞赏。 感谢您的时间。   由   提交 /u/Flick9000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b6bikp/what_are_the_first_things_you_do_after_installing/</guid>
-      <pubDate>Mon, 04 Mar 2024 13:58:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
