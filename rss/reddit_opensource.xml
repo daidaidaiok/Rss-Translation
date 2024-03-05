@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 05 Mar 2024 00:17:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 03:06:16 GMT</lastBuildDate>
+    <item>
+      <title>Matro UI - React 组件库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b6rt5m/matro_ui_components_library_for_react/</link>
+      <description><![CDATA[我的好朋友，一位高级 UI/UX 设计师，我和我为 React 创建了一个组件库。它称为 Matro UI，并且完全开源。我们一起花了一个月的时间才发布了这个 MVP，我真的希望它会随着时间的推移而越来越受欢迎。 看看，如果你觉得这有用，请给它一颗星。此外，我们正在寻找贡献者，如果这个项目成功，我们计划将其添加到 Open Collective 中。 网站 - https://matro-ui.github.io/ Github - https://github.com/matro-ui/matro-ui/&quot;&gt;https://matro-ui/ /github.com/matro-ui/matro-ui/   由   提交/u/Revolutionary_Floor4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b6rt5m/matro_ui_components_library_for_react/</guid>
+      <pubDate>Tue, 05 Mar 2024 00:54:41 GMT</pubDate>
+    </item>
     <item>
       <title>#openweb 资金问题和人们使用的工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1b6qi0u/the_problem_with_openweb_funding_and_the_tools/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[三星的官方手表应用程序似乎无法与 microG 配合使用（说我缺少 gear s 插件），是否有任何开源替代方案？ Gadgetbridge 似乎不支持它。 我使用的是运行 crDroid 9 (android 13) 的 Samsung Galaxy S6。 Watch 是一款 Samsung Gear S2，运行最新的 Tizen。   由   提交/u/Lost-Entrepreneur439  /u/Lost-Entrepreneur439 reddit.com/r/opensource/comments/1b623ln/is_there_any_open_source_alternative_to_samsungs/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b623ln/is_there_any_open_source_alternative_to_samsungs/</guid>
       <pubDate>Mon, 04 Mar 2024 04:39:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于想要获得工作荣誉的个人来说，是否有任何理由期望获得许可合规性？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b5xysx/is_there_any_reason_to_expect_license_compliance/</link>
-      <description><![CDATA[我的灵感来自于 /u/Qwert-4 的主题 以及我最近经历的事件。 一些不良行为者通过忽视许可条款滥用了我在开源许可下发布的内容，最重要的是归属条款。我不知道美国以外的情况如何，但为此类许可违规行为寻求法律补救措施可能会付出高昂的代价。我认为众所周知，许多人在开源许可下发布内容并没有从此类内容中赚到很多钱，因此执行许可条款并不经济。 也许我&#39;我遗漏了一些东西，但如果您不打算投入必要的资金来执行这些条款，我很难找到使用这些许可证的理由。似乎优秀的演员都希望避免抄袭带来的道德问题，并且无论许可如何，都希望将功劳归功于原创者。坏演员将继续是坏演员，你仍然可以指责他们的行为不道德。 编辑：我不小心在最后删掉了几句话，但我很好奇为什么人们应该这样做如果 CC0、MIT-0、0BSD 或 The Unlicense 等替代方案与个人执行许可证的方式更加一致，则不喜欢这些替代方案，这意味着他们无论如何都无法采取任何执法行动。    由   提交 /u/TomOwens   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b5xysx/is_there_any_reason_to_expect_license_compliance/</guid>
-      <pubDate>Mon, 04 Mar 2024 01:15:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
