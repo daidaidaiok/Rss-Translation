@@ -4,13 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 06 Mar 2024 03:06:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 06:06:21 GMT</lastBuildDate>
     <item>
-      <title>微软被欧洲专利局拒绝了 rANS 专利 - 将权利要求更改为 rANS 的基本描述</title>
-      <link>https://www.reddit.com/r/programming/comments/1b7oygw/microsoft_was_rejected_rans_patent_by_epo_changed/</link>
-      <description><![CDATA[ 由   提交/u/JerryX32  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b7oygw/microsoft_was_rejected_rans_patent_by_epo_changed/</guid>
-      <pubDate>Wed, 06 Mar 2024 03:03:29 GMT</pubDate>
+      <title>8 个鲜为人知的 Java Streams API 功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1b7rk3h/8_lesserknown_java_streams_api_features/</link>
+      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b7rk3h/8_lesserknown_java_streams_api_features/</guid>
+      <pubDate>Wed, 06 Mar 2024 05:14:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>C 程序怎么能这么可靠呢？</title>
+      <link>https://www.reddit.com/r/programming/comments/1b7re7v/how_can_c_programs_be_so_reliable/</link>
+      <description><![CDATA[ 由   提交 /u/lelanthran   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b7re7v/how_can_c_programs_be_so_reliable/</guid>
+      <pubDate>Wed, 06 Mar 2024 05:06:06 GMT</pubDate>
     </item>
     <item>
       <title>使用 Scaffold 简化 CRUD 操作 -> 一篇关于我已经启动的项目的文章</title>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 05 Mar 2024 23:11:11 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能代码审查的实际和哲学问题</title>
+      <title>人工智能代码审查的实践和哲学问题</title>
       <link>https://www.reddit.com/r/programming/comments/1b7jlvy/the_practical_and_philosophical_problems_with_ai/</link>
       <description><![CDATA[ 由   提交 /u/fosterfriendship   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1b7jlvy/the_practical_and_philosophical_problems_with_ai/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>Nvidia 禁止对 CUDA 软件使用翻译层 - 之前该禁令仅列在在线 EULA 中，现在包含在已安装的文件中 [更新]</title>
       <link>https://www.reddit.com/r/programming/comments/1b7go8t/nvidia_bans_using_translation_layers_for_cuda/</link>
-      <description><![CDATA[ 由   提交/u/LinearArray  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/LinearArray   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1b7go8t/nvidia_bans_using_translation_layers_for_cuda/</guid>
       <pubDate>Tue, 05 Mar 2024 21:09:20 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/hgs3  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1b7b018/things_you_should_never_do_part_i/</guid>
       <pubDate>Tue, 05 Mar 2024 17:27:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building Multiknit - 邀请程序员和黑客进行开源贡献。</title>
-      <link>https://www.reddit.com/r/programming/comments/1b7ala6/building_multiwoven_inviting_programmers_hackers/</link>
-      <description><![CDATA[ 由   提交 /u/nagstler   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b7ala6/building_multiwoven_inviting_programmers_hackers/</guid>
-      <pubDate>Tue, 05 Mar 2024 17:11:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
