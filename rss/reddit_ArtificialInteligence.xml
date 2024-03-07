@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 06 Mar 2024 21:05:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 00:13:34 GMT</lastBuildDate>
+    <item>
+      <title>关于人工智能的视频文章</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8f4h3/video_essay_on_ai/</link>
+      <description><![CDATA[大家好！我是一位即将成为一名内容创作者，具有机器学习背景。 我最近制作了一篇关于 OpenAI Sora 的长篇视频文章，以及这对未来意味着什么。写现实小说是我的爱好之一，我希望我能在这个项目上得到一些建设性的批评，因为我想制作更多关于新闻和现实小说的视频。未来的技术。 话虽如此，这是链接！ https://youtu.be/q8ySx3czRjk?si=jPBBxBrRGtclvt4e   由   提交/u/Significant_King_750   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8f4h3/video_essay_on_ai/</guid>
+      <pubDate>Wed, 06 Mar 2024 23:40:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌的人工智能内容清除 - 你需要知道什么</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8dmz9/googles_ai_content_purge_what_you_need_to_know/</link>
+      <description><![CDATA[Google 刚刚对人工智能生成的内容进行了打击，这些内容充斥着低质量、垃圾内容的搜索结果，我认为这是一件好事，这主要会影响那些每天写出 100 篇文章/博客人工智能内容的人，这太多了！  他们的目标是纯粹为了游戏搜索排名而制作的内容，重点是消除规模化内容、网站声誉和过期域名滥用。我刚刚为此写了一篇博客，您可以阅读它 此处，但如果您不想离开 Reddit（为什么要离开），那么这里是摘要： 以下是有关如何在 Google 中保持 AI 辅助内容安全无害的内幕。好书：  质量重于数量： Google 的打击行动就是为了阻止毫无创意的内容泛滥。使用人工智能来提高内容的深度和价值，而不仅仅是增加销量。 人性化是关键：Google 会惩罚看起来完全是机器制作的内容。确保您的人工智能生成的工作得到质量和准确性的人工审核。基本上不要偷懒，仔细阅读，对任何需要事实检查的内容进行事实检查，也许可以从删除诸如“揭秘”之类的词开始（无论如何，谁甚至使用这个词）。我保证谷歌有一个关键字列表，当你向它询问博客/文章的标题时，ChatGPT 喜欢扔掉它。 保持原创，保持独特：通过创建不只是从其他地方重新整理的内容来实现这一点。寻求突出的新见解和观点。为什么不通过要求人工智能辅助博客/文章添加关键要点部分来增加价值，这样您就可以为受众增加价值。 透明度获胜：如果你正在使用人工智能，就这么说吧！展示人为监督可能会让您的内容免于被标记。 不要把所有鸡蛋放在一个篮子里：这是显而易见的，但是...使您的内容多样化Google 以外的流量来源，以保护您免受未来更新或处罚。   如果您喜欢这个，我会在我的时事通讯中发布每周内容。  感谢您的阅读。    由   提交/u/steves1189  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8dmz9/googles_ai_content_purge_what_you_need_to_know/</guid>
+      <pubDate>Wed, 06 Mar 2024 22:40:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>是我的问题还是有大量研究表明正式验证方法是人工智能的下一个重大步骤？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8b7ow/is_it_me_or_there_is_a_huge_influx_of_research/</link>
+      <description><![CDATA[我目前正在上大学，最近我看到的所有人工智能研究都是标题为“多代理系统中的分布式推理”的论文。和“形式验证对实时安全关键系统操作的影响”。我读过的最后一篇让我印象深刻的文章是《2020 年形式化方法专家调查》。该研究由学术界、行业硬件和软件以及科技初创公司的专家组成，并提供了以下数据： &gt;90% 的人同意正式方法将在行业中更广泛地传播 &gt;83% 的人认为学术界错过了应用形式化方法的机会 &gt;几乎 90% 的人认为形式化方法将带来更好的软件质量、改进的系统的承诺安全、增强的网络安全、更高性能的系统、更容易的认证和更容易的长期维护 对于那些不知道这就是 Geoff Hinton 所描述的“基于逻辑的人工智能”的人来说。理论上它是人工智能发展所需的下一步。  从表面上看，与法学硕士和机器学习相比，使用这种方法几乎没有取得什么进展，但当我询问我的一位教授时，他表示有一些不太知名的公司在承担繁重的工作；他特别提到 Tau Net 已经开始为其自己的软件开发语言申请专利，而另一家公司 Digamma 则已开始申请专利。人工智能已经开始专注于非结构化文本信息的聚类分析。前者已经工作了近十年，考虑到他们的情况与 OpenAI 仍在研究 GPT-2 时的情况非常相似，这些进步的结果可能会在未来几年产生影响。我的意思是：在两年的时间里，他们从一个利基社区的一部分变成了最具盈利潜力的人工智能公司。 所以我的问题是，你认为还会出现另一个大规模的人工智能公司吗？当正式方法在行业中变得更加普遍时，人工智能革命就会到来吗？   由   提交/u/Bocchi_the_degen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8b7ow/is_it_me_or_there_is_a_huge_influx_of_research/</guid>
+      <pubDate>Wed, 06 Mar 2024 21:04:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果有AI玩法吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8ae4m/does_apple_have_an_ai_play/</link>
+      <description><![CDATA[苹果似乎是迄今为止唯一一家尚未发布任何与人工智能相关的内容的 IT 巨头。  当然，他们肯定有一些进展，但他们的注意力似乎主要集中在其他领域，例如最近发布的 VisionPro 的虚拟/增强现实。  目前看来他们在人工智能方面的投入并不多。例如，与 Siri 相比，ChatGPT 中的语音识别效果要好得多，它甚至不是 ChatGPT 的核心功能，但可以说是 Siri 最本质的功能。  苹果是否会错过人工智能革命，就像微软完全错过了最近两次数字革命（互联网和智能手机）一样？   由   提交 /u/daxhns   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8ae4m/does_apple_have_an_ai_play/</guid>
+      <pubDate>Wed, 06 Mar 2024 20:32:38 GMT</pubDate>
+    </item>
     <item>
       <title>无论如何，为什么超级智能的通用人工智能会对我们感兴趣呢？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b89w0j/why_would_a_superintelligent_agi_be_at_all/</link>
@@ -25,20 +53,6 @@
       <description><![CDATA[我是一名学生，试图为我的统计课收集一些研究成果。我只有 20 条回复，非常感谢这个社区中任何人参与包含 9 个问题的 Google 表单调查。不需要任何问题，只需几分钟。 https://docs.google.com/forms/d/1yN2GefIf74N6RXtN_H3oPDLch8D50HCXyilBlY79Syw/edit  &lt; p&gt;如果我发布此内容违反了社区规则，请忽略，我将删除该帖子。提前感谢您的考虑。   由   提交/u/nerdstalker  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b87x2u/ai_artificial_intelligence_in_education_survey/</guid>
       <pubDate>Wed, 06 Mar 2024 18:56:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>借助 AE Studio 的 AI 和定制软件保持领先地位</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b87ijo/stay_ahead_with_ae_studios_ai_custom_software/</link>
-      <description><![CDATA[ 由   提交/u/DumbMoneyMedia  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b87ijo/stay_ahead_with_ae_studios_ai_custom_software/</guid>
-      <pubDate>Wed, 06 Mar 2024 18:40:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>替换视频中的文字？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b87g8f/replace_words_in_a_video/</link>
-      <description><![CDATA[场景如下：我录制了多个同一个人的企业视频，脚本基本相同，但名称不同。每次新的人需要新视频时，都会重新录制。 我想知道是否有一个人工智能解决方案，我可以在记录中更改一个人的名字，然后人工智能会编辑音频和视频以匹配新名称。 或者也许这是错误的方法！我发现了一个非常好的音频人工智能，它与我的扬声器的声音非常匹配。有没有办法以这种方式创建音频，然后将音频与扬声器的头像一起输入到不同的 AI 解决方案，并以这种方式生成视频？   由   提交 /u/DesertModern   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b87g8f/replace_words_in_a_video/</guid>
-      <pubDate>Wed, 06 Mar 2024 18:38:35 GMT</pubDate>
     </item>
     <item>
       <title>以某种方式总结 pdf 的最佳方法是什么？</title>
@@ -69,25 +83,11 @@
       <pubDate>Wed, 06 Mar 2024 16:57:23 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌双子座假装做事但实际上什么也没做？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b83sh6/google_gemini_pretending_to_do_things_without/</link>
-      <description><![CDATA[我已经测试了 Gemini（高级）几次，它通常会告诉我它计划 做...但实际上根本没有做任何事情。 Gemini 真的不如 ChatGPT 以至于它假装做事吗？ 例如今天早上，我要求它根据一些调度输入为我生成一个时间表，它告诉我  &#39;是的！我绝对可以处理这个。我将如何进行......&#39;[具有令人信服的程序细节]  我今天签入了几次，即使已经过去了 9 个小时，它仍然没有完成。每次我办理入住时，它都会告诉我一些类似的信息，  “我理解您在等待过程中的沮丧，对于延迟，我深表歉意。请再坚持一会儿。我即将完成，很高兴能够提出详细的时间表，并与您一起进一步完善它！&#39;  这不是一项艰巨的任务 - 如果我问即使是免费版本ChatGPT 来执行此操作，在我提示后它会立即执行。这也不是第一次发生。上次我使用 Gemini 时，我要求它列出本周末我所在地区的一些活动 - 它说它会在线搜索然后回复我，然后到了一天结束时它只是说抱歉它无法搜索任何内容。 这是 Gemini 的已知错误吗？它不会直接告诉您它无法完成某项任务，而是会假设您在经过足够长的时间后会忘记提示，从而假装正在执行某项任务？    由   提交 /u/Gr8panjandrum   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b83sh6/google_gemini_pretending_to_do_things_without/</guid>
-      <pubDate>Wed, 06 Mar 2024 16:19:23 GMT</pubDate>
-    </item>
-    <item>
       <title>是否还有其他人对人工智能感到兴奋，但随着时间的推移，对其感到越来越消极？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b7rnc9/was_anyone_else_excited_about_ai_but_feeling_more/</link>
       <description><![CDATA[我曾经认为人工智能的想法很酷，对人类有积极的影响 但现在我慢慢意识到它将很快消除多少人类生计和创造力 我只是看不出我们的领导人（他们在全世界都是出了名的腐败）会以任何方式应对人工智能的崛起以一种好的方式。 我看到人们失业、找不到新工作、失去家园和生计、犯罪率上升等等的人数增加 我只是没有看到任何未来的现实版本，人工智能的进步及其融入我们的生活是一件好事 它能解决我们的大部分问题并让生活变得更轻松吗？当然 我们能否生活在一个乌托邦中，人们每周工作 1-2 天，并有更多的空闲时间和机构来享受生活？当然 但这就是政府和企业的用途吗？操，不 这感觉就像电影苦乐参半的结局，浪潮即将来临，但你对此无能为力，所以你坐在那里，让它吞噬你。在这种情况下，你就是人类。   由   提交/u/daway8899  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b7rnc9/was_anyone_else_excited_about_ai_but_feeling_more/</guid>
       <pubDate>Wed, 06 Mar 2024 05:19:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能会取代动态图形和/或计算机编程吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b7r8n9/will_ai_replace_motion_graphics_and_or_computer/</link>
-      <description><![CDATA[我即将获得两个 2 年制学位。主要学习 Adob​​e 创意套件，尤其是 After Effects、Photoshop 和 Premiere Pro。另外一门计算机科学，学习c++、Java、python。我还拥有平面设计和网页设计证书。  在开始上学之前，我在小学到高中期间与朋友们一起使用 Adob​​e 产品制作有趣的电影或图片，积累了丰富的经验。我从六年级开始关注人工智能，主要是视频操作/生成，比如谷歌的深度梦想。我有一些使用 python 将一堆人工智能生成的照片转换成视频的编码经验。  我对自己在大学学习的选择感到非常高兴和自信，这是我喜欢的事情，这绝对是我拥有的最大的赚钱技能。我也正在考虑获得一个专注于英语和写作的学位，因为我梦想的工作最终会成为某种导演。  然后，当聊天 gdp 发布并“普及”人工智能时，我意识到它极大地简化了我想要将其转变为职业的事情。 Ai 基本上可以编写我 90% 的代码，我通常要做的就是调试它并添加 ai 无法理解的特定行，这并不是很多。这只是聊天 GDP，我什至没有尝试过专门为编写代码而制作的聊天内容。 Adobe 将人工智能集成到他们的产品中，它使我多年来学到的大量工具和技术变得过时，总体上使程序更易于访问。那么 open ai 的新 sora 看起来最终可能会取代整个数字媒体行业。更不用说聊天gdp写得相当不错了，这可以并且很快就会得到改进。 所以现在我显然很紧张，因为我的两个学位和多年的实验经验变得过时，或者变得如此容易可以看出，由于供给高于需求，平均工资大幅下降。 每个人对此有何看法？   由   提交 /u/Uncle_Tim   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b7r8n9/will_ai_replace_motion_graphics_and_or_computer/</guid>
-      <pubDate>Wed, 06 Mar 2024 04:58:28 GMT</pubDate>
     </item>
     <item>
       <title>AI制作一部完整的电影还需要多久？</title>
