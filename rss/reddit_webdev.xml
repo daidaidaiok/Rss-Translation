@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 07 Mar 2024 09:06:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 12:08:22 GMT</lastBuildDate>
+    <item>
+      <title>如何阅读代码库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b8sp1t/how_to_read_codebase/</link>
+      <description><![CDATA[我正在一个现有的项目中工作，它的大项目。每当我尝试阅读代码时，都会陷入困境，就像我应该从哪里开始？   由   提交 /u/sohail_ansari   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b8sp1t/how_to_read_codebase/</guid>
+      <pubDate>Thu, 07 Mar 2024 11:46:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>再次需要帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b8smu6/again_need_help/</link>
+      <description><![CDATA[       当我这样做时，它在这个训练 html 和 css 中不起作用，但在其他 kk html 和样式 css 中也起作用，为什么为什么    ;由   提交 /u/achathikee   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b8smu6/again_need_help/</guid>
+      <pubDate>Thu, 07 Mar 2024 11:43:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>为围墙花园带来竞争 - 开放网络倡导</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b8smpe/bringing_competition_to_walled_gardens_open_web/</link>
+      <description><![CDATA[   /u/kaeshiwaza  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b8smpe/bringing_competition_to_walled_gardens_open_web/</guid>
+      <pubDate>Thu, 07 Mar 2024 11:43:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个开源、可视化审查和测试平台（云和自托管）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b8sdm9/i_built_an_opensource_visual_review_testing/</link>
+      <description><![CDATA[       由   提交/u/EvilSuppressor  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b8sdm9/i_built_an_opensource_visual_review_testing/</guid>
+      <pubDate>Thu, 07 Mar 2024 11:28:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Angular 17 SSR NGINX</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b8sa3e/angular_17_ssr_nginx/</link>
+      <description><![CDATA[当前正在运行 NGINX 并在“/”上托管应用程序并且角度路由运行良好，但是静态文件（例如块）由于某种原因由角度从根“/”获取，而它们在“/”上提供服务（文件应该被送达的地方）。有没有办法设置静态文件的抓取url？   由   提交 /u/redditPheasant   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b8sa3e/angular_17_ssr_nginx/</guid>
+      <pubDate>Thu, 07 Mar 2024 11:22:02 GMT</pubDate>
+    </item>
     <item>
       <title>WordPress 开发</title>
       <link>https://www.reddit.com/r/webdev/comments/1b8poar/wordpress_development/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[我正在寻找一种通过调用单个后端函数来对用户进行身份验证和授权的方法，除了后端数据库之外，没有任何环境或依赖项，所有除了纯js什么都没有。尽管这是最简单的做事方式，但我找不到任何在线执行此操作的方法，这有点让我伤脑筋。一切似乎都使用框架和库，而 vanilla js 就可以了。 例如：前端的 vanilla js 调用后端函数，比方说这是一个简单的 cloudflare Worker，与没有库、包或获取，但可以访问数据库。 export default { async fetch(request) { /* 这里的一些代码返回凭证*/ }, };  应该需要两个文件。一个用于前端登录/退出/注册 html 页面，带有一些脚本和样式标签，一个用于后端身份验证功能。 这怎么是一个未解决的问题？如果尽可能简单地完成，这似乎是一项最多需要一百个小时和几千行代码才能完成的任务，尤其是使用 js 中的加密函数。但无论我看什么，你都必须依赖五个不同的依赖项。我是否遗漏了一些关键的东西，或者没有人愿意这样做？   由   提交 /u/DeathToAIArt   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b8kgoo/whats_the_simplest_way_to_implement/</guid>
       <pubDate>Thu, 07 Mar 2024 03:41:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>求助 - 网站被黑了！！！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b8j2en/help_website_hacked/</link>
-      <description><![CDATA[WebDev Redditors 大家好， 最近，一家家族企业受到黑客攻击，该人进入代码库并删除了我们的 WordPress 材料并替换就用自己的吧。我们的本地托管服务需要 700-800 美元才能恢复它。我的问题是，是否最好从以前的托管提供商那里获取备份并将其移动到像 bluehost 这样自动备份的提供商，以便我可以恢复黑客所做的更改，或者 700-800 美元是否合理。 &lt;另外，关于网站结构，我还应该考虑其他问题吗（我们拥有 godaddy 域名和带有小型本地服务的网络托管）。据我所知，我不明白该网站是如何在没有通过我们的托管提供商的情况下被黑客入侵的，但他们说我们是唯一受影响的客户。 问题在于我的家人没有备份我们拥有，而我们的提供商没有告诉我们他们是否自动有备份。如果我们有备份，我想将网站放在另一个托管提供商上不会太难。主要问题是弄清楚 700-800 美元是否是恢复网站的合理价格，或者我们是否应该去找以前的提供商并询问他们是否有成本低于 700 美元的备份并转移到另一个提供商。该提供商也表示他们尚未调查该问题，因此我也担心同样的黑客行为会再次发生。假设他们从存档恢复或从备份恢复，这是一个公平的价格吗？  从我的角度来看，我有一些网络知识，但更多的是代码方面的知识，而不是托管和业务方面的知识，因为我主要是一名专注于人工智能的数据科学家和后端计算机科学家。 感谢你们在我家庭生活的这个紧张时刻提供的帮助。   由   提交 /u/MJAquarion   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b8j2en/help_website_hacked/</guid>
-      <pubDate>Thu, 07 Mar 2024 02:37:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我以前在 WordPress 工作过，但是..</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b8im26/ive_worked_in_wordpress_before_but/</link>
-      <description><![CDATA[我正在为其重新设计一个客户。这是一个全新的网站，不需要继承内容，它将是一个高级主题 (Inspiro)。 老实说，我没有意识到设置/登台过程会是什么样子，我&#39;我在我的头顶上。  我正在尝试：在网站上线时构建新网站，而不会中断当前网站。我也不确定如何将其迁移过来？ 据我所知，我有两个选择：用于构建它的本地暂存环境或子域。在这种情况下哪种选择是理想的？我认为他们更愿意亲自了解进展情况，因此当地环境有点艰难。不过，DNS 记录让我感到紧张。  该域名托管在 GoDaddy 上。  非常感谢任何和所有的帮助，并且根据需要，我 100% 愿意付费！先感谢您！    由   提交 /u/Happy_Little_Leaves   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b8im26/ive_worked_in_wordpress_before_but/</guid>
-      <pubDate>Thu, 07 Mar 2024 02:16:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在寻找可以编写 DeepLink 插件代码的 YOURLS 开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b8iayl/im_searching_for_a_yourls_developer_which_could/</link>
-      <description><![CDATA[我是一名社交媒体内容创建者，想在 Instagram 上分享我的短链接。 不幸的是，这些链接只是在用户未登录的 Instagram 浏览器内部打开。因此，我希望看到一个插件，它检查用户是否安装了所需的目标应用程序（例如 YouTube，当共享缩短的 YouTube 链接时），然后尝试打开该应用程序。  作为根本未安装应用程序时的后备（例如，从 PC 单击链接时），该链接将像正常情况一样在浏览器或移动设备上打开（本例中是在 Instagram 上）包含浏览器。 感谢所有开发人员阅读本文，我很高兴看到有人编写一个小脚本来解决这个问题:) ​   由   提交 /u/MrLufus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b8iayl/im_searching_for_a_yourls_developer_which_could/</guid>
-      <pubDate>Thu, 07 Mar 2024 02:01:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDNeural-BOT,KDNeuralBot，一个由 OpenAI 的高级 AI 模型驱动的 Telegram 机器人,下载KDNeural-BOT的源码_GitHub_帮酷聊天、提问并体验智能对话。从 GPT-4 Turbo、Gemini Pro 或 GPT-3.5 Turbo 中进行选择，以获得量身定制的体验。 ✨</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b8hvmg/github_davidai2024kdneuralbot_kdneuralbot_a/</link>
-      <description><![CDATA[       由   提交 /u/FruitysX   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b8hvmg/github_davidai2024kdneuralbot_kdneuralbot_a/</guid>
-      <pubDate>Thu, 07 Mar 2024 01:42:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>能够“单击并拖动”窗口来调整大小的正确名称是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b8hj2s/what_is_the_proper_name_for_being_able_to_click/</link>
-      <description><![CDATA[我正在尝试研究一些潜在功能的东西，但我意识到我什至不知道它叫什么。但是，您可以“单击两个窗口之间的栏并将其拖动以调整大小”的功能名称是什么？就像在 VSCode 中，如果您并排打开两个文件，您可以单击并拖动两个文件之间的栏来调整它们的大小。  或者在 codepen 中，您可以单击并拖动 HTML、CSS 和 JS 部分之间的栏，然后拖动它们来调整大小。这个功能叫什么？ （https://codepen.io/sethdavis512/pen/EvNKWw?editors=1100） 我觉得如果我只知道该功能的名称，我至少有机会在谷歌上搜索它并进行更深入的研究。 （也就是说，如果有人碰巧已经知道这叫什么，并且对如何在 VueJS 应用程序中执行此操作有建议，我将非常感激！）   由   提交/u/jkidd08  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b8hj2s/what_is_the_proper_name_for_being_able_to_click/</guid>
-      <pubDate>Thu, 07 Mar 2024 01:26:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
