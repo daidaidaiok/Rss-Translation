@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 08 Mar 2024 00:18:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 03:06:31 GMT</lastBuildDate>
     <item>
       <title>没有电话 (2a)</title>
       <link>https://www.producthunt.com/posts/nothing-phone-2a</link>
@@ -34,24 +34,10 @@
       <pubDate>Thu, 07 Mar 2024 08:30:25 GMT</pubDate>
     </item>
     <item>
-      <title>卡普翼人工智能</title>
-      <link>https://www.producthunt.com/posts/kapwing-ai</link>
-      <description><![CDATA[
-            自动视频配音和翻译
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/kapwing-ai</guid>
-      <pubDate>Thu, 07 Mar 2024 04:31:27 GMT</pubDate>
-    </item>
-    <item>
       <title>铅笔亭2.0</title>
       <link>https://www.producthunt.com/posts/pencilbooth-2-0</link>
       <description><![CDATA[
-            为创意类型提供的视觉新闻通讯服务
+            为创意人士提供的视觉通讯服务
           
 
 讨论
@@ -60,6 +46,48 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/pencilbooth-2-0</guid>
       <pubDate>Thu, 07 Mar 2024 03:42:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>普赖尔利</title>
+      <link>https://www.producthunt.com/posts/priorli</link>
+      <description><![CDATA[
+            发挥您的创造力制作内容，只需人工智能的一点帮助
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/priorli</guid>
+      <pubDate>Thu, 07 Mar 2024 02:53:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>X 的 Pipedream（推特）</title>
+      <link>https://www.producthunt.com/posts/pipedream-for-x-twitter</link>
+      <description><![CDATA[
+            将 X (Twitter) 与 2000 多个 API 连接并实现一切自动化
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/pipedream-for-x-twitter</guid>
+      <pubDate>Thu, 07 Mar 2024 01:10:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>渲染房子</title>
+      <link>https://www.producthunt.com/posts/render-a-house</link>
+      <description><![CDATA[
+            为您的项目即时创建精美照片
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/render-a-house</guid>
+      <pubDate>Wed, 06 Mar 2024 20:01:26 GMT</pubDate>
     </item>
     <item>
       <title>截图到概念和注释</title>
@@ -74,20 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/screenshot-to-notion-annotate</guid>
       <pubDate>Wed, 06 Mar 2024 17:45:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 mymind iOS 应用程序</title>
-      <link>https://www.producthunt.com/posts/the-new-mymind-ios-app</link>
-      <description><![CDATA[
-            您思维的移动延伸变得更好
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/the-new-mymind-ios-app</guid>
-      <pubDate>Wed, 06 Mar 2024 17:28:13 GMT</pubDate>
     </item>
     <item>
       <title>组队</title>
@@ -118,34 +132,6 @@
       <pubDate>Wed, 06 Mar 2024 07:40:51 GMT</pubDate>
     </item>
     <item>
-      <title>FGA4</title>
-      <link>https://www.producthunt.com/posts/fga4</link>
-      <description><![CDATA[
-            简单易用的 Google Analytics 仪表板
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/fga4</guid>
-      <pubDate>Wed, 06 Mar 2024 03:48:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rivian R2、R3 和 R3X</title>
-      <link>https://www.producthunt.com/posts/rivian-r2-r3-and-r3x</link>
-      <description><![CDATA[
-            电动冒险的新尝试
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/rivian-r2-r3-and-r3x</guid>
-      <pubDate>Wed, 06 Mar 2024 00:03:28 GMT</pubDate>
-    </item>
-    <item>
       <title>鱼子艾</title>
       <link>https://www.producthunt.com/posts/roe-ai</link>
       <description><![CDATA[
@@ -172,6 +158,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/memozora</guid>
       <pubDate>Tue, 05 Mar 2024 10:21:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lottie 文件的超级流程</title>
+      <link>https://www.producthunt.com/posts/superflow-for-lottie-files</link>
+      <description><![CDATA[
+            Lottie 动画的逐帧反馈。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/superflow-for-lottie-files</guid>
+      <pubDate>Mon, 04 Mar 2024 19:09:21 GMT</pubDate>
     </item>
     <item>
       <title>职业连接</title>
