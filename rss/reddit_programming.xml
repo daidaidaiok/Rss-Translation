@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 08 Mar 2024 03:06:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 06:06:30 GMT</lastBuildDate>
+    <item>
+      <title>我正在使 Python 开发者的云基础设施民主化</title>
+      <link>https://www.reddit.com/r/programming/comments/1b9g4lv/im_democratizing_cloud_infrastructure_for_python/</link>
+      <description><![CDATA[ 由   提交/u/Ok_Post_149   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b9g4lv/im_democratizing_cloud_infrastructure_for_python/</guid>
+      <pubDate>Fri, 08 Mar 2024 05:20:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quicklook：使用依赖图和惊人速度进行代码审查</title>
+      <link>https://www.reddit.com/r/programming/comments/1b9flg5/quicklook_code_reviews_with_dependency_graphs/</link>
+      <description><![CDATA[ 由   提交/u/MauDieguez  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b9flg5/quicklook_code_reviews_with_dependency_graphs/</guid>
+      <pubDate>Fri, 08 Mar 2024 04:53:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>何时、何地以及如何使用 HTTP 方法创建对 REST API 的成功请求。</title>
+      <link>https://www.reddit.com/r/programming/comments/1b9ee12/when_where_and_how_to_use_http_methods_to_create/</link>
+      <description><![CDATA[ 由   提交 /u/Zealousideal-Web-898   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b9ee12/when_where_and_how_to_use_http_methods_to_create/</guid>
+      <pubDate>Fri, 08 Mar 2024 03:52:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>愚蠢的简单拼写检查</title>
+      <link>https://www.reddit.com/r/programming/comments/1b9e14m/stupid_simple_spellcheck/</link>
+      <description><![CDATA[ 由   提交/u/ChiliPepperHott  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b9e14m/stupid_simple_spellcheck/</guid>
+      <pubDate>Fri, 08 Mar 2024 03:35:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude 是我新推出的最佳代码助手 AI 模型。</title>
+      <link>https://www.reddit.com/r/programming/comments/1b9dnuz/claude_is_my_new_best_ai_model_for_code_assistant/</link>
+      <description><![CDATA[新的LLM发布已经过去0天了，这个太棒了。如果您曾经在 ChatGPT 或 Gemini 中创建新的聊天实例，当您达到疯狂的程度时，他们不理解您，那么这就是解决方案。  &amp; #32；由   提交/u/Charming-Ad-7422   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b9dnuz/claude_is_my_new_best_ai_model_for_code_assistant/</guid>
+      <pubDate>Fri, 08 Mar 2024 03:17:49 GMT</pubDate>
+    </item>
     <item>
       <title>认真的 Web 组件</title>
       <link>https://www.reddit.com/r/programming/comments/1b9deck/web_components_in_earnest/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/jablonskipj  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1b94b19/building_strong_teams_the_power_of_trust_in/</guid>
       <pubDate>Thu, 07 Mar 2024 20:22:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的语言矮人 vs Python 和 JavaScript：Toasted Python / JavaScript Thrashing</title>
-      <link>https://www.reddit.com/r/programming/comments/1b92t1s/my_language_dwarf_vs_python_and_javascript/</link>
-      <description><![CDATA[ 由   提交/u/uber_foo  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b92t1s/my_language_dwarf_vs_python_and_javascript/</guid>
-      <pubDate>Thu, 07 Mar 2024 19:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>AISecOps：扩展 DevSecOps 以保护 AI 和 ML</title>
-      <link>https://www.reddit.com/r/programming/comments/1b92mx6/aisecops_expanding_devsecops_to_secure_ai_and_ml/</link>
-      <description><![CDATA[ 由   提交/u/No-Chef-4598   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b92mx6/aisecops_expanding_devsecops_to_secure_ai_and_ml/</guid>
-      <pubDate>Thu, 07 Mar 2024 19:03:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件工程团队的人性化一面</title>
-      <link>https://www.reddit.com/r/programming/comments/1b923ku/the_human_side_of_software_engineering_teams/</link>
-      <description><![CDATA[ 由   提交/u/chiangmai17  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b923ku/the_human_side_of_software_engineering_teams/</guid>
-      <pubDate>Thu, 07 Mar 2024 18:39:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一种开源可视化编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1b91v2f/i_created_an_opensource_visual_programming/</link>
-      <description><![CDATA[ 由   提交 /u/GabrielGrin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b91v2f/i_created_an_opensource_visual_programming/</guid>
-      <pubDate>Thu, 07 Mar 2024 18:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>变革的时刻：我们对白宫网络安全新闻稿的回应</title>
-      <link>https://www.reddit.com/r/programming/comments/1b91s8x/a_time_for_change_our_response_to_the_white_house/</link>
-      <description><![CDATA[ 由   提交/u/yawaramin  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b91s8x/a_time_for_change_our_response_to_the_white_house/</guid>
-      <pubDate>Thu, 07 Mar 2024 18:27:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
