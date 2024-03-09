@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 08 Mar 2024 21:06:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 00:16:32 GMT</lastBuildDate>
+    <item>
+      <title>航空同步</title>
+      <link>https://www.producthunt.com/posts/aerosync</link>
+      <description><![CDATA[
+            释放银行的力量。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/aerosync</guid>
+      <pubDate>Fri, 08 Mar 2024 18:00:55 GMT</pubDate>
+    </item>
     <item>
       <title>数据驱动程序</title>
       <link>https://www.producthunt.com/posts/datadiver</link>
@@ -104,20 +118,6 @@
       <pubDate>Thu, 07 Mar 2024 21:06:17 GMT</pubDate>
     </item>
     <item>
-      <title>卡友</title>
-      <link>https://www.producthunt.com/posts/card-buddy</link>
-      <description><![CDATA[
-            使用可拖动的索引卡组织您的写作
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/card-buddy</guid>
-      <pubDate>Thu, 07 Mar 2024 19:06:03 GMT</pubDate>
-    </item>
-    <item>
       <title>诗艾</title>
       <link>https://www.producthunt.com/posts/verse-ai</link>
       <description><![CDATA[
@@ -202,18 +202,18 @@
       <pubDate>Wed, 31 Jan 2024 05:52:43 GMT</pubDate>
     </item>
     <item>
-      <title>二</title>
-      <link>https://www.producthunt.com/posts/hai-2</link>
+      <title>柠檬岩</title>
+      <link>https://www.producthunt.com/posts/lemonrocks</link>
       <description><![CDATA[
-            在梦想之地与您定制的角色一起玩耍和生活
+            通过机器学习和人工智能增强的数据驱动型初创公司跟踪平台
           
 
-讨论&lt; /a&gt;
+讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/hai-2</guid>
-      <pubDate>Tue, 28 Nov 2023 03:26:56 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/lemonrocks</guid>
+      <pubDate>Wed, 03 Jan 2024 14:02:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
