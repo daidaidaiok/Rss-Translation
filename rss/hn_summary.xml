@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 10 Mar 2024 00:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 06:00:09 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 隆重推出 Mastertech.ai，这是一款革命性的工具，可让您快速诊断 [...]</title>
-      <link>https://t.me/hn_summary/78559</link>
-      <description><![CDATA[显示 HN：Mastertech.ai - 快速诊断车辆的常见问题
-隆重推出 Mastertech.ai，这是一款革命性工具，可让您快速诊断只需输入 VIN 即可解决您车辆的常见问题。这个创新平台根据您特定车辆的所有技术服务公告 (TSB) 交叉引用症状和疑虑，为您提供所需的准确答案。当涉及到汽车故障时，告别无休止的搜索和猜测 - Mastertech.ai&lt; /a&gt; 已经帮您解决了。访问www.mastertech.ai体验便捷和准确今天就介绍一下这个改变游戏规则的工具。]]></description>
-      <guid>https://t.me/hn_summary/78559</guid>
-      <pubDate>Sun, 10 Mar 2024 00:19:34 GMT</pubDate>
+      <title>[媒体]Tanya d’Anger 分享了她在多伦多担任兼职大学讲师的经历，工作 [...]</title>
+      <link>https://t.me/hn_summary/78584</link>
+      <description><![CDATA[被困在象牙地下室
+Tanya d’Anger 分享了她在多伦多担任兼职大学讲师的经历，她长时间工作，没有假期，并教授多门课程，以避免工作不稳定。她详细描述了这对她的健康、财务和家庭生活造成的损失。文章强调了大学中合同制教师的普遍存在，与全职教授相比，他们面临着工作不稳定和工资较低的问题。这篇文章还深入探讨了合同制教师在工会代表方面面临的挑战，其中一些人由于过时的标准而被排除在工会之外。该内容揭示了在一个重视财务稳定而不是福祉的系统中兼职教学的严酷现实。 （根据故事文本的 67% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/78584</guid>
+      <pubDate>Sun, 10 Mar 2024 06:00:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 欢迎来到我们的自动化机器学习即服务 MVP！</title>
-      <link>https://t.me/hn_summary/78558</link>
-      <description><![CDATA[显示 HN：自动化机器学习即服务的 MVP
-欢迎来到我们的自动化机器学习即服务 MVP！这个早期版本仅用三周时间就构建完成，允许您上传数据并获取模型。我们感谢您的支持，并很高兴看到我们通过资金和全职工作能够取得的成就。即将推出：持久存储和 API 访问。联系我们分享您的想法和反馈。该实验软件正处于早期开发阶段，因此如果您遇到任何问题，请与我们联系。感谢您对我们不断改进和成长的理解和支持。]]></description>
-      <guid>https://t.me/hn_summary/78558</guid>
-      <pubDate>Sun, 10 Mar 2024 00:18:31 GMT</pubDate>
+      <title>[媒体] 在本文中，我深入探讨了 Amazon S3 是文件系统的误解，当它 [...]</title>
+      <link>https://t.me/hn_summary/78583</link>
+      <description><![CDATA[S3 是文件，但不是文件系统
+在本文中，我深入探讨了 Amazon S3 是文件系统的误解，而实际上它是文件的云存储服务。我探讨了编程中深层模块和浅层模块之间的差异，强调了 S3 的接口如何比传统的 Unix 文件 API 更简单。 S3 缺乏部分覆盖，这给依赖此功能的数据库带来了挑战。虽然 S3 在高速读写方面表现出色，但它缺乏重命名或移动等操作，导致某些任务速度变慢。尽管有其局限性，S3 的低维护性和易用性使其成为云存储的宝贵工具。 （根据故事文本的 62% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/78583</guid>
+      <pubDate>Sun, 10 Mar 2024 05:38:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]该项目旨在解决 Outlook 日历与 Notion Ca 集成的问题 [...]</title>
-      <link>https://t.me/hn_summary/78557</link>
-      <description><![CDATA[显示 HN：Outlook 到 Google Calendar Sync 以实现 Notion 日历集成
-该项目旨在通过在 Outlook 和 Google 日历之间创建同步来解决 Outlook 日历与 Notion Calendar 集成的问题。作者解决了 Notion Calendar 不支持 Outlook 集成以及 Google Calendar 仅每 8-12 小时更新一次提要的痛点。该项目利用 Google App 脚本读取已发布的 ICS Outlook 日历，并以可自定义的刷新频率更新特定 Google 日历上的事件。作者提供了设置自动化的详细步骤，包括创建新的 Google 日历、共享 Outlook 日历、创建 Google App 脚本以及为脚本设置触发器。该项目的独特之处在于为 Notion 用户提供实时日历同步解决方案。]]></description>
-      <guid>https://t.me/hn_summary/78557</guid>
-      <pubDate>Sun, 10 Mar 2024 00:17:28 GMT</pubDate>
+      <title>[媒体]在一些阿米什社区，电动自行车比传统的马车更受欢迎 [...]</title>
+      <link>https://t.me/hn_summary/78582</link>
+      <description><![CDATA[电动自行车取代了一些阿米什人的越野车（2021）
+在一些阿米什社区，电动自行车在日常交通中比传统的四轮马车更受欢迎。这种转变在俄亥俄州 Sugarcreek 等城镇很明显，电动自行车现在在那里很常见。电动自行车使用量的增加归因于与越野车相比，它们提供的便利性和速度。虽然一些阿米什社区仍然更喜欢电动滑板车，但其他社区已经开始使用电动自行车来上班和购物。电动自行车融入阿米什人的生活反映了他们日常生活的更广泛的转变，展示了传统与现代的独特融合。阿米什人对电动自行车的接受可能为主流社会在可持续交通实践方面提供宝贵的经验教训。]]></description>
+      <guid>https://t.me/hn_summary/78582</guid>
+      <pubDate>Sun, 10 Mar 2024 05:36:25 GMT</pubDate>
     </item>
     <item>
-      <title>来自佛罗里达州迈阿密的两名中学生因创建和共享人工智能生成内容而被捕 [...]</title>
-      <link>https://t.me/hn_summary/78556</link>
-      <description><![CDATA[佛罗里达中学生被指控制作同学的深度伪造裸体
-来自佛罗里达州迈阿密的两名中学生因未经同意创建并分享人工智能生成的同学裸照而被捕，导致 2022 年通过的州法律首次提出刑事指控。该事件于 12 月报道，造成了创伤为受害者辩护，并引发了要求将这些男孩开除出校的呼声。学校管理人员得知这些指控后，这些男孩被停学 10 天。 《连线》获得的逮捕报告显示，这些男孩使用人工智能应用程序创建了露骨图像，并在他们之间共享。该案件突显了深度造假技术在未成年人中以有害方式使用的日益严重的问题。]]></description>
-      <guid>https://t.me/hn_summary/78556</guid>
-      <pubDate>Sun, 10 Mar 2024 00:16:25 GMT</pubDate>
+      <title>[媒体]动视暴雪 600 名质量保证人员已成功组建了 LA [...]</title>
+      <link>https://t.me/hn_summary/78581</link>
+      <description><![CDATA[动视 QA 工人投票组建迄今为止最大的美国视频游戏工人工会
+动视公司 600 名质量保证员工成功组建了美国最大的视频游戏工会，称为动视质量保证联盟。在此之前，我们与微软达成了支持工会努力的历史性协议。该团体的目标是通过谈判获得更好的薪酬、福利和职业发展机会。尽管质量检查人员在游戏开发中发挥着重要作用，但他们的保护和工资往往较低，这一举措在这个行业中意义重大。 CWA-微软中立协议为科技公司设立了新标准，体现了对工人权利的尊重并鼓励其他人组建工会。]]></description>
+      <guid>https://t.me/hn_summary/78581</guid>
+      <pubDate>Sun, 10 Mar 2024 05:29:18 GMT</pubDate>
     </item>
     <item>
-      <title>在一次令人震惊的事件中，巴蒂克航空 (Batik Air) 飞往雅加达的航班的机长和副驾驶在 [...]</title>
-      <link>https://t.me/hn_summary/78555</link>
-      <description><![CDATA[Air Batik 机长和副机长在飞往雅加达的航班上睡着了 28 分钟
-在一次令人震惊的事件中，巴蒂克航空飞往雅加达的航班的机长和副驾驶在飞行过程中睡着了 28 分钟。机长在得到副驾驶的许可后小睡了一会儿，随后副驾驶也睡着了。在机长醒来并纠正情况之前，飞机偏离了航线。虽然长途航班有替补飞行员，但像这样的短途航班通常会控制休息时间以缓解疲劳。报告显示，副驾驶前一天晚上没有充分休息。尽管发生了这一事件，巴迪航空表示，他们按照充分的休息政策运营，并致力于实施安全建议。]]></description>
-      <guid>https://t.me/hn_summary/78555</guid>
-      <pubDate>Sun, 10 Mar 2024 00:15:22 GMT</pubDate>
+      <title>[媒体]乌克兰面临战后余波，1万亿美元的重建工作正在紧锣密鼓地进行……</title>
+      <link>https://t.me/hn_summary/78580</link>
+      <description><![CDATA[1T 美元竞赛重建乌克兰
+乌克兰面临战后余波，1万亿美元的重建工作即将展开，吸引了渴望二战以来最大投资机会的企业和投资者。土耳其公司已经在当地恢复基础设施，并为争夺利润丰厚的合同做准备。然而，战争何时结束以及乌克兰将从俄罗斯军队手中夺回多少领土的不确定性依然存在。尽管面临挑战，企业仍为长期重建做好准备，希望重建一个更好、更透明的乌克兰。重建竞赛已经开始，土耳其公司一马当先。]]></description>
+      <guid>https://t.me/hn_summary/78580</guid>
+      <pubDate>Sun, 10 Mar 2024 05:24:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 arkadiyt.com 上的这篇文章中，作者讨论了逆向工程的过程 [...]</title>
-      <link>https://t.me/hn_summary/78554</link>
-      <description><![CDATA[从编译的二进制文件逆向工程 Protobuf 定义
-在 arkadiyt.com 上的这篇文章中，作者讨论了使用名为 protodump 的工具从编译的二进制文件中逆向工程 Protobuf 定义。通过提取完整源 Protobuf 定义（甚至是从闭源二进制文件中），工程师可以更好地理解 API。作者解释了在程序内存中查找和解码 FileDescriptors 的过程，重点介绍了 varint 和 Tag-Length-Value 方案的使用。虽然该方法特定于 Google 的 protoc 编译器并且有局限性，但它已经成功地从大多数检查的二进制文件中提取了 Protobuf 定义。这个独特而详细的过程揭示了 Protobuf 定义的逆向工程技术。]]></description>
-      <guid>https://t.me/hn_summary/78554</guid>
-      <pubDate>Sun, 10 Mar 2024 00:14:19 GMT</pubDate>
+      <title>[媒体]我的委托人，骗子，不仅不擅长说谎，而且还阻碍了自己的案件[...]</title>
+      <link>https://t.me/hn_summary/78579</link>
+      <description><![CDATA[我的客户，骗子
+我的委托人，即说谎者，不仅不擅长说谎，而且还通过这样做阻碍了自己的案件。作为一名公设辩护人，我的任务是为我的客户辩护，同时确保我不会被灌输谎言。我不遗余力地调查、证实和收集证据来为他们辩护。然而，有些客户不遗余力地欺骗我，认为这对他们的案子有帮助。从枪上的指纹到精心设计的不在场证据，谎言只会让事情变得复杂，让他们的前景变得更糟。这是刑事辩护领域一场持续不断的斗智斗勇和欺骗斗争。 （根据 81% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/78579</guid>
+      <pubDate>Sun, 10 Mar 2024 05:23:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 嘿嘿！</title>
-      <link>https://t.me/hn_summary/78553</link>
-      <description><![CDATA[Show HN：我正在为无限尤克里里构建一个小网络工具练习
-嘿！我很高兴与您分享我的最新项目 - 一个用于无限尤克里里练习的网络工具。使用此工具，您可以无休止地练习尤克里里技能，完善您的和弦和弹奏模式。最好的部分？您的数据属于您，我只跟踪页面浏览量以改进该工具。请在 chords.koljapluemer.com 上查看。就这样，在我的网站 koljapluemer.com。快乐弹奏！]]></description>
-      <guid>https://t.me/hn_summary/78553</guid>
-      <pubDate>Sun, 10 Mar 2024 00:13:16 GMT</pubDate>
+      <title>[媒体]在一场令人震惊的诉讼中，一名 SpaceX 员工指控性别歧视和报复 [...]</title>
+      <link>https://t.me/hn_summary/78578</link>
+      <description><![CDATA[SpaceX 据称在让员工怀孕后帮助经理避免子女抚养
+在一场令人震惊的诉讼中，一名 SpaceX 员工指控公司内部存在性别歧视和报复行为。米歇尔·多帕克 (Michelle Dopak) 声称，她的薪酬低于男同事，升职被拒绝，并且在工作中受到骚扰。她还指控一名主管强迫她发生性关系，导致她怀孕，为她提供堕胎费用，并在公司的帮助下逃避子女抚养费。 SpaceX 还面临其他指控歧视和疏忽的诉讼。该诉讼寻求未具体说明的损害赔偿，SpaceX 尚未回应置评请求。这一争议揭示了公司内部涉嫌虐待员工的情况。]]></description>
+      <guid>https://t.me/hn_summary/78578</guid>
+      <pubDate>Sun, 10 Mar 2024 04:42:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] PowerShellRun 是一个 PowerShell 模块，可用作应用程序、实用程序和功能启动 [...]</title>
-      <link>https://t.me/hn_summary/78552</link>
-      <description><![CDATA[显示 HN：PowerShellRun – PowerShell 的应用程序、实用程序和功能启动器&lt; /a&gt;
-PowerShellRun 是一个 PowerShell 模块，充当 PowerShell 的应用程序、实用程序和函数启动器。它允许用户轻松模糊搜索和启动应用程序、实用程序和功能。该项目通过提供可定制的启动器选项而脱颖而出，例如启用不同的条目类别，如应用程序、可执行文件、实用程序、收藏夹和功能。用户还可以通过选项自定义按键绑定、主题和行为。该项目还提供了用于交互式终端使用的通用选择器功能。一些限制包括没有历史记录支持以及某些表情符号的潜在渲染问题。该项目欢迎贡献者，并制定了贡献者行为准则。 （根据 94% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/78552</guid>
-      <pubDate>Sun, 10 Mar 2024 00:12:12 GMT</pubDate>
+      <title>[媒体] 在这份时事通讯中，我分享了我如何超越自己以提高工作效率，即使是在周日 [...]</title>
+      <link>https://t.me/hn_summary/78577</link>
+      <description><![CDATA[我超越自己，提高工作效率
+在这篇时事通讯中，我分享了我如何超越自己以提高工作效率，即使是在巴厘岛的周日早上。我谈到了吸引我去工作的上瘾力量，灵感来自 Pieter Levels 和我的朋友 Dan。我在短短 3 天内推出了 PoopUp，并在 24 小时内赚了 922 美元。我讨论了与志同道合的人建立联系并利用我们的社会动力的重要性。我还分享了在短期内设定可控目标如何帮助我保持动力。金钱和认可对我来说是强大的动力，我强调工作获得报酬的重要性。我暂时离开航运初创公司，去从事一个对我来说很重要的项目。]]></description>
+      <guid>https://t.me/hn_summary/78577</guid>
+      <pubDate>Sun, 10 Mar 2024 04:03:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Simply NUC 推出了 Onyx Pro，配备强大的英特尔酷睿 i9 vPRO“Rapto [...]</title>
-      <link>https://t.me/hn_summary/78551</link>
-      <description><![CDATA[SimplyNUC 推出 Onyx Pro：配备 10GbE SFP+ 光纤和双 2.5GbE 端口
-Simply NUC 推出了 Onyx Pro，配备强大的 Intel Core i9 vPRO“Raptor Lake”13900H CPU。该工作站提供 Nvidia T1000、Radeon Pro WX3200 和 Intel Arc A40 显卡的定制选项，满足不同的专业需求。 Onyx Pro v9 拥有双 DDR5-5600 SODIMM，内存高达 96GB，多个 M.2 NVMe SSD 插槽，支持高达 8TB 的存储空间，以及频率高达 1.50 GHz 的 Intel Iris Xe 显卡。 Onyx Pro 具有 10GbE SFP+ 光纤和双 2.5GbE 端口等先进功能，是专业人士的多功能高性能选择。]]></description>
-      <guid>https://t.me/hn_summary/78551</guid>
-      <pubDate>Sun, 10 Mar 2024 00:10:09 GMT</pubDate>
+      <title>Roku TV 用户面临着一项有争议的新用户协议，该协议弹出后没有选项可以关闭 [...]</title>
+      <link>https://t.me/hn_summary/78576</link>
+      <description><![CDATA[如果您不同意公司的规定，Roku TV 将无法使用新条款
+Roku TV 用户面临着一项有争议的新用户协议，该协议弹出后无法关闭或不同意。该协议要求用户同意新的争议解决条款，以防止针对 Roku 采取法律行动，并要求在法院介入之前进行仲裁。虽然其他公司也存在类似的政策，但缺乏退出选项引发了用户的不满。然而，条款中的一个隐藏方法允许用户在 30 天内向加利福尼亚州的 Roku 总法律顾问发送邮件来选择退出。这项新协议对用户使用电视能力的影响引起了人们的担忧和困惑。]]></description>
+      <guid>https://t.me/hn_summary/78576</guid>
+      <pubDate>Sun, 10 Mar 2024 03:37:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《纽约时报》已向 Wordle 克隆 Reactle 发出下架通知，导致 [...]</title>
-      <link>https://t.me/hn_summary/78550</link>
-      <description><![CDATA[纽约时报拆除多米诺骨牌效应袭击了近 2000 个 Wordle 克隆
-《纽约时报》已向 Wordle 克隆版 Reactle 发出下架通知，导致该游戏的近 2000 个其他版本被删除。由 Chase Wackerfuss 创建的 Reactle 允许用户创建 Wordle 衍生产品，从而产生了各种主题版本。 《纽约时报》的 DMCA 通知称这些克隆侵犯了他们的版权，促使 Github 删除所有相关项目。此次打击行动是在《纽约时报》于 2022 年收购 Wordle 以及之前针对 Wordle Archive 采取的行动之后进行的。这场争议凸显了根据热门游戏创建和发行衍生游戏所面临的挑战。]]></description>
-      <guid>https://t.me/hn_summary/78550</guid>
-      <pubDate>Sun, 10 Mar 2024 00:08:05 GMT</pubDate>
+      <title>中央情报局 (CIA) 的风险投资公司 In-Q-Tel 模糊了公共部门和私营部门之间的界限 [...]</title>
+      <link>https://t.me/hn_summary/78575</link>
+      <description><![CDATA[In-Q-Tel 代表了公共和私人的危险模糊部门
+中央情报局的风险投资公司 In-Q-Tel 模糊了公共部门和私营部门之间的界限，引发了人们对美国情报界参与 IT 部门的程度的担忧。通过对 Google 和 Facebook 等公司的投资，In-Q-Tel 对数据挖掘技术和生物技术能力的兴趣令人震惊。对包括美国公民在内的互联网用户进行间谍活动的可能性，以及这些合作伙伴关系缺乏透明度，令人不安。中央情报局与新兴科技公司之间的密切关系引发了有关隐私、安全以及此类合作的道德影响的问题，促使人们重新评估 In-Q-Tel 在科技行业中的作用。]]></description>
+      <guid>https://t.me/hn_summary/78575</guid>
+      <pubDate>Sun, 10 Mar 2024 03:04:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
