@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 11 Mar 2024 09:06:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 12:07:44 GMT</lastBuildDate>
+    <item>
+      <title>寻找CCTV软件来替代SwanView</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bc0u43/looking_for_cctv_software_to_replace_swanview/</link>
+      <description><![CDATA[有谁知道我可以用什么好的开源闭路电视软件来替代 SwanView 闭路电视系统中使用的糟糕软件。 他们的软件太糟糕了，时间戳无法正确匹配，并且在错误的时间下载视频，所以我想更换它。有人有什么好的建议吗？    由   提交/u/nose_gnome  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bc0u43/looking_for_cctv_software_to_replace_swanview/</guid>
+      <pubDate>Mon, 11 Mar 2024 11:20:02 GMT</pubDate>
+    </item>
     <item>
       <title>是否会分析更多的人工智能系统？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bby5bn/will_more_ai_systems_be_analyzed/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[r/dotnet 社区大家好！&lt; /p&gt; 我想分享一个我长期以来一直热衷的项目，该项目完全用 .NET 构建。它称为 musoq，允许在不同的数据源上使用 SQL 语法。我很乐意邀请​​您访问我的项目的 GitHub 个人资料以进一步探索它。我们将非常感谢您的反馈和建议。最近，我又采取了一步来降低进入门槛，准备了一个 CLI 工具来轻松使用该项目。 在我继续改进该项目时，您对该项目的指导、想法和想法对我来说非常宝贵。 。非常感谢您抽出宝贵的时间，即使只是阅读这篇文章:)   由   提交 /u/Puchaczov   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1barbdz/seeking_feedback_for_my_project/</guid>
       <pubDate>Sat, 09 Mar 2024 20:28:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>只是另一个 android 库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1baq8x7/just_another_android_library/</link>
-      <description><![CDATA[       由   提交 /u/Junior_Mushroom8983   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1baq8x7/just_another_android_library/</guid>
-      <pubDate>Sat, 09 Mar 2024 19:43:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
