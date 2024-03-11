@@ -4,7 +4,21 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 11 Mar 2024 00:17:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 03:06:22 GMT</lastBuildDate>
+    <item>
+      <title>对编辑卷轴的看法 - 潜在工作</title>
+      <link>https://www.reddit.com/r/editors/comments/1bbremd/opinion_on_editor_reel_potential_jobs/</link>
+      <description><![CDATA[我很好奇大公司/制作公司的编辑/制片人对我 17 年的经历有什么看法？时长 4-5 分钟，在 Vimeo 上播放。我仍然在一家小型制作公司全职工作，该公司与大型网络签订合同，但我很好奇，如果我想转向更大的公司，您认为我应该在哪里申请这样的卷轴。 我在网上查看了方式，但在亚马逊、Netflix、所有大型网络等上看不到很多帖子……但也许如果有人观看了这个卷轴并对什么可能是一条伟大的道路有意见或指示。在这里有 17 年全职经验。但肯定想申请年薪13万以上的工作。感觉我是一个超级技术/创意编辑，所以它是一个独角兽类型的东西？ https://vimeo .com/386395483?share=copy ​   由   提交 /u/editorvikas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bbremd/opinion_on_editor_reel_potential_jobs/</guid>
+      <pubDate>Mon, 11 Mar 2024 01:42:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>购买一台新 PC 以 60 FPS 进行 4K 编辑</title>
+      <link>https://www.reddit.com/r/editors/comments/1bbqx9z/getting_a_new_pc_for_editing_in_4k_at_60_fps/</link>
+      <description><![CDATA[这台电脑足以编辑 4K 的 YouTube 视频吗？我的预算不多，但规格如下： R5-5600（6 核 12 线程）CPU 主板：技嘉 B450M-K &lt; p&gt;内存：Python D4/3200 32GB 显卡：技嘉RTX2060 6GB（保固至2024/9） 硬盘：DecaCerium M.2 512GB SSD（5年保固） ) 硬盘：1TB HDD 使用 DaVinci Resolve  欢迎任何反馈或建议！   由   提交/u/ferdi_nand_k   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bbqx9z/getting_a_new_pc_for_editing_in_4k_at_60_fps/</guid>
+      <pubDate>Mon, 11 Mar 2024 01:19:46 GMT</pubDate>
+    </item>
     <item>
       <title>调整层问题（发疯了）</title>
       <link>https://www.reddit.com/r/editors/comments/1bbjygz/adjustment_layer_issues_going_crazy/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[您好！ 我目前是一家制作公司的 A.E.，我们在满足隔行扫描的 QC 标准方面遇到了困难我们正在向客户提供一些电视节目的片段进行广播。 因此，这是规格摘要： 我们需要提供最终交付具有这些规格  编解码器 - DVCPRO HD 108i60 包装器 - Quicktime Selfcontained 帧速率 - 29.97 fps 分辨率 - 1280x1080本机 扫描 - 隔行扫描 主场 - 上场 视频比特率 - 100-120 Mbps  我们使用这些规格在R3D Raptor上拍摄。它以23.97 fps 逐行扫描拍摄。 我们在 Premiere Pro 2023 上进行编辑。我们使用 R3D RAW 进行在线编辑23.97 序列上的素材。然后我们在 ProRes 422 HQ 中为调色师进行了渲染，仍然是 23.97，以便他们在 DaVinci 中工作。我们在 Avid DNxHR 23.97 中得到了它。 在这里，我们决定将其放在 24 fps 序列上，为隔行扫描做好准备，并制作我们的最终渲染为 DVCPRO HD。 这些是该序列的设置。 从这里我们使用 这些设置。 QC 告诉我们，我们的镜头呈现“阻塞”状态。如此处所示，当查看使用“剪辑中的新序列”制作的序列上的渲染时，从 Premiere 中的节目监视器显示上场优先。 只有从一个镜头过渡到另一个镜头时才会明显。 此外，我们正在讨论是否会出现这种情况此处，同时使用两个字段进行监控是正常的。与上面的示例一样，仅在从一个镜头到另一个镜头的过渡帧上才明显。 作为一个长镜头，在尝试不同方法来避免这些伪像时，我们：  使用这些设置对 DVCPRO HDi60 序列上的颜色传递进行去隔行处理，然后再次在 DVCPRO HD 上进行渲染（这是同事的建议）。 我们是否使用 DVCPRO 在原始 23.97 fps 在线编辑序列上进行渲染高清设置。这是使用 R3D RAW 素材。 我们是否对使用 DVCPRO HD 设置的 23.97 fps 颜色获得的原始文件进行渲染。  这些显示了与以前相同的工件。 在此过程中为使我们的材料符合广播标准而提供的任何帮助或指导将不胜感激。谢谢！   由   提交 /u/KubrickStared   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ba936n/trouble_with_broadcast_delivery_parameters_dvcpro/</guid>
       <pubDate>Sat, 09 Mar 2024 04:32:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>片场摄像机社交媒体安全区指南</title>
-      <link>https://www.reddit.com/r/editors/comments/1ba1ir3/social_media_safe_zone_guide_for_cameras_on_set/</link>
-      <description><![CDATA[有人知道可以提供指导的摄像机/监视器现场工具吗？我曾经用胶带粘住相机显示屏，但这是一个不完美的解决方案。 ng 技巧，使镜头很好地适合安全区域，并为文本留出空间。您可以告诉制片人/导演/摄影指导拍摄比他们习惯的更宽的次数的次数有限。 有人知道可以提供指导的摄像机/监视器的现场工具吗？我曾经用胶带粘住相机显示屏，但这是一个不完美的解决方案。 ng 技巧，使镜头很好地适合安全区域，并为文本留出空间。你只能告诉制片人/导演/摄影指导拍摄比他们习惯的更宽的次数。   由   提交 /u/toastedonry   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ba1ir3/social_media_safe_zone_guide_for_cameras_on_set/</guid>
-      <pubDate>Fri, 08 Mar 2024 22:36:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[咆哮] 在我处理这个最新项目时 Premiere 崩溃的原因列表</title>
-      <link>https://www.reddit.com/r/editors/comments/1b9u8z9/rant_a_list_of_reasons_why_premiere_has_crashed/</link>
-      <description><![CDATA[ 我尝试在观看剪辑时更改音量 我创建了多机位剪辑 我打开了项目 我关闭了项目 我将渲染发送到媒体编码器 我尝试使用“导入”命令导入媒体 &lt; li&gt;我更改了工作区 我更改了剪辑的名称 太阳耀斑将 0 更改为 1 我打喷嚏太大声 &lt; li&gt;鼠标移动太快 打开firefox 更改了Windows声音输出 更改了Windows声音输入 一只蝴蝶扇动翅膀&lt; /li&gt; 试图挽救项目 Premiere 听到我大声说话    由   提交 /u/SlimySquid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b9u8z9/rant_a_list_of_reasons_why_premiere_has_crashed/</guid>
-      <pubDate>Fri, 08 Mar 2024 17:46:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
