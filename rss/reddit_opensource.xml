@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 12 Mar 2024 09:07:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 12:07:39 GMT</lastBuildDate>
+    <item>
+      <title>VLC 下载量突破 50 亿次，准备 Vision Pro 应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bcvndv/vlc_surpasses_five_billion_downloads_preps_vision/</link>
+      <description><![CDATA[   /u/SvensKia  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bcvndv/vlc_surpasses_five_billion_downloads_preps_vision/</guid>
+      <pubDate>Tue, 12 Mar 2024 12:06:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用多个引擎进行搜索</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bcuns2/search_with_multiple_engines/</link>
+      <description><![CDATA[ 由   提交/u/recovo_recovo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bcuns2/search_with_multiple_engines/</guid>
+      <pubDate>Tue, 12 Mar 2024 11:10:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>8 个开源第二大脑知识库工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bctuzf/8_open_source_second_brain_knowledge_base_tools/</link>
+      <description><![CDATA[   /u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bctuzf/8_open_source_second_brain_knowledge_base_tools/</guid>
+      <pubDate>Tue, 12 Mar 2024 10:20:34 GMT</pubDate>
+    </item>
     <item>
       <title>有没有 FOSS 高尔夫游戏？ （不包括迷你高尔夫游戏）</title>
       <link>https://www.reddit.com/r/opensource/comments/1bcpolg/is_there_any_foss_golf_game_not_including/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[大家好，我们有许多服务器运行 vmware 和 veeam 组合，自从 Broadcom 接管以来，我一直非常热衷于走一条更加开源的路线。我现在已将我的虚拟机管理程序更改为 Proxmox，并且我每月向他们捐款。但是我找不到 Veeam 的任何替代品。  任何建议都会很棒！  干杯   由   提交 /u/ Fiveofknives   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bbx7fj/veeam_open_source_alternative/</guid>
       <pubDate>Mon, 11 Mar 2024 07:05:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>愿你的CSS永远兼容！ - VScode 扩展</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bbw9iz/may_your_css_be_forever_compatible_vscode/</link>
-      <description><![CDATA[大家好， 令人兴奋的消息！我为 Visual Studio Code 开发了一个方便的工具，可以轻松检查 CSS 兼容性。此扩展提供有关语法、关键字、类型和函数兼容性的即时反馈。它甚至突出显示了已弃用的、非标准的和实验性的功能。您可以从 Visual Studio Code Marketplace 下载该扩展：https://marketplace.visualstudio.com/items?itemName=vivek9patel.vscode-css-compatibility 前往 GitHub 存储库：https://github.com/vivek9patel/vscode-css-compatibility 快乐编码！ &lt; !-- SC_ON --&gt;  由   提交 /u/vivek9patel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bbw9iz/may_your_css_be_forever_compatible_vscode/</guid>
-      <pubDate>Mon, 11 Mar 2024 06:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我自己的音乐流媒体提供服务</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bbonzj/serving_my_own_music_streamer/</link>
-      <description><![CDATA[标题说明了一切。你们中有人有使用开源媒体流媒体播放自己的音乐文件的经验吗？ 我已经不再使用流媒体服务，我将开始存储我的 CD 收藏。您建议使用哪种具有适用于 IOS 和 Android 的可靠 UI 的自托管流媒体？ 我唯一的其他要求是它正在积极开发 Android 和 ios 客户端。 任何建议是欢迎。   由   提交/u/financial_pete  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bbonzj/serving_my_own_music_streamer/</guid>
-      <pubDate>Sun, 10 Mar 2024 23:35:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>完全控制您的 Discord Rich Presence</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bbebqd/take_full_control_of_your_discord_rich_presence/</link>
-      <description><![CDATA[编写了一个简单的 python 脚本，允许您使用 Discord 允许我们使用的所有配置功能来完全控制您的 Discord Rich Presence。您可以在终端内运行脚本，也可以直接使用最新版本中包含的编译后的可执行文件运行它。祝您玩得开心！ https://github.com/ThatSINEWAVE/Discord-Rich-Presence   由   提交 /u/MonsterDavidOFFICIAL   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bbebqd/take_full_control_of_your_discord_rich_presence/</guid>
-      <pubDate>Sun, 10 Mar 2024 16:27:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
