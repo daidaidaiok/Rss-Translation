@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 16 Mar 2024 08:32:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 14:51:31 GMT</lastBuildDate>
     <item>
-      <title>在这篇引人入胜的文章中，Susam Pal 介绍了一个 12 字节 x86 机器代码程序，当 [...]</title>
-      <link>https://t.me/hn_summary/79657</link>
-      <description><![CDATA[自动打印机器代码 (2005)
-在这篇引人入胜的文章中，Susam Pal 介绍了一个 12 字节 x86 机器代码程序，该程序在 DOS 环境中执行时，会将自身的副本写入标准输出。该程序可以在MS-DOS 6.22、Windows 98和DOSBox中成功运行。通过详细的演示和反汇编，帕尔探索了该程序的内部工作原理，并提出了关于它是否符合奎因的有趣问题。本文深入探讨了定义机器代码 quine 的复杂性，并对构成正确 quine 的传统概念提出了挑战。这种对自我复制代码发人深省的探索为编程概念提供了独特的视角。 （根据故事文本的 25% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/79657</guid>
-      <pubDate>Sat, 16 Mar 2024 08:32:04 GMT</pubDate>
+      <title>欢迎来到 archive.org 上的“Thebroken (2003)”！</title>
+      <link>https://t.me/hn_summary/79698</link>
+      <description><![CDATA[破碎 (2003)
+欢迎来到 archive.org 上的“Thebroken (2003)”！这个独特的网站提供了一系列发人深省的内容，挑战传统规范并突破界限。以全新的视角探讨有争议的话题，引发对话并鼓励批判性思维。该网站拥有 16,701 次浏览和 13 个收藏，对其受众产生了影响。潜入“Thebroken (2003)”的世界，发现一些令人惊讶、独特且聪明的东西，让您对现状产生质疑。立即探索内容并加入对话！]]></description>
+      <guid>https://t.me/hn_summary/79698</guid>
+      <pubDate>Sat, 16 Mar 2024 14:51:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Fable 的 AI 模拟平台为创作者、研究人员和 AI 爱好者提供了意想不到的 [...]</title>
-      <link>https://t.me/hn_summary/79656</link>
-      <description><![CDATA[80级：角色自己做决定的AI模拟平台
-Fable 的 AI 模拟平台通过强大的 Python API 为创作者、研究人员和 AI 爱好者提供前所未有的叙事和角色交互控制。加入测试版以帮助开发和了解 AI 行为。该团队寻找讲故事的人、作家、人工智能爱好者、研究人员、教育工作者、学生、游戏设计师、开发人员等。立即申请并加入 80 Level Talent 平台和 Telegram 频道，了解最新新闻、故障、艺术品等。在 Instagram、Twitter 和 LinkedIn 上关注我们以获取最新动态。利用 Fable 的创新平台探索人工智能决策和对话生成的世界。]]></description>
-      <guid>https://t.me/hn_summary/79656</guid>
-      <pubDate>Sat, 16 Mar 2024 08:12:55 GMT</pubDate>
+      <title>[媒体]欢迎使用 bewCloud，这是 Nextcloud 和 ownCloud 的更简单替代品，用 TypeS 编写 [...]</title>
+      <link>https://t.me/hn_summary/79697</link>
+      <description><![CDATA[显示 HN：BewCloud 是用 TypeScript 编写的 Nextcloud 的更简单替代方案&lt; /a&gt;
+欢迎使用 bewCloud，这是 Nextcloud 和 ownCloud 的更简单的替代品，用 TypeScript 和 Deno 编写。名称“bew”是“web”的倒转，类似于“deno”是“node”的倒转。创建者 Bruno 对现有云平台的资源密集型感到沮丧，并决定构建自己的解决方案。虽然他承认前面的任务艰巨，但他致力于使 bewCloud 成为一个永无止境的项目，让他和他的家人受益。如果您发现 bewCloud 有用，您可以在 GitHub 上做出贡献或进行捐赠。在社交媒体上随时关注布鲁诺每月 1 分钟的更新。]]></description>
+      <guid>https://t.me/hn_summary/79697</guid>
+      <pubDate>Sat, 16 Mar 2024 14:44:56 GMT</pubDate>
     </item>
     <item>
-      <title>在《自然》杂志上发表的一项开创性研究中，研究人员发现脑电波 [...]</title>
-      <link>https://t.me/hn_summary/79655</link>
-      <description><![CDATA[脑电波似乎可以在睡眠期间冲走废物&lt; br/&gt;
-在《自然》杂志上发表的一项开创性研究中，研究人员发现脑电波在睡眠期间大脑的自我清洁过程中发挥着至关重要的作用。通过观察睡眠小鼠的神经元，研究人员发现这些波起到协调泵的作用，通过脑组织冲洗脑脊液，清除废物和毒素。当大脑的某些区域被静音以阻止波浪时，液体就失去了流动能力，留下了有害的碎屑。这一发现对阿尔茨海默氏症和帕金森氏症等神经系统疾病具有重要意义，这些疾病中废物的积累可能导致神经退行性变。这项研究为睡眠对维持大脑健康的重要性提供了新的认识。]]></description>
-      <guid>https://t.me/hn_summary/79655</guid>
-      <pubDate>Sat, 16 Mar 2024 07:14:05 GMT</pubDate>
+      <title>[媒体]前人质朱迪思·拉南 (Judith Raanan) 描述了当哈马斯带来 [...]</title>
+      <link>https://t.me/hn_summary/79696</link>
+      <description><![CDATA[人质被释放：加沙医院工作人员在我们被带入时欢呼
+前人质朱迪思·拉南 (Judith Raanan) 描述了哈马斯从纳哈尔奥兹基布兹 (Kibbutz Nahal Oz) 绑架后，医院工作人员将他们带入医院时的欢呼声。尽管是美国人，他们仍被视为以色列的猎物。采访者对护士们的反应感到震惊，但朱迪思解释说，他们可能害怕护士长。这与哈马斯声称不在医院开展业务的说法相矛盾。朱迪思还提到，她曾多次搬迁，并有一栋建筑被以色列火箭摧毁。以色列记者什洛米·埃尔达尔强调了哈马斯领导人叶海亚·辛瓦尔自 2014 年以来通过洗脑活动任命支持人员的影响。]]></description>
+      <guid>https://t.me/hn_summary/79696</guid>
+      <pubDate>Sat, 16 Mar 2024 14:40:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Rust 编译的哪一部分是瓶颈？</title>
-      <link>https://t.me/hn_summary/79654</link>
-      <description><![CDATA[Rust 编译的哪一部分是瓶颈？&lt; br/&gt;
-作者探讨了 Rust 编译时间这一主题，并确定了该过程中的潜在瓶颈。通过分析基准实验的数据，他们将编译分解为前端、后端和链接器部分。令人惊讶的是，他们发现瓶颈可能会根据编译的是二进制文件还是库而有所不同。作者建议改进后端和链接器可以提高编译速度，特别是对于交互式开发周期。虽然编译缓慢的确切原因可能有所不同，但了解时间花在哪里可以帮助优化编译时间。作者还提供了一个工具cargo-wizard，用于更快的编译配置。]]></description>
-      <guid>https://t.me/hn_summary/79654</guid>
-      <pubDate>Sat, 16 Mar 2024 06:43:53 GMT</pubDate>
+      <title>[媒体]微控制器可能不是计算机，但它们可以模仿 ZX Sp 等旧系统 [...]</title>
+      <link>https://t.me/hn_summary/79695</link>
+      <description><![CDATA[用于 Arduino Uno 游戏引擎的新 Manic Miner 端口
+微控制器可能不是计算机，但它们可以模仿 ZX Spectrum 等旧系统。 Scott Porter 为 Arduino Uno 创建了一个游戏引擎，可以运行经典游戏 Manic Miner。这款平台游戏最初于 20 世纪 80 年代发布，现已通过单色图形和像素完美的碰撞检测进行了忠实地重新创建。游戏引擎可以处理滚动背景和屏幕上的多个精灵，同时保持固定的帧速率。波特移植的 Manic Miner 包括全部 20 个原始关卡、特殊 Boss，甚至持续高分。这款 Arduino Uno 游戏引擎配有用于连接的定制 PCB 屏蔽和 NES 控制器端口，是一个独特且令人印象深刻的项目。]]></description>
+      <guid>https://t.me/hn_summary/79695</guid>
+      <pubDate>Sat, 16 Mar 2024 14:37:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我们在乌克兰所相信的国际法在哪里？</title>
-      <link>https://t.me/hn_summary/79653</link>
-      <description><![CDATA[我们在乌克兰相信的国际法在哪里？ 
-在这篇发人深省的文章中，作者反思了乌克兰危机背景下国际法的现状。作者强调了乌克兰人民的韧性和他们面临的挑战，深入研究了乌克兰正在打的四场战争——动能战争、网络战争、法律战争和意识形态战争。这篇文章还探讨了乌克兰应对俄罗斯侵略的大战略，重点关注信息、非法、孤立、外交和问责。作者通过个人轶事和法律分析，生动地描绘了乌克兰局势的复杂性和细微差别，并对国际法在危机时期的作用提出了重要问题。 （根据故事文本的 58% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/79653</guid>
-      <pubDate>Sat, 16 Mar 2024 06:27:45 GMT</pubDate>
+      <title>芯片电源价格的上涨是当今业界的一个主要问题，与热量相关的 [...]</title>
+      <link>https://t.me/hn_summary/79694</link>
+      <description><![CDATA[芯片电源价格上涨
+芯片电源价格的上涨是当今业界的一个主要问题，与热量相关的问题主导着芯片和系统设计。晶体管密度带来了需要整个行业解决的新问题，电力传输方法迅速变化以满足不断增长的电力需求。散热问题会影响芯片的使用寿命和性能，给硬件工程师带来共同的噩梦。随着芯片演变成小芯片的集合，新的挑战出现了，例如热梯度和介电薄膜的击穿。设计周期和硬件软件协同设计的效率对于解决这些复杂的电源问题至关重要。 （根据 56% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/79694</guid>
+      <pubDate>Sat, 16 Mar 2024 14:35:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] MO|为什么需要随机播放支持？</title>
-      <link>https://t.me/hn_summary/79652</link>
-      <description><![CDATA[MO|为什么需要随机播放支持？
-在本文中，我们深入探讨了数据处理中 shuffle 支持的重要性。 shuffle算法在优化内存分配、增强水平可扩展性、提高整体性能方面发挥着至关重要的作用。通过将大型哈希表拆分为较小的哈希表，shuffle 可以实现更高效的处理并降低内存分配失败的可能性。探讨了 shuffle 的实现原理，包括 range 和 hash shuffle，揭示了数据如何跨计算节点分布和处理。本文详细介绍了 shuffle 运算符及其功能，让您全面了解为什么 shuffle 支持在数据处理管道中至关重要。]]></description>
-      <guid>https://t.me/hn_summary/79652</guid>
-      <pubDate>Sat, 16 Mar 2024 06:07:33 GMT</pubDate>
+      <title>Apple 推出了 MM1，这是一种突破性的多模态大型语言模型，集成了文本 [...]</title>
+      <link>https://t.me/hn_summary/79693</link>
+      <description><![CDATA[Apple 推出 MM1：多模态 AI 与 ChatGPT 竞争&lt; br /&gt;
+Apple 推出了 MM1，这是一种突破性的多模式大型语言模型，能够以卓越的效率集成文本和图像数据。该模型擅长少样本学习，能够以最少的示例掌握对象计数和基于图像的问答等任务。该研究强调了数据选择和培训方法对于实现顶级结果的重要性。 MM1 的可扩展性、先进的上下文学习和多图像推理功能使其在人工智能领域脱颖而出。与 ChatGPT 竞争时，MM1 能够解释视觉数据和文本，这使其成为一个强大的竞争者。 Apple 发布的 MM1 为未来的 MLLM 铺平了道路，挑战了当前的模型并吸引了 AI 技术的创新。]]></description>
+      <guid>https://t.me/hn_summary/79693</guid>
+      <pubDate>Sat, 16 Mar 2024 14:32:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果研究人员在多模态 AI 领域取得了重大突破，将文本与 [...]</title>
-      <link>https://t.me/hn_summary/79651</link>
-      <description><![CDATA[苹果研究人员在多模态 AI 领域取得突破
-苹果研究人员在多模式人工智能方面取得了重大突破，将文本和图像结合起来创建了强大的人工智能系统。 MM1 模型在各种基准测试中展示了令人印象深刻的几次结果，展示了大型多模态模型解决复杂问题的潜力。苹果在人工智能开发上投资数十亿美元旨在赶上谷歌和微软等竞争对手。该公司正致力于将生成式人工智能功能集成到 Siri 和 Apple Music 等产品中。人工智能军备竞赛的高风险促使苹果保持竞争力，即将召开的全球开发者大会预计将推出新的人工智能功能。苹果在人工智能领域的雄心勃勃的努力表明了其对塑造人工智能技术未来的承诺。]]></description>
-      <guid>https://t.me/hn_summary/79651</guid>
-      <pubDate>Sat, 16 Mar 2024 05:18:15 GMT</pubDate>
+      <title>这个周末我参加了 LaSalle Bank Shamrock Shuffle 8K，这是一场有超过 30 名参赛者的大型比赛，[...]</title>
+      <link>https://t.me/hn_summary/79692</link>
+      <description><![CDATA[慢跑礼仪
+这个周末我参加了 LaSalle Bank Shamrock Shuffle 8K，这是一场有超过 30,000 名跑步者参加的大型比赛。在如此拥挤的活动中慢跑可能具有挑战性，因此我整理了一个由三部分组成的慢跑礼仪系列，以帮助最大程度地减少对慢跑的负面影响。开始时，在正确的位置排队至关重要 - 了解您的步速并相应地定位自己。避开中间，以防止掉球时发生任何事故，并始终注意其他跑步者的飞行装备。请继续关注第二部分，我们将深入研究比赛期间的慢跑礼仪。]]></description>
+      <guid>https://t.me/hn_summary/79692</guid>
+      <pubDate>Sat, 16 Mar 2024 14:22:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 订阅我们的 RSS 源，了解 Apple 的最新动态。</title>
-      <link>https://t.me/hn_summary/79650</link>
-      <description><![CDATA[Apple RSS 源
-订阅我们的 RSS 源，了解 Apple 的最新动态。从 iTunes Store、Apple 新闻中心和 Apple 开发者新闻获取最新消息，以及即将上映的电影预告片的更新。将所有这些信息直接接收到您的网络浏览器或新闻阅读器，以便于访问。立即订阅，随时了解 Apple 提供的一切信息并保持联系。]]></description>
-      <guid>https://t.me/hn_summary/79650</guid>
-      <pubDate>Sat, 16 Mar 2024 04:39:01 GMT</pubDate>
+      <title>[媒体] 在本文中，作者探索了使用 Google 项目中的 DOM 模糊器“Domato”[...]</title>
+      <link>https://t.me/hn_summary/79691</link>
+      <description><![CDATA[使用 Google Project Zero 的工具模糊化 Ladybird
+标题：使用 Google Project Zero 的工具模糊 Ladybird
+摘要：
+在本文中，作者探讨了使用 Google Project Zero 的 DOM 模糊器“Domato”对网络内容工具 Ladybird 进行压力测试。作者发现了几个问题，包括空指针取消引用和关于 HTML 元素的错误假设。它们还解决了事件处理程序和 SVG 渐变的问题，强调了处理意外输入的重要性。本文最后反思了模糊器在提高软件安全性以及查找和修复错误的满意度方面的价值。作者对 Ladybird 漏洞的详细探索为网络内容安全提供了宝贵的见解。 （根据 97% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/79691</guid>
+      <pubDate>Sat, 16 Mar 2024 14:18:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]波音公司建议航空公司检查其 787 梦想客机飞行员座椅上的开关 [...]</title>
-      <link>https://t.me/hn_summary/79649</link>
-      <description><![CDATA[波音公司要求航空公司在轮班导致飞机坠落后检查飞行员座位&lt; /a&gt;
-在南美航空飞往新西兰的航班突然暴跌后，波音公司建议航空公司检查其 787 梦想客机飞行员座椅上的开关。人们从座位上被抛起，导致乘客受伤。据报道，这起事件是由一名空乘人员按下将飞行员移至控制装置的开关引起的。波音公司建议检查开关并禁用座椅电机，这被视为一种预防措施。该事件引起了人们对波音公司安全协议的担忧，加剧了此前发生的涉及波音飞机的事件后的现有审查。智利航空监管机构正在牵头调查此次暴跌原因。]]></description>
-      <guid>https://t.me/hn_summary/79649</guid>
-      <pubDate>Sat, 16 Mar 2024 04:18:53 GMT</pubDate>
+      <title>米西尔卢</title>
+      <link>https://t.me/hn_summary/79690</link>
+      <description><![CDATA[米西鲁
+《Misirlou》是一首流行于东地中海地区的民歌，起源于奥斯曼帝国。自 20 年代以来，阿拉伯、希腊和犹太音乐家一直演奏这首歌。迪克·戴尔 (Dick Dale) 1962 年的冲浪摇滚版本将这首歌引入了西方流行文化，这首歌在全球范围内广受欢迎。这首歌已被多位艺术家录制，并出现在《低俗小说》等电影中。 《Misirlou》的历史和构成很复杂，在不同的文化中有不同的版本和解释。直到今天，这首歌仍然是一首著名的希腊、克莱兹默和阿拉伯民歌。 （根据 90% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/79690</guid>
+      <pubDate>Sat, 16 Mar 2024 13:55:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]道德义愤超载？</title>
-      <link>https://t.me/hn_summary/79648</link>
-      <description><![CDATA[道德义愤超载？社交媒体如何改变我们的大脑 – Hub
-在社交媒体上道德愤怒似乎不断升级的世界里，心理学家莫莉·克罗克特探索了这种现象如何影响我们的大脑。她讨论了道德愤怒的表达如何触发大脑的奖励回路，从而产生积极的强化。随着社交媒体的兴起，在线表达愤怒的风险降低了，而优先考虑情感内容的算法则放大了回报。克罗克特警告说，这种持续的愤怒状态可能会削弱我们实现真正变革的能力。令人惊讶的是，她发现社交媒体公司对她的研究持开放态度，并愿意参与对话以改进平台设计。]]></description>
-      <guid>https://t.me/hn_summary/79648</guid>
-      <pubDate>Sat, 16 Mar 2024 04:11:49 GMT</pubDate>
+      <title>[媒体]为什么没有人就人工智能的危险程度达成一致？</title>
+      <link>https://t.me/hn_summary/79689</link>
+      <description><![CDATA[为什么没有人就人工智能的危险程度达成一致？&lt; /a&gt;
+关于人工智能危险的争论仍在继续，专家和超级预测家对于潜在的灾难性结果存在分歧。预测研究所最近的一项研究深入探讨了这种分歧背后的原因，强调了基本的世界观差异和长期的未来前景。虽然接触新信息并没有显着改变信念，但这项研究揭示了问题的复杂性。该论文提醒人们预测人工智能影响的难度以及围绕其潜在风险的持续争论。]]></description>
+      <guid>https://t.me/hn_summary/79689</guid>
+      <pubDate>Sat, 16 Mar 2024 13:41:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
