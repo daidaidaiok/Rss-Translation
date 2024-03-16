@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 16 Mar 2024 00:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 05:18:15 GMT</lastBuildDate>
     <item>
-      <title>【媒体】现代大众传媒是心灵监狱吗？</title>
-      <link>https://t.me/hn_summary/79612</link>
-      <description><![CDATA[现代大众传媒是一座心灵监狱吗？
-在这篇发人深省的文章中，作者深入探讨了现代大众媒体可能充当精神监狱的想法，孤立个人并推动他们走向以屏幕为中心的生活方式。作者讨论了社会隔离对信仰体系的影响、取消文化的兴起，以及媒体对屏幕的描绘，既危险又令人兴奋。他们认为，真正的改变需要乏味、安静的工作以及与我们可能不同意的人的合作，而不是浮华、戏剧性的行动。作者还暗示了他们即将出版的小说，该小说进一步探讨了这些主题。这是一本具有挑战性和洞察力的读物，质疑媒体在塑造我们社会中的作用。]]></description>
-      <guid>https://t.me/hn_summary/79612</guid>
-      <pubDate>Sat, 16 Mar 2024 00:13:36 GMT</pubDate>
+      <title>[媒体]苹果研究人员在多模态 AI 领域取得了重大突破，将文本与 [...]</title>
+      <link>https://t.me/hn_summary/79651</link>
+      <description><![CDATA[苹果研究人员在多模态 AI 领域取得突破
+苹果研究人员在多模式人工智能方面取得了重大突破，将文本和图像结合起来创建了强大的人工智能系统。 MM1 模型在各种基准测试中展示了令人印象深刻的几次结果，展示了大型多模态模型解决复杂问题的潜力。苹果在人工智能开发上投资数十亿美元旨在赶上谷歌和微软等竞争对手。该公司正致力于将生成式人工智能功能集成到 Siri 和 Apple Music 等产品中。人工智能军备竞赛的高风险促使苹果保持竞争力，即将召开的全球开发者大会预计将推出新的人工智能功能。苹果在人工智能领域的雄心勃勃的努力表明了其对塑造人工智能技术未来的承诺。]]></description>
+      <guid>https://t.me/hn_summary/79651</guid>
+      <pubDate>Sat, 16 Mar 2024 05:18:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Kaldo 是一个允许用户在 Windows 上跨不同 shell 共享别名的工具，[...]</title>
-      <link>https://t.me/hn_summary/79611</link>
-      <description><![CDATA[显示 HN：Kaldo – 跨 Shell 别名
-Kaldo 是一款允许用户在 Windows、Linux 和 macOS 上的不同 shell 之间共享别名的工具。它支持各种 shell，包括 bash、zsh、fish、pwsh 和 powershell。用户可以使用提供的脚本安装 Kaldo 并初始化 shell 插件以开始共享别名。所有别名都存储在 toml 文件中，允许用户定义特定于 shell 和跨 shell 的别名。 Kaldo 还包括自定义组表，以减少类似 shell 之间的重复。该项目的独特之处在于提供了一种简单有效的方法来管理和共享不同 shell 环境中的别名。]]></description>
-      <guid>https://t.me/hn_summary/79611</guid>
-      <pubDate>Sat, 16 Mar 2024 00:04:30 GMT</pubDate>
+      <title>[媒体] 订阅我们的 RSS 源，了解 Apple 的最新动态。</title>
+      <link>https://t.me/hn_summary/79650</link>
+      <description><![CDATA[Apple RSS 源
+订阅我们的 RSS 源，了解 Apple 的最新动态。从 iTunes Store、Apple Newsroom 和 Apple Developer News 获取最新消息，以及即将上映的电影预告片的更新。将所有这些信息直接接收到您的网络浏览器或新闻阅读器，以便于访问。立即订阅，随时了解 Apple 提供的一切信息并保持联系。]]></description>
+      <guid>https://t.me/hn_summary/79650</guid>
+      <pubDate>Sat, 16 Mar 2024 04:39:01 GMT</pubDate>
     </item>
     <item>
-      <title>作者讨论了自动内存管理、标准库、[...]</title>
-      <link>https://t.me/hn_summary/79610</link>
-      <description><![CDATA[Zig、Rust 和其他语言
-作者讨论了 Zig、Rust、Go 和 C 等编程语言中的自动内存管理、标准库和显式分配等常见主题。他们强调了每种语言的优缺点，强调了这些选择在塑造系统编程的未来。作者根据构建分布式数据库的经验表达了个人观点，并指出了标准库大小对依赖管理的影响。他们还谈到了 Zig 中显式分配的好处以及未来语言发展的潜力。作者最后鼓励读者使用他们喜欢的语言，并分享了他们使用 Postgres C 以及 Rust 和 Zig 扩展的积极经验。]]></description>
-      <guid>https://t.me/hn_summary/79610</guid>
-      <pubDate>Fri, 15 Mar 2024 23:58:56 GMT</pubDate>
+      <title>[媒体]波音公司建议航空公司检查其 787 梦想客机飞行员座椅上的开关 [...]</title>
+      <link>https://t.me/hn_summary/79649</link>
+      <description><![CDATA[波音公司要求航空公司在轮班导致飞机坠落后检查飞行员座位&lt; /a&gt;
+在南美航空飞往新西兰的航班突然暴跌后，波音公司建议航空公司检查其 787 梦想客机飞行员座椅上的开关。人们从座位上被抛起，导致乘客受伤。据报道，这起事件是由一名空乘人员按下将飞行员移至控制装置的开关引起的。波音公司建议检查开关并禁用座椅电机，这被视为一种预防措施。该事件引发了人们对波音公司安全协议的担忧，加剧了此前发生的涉及波音飞机的事件后的现有审查。智利航空监管机构正在牵头调查此次暴跌原因。]]></description>
+      <guid>https://t.me/hn_summary/79649</guid>
+      <pubDate>Sat, 16 Mar 2024 04:18:53 GMT</pubDate>
     </item>
     <item>
-      <title>对于美国的房屋卖家来说是个好消息！</title>
-      <link>https://t.me/hn_summary/79609</link>
-      <description><![CDATA[房地产集团解决诉讼后美国房屋销售费用将下降&lt; /a&gt;
-对于美国的房屋卖家来说是个好消息！该房地产集团已解决诉讼，导致房屋销售费用下降。这项限时优惠可让您在标准数字访问方面节省高达 40% 的费用，让您可以在任何设备上访问高质量的 FT 新闻。立即利用此优惠并随时取消您的订阅续订。不要错过这个节省大量房屋销售费用的机会。]]></description>
-      <guid>https://t.me/hn_summary/79609</guid>
-      <pubDate>Fri, 15 Mar 2024 23:55:51 GMT</pubDate>
+      <title>[媒体]道德义愤超载？</title>
+      <link>https://t.me/hn_summary/79648</link>
+      <description><![CDATA[道德义愤超载？社交媒体如何改变我们的大脑 – Hub
+在社交媒体上道德愤怒似乎不断升级的世界里，心理学家莫莉·克罗克特探索了这种现象如何影响我们的大脑。她讨论了道德愤怒的表达如何触发大脑的奖励回路，从而产生积极的强化。随着社交媒体的兴起，在线表达愤怒的风险降低了，而优先考虑情感内容的算法则放大了回报。克罗克特警告说，这种持续的愤怒状态可能会削弱我们实现真正变革的能力。令人惊讶的是，她发现社交媒体公司对她的研究持开放态度，并愿意参与对话以改进平台设计。]]></description>
+      <guid>https://t.me/hn_summary/79648</guid>
+      <pubDate>Sat, 16 Mar 2024 04:11:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在电解质溶液领域，口服补液盐（ORS [...]</title>
-      <link>https://t.me/hn_summary/79608</link>
-      <description><![CDATA[通过 Brinespace 梯度下降
-在电解质溶液领域，口服补液（ORS）的发现彻底改变了霍乱引起的严重脱水的治疗。其有效性的关键在于水、电解质和糖的精确组合，因为钠只有与葡萄糖配对时才能在肠道中被吸收。然而，错误的混合可能会带来灾难性的后果，正如导致患者死亡的失败实验所见。盐水空间的概念，其中电解质溶液可以表示为点，为各种流行饮料及其成分提供了独特的视角。还探讨了不同盐水组合的潜在健康益处，例如用于减肥的高钾溶液。 （根据故事文本的 39% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/79608</guid>
-      <pubDate>Fri, 15 Mar 2024 23:54:18 GMT</pubDate>
+      <title>[媒体]DuckDB 是一个独特的进程内数据库，作为客户端运行，简化了安装 [...]</title>
+      <link>https://t.me/hn_summary/79647</link>
+      <description><![CDATA[使用 DuckDB 的 1.1B 出租车行程
+DuckDB 是一个独特的进程内数据库，作为客户端运行，简化了安装和使用。它由 Mark Raasveldt 和 Hannes Mühleisen 开发，开发活跃，支持 25 种数据类型，比 SQLite 更通用。数据库的最小-最大索引以及对 Parquet 和 JSON 扩展的支持增强了性能。在使用 11 亿次出租车出行的基准测试中，DuckDB 展示了令人印象深刻的速度。作者的高性能工作站（在帖子中详细介绍）促进了这一过程。将海量数据集导入 DuckDB 需要仔细创建表，优化数据类型以提高效率。 DuckDB 的效率、多功能性和性能使其成为数据分析的绝佳选择。 （根据故事文本的 23% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/79647</guid>
+      <pubDate>Sat, 16 Mar 2024 04:10:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Rustonomicon 深入研究了编写不安全 Rust 程序的黑暗艺术，提供了 [...]</title>
-      <link>https://t.me/hn_summary/79607</link>
-      <description><![CDATA[The Rustonomicon – 不安全 Rust 的黑暗艺术
-Rustonomicon 深入研究了编写不安全 Rust 程序的黑暗艺术，提供了有关该语言复杂性的详细信息。它不适合胆小的人，因为它警告释放出难以形容的恐怖，可能会粉碎你的心灵。本书假设读者具备系统编程和 Rust 的先验知识，可作为 The Reference 的高级姊妹篇。涵盖的主题包括（不）安全、不安全原语、异常安全、并发性等等。虽然并不详尽，但 Rustonomicon 为那些希望探索 Rust 编程深度的人提供了宝贵的见解。]]></description>
-      <guid>https://t.me/hn_summary/79607</guid>
-      <pubDate>Fri, 15 Mar 2024 23:53:15 GMT</pubDate>
+      <title>证书颁发机构 Entrust 最近错误颁发了 EV 证书，并拒绝遵循 CA [...]</title>
+      <link>https://t.me/hn_summary/79646</link>
+      <description><![CDATA[Entrust错误颁发证书，拒绝遵循CA/B规则
+证书颁发机构 Entrust 最近错误颁发了 EV 证书，并拒绝遵守 CA/B 规则，没有停止主动错误颁发，也没有提交未能撤销事件。尽管基线要求的语言存在错误，Entrust 选择忽略这些规则。此事件凸显了扩展验证证书的破坏性质以及它们对网络构成的潜在安全风险。发行过程缺乏自动化以及浏览器无法执行 CA 和浏览器制定的规则可能会导致网络灾难。严格执行规则和限制对于防止像 DigiNotar 这样的过去事件重演是必要的。]]></description>
+      <guid>https://t.me/hn_summary/79646</guid>
+      <pubDate>Sat, 16 Mar 2024 04:08:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]中国有组织犯罪已经占领了美国大部分非法大麻市场， [...]</title>
-      <link>https://t.me/hn_summary/79606</link>
-      <description><![CDATA[中国有组织犯罪如何主导美国非法大麻市场 
-中国有组织犯罪已经占领了美国大部分非法大麻市场，暴力冲突和犯罪活动主导了该行业。中国黑帮在俄克拉荷马州等州的崛起导致非法大麻生产、贩运和洗钱活动激增。中国黑手党参与大麻贸易对国家安全构成重大威胁，可能与中国共产党和间谍活动有联系。随着联邦优先事项的转变和资源的减少，执法部门正在努力应对这种多方面的威胁。中国有组织犯罪与大麻产业的交叉揭示了一个在暗处运作的复杂而危险的黑社会。 （根据故事文本的 31% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/79606</guid>
-      <pubDate>Fri, 15 Mar 2024 23:42:07 GMT</pubDate>
+      <title>[媒体]在这篇文章中，我们探讨了奥维德的木星神话和塞墨勒之间的相似之处[...]</title>
+      <link>https://t.me/hn_summary/79645</link>
+      <description><![CDATA[Ovid 的 macOS 神话：密码输入对话框和 Semele 之死&lt; /a&gt;
+在本文中，我们探讨了奥维德的木星和塞墨勒神话与当前 macOS 密码输入对话框之间的相似之处。塞墨勒挑战朱庇特的真实身份并导致她被雷击身亡的故事反映了虚假密码对话的潜在危险。本文讨论了改进 macOS 对话框安全措施的必要性，并与神话故事进行了比较。 Touch ID 等生物特征认证的使用被认为是一种更安全、更方便的替代方案。本文最后对 macOS 安全性的未来进步表示认可，并承诺将进行更多神话般的艺术分析。]]></description>
+      <guid>https://t.me/hn_summary/79645</guid>
+      <pubDate>Sat, 16 Mar 2024 04:05:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]德克萨斯州农民正在与废物管理巨头 Synagro 就 PFAS-cont 进行法律斗争 [...]</title>
-      <link>https://t.me/hn_summary/79605</link>
-      <description><![CDATA[德克萨斯州农民称公司向他们出售含有 PFAS 的污泥，导致牲畜死亡
-得克萨斯州的农民正在与废物管理巨头 Synagro 就将受 PFAS 污染的污水污泥作为肥料出售进行法律斗争，导致农民患病、牲畜死亡、水污染和肉类污染。 PFAS 是与严重健康问题相关的“永远的化学物质”。生物固体使全国农民患病，缅因州在发现受污染的农作物后禁止使用生物固体。美国环保局正在调查这种做法的安全性。针对 Synagro 的诉讼称该公司知道污染情况。由于缺乏法规，刑事案件可能会很困难，但使用不受管制的物质毒害食物、水或环境可能会承担刑事责任。此案只是更大问题的开始。]]></description>
-      <guid>https://t.me/hn_summary/79605</guid>
-      <pubDate>Fri, 15 Mar 2024 23:41:03 GMT</pubDate>
+      <title>[媒体]语音AI管道平台是一场逐底竞赛吗？</title>
+      <link>https://t.me/hn_summary/79644</link>
+      <description><![CDATA[语音 AI 管道平台是一场逐底竞争吗？
+语音人工智能领域正在迅速发展，平台为开发人员提供了便捷的管道。然而，由价格驱动的逐底竞争趋势正在出现，令人担忧。最近的一次经历凸显了这些平台的商品化，其中定价成为主要的差异化因素。缺乏定制和“一刀切”也是一个问题。尽管在具有竞争力的定价方面取得了初步成功，但平台应专注于开发定制功能和创新的货币化策略。通过利用用户洞察并不断完善产品，语音人工智能平台可以将自己定位为企业的主要收购目标。这就提出了一个问题：这是一场逐底竞争，还是一个增长和创新的机会？]]></description>
+      <guid>https://t.me/hn_summary/79644</guid>
+      <pubDate>Sat, 16 Mar 2024 03:57:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]由于苹果缺乏研究，Spotify 在欧盟的 iPhone 应用程序更新面临延迟 [...]</title>
-      <link>https://t.me/hn_summary/79604</link>
-      <description><![CDATA[Spotify 表示其在欧盟的 iPhone 应用程序更新受到阻碍苹果
-由于苹果公司没有遵守允许在应用程序中提供订阅定价信息的裁决，Spotify 在欧盟的 iPhone 应用程序更新面临延迟。尽管欧盟委员会对苹果公司处以 20 亿美元的罚款，但 Spotify 试图包含定价信息和订阅链接的尝试却遭到了苹果公司的阻挠。 Spotify 指责苹果故意推迟或逃避合规，敦促欧盟委员会进行干预。这场争议凸显了科技巨头与欧盟监管机构之间持续的权力斗争，苹果的行为受到密切关注。]]></description>
-      <guid>https://t.me/hn_summary/79604</guid>
-      <pubDate>Fri, 15 Mar 2024 23:39:58 GMT</pubDate>
+      <title>[媒体] 事情发生了令人惊讶的转变，一位名叫 Lord Nazo（又名 Nicholas Minor）的 YouTuber 推出了 [...]</title>
+      <link>https://t.me/hn_summary/79643</link>
+      <description><![CDATA[YouTube 用户应对针对 Bungie 的虚假 DMCA 通知“宣传活动”负责
+令人惊讶的是，一位名叫 Lord Nazo（又名 Nicholas Minor）的 YouTuber 发起了一场针对流行视频游戏开发商 Bungie 的虚假 DMCA 通知“宣传活动”。 Bungie 发起了一项令人印象深刻的调查，并成功确定 Minor 为罪魁祸首，并引发诉讼，要求赔偿 765 万美元。 Minor承认有过错，但声称不知道所造成的损害。在最近的一份判决中，法院做出了对 Bungie 有利的裁决，称 Minor 故意发布了欺诈通知。此案还远未结束，损害赔偿、费用和其他索赔仍悬而未决。 Bungie 毫不留情，结果仍不确定。]]></description>
+      <guid>https://t.me/hn_summary/79643</guid>
+      <pubDate>Sat, 16 Mar 2024 03:50:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作为一家 SaaS 初创公司的 CTO，我采取了一个大胆的举措，将裸机服务器纳入 [...]</title>
-      <link>https://t.me/hn_summary/79603</link>
-      <description><![CDATA[Hathora 的裸机之旅
-作为一家 SaaS 初创公司的首席技术官，我采取了一项大胆举措，将裸机服务器纳入我们的平台，事实证明，这一决定是我们做出的最雄心勃勃、最具影响力的决定。虽然云计算是大多数应用程序的常态，但裸机在基于会话的游戏服务器托管中表现出色，可显着节省成本。通过将裸机与云技术相结合，我们在满足不同玩家需求方面取得了最佳效果。我们的裸机之旅涉及从顶级供应商租用硬件、评估性能以及使用 Talos Linux 实施容器编排。裸机的结合使我们能够节省成本并为客户提供新的企业层。更多产品创新敬请期待！]]></description>
-      <guid>https://t.me/hn_summary/79603</guid>
-      <pubDate>Fri, 15 Mar 2024 23:34:53 GMT</pubDate>
+      <title>一架波音 737 飞机在半空中丢失一块面板后不得不紧急降落在俄勒冈州。</title>
+      <link>https://t.me/hn_summary/79642</link>
+      <description><![CDATA[波音 737 在半空中丢失面板后紧急迫降俄勒冈州
+一架波音 737 飞机在半空中丢失一块面板后不得不紧急降落在俄勒冈州。这起事件引起了不小的轰动，乘客和机组人员都感到震惊，但没有受伤。围绕波音飞机安全性的争议仍然是一个热门话题，尤其是在这起令人震惊的事件之后。它提醒人们适当的维护和安全协议在航空业中的重要性。这一突发事件凸显了航空旅行的不可预测性以及需要时刻保持警惕以确保所有乘客和机组人员的安全。]]></description>
+      <guid>https://t.me/hn_summary/79642</guid>
+      <pubDate>Sat, 16 Mar 2024 03:49:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
