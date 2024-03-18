@@ -4,9 +4,51 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 17 Mar 2024 21:06:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 00:18:49 GMT</lastBuildDate>
     <item>
-      <title>对您公司的文档游戏进行排名并说明原因！ （1-10 级）</title>
+      <title>个人项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bhd30v/personal_project/</link>
+      <description><![CDATA[大家好，我正在开发一个网站，前端 Web 开发人员将能够下载设计文件和资源，将 Figma 设计编码到真实的网站中。  我现在正在寻找建议。我将为我的用户提供设计文件、资源和 html 文件。您认为我们应该在此基础上添加什么以使体验更加用户友好？    由   提交/u/No-Tear-8725   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bhd30v/personal_project/</guid>
+      <pubDate>Mon, 18 Mar 2024 00:09:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据库 ID 可以是可读的字符串吗？是好的设计吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bhcffq/can_database_ids_be_a_readable_string_is_it_good/</link>
+      <description><![CDATA[例如 Student_status 表： CREATE TABLE Status ( StatusID INT PRIMARY KEY, StatusName VARCHAR(20) ) ; INSERT INTO Status (StatusID, StatusName) VALUES (1, &#39;已注册&#39;), (2, &#39;毕业&#39;), (3, &#39;暂停&#39;), (4, &#39;休假&#39;);  这是我的问题。 id 可以是可读的字符串吗？这是一个好的设计吗？像这样： CREATE TABLE Status ( StatusID VARCHAR(20) PRIMARY KEY, StatusName VARCHAR(20) ); INSERT INTO Status (StatusID, StatusName) VALUES (&#39;注册&#39;, &#39;注册&#39;), (&#39;毕业&#39;, &#39;毕业&#39;), (&#39;暂停&#39;, &#39;暂停&#39;), (&#39;休假&#39;, &#39;休假&#39; ）；  这样的设计好吗？这是糟糕的设计吗？为什么？   由   提交 /u/El_Mario_Verde   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bhcffq/can_database_ids_be_a_readable_string_is_it_good/</guid>
+      <pubDate>Sun, 17 Mar 2024 23:40:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 谈论负面评论</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bhbepi/ai_talk_for_the_negative_comments/</link>
+      <description><![CDATA[我今天在这里读到了很多关于网络开发的负面评论，以及它是如何糟糕的，人工智能将取代工作 - 好吧，不，抱歉，不是在下一个100年！  Web 开发一如既往地强大。我曾尝试要求 10 个 AI 来创建我想要构建的东西，但代码和产品的质量比具有 1 口经验的初级开发人员编写的质量最差。  我确实同意并且很高兴人工智能可以帮助我们完成一些任务、功能、一些想法等等，但人工智能绝不能取代沟通和人类情感，至少到目前为止是这样。我的想法。  所以，无论是谁因为 Web 开发还活着、变得越来越强大并且处于最佳状态而感到悲伤 - 去学习其他东西，做任何你想做的事情，哈哈。    由   提交 /u/criting   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bhbepi/ai_talk_for_the_negative_comments/</guid>
+      <pubDate>Sun, 17 Mar 2024 22:56:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>缺乏经验就创办一家初创公司？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bhar5m/launching_a_startup_with_little_experience/</link>
+      <description><![CDATA[大家好，我最近从一家知名学院获得了计算机科学学士学位，并拥有大约一年的全栈开发经验，专注于 Angular、Node 和 NestJS。在此期间，我在一家位于迪拜的 IT 公司进行远程工作，该公司的唯一客户是一家消费者公司（世界排名前 10 名），这让我也与他们产生了联系。然而，我观察到了我认为存在政治偏见的情况，促使我辞职。作为一个有原则、有道德的人，我决定不再去公司当员工，现在渴望开始自己的创业之旅，专注于IT服务。我的目标是实现自我独立并为我所在地区的 IT 出口增长做出贡献，最终创造就业机会。我知道路还很长，积累经验应该是首要任务。但在分析自己之后，我得出的结论是，我不适应公司文化。在寻求社区指导时，我特别有兴趣为我的创业企业获取全面的路线图。任何意见、建议或推荐都将受到高度赞赏。谢谢！   由   提交/u/lazy-TechNomad  /u/lazy-TechNomad  reddit.com/r/webdev/comments/1bhar5m/launching_a_startup_with_little_experience/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bhar5m/launching_a_startup_with_little_experience/</guid>
+      <pubDate>Sun, 17 Mar 2024 22:30:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Angular 中使用 3d 模型的最佳方式？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bhaef8/best_way_to_use_3d_models_in_angular/</link>
+      <description><![CDATA[也许是 Three.js？有人尝试过 Spline 吗？   由   提交/u/Competitive_Koala16   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bhaef8/best_way_to_use_3d_models_in_angular/</guid>
+      <pubDate>Sun, 17 Mar 2024 22:16:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>添加 Firebase（从核心和数据库 SDK 导入）后，我的 PageSpeed Insights 分数下降了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bha3xa/after_adding_firebase_importing_from_the_core_and/</link>
+      <description><![CDATA[关于如何处理这个问题有什么建议吗？ 我需要 firebase，因为这是每个页面上都存在的主要功能之一推送到实时数据库。 但是我的 PSI 分数，由于糟糕的 FCP（巨大的英雄图像）已经非常接近了，变得更糟： 显然，我现在需要：  减少未使用的 JavaScript 缩小 JavaScript 删除 JavaScript 包中的重复模块  想法?   由   提交/u/Katylar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bha3xa/after_adding_firebase_importing_from_the_core_and/</guid>
+      <pubDate>Sun, 17 Mar 2024 22:04:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>对您公司的文档游戏进行排名并说明原因！ （量表 1-10）</title>
       <link>https://www.reddit.com/r/webdev/comments/1bh7xax/rank_your_companys_documentation_game_and_why/</link>
       <description><![CDATA[我听说过很多关于文档在不同工作场所要么令人惊叹要么糟糕的事情，我希望亲眼看看大多数人的情况如何！  1 = 最差 10 = 最好   由   提交 /u/TMNTBrian   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bh7xax/rank_your_companys_documentation_game_and_why/</guid>
@@ -57,58 +99,16 @@
     <item>
       <title>阻止整个线程出现每个关键字？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bh40xv/blocking_an_entire_thread_from_appearing_per/</link>
-      <description><![CDATA[这个有趣的帖子出现在 Steam 论坛上，用户不希望看到某些主题被显示。例如，在 reddit 上，隐藏整个线程，使其在浏览时不显示。使用关键字。 我想象存在某种类型的家长过滤器来帮助她。您是否知道类似的东西，为您过滤线程主题的扩展程序或网站？ https://steamcommunity.com/discussions/forum/12/6679473667138907892/?tscn=1710698230   由   提交/u/blitz4  [链接] [评论]]]></description>
+      <description><![CDATA[这个有趣的帖子出现在 Steam 论坛上，用户不希望看到某些主题被显示。例如，在 reddit 上，隐藏整个线程，使其在浏览时不显示。使用关键字。 我想象存在某种类型的家长过滤器来帮助她。您是否知道类似的东西，为您过滤话题主题的扩展程序或网站？ https://steamcommunity.com/discussions/forum/12/6679473667138907892/?tscn=1710698230   由   提交/u/blitz4  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bh40xv/blocking_an_entire_thread_from_appearing_per/</guid>
       <pubDate>Sun, 17 Mar 2024 18:03:32 GMT</pubDate>
     </item>
     <item>
       <title>s3 存储对于个人网站来说太过分了吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bh2mcb/s3_storage_overkill_for_personal_website/</link>
-      <description><![CDATA[我有大约 3000 张图像（压缩前总计约 15GB），每个图像都有自己的一组具有不同数据类型的信息。目前的计划是将所有图像放入 s3 存储桶中，并使用 mySQL 作为所有上述信息的数据库 + 对图像的引用，然后使用 php 或 javascript 来提供数据 但是这个网站很小（只是一个个人“闲逛”网站，没有用户提交数据）每月最多 1GB 带宽，所以我开始觉得这有点矫枉过正，想知道是否最好将它们放入 gdrive 并创建一个 API，或者更有趣的是，只需将它们全部扔到 github 存储库中并从 CDN 提供它们（免费...哈哈？） 如果我对我的用例有任何建议，请纠正我，如果我误解了任何内容过程中，我还在学习很多东西   由   提交 /u/LiteralHatsy   [链接] [评论]]]></description>
+      <description><![CDATA[我有大约 3000 张图像（压缩前总计约 15GB），每个图像都有自己的一组具有不同数据类型的信息。目前的计划是将所有图像放入 s3 存储桶中，并使用 mySQL 作为所有上述信息的数据库 + 对图像的引用，然后使用 php 或 javascript 来提供数据 但是这个网站很小（只是一个个人“闲逛”网站，没有用户提交数据）每月最多 1GB 带宽，所以我开始觉得这有点矫枉过正，想知道是否最好将它们放入 gdrive 并创建一个 API，或者更有趣的是，只需将它们全部扔到 github 存储库中，并从 CDN 提供它们（免费...哈哈？） 希望对我的用例有任何建议，如果我误解了任何内容，请纠正我过程中，我还在学习很多东西   由   提交 /u/LiteralHatsy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bh2mcb/s3_storage_overkill_for_personal_website/</guid>
       <pubDate>Sun, 17 Mar 2024 17:04:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可能不需要显式导入 Inter 字体。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bh2b11/you_probably_dont_need_to_explicitly_import_inter/</link>
-      <description><![CDATA[我刚刚意识到，对于大多数项目，您不需要显式导入 Inter 字体，因为它已经缓存在浏览器中或在客户端本地可用适合 99% 的用户。这样可以稍微减小包的大小。我错了吗？   由   提交 /u/rayguntec   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bh2b11/you_probably_dont_need_to_explicitly_import_inter/</guid>
-      <pubDate>Sun, 17 Mar 2024 16:51:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何对不冒泡的事件使用事件委托？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bh1p0o/how_to_use_event_delegation_for_events_that_dont/</link>
-      <description><![CDATA[假设我有一个自定义 Web 组件，它呈现包含按钮的模板，并且我们希望单击按钮时发生一些事情： &lt;代码&gt;&lt;模板&gt;&lt;按钮类=“mybutton”&gt;  我们可以在每次附加组件时添加一个事件侦听器，但这可能会通过添加渲染后步骤来降低性能，并且如果多次使用此组件，则可能会添加大量相同的事件侦听器。解决方案是事件委托，我们只需在其上设置一个侦听器根元素并查看事件是否与我们想要的元素匹配： document.addEventListener(`click`, event =&gt; { if (event.target.matches(`.mybutton`)) { 做东西（）; } }）;  问题是这只适用于“冒泡”事件，例如click。有一些事件不会冒泡，例如focus和blur 现在假设我有一个 Web 组件，它呈现一个包含  的模板，并且我们希望当  时发生一些事情。 input&gt; 失去焦点：  blur 不会冒泡，因此事件委托将不起作用。有哪些替代方案？ 我能想到的是：  特别是对于blur，我们可以使用focusout.但假设我们的目标是一个没有替代方案的事件。 使用其他会冒泡的事件来尝试检测失去焦点的元素。问题是这重新发明了一个大轮子 - 如果可以使用本机功能，我们不应该尝试模仿本机浏览器功能。 使用 [onblur] 属性以某种方式重新调度事件，使其冒泡，例如onblur=&quot;this.dispatchEvent(new Event(&#39;blur&#39;, { ...event, bubbles: true }))&quot;。问题是这会导致一些相当臃肿的 HTML，并且使用 [on*] 属性 官方不鼓励。 当组件附加到 DOM 时添加事件侦听器。这些问题与导致我们在 click 示例中使用事件委托的问题相同。  有没有一种方法可以对不使用事件委托的事件使用事件委托？气泡？   由   提交/u/robertgfthomas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bh1p0o/how_to_use_event_delegation_for_events_that_dont/</guid>
-      <pubDate>Sun, 17 Mar 2024 16:26:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>感觉有点害怕。每个人都不断提到 DEVIN 将取代我们的位置。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bh1dha/feeling_a_bit_frightened_everyone_keeps/</link>
-      <description><![CDATA[当我查看社交媒体时，许多技术专家都警告 DEVIN 可能导致失业。最初，当ChatGPT被引入时我并没有太在意，并忽略了这样的帖子。然而，现在我不能再忽视它了。我也担心工作保障。 昨天，由于市场状况和经济衰退，我们公司解雇了 10 名员工。这个消息也让我着急。我们从未想过该公司会采取这样的措施，但由于经济衰退，他们确实这样做了。我相信我不会是下一个被解雇的人，但如果事情继续这样下去，将来我可能会被解雇。 目前，我在 React 中担任前端开发人员（1.5 YOE） ）并且由于我的后端经验一直在探索学习 NodeJS。不过，我不确定。如果我投入时间学习新技术，我如何确定人工智能不会取代这些语言和框架？那么，我为什么要花时间在这上面呢？ 顺便问一下，你建议接下来在技术领域学习什么？人工智能无法立即取代的东西...   由   提交/u/william_buttler  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bh1dha/feeling_a_bit_frightened_everyone_keeps/</guid>
-      <pubDate>Sun, 17 Mar 2024 16:13:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>请在部署时需要帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bh0ujs/need_help_in_deploying_please/</link>
-      <description><![CDATA[大家好！我需要一些帮助来将我的代码部署到铁路，特别是使用 CouchDB 的数据库。 我的项目后端使用 springboot，对于数据库，我有 SQL、MongoDB 和 CouchDB 作为我的数据库。 p&gt; 所以我创建了一个空项目来部署我的后端项目。在里面，我必须创建 3 个环境变量。在铁路中部署时，在我的项目变量下，将有3个变量：一个用于SQL、MongdoDB和CouchDB。对于铁路，添加 SQL 和 MongoDB 后，会自动添加 URL 的环境变量，但 CouchDB 则不是这样！ 因此，对于我的空项目，其环境变量下，我将这个：SPRING_DATASOURCE_URL 放在我的变量名称和参考我这样写：jdbc:${{MySQL.MYSQL_URL}}。这是针对 SQL 的。 我将这个：SPRING_DATA_MONGODB_URI 放在我的变量名称下，作为参考，我将这个：${{MongoDB.MONGO_URL}}/products?authSource=admin。这是针对 MongoDB 的。 那么对于 CouchDB，我应该设置什么变量名称以及作为我的参考？ 非常感谢！   由   提交 /u/digitalghost_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bh0ujs/need_help_in_deploying_please/</guid>
-      <pubDate>Sun, 17 Mar 2024 15:51:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该相信哪种分析？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bh0dwa/which_analytics_should_i_believe_in/</link>
-      <description><![CDATA[提前为我的无知道歉，我经验不足。  我的网站托管在 Vercel 上，我使用 Google Analytics 和 Microsoft Clarity 进行分析。 在 Vercel 的使用仪表板上，我看到“您的部署已收到的请求数”今天大约是60K。 (https://i.imgur.com/z8In3Tt.jpeg) 在 Google Analytics 上，今天的用户数约为 4k。 (https://i.imgur.com/zVzkowc.jpeg) 在 Microsoft Clarity 上，会话人数约为 13k，独立用户数约为 8k。 （https://i.imgur.com/GCUBtlH.jpeg） 我不是确定哪个更准确？我更相信 Vercel，因为我的网站就是在那里托管的。请帮忙。   由   提交 /u/extrohex   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bh0dwa/which_analytics_should_i_believe_in/</guid>
-      <pubDate>Sun, 17 Mar 2024 15:32:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bgzope/help/</link>
-      <description><![CDATA[      当我尝试在渲染中部署并且我有时出现错误，提示找不到模块完成了express的安装，它也在package.json中   由   提交/u/RustyGenius_98   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bgzope/help/</guid>
-      <pubDate>Sun, 17 Mar 2024 15:04:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
