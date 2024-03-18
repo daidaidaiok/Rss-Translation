@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 18 Mar 2024 06:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 12:04:12 GMT</lastBuildDate>
     <item>
-      <title>摘要：Upside-Down-Ternet 是对付邻居窃取无线网络的巧妙方法 [...]</title>
-      <link>https://t.me/hn_summary/79964</link>
-      <description><![CDATA[颠倒互联网
-摘要：Upside-Down-Ternet 是应对邻居窃取无线互联网访问的巧妙方法。通过将网络分成可信和不可信的两半，并使用 IPtables 将流量重定向到“小猫网”，作者将所有图像都颠倒过来供盗贼使用。重定向脚本下载图像、翻转它们并在本地网络服务器上提供它们。作者的想法得到了 kittenwar 和 kernel.org 的积极反馈。然而，当有人抄袭该页面时，引发了争议，导致 DMCA 发出删除通知。该页面已更新，添加了新脚本，甚至还提供了视频说明。]]></description>
-      <guid>https://t.me/hn_summary/79964</guid>
-      <pubDate>Mon, 18 Mar 2024 06:04:00 GMT</pubDate>
+      <title>[媒体]Cognition 的人工智能软件工程师 Devin 以其创新引起了我的注意 [...]</title>
+      <link>https://t.me/hn_summary/79992</link>
+      <description><![CDATA[人工智能软件工程师 Devin 的热门观点&lt; br /&gt;
+Cognition 的人工智能软件工程师 Devin 以其创新的用户体验设计吸引了我的注意，这种设计让人感觉像是对未来的一瞥。然而，我不禁想知道它的竞争优势有多深。经过仔细检查，SWE 基准测试中的性能改进似乎可以归因于提示技术的转变，类似于 Google DeepMind 的 Self-Discover 方法。将 Cyborg AI 风格集成到现有 IDE 中的概念很有趣，其暂停和步骤按钮等功能让人想起策略游戏。如果提示继续推动人工智能技术的进步，DX 的未来看起来很有希望。]]></description>
+      <guid>https://t.me/hn_summary/79992</guid>
+      <pubDate>Mon, 18 Mar 2024 12:04:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 hakaimagazine.com 上的文章“午夜太阳的蝙蝠”中，作者描述了一个 [...]</title>
-      <link>https://t.me/hn_summary/79963</link>
-      <description><![CDATA[午夜太阳的蝙蝠
-在 hakaimagazine.com 上的文章“午夜太阳的蝙蝠”中，作者描述了由翼手类动物学家 Jesika Reimer 领导的一次在阿拉斯加研究小棕色蝙蝠的独特探险队。虽然大多数游客涌向布鲁克斯瀑布是为了目睹棕熊享用鲑鱼，但雷默却专注于黄昏时出现的鲜为人知的蝙蝠。这些微小的生物面临着白鼻综合症等威胁，白鼻综合症是一种导致蝙蝠数量大量减少的真菌疾病。通过基因研究和实地研究，雷默旨在发现这些蝙蝠的冬季冬眠地点，以更好地保护它们。尽管蝙蝠具有重要的生态意义，但它们经常被误解和忽视，这使得雷默的工作对于蝙蝠保护至关重要。 （根据故事文本的 58% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/79963</guid>
-      <pubDate>Mon, 18 Mar 2024 05:27:47 GMT</pubDate>
+      <title>在发现 Firebase 中的一个漏洞后，该漏洞容易导致 securi 配置错误 [...]</title>
+      <link>https://t.me/hn_summary/79991</link>
+      <description><![CDATA[900 个站点、1.25 亿个帐户、1 个漏洞
+在发现 Firebase 中容易导致安全规则配置错误的漏洞后，我们的团队扫描了互联网，发现 900 个网站暴露了总共 1.25 亿条用户记录，包括明文密码和敏感的账单信息。尽管最初遇到了内存泄漏的挑战，但我们开发了一个扫描仪并识别了受影响最严重的网站，例如一个带有被操纵的旋转和轻浮的客户支持的在线赌博网络。在通知网站所有者后，只有 24% 的网站修复了该问题，只有 0.2% 的网站提供了错误赏金。此事件凸显了适当的安全措施在保护用户数据方面的重要性。]]></description>
+      <guid>https://t.me/hn_summary/79991</guid>
+      <pubDate>Mon, 18 Mar 2024 11:54:06 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：您是否也对日常物品的复杂性感到惊叹？</title>
-      <link>https://t.me/hn_summary/79962</link>
-      <description><![CDATA[问 HN：您是否也惊叹于日常物品的复杂性？ 
-作者在使用线轴时反思了一个实现的时刻，思考了创建这样一个看似简单的物体所涉及的复杂过程和专业知识。这种观点的转变导致人们对日常用品的复杂性有了新的认识，促使作者质疑与他们日常使用的软件相比的复杂程度。作者想知道其他人是否有类似的经历，并邀请人们对日常物品进行讨论，考虑到它们的复杂性，这些物品会引起敬畏。]]></description>
-      <guid>https://t.me/hn_summary/79962</guid>
-      <pubDate>Mon, 18 Mar 2024 05:15:41 GMT</pubDate>
+      <title>[媒体]Yagrad是一个基于micrograd的标量autograd引擎，具有sup [...]的独特功能</title>
+      <link>https://t.me/hn_summary/79990</link>
+      <description><![CDATA[Yagrad – 具有复数和固定 DAG 的 100 SLOC autograd 引擎
+Yagrad是一个基于micrograd的标量自动梯度引擎，其独特之处在于支持复数进行梯度计算，并利用固定的有向无环图（DAG）来避免训练过程中的对象分配。该项目旨在提供一个简单且具有教育意义的工具来理解自动微分。 Yagrad 只有 100 行代码，与其他 autograd 引擎的区别在于它注重简单性和效率。无需安装，用户可以通过执行“python train.py 来运行项目”在终端中。灵感来源于 micrograd、tinygrad、picograd 和 nanograd。]]></description>
+      <guid>https://t.me/hn_summary/79990</guid>
+      <pubDate>Mon, 18 Mar 2024 11:50:02 GMT</pubDate>
     </item>
     <item>
-      <title>令人震惊的是，印度有超过 35,000 家初创企业在 2023 年因 [...]</title>
-      <link>https://t.me/hn_summary/79961</link>
-      <description><![CDATA[2023 年印度有超过 35,000 家初创公司倒闭&lt; br /&gt;
-令人震惊的是，2023 年印度有超过 35,000 家初创公司因严酷的融资寒冬而倒闭。这导致大型初创公司解雇了 20,000 多名员工，其中教育科技公司受到的影响最大。这波倒闭潮肯定会对印度创业生态系统产生持久影响。贝恩的报告揭示了这些公司面临的挑战以及未来可持续融资模式的需求。]]></description>
-      <guid>https://t.me/hn_summary/79961</guid>
-      <pubDate>Mon, 18 Mar 2024 05:11:38 GMT</pubDate>
+      <title>设计网站的另一种观点——event.preventDeault();</title>
+      <link>https://t.me/hn_summary/79989</link>
+      <description><![CDATA[设计网站的另一种观点 – event.preventDeault();
+在马克西米利安·基佩（Maximilian Kiepe）的《设计网站的另一种观点》中，作者深入探讨了 2019 年网页设计的通用性和客观性，并将其与早期网络时代的创意实验进行了对比。探索了网页设计的历史，从浏览器的引入到响应式设计的出现。争议在于主导网络景观的通用模板设计的盛行，作者批评过分强调可用性和搜索引擎优化。内容的独特之处在于作者呼吁探索网页设计中除可用性之外的其他品质，强调创造力和个性的重要性。 （根据 19% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/79989</guid>
+      <pubDate>Mon, 18 Mar 2024 11:45:59 GMT</pubDate>
     </item>
     <item>
-      <title>Journeyart.ai 现在免费提供 Midjourney V6，这是一款先进的人工智能图像生成模块 [...]</title>
-      <link>https://t.me/hn_summary/79960</link>
-      <description><![CDATA[Journeyart.ai：利用 Midjourney 的力量每日创作 6 件免费人工智能艺术品&lt; /a&gt;
-Journeyart.ai 现已免费提供 Midjourney V6，这是一款高级版AI图像生成模型，让用户每天可以创作6幅免费的AI艺术作品。新版本已在 Discord 上提供，即将在 midjourney.com 上向付费订阅者提供。我们鼓励用户在官方 Midjourney Discord 服务器上与社区互动，分享经验和技巧。此次更新让Midjourney V6更容易被更广泛的受众所接受，展示了其在AI艺术生成方面的强大能力。]]></description>
-      <guid>https://t.me/hn_summary/79960</guid>
-      <pubDate>Mon, 18 Mar 2024 04:31:25 GMT</pubDate>
+      <title>在最近的一条推文中，Paul Graham 质疑 cookie 横幅的必要性，指出 [...]</title>
+      <link>https://t.me/hn_summary/79988</link>
+      <description><![CDATA[亲爱的 Paul Graham，没有 Cookie 横幅法 
+在最近的一条推文中，Paul Graham 质疑 cookie 横幅的必要性，并表示没有法律要求这样做。事实是，欧盟并不强制要求使用 cookie 横幅，但公司却强制要求。公司可以简单地避免完全跟踪或提供更用户友好的同意选项，而不是用侵入性横幅轰炸用户。 Stephan 是一位经验丰富的首席技术官和开发人员，他强调了 cookie 横幅带来的不必要的不​​便，并提出了更透明和用户友好的替代方案。最终，实施 cookie 横幅的选择权在于公司，而不是法律要求。现在是采取更加以用户为中心的数据隐私方法的时候了。]]></description>
+      <guid>https://t.me/hn_summary/79988</guid>
+      <pubDate>Mon, 18 Mar 2024 11:39:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 94% 的互联网连接是通过智能手机建立的世界中，一个人 dec [...]</title>
-      <link>https://t.me/hn_summary/79959</link>
-      <description><![CDATA[“哑手机”如何让我变得更好
-在 94% 的互联网连接都是通过智能手机进行的世界中，有人决定放弃智能手机，转而使用“哑巴手机”，以减少屏幕使用时间。尽管该设备存在局限性，例如没有应用程序商店或音乐流媒体，但作者找到了创造性的解决方法来满足他们的基本需求。六个月后，他们不再后悔，注意力更加集中，在社交媒体上花费的时间更少，并且更加感恩。虽然哑铃手机可能并不适合所有人，但作者认为，整体感觉更好，这些牺牲是值得的。]]></description>
-      <guid>https://t.me/hn_summary/79959</guid>
-      <pubDate>Mon, 18 Mar 2024 04:23:50 GMT</pubDate>
+      <title>[媒体]随着大型语言模型的兴起，软件开发的未来正在不断发展[...]</title>
+      <link>https://t.me/hn_summary/79987</link>
+      <description><![CDATA[对软件开发未来的思考
+随着可以生成图像、文本和代码的大型语言模型 (LLM) 的兴起，软件开发的未来正在不断发展。虽然最初因错误而受到欢迎，但这些模型正在稳步改进。由于缺乏创造力而反对自动化任务的争论正在减弱。软件开发能力水平的框架强调了除编码之外涉及的各种任务。人工智能编码员最终可能会达到完全自动化的水平，但目前他们只是协助开发人员。内部监督的必要性仍然至关重要。商业用户可能会使用人工智能编码工具，但复杂的问题仍然需要熟练的软件开发人员。解决业务问题的市场巨大，确保了对软件开发人员的持续需求。正式的业务逻辑定义仍然至关重要，使软件开发人员能够适应不断发展的环境。]]></description>
+      <guid>https://t.me/hn_summary/79987</guid>
+      <pubDate>Mon, 18 Mar 2024 11:33:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在文章“使用软件测量系统性能（Go 版）”中 [...]</title>
-      <link>https://t.me/hn_summary/79958</link>
-      <description><![CDATA[使用软件测量系统性能（Go 版） 
-在 lemire 上的文章“使用软件测量系统性能（Go 版）”。 me，作者讨论了在编程软件时理解底层系统的重要性。通过使用 Go 中的基准测试，程序员可以测量其函数的性能并了解不同实现的影响。本文还深入研究了内存分配和使用情况，强调了 Go 中堆栈内存和堆内存之间的差异。通过将内存使用情况作为基准测试的一部分，程序员可以优化其软件以获得更好的性能。本文提供了代码示例，并深入探讨了内存分配如何影响现实系统中的性能。 （根据故事文本的 16% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/79958</guid>
-      <pubDate>Mon, 18 Mar 2024 03:36:28 GMT</pubDate>
+      <title>[媒体] 72 岁的 Louie 在 old.reddit.com 上分享了 32 条宝贵的人生教训。</title>
+      <link>https://t.me/hn_summary/79986</link>
+      <description><![CDATA[我今天72岁了
+72 岁时，Louie 在 old.reddit 上分享了 32 条宝贵的人生教训。 com。他强调善良比正确更重要，努力工作的价值以及感恩的力量。 Louie 鼓励终身学习、追求激情项目并选择自己的道路。他提醒读者放下嫉妒，进行自我反省，并优先考虑经验而不是物质财富。路易的智慧提醒人们，年龄会带来清晰度和视角，他鼓励其他人找到自己的激情和人生目标。路易的话可以作为应对生活挑战和寻找成就感的指南。]]></description>
+      <guid>https://t.me/hn_summary/79986</guid>
+      <pubDate>Mon, 18 Mar 2024 11:22:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] NIH 对肌痛性脑脊髓炎/慢性疲劳综合症 (ME/CFS) 的研究摆脱了 [...]</title>
-      <link>https://t.me/hn_summary/79957</link>
-      <description><![CDATA[NIH 研究为肌痛性脑脊髓炎/CFS 提供了期待已久的见解
-美国国立卫生研究院 (NIH) 对肌痛性脑脊髓炎/慢性疲劳综合症 (ME/CFS) 的研究揭示了这种疾病的生物学本质，挑战了围绕它的历史怀疑论。由 Avindra Nath 博士领导的这项研究揭示了 ME/CFS 患者的生理差异，强调了该疾病的全身影响。该研究的局限性引起了争议，包括样本量小和排除标准，引发了该领域专家的批评。尽管如此，该研究强调临床医生需要认真对待 ME/CFS 症状，并强调多学科护理对患者的重要性。研究结果为 ME/CFS 病理生理学提供了宝贵的见解，为未来的研究和临床方法铺平了道路。]]></description>
-      <guid>https://t.me/hn_summary/79957</guid>
-      <pubDate>Mon, 18 Mar 2024 03:14:49 GMT</pubDate>
+      <title>通用汽车和本田等汽车的驾驶员报告保险费率上涨 [...]</title>
+      <link>https://t.me/hn_summary/79985</link>
+      <description><![CDATA[汽车正在监视您，导致保险费率更高
+通用汽车和本田等汽车的司机报告称，在他们的驾驶数据在他们不知情的情况下与保险公司共享后，他们的保险费率有所增加。例如，在通用汽车的 OnStar 智能驾驶员系统收集了 Kenn Dahl 的驾驶习惯数据后，他的保险费用增加了 21%。这些数据包括行程时间、距离以及超速或紧急制动情况等详细信息。这种有争议的做法导致一些司机考虑提起诉讼或出售他们的汽车，斯巴鲁和起亚等其他汽车公司也在收集和共享司机数据。这个问题引发了人们对联网汽车时代隐私和同意的担忧。]]></description>
+      <guid>https://t.me/hn_summary/79985</guid>
+      <pubDate>Mon, 18 Mar 2024 11:02:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]巴基斯坦国际航空8303航班坠毁是一起悲惨事件，原因是[...]</title>
-      <link>https://t.me/hn_summary/79956</link>
-      <description><![CDATA[空中疯狂：巴基斯坦国际航空 8303 航班坠毁&lt; /a&gt;
-巴基斯坦国际航空8303号航班坠毁是由于机组人员一系列疏忽决定造成的悲惨事件。飞行员未能进行进场简报，导致缺乏态势感知和高度管理不当。随着进场的进行，异常的俯仰姿态和速度被忽略，起落架在没有适当通信或警告确认的情况下收起。混乱的驾驶舱气氛和缺乏明确的角色最终导致了自动驾驶仪的非指令性断开和灾难性的着陆尝试。最终报告揭露了一起大规模疏忽事件，导致 98 人丧生。 （根据故事文本的 35% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/79956</guid>
-      <pubDate>Mon, 18 Mar 2024 03:04:12 GMT</pubDate>
+      <title>在《哈佛商业评论》这篇发人深省的文章中，鼓励读者拥有自己的[...]</title>
+      <link>https://t.me/hn_summary/79984</link>
+      <description><![CDATA[掌控未来的自己
+在《哈佛商业评论》这篇发人深省的文章中，鼓励读者掌控自己的未来。关键是要承认过去、现在和未来的自己之间的差异，然后设定清晰具体的目标，成为你最想成为的人。发展与您想要的自我一致的身份叙述至关重要，因为您的身份驱动您的行为并最终塑造您的个性。通过表现出最好的自己并与他人分享您的故事，您可以积极塑造自己的未来。这一鼓舞人心的信息挑战读者积极努力成为理想的自己。]]></description>
+      <guid>https://t.me/hn_summary/79984</guid>
+      <pubDate>Mon, 18 Mar 2024 10:58:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国</title>
-      <link>https://t.me/hn_summary/79955</link>
-      <description><![CDATA[美国情报称 TikTok 是一种威胁——但仅限于理论上
-美国情报官员对 TikTok 对国家安全的潜在威胁表示担忧，暗示中国政府可能利用这款流行的社交媒体应用进行间谍活动和影响行动。然而，没有具体证据表明 TikTok 曾与北京方面进行过协调。尽管缺乏证据，国会中的许多人，甚至总统乔·拜登仍然推动立法强制销售该应用程序。围绕 TikTok 的争议凸显了对监视资本主义和利用社交媒体进行外国影响力运作的更广泛担忧，包括美国在内的多个国家都曾采取过这种做法。]]></description>
-      <guid>https://t.me/hn_summary/79955</guid>
-      <pubDate>Mon, 18 Mar 2024 02:51:35 GMT</pubDate>
+      <title>[媒体]使用 Transqlate，您可以轻松地将 SQL 片段从一种方言转换为另一种方言 [...]</title>
+      <link>https://t.me/hn_summary/79983</link>
+      <description><![CDATA[将任何 SQL 转换为 PostgreSQL 方言
+借助 Transqlate，您可以使用抽象语法树 (AST) 轻松地将 SQL 片段从一种方言转换为另一种方言。该工具允许您将 SQL 代码无缝转换为 PostgreSQL 方言，从而更轻松地使用不同的数据库。告别手动转换，让 Transqlate 为您完成这项工作。对于希望简化工作流程并轻松使用多个数据库的开发人员来说，这一创新工具是一个游戏规则改变者。立即尝试 Transqlate，体验轻松转译 SQL 代码的便利。]]></description>
+      <guid>https://t.me/hn_summary/79983</guid>
+      <pubDate>Mon, 18 Mar 2024 10:54:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
