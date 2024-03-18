@@ -4,91 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 18 Mar 2024 18:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 21:04:57 GMT</lastBuildDate>
     <item>
-      <title>[媒体]埃隆·马斯克的人工智能工具 Grok 已开源，代码现已在 GitHub 上提供。</title>
-      <link>https://t.me/hn_summary/80048</link>
-      <description><![CDATA[Elon Musk 的 Grok AI 现已开源，代码可在 GitHub 上获取
-Elon Musk 的 AI 工具 Grok 已开源，代码现已在 GitHub 上提供。这一举措使开发人员和研究人员能够探索该模型并可能影响其未来的迭代。 xAI 旗下的 Grok 标志着马斯克继 OpenAI 之后第二次涉足人工智能领域。该版本包括模型的权重和网络架构，但不包括训练数据。它获得 Apache 2.0 许可，允许商业使用和分发。去年完成的 Grok 使用了一种独特的神经网络方法，使其更加有效和高效。但是，它不包括来自 X（以前的 Twitter）的实时数据，除非用户是付费订阅者。]]></description>
-      <guid>https://t.me/hn_summary/80048</guid>
-      <pubDate>Mon, 18 Mar 2024 18:06:00 GMT</pubDate>
+      <title>[媒体] Tuix 是一个用于管理屏幕的 TUI（文本用户界面），用 Rust 编写。</title>
+      <link>https://t.me/hn_summary/80091</link>
+      <description><![CDATA[显示 HN：Tuix – 用于管理屏幕的 TUI，用 Rust 编写&lt; /a&gt;
+Tuix 是一个用于管理屏幕的 TUI（文本用户界面），用 Rust 编写。它允许用户使用键盘快捷键轻松移动和重新排列屏幕。该项目仍在进行中，具有启用/禁用显示器、保存/恢复布局、处理多个外部显示器以及在待办事项列表中支持 Wayland 等功能。一个已知问题是切换外部显示器的位置可能会导致分辨率未使用。该项目已获得 GPLv3 许可。]]></description>
+      <guid>https://t.me/hn_summary/80091</guid>
+      <pubDate>Mon, 18 Mar 2024 21:04:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在一次有争议的采访中，最终导致唐·柠檬 (Don Lemon) 的节目被取消 [...]</title>
-      <link>https://t.me/hn_summary/80047</link>
-      <description><![CDATA[埃隆·马斯克采访导致唐·莱蒙的节目被取消 
-在一次有争议的采访中，埃隆·马斯克和莱蒙在仇恨言论、内容审核和马斯克对种族主义的看法等话题上发生了冲突，最终导致唐·莱蒙在 X 上的节目被取消。当莱蒙向他询问有关非法移民、“伟大替代理论”和 X 内容审核的问题时，马斯克明显感到恼火。当莱蒙提到马斯克关于广告商可能通过广告抵制“杀死”X 的声明时，采访发生了激烈的转变。马斯克捍卫了他对种族主义和多样性、公平和包容性政策的看法，同时也透露了他偶尔使用氯胺酮的情况。采访突然结束，马斯克驳回了莱蒙的问题并退出了谈话。]]></description>
-      <guid>https://t.me/hn_summary/80047</guid>
-      <pubDate>Mon, 18 Mar 2024 18:01:56 GMT</pubDate>
+      <title>[媒体]您是否厌倦了打开新标签时的干扰？</title>
+      <link>https://t.me/hn_summary/80090</link>
+      <description><![CDATA[显示 HN：将您的 Chrome 新标签页变成干净、无干扰记事本
+当您打开新标签时，您是否厌倦了干扰？借助新标签页注释，您可以将 Chrome 新标签页变成干净、无干扰的记事本。您的笔记由浏览器安全保存和同步，无需帐户。使用 Markdown 和键盘快捷键享受富文本格式，并轻松跨设备同步和自动保存笔记。从网站复制文本并对其进行整齐的格式化，并以 Markdown、HTML 或纯文本等多种格式保存笔记。自定义字体、调整缩放首选项以及在深色和浅色主题之间切换。另外，在键入时使用类似 Markdown 的语法进行无缝格式化。安装后打开新选项卡时，不要忘记单击“保留”按钮。]]></description>
+      <guid>https://t.me/hn_summary/80090</guid>
+      <pubDate>Mon, 18 Mar 2024 21:00:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一段新视频中，埃隆·马斯克为自己使用氯胺酮辩护，声称这有助于他 [...]</title>
-      <link>https://t.me/hn_summary/80046</link>
-      <description><![CDATA[马斯克在新视频中辩称，他使用氯胺酮对投资者有利
-在一段新视频中，埃隆·马斯克为自己使用氯胺酮辩护，声称这有助于他为投资者做出更好的决策。这一有争议的声明引发了批评者的争论，但马斯克坚持他的信念，即这种药物可以增强他的认知能力和创造力。这一令人惊讶的发现揭示了马斯克在竞争激烈的商业世界中保持领先地位所采用的非传统方法。无论爱他还是恨他，马斯克毫无歉意的自我完善方式无疑是独一无二的。]]></description>
-      <guid>https://t.me/hn_summary/80046</guid>
-      <pubDate>Mon, 18 Mar 2024 17:57:51 GMT</pubDate>
+      <title>隆重推出 DisDos，该平台可让您轻松创建自己的在线社区 [...]</title>
+      <link>https://t.me/hn_summary/80089</link>
+      <description><![CDATA[展示 HN：DisDos – 为您的受众打造在线社区
+隆重推出 DisDos，该平台可让您轻松为受众创建自己的在线社区。通过创建多个社区（每个社区都有自己的类别和论坛板）的能力，您可以完全控制帖子发布权限，甚至可以支持文本和链接帖子。帖子和评论是嵌套的，以便于导航，并且该平台对 SEO 友好。最好的部分？它完全免费使用。立即加入 DisDos，开始为您的关注者建立一个蓬勃发展的在线社区。]]></description>
+      <guid>https://t.me/hn_summary/80089</guid>
+      <pubDate>Mon, 18 Mar 2024 20:56:50 GMT</pubDate>
     </item>
     <item>
-      <title>美国环保署 (EPA) 宣布全面禁止石棉，石棉是一种致命的致癌物质，一些国家仍在使用石棉 [...]</title>
-      <link>https://t.me/hn_summary/80045</link>
-      <description><![CDATA[EPA 禁止石棉，这是一种致命的致癌物质，在部分禁令几十年后仍在使用
-美国环保署 (EPA) 宣布全面禁止石棉，石棉是一种致命的致癌物质，在美国的一些产品中仍然使用这种物质。该禁令标志着 EPA 根据 2016 年法律对监管进行了重大扩展，旨在保护公众健康并防止数千人因接触石棉而死亡。该禁令将影响氯碱行业和其他含有石棉的产品，并采取分阶段的方式，以留出合理的过渡期。此举受到了倡导团体的赞扬，但化学工业呼吁更长的过渡期，以避免供应中断。美国环保署的行动被视为保护公众健康免受有毒化学品侵害的重要一步。]]></description>
-      <guid>https://t.me/hn_summary/80045</guid>
-      <pubDate>Mon, 18 Mar 2024 17:53:48 GMT</pubDate>
+      <title>[媒体] 向傻瓜们介绍情书生成器！</title>
+      <link>https://t.me/hn_summary/80088</link>
+      <description><![CDATA[展示 HN：傻瓜情书生成器
+向傻瓜们介绍情书生成器！借助文字的力量，瞬间创作一封真挚的、个性化的情书。使用一个积分即可免费试用，相当于一封情书。在定价页面上购买更多积分以保持浪漫。用一封独特而巧妙的情书给您所爱的人带来惊喜，触动他们的心。请访问 www.lovelettergenerator.co 立即开始。&lt; br/&gt;]]></description>
+      <guid>https://t.me/hn_summary/80088</guid>
+      <pubDate>Mon, 18 Mar 2024 20:52:45 GMT</pubDate>
     </item>
     <item>
-      <title>YouTube 现在要求创作者为使用 AI 制作的逼真视频添加标签，以包含 [...]</title>
-      <link>https://t.me/hn_summary/80044</link>
-      <description><![CDATA[YouTube 现在要求为其使用 AI 制作的逼真视频添加标签&lt; /a&gt;
-YouTube 现在要求创作者对使用人工智能制作的逼真视频进行标记，以提高透明度并防止观众混淆。这些标签将从手机应用程序开始在所有 YouTube 平台上推广。对于一贯不披露此信息的创作者，可能会采取强制措施。如有必要，YouTube 甚至可以自行添加标签。该平台还与业界合作，提高数字内容的透明度。此外，YouTube 正在开发一个隐私流程，供人们请求删除人工智能生成或更改的模拟可识别个人的内容。请继续关注有关这一全球倡议的更多更新。]]></description>
-      <guid>https://t.me/hn_summary/80044</guid>
-      <pubDate>Mon, 18 Mar 2024 17:49:44 GMT</pubDate>
+      <title>在这篇发人深省的文章中，作者反思了他们对 K 船长不断变化的看法 [...]</title>
+      <link>https://t.me/hn_summary/80087</link>
+      <description><![CDATA[我不再爱柯克船长
+在这篇发人深省的文章中，作者反思了他们对《星际迷航》中柯克船长的看法的变化，柯克船长曾经是儿时的英雄，现在却让人想起虐待的老板。作者深入研究了柯克在原著系列中不一致的形象，突出了该角色的黑暗和脆弱的一面。作者将柯克与现实生活中的老板进行了比较，探讨了有毒领导力对他们对这一标志性人物的看法的影响。这篇文章还谈到了庆祝欺凌作为领导力的复兴，以及辞掉一份糟糕工作的变革力量。一个令人惊讶的转折是 1980 年代 R&amp;B 歌曲“Kiss”的排名，为内容增添了有趣和意想不到的元素。]]></description>
+      <guid>https://t.me/hn_summary/80087</guid>
+      <pubDate>Mon, 18 Mar 2024 20:48:42 GMT</pubDate>
     </item>
     <item>
-      <title>Isamu Akasaki 在蓝色 LED 方面的开创性工作彻底改变了照明世界。</title>
-      <link>https://t.me/hn_summary/80043</link>
-      <description><![CDATA[赤崎勇的蓝色 LED 改变了我们照亮世界的方式 
-Isamu Akasaki 在蓝色 LED 方面的开创性工作彻底改变了照明世界。尽管之前的研究人员面临着挑战，赤崎对氮化镓的专注导致了第一个实用蓝色 LED 的诞生。这项创新为从白色 LED 到 OLED 屏幕等更高效、更通用的照明解决方案铺平了道路。赤崎的贡献最终获得了 2014 年诺贝尔物理学奖的认可，巩固了他作为该领域先驱的地位。如今，随着 LED 技术在各种应用中变得无处不在，他对照明世界的影响依然存在。]]></description>
-      <guid>https://t.me/hn_summary/80043</guid>
-      <pubDate>Mon, 18 Mar 2024 17:45:41 GMT</pubDate>
+      <title>英伟达宣布推出最强大的人工智能芯片，寻求成为一家平台公司。</title>
+      <link>https://t.me/hn_summary/80086</link>
+      <description><![CDATA[Nvidia 宣布其最强大的 AI 芯片，寻求成为一个平台
+英伟达宣布推出新一代人工智能芯片Blackwell系列，首款芯片是GB200 Grace Blackwell Superchip。这款新芯片为AI公司带来了显着的性能升级，与之前的H100芯片相比，AI性能提高了20 petaflops。 Blackwell GPU 包含一个专为基于 Transformer 的 AI（例如 ChatGPT）而设计的 Transformer 引擎。 Nvidia 还推出了名为 NIM 的创收软件，以便更轻松地在旧版 Nvidia GPU 上部署人工智能。该公司的目标是成为像微软或苹果一样的平台提供商，供其他公司构建软件。]]></description>
+      <guid>https://t.me/hn_summary/80086</guid>
+      <pubDate>Mon, 18 Mar 2024 20:44:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]自 macOS Sonoma 14.4 发布以来，用户遇到了各种挑战，[...]</title>
-      <link>https://t.me/hn_summary/80042</link>
-      <description><![CDATA[macOS Sonoma 14.4：不更新的原因
-自 macOS Sonoma 14.4 发布以来，用户遇到了影响其日常工作流程的各种挑战。从 USB 集线器和显示器的连接问题到 Java 进程的意外终止，该更新让许多人感到沮丧。打印机驱动程序被删除或损坏，尤其影响 HP 打印机，而 iLok License Manager 等 PACE 产品导致音频单元插件在 Apple Silicon Mac 上崩溃。如果这些问题可能会影响您的工作效率，那么明智的做法是推迟更新，直到 Apple 发布修复程序。在评论中分享您遇到的任何其他问题，以便可能包含在未来的更新中。]]></description>
-      <guid>https://t.me/hn_summary/80042</guid>
-      <pubDate>Mon, 18 Mar 2024 17:41:37 GMT</pubDate>
+      <title>令人惊讶的是，一项针对 20,000 多名成年人的研究发现，经过 8 小时的休息 [...]</title>
+      <link>https://t.me/hn_summary/80085</link>
+      <description><![CDATA[间歇性禁食会使心血管死亡风险增加 91%
+令人惊讶的是，一项针对 20,000 多名成年人的研究发现，遵循 8 小时限时饮食计划（一种间歇性禁食形式）与心血管死亡风险增加 91% 相关。这违背了人们普遍认为限时饮食可以改善心脏健康的观点。研究还发现，患有心脏病或癌症的人心血管死亡的风险增加。研究结果挑战了“较短的进食时间从长远来看有益”的观念，强调需要根据个人健康状况提出个性化饮食建议。该研究的局限性包括依赖自我报告的饮食信息并排除其他健康因素。]]></description>
+      <guid>https://t.me/hn_summary/80085</guid>
+      <pubDate>Mon, 18 Mar 2024 20:40:34 GMT</pubDate>
     </item>
     <item>
-      <title>标题：长尾小鹦鹉：一个小小的法学硕士</title>
-      <link>https://t.me/hn_summary/80041</link>
-      <description><![CDATA[鹦鹉：一个小小的法学硕士
-标题：鹦鹉：一个小小的法学硕士
-
-在这篇文章中，我介绍了 Parakeet，这是一种出于研究目的从头开始设计的小型语言模型。 Parakeet 在 3080 Ti 上进行训练，拥有 18 层、18 个头、8K 上下文和 1152 个嵌入维度。 Parakeet 的与众不同之处在于它使用合成数据，可以快速学习并轻松更改模型参数。有争议的方面在于决定用更少的参数训练模型而不是扩大规模，挑战了法学硕士技术的规范。这篇文章包含有关数据集管理、模型检查点、推理代码等的详细信息。查看完整代码和结果的链接。]]></description>
-      <guid>https://t.me/hn_summary/80041</guid>
-      <pubDate>Mon, 18 Mar 2024 17:37:33 GMT</pubDate>
+      <title>[媒体]以色列敦促国际法院不要下令采取新措施来解决 [...]</title>
+      <link>https://t.me/hn_summary/80084</link>
+      <description><![CDATA[以色列要求国际法院不要针对加沙迫在眉睫的饥荒下令采取新措施&lt; /a&gt;
+以色列敦促国际法院不要下令采取新措施来解决加沙迫在眉睫的饥荒，并以“道德上令人反感”为由驳回南非的请求。以色列否认故意在加沙造成人道主义苦难，并指责南非滥用程序，毫无根据地指控种族灭绝。救援机构报告称，对加沙 230 万人的援助受到严格限制，世界粮食计划署警告饥荒迫在眉睫。欧盟最高外交官谴责这场人为危机，称饥饿正在被用作战争武器。南非多次要求对以色列采取措施，但遭到抵制。]]></description>
+      <guid>https://t.me/hn_summary/80084</guid>
+      <pubDate>Mon, 18 Mar 2024 20:36:30 GMT</pubDate>
     </item>
     <item>
-      <title>Ads.txt 是在线广告管理中使用的文本文件格式，由 IAB Techno [...]</title>
-      <link>https://t.me/hn_summary/80040</link>
-      <description><![CDATA[Ads.txt
-Ads.txt 是一种用于在线广告管理的文本文件格式，由 IAB 技术实验室创建。它允许公司在其网络服务器上列出其产品或服务的授权卖家，有助于防止网络欺诈。令人惊讶的是，到 2017 年 11 月，超过 44% 的发布商已采用 ads.txt 文件，并且 Google 积极推广其使用。文件格式由 IAB 指定，并通过版本不断发展以包含新指令。随着顶级网站的采用率不断提高，ads.txt 正在成为在线广告行业的标准做法。]]></description>
-      <guid>https://t.me/hn_summary/80040</guid>
-      <pubDate>Mon, 18 Mar 2024 17:33:28 GMT</pubDate>
+      <title>俄罗斯是如何制造导弹的？</title>
+      <link>https://t.me/hn_summary/80083</link>
+      <description><![CDATA[俄罗斯如何制造导弹？
+在我们的网站上了解俄罗斯导弹生产背后的秘密。我们的使命是发现隐藏的来源并将复杂的信息翻译成易于理解的语言。请继续关注即将发布的有关俄罗斯核能力、陆军武器、飞机生产和机床工业的报告。订阅我们的时事通讯以获取最新更新。探索俄罗斯导弹制造过程背后的争议和惊喜。]]></description>
+      <guid>https://t.me/hn_summary/80083</guid>
+      <pubDate>Mon, 18 Mar 2024 20:32:26 GMT</pubDate>
     </item>
     <item>
-      <title>标题：天哪，我的应用程序很成功，但我没有考虑可访问性</title>
-      <link>https://t.me/hn_summary/80039</link>
-      <description><![CDATA[哦，糟糕，我的应用程序成功了，我没想到无障碍
-标题：天哪，我的应用程序很成功，我没有考虑可访问性
-
-摘要：
-在急于让您的应用取得成功的过程中，很容易忽视具有特定需求的用户的可访问性。本文强调了考虑可访问性的重要性，并提供了有关如何审核和改进应用程序的可访问性功能的实用技巧。作者以猫为主题的配套应用程序为例，提供了如何使您的应用程序更易于访问的分步指南。从测试文本大小到优化屏幕阅读器，本文强调了忽视可访问性对用户体验的影响。通过实施简单的修改（例如可滚动内容和语义字体大小），您可以使您的应用程序更具包容性和用户友好性。 （根据 42% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/80039</guid>
-      <pubDate>Mon, 18 Mar 2024 17:29:24 GMT</pubDate>
+      <title>[媒体]最高法院面临着关于政府干预界限的关键决定 [...]</title>
+      <link>https://t.me/hn_summary/80082</link>
+      <description><![CDATA[最高法院社交媒体案件涉及针对审查制度的虚假信息&lt; br/&gt;
+最高法院正面临关于政府干预社交媒体界限的关键决定，该案涉及虚假信息与审查制度。拜登政府推动消除有关 COVID-19 疫苗的错误信息引发了争议，批评者指责政府压制其不喜欢的观点。此案可能对公共卫生、选举公正和言论自由产生重大影响。保守派对审查制度的担忧引发了法律挑战，下级法院对政府与社交媒体平台的互动施加限制。最高法院现在必须澄清数字时代允许的说服与不允许的强制之间的界限。]]></description>
+      <guid>https://t.me/hn_summary/80082</guid>
+      <pubDate>Mon, 18 Mar 2024 20:28:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
