@@ -4,7 +4,38 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 19 Mar 2024 06:08:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 09:07:43 GMT</lastBuildDate>
+    <item>
+      <title>烘焙我的想法：博客平台即服务</title>
+      <link>https://feed.indiehackers.world/post/38cee55e68</link>
+      <description><![CDATA[使用文本编辑器之类的概念来撰写帖子：
+
+您还可以管理 SEO：
+
+集成到现有网站只需几行代码（将来我还想开发React组件）：
+
+无论如何，如果您对我的项目感兴趣，请访问 https://blogstraps.com 并订阅，让我知道这个想法是有效。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/38cee55e68</guid>
+      <pubDate>Tue, 19 Mar 2024 08:23:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>旅游 SEO 服务在这 3 种情况下将彻底失败</title>
+      <link>https://feed.indiehackers.world/post/16d3f81035</link>
+      <description><![CDATA[为什么一些旅游和酒店企业主想要放弃投资旅游 SEO 服务，而他们的竞争对手却看到了巨大的成果？
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/16d3f81035</guid>
+      <pubDate>Tue, 19 Mar 2024 08:20:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>加快索引速度：时间不等人</title>
+      <link>https://feed.indiehackers.world/post/ee4f04c933</link>
+      <description><![CDATA[解决方案很简单。发布文章后，通过 Google Search Console 提交请求来加速文章的发布。此外，内部链接被证明是另一种有效的方法。通过在我们网站的现有页面中添加指向新文章的链接，我们可以方便 Google 发现我们的内容。
+虽然这些步骤可能看起来很简单，但它们对于我们的目标至关重要推动 Sapiengraph 的发展。重要的是不要忽视这样一个事实：Sapiengraph 是一个小型、新的、低流量的网站。忽视这些细节可能会导致错失机会，这是我们不惜一切代价想要避免的情况。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/ee4f04c933</guid>
+      <pubDate>Tue, 19 Mar 2024 07:51:39 GMT</pubDate>
+    </item>
     <item>
       <title>我的 Tailwind CSS 组件库销售额刚刚达到 5,000 英镑</title>
       <link>https://feed.indiehackers.world/post/4fec0d9c3f</link>
@@ -135,39 +166,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/686c98f023</guid>
       <pubDate>Mon, 18 Mar 2024 20:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hacker News 如何以 283 万次服务器点击率导致我们的服务崩溃（什么不该做！）</title>
-      <link>https://feed.indiehackers.world/post/af2e4fed10</link>
-      <description><![CDATA[即使有这样的限制，用户最终还是一天之内在 PrettyPolly 上使用了 2300 万个代币（单词，某种程度）（附图）！服务器首周点击量达283万次。
-即使将所有内容都放在付费专区之后，它仍然达到了支出上限，并且该应用程序在第 5 天就完全瘫痪了。幸运的是，一位朋友/前同事向我介绍了他在 OpenAI 的联系人。 10 分钟后，他提高了支出上限，PrettyPolly 又恢复了。我也欠他们俩很多。
-我们现已安排于 2024 年 3 月 27 日星期三启动 Product Hunt (https://www.producthunt.com/products/ Prettypolly），希望不会犯与上次相同的错误，但让我们看看！
-感谢您的阅读，
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/af2e4fed10</guid>
-      <pubDate>Mon, 18 Mar 2024 19:57:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hacker News 如何以 283 万次服务器点击率导致我们的服务崩溃（什么不该做！）</title>
-      <link>https://feed.indiehackers.world/post/f99101f061</link>
-      <description><![CDATA[即使有这样的限制，用户最终还是一天之内在 PrettyPolly 上使用了 2300 万个代币（单词，某种程度）（附图）！服务器首周点击量达283万次。
-即使将所有内容都放在付费专区之后，它仍然达到了支出上限，并且该应用程序在第 5 天就完全瘫痪了。幸运的是，一位朋友/前同事向我介绍了他在 OpenAI 的联系人。 10 分钟后，他提高了支出上限，PrettyPolly 又恢复了。我也欠他们俩很多。
-我们现已安排于 2024 年 3 月 27 日星期三启动 Product Hunt (https://www.producthunt.com/products/ Prettypolly），希望不会犯与上次相同的错误，但让我们看看！
-感谢您的阅读，
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/f99101f061</guid>
-      <pubDate>Mon, 18 Mar 2024 19:56:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hacker News 如何以 283 万次服务器点击率导致我们的服务崩溃（什么不该做！）</title>
-      <link>https://feed.indiehackers.world/post/164dbf5fe4</link>
-      <description><![CDATA[即使有这样的限制，用户最终还是一天之内在 PrettyPolly 上使用了 2300 万个代币（单词，某种程度）（附图）！服务器首周点击量达283万次。
-即使将所有内容都放在付费专区之后，它仍然达到了支出上限，并且该应用程序在第 5 天就完全瘫痪了。幸运的是，一位朋友/前同事向我介绍了他在 OpenAI 的联系人。 10 分钟后，他提高了支出上限，PrettyPolly 又恢复了。我也欠他们俩很多。
-我们现已安排于 2024 年 3 月 27 日星期三启动 Product Hunt (https://www.producthunt.com/products/ Prettypolly），希望不会犯与上次相同的错误，但让我们看看！
-感谢您的阅读，
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/164dbf5fe4</guid>
-      <pubDate>Mon, 18 Mar 2024 19:55:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
