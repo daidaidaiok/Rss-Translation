@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 19 Mar 2024 00:08:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 03:05:42 GMT</lastBuildDate>
     <item>
-      <title>Nvidia 的 GR00T 项目是一项创新举措，旨在彻底改变游戏 [...]</title>
-      <link>https://t.me/hn_summary/80108</link>
-      <description><![CDATA[Nvidia 的 GR00T 项目
-Nvidia 的 GR00T 项目是一项创新举措，旨在彻底改变游戏行业。凭借尖端技术和对可持续发展的关注，Nvidia 正在突破游戏领域的极限。围绕该项目的争议在于其使用先进的人工智能和机器学习，引发了有关道德和隐私的问题。然而，将技术与环保意识相结合的独特方法必将使 Project GR00T 成为游戏世界的游戏规则改变者。请继续关注 Nvidia 这一激动人心的开发成果的最新动态。]]></description>
-      <guid>https://t.me/hn_summary/80108</guid>
-      <pubDate>Tue, 19 Mar 2024 00:08:41 GMT</pubDate>
+      <title>[媒体]挪威凭借其雄心勃勃的环境在碳捕获和封存 (CCS) 技术方面处于领先地位 [...]</title>
+      <link>https://t.me/hn_summary/80129</link>
+      <description><![CDATA[挪威在北海储存二氧化碳的雄心勃勃的计划
+挪威凭借其位于北海的雄心勃勃的 Longship 项目，在碳捕获和封存 (CCS) 技术方面处于领先地位。政府计划将废碳储存在地下，以实现化石燃料活动脱碳并支持绿色转型。虽然一些人认为 CCS 是一个创可贴解决方案，但另一些人则认为它是减少排放的关键一步。这个耗资 26 亿美元的项目由石油巨头 Equinor、壳牌和 TotalEnergies 管理，旨在每年储存多达 650 万吨碳。然而，人们仍然担心海底注入碳的长期影响，环保人士质疑该技术的安全性和有效性。]]></description>
+      <guid>https://t.me/hn_summary/80129</guid>
+      <pubDate>Tue, 19 Mar 2024 03:05:42 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】沙特阿拉伯非石油收入占GDP的比例已达到50%，创历史最高水平，[...]</title>
-      <link>https://t.me/hn_summary/80107</link>
-      <description><![CDATA[沙特阿拉伯非石油收入达到 GDP 的 50%
-得益于沙特2030年愿景的成功，沙特阿拉伯的非石油收入已达到其GDP的50%，为有史以来的最高水平。该国的私营部门投资大幅扩张，艺术娱乐和实际服务出口以三位数增长。沙特王国正在转型为全球旅游和娱乐目的地，并计划开发可再生能源能力并生产蓝色氢。世界银行报告称，海湾合作委员会地区的经济多元化努力正在取得成效，非石油部门推动增长并创造就业机会。沙特阿拉伯和海湾合作委员会的未来看起来充满希望，因为它们继续关注经济多元化。]]></description>
-      <guid>https://t.me/hn_summary/80107</guid>
-      <pubDate>Mon, 18 Mar 2024 23:55:35 GMT</pubDate>
+      <title>[媒体] Kindertransport 是一项非凡的救援工作，拯救了近 10,000 名犹太人 [...]</title>
+      <link>https://t.me/hn_summary/80128</link>
+      <description><![CDATA[Kindertransport
+Kindertransport 是一项非凡的救援行动，在第二次世界大战前的几个月里从纳粹控制的领土上拯救了近 10,000 名犹太儿童。这些孩子被安置在英国的寄养家庭、旅馆和学校，英国政府支持和鼓励该计划。最后一次从欧洲大陆出发的运输是 1940 年 5 月在 SS Bodegraven 号上进行的，由 Geertruida Wijsmuller-Meijer 组织。孩子们所遭受的创伤，主要是与父母的分离，根据他们在战争期间和战后的经历而有所不同。这一令人心酸而勇敢的救援任务仍然是人类面对难以想象的悲剧时的同情心的有力证明。 （根据故事文本的 19% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/80128</guid>
+      <pubDate>Tue, 19 Mar 2024 03:01:37 GMT</pubDate>
     </item>
     <item>
-      <title>作为一名负责改善新公司开发人员体验的首席工程师，我面临 [...]</title>
-      <link>https://t.me/hn_summary/80106</link>
-      <description><![CDATA[询问 HN：您会为开发者体验做些什么 
-作为一名负责改善新公司开发人员体验的首席工程师，我面临着一个充满挑战的局面。由于缺乏文档、共享库和集中配置，还有很大的改进空间。我的计划包括创建 CI/CD 和 IaC 模板、实现文档共享 wiki、扫描机密以及强制执行 linting 和安全扫描。我还计划创建季度总结和反馈调查，以及标准化的新应用程序模板。不过，我正在向社区寻求建议，了解我还应该采取哪些措施来增强开发人员体验并简化流程。]]></description>
-      <guid>https://t.me/hn_summary/80106</guid>
-      <pubDate>Mon, 18 Mar 2024 23:29:22 GMT</pubDate>
+      <title>[媒体]永远的加州计划打造美国一个世纪以来第一个适合步行的城市，这是一个游戏 [...]</title>
+      <link>https://t.me/hn_summary/80127</link>
+      <description><![CDATA[美国百年来第一座适合步行的城市&lt; br /&gt;
+永远的加州计划打造美国一个世纪以来第一个适合步行的城市，这改变了城市规划的游戏规则。该提案强调步行、骑自行车和高质量的交通，重点关注紧凑型开发和“缺失中间”住房，以创建一个充满活力的社区。基于形式的规范、零停车最低标准以及每英亩 20 个单位的最低密度要求为可持续和高效的城市奠定了基础。虽然缺乏铁路连接最初引起了人们的担忧，但永远的加州致力于让城市铁路做好准备。凭借快速的审批流程和对真正特殊场所的愿景，这可能是未来城市发展的开创性项目。]]></description>
+      <guid>https://t.me/hn_summary/80127</guid>
+      <pubDate>Tue, 19 Mar 2024 02:57:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《星际迷航：第二阶段》是原《星际迷航》系列的计划续集，由 [...]</title>
-      <link>https://t.me/hn_summary/80105</link>
-      <description><![CDATA[星际迷航：第二阶段
-《星际迷航：第二阶段》是原版《星际迷航》系列的续集，由吉恩·罗登伯里创作。该剧原定成为派拉蒙电视服务公司的旗舰剧，计划试播两小时，共 13 集。除伦纳德·尼莫伊外，原班演员和新角色都将回归。尽管进行了前期制作工作，该系列最终还是被取消，取而代之的是一部故事片，即《星际迷航：电影》。为第二阶段创建的布景和设计被重新用于电影及其续集。派拉蒙电视网与《星际迷航》系列的构想终于在 1995 年凭借《星际迷航：航海家号》得以实现。 （根据故事文本的 32% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/80105</guid>
-      <pubDate>Mon, 18 Mar 2024 23:25:19 GMT</pubDate>
+      <title>[媒体]一颗爆炸的新星即将出现在我们的天空中。</title>
+      <link>https://t.me/hn_summary/80126</link>
+      <description><![CDATA[一颗爆炸的新星即将出现在我们的天空中。查看方法如下
+准备好迎接一生一次的宇宙事件吧，附近一颗正在爆炸的恒星，T Coronae Borealis，将上演一场从地球上可见的壮观表演。这颗新星每 80 年出现一次，预计将比北极星亮一周。为了捕捉这一令人难以置信的事件，请订阅 NASA 的最新动态，前往远离城市灯光的黑暗乡村地区。将这个观星机会与其他天体事件结合起来，例如四月的日全食和罕见的绿色彗星的出现。不要错过这个见证天空中“有趣且令人兴奋的即将到来的灾难”的机会。]]></description>
+      <guid>https://t.me/hn_summary/80126</guid>
+      <pubDate>Tue, 19 Mar 2024 02:42:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]刘和他在圣地亚哥州立大学的团队对edi的口味进行了研究[...]</title>
-      <link>https://t.me/hn_summary/80104</link>
-      <description><![CDATA[多种口味的食用蚂蚁
-圣地亚哥州立大学的刘和他的团队对食用蚂蚁的味道进行了研究，分析了四种不同物种的气味特征。他们发现，普通黑蚂蚁因甲酸而具有醋味，而奇卡塔纳蚂蚁则因醛和吡嗪而具有坚果和木质香气。令人惊讶的是，人类无法闻到蚂蚁用作信息素的烷烃。研究人员使用气相色谱-质谱法来识别挥发性化合物，并使用嗅觉计将它们与气味进行匹配。这项研究揭示了食用蚂蚁的复杂风味以及构成其独特口味的化合物。]]></description>
-      <guid>https://t.me/hn_summary/80104</guid>
-      <pubDate>Mon, 18 Mar 2024 23:21:15 GMT</pubDate>
+      <title>[媒体]Arthas.AI 是一个开源 Web 应用程序，用于与 ArthasGPT 交互，作为替代 [...]</title>
+      <link>https://t.me/hn_summary/80125</link>
+      <description><![CDATA[显示 HN：Arthas.ai – 角色的开源替代品.ai
+Arthas.AI 是一个用于与 ArthasGPT 交互的开源 Web 应用程序，作为 character.ai 的替代品。它允许用户配置 API、安装依赖项并启动服务器来处理所有 CPU 核心上的并发请求。该项目还包括设置前端的说明，并提供使用文本和图像模型的使用指南。作者提到 Arthas.AI 可以与其他产品进行比较TolkienTest.md 文件，突出显示其独特的特性和功能。&lt; br/&gt;]]></description>
+      <guid>https://t.me/hn_summary/80125</guid>
+      <pubDate>Tue, 19 Mar 2024 02:37:20 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：在严重抑郁症期间，您觉得哪些书可以理解？</title>
-      <link>https://t.me/hn_summary/80103</link>
-      <description><![CDATA[问HN：在严重抑郁症期间，您觉得哪些书可以理解？&lt; /a&gt;
-作者分享了他们患重度抑郁症的个人经历，以及他们如何在最黑暗的时期在两本书中找到安慰。其中之一是帕特里克·奥布莱恩的《Master and Commander》系列，以拿破仑战争为背景，另一部是唐娜·塔特的《金翅雀》。这些书不仅可读，而且在无功能和注意力不集中的时期提供安慰。作者表示希望为那些患有严重抑郁症的人推荐更多类似的书籍。]]></description>
-      <guid>https://t.me/hn_summary/80103</guid>
-      <pubDate>Mon, 18 Mar 2024 23:16:11 GMT</pubDate>
+      <title>[媒体]美国经济不顾硬着陆预期，强劲增长 [...]</title>
+      <link>https://t.me/hn_summary/80124</link>
+      <description><![CDATA[美国经济摆脱了硬着陆
+自 2022 年底以来，美国经济没有出现硬着陆的预期，增长强劲，通胀下降。政府刺激、固定利率贷款和高需求等因素促成了这一成功。移民增加了劳动力，同时生产率也大幅提高，这可能预示着经济的转变。尽管未来存在潜在挑战，例如劳动力市场趋紧，但前景仍然乐观。凭借持续的政府投资和潜在的生产力提升，美国的经济势头可能会持续下去，为未来几年的增长奠定坚实的基础。 （根据 82% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/80124</guid>
+      <pubDate>Tue, 19 Mar 2024 02:33:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在寻求从电子废物中回收有价值的金属时，废啤酒酵母成为[...]</title>
-      <link>https://t.me/hn_summary/80102</link>
-      <description><![CDATA[废啤酒酵母作为生物吸附剂，用于从多金属废物中回收金属
-为了从电子废物中回收有价值的金属，废啤酒酵母成为一种有前景的生物吸附剂。由于酿造业会产生大量残留酵母，其低成本、生态友好性和明确的化学成分使其成为有吸引力的选择。虽然之前的研究表明使用生物吸附的金属回收率很高，但从多金属溶液中选择性回收仍然存在挑战。这项研究引入了一种新方法，利用废啤酒酵母有选择地从液体废物流中回收铝、铜、锌和镍。该过程高效、可持续且具有成本效益，为日益严重的电子垃圾问题提供了潜在的解决方案。 （根据故事文本的 18% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/80102</guid>
-      <pubDate>Mon, 18 Mar 2024 23:12:08 GMT</pubDate>
+      <title>[媒体] 介绍 Inversion，这是一个突破性的结构化语言模型系列，可添加 [...]</title>
+      <link>https://t.me/hn_summary/80123</link>
+      <description><![CDATA[反演：快速、可靠的结构化法学硕士
+推出 Inversion，这是一个突破性的结构化语言模型系列，可解决传统人工智能系统中的速度、可靠性和推理挑战。我们的第一代模型在结构化任务方面处于领先地位，与替代方案相比，运行速度提高了 100 倍，延迟降低了 10 倍，开销减少了 10,000 倍。我们正在扩大对这些模型的访问，并开发下一代模型以实现更快的推理速度。与我们一起踏上变革人工智能的旅程，创造一个技术增强人类潜力的未来。注册抢先体验并随时了解我们的最新进展。]]></description>
+      <guid>https://t.me/hn_summary/80123</guid>
+      <pubDate>Tue, 19 Mar 2024 02:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 爱尔兰名字可能很难发音，但只要稍加指导，您就可以掌握它们。</title>
-      <link>https://t.me/hn_summary/80101</link>
-      <description><![CDATA[您可能说错的爱尔兰名字以及如何发音&lt; /a&gt;
-爱尔兰名字可能很难发音，但只要稍加指导，您就可以掌握它们。从 Cillian 到 Saoirse，了解爱尔兰语规则可以帮助您掌握这些名字的发音。在爱尔兰语言专家 Darach Ó Séaghdha 的帮助下，您可以了解为什么 Siobhán 和 Oisín 这样的名字听起来如此。如果您对 Fiadh 和​​ Rían 等名字的日益流行感到好奇，现代爱尔兰命名趋势正在向形容词和名词转变。因此，下次您遇到爱尔兰名字时，只需询问它的发音即可 - 您可能会对答案感到惊讶。 （根据故事文本的 75% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/80101</guid>
-      <pubDate>Mon, 18 Mar 2024 22:58:00 GMT</pubDate>
+      <title>[媒体]乳齿象旗舰实例要求AI披露；</title>
+      <link>https://t.me/hn_summary/80122</link>
+      <description><![CDATA[旗舰 Mastodon 实例要求 AI 披露；禁止仅使用人工智能的帐户
+在 mastodon.social，我们很自豪地宣布，我们正在采取反对在我们的平台上使用人工智能的立场。我们相信透明度和问责制，这就是为什么我们现在要求所有用户披露他们是否在其帐户中使用人工智能。此外，我们将禁止仅使用人工智能的帐户，以确保为我们的用户提供更真实、更人性化的体验。加入我们，创建一个重视真正互动和联系的社区。]]></description>
+      <guid>https://t.me/hn_summary/80122</guid>
+      <pubDate>Tue, 19 Mar 2024 02:03:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这项研究中，我们深入研究了高度可维护的代码的回报，挑战 [...]</title>
-      <link>https://t.me/hn_summary/80100</link>
-      <description><![CDATA[增加而不是减少：调查高度可维护代码的回报
-在这项研究中，我们深入研究了高度可维护的代码的回报，挑战了“随着时间的推移，维护代码的价值会变得越来越低”的普遍看法。通过分析大量软件项目数据集，我们发现，从长远来看，高度可维护的代码实际上会带来更高的回报。这一有争议的发现挑战了软件开发中的传统观念，并强调了优先考虑代码可维护性的重要性。我们的研究揭示了投资可维护代码的惊人好处，最终提高了软件项目的效率和生产力。]]></description>
-      <guid>https://t.me/hn_summary/80100</guid>
-      <pubDate>Mon, 18 Mar 2024 22:51:56 GMT</pubDate>
+      <title>为优先考虑 sp 的本机应用程序寻找最快的跨平台 GUI 堆栈/策略 [...]</title>
+      <link>https://t.me/hn_summary/80121</link>
+      <description><![CDATA[询问 HN：最快的跨平台 GUI 堆栈/策略
+正在为优先考虑速度、响应能力和最小内存使用的本机应用程序寻找最快的跨平台 GUI 堆栈/策略吗？加入用户所在的 news.ycombinator.com 上的讨论分享他们对创建即使计算机的其他部分速度变慢也能保持响应的应用程序的见解。考虑到不同的硬件功能和 CPU 过热的趋势，本次对话为寻求优化应用程序性能的开发人员提供了宝贵的建议。加入辩论并发现构建闪电般快速、高效的跨平台 GUI 的最佳策略。]]></description>
+      <guid>https://t.me/hn_summary/80121</guid>
+      <pubDate>Tue, 19 Mar 2024 01:41:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]脑震荡长期以来一直被误解，经常建议患者在医院休息 [...]</title>
-      <link>https://t.me/hn_summary/80099</link>
-      <description><![CDATA[我们一直错误地治疗脑震荡
-脑震荡长期以来一直被误解，经常建议患者在黑暗的房间里休息，直到症状消失。然而，最近的研究表明，积极的康复，包括锻炼和阅读等活动，对于脑震荡的恢复至关重要。尽管如此，许多患者仍然接受过时的休息建议。认为脑震荡只是“大脑瘀伤”的误解未能捕捉到头部受伤期间和之后颅骨内部发生的复杂变化。了解脑震荡的真正性质对于为受影响的人提供有效的治疗和支持至关重要。 （根据故事文本的 51% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/80099</guid>
-      <pubDate>Mon, 18 Mar 2024 22:47:52 GMT</pubDate>
+      <title>[媒体]在 Canonical，我们相信通过开放 [...]</title>
+      <link>https://t.me/hn_summary/80120</link>
+      <description><![CDATA[Canonical 面试
+在 Canonical，我们相信通过开源技术为客户创造创新的解决方案。在这次采访中，我们讨论了 Canonical 为那些希望在科技世界做出贡献的人提供的独特文化和机会。从灵活的工作安排到尖端项目，我们的团队成员分享了他们在 Canonical 工作的经验和见解。加入我们，我们将深入探索开源开发的世界，看看您如何成为真正开创性事物的一部分。]]></description>
+      <guid>https://t.me/hn_summary/80120</guid>
+      <pubDate>Tue, 19 Mar 2024 01:34:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
