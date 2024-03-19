@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 19 Mar 2024 09:05:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 12:07:22 GMT</lastBuildDate>
+    <item>
+      <title>我整理了一个解决方案，无需培训即可从非结构化文档中提取数据</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1biilmu/i_put_together_a_solution_to_extract_data_from/</link>
+      <description><![CDATA[我创建了一个解决方案，可以自动从非结构化文档中提取数据，无需培训。传统上，此类解析器需要在大量文档上进行训练才能获得良好的准确性。我们开发了一种开箱即用的技术，准确率高达 99%。定价按页付费，可以通过 API 集成到其他应用程序中。 我们目前处于测试阶段，因此我们将不胜感激任何反馈或用例。 尝试一下免费提供，让我知道您的想法： https://www.extracta.ai ​   由   提交/u/AlexBarzoiu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1biilmu/i_put_together_a_solution_to_extract_data_from/</guid>
+      <pubDate>Tue, 19 Mar 2024 12:04:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>惨痛的教训...芯片性能类似</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bigv99/bitter_lesson_similar_for_chip_performance/</link>
+      <description><![CDATA[苏丽莎 2019 年主题演讲， https://youtu.be/nuVBid9e3RA?t=501 过去十年芯片性能提升的60%来自芯片制造，只有17%来自芯片架构设计. 与人工智能的惨痛教训非常相似，归根结底，人类的“出色的模型设计”似乎在性能增益方面最不重要......    由   提交 /u/xiikjuy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bigv99/bitter_lesson_similar_for_chip_performance/</guid>
+      <pubDate>Tue, 19 Mar 2024 10:17:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要及时帮助</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1big4mb/prompt_help_needed/</link>
+      <description><![CDATA[所以我让克劳德帮我设计了一个新颖的集思广益情节、魔法系统机制、角色信息等。我们已经发送了大量文本来回。不幸的是，我已经达到了一个临界点，他的上下文窗口太大了，以至于在很少的消息之后就超出了我对令牌的日常使用限制。我想让克劳德总结这些消息以及他对它们的理解，这样我就可以复制并粘贴他的回复并开始一个新的实例，这样我就可以继续集思广益，而不必严重减少消息长度和发送的消息总数。我们还必须生成自己的速记单词和句子来轻松传达多个段落的概念和信息，这已经增加了我的问题的复杂性。如何确保最多的信息传递到新对话？   由   提交 /u/ProcedureLeading1021   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1big4mb/prompt_help_needed/</guid>
+      <pubDate>Tue, 19 Mar 2024 09:25:40 GMT</pubDate>
+    </item>
     <item>
       <title>最好的人工智能男友应用程序？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1biesim/best_ai_boyfriend_app/</link>
@@ -60,27 +81,6 @@
       <description><![CDATA[刚刚意识到我每个月使用 3 个工具（chatgpt、copilot 和 Claude）的费用高达 50 美元，并且很好奇这是否是正常金额使用情况。我妻子认为这不是哈哈..    由   提交 /u/oujib   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bi8vr9/how_much_yall_spending_on_ai_tools_over_here/</guid>
       <pubDate>Tue, 19 Mar 2024 02:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>编程的危险：克劳德版。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bi75li/the_perils_of_programming_claude_edition/</link>
-      <description><![CDATA[我不确定这对任何人来说有多有趣，但这让我有点惊讶。我让 Claude 给我写一个简短的程序来在 AutoHotKey 中创建一些宏按钮。我要求宏是可配置的并且是程序文件的一部分。令人惊讶的是，Claude 编写了这个应用程序，大约 40 行，并且第一次就完美运行。这些按键被标记为“按钮 1”、“按钮 2”等，并且它们输出“按钮 1 的文本”等。 所以我去更改了按钮和标签的文本。不去。该应用程序无法运行。克劳德和我为此苦苦挣扎了两个小时，除非它直接回到原来的文本，否则我们无法让它发挥作用。克劳德建议了各种类型的更正，但没有任何效果。 最后，我自己浏览了该应用程序，对文本做了一点修改。即使是一个微小的更改也会禁用该应用程序。我终于发现（我不是程序员，我只是修补）有一行正在读取按钮标签……我想，“为什么要这样做？” 回到 Claude I去。这条线到底在做什么，为什么？克劳德告诉我，它读取数字（标签的一部分）来找出要输出的输出。所以...长话短说，按钮 1 中没有“1”，并且找不到输出编号“1”，因此它什么也不输出。 最终 Claude 能够编写一个应用程序这做到了我想要的，并且比没有它时做得更快更好，但是……要小心，你必须非常小心地提出你想要的东西。祝你好运。   由   提交 /u/Intraluminal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bi75li/the_perils_of_programming_claude_edition/</guid>
-      <pubDate>Tue, 19 Mar 2024 00:39:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>卫星/地形照片的最佳人工智能升级器？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bi6lnx/best_ai_upscaler_for_satelliteterrain_photos/</link>
-      <description><![CDATA[我必须指定我正在创作数字艺术作品，并且我有一些低分辨率卫星拼贴画。我尝试了 Topaz Gigapixel AI，效果还不错，我喜欢它对森林/草地的作用，但想知道是否还有更多功能。   由   提交/u/nastupchanyn1488  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bi6lnx/best_ai_upscaler_for_satelliteterrain_photos/</guid>
-      <pubDate>Tue, 19 Mar 2024 00:15:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一些人工智能专家来参加学校面试。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bi6c8r/i_need_some_ai_expert_for_school_interview/</link>
-      <description><![CDATA[您好，我目前正在开展一个有关人工智能的学校项目，我想知道是否有人工智能专家可以通过回答来帮助我关于人工智能的五个简单问题。预先感谢您:)   由   提交/u/Accomplished_Fix4180   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bi6c8r/i_need_some_ai_expert_for_school_interview/</guid>
-      <pubDate>Tue, 19 Mar 2024 00:04:08 GMT</pubDate>
     </item>
     <item>
       <title>在人工智能取代我之前，我应该放弃学业去找工作吗？</title>
