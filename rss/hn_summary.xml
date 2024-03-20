@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 20 Mar 2024 12:06:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 15:03:29 GMT</lastBuildDate>
     <item>
-      <title>为什么无关的构建步骤会使我的 Zig 应用程序速度提高 10 倍？</title>
-      <link>https://t.me/hn_summary/80371</link>
-      <description><![CDATA[为什么无关的构建步骤会使我的 Zig 应用程序速度提高 10 倍？&lt; /a&gt;
-摘要：作者探索了一个令人惊讶的发现，即向 Zig 应用程序添加额外的构建步骤使其运行速度提高了近 10 倍。通过实验并寻求 Zig 社区的帮助，他们发现 bash 管道中的所有命令都是并行运行的，从而导致观察到的性能差异。作者最初对 bash 管道如何工作的误解导致了混乱。通过调整基准测试方法并直接运行编译的二进制文件，他们能够准确地测量应用程序的性能。这一发现凸显了理解所使用的工具和技术的复杂性的重要性。 （根据 60% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/80371</guid>
-      <pubDate>Wed, 20 Mar 2024 12:06:12 GMT</pubDate>
+      <title>[媒体]在我最近的帖子中，我深入研究了文化非独身者的概念，探索文化如何[...]</title>
+      <link>https://t.me/hn_summary/80414</link>
+      <description><![CDATA[文化优于政策：出生率下降
+在我最近的文章中，我深入研究了“非自愿文化”的概念，探讨文化和生物因素如何常常掩盖塑造社会结果的政策干预。借鉴斯科特·亚历山大对社会问题和发达国家出生率下降的分析等例子，我认为文化和生物学在影响行为方面比自上而下的政策措施发挥着更重要的作用。通过考察共产主义罗马尼亚的极端生育政策，我强调了强制控制出生率的意外后果和最终失败。最终，我主张更深入地了解文化和生物学在塑造社会趋势方面的作用，强调它们相对于传统政策干预的力量。 （根据故事文本的 44% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/80414</guid>
+      <pubDate>Wed, 20 Mar 2024 15:03:29 GMT</pubDate>
     </item>
     <item>
-      <title>你好，HN！</title>
-      <link>https://t.me/hn_summary/80370</link>
-      <description><![CDATA[Lago 正在招聘来扩展 Stripe Billing 的开源替代方案&lt; /a&gt;
-你好，HN！ Raffi 和我在 YC 的 S21 批次中以我们最初的想法为基础，创立了 Lago，一个用于实时使用计量和计费的开源平台。我们已从 FirstMark 等顶级投资者那里筹集了 2200 万美元，并为 Mistral.ai 等客户提供服务 和 Together.ai。我们正在欧洲招聘各种职位，并计划稍后扩展到美国。我们的堆栈是 Ruby 和 React.js，我们正在寻找热爱解决独特问题、经验丰富的个人贡献者。我们的目标是尽量减少会议和层级结构。与 MongoDB 的副总裁 DevRel 交谈，了解我们的愿景和雄心。对于回复申请的任何延迟，我们深表歉意，并正在努力改进。请通过 Talent@getlago.com 或通过我们的 YC 职位页面联系我们。感谢您的耐心和理解！安托。]]></description>
-      <guid>https://t.me/hn_summary/80370</guid>
-      <pubDate>Wed, 20 Mar 2024 12:02:08 GMT</pubDate>
+      <title>Arch Linux 最小容器用户区 100% 可重现 – 现在怎么办？</title>
+      <link>https://t.me/hn_summary/80413</link>
+      <description><![CDATA[Arch Linux 最小容器用户空间 100% 可重现 – 现在怎么办？
+感谢 dvzrv 和 Foxboron 的辛勤工作，Arch Linux 最小容器用户空间现已 100% 可复制。然而，下一步是使 OCI 容器镜像本身可重现。作者不确定 Docker Hub 上的“官方”镜像是否有相关工作。他们提到了由于注册表生成的清单文件和潜在的镜像更改而导致复制容器映像的挑战。尽管取得了进展，但并非所有重建者都报告了 100% 的可重复性。作者还提到了他们正在开发的一个名为 repro-env 的供应链安全工具。]]></description>
+      <guid>https://t.me/hn_summary/80413</guid>
+      <pubDate>Wed, 20 Mar 2024 14:57:24 GMT</pubDate>
     </item>
     <item>
-      <title>最新版本的 Firefox（版本 124）为 Mac 和 Android 用户带来了改进。</title>
-      <link>https://t.me/hn_summary/80369</link>
-      <description><![CDATA[Firefox 124 在 Android 和 Mac 上进行了改进，并添加了 PDF 的键盘导航&lt; /a&gt;
-最新版本的 Firefox（版本 124）为 Mac 和 Android 用户带来了改进。 Android 用户现在可以通过简单的手势刷新页面，而 Mac 用户将受益于增强的全屏模式。现在可以通过插入符号浏览来实现 PDF 的键盘导航，满足视觉障碍用户和键盘爱好者的需求。屏幕唤醒锁定 API 可防止屏幕保护程序和变暗，非常适合电影观看者和导航应用程序。虽然包含一些以开发人员为中心的更新，但测试版中缺少 Cookie Banner Blocker 功能，但用户可以使用替代扩展。总体而言，Firefox 124 提供了增强功能，带来更流畅的浏览体验。]]></description>
-      <guid>https://t.me/hn_summary/80369</guid>
-      <pubDate>Wed, 20 Mar 2024 11:58:04 GMT</pubDate>
+      <title>[媒体] Z 世代和千禧一代对美国深感不满</title>
+      <link>https://t.me/hn_summary/80412</link>
+      <description><![CDATA[Z世代和千禧一代极度不快乐导致美国全球幸福排名下降&lt; /a&gt;
+美国的 Z 世代和千禧一代导致全球幸福感排名下降，排名滑落至第 23 位。令人惊讶的是，尽管美国年轻人拥有更多的社会关系，但他们的幸福感却比老一辈人低得多。孤独是一个关键因素，千禧一代感觉比婴儿潮一代更少受到支持。该报告还强调了代际财富分配的差异。中国和俄罗斯的幸福感排名较低，而阿富汗、黎巴嫩和莱索托是最不幸福的国家。最近加沙的战争可能影响了巴勒斯坦的幸福水平。总体而言，美国不同年龄段的幸福感存在显着差距。]]></description>
+      <guid>https://t.me/hn_summary/80412</guid>
+      <pubDate>Wed, 20 Mar 2024 14:53:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 talkhub.framer.ai 上探索革命性的 AI 视频工具 @TalkHub。</title>
-      <link>https://t.me/hn_summary/80368</link>
-      <description><![CDATA[一款帮助语言学习者高效学习多种语言的人工智能视频工具
-在 @TalkHub rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;talkhub.framer.ai。告别传统的视频编辑软件，迎接高效的语言学习。该工具不仅可以快速转录和导出字幕，还提供AI翻译功能。 @TalkHub 的与众不同之处在于它能够在您的计算机上本机运行，从而确保数据隐私。加入无数已经转换的用户的行列，体验前所未有的无缝语言学习体验。不要错过这个改变游戏规则的工具。]]></description>
-      <guid>https://t.me/hn_summary/80368</guid>
-      <pubDate>Wed, 20 Mar 2024 11:53:59 GMT</pubDate>
+      <title>[媒体]全球范围内的电子废物已达到创纪录的水平，增长了五倍[...]</title>
+      <link>https://t.me/hn_summary/80411</link>
+      <description><![CDATA[电子垃圾数量已达到创纪录水平
+全球电子废物已达到创纪录水平，其增长速度比回收率快五倍。 2022年，产生了6200万吨电子垃圾，其中只有22.3%被收集和回收。电子垃圾产生量与回收能力之间的差距正在扩大，预计到 2030 年回收率将下降至 20%。制造商因不对其产品报废处理承担责任而受到批评。电子垃圾不仅造成环境和健康风险，还导致气候变化。适当的电子废物管理可以减少碳排放并回收有价值的金属，强调需要增加基础设施和监管投资。]]></description>
+      <guid>https://t.me/hn_summary/80411</guid>
+      <pubDate>Wed, 20 Mar 2024 14:49:15 GMT</pubDate>
     </item>
     <item>
-      <title>询问 HN：本月英国所有 IT 失败背后的原因是什么？</title>
-      <link>https://t.me/hn_summary/80367</link>
-      <description><![CDATA[询问 HN：本月英国所有 IT 故障背后的原因是什么？&lt; /a&gt;
-英国本月似乎面临一系列 IT 故障，麦当劳、Sainsbury&#39;s 和 Greggs 等大公司因支付系统问题而暂时关闭。每个人心中的问题是：这些事件有关联吗？是什么造成了这些广泛的破坏？加入 Hacker News 的讨论，分享您对困扰英国的神秘 IT 故障的见解和理论。这些事件之间的争议和潜在联系成为一个引人注目且令人担忧的讨论话题。]]></description>
-      <guid>https://t.me/hn_summary/80367</guid>
-      <pubDate>Wed, 20 Mar 2024 11:49:53 GMT</pubDate>
+      <title>[媒体]美国媒体的崩溃对许多人来说都是沉重打击，各大媒体纷纷裁员 [...]</title>
+      <link>https://t.me/hn_summary/80410</link>
+      <description><![CDATA[美国媒体正在崩溃
+美国媒体的崩溃对许多人来说都是打击，《Intercept》和《体育画报》等主要出版物都进行了裁员。要求采取行动的呼声越来越高，提出了媒体政策改革和新的融资模式。加利福尼亚州和新泽西州等州正在考虑公民媒体模式和媒体补贴。迫切需要立即减少记者的伤害，互助网络和记者合作社等举措正在兴起，以支持那些受到裁员影响的人。随着传统的市场驱动模式不断失效，媒体行业现在已经到了变革的时候了。]]></description>
+      <guid>https://t.me/hn_summary/80410</guid>
+      <pubDate>Wed, 20 Mar 2024 14:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>令人惊讶的是，洪都拉斯总统西奥马拉·卡斯特罗再次采取大胆立场 [...]</title>
-      <link>https://t.me/hn_summary/80366</link>
-      <description><![CDATA[洪都拉斯与加密货币自由主义投资者展开激烈斗争&lt; br/&gt;
-令人惊讶的是，洪都拉斯总统西奥马拉·卡斯特罗采取了大胆立场，反对美国加密货币投资者利用世界银行国际投资争端解决中心（ICSID）从该国攫取数十亿美元。这些投资者是一群加密自由主义者，他们受益于由毒品支持的政权制定的法律，该法律后来被洪都拉斯公众废除。卡斯特罗让洪都拉斯退出ICSID的决定得到了国际经济学家的支持，他们认为这是对民主的捍卫。这场战斗凸显了 ZEDE 有争议的历史，ZEDE 是通过军事政变和毒贩影响实施的。随着投资者通过世界银行寻求赔偿，斗争仍在继续，而卡斯特罗则坚定保护洪都拉斯主权。]]></description>
-      <guid>https://t.me/hn_summary/80366</guid>
-      <pubDate>Wed, 20 Mar 2024 11:45:50 GMT</pubDate>
+      <title>令人兴奋的消息！</title>
+      <link>https://t.me/hn_summary/80409</link>
+      <description><![CDATA[实时矢量图形的 Rive 渲染器现已开源
+令人兴奋的消息！ Rive 渲染器现已开源，彻底改变了实时矢量图形。这款定制渲染器可确保以 120 fps 的速度以闪电般的速度渲染矢量图形和文本，并保持原始质量。经过两年的发展，我们已经完全掌控了整个用户体验，优化了性能和速度。通过创建我们自己的渲染器，我们现在可以实现高度要求的功能，例如模糊和阴影。 Rive 渲染器的工作原理是将矢量路径简化为独特的三角形面片，利用强大的 3D 硬件绘制贝塞尔曲线。在 iOS、Android 或 Web 上尝试一下，并在 Github 上探索我们的 Unity 和 Unreal 集成。]]></description>
+      <guid>https://t.me/hn_summary/80409</guid>
+      <pubDate>Wed, 20 Mar 2024 14:41:06 GMT</pubDate>
     </item>
     <item>
-      <title>马萨诸塞州索尔兹伯里一座为保护海滨房屋而建造的昂贵沙丘消失了 [...]</title>
-      <link>https://t.me/hn_summary/80365</link>
-      <description><![CDATA[一扫而光：为保护美国家园而建造的价值 50 万美元的沙丘消失在天
-马萨诸塞州索尔兹伯里一座为保护海滨房屋而建造的昂贵沙丘在完工后三天内就消失了，令房主们悲痛欲绝。这座沙丘由 15,000 吨沙子制成，旨在保护这些财产免受海平面上升和严重风暴的影响。尽管沙丘的寿命很短，但该项目背后的志愿者组织声称，沙丘通过防止进一步的破坏达到了其目的。现在，居民正在寻求国家援助来补充沙子，因为马萨诸塞州的海滩上不允许有更多的永久性建筑。该事件突显了沿海社区在气候变化和极端天气事件面前面临的持续挑战。]]></description>
-      <guid>https://t.me/hn_summary/80365</guid>
-      <pubDate>Wed, 20 Mar 2024 11:40:40 GMT</pubDate>
+      <title>OpenAI 的 Sora 模型是一种突破性的视频生成模型，它利用扩散模型 [...]</title>
+      <link>https://t.me/hn_summary/80408</link>
+      <description><![CDATA[OpenAI 的 Sora 模型如何工作
+OpenAI 的 Sora 模型是一种突破性的视频生成模型，它利用扩散模型和 Transformer 架构来创建高度逼真的视频。该模型需要大量计算能力进行训练，并且有可能显着增加对 GPU 推理计算的需求。 Sora 的质量和功能标志着视频生成领域的重大进步，对现实世界的应用产生了影响，并有可能取代库存视频片段。该模型的可扩展性表明视频生成模型的快速进步，能够为机器人和自动驾驶汽车等领域生成合成数据。 Sora 从视频数据中学习世界模型的潜力可能会彻底改变现实世界任务中实体代理的训练。 （根据 54% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/80408</guid>
+      <pubDate>Wed, 20 Mar 2024 14:37:02 GMT</pubDate>
     </item>
     <item>
-      <title>JetMove 是一款增强 JetBrains IDE 中的导航和插入符号功能的工具。</title>
-      <link>https://t.me/hn_summary/80364</link>
-      <description><![CDATA[显示 HN JetMove – Jetbrians IDE 的额外导航和多个插入符增强功能&lt; /a&gt;
-JetMove 是一款增强 JetBrains IDE 中的导航和插入符号功能的工具。它提供了额外的功能，例如多个插入符和改进的导航选项。代码片段展示了 JetMove 如何简化 IDE 中文本对象的创建和操作。该工具旨在简化编码流程，提高使用 JetBrains IDE 的开发人员的效率。 （根据 24% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/80364</guid>
-      <pubDate>Wed, 20 Mar 2024 11:36:36 GMT</pubDate>
+      <title>穆斯特农场 (Must Farm) 被称为“英国的庞贝古城”，让您仿佛回到了时光凝固的青铜时代村庄。</title>
+      <link>https://t.me/hn_summary/80407</link>
+      <description><![CDATA[“英国庞贝古城”揭示了青铜时代的村庄被冻结的时间
+穆斯特农场 (Must Farm) 被称为“英国的庞贝古城”，让您时光倒流，回到青铜时代的村庄。该遗址在 2,850 年前被一场大火烧毁，为彼得伯勒附近繁荣社区提供了令人心酸的快照。考古学家发现了保存完好的圆形房屋、工具、纺织品，甚至还发现了一个放在吃了一半的粥里的木勺。火灾起因仍未解开，人们猜测起火原因可能是意外或故意的。令人惊讶的是，该定居点仅被占领了一年，这挑战了有关青铜时代社会的假设。在即将举行的展览中探索这一考古天堂及其对古代英国生活的见解。]]></description>
+      <guid>https://t.me/hn_summary/80407</guid>
+      <pubDate>Wed, 20 Mar 2024 14:32:57 GMT</pubDate>
     </item>
     <item>
-      <title>推出黑曜石提醒同步！</title>
-      <link>https://t.me/hn_summary/80363</link>
-      <description><![CDATA[显示 HN：黑曜石任务的 macOS 提醒同步&lt; br/&gt;
-推出黑曜石提醒同步！现在，您可以轻松地将任务从 Obsidian 同步到 MacOS Reminders.app只需几个简单的步骤。告别手动转移任务的麻烦，让所有事情井然有序地集中在一处。对于同时依赖 Obsidian 和 MacOS 提醒的用户来说，此工具是一个改变游戏规则的工具。用于任务管理的应用程序。使用 Obsidian 提醒同步，轻松掌控您的待办事项列表。现在就在 turquoisehexagon.co.uk 上查看。]]></description>
-      <guid>https://t.me/hn_summary/80363</guid>
-      <pubDate>Wed, 20 Mar 2024 11:32:32 GMT</pubDate>
+      <title>[媒体] 正在寻找 Movespring 替代品？</title>
+      <link>https://t.me/hn_summary/80406</link>
+      <description><![CDATA[展示 HN：Movespring 替代方案 – DistantRace
+正在寻找 Movespring 替代品？ Distantrace.com 就是您的最佳选择！我们的平台可以让企业轻松为员工设置挑战，有多种挑战类型可供选择。最好的部分？一切都是自动化的，因此无需手动发送结果或屏幕截图。只需专注于这项运动，看看您在挑战台上与您的同事相比如何。加入我们 Distantrace.com，开始有趣又麻烦的比赛-高速公路。 - Līga Akmentiņa，挑战赛组织者。]]></description>
+      <guid>https://t.me/hn_summary/80406</guid>
+      <pubDate>Wed, 20 Mar 2024 14:28:53 GMT</pubDate>
     </item>
     <item>
-      <title>法国概率论学家米歇尔·塔拉格兰 (Michel Talagrand) 荣获著名的阿贝尔奖 [...]</title>
-      <link>https://t.me/hn_summary/80362</link>
-      <description><![CDATA[米歇尔·塔拉格兰德 (Michel Talagrand) 因随机性工作荣获阿贝尔奖&lt; br/&gt;
-法国概率论学家米歇尔·塔拉格兰德因其在理解随机过程方面的开创性工作而被授予著名的阿贝尔奖。塔拉格兰的方法彻底改变了这个领域，可以精确预测由机会控制的复杂系统的结果。尽管塔拉格兰德在个人生活中面临包括视力丧失在内的挑战，但他对数学的奉献精神为概率论做出了重大贡献。他的集中不等式和泛型链法在各个学科都有应用，使他成为数学界备受尊敬的人物。塔拉格兰德能够简化复杂的概念并通过教科书分享他的知识，这体现了他对增进数学理解的承诺。]]></description>
-      <guid>https://t.me/hn_summary/80362</guid>
-      <pubDate>Wed, 20 Mar 2024 11:28:28 GMT</pubDate>
+      <title>[媒体] GitHub 在说什么？</title>
+      <link>https://t.me/hn_summary/80405</link>
+      <description><![CDATA[GitHub 在谈论什么？
+在我们网站上的这个新系列中，我们将了解不同公司在其网站上谈论的内容。今天，我们将深入探讨 GitHub，这家开创这一切的开发者产品公司。通过分析他们的 H1 和 H2 标题，我们发现他们的重点是共同构建人工智能技术并将其集成到他们的平台中。简洁的消息传递有效地将 GitHub 定位为世界领先的人工智能驱动的开发者平台。这是一个强大的组合，毫无疑问他们的优先事项。信息清晰、引人注目，让我们想要了解更多。这是用几句话传达关键信息的聪明方法。]]></description>
+      <guid>https://t.me/hn_summary/80405</guid>
+      <pubDate>Wed, 20 Mar 2024 14:24:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
