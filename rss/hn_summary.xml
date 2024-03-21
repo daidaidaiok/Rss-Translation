@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 20 Mar 2024 21:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 00:16:09 GMT</lastBuildDate>
     <item>
-      <title>Debian 13 和 Ubuntu 24.04 的官方 apt 存储库现在支持安装 r [...]</title>
-      <link>https://t.me/hn_summary/80468</link>
-      <description><![CDATA[官方 apt 存储库中的 rustup：从 Debian 13 和 Ubuntu 24.04 开始&lt; /a&gt;
-Debian 13 和 Ubuntu 24.04 的官方 apt 存储库现在支持使用命令“sudo apt install rustup”安装 rustup。对于 Windows 用户，安装过程涉及运行 rustup-init.exe，而 Unix 用户可以使用命令“curl --proto &#39;=https&#39; --tlsv1.2 -sSf https://sh.rustup.rs | sh。&quot;此外，用户可以通过将参数传递给 rustup-init 来自定义安装。需要注意的是，rustup 项目不维护安装过程中提到的任何软件包。对于那些喜欢手动安装的人，可以从 Rust 网站下载 rustup-init。]]></description>
-      <guid>https://t.me/hn_summary/80468</guid>
-      <pubDate>Wed, 20 Mar 2024 21:02:40 GMT</pubDate>
+      <title>[媒体] 探索流行游戏《时空幻境》中倒带功能的独特算法。</title>
+      <link>https://t.me/hn_summary/80506</link>
+      <description><![CDATA[《时空幻境》倒带背后的独特算法
+探索流行游戏《时空幻境》中倒带功能的独特算法。与传统游戏中时间倒带是一种简单的机制不同，《时空幻境》的算法允许玩家以复杂且具有策略性的方式操纵时间。这种创新方法为游戏玩法增添了新的挑战和创造力，使《时空幻境》从其他益智平台游戏中脱颖而出。在我们的网站上详细了解这一改变游戏规则的功能背后的迷人技术。 #Braid #gamealgorithm #rewindfeature]]></description>
+      <guid>https://t.me/hn_summary/80506</guid>
+      <pubDate>Thu, 21 Mar 2024 00:16:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果可能面临核心技术费和安全警告的麻烦 [...]</title>
-      <link>https://t.me/hn_summary/80467</link>
-      <description><![CDATA[Apple 可能因安全警告以及核心技术而陷入麻烦费用
-欧盟反垄断负责人表示，苹果可能因核心技术费和替代应用商店的安全警告而面临麻烦。核心技术费要求开发者每年每次安装向苹果支付 50 欧分，这可能会让流行应用程序的独立开发者破产。此外，苹果发出的阻止用户使用第三方应用商店的安全警告也被欧盟批评为“不明智”。玛格丽特·维斯塔格警告不要贬低竞争对手，并表示欧盟将调查这些做法。围绕苹果收费和警告的争议可能会导致监管机构进一步审查。]]></description>
-      <guid>https://t.me/hn_summary/80467</guid>
-      <pubDate>Wed, 20 Mar 2024 20:53:35 GMT</pubDate>
+      <title>[媒体]石油和天然气高管终于坦诚地承认他们缺乏一致性 [...]</title>
+      <link>https://t.me/hn_summary/80505</link>
+      <description><![CDATA[石油高管如今变得令人耳目一新的诚实
+石油和天然气高管终于坦诚地承认，他们缺乏具体的减排计划。壳牌、英国石油和埃克森美孚都承认，他们目前的努力不足以应对气候危机。埃克森美孚首席执行官达伦·伍兹甚至承认，重点应该是减少排放，而不是消除化石燃料。然而，现实情况是，捕获和储存二氧化碳的技术还不够先进，不足以产生重大影响。石油巨头的诚实应该表明，他们不是应对气候变化的盟友，而是问题的一部分。]]></description>
+      <guid>https://t.me/hn_summary/80505</guid>
+      <pubDate>Thu, 21 Mar 2024 00:15:05 GMT</pubDate>
     </item>
     <item>
-      <title>Micrograd-CUDA 是一个将 Andrej Karpathy 的小型自动微分引擎改编为 GPU 加速器的项目 [...]</title>
-      <link>https://t.me/hn_summary/80466</link>
-      <description><![CDATA[Micrograd-CUDA：调整 Karpathy 的微型自动差分引擎以实现 GPU 加速
-Micrograd-CUDA 是一个项目，它采用 Andrej Karpathy 的小型 autodiff 引擎，使用 CUDA 进行 GPU 加速。它旨在通过构建受 micrograd 启发的 GPU 加速的基于张量的自动差分来教授基本 CUDA。除了Python的标准库和CUDA之外，该项目没有任何依赖项。它的独特之处在于提供了一种在 GPU 上加速基于张量的自动差分的简单方法。该项目包括一个带有 CUDA 内核的基本 MLP 模型，用于矩阵乘法、批处理和未来优化计划。该代码库正在开发中，但存在一些困难，特别是在 CUDA Tensor 数据操作和复制方面。]]></description>
-      <guid>https://t.me/hn_summary/80466</guid>
-      <pubDate>Wed, 20 Mar 2024 20:50:31 GMT</pubDate>
+      <title>[媒体] Pgwire 是一个 Rust 库，旨在为数据构建与 Postgres 兼容的访问层 [...]</title>
+      <link>https://t.me/hn_summary/80504</link>
+      <description><![CDATA[Pgwire：用于 PostgreSQL 兼容应用程序的 Rust 库&lt; br/&gt;
+Pgwire 是一个 Rust 库，旨在为数据服务构建与 Postgres 兼容的访问层。它实现了 PostgreSQL Wire Protocol，为编写 PostgreSQL 兼容的服务器和客户端提供了必要的 API。该项目仍处于早期阶段，没有 API 稳定性保证。它通过为各种身份验证方法、查询类型和服务器交互提供 API 来脱颖而出。该项目包括使用 SQLite 和 DuckDB 等不同后端的服务器端示例。虽然它主要是为服务器应用程序设计的，但它也可以用于构建 PostgreSQL 客户端。包括 GreptimeDB 和 PeerDB 在内的多个项目已经在使用 Pgwire。该库在 MIT/Apache 双重许可下发布。]]></description>
+      <guid>https://t.me/hn_summary/80504</guid>
+      <pubDate>Thu, 21 Mar 2024 00:01:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]该项目提供了包含 AI 生成内容的庞大网站黑名单（约 850 个）[...]</title>
-      <link>https://t.me/hn_summary/80465</link>
-      <description><![CDATA[包含 AI 为 uBlock Origin 和 uBlacklist 生成的内容的黑名单
-该项目提供了包含 AI 生成内容的巨大网站黑名单（约 850 个），用于使用 uBlock Origin 或 uBlacklist 清理 Google Search、DuckDuckGo 和 Bing 等图像搜索引擎。作者为这两个扩展提供了简单的安装说明，并包括一个主阻止列表和一个单独的“核”列表，用于包含真实图像和人工智能生成图像的网站。作者还提供了将网站列入白名单的技巧，并解释了 uBlock Origin 和 uBlacklist 实现之间的技术差异。此外，作者还提供了用于进一步定制和清理互联网的资源。]]></description>
-      <guid>https://t.me/hn_summary/80465</guid>
-      <pubDate>Wed, 20 Mar 2024 20:49:27 GMT</pubDate>
+      <title>[媒体]约翰·阿奎利诺海军上将表示，中国正在迅速建设其军事和核武 [...]</title>
+      <link>https://t.me/hn_summary/80503</link>
+      <description><![CDATA[美国称中国有望在 2027 年做好入侵台湾的准备
+约翰·阿奎利诺海军上将表示，中国正在迅速增强其军事和核能力，目标是在 2027 年准备入侵台湾。尽管面临经济挑战，中国的国防预算近年来大幅增加，达到超过 2230 亿美元。这种侵略性的军事扩张引起了美国及其印太地区盟友的担忧。中国在 2027 年入侵台湾的雄心颇具争议，这是一个主要争论点，凸显了两国之间日益紧张的关系。]]></description>
+      <guid>https://t.me/hn_summary/80503</guid>
+      <pubDate>Wed, 20 Mar 2024 23:51:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 准备好使用乐高全新龙与地下城套装“红龙的 [...]</title>
-      <link>https://t.me/hn_summary/80464</link>
-      <description><![CDATA[乐高 3,745 块 D&amp;D 套装带有自己的可玩冒险
-准备好使用乐高全新龙与地下城套装“红龙的故事”来一场史诗般的冒险吧，该套装包含 3,745 块积木和六名小人仔冒险家，将对抗可怕的龙“灰嚎”。该套装包括标志性的 D&amp;D 怪物，如眼魔、猫头鹰和凝胶立方体，以及供您的小人仔探索的酒馆、塔楼和地牢。真正独特的是，乐高正在发布一本可以与该套装一起玩的冒险书，乐高内部人士将于 4 月 1 日发售，其他所有人将于 4 月 4 日发售。另外，如果这本书不是您的风格，您可以使用该套件进行您自己的自制活动。如果您在 4 月 1 日至 7 日期间订购，请不要错过获得免费乐高模仿骰子盒的机会。]]></description>
-      <guid>https://t.me/hn_summary/80464</guid>
-      <pubDate>Wed, 20 Mar 2024 20:25:17 GMT</pubDate>
+      <title>在 voltrondata.com，我们提供了 5TB RAM 上的 GPU 本机数据处理基准，展示了 [...]</title>
+      <link>https://t.me/hn_summary/80502</link>
+      <description><![CDATA[在 5TB RAM 上进行 GPU 本机数据处理的 100TB 基准
+在 voltrondata.com 上，我们提供了 GPU 本机数据处理的基准测试5TB RAM，展示了我们的技术在处理繁重聚合、排序和连接任务方面的强大能力。从分析定价摘要到预测收入变化和识别顶级供应商，我们的查询为业务运营提供了宝贵的见解。我们的查询注重效率和准确性，深入研究客户分布、订单优先级和市场趋势，帮助企业做出明智的决策。探索我们的数据处理能力的潜力，并在不断变化的市场格局中释放新的增长和成功机会。]]></description>
+      <guid>https://t.me/hn_summary/80502</guid>
+      <pubDate>Wed, 20 Mar 2024 23:50:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Nvidia 推出了 Blackwell GPU 架构，旨在巩固其 [...]</title>
-      <link>https://t.me/hn_summary/80463</link>
-      <description><![CDATA[Nvidia 通过 1,200W Blackwell GPU 掀起 AI 热潮
-Nvidia 推出了 Blackwell GPU 架构，旨在巩固其在人工智能基础设施领域的领导者地位。新芯片承诺显着提高性能，顶级规格的 Blackwell 芯片比前代芯片快 5 倍。 Blackwell GPU 采用创新技术，两个受十字线限制的计算芯片通过高带宽接口进行通信。这些 GPU 的功率和散热要求很高，能够在 700W 到 1,200W 之间运行，具体取决于 SKU 和冷却方法。 Nvidia 的 GB200 Superchip 将 72 核 CPU 与两个 Blackwell GPU 结合在一起，提供令人印象深刻的性能和内存容量。 AI基础设施市场的竞争非常激烈，英特尔、AMD以及Cerebras等初创公司都在争夺市场份额。尽管英伟达占据主导地位，但快速发展的人工智能加速器领域仍然面临挑战。 （根据 91% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/80463</guid>
-      <pubDate>Wed, 20 Mar 2024 20:14:10 GMT</pubDate>
+      <title>[媒体]令人惊讶的是，美国经济学中的争议并不是关于计数不足 [...]</title>
+      <link>https://t.me/hn_summary/80501</link>
+      <description><![CDATA[美国租赁市场之谜
+令人惊讶的是，美国经济学中的争议不是低估价格上涨，而是准确衡量价格，尤其是在租赁市场。统计学家并不将房地产价格纳入通胀指标，而是关注业主等价租金（OER）来追踪住房价格的变化。然而，由于缺乏可供出租的单户住宅，估计开放教育资源的价值很困难。最近 OER 通胀率上升，高于市场租金，引发了人们对估算方法准确性的质疑。这可能会影响总体通胀率，并可能阻止美联储降息。]]></description>
+      <guid>https://t.me/hn_summary/80501</guid>
+      <pubDate>Wed, 20 Mar 2024 23:39:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]GritQL 是一个 Rust CLI 工具，它提供了一种用于搜索和管理的声明式查询语言 [...]</title>
-      <link>https://t.me/hn_summary/80462</link>
-      <description><![CDATA[展示 HN：GritQL，用于重写源代码的 Rust CLI
-GritQL 是一个 Rust CLI 工具，提供用于搜索和修改源代码的声明性查询语言。它旨在通过提供易于使用的语法来简化进行大规模重构和迁移的过程，使用户无需学习复杂的 AST 细节即可重写代码。 GritQL 从其他工具中脱颖而出，它提供了具有 200 多种标准模式的内置模块系统，支持各种目标语言，并且能够包含自动修复规则以实现更快的修复。 GritQL 采用 Rust 编写，可实现最佳性能，可以有效处理包含数百万行代码的存储库。]]></description>
-      <guid>https://t.me/hn_summary/80462</guid>
-      <pubDate>Wed, 20 Mar 2024 20:07:03 GMT</pubDate>
+      <title>[媒体] Teler 项目是一个基于 Web 日志的实时 HTTP 入侵检测系统，[...]</title>
+      <link>https://t.me/hn_summary/80500</link>
+      <description><![CDATA[Teler：实时 HTTP 入侵检测
+Teler 项目是一个基于在终端中运行的 Web 日志的实时 HTTP 入侵检测系统。它提供警报、监控、日志记录以及分析日志以查找可疑活动的功能。 Teler 的与众不同之处在于它专注于实时威胁分析以及定制威胁规则的能力。该项目目前正在进行版本 3 的重构，该版本将利用 eBPF 和 teler-waf 来实现高级功能。用户可以参与调查，为即将推出的版本的功能提供反馈。 Teler 旨在快速、基于终端、高效地实时追踪威胁。]]></description>
+      <guid>https://t.me/hn_summary/80500</guid>
+      <pubDate>Wed, 20 Mar 2024 23:31:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]自 2021 年收购 Fitbit 以来，谷歌一直在对该品牌进行重大改变 [...]</title>
-      <link>https://t.me/hn_summary/80461</link>
-      <description><![CDATA[Google 重塑 Fitbit 形象，用户称其“计划报废”&lt; /a&gt;
-自 2021 年收购 Fitbit 以来，谷歌一直在对该品牌进行重大变革，包括引入生成式人工智能功能。然而，一些长期用户对购买 Fitbit 表示遗憾，并出现“计划报废”的指控。争议源于 Charge 5 型号在固件更新后电池快速耗尽等问题，导致用户质疑其设备的使用寿命。尽管谷歌努力通过人工智能和个性化指导功能来增强 Fitbit，但由于持续存在的问题和品牌功能的变化，心灰意冷的客户正在考虑替代方案。]]></description>
-      <guid>https://t.me/hn_summary/80461</guid>
-      <pubDate>Wed, 20 Mar 2024 20:02:58 GMT</pubDate>
+      <title>[媒体] Twitter 最近推出了一项新功能，允许用户充值他们的 API 配额 [...]</title>
+      <link>https://t.me/hn_summary/80499</link>
+      <description><![CDATA[Twitter 推出 API 配额充值，100 美元可额外阅读 10,000 条推文
+Twitter 最近推出了一项新功能，允许用户支付 100 美元的费用来充值其 API 配额，这将使他们能够额外阅读 10,000 条推文。此举在用户中引发了争议，一些人质疑对访问更多推文进行收费的公平性。然而，对于那些严重依赖 Twitter 获取信息和更新的人来说，这个新选项可能会改变游戏规则。这是一种管理 API 使用的独特方法，可能会让需要访问更多内容的高级用户受益。]]></description>
+      <guid>https://t.me/hn_summary/80499</guid>
+      <pubDate>Wed, 20 Mar 2024 23:28:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]孤独是对德国民主的威胁吗？</title>
-      <link>https://t.me/hn_summary/80460</link>
-      <description><![CDATA[孤独对德国民主构成威胁吗？
-在德国，孤独日益成为人们关注的问题，六分之一的人感到孤独，其中包括四分之一的年轻人。家庭部长丽莎·鲍斯警告说，孤独不仅会带来健康风险，还会削弱社会凝聚力和民主。一项研究表明孤独与反民主态度之间存在联系，例如民粹主义和对政治暴力的认可。虽然孤独是年轻人激进化的一个风险因素，但专家强调政治和公民教育、历史意识以及在民主进程中赋予年轻人权力以防止极端主义观点的重要性。]]></description>
-      <guid>https://t.me/hn_summary/80460</guid>
-      <pubDate>Wed, 20 Mar 2024 19:56:51 GMT</pubDate>
+      <title>您是否想过物理定律与[...]结构之间的相似之处？</title>
+      <link>https://t.me/hn_summary/80498</link>
+      <description><![CDATA[语言物理学
+您是否想过物理定律和语言结构之间的相似之处？在这篇引人入胜的文章中，我们探讨了这两个看似无关的领域之间的联系。从声波传播的方式到语法规则，存在着令人惊讶的相似之处，这些相似之处揭示了支配物理世界和人类交流的基本原则。这种发人深省的分析挑战了传统观点，并为物理学和语言之间错综复杂的关系提供了新的视角。深入语言学和物理学的世界，揭示塑造我们对宇宙理解的隐藏联系。]]></description>
+      <guid>https://t.me/hn_summary/80498</guid>
+      <pubDate>Wed, 20 Mar 2024 23:22:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 经过一年的修补和故障排除，我终于拥有了我的终极复古 KVM SE [...]</title>
-      <link>https://t.me/hn_summary/80459</link>
-      <description><![CDATA[让我的终极复古 KVM 设置正常工作
-经过一年的修补和故障排除，我终于让我的终极复古 KVM 设置完美运行！从 Commodore VC-20 到 Dell Dimension Pentium III，这种设置跨越了二十年的计算机历史。借助各种转换器和适配器，我只需按一下按钮即可在不同机器之间无缝切换。该设置包括 RetroTINK-2X-Pro 和 GGLabs CGAtoRGBv2 等独特部件，使其成为电缆的大黄蜂，但对于像我这样的复古计算爱好者来说，梦想成真。现在是时候用所有这些令人兴奋的内容更新 Sasara.moe 了！ ]]></description>
-      <guid>https://t.me/hn_summary/80459</guid>
-      <pubDate>Wed, 20 Mar 2024 19:46:44 GMT</pubDate>
+      <title>Redis 宣布在未来版本中转向双源可用许可，结合 [...]</title>
+      <link>https://t.me/hn_summary/80497</link>
+      <description><![CDATA[Redis采用双源授权
+Redis 已宣布在未来版本中转向双源可用许可，结合 RSALv2 和 SSPLv1 许可证。这一变化将把之前 Redis Stack 独有的高级数据类型和处理引擎引入到 Redis 核心产品中。此举虽然简化了打包和发布流程，但也限制了云服务提供商免费使用Redis源代码。商业客户和集成合作伙伴不受影响，现有的开源用户也不会看到任何变化。新的许可方法旨在平衡领先的实时数据平台的可访问性、社区支持和持续创新。 （根据 61% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/80497</guid>
+      <pubDate>Wed, 20 Mar 2024 23:21:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
