@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 27 Mar 2024 09:07:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 15:07:21 GMT</lastBuildDate>
     <item>
-      <title>2024 年 4 月 1 日之前，Coursera Plus 可享受 100 美元优惠。 12 个月内可访问 7000 多门课程和证书，价格为 299 美元（原价 399 美元）。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bowy00/get_100_off_coursera_plus_until_april_1st_2024/</link>
-      <description><![CDATA[Coursera Plus 提供 7000 门 Coursera 认证课程的 1 年全部访问权限。这包括无限制地访问 7,000 多个学习计划，包括来自 Google、Meta、Microsoft 等的专业证书，旨在帮助您为新的、受欢迎的职业做好准备。 了解更多    由   提交 /u/ewan_m   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bowy00/get_100_off_coursera_plus_until_april_1st_2024/</guid>
-      <pubDate>Wed, 27 Mar 2024 08:32:22 GMT</pubDate>
+      <title>GSAP 帮助动画</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bp3z6p/gsap_help_animation/</link>
+      <description><![CDATA[嗨， 我想使用 GSAP 重现下面链接的网站的滚动动画。 https://formoitalia.com/about 我不需要完整的动画，只需直到文本并排，那么它需要像普通网站一样滚动。 您能提供一些指导或片段吗？ 非常感谢，祝您有美好的一天！ 您能提供一些指导或片段吗？ p&gt;   由   提交 /u/BarboBarbo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bp3z6p/gsap_help_animation/</guid>
+      <pubDate>Wed, 27 Mar 2024 15:00:02 GMT</pubDate>
     </item>
     <item>
-      <title>帮助了解 Gmail 和 Yahoo 对电子邮件发件人的新要求</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bowe7w/help_understanding_gmail_and_yahoos_new/</link>
-      <description><![CDATA[我是一名自由职业者（个体经营者），潜在客户时不时地通过我的网站联系表给我发电子邮件。我一直使用 Gmail 电子邮件地址，从不关心域名电子邮件地址。通常我会收到一份联系表单提交到我的 Gmail 邮箱，然后我会从我的 Gmail 地址进行回复。现在突然我的 WordPress 联系表单插件谈论 Gmail 和 Yahoo 对电子邮件发件人的新要求，并说我的“发件人电子邮件与我的域不匹配”。 我对整件事感到非常困惑！有人可以帮助我了解我需要做什么吗？如果可能的话，我宁愿继续使用我的 Gmail。   由   提交 /u/the_watchkeeper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bowe7w/help_understanding_gmail_and_yahoos_new/</guid>
-      <pubDate>Wed, 27 Mar 2024 07:52:34 GMT</pubDate>
+      <title>GDPR 表示您应该能够撤回同意。如何？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bp3v9q/gdpr_says_you_should_be_able_to_withdraw_consent/</link>
+      <description><![CDATA[为用户提供“删除帐户（及其数据）”选项就足够了吗？否则我不知道这是如何工作的。   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bp3v9q/gdpr_says_you_should_be_able_to_withdraw_consent/</guid>
+      <pubDate>Wed, 27 Mar 2024 14:55:12 GMT</pubDate>
     </item>
     <item>
-      <title>通过js获取shadow root中的元素</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bouarj/get_an_element_within_a_shadow_root_via_js/</link>
-      <description><![CDATA[有一个“主”应用程序，我的应用程序正在主应用程序提供的影子根下加载。 现在，我必须从影子根内部获取影子根内的元素。 document.getElementById() 似乎不起作用。 有人看到这个问题吗？知道解决办法吗？   由   提交 /u/completelyonline   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bouarj/get_an_element_within_a_shadow_root_via_js/</guid>
-      <pubDate>Wed, 27 Mar 2024 05:30:50 GMT</pubDate>
+      <title>鉴于我的情况，作为一名拥有 3 年经验的前端开发人员，如何创建一个好的作品集？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bp3uxj/how_to_create_a_good_portfolio_as_a_frontend/</link>
+      <description><![CDATA[各位开发人员大家好！下面是长篇故事，我将在底部添加一个长篇大论。 长篇故事： 我目前处于以下情况 -过去 3 年我一直在一家本地软件公司担任前端开发人员。我真的很感谢我的公司给了我一个机会和工作，因为在我的大学计算机科学专业毕业后，我没有这方面的经验，甚至没有人愿意雇用我作为实习生。而且，我一开始的实际工作知识是0（大学里的“知识”真的很差，因为那里的教授，这是一个很长的故事）。我表现出了学习、适应和团队合作的意愿。这些年来，我的老板让我完成了不同类型的项目，而不仅仅是一些简单的 HTML、CSS 内容... 六个月前，我与老板达成了一项协议，当我完成我的部分时一个即将到来的项目（由于保密协议，无法真正提供有关该主题的信息），我将获得晋升（未公开薪水）。项目给我的前端资深同事预估是2个月。由于项目的复杂性，我无法给出明确的估计，但无论如何我都获得了这样做的许可。我花了两个半月的时间。我对自己很有信心，因为根据我的经验，与高年级学生（8 年以上）相比，我完成该项目所花费的时间相当不错，IMO。  项目完成已经快4个月了，老板还没有给我加薪。我试图和他谈谈这件事，从我们达成的协议来看……他说“……如果我提高你的薪水...”与我目前的工资相比，这只是+300，这实际上是可悲的。 我们主要做定制软件，没有开源的东西，我们使用 GitLab 而不是 GitHub。我没有任何个人项目可以在 GitHub 上展示。我认为我们有一个“组”？我们在其中提交代码/项目。我只能谈论我在某些项目中的角色是什么以及我如何实现或找到某些问题的解决方案等。我一直在使用 HTML、CSS (纯 CSS、SASS、SCSS)、JavaScript、jQuery，我也是拥有 AJAX 和不同 API 的经验。 我目前正在积极寻找前端开发人员的新工作，我想我需要一个作品集，但我的问题是我从来没有一个，而且我现在不确定如何做一个。此外，我确信我不需要一些“主流”的东西。我的 GH/GL 帐户上的项目用于展示电影应用程序、登陆页面或一些基本的 JavaScript 游戏。 TL;DR 我一直担任前端开发人员，我参与过的所有项目都在我公司的 GitLab“小组”（我认为它是这样称呼的）中，有些项目尚未发布，或者我已经签署了保密协议。我没有个人项目，但对不同工作领域的现实项目有经验。 我很乐意接受任何关于我应该如何处理这种情况以及如何制作我的作品集的建议。如果您成功来到这里，您就是传奇！   由   提交/u/xPetio   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bp3uxj/how_to_create_a_good_portfolio_as_a_frontend/</guid>
+      <pubDate>Wed, 27 Mar 2024 14:54:50 GMT</pubDate>
     </item>
     <item>
-      <title>我想建立一个 MERN 项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1botvgl/i_want_to_build_a_mern_project/</link>
-      <description><![CDATA[我想构建一个 MERN 项目，是否有任何视频可供我观看和编码以构建 MERN 项目。 yt 上的大多数视频都使用 TypeScript，我想要一个不使用 TypeScript 的视频    由   提交 /u/Primary_Move_7784   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1botvgl/i_want_to_build_a_mern_project/</guid>
-      <pubDate>Wed, 27 Mar 2024 05:04:43 GMT</pubDate>
+      <title>针对 CJS 到 ESM 库的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bp3sl6/recommendations_for_cjs_to_esm_libraries/</link>
+      <description><![CDATA[我正在致力于从 CJS 到 ESM 的大规模迁移，但我发现的库要么不完全完整，要么速度很慢。  举个例子，我的文件还包含需要转换的语法：  const bar = require(&#39;bar&#39;); const foo = require(&#39;foo&#39;).default;  我尝试过一些大型科技公司已经做到了这一点，但最接近的是 wessberg/cjstoesm (https://github.com/wessberg/cjstoesm）。它是最完整的，但速度非常慢。有人使用过 Go/Rust 内置的任何可以提供帮助的东西吗？   由   提交 /u/nudes_through_tcp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bp3sl6/recommendations_for_cjs_to_esm_libraries/</guid>
+      <pubDate>Wed, 27 Mar 2024 14:52:05 GMT</pubDate>
     </item>
     <item>
-      <title>语法检查API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1borem0/grammar_checking_api/</link>
-      <description><![CDATA[大家好，我正在寻找一个专业的 API，可以用来检查一段文本中的常见语法错误。我愿意为此支付合理的金额。 我考虑过的一些选择：  LanguageTool - 定价有点荒谬，我认为在这一点上你可以使用 OpenAI 来更便宜。 GrammarBot - 似乎合理，但不确定性能。 Grammarly - 这是我个人使用的，但遗憾的是它已停产 Sapling.ai——似乎是一家非常小的预种子公司，所以想要选择更值得信赖的公司。  我很好奇是否有人对这些有任何实际经验或建议。    由   提交 /u/YodelingVeterinarian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1borem0/grammar_checking_api/</guid>
-      <pubDate>Wed, 27 Mar 2024 02:54:04 GMT</pubDate>
+      <title>对于最低限度可行的产品来说足够好了吗？我的意思是对于 GDPR。特别是 3 个复选框。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bp3rjd/good_enough_for_minimally_viable_product_for_gdpr/</link>
+      <description><![CDATA[   /u/The_Catlike_Odin   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bp3rjd/good_enough_for_minimally_viable_product_for_gdpr/</guid>
+      <pubDate>Wed, 27 Mar 2024 14:50:52 GMT</pubDate>
     </item>
     <item>
-      <title>作为补充帮助，按月付费开放AI好还是copilot好？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1boqg76/as_a_complementary_help_is_it_better_to_pay_open/</link>
-      <description><![CDATA[我已经使用开放 AI 的付费 gpt 4 版本几个月了，原则上它对我和某些查询都很有效，显然你可以不完全相信它。比方说，我找他当顾问。但我最近听说副驾驶更专注于编码。你怎么认为？欢迎其他建议。谢谢    由   提交 /u/ImprovementJolly3711   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1boqg76/as_a_complementary_help_is_it_better_to_pay_open/</guid>
-      <pubDate>Wed, 27 Mar 2024 02:08:50 GMT</pubDate>
+      <title>我如何学习？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bp3mmm/how_do_i_learn/</link>
+      <description><![CDATA[我正在学习 Javascript 和 React，查看了无数教程并进行应用。阅读书籍、学习并记下各种课程的笔记——我无法理解为什么编程对我来说是地球上最难做的事情。就好像我学不会；我一直在学习，如果不上网查找，我仍然不知道一件事，而且我知道这样做我不会成为一名优秀的程序员，但人们不明白识别语法有多么困难、模式和概念，然后将它们应用到您想要的东西上。还记得他们吗？我不知道该做什么，也不知道从哪里开始应用我所看到的或我想做的事情。我练习了一种独特的个人方法。一。有一天，我忘记了这一点，我一遍又一遍地迷失在同一个循环中，观看教程，很高兴我终于做了正确的事情看着他们，然后感到非常自信我自己把它应用到类似的事情上，我立即感到失望，继续我的一天，完全忘记了这件事，然后我回到床上睡觉，继续我的正常生活。我可以说语法非常简单。然而，我最难的是记忆和应用。你们对我可以做些什么改进有什么建议吗？编程非常困难。如果我开始一个项目，那么我会更困惑要申请什么；我不会知道正确的方法等等   由   提交/u/HarshitRai004  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bp3mmm/how_do_i_learn/</guid>
+      <pubDate>Wed, 27 Mar 2024 14:45:16 GMT</pubDate>
     </item>
     <item>
-      <title>对于引人入胜且转化良好的入职体验，您有何建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1boppwh/what_is_your_advice_for_an_engaging_and/</link>
-      <description><![CDATA[   /u/DerThan  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1boppwh/what_is_your_advice_for_an_engaging_and/</guid>
-      <pubDate>Wed, 27 Mar 2024 01:35:02 GMT</pubDate>
+      <title>如何设计一个网站（聪明的方式）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bp2ee9/how_do_i_get_a_website_designed_smart_way/</link>
+      <description><![CDATA[你好。我是网页设计方面的菜鸟，我所能做的就是在 ftp 上上传一个免费模板来运行网站。也许对 html/CSS/js 进行一些更改。所以我的技术还不够。但我需要一个网站，几乎是我女朋友的穿孔工作室的一个寻呼机。我不确定设计这个的最佳方法是什么，我不想花太多钱，所以我想也许找一个自由职业者来做 PSD 模板设计，然后要求另一个自由职业者转换 PSD 模板到 html。这有道理吗？请帮忙😅   由   提交 /u/PassionAfter790   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bp2ee9/how_do_i_get_a_website_designed_smart_way/</guid>
+      <pubDate>Wed, 27 Mar 2024 13:52:23 GMT</pubDate>
     </item>
     <item>
-      <title>我们应该在取消虚拟主机帐户之前删除 WordPress 网站吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1boo4la/should_we_delete_wordpress_sites_before_canceling/</link>
-      <description><![CDATA[我们将两个 Wordpress 网站迁移到新的虚拟主机以摆脱 Bluehost。在开始取消之前删除 Bluehost 上的 Wordpress 网站是否明智？   由   提交/u/Afternoon-Melodic   /u/Afternoon-Melodic reddit.com/r/webdev/comments/1boo4la/should_we_delete_wordpress_sites_before_canceling/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1boo4la/should_we_delete_wordpress_sites_before_canceling/</guid>
-      <pubDate>Wed, 27 Mar 2024 00:25:09 GMT</pubDate>
+      <title>未建立与 mongoDB 的连接</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bp286i/connection_to_mongodb_is_not_being_established/</link>
+      <description><![CDATA[​ 这是我的 `server.js` 文件： ​ ; ​ 从“express”导入express；从“mongoose”导入猫鼬；从“dotenv”导入 dotenv；常量应用程序 = Express(); dotenv.config(); mongoose.set(“strictQuery”, true); const connect = async() =&gt;; { 尝试 { 等待 mongoose.connect(process.env.MONGO); console.log(“已连接到 MongoDB！”); } catch (错误) { console.log(错误); } }; app.listen(8800, () =&gt; { connect(); console.log(&quot;后端服务器正在运行！&quot;); });  ​ 我已将用于连接集群的 URL 链接粘贴到 `.env` 文件中： &amp; #x200b; MONGO = mongodb+srv:/myname:mypasswordhere@cluster0.41ged.mongodb.net/?retryWrites=true&amp;w=majority&amp;dbname= Fiverr  当我保存“server.js”文件时，我得到“后端服务器正在运行”，但未建立与数据库的连接，因为我没有收到“已连接到 MongoDB”消息。 &lt; p&gt;​ 有关更多上下文，我正在遵循此代码教程 https://www.youtube.com /watch?v=csUM7yfiaMw&amp;list=PLSwpzXY8riN1qryMKx8XWVy4YltyEaRDk&amp;index=2&amp;t=773s](https://www.youtube.com/watch?v=csUM7yfiaMw&amp;list=PLSwpzXY8riN1qryMKx8XWVy4YltyEaRDk&amp;index=2&amp; amp;t=773s)) ​ ​   由   提交/u/wonderful_utility  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bp286i/connection_to_mongodb_is_not_being_established/</guid>
+      <pubDate>Wed, 27 Mar 2024 13:44:47 GMT</pubDate>
     </item>
     <item>
-      <title>我从哪说起呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bonvu4/where_do_i_start/</link>
-      <description><![CDATA[大家好， 我是一名软件开发人员，但基本上只做过 C 和 C++... 我想涉足一些网络开发。我到底该从哪里开始呢？  我是否值得先用 HTML、CSS 和普通的旧式 JavaScript 编写应用程序，还是应该选择更现代的框架之一？  谢谢大家   由   提交/u/milldawgydawg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bonvu4/where_do_i_start/</guid>
-      <pubDate>Wed, 27 Mar 2024 00:14:58 GMT</pubDate>
+      <title>作为前端开发人员，.NET Core 中的后端感觉令人畏惧，有什么建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bp273w/as_a_frontend_dev_backend_in_net_core_feels/</link>
+      <description><![CDATA[嗨，我总体上相当擅长 React 和前端。我可以相当轻松地学习与前端相关的东西，或者至少没有困难（UI 库、其他框架、查询工具等）。我想我得到了前端心理模式？  但是，在工作中，他们使用 .NET Core 作为后端，我也真的很想获得一些这些知识。我观看了课程、视频，可以在 Express 和 .NET Core 中构建简单的后端，但在工作中，有数千个连接，左连接、内连接、直连接、下连接，感觉太令人畏惧了。  我浏览了网络，找到了一些简单的东西，与我在工作中看到的完全不同。有什么地方可以充分利用来帮助我正确掌握后端心态吗？有什么路线图吗？老实说，任何可以为我指明方向的帮助都将非常感激！   由   提交/u/Metalwell  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bp273w/as_a_frontend_dev_backend_in_net_core_feels/</guid>
+      <pubDate>Wed, 27 Mar 2024 13:43:22 GMT</pubDate>
     </item>
     <item>
-      <title>当您在线雇用某人来完成网站时，需要注意什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bonvdk/what_do_you_need_to_look_out_for_when_you_hire/</link>
-      <description><![CDATA[我正在寻找一个平台，让人们可以提供服务并且客户可以比较价格。这不是一个简单的网站。 当我雇用某人从事这项工作时，我应该问哪些问题以及哪些红/绿旗？谢谢    由   提交/u/Sarlo10   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bonvdk/what_do_you_need_to_look_out_for_when_you_hire/</guid>
-      <pubDate>Wed, 27 Mar 2024 00:14:27 GMT</pubDate>
+      <title>每个程序员都应该了解的关于负载测试的知识</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bp25bu/what_every_programmer_should_know_about_load/</link>
+      <description><![CDATA[   /u/sheshbabu  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bp25bu/what_every_programmer_should_know_about_load/</guid>
+      <pubDate>Wed, 27 Mar 2024 13:41:06 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能已经可以编写使用人工智能创建网站所需的所有内容吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1boncm3/can_ai_already_write_everything_you_need_to/</link>
-      <description><![CDATA[人工智能可以做到吗？仅用人工智能（所有编码等）创建一个稍微复杂的网站是否可行    由   提交/u/Sarlo10   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1boncm3/can_ai_already_write_everything_you_need_to/</guid>
-      <pubDate>Tue, 26 Mar 2024 23:53:08 GMT</pubDate>
+      <title>工作时你有哪些疯狂的习惯？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bp1po5/what_insane_habits_do_you_have_while_working/</link>
+      <description><![CDATA[示例：我整天用可笑的法国口音大声自言自语，就好像我正在直播我的编码工作一样。  我是唯一一个在家工作时表现出一些完全精神错乱的人吗？   由   提交 /u/gebrolto   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bp1po5/what_insane_habits_do_you_have_while_working/</guid>
+      <pubDate>Wed, 27 Mar 2024 13:20:41 GMT</pubDate>
     </item>
     <item>
-      <title>这种遥控器/按钮的名称是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bonck1/what_is_the_name_of_this_kind_of_remotebutton/</link>
-      <description><![CDATA[       由   提交/u/monty_raccy  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bonck1/what_is_the_name_of_this_kind_of_remotebutton/</guid>
-      <pubDate>Tue, 26 Mar 2024 23:53:04 GMT</pubDate>
+      <title>出于好奇，我目前正在构建后端（flask）和前端（react）以及 flutterflow（应用程序）中的 MVP。需要帮助来理解一个小概念</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bp1it9/out_of_curiosity_im_currently_building_backend/</link>
+      <description><![CDATA[因此，按照标题，我使用 jwt 身份验证并在登录响应中发送访问权限和刷新令牌。现在，我们实际上可以在整个过程中使用访问令牌，而不是使用刷新令牌，并且在注销时，可以将令牌列入黑名单，或者在过期时可以自动注销用户，只是避免实现不必要的刷新逻辑，从而避免过多的复杂性。那么请告诉我这是否也是一种可能的情况？   由   提交 /u/RIP-reX   /u/RIP-reX  reddit.com/r/webdev/comments/1bp1it9/out_of_curiosity_im_currently_building_backend/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bp1it9/out_of_curiosity_im_currently_building_backend/</guid>
+      <pubDate>Wed, 27 Mar 2024 13:11:42 GMT</pubDate>
     </item>
     <item>
-      <title>采用 Rust：经理和 CTO 缺少的手册</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bom733/adopting_rust_the_missing_playbook_for_managers/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bom733/adopting_rust_the_missing_playbook_for_managers/</guid>
-      <pubDate>Tue, 26 Mar 2024 23:06:49 GMT</pubDate>
+      <title>我构建了 Next.js、FastAPI、Turborepo 入门模板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bp0fsh/i_built_a_nextjs_fastapi_turborepo_starter/</link>
+      <description><![CDATA[我发现自己对使用 Turborepo 很感兴趣，所以我想尝试一下脚手架一个简单的 Next.js/FastAPI 项目。 我发现了很多需要注意的细微差别，所以我想我应该在下次这样做时记录整个事情，如果它对其他人有帮助，那就太好了。 这里是存储库 |这是文档 前端 Next.js 应用程序带有一个完全构建的前端，其中包括：  响应式布局 仪表板/侧边栏设计 Pre -配置到后端API的连接 基于FastAPI OpenAPI架构自动生成的TypeScript类型 各种设计组件，主要来自ShadCN UI（包括图表示例） &lt; /ul&gt; 后端 FastAPI 应用程序带有完全构建的后端，其中包括：  示例端点 &lt; li&gt;预配置的架构/增删改查操作 易于扩展以添加更多端点  文档 使用构建Mintlify，一个完全响应和配置的文档站点，具有：  一个完全构建的文档站点 各种 Mintlify 组件 一个完全配置的 mint .json    由   提交/u/joncording12   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bp0fsh/i_built_a_nextjs_fastapi_turborepo_starter/</guid>
+      <pubDate>Wed, 27 Mar 2024 12:17:29 GMT</pubDate>
     </item>
     <item>
-      <title>看来 Netlify 可能已经通过新的速率限制功能解决了导致带宽溢出的 DDOS 问题。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bom2ya/looks_like_netlify_might_have_fixed_the_ddos/</link>
-      <description><![CDATA[有人引起了我的注意，考虑到整个惨败，我想我应该在这里与大家分享。  https://www.netlify.com/blog/introducing- new-rate-limiting-feature/ 不捍卫他们或任何东西。但对于像我这样过于依赖生态系统并且现在无法完全切换的人来说，很高兴至少知道这个问题最终得到解决的速度有多快。不应该用这张 10 万美元的账单来唤醒他们，让他们意识到账单保护中存在可怕的漏洞。但至少已经做了一些事情，我很高兴他们至少在公众的愤怒和充耳不闻的回应之后认真对待了这件事。  我确信对于大多数人来说，这太晚了。但对于那些足够且时机恰当的人来说，看起来我们至少不必再生活在恐惧之中了。    由   提交 /u/Citrous_Oyster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bom2ya/looks_like_netlify_might_have_fixed_the_ddos/</guid>
-      <pubDate>Tue, 26 Mar 2024 23:02:19 GMT</pubDate>
+      <title>WebSocket 扩展的实际示例有哪些？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bp0cl6/what_are_practical_examples_of_websocket/</link>
+      <description><![CDATA[这些扩展应列在 Sec-WebSocket-Extensions HTTP 标头中，如 MDN https://developer.mozilla.org/en-US/docs/Web/HTTP/Protocol_upgrade_mechanism#websocket-specific_headers 我只是找不到任何具体的例子。   由   提交 /u/JrSoftDev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bp0cl6/what_are_practical_examples_of_websocket/</guid>
+      <pubDate>Wed, 27 Mar 2024 12:12:45 GMT</pubDate>
     </item>
     <item>
-      <title>用于文件下载的 SSL 证书？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bolu7q/ssl_certificate_for_file_download/</link>
-      <description><![CDATA[我有一个没有 SSL 的域，我只想向其中上传 PDF 文件。这将是唯一的内容。它是否需要 SSL 证书，或者是否会警告访问者它不安全？提前致谢！   由   提交 /u/LeBateleur1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bolu7q/ssl_certificate_for_file_download/</guid>
-      <pubDate>Tue, 26 Mar 2024 22:52:52 GMT</pubDate>
+      <title>Chrome DevTools 的 CSS 长度工具是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bozn3x/what_is_the_css_length_tool_of_chrome_devtools/</link>
+      <description><![CDATA[我刚刚在“DevTools 的新增功能”中看到这将被弃用，您可以通过实验设置将其恢复： ttps://developer.chrome.com/blog/new-in-devtools-123/?utm_source=devtools#css-length 然后我就转到了 chromium 问题了解更多信息：https://issues.chromium.org/issues/41495618 他们是这样说的：  元素面板中的 CSS 长度工具 &gt; “样式”选项卡  我转到“元素”面板 &gt;样式选项卡，但我仍然不明白这个工具是什么，如何使用它，甚至不知道在哪里查看或它是什么样子。    ;由   提交/u/4dr14n31t0r   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bozn3x/what_is_the_css_length_tool_of_chrome_devtools/</guid>
+      <pubDate>Wed, 27 Mar 2024 11:33:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

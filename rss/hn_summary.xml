@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 27 Mar 2024 05:19:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 15:06:21 GMT</lastBuildDate>
     <item>
-      <title>[媒体]了解 AYAY.AI 如何彻底改变企业处理社交媒体帖子的方式 [...]</title>
-      <link>https://t.me/hn_summary/81479</link>
-      <description><![CDATA[显示 HN：Ayay.ai – 自动社交媒体发布和博客生成
-了解 AYAY.AI 如何彻底改变企业处理社交媒体发布的方式和博客一代。 AYAY.AI 致力于提供个性化、受潮流启发的内容，为企业提供帮助Dos Gardenias 和 Altatech Consulting 等公司吸引客户并扩大在线覆盖范围。首席执行官 Fernanda Amaya 和校长 Desiree Izquierdo 分享 AYAY.AI 的发展历程转变数字营销策略的战略合作伙伴。加入人工智能革命，了解 AYAY.AI 如何提升您的品牌价值在线状态。]]></description>
-      <guid>https://t.me/hn_summary/81479</guid>
-      <pubDate>Wed, 27 Mar 2024 05:19:00 GMT</pubDate>
+      <title>[媒体]文章讨论了五角大楼对人工智能的依赖以及失败 [...]</title>
+      <link>https://t.me/hn_summary/81528</link>
+      <description><![CDATA[五角大楼的硅谷问题
+文章讨论了五角大楼对人工智能的依赖以及该技术在预测和预防攻击（例如哈马斯对以色列的突然袭击）方面的失败。它凸显了对人工智能的过度自信以及军工联合体推动将技术融入国防系统的努力。探索了 Igloo White 和 Assault Breaker 等失败的军事科技项目的历史，显示了硅谷创新与五角大楼期望之间的脱节。文章质疑软件可以解决人类冲突的信念，并强调科技行业与军队之间的复杂关系。 （根据故事文本的 37% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/81528</guid>
+      <pubDate>Wed, 27 Mar 2024 15:06:21 GMT</pubDate>
     </item>
     <item>
-      <title>在本文中，作者讨论了使用基本 Prometheus 监控 DNS 的挑战 [...]</title>
-      <link>https://t.me/hn_summary/81478</link>
-      <description><![CDATA[如何在基本 Prometheus 中自动监控 DNS 查询 
-在本文中，作者讨论了由于 Blackbox 导出器的限制而使用基本 Prometheus 监控 DNS 查询结果的挑战。作者探索了使用脚本自动生成配置以监控不同服务器上的多个 DNS 查询的想法。该脚本将为每个查询创建 Blackbox 节，并为 Prometheus 文件发现生成抓取目标和标签。虽然作者承认更全面的监控系统的潜在好处，但他们最终质疑增加的复杂性在问题检测和系统维护方面的价值。]]></description>
-      <guid>https://t.me/hn_summary/81478</guid>
-      <pubDate>Wed, 27 Mar 2024 04:53:50 GMT</pubDate>
+      <title>作者讨论了 Flatpak 构建中可重复性的实际问题。</title>
+      <link>https://t.me/hn_summary/81527</link>
+      <description><![CDATA[Flatpak 构建不可重现以及为什么这是一个实际问题
+作者讨论了 Flatpak 构建中可重复性的实际问题。虽然技术上可以重现，但缺乏对源代码树的承诺给开发人员带来了挑战。本文重点介绍了在 Flatpak 清单中查找运行时、版本控制和可重复性的问题。作者提出了一些解决方案，例如在清单中包含存储库信息并创建锁定文件来跟踪依赖项。通过与 Nix 和 Guix 等其他包管理器进行比较，作者认为通过解决这些问题，Flatpak 生态系统可以得到极大的改善。]]></description>
+      <guid>https://t.me/hn_summary/81527</guid>
+      <pubDate>Wed, 27 Mar 2024 15:03:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]网页内容讨论了 GCC 代码生成器和优化器的各种缺陷，[...]</title>
-      <link>https://t.me/hn_summary/81477</link>
-      <description><![CDATA[GCC 代码生成器和优化器的缺陷
-Web 内容讨论了 GCC 代码生成器和优化器中的各种缺陷，强调了生成的代码不理想的特定情况。目的是演示 GCC 及其 libgcc 库中的错误和缺陷，强调生成的代码质量较差。作者提供了 GCC 生成的低效代码的示例，并提出了替代的、更优化的版本。该内容还涉及 CPU 时间与开发时间的价值，质疑软件工程师的优先顺序。本文旨在提高人们对编译器设计中需要更好的优化实践的认识。 （根据故事文字的 2% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81477</guid>
-      <pubDate>Wed, 27 Mar 2024 04:52:46 GMT</pubDate>
+      <title>[媒体]汽车收集大量个人数据，这些数据通常在未经授权的情况下与第三方共享[...]</title>
+      <link>https://t.me/hn_summary/81526</link>
+      <description><![CDATA[如何了解您的汽车对您的了解，选择退出尽可能分享
+汽车收集大量个人数据，这些数据通常在驾驶员不知情的情况下与第三方共享。最近的一篇文章强调了通用汽车公司如何与保险公司共享数据，影响保费。要了解您的汽车收集哪些数据以及可能选择不共享哪些数据，请首先检查您汽车的隐私设置和应用程序选项。您还可以向汽车制造商提交隐私请求，以查看并可能停止数据共享。然而，如果没有更严格的隐私法，全面保护您的数据将面临挑战。这个过程可能很复杂，但了解和控制您的汽车数据至关重要。]]></description>
+      <guid>https://t.me/hn_summary/81526</guid>
+      <pubDate>Wed, 27 Mar 2024 14:43:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]政府为婴儿配方奶粉制造商辩护。</title>
-      <link>https://t.me/hn_summary/81476</link>
-      <description><![CDATA[政府没有为婴儿配方奶粉制造商辩护。孩子们付出了代价
-ProPublica 的调查揭示了美国政府如何支持全球婴儿配方奶粉行业，破坏泰国等国家监管配方奶粉营​​销的努力。在大力推广配方奶粉的国家，该行业的激进广告导致了儿童肥胖等健康问题。美国已在至少 17 个司法管辖区进行干预，反对配方奶粉营​​销监管，将企业利益置于公共健康之上。这场争议凸显了对幼儿牛奶实行更严格监管的必要性，而幼儿牛奶常常被误导为儿童健康所必需的。这项调查揭示了公共卫生官员与强大的配方奶粉行业之间持续不断的斗争。 （根据故事文本的 35% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81476</guid>
-      <pubDate>Wed, 27 Mar 2024 04:48:40 GMT</pubDate>
+      <title>[媒体]在一个以流媒体服务为主的世界里，有一群专门的电影迷 [...]</title>
+      <link>https://t.me/hn_summary/81525</link>
+      <description><![CDATA[拒绝向流媒体投降的影迷&lt; br/&gt;
+在一个以流媒体服务为主的世界里，有一群忠实的电影迷拒绝放弃实体媒体。尽管 DVD 和蓝光销量下降，这些爱好者仍然看重他们收藏的有形本质。从怀旧的原因到对审查和访问的担忧，这些粉丝将物理媒体视为保存和欣赏他们喜爱的电影的一种方式。尽管流媒体服务提供了便利，但实体媒体粉丝仍欣赏卓越的视听质量、奖励内容以及拥有实体副本所带来的所有权感。随着行业向数字化转变，这些收藏家仍然坚定地热爱实体媒体。 （根据故事文本的 68% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/81525</guid>
+      <pubDate>Wed, 27 Mar 2024 14:38:57 GMT</pubDate>
     </item>
     <item>
-      <title>每次您浏览互联网时，您的数据都会被跟踪并与 1,500 多个公司共享 [...]</title>
-      <link>https://t.me/hn_summary/81475</link>
-      <description><![CDATA[一些最受欢迎的网站与 1,500 多家公司共享您的数据&lt; /a&gt;
-每次您浏览互联网时，您的数据都会被跟踪并与 1,500 多家公司共享，以用于有针对性的广告。 《连线》最近的一项分析显示，JetPunk、Dotdash Meredith、《每日邮报》等热门网站正在与数百甚至数千家公司共享数据。这个复杂的在线广告生态系统涉及收集 IP 地址和设备指纹等信息，以创建详细的用户档案。尽管做出了诸如 cookie 同意弹出窗口之类的努力，但研究表明人们经常忽视它们，导致对其隐私缺乏控制。在线广告世界一片黑暗，许多公司在幕后工作，向您展示量身定制的广告。]]></description>
-      <guid>https://t.me/hn_summary/81475</guid>
-      <pubDate>Wed, 27 Mar 2024 04:41:34 GMT</pubDate>
+      <title>在我对家庭动态的最新思考中，我意识到曾祖母的时代已经到来 [...]</title>
+      <link>https://t.me/hn_summary/81524</link>
+      <description><![CDATA[曾祖母的窗口即将关闭
+在我对家庭动态的最新思考中，我意识到曾祖母的时代即将结束。反思我自己的家族史，我发现我的祖母在45岁时成为祖母，在75岁时成为曾祖母。然而，随着每一代人都晚生孩子，早曾祖父母的趋势正在消失。这种转变在巴西尤为明显，那里多子女曾经很常见。随着全球预期寿命的增加，曾祖父母的数量正在减少。随着这个时代的结束，社会会失去一些有价值的东西吗？只有时间会给出答案。]]></description>
+      <guid>https://t.me/hn_summary/81524</guid>
+      <pubDate>Wed, 27 Mar 2024 14:37:52 GMT</pubDate>
     </item>
     <item>
-      <title>推出面部复制，这是一款革命性的工具，可让您轻松复制您的面部 [...]</title>
-      <link>https://t.me/hn_summary/81474</link>
-      <description><![CDATA[展示 HN：面部复制 – 向多人复制面部并制作 AI PS2过滤器
-隆重推出 Face Replicate，这是一款革命性工具，可让您轻松复制脸部并在几秒钟内创建 PS2 Filter AI 照片。加入人工智能技术的最新趋势，用怀旧的 PS2 滤镜改变你的自拍照。借助 Face Replicate，您可以轻松地将自己的脸部复制给许多人，并参与 PS2 Filter AI 热潮。告别复杂的编辑软件，使用 Face Replicate 进行快速、简单的面部复制。立即访问 facereplicate.com 尝试一下。]]></description>
-      <guid>https://t.me/hn_summary/81474</guid>
-      <pubDate>Wed, 27 Mar 2024 04:24:25 GMT</pubDate>
+      <title>[媒体]Impulse XDR 是一种实时威胁检测和完整性监控工具，使用 [...]</title>
+      <link>https://t.me/hn_summary/81523</link>
+      <description><![CDATA[Show HN：Impulse XDR、实时威胁检测和完整性监控
+Impulse XDR 是一种实时威胁检测和完整性监控工具，它使用行为模式来检测恶意软件而不是签名。它通过跟踪妥协指标并持续监控新事件来提供深入的安全可见性和保护。该项目的独特之处在于提供自托管的管理器传感器架构、开源 EDR 传感器以及从行为活动模式检测未知威胁的能力。它可以部署在运行 Linux 的各种设备上，并提供安全分析、网络可见性、文件完整性监控、主动响应和漏洞扫描等功能。用户可以保护和监控云虚拟机、VPS 服务器、个人工作站、物联网设备等。 （根据故事文本的 73% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/81523</guid>
+      <pubDate>Wed, 27 Mar 2024 14:29:45 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】事态令人震惊，日元兑美元汇率暴跌至34年新低</title>
-      <link>https://t.me/hn_summary/81473</link>
-      <description><![CDATA[日元跌至34年低点
-令人震惊的是，日元兑美元汇率暴跌至 34 年来的低点，在东京触及 151.97 日元。这标志着自 2022 年 10 月日本当局介入稳定货币以来的大幅下跌。日本及其他地区肯定会感受到这种急剧下降的经济影响。请继续关注这一事态发展的最新动态。]]></description>
-      <guid>https://t.me/hn_summary/81473</guid>
-      <pubDate>Wed, 27 Mar 2024 04:22:21 GMT</pubDate>
+      <title>[媒体]约翰·巴尼特 (John Barnett)，一名针对波音公司的举报人，被发现死于他的卡车内，并遭到枪击 [...]</title>
+      <link>https://t.me/hn_summary/81522</link>
+      <description><![CDATA[波音公司已故举报人说出了真相
+波音公司的举报人约翰·巴尼特被发现死于卡车内，身上有枪伤，警方认为是“自伤”。尽管他在作证时表现得很乐观，但许多人认为他的死很可疑，有些人将矛头指向了波音公司。巴尼特曾对波音公司的安全问题发出警告，该问题在两架波音 737 MAX 飞机坠毁后曝光。波音从一家曾经享有盛誉的公司沦落为一家注重利润而非安全的公司，这一点是显而易见的。在呼吁变革和问责的同时，必须牢记巴尼特揭露波音关键安全错误的使命。]]></description>
+      <guid>https://t.me/hn_summary/81522</guid>
+      <pubDate>Wed, 27 Mar 2024 13:57:59 GMT</pubDate>
     </item>
     <item>
-      <title>在 GitHub Copilot 上的这篇博文中，我分享了最大限度提高效率的提示和技巧 [...]</title>
-      <link>https://t.me/hn_summary/81472</link>
-      <description><![CDATA[如何在 IDE 中使用 GitHub Copilot：提示、技巧和最佳实践
-在 GitHub Copilot 上的这篇博文中，我分享了一些技巧和技巧，可最大限度地提高 IDE 中人工智能助手的效率。除了代码完成之外，GitHub Copilot 还提供聊天界面、命令行工具等。提供上下文是获得准确建议的关键，例如保持相关文件打开并使用有意义的名称。利用内联聊天和斜线命令等功能可以增强您与 GitHub Copilot 的交互。突出显示相关代码、组织与线程的对话以及附加文件以供参考是改善体验的其他策略。从 GitHub Copilot Chat 开始，加快调试速度，让您的工作效率飙升。 （根据 86% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/81472</guid>
-      <pubDate>Wed, 27 Mar 2024 04:15:16 GMT</pubDate>
+      <title>[媒体]围绕最近发生的事件引发争议，一家中国公司被揭露为 [...]</title>
+      <link>https://t.me/hn_summary/81521</link>
+      <description><![CDATA[撞击巴尔的摩大桥的船只的最终所有者是中国公司
+最近发生的事件引起争议，一家中国公司被揭露是撞上巴尔的摩大桥的船只的最终所有者。这一消息引发了人们对美国关键基础设施的外国所有权的担忧。这个故事的惊人转折引发了人们对国家安全以及外国实体控制关键运输资产的影响的质疑。请继续关注这个发展故事的更新。 #BaltimoreBridge #ChineseOwnership #NationalSecurity]]></description>
+      <guid>https://t.me/hn_summary/81521</guid>
+      <pubDate>Wed, 27 Mar 2024 13:47:49 GMT</pubDate>
     </item>
     <item>
-      <title>来自 fractaledmind.github.io 的 Stephen 讨论了在生产环境中运行 SQLite 的好处 [...]</title>
-      <link>https://t.me/hn_summary/81471</link>
-      <description><![CDATA[如何（以及为何）在生产中运行 SQLite 
-fractaledmind.github.io 的 Stephen 讨论了跑步的好处用于 Rails 应用程序的生产环境中的 SQLite。他强调了 SQLite 提供的简单性、控制力和速度，使其成为小型团队和 MVP 项目的可行选择。他详细介绍了如何使用 Hatchbox 部署 SQLite on Rails 应用程序，并强调该过程的简便性和经济性。尽管存在一些性能限制，他还是证明了 SQLite on Rails 应用程序可以正常运行并可用于现实场景。斯蒂芬的实用方法挑战了复杂设置是必要的这一观念，表明简单性和效率是项目启动的关键。 （根据 58% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/81471</guid>
-      <pubDate>Wed, 27 Mar 2024 04:11:42 GMT</pubDate>
+      <title>[媒体]“404 行动”导致海盗 IPTV 运营商首次被判入狱</title>
+      <link>https://t.me/hn_summary/81520</link>
+      <description><![CDATA[“404 行动”导致海盗 IPTV 运营商首次入狱&lt; /a&gt;
+巴西“404行动”首次对盗版IPTV运营商进行刑事定罪，标志着反盗版组织ALIANZA取得了历史性胜利。 Flash IPTV 的运营商因侵犯版权被判处五年以上监禁，该服务在被下架之前产生了可观的收入。虽然执法力度受到赞扬，但打击网络盗版的法规和资源仍有改进的空间。最近的定罪突显了巴西正在与损害创意经济的非法行为作斗争。]]></description>
+      <guid>https://t.me/hn_summary/81520</guid>
+      <pubDate>Wed, 27 Mar 2024 13:42:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]山姆·奥尔特曼，曾经的硅谷宠儿，现在正面临着一些业内人士的强烈反对……</title>
-      <link>https://t.me/hn_summary/81470</link>
-      <description><![CDATA[据报道风投受够了 Sam Altman
-山姆·奥尔特曼（Sam Altman）曾经是硅谷的宠儿，现在正面临科技和金融界一些人的强烈反对。一份新报告表明，风险投资家和初创公司高管越来越厌倦奥特曼的救世主行为和个人崇拜。有些人称他为狂妄自大者，在智力上不诚实，质疑他的真实意图和无私的外表。尽管许多人在批评中保持匿名，但 Databricks 的 Ali Ghodsi 公开表示，Altman 可能过度推销了他公司所基于的技术。尽管存在争议，但奥特曼在行业中的权力和影响力阻止了许多人公开反对他。]]></description>
-      <guid>https://t.me/hn_summary/81470</guid>
-      <pubDate>Wed, 27 Mar 2024 03:56:02 GMT</pubDate>
+      <title>[媒体]硅谷重量级人物、Sun Microsystems 联合创始人 Andy Bechtolsheim 已 [...]</title>
+      <link>https://t.me/hn_summary/81519</link>
+      <description><![CDATA[Sun Microsystems 联合创始人被控内幕交易&lt; br/&gt;
+硅谷重量级人物、Sun Microsystems 联合创始人 Andy Bechtolsheim 因利用思科收购 Acacia Communications 的机密信息进行盈利交易而被 SEC 指控犯有内幕交易罪。 Bechtolsheim 也是 Google 的早期投资者，据称他从非法交易中获利 415,726 美元。美国证券交易委员会声称，他利用非公开信息谋取个人利益，滥用了商业联系人的信任。尽管拥有巨额净资产，贝托尔斯海姆还是同意支付民事罚款，并在五年内禁止担任上市公司的高管或董事。]]></description>
+      <guid>https://t.me/hn_summary/81519</guid>
+      <pubDate>Wed, 27 Mar 2024 13:40:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
