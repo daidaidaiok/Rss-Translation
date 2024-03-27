@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 26 Mar 2024 21:06:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 00:17:21 GMT</lastBuildDate>
+    <item>
+      <title>麻省理工学院执照问题</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bojxln/mit_licence_question/</link>
+      <description><![CDATA[假设我基于一些具有 MIT 许可证的代码创建了一个新作品。新代码经过大量修改。 我认为正确的方法是（Doxygen/DocBlock 注释）  \@license MIT \@copyright 2020-2023原始开发者  \@license 专有许可证 \@copyright 2024 me    由   提交/u/burner-999b   /u/burner-999b  reddit.com/r/opensource/comments/1bojxln/mit_licence_question/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bojxln/mit_licence_question/</guid>
+      <pubDate>Tue, 26 Mar 2024 21:38:01 GMT</pubDate>
+    </item>
     <item>
       <title>GitHub 替代方案 - Radile</title>
       <link>https://www.reddit.com/r/opensource/comments/1boh8pt/a_github_alternative_radicle/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我想分享一个我一直在做的项目，名为 fwdctl。它是一个简单的 CLI 工具，旨在使管理 iptables 转发变得轻而易举。无论您是网络管理员、系统管理员，还是只是使用 Linux 的人员，fwdctl 都可以帮助简化您的工作流程。 您可以在 GitHub 上找到该项目：github.com/alegrey91/fwdctl  我很想听听您对该项目的想法和反馈。请随时提出任何问题或分享您使用 fwdctl 的经验。让我们一起简化 iptables 管理！ 转发愉快！   由   提交/u/ale_grey_91   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bo2y1y/introducing_fwdctl_simplify_iptables_forward/</guid>
       <pubDate>Tue, 26 Mar 2024 08:41:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么好的（开源）视频高档工具吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bo1amc/any_good_open_source_video_upscale_tools/</link>
-      <description><![CDATA[讨厌必须不断注册帐户才能在其中一些网站上尝试，以及为仅长于 30 秒的镜头设置大量愚蠢的付费墙。 我很多人推荐使用Topaz AI，但是对于一次性使用来说它有点贵，这不像我专业使用它。只是想升级一些剪辑并完成它。    由   提交/u/MemeB0MB   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bo1amc/any_good_open_source_video_upscale_tools/</guid>
-      <pubDate>Tue, 26 Mar 2024 06:46:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
