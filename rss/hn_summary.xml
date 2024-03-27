@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 27 Mar 2024 15:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 18:07:48 GMT</lastBuildDate>
     <item>
-      <title>[媒体]文章讨论了五角大楼对人工智能的依赖以及失败 [...]</title>
-      <link>https://t.me/hn_summary/81528</link>
-      <description><![CDATA[五角大楼的硅谷问题
-文章讨论了五角大楼对人工智能的依赖以及该技术在预测和预防攻击（例如哈马斯对以色列的突然袭击）方面的失败。它凸显了对人工智能的过度自信以及军工联合体推动将技术融入国防系统的努力。探索了 Igloo White 和 Assault Breaker 等失败的军事科技项目的历史，显示了硅谷创新与五角大楼期望之间的脱节。文章质疑软件可以解决人类冲突的信念，并强调科技行业与军队之间的复杂关系。 （根据故事文本的 37% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81528</guid>
-      <pubDate>Wed, 27 Mar 2024 15:06:21 GMT</pubDate>
+      <title>1985 年，龙与地下城 (D&D) 在日本引起了巨大轰动，基本规则集的销量 [...]</title>
+      <link>https://t.me/hn_summary/81565</link>
+      <description><![CDATA[日本龙与地下城的兴衰 
+1985年，《龙与地下城》（D&amp;D）在日本引起轰动，其基本规则集在第一年就售出超过10万份。该游戏的受欢迎程度随着《Comptiq》等杂志上的连载实际游戏而飙升，导致小说系列《罗德斯岛战争记录》获得巨大成功。然而，《龙与地下城》在日本的命运迅速下滑，该游戏现在在桌面角色扮演界占据了一席之地。尽管尝试通过翻译新版本和促销活动等方式重振人们的兴趣，但《龙与地下城》在日本仍难以恢复昔日的辉煌。 （根据 88% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81565</guid>
+      <pubDate>Wed, 27 Mar 2024 18:07:48 GMT</pubDate>
     </item>
     <item>
-      <title>作者讨论了 Flatpak 构建中可重复性的实际问题。</title>
-      <link>https://t.me/hn_summary/81527</link>
-      <description><![CDATA[Flatpak 构建不可重现以及为什么这是一个实际问题
-作者讨论了 Flatpak 构建中可重复性的实际问题。虽然技术上可以重现，但缺乏对源代码树的承诺给开发人员带来了挑战。本文重点介绍了在 Flatpak 清单中查找运行时、版本控制和可重复性的问题。作者提出了一些解决方案，例如在清单中包含存储库信息并创建锁定文件来跟踪依赖项。通过与 Nix 和 Guix 等其他包管理器进行比较，作者认为通过解决这些问题，Flatpak 生态系统可以得到极大的改善。]]></description>
-      <guid>https://t.me/hn_summary/81527</guid>
-      <pubDate>Wed, 27 Mar 2024 15:03:14 GMT</pubDate>
+      <title>[媒体]密苏里州总检察长安德鲁·贝利 (Andrew Bailey) 对媒体事务提起诉讼，指控非人 [...]</title>
+      <link>https://t.me/hn_summary/81564</link>
+      <description><![CDATA[密苏里州股份公司就其 X 研究起诉 Media Matters，要求提供捐助者姓名&lt; /a&gt;
+密苏里州 AG 安德鲁·贝利 (Andrew Bailey) 对 Media Matters 提起诉讼，指控该非营利性监管组织利用欺诈手段募集捐款并操纵 X（前身为 Twitter）上的数据。贝利要求媒体事务提供捐助者姓名和内部通讯，以调查该平台上的仇恨言论。 Media Matters 予以回击，声称贝利的行为是企图破坏言论自由并惩罚批评者。争议源于 Media Matters 在 X 上亲纳粹内容旁边放置主要品牌广告的指控，马斯克和 X 指责该组织操纵算法来创建这些图像。]]></description>
+      <guid>https://t.me/hn_summary/81564</guid>
+      <pubDate>Wed, 27 Mar 2024 18:06:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]汽车收集大量个人数据，这些数据通常在未经授权的情况下与第三方共享[...]</title>
-      <link>https://t.me/hn_summary/81526</link>
-      <description><![CDATA[如何了解您的汽车对您的了解，选择退出尽可能分享
-汽车收集大量个人数据，这些数据通常在驾驶员不知情的情况下与第三方共享。最近的一篇文章强调了通用汽车公司如何与保险公司共享数据，影响保费。要了解您的汽车收集哪些数据以及可能选择不共享哪些数据，请首先检查您汽车的隐私设置和应用程序选项。您还可以向汽车制造商提交隐私请求，以查看并可能停止数据共享。然而，如果没有更严格的隐私法，全面保护您的数据将面临挑战。这个过程可能很复杂，但了解和控制您的汽车数据至关重要。]]></description>
-      <guid>https://t.me/hn_summary/81526</guid>
-      <pubDate>Wed, 27 Mar 2024 14:43:02 GMT</pubDate>
+      <title>[媒体]上周，Redis 宣布了一项有争议的放弃开源许可的转变，movi [...]</title>
+      <link>https://t.me/hn_summary/81563</link>
+      <description><![CDATA[Redis 许可证转移导致社区分裂：开源贡献者转向分叉&lt; /a&gt;
+上周，Redis 宣布了一项有争议的转变，放弃开源许可，转而采用 RSALv2 和 SSPLv1 的双重许可方法。这一决定引起了社区的分裂，开源倡导者感到失望，贡献者感到被背叛。新许可证限制了竞争产品的商业用途，引发了愤怒和强烈反对。 Redis 远离开源导致了分叉的出现，Madelyn Olson 和 Drew DeVault 等开发人员推出了替代版本。这种趋势凸显了意识形态分歧，迫使开源软件贡献者重新评估他们的项目一致性以及开源社区中良好管理的重要性。 （根据 86% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81563</guid>
+      <pubDate>Wed, 27 Mar 2024 17:46:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一个以流媒体服务为主的世界里，有一群专门的电影迷 [...]</title>
-      <link>https://t.me/hn_summary/81525</link>
-      <description><![CDATA[拒绝向流媒体投降的影迷&lt; br/&gt;
-在一个以流媒体服务为主的世界里，有一群忠实的电影迷拒绝放弃实体媒体。尽管 DVD 和蓝光销量下降，这些爱好者仍然看重他们收藏的有形本质。从怀旧的原因到对审查和访问的担忧，这些粉丝将物理媒体视为保存和欣赏他们喜爱的电影的一种方式。尽管流媒体服务提供了便利，但实体媒体粉丝仍欣赏卓越的视听质量、奖励内容以及拥有实体副本所带来的所有权感。随着行业向数字化转变，这些收藏家仍然坚定地热爱实体媒体。 （根据故事文本的 68% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81525</guid>
-      <pubDate>Wed, 27 Mar 2024 14:38:57 GMT</pubDate>
+      <title>[媒体]我们很高兴地宣布，SF Mistral AI 黑客马拉松的获胜者是我们的 Autom [...]</title>
+      <link>https://t.me/hn_summary/81562</link>
+      <description><![CDATA[SF Mistral AI 黑客马拉松获胜者：自动化测试驱动提示
+我们很高兴地宣布，SF Mistral AI 黑客马拉松的获胜者是我们的自动化测试驱动提示系统！我们的创新系统使用用户提示来生成理想的输出，确保结果准确高效。通过我们的系统提示模板测试，用户可以轻松测试不同的提示并查看理想的实际输出。另外，我们的“添加测试”功能为测试和完善提示提供了无限的可能性。请访问我们的网站 prompting.flyflow.dev 了解如何操作我们的系统正在彻底改变人工智能提示的测试和优化方式。]]></description>
+      <guid>https://t.me/hn_summary/81562</guid>
+      <pubDate>Wed, 27 Mar 2024 17:42:23 GMT</pubDate>
     </item>
     <item>
-      <title>在我对家庭动态的最新思考中，我意识到曾祖母的时代已经到来 [...]</title>
-      <link>https://t.me/hn_summary/81524</link>
-      <description><![CDATA[曾祖母的窗口即将关闭
-在我对家庭动态的最新思考中，我意识到曾祖母的时代即将结束。反思我自己的家族史，我发现我的祖母在45岁时成为祖母，在75岁时成为曾祖母。然而，随着每一代人都晚生孩子，早曾祖父母的趋势正在消失。这种转变在巴西尤为明显，那里多子女曾经很常见。随着全球预期寿命的增加，曾祖父母的数量正在减少。随着这个时代的结束，社会会失去一些有价值的东西吗？只有时间会给出答案。]]></description>
-      <guid>https://t.me/hn_summary/81524</guid>
-      <pubDate>Wed, 27 Mar 2024 14:37:52 GMT</pubDate>
+      <title>地球自转正在加速，可能导致 2029 年需要出现负闰秒。</title>
+      <link>https://t.me/hn_summary/81561</link>
+      <description><![CDATA[由于行星自转速度稍快，计时员可能会在 2029 年减少一秒
+地球自转正在加速，可能导致 2029 年需要出现负闰秒。这种前所未有的情况是由地球炽热的液体核心和两极融化的冰引起的，可能会扰乱我们的时间感。虽然计时员一直在增加闰秒来调整原子时和天文时，但减少一秒的前景给技术和全球系统带来了挑战。争议在于负闰秒是否必要的争论，一些专家质疑这种调整的必要性及其对各行业的潜在影响。]]></description>
+      <guid>https://t.me/hn_summary/81561</guid>
+      <pubDate>Wed, 27 Mar 2024 17:29:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Impulse XDR 是一种实时威胁检测和完整性监控工具，使用 [...]</title>
-      <link>https://t.me/hn_summary/81523</link>
-      <description><![CDATA[Show HN：Impulse XDR、实时威胁检测和完整性监控
-Impulse XDR 是一种实时威胁检测和完整性监控工具，它使用行为模式来检测恶意软件而不是签名。它通过跟踪妥协指标并持续监控新事件来提供深入的安全可见性和保护。该项目的独特之处在于提供自托管的管理器传感器架构、开源 EDR 传感器以及从行为活动模式检测未知威胁的能力。它可以部署在运行 Linux 的各种设备上，并提供安全分析、网络可见性、文件完整性监控、主动响应和漏洞扫描等功能。用户可以保护和监控云虚拟机、VPS 服务器、个人工作站、物联网设备等。 （根据故事文本的 73% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81523</guid>
-      <pubDate>Wed, 27 Mar 2024 14:29:45 GMT</pubDate>
+      <title>[媒体]Redis 通常被视为技术堆栈中的必备工具，但根据我在探探的经历，[...]</title>
+      <link>https://t.me/hn_summary/81560</link>
+      <description><![CDATA[您可能不需要 Redis
+Redis 通常被视为技术堆栈中的必备工具，但根据我在 Tantan、Bannerflow 和 MAJORITY 的经验，我了解到您可能实际上并不需要它。在探探，我们发现对于简单任务来说，在 PostgreSQL 中存储数据比使用 Redis 更高效。在 Bannerflow，在没有明确理由的情况下添加了 Redis 实例。在 MAJORITY，我们发现 Redis 增加了不必要的复杂性。尽管场景不同，但共同的主题是希望使用 Redis。如果您有兴趣进一步探索这一点，请查看 Dan McKinley 的演讲“选择无聊技术”。 - 维克多 2024-03-12]]></description>
+      <guid>https://t.me/hn_summary/81560</guid>
+      <pubDate>Wed, 27 Mar 2024 17:27:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]约翰·巴尼特 (John Barnett)，一名针对波音公司的举报人，被发现死于他的卡车内，并遭到枪击 [...]</title>
-      <link>https://t.me/hn_summary/81522</link>
-      <description><![CDATA[波音公司已故举报人说出了真相
-波音公司的举报人约翰·巴尼特被发现死于卡车内，身上有枪伤，警方认为是“自伤”。尽管他在作证时表现得很乐观，但许多人认为他的死很可疑，有些人将矛头指向了波音公司。巴尼特曾对波音公司的安全问题发出警告，该问题在两架波音 737 MAX 飞机坠毁后曝光。波音从一家曾经享有盛誉的公司沦落为一家注重利润而非安全的公司，这一点是显而易见的。在呼吁变革和问责的同时，必须牢记巴尼特揭露波音关键安全错误的使命。]]></description>
-      <guid>https://t.me/hn_summary/81522</guid>
-      <pubDate>Wed, 27 Mar 2024 13:57:59 GMT</pubDate>
+      <title>嘿，HN！</title>
+      <link>https://t.me/hn_summary/81559</link>
+      <description><![CDATA[启动 HN：Patchwork (YC W24) – 基于 Feed 的团队沟通，不是聊天
+嘿，HN！我们是 Nikki 和 Dhruhin，Patchwork 的联合创始人，Patchwork 是一种以排名提要而非聊天为中心的团队沟通工具。我们相信像 Slack 这样的聊天工具已经成为所有沟通的压倒性垃圾场，扰乱了我们的流程。 Patchwork 旨在通过高信噪比算法将主要通信模式转变为针对每个团队成员的个性化信息。我们使用法学硕士让发帖变得更容易，并与 Github 和 Figma 等平台集成。虽然我们通过聊天来满足即时需求，但我们的重点是保持团队同步和流畅。查看我们的演示并向我们发送电子邮件以加入您的团队！]]></description>
+      <guid>https://t.me/hn_summary/81559</guid>
+      <pubDate>Wed, 27 Mar 2024 17:26:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]围绕最近发生的事件引发争议，一家中国公司被揭露为 [...]</title>
-      <link>https://t.me/hn_summary/81521</link>
-      <description><![CDATA[撞击巴尔的摩大桥的船只的最终所有者是中国公司
-最近发生的事件引起争议，一家中国公司被揭露是撞上巴尔的摩大桥的船只的最终所有者。这一消息引发了人们对美国关键基础设施的外国所有权的担忧。这个故事的惊人转折引发了人们对国家安全以及外国实体控制关键运输资产的影响的质疑。请继续关注这个发展故事的更新。 #BaltimoreBridge #ChineseOwnership #NationalSecurity]]></description>
-      <guid>https://t.me/hn_summary/81521</guid>
-      <pubDate>Wed, 27 Mar 2024 13:47:49 GMT</pubDate>
+      <title>在这篇博文中，作者讨论了使用 TypeSpec（一种灵活的协议 [...]</title>
+      <link>https://t.me/hn_summary/81558</link>
+      <description><![CDATA[使用 TypeSpec 编写 OpenAPI
+在这篇博文中，作者讨论了使用 TypeSpec（一种灵活的协议无关 DSL）来编写 OpenAPI 文档的好处。虽然 OpenAPI 被广泛使用且有效，但它在可读性和可扩展性方面存在局限性。 TypeSpec 受到 TypeScript 的启发，提供了一种更简洁、更具表现力的语法来定义 API 形状。作者重点介绍了 TypeSpec 的联合和组件如何使 API 设计更加模块化和可重用，从而提高一致性并减少 API 审查所需的工作量。通过展示示例并将 TypeSpec 与 OpenAPI 进行比较，作者演示了 TypeSpec 如何彻底改变 API 优先的开发。]]></description>
+      <guid>https://t.me/hn_summary/81558</guid>
+      <pubDate>Wed, 27 Mar 2024 17:24:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“404 行动”导致海盗 IPTV 运营商首次被判入狱</title>
-      <link>https://t.me/hn_summary/81520</link>
-      <description><![CDATA[“404 行动”导致海盗 IPTV 运营商首次入狱&lt; /a&gt;
-巴西“404行动”首次对盗版IPTV运营商进行刑事定罪，标志着反盗版组织ALIANZA取得了历史性胜利。 Flash IPTV 的运营商因侵犯版权被判处五年以上监禁，该服务在被下架之前产生了可观的收入。虽然执法力度受到赞扬，但打击网络盗版的法规和资源仍有改进的空间。最近的定罪突显了巴西正在与损害创意经济的非法行为作斗争。]]></description>
-      <guid>https://t.me/hn_summary/81520</guid>
-      <pubDate>Wed, 27 Mar 2024 13:42:41 GMT</pubDate>
+      <title>[媒体] 在测试 Elixir 应用程序的世界中，处理共享的全局状态可能是一件令人头疼的事情。</title>
+      <link>https://t.me/hn_summary/81557</link>
+      <description><![CDATA[`async: false` 是最糟糕的
+在测试 Elixir 应用程序的世界中，处理共享的全局状态可能是一件令人头疼的事情。使用async: false来防止测试干扰的常见解决方案可能很麻烦。但不用担心，有一种巧妙的技术可以本地化每个 ExUnit 测试的全局状态，确保它们对于 async: true 是解耦且安全的。通过利用 Erlang/Elixir 的进程架构，我们可以使用进程字典和进程祖先层次结构将数据范围限制到单个测试。这种方法不仅避免了全局引用，而且还改进了测试定制。虽然有些人可能会警告不要使用流程字典，但如果使用得当，它可以成为一个强大的工具，可以减少数据的全局性，而不是更多。]]></description>
+      <guid>https://t.me/hn_summary/81557</guid>
+      <pubDate>Wed, 27 Mar 2024 17:22:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]硅谷重量级人物、Sun Microsystems 联合创始人 Andy Bechtolsheim 已 [...]</title>
-      <link>https://t.me/hn_summary/81519</link>
-      <description><![CDATA[Sun Microsystems 联合创始人被控内幕交易&lt; br/&gt;
-硅谷重量级人物、Sun Microsystems 联合创始人 Andy Bechtolsheim 因利用思科收购 Acacia Communications 的机密信息进行盈利交易而被 SEC 指控犯有内幕交易罪。 Bechtolsheim 也是 Google 的早期投资者，据称他从非法交易中获利 415,726 美元。美国证券交易委员会声称，他利用非公开信息谋取个人利益，滥用了商业联系人的信任。尽管拥有巨额净资产，贝托尔斯海姆还是同意支付民事罚款，并在五年内禁止担任上市公司的高管或董事。]]></description>
-      <guid>https://t.me/hn_summary/81519</guid>
-      <pubDate>Wed, 27 Mar 2024 13:40:36 GMT</pubDate>
+      <title>我们很高兴为 Proxmox VE 推出新的集成导入向导！</title>
+      <link>https://t.me/hn_summary/81556</link>
+      <description><![CDATA[Proxmox VE：用于迁移 VMware ESXi 虚拟机的导​​入向导 
+我们很高兴为 Proxmox VE 推出新的集成导入向导！此功能允许将 VMware ESXi VM 无缝迁移到 Proxmox VE，从而减少停机时间并将大多数配置映射到我们的系统。查看我们的参考文档和更新的 wiki 文章以获取分步指南。要访问导入向导，请将 Proxmox VE 更新到最新版本。虽然我们目前支持 ESXi 版本 6.5 至 8.0，但我们计划将来集成 OVF/OVA 导入工具。我们独特的方法包括通过以 Rust 编程语言实现的用户空间文件系统访问 ESXi API，确保集成到我们的开源项目中。]]></description>
+      <guid>https://t.me/hn_summary/81556</guid>
+      <pubDate>Wed, 27 Mar 2024 17:15:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
