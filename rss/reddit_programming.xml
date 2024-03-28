@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 28 Mar 2024 00:17:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 03:06:27 GMT</lastBuildDate>
+    <item>
+      <title>Kotlin Native 中的免费桥接</title>
+      <link>https://www.reddit.com/r/programming/comments/1bphr2k/tollfree_bridging_in_kotlin_native/</link>
+      <description><![CDATA[ 由   提交/u/thismachinechills   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bphr2k/tollfree_bridging_in_kotlin_native/</guid>
+      <pubDate>Thu, 28 Mar 2024 00:21:01 GMT</pubDate>
+    </item>
     <item>
       <title>通过实现玩具 Redis 克隆来学习 Rust + WASM（作为 TS/Python 程序）的想法。</title>
       <link>https://www.reddit.com/r/programming/comments/1bpebeh/thoughts_on_learning_rust_wasm_as_a_tspython/</link>
@@ -76,7 +83,7 @@
       <pubDate>Wed, 27 Mar 2024 18:32:56 GMT</pubDate>
     </item>
     <item>
-      <title>您可以向高级数据工程师学习的 5 门独家软技能课程</title>
+      <title>您可以从高级数据工程师那里学到的 5 门独家软技能课程</title>
       <link>https://www.reddit.com/r/programming/comments/1bp8a4v/5_exclusive_soft_skill_lessons_you_can_learn_from/</link>
       <description><![CDATA[ 由   提交 /u/ivanovyordan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bp8a4v/5_exclusive_soft_skill_lessons_you_can_learn_from/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Lexandrit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bp53ih/is_europe_better_than_america_for_working_in_tech/</guid>
       <pubDate>Wed, 27 Mar 2024 15:46:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>.NET Aspire Preview 4：添加了数据库管理工具、Podman 和更多云 API 支持</title>
-      <link>https://www.reddit.com/r/programming/comments/1bp4kjs/net_aspire_preview_4_database_managament_tools/</link>
-      <description><![CDATA[ 由   提交/u/almirvuk  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bp4kjs/net_aspire_preview_4_database_managament_tools/</guid>
-      <pubDate>Wed, 27 Mar 2024 15:24:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
