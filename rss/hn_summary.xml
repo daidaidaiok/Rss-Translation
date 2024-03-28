@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 28 Mar 2024 08:45:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 15:03:37 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 人权律师杰弗里·罗伯逊 (Geoffrey Robertson) 对朱利安·阿桑奇 (Julian Assange) 的行为表示担忧 [...]</title>
-      <link>https://t.me/hn_summary/81652</link>
-      <description><![CDATA[“他身体不太好”：对朱利安·阿桑奇心理健康的担忧 [视频](https://news.ycombinator.com/item?id=39848119)
-人权律师杰弗里·罗伯逊对朱利安·阿桑奇的心理健康表示担忧，称“他身体不好”。阿桑奇曾在厄瓜多尔大使馆和戒备森严的监狱里呆了多年，目前面临被引渡到美国的风险。罗伯逊认为，如果阿桑奇早些受到处理，那就更公正了。在第一次听证会上，阿桑奇被认为如果被引渡有自杀的风险。围绕阿桑奇心理健康和治疗的争议引发了人们对他的福祉和法律程序公平性的质疑。]]></description>
-      <guid>https://t.me/hn_summary/81652</guid>
-      <pubDate>Thu, 28 Mar 2024 08:45:53 GMT</pubDate>
+      <title>[媒体] 在 www.emoses.org 上，作者介绍了 Go 中表示状态变化的模式 [...]</title>
+      <link>https://t.me/hn_summary/81701</link>
+      <description><![CDATA[在 Go 中将状态表示为接口
+在 www.emoses.org 上，作者介绍了一种模式在 Go 中通过使用接口来表示系统中的状态变化。该模式涉及 Resolver、Executor 和 Resolved，它们全部由同一结构实现。作者解释了这种模式背后的动机，强调需要在不同状态下处理不同的操作。他们还讨论了一种混乱的替代方法，并强调使用 Go 中的接口来有效管理状态更改的简单性和清晰度。这种独特的模式提供了一种巧妙的解决方案，可以使用 Go 接口处理系统中的状态更改。]]></description>
+      <guid>https://t.me/hn_summary/81701</guid>
+      <pubDate>Thu, 28 Mar 2024 15:03:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在令人惊讶的事件转变中，生成人工智能一直在产生幻觉软件包[...]</title>
-      <link>https://t.me/hn_summary/81651</link>
-      <description><![CDATA[AI 产生幻觉软件包并让开发者下载
-令人惊讶的是，生成式人工智能已经产生了幻觉软件包，这些软件包已被主要企业纳入源代码中。安全研究员 Bar Lanyado 发现了这一现象，甚至将其中一个虚构的依赖项变成了真实的依赖项，该依赖项已被开发人员下载了数千次。潜在的危险在于这些假包可能含有恶意软件。 Lanyado 的研究表明，人工智能模型可以推荐不存在的软件包，从而为恶意行为者通过以这些名称分发恶意软件来利用这一点提供了可能性。虽然尚未在实际攻击中使用，但其影响令人担忧。]]></description>
-      <guid>https://t.me/hn_summary/81651</guid>
-      <pubDate>Thu, 28 Mar 2024 08:39:14 GMT</pubDate>
+      <title>[媒体]在对已婚夫妇常见年龄差异的分析中，数据来自 2022 年美国 [...]</title>
+      <link>https://t.me/hn_summary/81700</link>
+      <description><![CDATA[已婚夫妇常见的年龄差异
+在对已婚夫妇常见年龄差异的分析中，2022 年美国社区调查的数据显示，三分之一的男女已婚家庭的配偶年龄相差不到一年，其中丈夫的年龄通常较大。令人惊讶的是，年龄差距并没有随着年龄的增长而显着增加，更大的差距在第二次和第三次婚姻以及同性婚姻中更为常见。使用 R 和 Adob​​e Illustrator 对数据进行分析，突显已婚夫妇之间不同年龄差距的普遍性。这一发人深省的分析促使人们进一步探索人际关系中的年龄差异如何随着时间的推移而演变。]]></description>
+      <guid>https://t.me/hn_summary/81700</guid>
+      <pubDate>Thu, 28 Mar 2024 14:54:30 GMT</pubDate>
     </item>
     <item>
-      <title>当今的年轻人在就业市场上面临着前所未有的挑战，求职 [...]</title>
-      <link>https://t.me/hn_summary/81650</link>
-      <description><![CDATA[对于年轻人来说，找工作从未如此痛苦
-如今的年轻人在就业市场上面临着前所未有的挑战，求职过程被形容为“痛苦”。新的《金融时报》数字版全面介绍了当今的就业市场，为年轻求职者提供了宝贵的见解和信息。不过，需要注意的是，此订阅不包括访问 ft.com&lt; /a&gt; 或 FT 应用程序，因此用户在考虑他们的选择时需要牢记这一点。借助《金融时报》数字版，随时了解最新情况并在竞争激烈的就业市场中保持领先地位。]]></description>
-      <guid>https://t.me/hn_summary/81650</guid>
-      <pubDate>Thu, 28 Mar 2024 06:34:07 GMT</pubDate>
+      <title>我抓取了 OpenAI 社区论坛的所有内容，并编译了有关帖子讨论、标签、观点的数据，[...]</title>
+      <link>https://t.me/hn_summary/81699</link>
+      <description><![CDATA[显示 HN：我抓取了 OpenAI 社区论坛的所有内容 
+我抓取了 OpenAI 的所有社区论坛，并整理了有关帖子讨论、标签、视图、回复、点赞、参与者、字数、作者信息、情绪等的数据。这些数据包括帖子 ID、时间戳、类别、相关主题、情绪得分和内容嵌入。这个全面的数据集为 OpenAI 社区的讨论和互动提供了宝贵的见解。探索 julep-ai.github.io 发现论坛内的趋势和模式。]]></description>
+      <guid>https://t.me/hn_summary/81699</guid>
+      <pubDate>Thu, 28 Mar 2024 14:45:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 1958 年，Perceptron 作为一款突破性的房间大小的计算机推出，可以 [...]</title>
-      <link>https://t.me/hn_summary/81649</link>
-      <description><![CDATA[我们曾经经历过：人工智能承诺会在 1958 年创造出类人机器
-1958 年，感知器作为一款突破性的房间大小的计算机推出，有望打造出类人机器。现在，六十多年过去了，人们对当前的人工智能也提出了类似的说法。人工智能领域经历了繁荣与萧条的周期，乐观推动进步，但也导致失败。弗兰克·罗森布拉特 (Frank Rosenblatt) 发明的感知器为人工智能奠定了基础，现代人工智能系统的工作原理类似，从错误中学习以改进预测。然而，处理新信息、理解复杂语言等挑战仍然存在，提醒我们在人工智能发展中不断汲取过去的经验教训。]]></description>
-      <guid>https://t.me/hn_summary/81649</guid>
-      <pubDate>Thu, 28 Mar 2024 06:21:31 GMT</pubDate>
+      <title>[媒体] Dioxus 0.5 是一次重大更新，为构建库带来了重大变化 [...]</title>
+      <link>https://t.me/hn_summary/81698</link>
+      <description><![CDATA[Dioxus 0.5：Rust 中的 Web、桌面、移动应用
+Dioxus 0.5 是一个重大更新，为 Rust 中构建 GUI 的库带来了重大变化。该更新包括对核心的完全重写，删除所有不安全代码，并引入信号作为组件的核心状态原语。信号始终是复制的，不需要手动订阅，使状态管理变得更加容易。此更新还删除了生命周期和作用域，简化了组件声明和运行时函数的使用。通过这些变化，Dioxus 的目标是让应用程序开发变得更容易、更高效，同时满足新手和经验丰富的 Rust 开发人员的需求。 （根据故事文本的 35% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/81698</guid>
+      <pubDate>Thu, 28 Mar 2024 14:44:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]年轻人服用治疗多动症的兴奋剂药物可能会增加患多动症的风险 [...]</title>
-      <link>https://t.me/hn_summary/81648</link>
-      <description><![CDATA[多动症兴奋剂可能会增加年轻人心脏受损的风险
-根据美国心脏病学会年度科学会议上发表的一项研究，年轻人服用治疗多动症的兴奋剂药物可能会增加患心肌病（心肌衰弱）的风险。虽然风险相对较低，但服用阿得拉和利他林等药物的人随着时间的推移更有可能出现心脏损伤。研究表明，临床医生可能不需要改变他们开兴奋剂的方法，但需要进一步研究来确定潜在的危险因素和可能从筛查中受益的患者亚组。]]></description>
-      <guid>https://t.me/hn_summary/81648</guid>
-      <pubDate>Thu, 28 Mar 2024 05:41:45 GMT</pubDate>
+      <title>[媒体]谷歌的 Lars Bergstrom 在 Twitter 上分享了一些有趣的见解，揭示了 [...]</title>
+      <link>https://t.me/hn_summary/81697</link>
+      <description><![CDATA[Google 的 Lars Bergstrom：Rust 团队的工作效率是使用 C++ 的团队的两倍
+来自 Google 的 Lars Bergstrom 在 Twitter 上分享了一些有趣的见解，揭示 Rust 团队的生产力是使用 C++ 的团队的两倍。这一声明引发了开发商的争论，一些人质疑这一说法的有效性。围绕 Rust 与 C++ 生产力的争议引起了技术社区许多人的关注。这是一个大胆的声明，让许多人想知道在软件开发中使用 Rust 相对于 C++ 的潜在好处。]]></description>
+      <guid>https://t.me/hn_summary/81697</guid>
+      <pubDate>Thu, 28 Mar 2024 14:30:43 GMT</pubDate>
     </item>
     <item>
-      <title>厌倦了成为数字世界中的另一个 NPC？</title>
-      <link>https://t.me/hn_summary/81647</link>
-      <description><![CDATA[ST-DOS
-厌倦了成为数字世界中的另一个 NPC？隆重推出 lEEt/OS，一款让您脱颖而出的操作系统。 lEEt/OS 由 Sami Tikkanen 开发，为希望脱颖而出的用户提供独特且创新的体验。告别无聊的界面，迎接新水平的定制和控制。加入革命并通过 lEEt/OS 发表声明。]]></description>
-      <guid>https://t.me/hn_summary/81647</guid>
-      <pubDate>Thu, 28 Mar 2024 05:04:32 GMT</pubDate>
+      <title>戴尔要求员工返回办公室，否则可能会错过晋升机会，sparkin [...]</title>
+      <link>https://t.me/hn_summary/81696</link>
+      <description><![CDATA[戴尔：返回办公室或放弃晋升&lt; br/&gt;
+戴尔要求员工返回办公室，否则可能会错过晋升机会，这引发了员工的困惑和强烈反对。该公司从重视远程工作转向优先考虑办公室工作，引发了人们对隐形裁员的担忧，并对女性和残疾人产生了不成比例的影响。工作场所文化专家杰西卡·克里格尔表示，戴尔强制重返办公室是一种“精简员工队伍”的方式，可能会导致一些员工辞职。这项有争议的政策反映出，尽管员工不满并担心远程工作对经济和商业地产的影响，但企业仍倾向于取消远程工作政策。]]></description>
+      <guid>https://t.me/hn_summary/81696</guid>
+      <pubDate>Thu, 28 Mar 2024 14:19:36 GMT</pubDate>
     </item>
     <item>
-      <title>天文学家突破性地发现了一个罕见的食 Be/X 射线双星系统，k [...]</title>
-      <link>https://t.me/hn_summary/81646</link>
-      <description><![CDATA[天文学家发现了罕见的食 X 射线双星&lt; br/&gt;
-天文学家突破性地发现了一个罕见的食 Be/X 射线双星系统，称为 Swift J010902.6-723710，作为 Swift 小麦哲伦云巡天的一部分。该系统是迄今为止已知的第三个此类系统，展示了独特的特征，例如拟议的轨道周期为 60.623 天，中子星的自转周期为 182 秒。该系统的伴星是一颗光谱等级为Ve的B0-0.5星，并且已证实中子星周围存在大型吸积盘。这一发现为更详细地研究 Be/X 射线双星物理参数提供了宝贵的机会。]]></description>
-      <guid>https://t.me/hn_summary/81646</guid>
-      <pubDate>Thu, 28 Mar 2024 04:53:26 GMT</pubDate>
+      <title>[媒体] 介绍 3D 打印二进制恩尼格玛 (10 Enigma) – 终极加密和解密 [...]</title>
+      <link>https://t.me/hn_summary/81695</link>
+      <description><![CDATA[Show HN：我制作了一个用于手动加密的二进制恩尼格玛机
+隆重推出 3D 打印二进制恩尼格玛机 (10 Enigma) – 受二战恩尼格玛机启发的终极加密和解密设备。这种手动设备为无需电池的现代通信提供了简单性和安全性。请务必小心，因为机器需要精确处理和定位环才能正确操作。通过将文本转换为简化的二进制文件并费力地按下相应的按钮来加密消息。按照相反的相同过程进行解密。从解码秘密消息中获利并尝试破解所提供的谜题。该设备的机械结构通过详细的组装说明进行了解释。使用二进制恩尼格玛体验前所未有的加密！]]></description>
+      <guid>https://t.me/hn_summary/81695</guid>
+      <pubDate>Thu, 28 Mar 2024 14:18:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]埃隆·马斯克 (Elon Musk) 预计特斯拉 Optimus 机器人的定价“不到 [...]</title>
-      <link>https://t.me/hn_summary/81645</link>
-      <description><![CDATA[埃隆·马斯克表示特斯拉 Optimus 机器人的成本应该不到汽车的一半
-埃隆·马斯克 (Elon Musk) 预计特斯拉 Optimus 机器人的售价“不到汽车价格的一半”，可能在 20,000 美元至 25,000 美元之间。这款人形机器人旨在接管重复性和危险的任务，其最新原型已显示出显着改进。马斯克认为，Optimus 最终可能占据特斯拉长期价值的大部分，需求量可能达到 10 至 200 亿辆。虽然没有明确的生产时间表，但马斯克此前表示最早可能在 2023 年开始。特斯拉一直在积极为其机器人项目招聘员工，这标志着这一雄心勃勃的目标取得了进展。]]></description>
-      <guid>https://t.me/hn_summary/81645</guid>
-      <pubDate>Thu, 28 Mar 2024 04:49:22 GMT</pubDate>
+      <title>[媒体]标题：Reddit内部人士在IPO后一直在抛售股票</title>
+      <link>https://t.me/hn_summary/81694</link>
+      <description><![CDATA[Reddit 内部人士在 IPO 后一直在抛售股票&lt; br/&gt;
+标题：Reddit 内部人士在 IPO 后一直在抛售股票
+
+最近，有消息称 Reddit 的内部人士在公司 IPO 后抛售了他们的股票。这引起了一些人的关注，并引发了投资者和分析师的争议。许多人质疑这些销售背后的动机以及这对公司的未来意味着什么。对于一个以透明度和社区参与为荣的平台来说，这是一个令人惊讶的转变。只有时间才能证明这将如何影响 Reddit 的市场轨迹。请继续关注这个发展故事的更新。]]></description>
+      <guid>https://t.me/hn_summary/81694</guid>
+      <pubDate>Thu, 28 Mar 2024 14:16:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]布鲁克莱恩的 Soofa 标志不仅仅是电子显示屏 - 它们是收集 [...]</title>
-      <link>https://t.me/hn_summary/81644</link>
-      <description><![CDATA[布鲁克莱恩的数字标牌会在您走过时从您的手机收集数据
-布鲁克莱恩的 Soofa 标志不仅仅是电子显示屏，它们还会在您走过时从您的手机收集数据。这些七英尺长的标志由剑桥初创公司 Soofa 安装，通过收集 15 英尺内手机的 MAC 地址来计算行人数量。虽然 Soofa 声称他们不收集个人数据，但美国公民自由联盟 (ACLU) 提出了对隐私的担忧。居民不能选择退出此数据收集，布鲁克莱恩镇也不会积极使用收集到的信息。 Soofa 认为，这些数据可以帮助小型企业根据行人流量调整营业时间。围绕此数据收集的争议促使马萨诸塞州美国公民自由联盟 (ACLU) 提议立法限制此类做法。]]></description>
-      <guid>https://t.me/hn_summary/81644</guid>
-      <pubDate>Thu, 28 Mar 2024 03:18:48 GMT</pubDate>
+      <title>在 allyviz.com，我们提供了一个开源可访问性问题可视化工具，具有超过 50 [...]</title>
+      <link>https://t.me/hn_summary/81693</link>
+      <description><![CDATA[显示 HN：开源辅助功能问题可视化&lt; br/&gt;
+在 allyviz.com 上，我们提供了开源辅助功能问题可视化具有 50 多个可用测试的工具。无需注册，用户可以提出无限制的请求。只需输入 URL 即可检查可访问性，无论是在桌面还是移动设备上。将鼠标悬停在每个叠加层上以获取更多信息并轻松与他人共享结果。请访问我们的 GitHub 页面，了解其工作原理或通过购买咖啡来支持我们。请访问我们的网站，了解有关我们为何创建此工具、其工作原理以及任何限制的更多信息。可访问性测试让所有人都变得简单且易于访问。]]></description>
+      <guid>https://t.me/hn_summary/81693</guid>
+      <pubDate>Thu, 28 Mar 2024 14:11:20 GMT</pubDate>
     </item>
     <item>
-      <title>radiki.dev 上的内容探索了 Rust 中的高级模式匹配，展示了 [...]</title>
-      <link>https://t.me/hn_summary/81643</link>
-      <description><![CDATA[超越 Rust 模式匹配的一步
-radiki.dev 上的内容探索了 Rust 中的高级模式匹配，展示了进行条件模式匹配和变量绑定的能力。作者深入研究了 Rust 的模式匹配和一种名为 Glowdust 的新语言之间的异同，后者通过允许更复杂的查询和连接将模式匹配提升到一个新的水平。作者强调了 Glowdust 模式匹配的声明性和类似查询的性质，强调了其在数据库查询语言中使用的潜力。与 Rust 模式匹配的比较很有趣，但作者承认 Glowdust 更适合数据库查询。]]></description>
-      <guid>https://t.me/hn_summary/81643</guid>
-      <pubDate>Thu, 28 Mar 2024 03:04:09 GMT</pubDate>
+      <title>[媒体]安大略省四大学校董事会正在起诉社交媒体巨头，索赔 45 亿美元 [...]</title>
+      <link>https://t.me/hn_summary/81692</link>
+      <description><![CDATA[安大略省学校董事会起诉社交媒体巨头 $4.5B 
+安省四大主要学校董事会正在起诉社交媒体巨头，索赔 45 亿美元，指控 Facebook、Instagram、Snapchat 和 TikTok 等平台对儿童的思维、行为和学习方式产生了负面影响。委员会声称，这些公司故意制造成瘾产品并向儿童推销，导致注意力、学习和心理健康危机。该诉讼由多伦多地区学校董事会牵头，是一个名为“社交媒体变革学校”的新联盟的一部分。这可能是加拿大首例此类案例，董事会呼吁社交媒体巨头重新设计其产品，以确保学生的安全。]]></description>
+      <guid>https://t.me/hn_summary/81692</guid>
+      <pubDate>Thu, 28 Mar 2024 14:10:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
