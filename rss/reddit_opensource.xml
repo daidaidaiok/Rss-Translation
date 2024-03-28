@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 27 Mar 2024 21:06:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 00:18:20 GMT</lastBuildDate>
+    <item>
+      <title>让我们来谈谈 Apache AGE：PostgreSQL 的图形扩展</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bpd2a9/lets_talk_about_apache_age_a_graph_extension_for/</link>
+      <description><![CDATA[大家好u/opensource！我是 Apache AGE 的核心贡献者之一，这是一个开源项目，致力于向 PostgreSQL 添加图形数据库功能，我非常高兴能在这里与大家分享。 🎉 为什么我要把 Apache AGE 带到这里？嗯，很简单： 社区与协作：我们对开源充满热情，并相信社区贡献和反馈的力量。 灵活性和创新：&lt; /strong&gt; Apache AGE 代表了关系数据库的结构化世界和图形数据库的互连领域之间的一座桥梁，为您的项目提供了独特的功能组合。 共同学习和成长：是否如果您是数据库爱好者或只是对新技术感到好奇，我来这里是为了向您学习、回答问题，甚至可能一起解决一些难题。 这是关于分享我们喜欢的东西并发现类似 -有头脑的人可能会发现它有用或有趣。如果图数据库引起您的兴趣，或者您有见解、问题，或者只是想讨论数据库的未来，我洗耳恭听！ com/apache/age&quot;&gt;Apache AGE GitHub &amp; 网站    由   提交/u/Eya_AGE  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bpd2a9/lets_talk_about_apache_age_a_graph_extension_for/</guid>
+      <pubDate>Wed, 27 Mar 2024 21:07:28 GMT</pubDate>
+    </item>
     <item>
       <title>您好，🙂 随着日新月异的快速发展，我们邀请您在这篇新文章中了解如何根据您的操作系统安装 Jami 的 Beta 版本。 🙆‍♂️ Beta 还意味着享受最新功能、定期更新，并在正式发布之前向我们发送您的反馈。</title>
       <link>https://www.reddit.com/r/opensource/comments/1bpcvg7/hello_with_daily_and_rapid_advances_we_invite_you/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>您能帮助我们让我们的开源库在 Product Hunt 上得到推荐吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bpc0ky/can_you_help_us_get_our_open_source_lib_to_be/</link>
-      <description><![CDATA[    /u/pjbacelar   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[   /u/pjbacelar  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bpc0ky/can_you_help_us_get_our_open_source_lib_to_be/</guid>
       <pubDate>Wed, 27 Mar 2024 20:25:05 GMT</pubDate>
     </item>
@@ -78,14 +85,14 @@
     <item>
       <title>Google Summer of Code 申请问题</title>
       <link>https://www.reddit.com/r/opensource/comments/1bot9or/google_summer_of_code_application_question/</link>
-      <description><![CDATA[有谁知道如果同一个组织有不同的项目可用，您是否可以提交多个提案？ 谢谢   由   提交 /u/krashbic   [链接] [评论]]]></description>
+      <description><![CDATA[有谁知道如果同一个组织有不同的可用项目，您是否可以提交多个提案？ 谢谢   由   提交 /u/krashbic   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bot9or/google_summer_of_code_application_question/</guid>
       <pubDate>Wed, 27 Mar 2024 04:29:58 GMT</pubDate>
     </item>
     <item>
       <title>我们可以将我的 HVAC 机械公司的所有流程开源吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bosf99/can_we_make_all_the_processes_of_my_hvac/</link>
-      <description><![CDATA[我们该怎么做？   由   提交/u/thumpsky   [链接] [评论]]]></description>
+      <description><![CDATA[我们该怎么做？   由   提交/u/thumpsky  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bosf99/can_we_make_all_the_processes_of_my_hvac/</guid>
       <pubDate>Wed, 27 Mar 2024 03:44:04 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我是 JSON 的快乐用户，直到我了解到他们该死的白痴许可证：  该软件应使用为了善，而不是恶。  我想保持向后兼容性，所以最明显的选择是 yaml。但我想知道，既然yaml是json的超集，它是否也是在json许可证下分发的？如果是这样，我还有什么其他选择？   由   提交/u/4colour  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bopbf6/what_is_yamls_license_looking_for_json/</guid>
       <pubDate>Wed, 27 Mar 2024 01:17:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>麻省理工学院执照问题</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bojxln/mit_licence_question/</link>
-      <description><![CDATA[假设我基于一些具有 MIT 许可证的代码创建了一个新作品。新代码经过大量修改。 我认为正确的方法是（Doxygen/DocBlock 注释）  @license 专有许可证 @copyright 2024 me @license MIT @copyright 2020-2023 原始开发者    由   提交/u/burner-999b   /u/burner-999b  reddit.com/r/opensource/comments/1bojxln/mit_licence_question/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bojxln/mit_licence_question/</guid>
-      <pubDate>Tue, 26 Mar 2024 21:38:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
