@@ -4,27 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 29 Mar 2024 12:07:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 15:05:14 GMT</lastBuildDate>
     <item>
-      <title>使用生成式人工智能创建虚拟技术团队</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqmwn3/creating_a_virtual_technical_team_using/</link>
-      <description><![CDATA[大家好，请查看本教程，了解如何创建 AI 技术团队（编码员、产品经理、技术主管等），然后看看他们如何解决问题在此演示中使用 CrewAI 执行任务：https://youtu.be/QPUUclaNI5o?si=HQZMbn-KOInQ02o1    由   提交/u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqmwn3/creating_a_virtual_technical_team_using/</guid>
-      <pubDate>Fri, 29 Mar 2024 11:26:53 GMT</pubDate>
+      <title>双子座 vs Chatgpt</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqrb8p/gemini_vs_chatgpt/</link>
+      <description><![CDATA[https://techphilosophiesdotcom.wordpress.com/2024/03/29/the-rise-of-the-language-giants-a-deep-潜入双子座 vs-chatgpt/    由   提交/u/Ok_Entertainment1722   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqrb8p/gemini_vs_chatgpt/</guid>
+      <pubDate>Fri, 29 Mar 2024 14:57:28 GMT</pubDate>
     </item>
     <item>
-      <title>问题 - 学习多智能体和自我反思的课程？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqmcni/question_courses_for_learning_multiagent_and_self/</link>
-      <description><![CDATA[大家好，今天，我遇到了一些非常有趣的事情，激发了我的好奇心，促使我寻求更多知识。这是 Andrew Ng 讨论的一个关于智能体之间的协作及其自我反思过程的概念。他在一次演讲中谈到了这个话题，强调智能体的重要性不仅在于孤立地工作，还在于通过一种自我反思来实际交互和完善其流程。 现在，我一直在涉足编程和使用 Jupyter Lab 对代理进行一段时间的培训。我发现自己渴望更深入地研究协作代理领域。两个或多个代理协同工作、共享数据和见解并共同努力实现共同目标的想法对于人工智能和机器学习项目的未来来说既有趣又充满希望。鉴于此，我正在寻求可以教我的课程或资源： 1- 在一个代理（我们称之为代理 A）的输出和将其用作另一个代理（代理 B）的输入之间建立链接。我热衷于了解实现这种无缝信息流的技术细节以及如何有效实施它。2 - 精心设计场景或任务，让代理 A 和代理 B 可以协作、分享他们的经验并共同努力实现解决任务。3- 实施一种机制，让这些代理参与自我反思过程。我的意思是，代理可以采用一种结构化的方式来分析其输出、从交互中学习并改进其策略，以便在未来的任务中获得更好的性能。  &amp;# 32；由   提交/u/Fr33-Thinker  /u/Fr33-Thinker  reddit.com/r/ArtificialInteligence/comments/1bqmcni/question_courses_for_learning_multiagent_and_self/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqmcni/question_courses_for_learning_multiagent_and_self/</guid>
-      <pubDate>Fri, 29 Mar 2024 10:54:39 GMT</pubDate>
+      <title>AGI/AI 医学！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqqr20/medicine_with_agi_ai/</link>
+      <description><![CDATA[您认为如果人工智能在未来几年内通过 AGI 变得更快、更高效、更全面：您认为研发研究吗？在生物信息学、分子生物学、生物化学和生物技术领域会加速吗？您是否认为随着深度学习/机器学习模型变得更加高效，将会出现诸如寻找影响人类的重大疾病的治疗方法、延长人类寿命、从生物学上保存端粒、细胞再生、加速药物的临床阶段和药物阶段等事情?   由   提交/u/BilgeYamtar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqqr20/medicine_with_agi_ai/</guid>
+      <pubDate>Fri, 29 Mar 2024 14:33:34 GMT</pubDate>
     </item>
     <item>
-      <title>多主体和反思课程</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqm88i/courses_for_multiagent_and_reflection/</link>
-      <description><![CDATA[嗨，这可能是一个愚蠢的问题。 Andrew Ng 谈到了智能体之间的协作和自我反思过程这里我可以编程并在 Jupyter Lab 中训练代理。您可以建议我学习什么课程吗： - 将代理 A 的输出链接为代理 B 的输入 - 让代理 A 和代理 B 共同完成一项任务 -让代理通过反射来优化其输出 谢谢   由   提交/u/Fr33-Thinker  /u/Fr33-Thinker  reddit.com/r/ArtificialInteligence/comments/1bqm88i/courses_for_multiagent_and_reflection/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqm88i/courses_for_multiagent_and_reflection/</guid>
-      <pubDate>Fri, 29 Mar 2024 10:46:47 GMT</pubDate>
+      <title>每日两分钟 AI 更新 (03/29/2024)：来自 AI21 Labs、Google、X、Microsoft、Nvidia 等的新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqq8jx/twominute_daily_ai_update_03292024_news_from_ai21/</link>
+      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。  AI21 Labs 推出 Jamba： - AI21 Labs 推出了 Jamba，这是一种混合 Mamba-Transformer 模型，可在单个 GPU 上处理 256K 代币，性能优于类似大小的模型。 Jamba 在 Apache 2.0 下开源，其效率和多功能性使其成为各种 AI 应用程序的引人注目的选择，与 ChatGPT、Gemini 和 Claude 3 Opus 相比具有优势。  Google 的 DeepMind 推出了 SAFE，人工智能事实检查器： - 谷歌的 DeepMind 推出了 SAFE，这是一个人工智能系统，在评估事实准确性方面优于人类事实检查器。大型语言模型生成的信息。 SAFE 的成本比人工事实检查员便宜 20 倍，为维护各个领域的信息完整性提供了一种经济高效的解决方案。 X 的聊天机器人通过 Grok-1.5 变得更加智能： - Elon Musk 的 AI 初创公司 X.ai 推出了 Grok-1.5，这是一种升级版的生成式 AI 模型，可通过包含 128,000 个标记的更大上下文窗口增强编码和数学推理。它将为 X 的 Grok 聊天机器人提供支持，该机器人因参与有争议的话题而闻名。  微软通过新的 Azure AI 工具应对 Gen AI 风险： - Microsoft 推出了新的 Azure AI 工具，以解决与生成 AI 相关的安全性和可靠性风险。这些产品包括 Prompt Shields、用于以安全为中心的系统消息的预构建模板以及接地检测。  Lightning AI 与 Nvidia 合作推出 Thunder AI 编译器： - Lightning AI 与 Nvidia 合作推出了针对 PyTorch 的开源编译器 Thunder，通过优化 GPU 使用来加速 AI 模型训练。该公司声称，与未优化的代码相比，Thunder 可以在训练大型语言模型时实现高达 40% 的加速。 SambaNova 的新 AI 模型击败了 Databricks 的 DBRX： - SambaNova Systems 的 Samba-CoE v0.2 LLM 优于 Databricks 的 DBRX、MistralAI 的 Mixtral-8x7B 和 xAI 的 Grok-1 等竞争对手。 Samba-CoE v0.2 仅使用 8 个套接字即可每秒处理 330 个令牌，在不牺牲精度的情况下展现出卓越的速度和效率。 Google.org 推出 Accelerator，通过 Gen AI 为非营利组织提供支持： - Google.org 宣布了一项为期六个月的加速器计划，以支持 21 个非营利组织利用新一代人工智能产生社会影响。该计划提供资金、指导和技术培训，帮助组织在气候、健康、教育和经济机会等领域开发人工智能工具。  Pixel 8 将获得由 Gemini Nano 提供支持的设备端人工智能功能： - 谷歌将推出设备端人工智能功能，例如记录摘要和智能回复Pixel 8，由小型 Gemini Nano 型号提供支持。这些功能将在下一个 Pixel 功能发布中作为开发者预览版提供，这标志着 Google 从主要基于云的 AI 方法的转变。  这些新闻和创新的更详细分类请参见每日新闻通讯。  &amp; #32；由   提交 /u/RohitAkki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqq8jx/twominute_daily_ai_update_03292024_news_from_ai21/</guid>
+      <pubDate>Fri, 29 Mar 2024 14:10:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>电子邮件数据和 IA</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqo1rq/emails_data_and_ia/</link>
+      <description><![CDATA[想知道 IA 是否可以从我公司伺服器中存储的 10 年电子邮件中学习来分析我的任务并使我的工作自动化？从事商品贸易工作。从多个供应商处获取费率，添加我的运营成本、运输等，向客户发送报价，讨论投标，修改成本，获得他们的协议并启动运营。我的大部分工作是 Excel、Whatsapp 和电子邮件。我想像数百万公司一样。我非常菜鸟。感谢您的输入，看起来组织起来一团糟。   由   提交 /u/Nlasr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqo1rq/emails_data_and_ia/</guid>
+      <pubDate>Fri, 29 Mar 2024 12:27:57 GMT</pubDate>
     </item>
     <item>
       <title>认识 Jan：在计算机上完全离线运行的开源 ChatGPT 替代方案</title>
@@ -55,13 +62,6 @@
       <pubDate>Fri, 29 Mar 2024 07:04:22 GMT</pubDate>
     </item>
     <item>
-      <title>NLP 平台比较：Google、AWS、IBM、Azure</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqithi/nlp_platform_comparison_google_vs_aws_vs_ibm_vs/</link>
-      <description><![CDATA[有没有想过，在某些在线订购网站或客户服务页面上，您可以如何与人类的计算机语音或文本框进行通信- 就像智力一样？ 对于有技术倾向的人来说，能够与足够聪明的计算机语音进行交流来解决您的疑问，听起来很有趣！ 虚拟您与之交互的对话界面称为语音机器人和语音机器人。基于自然语言处理 (NLP) 功能的聊天机器人。 如今，许多企业使用虚拟人工智能助手来为客户提供服务。它们的设计和构建方式可以解决客户可能提出的大多数疑问，从而使您免于执行重复性任务。 阅读：https://www.seaflux.tech/blogs/where-to-build-your-own-AI-assistant    由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqithi/nlp_platform_comparison_google_vs_aws_vs_ibm_vs/</guid>
-      <pubDate>Fri, 29 Mar 2024 06:56:50 GMT</pubDate>
-    </item>
-    <item>
       <title>适用于数据科学工作流程的 7 个最佳 AI 工具</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqiq73/the_7_best_ai_tools_for_data_science_workflow/</link>
       <description><![CDATA[现在很明显，那些迅速采用人工智能的人将引领潮流，而那些抵制变革的人将被那些已经在使用人工智能的人所取代。人工智能不再只是昙花一现的时尚；它正在成为包括数据科学在内的各个行业的重要工具。开发人员和研究人员越来越多地使用人工智能驱动的工具来简化他们的工作流程，最近广受欢迎的工具之一就是 ChatGPT。 在本博客中，我将讨论 7 个最佳人工智能工具我作为数据科学家的生活变得更加轻松。这些工具在我的日常任务中是不可或缺的，例如编写教程、研究、编码、分析数据和执行机器学习任务。通过分享这些工具，我希望帮助数据科学家和研究人员简化工作流程，并在不断发展的人工智能领域保持领先地位。 博客链接： &lt; a href=&quot;https://www.kdnuggets.com/the-7-best-ai-tools-for-data-science-workflow&quot;&gt;https://www.kdnuggets.com/the-7-best-ai -数据科学工作流程工具   由   提交 /u/kingabzpro   [链接] [评论]]]></description>
@@ -78,7 +78,7 @@
     <item>
       <title>AGI 可能在 30 年前就已经创建了吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqh4c9/could_agi_have_been_created_30_years_ago/</link>
-      <description><![CDATA[刚刚观看了 X 档案的老剧集。前提是一个有知觉的、超级智能的人工智能，它被设计来运行一家科技公司的建设，当人们决定关闭创建它的研究项目时，它就开始杀人。它电死了首席执行官，篡改电梯杀死了一名联邦调查局特工，并在斯卡利特工在通风管道周围爬行时差点杀死她。有趣的小插曲，但它让我思考，有足够技能的人真的可以在 1994 年创造出 AGI 吗？或者是硬件的限制使其不具备处理能力？会有什么软件限制吗？ 我只是一个对人工智能感兴趣的外行，没有太多技术背景。  在评论中发出声音。    由   提交/u/jacksdad123  [链接] [评论]]]></description>
+      <description><![CDATA[刚刚观看了 X 档案的老剧集。前提是一个有知觉的、超级智能的人工智能，它被设计来运行一家科技公司的建设，当人们决定关闭创建它的研究项目时，它就开始杀人。它电死了首席执行官，篡改电梯杀死了一名联邦调查局特工，并在斯卡利特工在通风管道周围爬行时差点杀死她。有趣的小插曲，但它让我思考，有足够技能的人真的可以在 1994 年创造出 AGI 吗？或者是硬件的限制使其不具备处理能力？有软件限制吗？ 我只是一个对AI感兴趣的外行，没有太多技术背景。  在评论中发出声音。    由   提交/u/jacksdad123  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqh4c9/could_agi_have_been_created_30_years_ago/</guid>
       <pubDate>Fri, 29 Mar 2024 05:06:24 GMT</pubDate>
     </item>
