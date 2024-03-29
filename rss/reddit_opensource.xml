@@ -4,13 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 28 Mar 2024 21:07:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 00:17:48 GMT</lastBuildDate>
     <item>
-      <title>从 MongoDB 到 PostgreSQL 的大迁移</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bq6o3x/the_great_migration_from_mongodb_to_postgresql/</link>
-      <description><![CDATA[ 由   提交/u/Shot-Bag-9219   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bq6o3x/the_great_migration_from_mongodb_to_postgresql/</guid>
-      <pubDate>Thu, 28 Mar 2024 21:04:07 GMT</pubDate>
+      <title>Redis 许可证转移导致社区分裂：开源贡献者转向分叉</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bq6z6c/redis_license_shift_splits_community_open_source/</link>
+      <description><![CDATA[       由   提交/u/pollyplummer   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bq6z6c/redis_license_shift_splits_community_open_source/</guid>
+      <pubDate>Thu, 28 Mar 2024 21:16:36 GMT</pubDate>
     </item>
     <item>
       <title>Valkey：由 AWS、Google、Oracle 支持的 Redis 开源替代方案</title>
