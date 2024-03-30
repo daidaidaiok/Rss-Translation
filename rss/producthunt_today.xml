@@ -2,11 +2,11 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 30 Mar 2024 03:07:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 06:06:50 GMT</lastBuildDate>
     <item>
-      <title>爱源达</title>
+      <title>去</title>
       <link>https://www.producthunt.com/posts/aigenda</link>
       <description><![CDATA[
             由人工智能驱动的平台，提供详细的笔记和摘要
@@ -34,6 +34,20 @@
       <pubDate>Fri, 29 Mar 2024 07:05:38 GMT</pubDate>
     </item>
     <item>
+      <title>你有正则表达式</title>
+      <link>https://www.producthunt.com/posts/ai-regex</link>
+      <description><![CDATA[
+            AI驱动的正则表达式生成器
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ai-regex</guid>
+      <pubDate>Fri, 29 Mar 2024 06:53:23 GMT</pubDate>
+    </item>
+    <item>
       <title>蒂尔达在线课程生成器</title>
       <link>https://www.producthunt.com/posts/tilda-online-course-builder</link>
       <description><![CDATA[
@@ -46,20 +60,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/tilda-online-course-builder</guid>
       <pubDate>Thu, 28 Mar 2024 23:51:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>生活影像</title>
-      <link>https://www.producthunt.com/posts/living-images</link>
-      <description><![CDATA[
-            通过生成 A/B 测试优化您的图像
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/living-images</guid>
-      <pubDate>Thu, 28 Mar 2024 20:20:03 GMT</pubDate>
     </item>
     <item>
       <title>科幻</title>
@@ -88,20 +88,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/tryhairstyles-io</guid>
       <pubDate>Thu, 28 Mar 2024 14:30:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>三件事</title>
-      <link>https://www.producthunt.com/posts/tres-cosas</link>
-      <description><![CDATA[
-            通过三件简单的事情推动你的生活
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/tres-cosas</guid>
-      <pubDate>Thu, 28 Mar 2024 12:51:16 GMT</pubDate>
     </item>
     <item>
       <title>宁芙透镜</title>
@@ -174,6 +160,20 @@
       <pubDate>Tue, 26 Mar 2024 18:06:38 GMT</pubDate>
     </item>
     <item>
+      <title>TweetAI.com</title>
+      <link>https://www.producthunt.com/posts/tweetai-com</link>
+      <description><![CDATA[
+            利用尖端人工智能提高 X 的销量和参与度
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/tweetai-com</guid>
+      <pubDate>Fri, 22 Mar 2024 10:14:07 GMT</pubDate>
+    </item>
+    <item>
       <title>顶级工具</title>
       <link>https://www.producthunt.com/posts/toptool</link>
       <description><![CDATA[
@@ -205,7 +205,7 @@
       <title>胡言乱语</title>
       <link>https://www.producthunt.com/posts/husslup</link>
       <description><![CDATA[
-            以一小部分时间和成本聘请好莱坞创意人员
+            以很少的时间和成本聘请好莱坞创意人员
           
 
 讨论
