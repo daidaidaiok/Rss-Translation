@@ -4,13 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 31 Mar 2024 00:19:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 03:06:46 GMT</lastBuildDate>
     <item>
-      <title>免费前端编码训练营 PHT02（4 月 1 日至 4 月 12 日）</title>
-      <link>https://www.reddit.com/r/programming/comments/1brwei8/free_frontend_coding_bootcamp_pht02_01_april/</link>
-      <description><![CDATA[ 由   提交 /u/jalcera   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1brwei8/free_frontend_coding_bootcamp_pht02_01_april/</guid>
-      <pubDate>Sun, 31 Mar 2024 00:01:01 GMT</pubDate>
+      <title>分布式编程第 1 部分 - 从最基本的角度编码分布式系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1bryg2d/distributed_programming_part_1_coding_distributed/</link>
+      <description><![CDATA[ 由   提交/u/techPackets_005   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bryg2d/distributed_programming_part_1_coding_distributed/</guid>
+      <pubDate>Sun, 31 Mar 2024 01:35:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 JavaScript 膨胀</title>
+      <link>https://www.reddit.com/r/programming/comments/1bryb23/javascript_bloat_in_2024/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bryb23/javascript_bloat_in_2024/</guid>
+      <pubDate>Sun, 31 Mar 2024 01:29:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个 VSCode 扩展 - 与你的代码和概念对话 - 开源副驾驶</title>
+      <link>https://www.reddit.com/r/programming/comments/1brx94i/my_first_vscode_extension_talk_with_your_code_and/</link>
+      <description><![CDATA[ 由   提交 /u/Tiny-Ad-5694   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1brx94i/my_first_vscode_extension_talk_with_your_code_and/</guid>
+      <pubDate>Sun, 31 Mar 2024 00:40:02 GMT</pubDate>
     </item>
     <item>
       <title>一次性的功能原型是浪费时间</title>
@@ -18,13 +32,6 @@
       <description><![CDATA[ 由   提交 /u/filipdanic   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1brvxoz/throwaway_functional_prototypes_are_a_waste_of/</guid>
       <pubDate>Sat, 30 Mar 2024 23:40:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 NextTrade：一个开源自动交易平台</title>
-      <link>https://www.reddit.com/r/programming/comments/1bruuf5/i_created_nexttrade_an_opensource_automated/</link>
-      <description><![CDATA[ 由   提交/u/Starks-Technology  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bruuf5/i_created_nexttrade_an_opensource_automated/</guid>
-      <pubDate>Sat, 30 Mar 2024 22:52:26 GMT</pubDate>
     </item>
     <item>
       <title>开源项目 ContextFlow - 一个用于 LLM 交互的库，专注于强大的 OOP 设计和灵活性</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/Latter-Dust8587  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1brdrnh/best_web_development_books_complete_guide/</guid>
       <pubDate>Sat, 30 Mar 2024 09:25:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>新版本 Mongo Playground (1.0.36) 的变更日志 |视觉工作室市场</title>
-      <link>https://www.reddit.com/r/programming/comments/1brczxn/changelog_for_the_new_version_of_mongo_playground/</link>
-      <description><![CDATA[ 由   提交/u/Charming-Treacle-726   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1brczxn/changelog_for_the_new_version_of_mongo_playground/</guid>
-      <pubDate>Sat, 30 Mar 2024 08:30:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
