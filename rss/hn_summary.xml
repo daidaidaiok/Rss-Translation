@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 01 Apr 2024 03:05:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 08:56:25 GMT</lastBuildDate>
     <item>
-      <title>[媒体]生成人工智能（GenAI）对媒体行业的影响是巨大的，其中 [...]</title>
-      <link>https://t.me/hn_summary/82299</link>
-      <description><![CDATA[2024 年迄今已裁减 1500 多个新闻工作岗位
-生成式人工智能 (GenAI) 对媒体行业的影响巨大，仅 2024 年就裁减了 1500 多个新闻工作岗位。由于经济压力和人工智能制作内容的兴起，Buzzfeed、Vice Media 和 Insider Inc 等主要媒体都经历过裁员和关闭。尽管一些公司已经采用人工智能进行内容创作，但对质量和新闻标准的担忧仍然存在。谷歌最近决定删除人工智能生成的搜索引擎优化内容，这标志着行业的转变。随着媒体行业努力应对经济不确定性和技术进步，媒体和技术员工的未来仍然充满不确定性。]]></description>
-      <guid>https://t.me/hn_summary/82299</guid>
-      <pubDate>Mon, 01 Apr 2024 03:05:22 GMT</pubDate>
+      <title>[媒体]先生，别那么快。</title>
+      <link>https://t.me/hn_summary/82319</link>
+      <description><![CDATA[别那么快，傅里叶先生
+离散傅立叶变换 (DFT) 是现代计算中的关键算法，用于图像和音频处理、机器学习和数据压缩等各种应用。然而，它往往没有得到很好的解释，让许多人感到困惑。在本文中，作者旨在通过以简单易懂的方式分解 DFT 的工作原理来揭开 DFT 的神秘面纱。作者通过旋转手臂绘制形状和动画等类比，解释了DFT如何将时域波形转换为频域数据。文章还深入探讨了 DFT 的局限性，例如奈奎斯特频率和频率分离问题。总的来说，本文对 DFT 算法提供了清晰而富有洞察力的解释。 （根据 49% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82319</guid>
+      <pubDate>Mon, 01 Apr 2024 08:56:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 文档即代码 (DaC) 是一种强调对待软件 [...]</title>
-      <link>https://t.me/hn_summary/82298</link>
-      <description><![CDATA[文档即代码：原则、工作流程和挑战 
-文档即代码 (DaC) 是一种开发理念，强调以与代码本身相同的严格性对待软件文档。通过将文档存储在版本控制系统中、自动生成和部署以及将更新接受同行评审，DaC 旨在提高文档的一致性、准确性和可用性。虽然传统的代码文档可能非常耗时，但 Tabnine 提供了人工智能驱动的解决方案，可以实时预测和生成代码完成情况，包括上下文相关文档。借助 Tabnine Chat 等功能，开发人员可以轻松生成全面、准确的文档，从而增强代码的可读性和可维护性。]]></description>
-      <guid>https://t.me/hn_summary/82298</guid>
-      <pubDate>Mon, 01 Apr 2024 02:55:16 GMT</pubDate>
+      <title>现在，德国 18 岁以上成年人吸食大麻是合法的，允许持有最多 25 克大麻 [...]</title>
+      <link>https://t.me/hn_summary/82318</link>
+      <description><![CDATA[吸食大麻现在在德国合法
+目前，德国 18 岁以上成年人吸食大麻是合法的，允许拥有最多 25 克干大麻，并在家中种植最多三种植物。新法律旨在打击隐藏市场并保护年轻人免受受污染的大麻的侵害。然而，批评者担心，更容易获得大麻将使青少年的大麻使用正常化并增加。政府计划对年轻人进行风险教育，但一些人怀疑媒体宣传的有效性。随着德国在大麻合法化这一有争议的领域中前进，世界各地的观察家将密切关注德国新立法的影响。]]></description>
+      <guid>https://t.me/hn_summary/82318</guid>
+      <pubDate>Mon, 01 Apr 2024 08:51:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Materialious 是 Invidious 的现代界面，提供内置 Spon [...]</title>
-      <link>https://t.me/hn_summary/82297</link>
-      <description><![CDATA[Materialious – Invidious 的现代界面
-Materialious 是 Invidious 的现代化界面，提供内置 Sponsorblock 和 YouTube 不喜欢、视频进度跟踪、明暗主题等功能。它旨在提供干净、无广告、无跟踪的体验。该项目的独特之处在于与 Invidious 订阅、观看历史记录集成，并提供直播支持、破折号支持、章节、纯音频模式、播放列表和 PWA 支持。该设置涉及使用反向代理配置 CORS。 Docker compose 也可用于轻松部署。如有疑问，用户可以加入Matrix空间。该项目特别感谢 Invidious、Vidstack 播放器、Beer CSS 和所有依赖项。]]></description>
-      <guid>https://t.me/hn_summary/82297</guid>
-      <pubDate>Mon, 01 Apr 2024 02:47:10 GMT</pubDate>
+      <title>本文深入研究了超级任天堂的硬件组件，重点关注 [...]</title>
+      <link>https://t.me/hn_summary/82317</link>
+      <description><![CDATA[超级任天堂之心
+本文深入研究了超级任天堂的硬件组件，重点关注 CLK 发生器在设定系统中各种处理器的速度方面的重要性。作者探讨了文档中有关振荡器数量和频率的差异，发现了调节 CPU/PPU 频率的可变电容器。本文还讨论了使用分频器创建新时钟以及 SYS-CLK 系列在允许盒式磁带嵌入增强芯片方面的重要性。有关 StarFox 和 Megaman 2 等特定游戏的琐事为技术分析增添了独特的触感。]]></description>
+      <guid>https://t.me/hn_summary/82317</guid>
+      <pubDate>Mon, 01 Apr 2024 08:14:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Olly，OllyDbg 的创建者，推出了 PaperBack，一个免费的应用程序，允许使用 [...]</title>
-      <link>https://t.me/hn_summary/82296</link>
-      <description><![CDATA[PaperBack：如何在 A4 纸上存储任意数据（2007 )
-OllyDbg 的创建者 Olly 推出了 PaperBack，这是一款免费应用程序，允许用户以超大位图的形式在纸上备份文件。使用分辨率为 600 dpi 的激光打印机，在一张 A4/Letter 纸张上最多可保存 500,000 字节的数据。平装本是人类可读的，可以扫描回数字形式。该程序提供点密度、压缩、冗余和加密选项。尽管非常规，PaperBack 提供了一种独特且安全的离线数据存储方式。该程序的开源性质鼓励用户自由修改和改进它。 （根据故事文本的 73% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82296</guid>
-      <pubDate>Mon, 01 Apr 2024 02:35:03 GMT</pubDate>
+      <title>[媒体] 研究人员最近发现了 xz Utils 中的后门，这是一种广泛使用的数据压缩 [...]</title>
+      <link>https://t.me/hn_summary/82316</link>
+      <description><![CDATA[我们对几乎感染全世界的 xz Utils 后门了解多少&lt; /a&gt;
+研究人员最近发现了 xz Utils 中的后门，xz Utils 是 Linux 和类 Unix 系统中广泛使用的数据压缩实用程序。该后门几乎被合并到主要的 Linux 发行版中，允许使用 root 权限进行远程访问。攻击者使用用户名 JiaT575，随着时间的推移进行了微妙的更改以引入后门。这次攻击非常复杂，针对特定系统并使用巧妙的技术来隐藏自己。贾坦的身份仍然是个谜，引发了人们对开源软件安全性的担忧。此事件凸显了供应链攻击的潜在风险以及彻底的代码审查流程的重要性。]]></description>
+      <guid>https://t.me/hn_summary/82316</guid>
+      <pubDate>Mon, 01 Apr 2024 08:08:01 GMT</pubDate>
     </item>
     <item>
-      <title>这篇关于垃圾收集的文章深入探讨了手动内存管理 [...]</title>
-      <link>https://t.me/hn_summary/82295</link>
-      <description><![CDATA[垃圾收集
-这篇关于垃圾收集的文章深入探讨了系统编程中手动内存管理和垃圾收集之间正在进行的争论。作者认为，即使是声称不使用垃圾收集的系统也经常实现自己的垃圾收集形式，例如引用计数指针。该文章挑战了引用计数不是真正的垃圾收集的概念，并断言它对于具有多个独立所有者的对象至关重要。作者建议，真正的问题不在于是否使用垃圾收集，而在于在哪里以及如何有效地实施它。该文章呼吁探索系统编程语言中的选择加入垃圾收集，强调需要对该主题进行更深入的讨论。]]></description>
-      <guid>https://t.me/hn_summary/82295</guid>
-      <pubDate>Mon, 01 Apr 2024 02:28:56 GMT</pubDate>
+      <title>韦诺之战 1.18：龙族入侵更新带来了撕裂 [...]</title>
+      <link>https://t.me/hn_summary/82315</link>
+      <description><![CDATA[韦诺之战1.18：龙族入侵更新&lt; br/&gt;
+韦诺之战 1.18：龙之入侵更新带来了渲染的重大改进、派系平衡更新以及命运之风和改进的东方入侵等新战役。多人游戏功能包括比赛历史视图和更新的山丘之王地图。内容创建者现在可以添加成就并从升级的场景和地图编辑器中受益。该游戏继续由多元化的国际志愿者团队开发，为玩家提供了多种贡献和参与的方式。此次更新展示了韦诺社区的奉献精神和创造力。]]></description>
+      <guid>https://t.me/hn_summary/82315</guid>
+      <pubDate>Mon, 01 Apr 2024 07:46:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] www.nature.com 上的分析揭示了儿子的简化和重复趋势 [...]</title>
-      <link>https://t.me/hn_summary/82294</link>
-      <description><![CDATA[在过去的五年里，歌词变得更简单、更重复&lt; /a&gt;
-对 www.nature.com 的分析揭示了以下趋势：过去五年歌词的简化和重复。该研究确定了影响跨流派歌词的关键描述符，例如独特的押韵词、重复的线条比例和词汇多样性。令人惊讶的是，歌词变得更加愤怒、更加个人化，其中说唱的愤怒程度增长最为显着。歌词描述符、发行年份和观看次数之间的相互作用凸显了粉丝对不同流派歌词的兴趣的差异，摇滚乐迷喜欢老歌，而乡​​村乐迷则喜欢新歌。这项研究揭示了歌词的演变性质及其对音乐流派的影响。 （根据 47% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82294</guid>
-      <pubDate>Mon, 01 Apr 2024 02:09:41 GMT</pubDate>
+      <title>我们。</title>
+      <link>https://t.me/hn_summary/82314</link>
+      <description><![CDATA[美国奶牛禽流感检测呈阳性
+令人惊讶的是，美国奶牛首次检测出禽流感阳性，引发了人们对病毒传播到至少五个州的担忧。此次疫情爆发引发了人们对商业乳制品供应安全的质疑，但联邦官员向消费者保证，乳制品几乎没有受到影响。监管机构和农民正在努力遏制病毒的传播，并采取措施确保进入市场的牛奶安全。尽管情况令人担忧，但官员们认为公众面临的风险仍然很低，并正在采取措施防止进一步传播。]]></description>
+      <guid>https://t.me/hn_summary/82314</guid>
+      <pubDate>Mon, 01 Apr 2024 07:35:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇文章中，我们深入探讨了身份、身份验证和授权的概念[...]</title>
-      <link>https://t.me/hn_summary/82293</link>
-      <description><![CDATA[从头开始的身份、身份验证和授权 
-在这篇文章中，我们将深入探讨身份、身份验证和授权的概念，揭开应用程序如何实现身份验证的神秘面纱。从老式密码到 WebAuthn 等新标准，我们探索应用程序用于验证用户身份的方法。基于密码的身份验证虽然很常见，但也面临密码恢复和安全风险等挑战。基于所有权的身份验证（如 OTP）提供了更安全的替代方案。 WebAuthn 是一种尖端协议，允许使用公钥加密技术进行安全且方便的身份验证。凭借生物识别身份验证和多重身份验证等功能，WebAuthn 增强了安全性，同时简化了用户体验。然而，它也面临着单点故障等挑战。 （根据 79% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82293</guid>
-      <pubDate>Mon, 01 Apr 2024 01:51:30 GMT</pubDate>
+      <title>[媒体] 全球范围内的 SSH 后门尝试失败是偶然发现的，这要感谢 [...]</title>
+      <link>https://t.me/hn_summary/82313</link>
+      <description><![CDATA[全局 SSH 后门尝试失败 – 被偶然捕获&lt; /a&gt;
+这次在全球范围内设置 SSH 后门的失败尝试是偶然发现的，这要归功于 Andres 在进行微基准测试时发现该问题的辛勤努力。后门企图背后的威胁行为者展示了先进的知识和技术，多年来在 Github 上进行了更改。虽然后门设计得很好，但由于安德烈斯的努力，它最终避免了广泛部署。该问题凸显了软件开发中的内部威胁风险，特别是在开源项目中。加强 systemd 等核心 Linux 依赖项的安全性以及改进 Linux 系统上的 EDR 检测至关重要。该事件为网络安全敲响了警钟，强调了在应对此类威胁时保持警惕和协作的重要性。]]></description>
+      <guid>https://t.me/hn_summary/82313</guid>
+      <pubDate>Mon, 01 Apr 2024 07:34:41 GMT</pubDate>
     </item>
     <item>
-      <title>InternLM2 是一种语言模型，在各种自然语言专业领域中，其性能均优于现有模型 [...]</title>
-      <link>https://t.me/hn_summary/82292</link>
-      <description><![CDATA[InternLM2
-InternLM2 是一种在各种自然语言处理任务中优于现有模型的语言模型。通过结合新颖的架构和训练方法，InternLM2 在文本生成、情感分析和机器翻译等任务中取得了最先进的结果。该模型理解上下文并生成连贯响应的能力使其有别于其他语言模型。然而，围绕该模型的大尺寸和计算要求存在争议，引发了对其环境影响和可访问性的担忧。尽管存在这些挑战，InternLM2 仍代表了自然语言处理领域的重大进步。]]></description>
-      <guid>https://t.me/hn_summary/82292</guid>
-      <pubDate>Mon, 01 Apr 2024 01:50:27 GMT</pubDate>
+      <title>[媒体]在最近的一篇文章中，我深入研究了远程代码执行的令人震惊的发现 [...]</title>
+      <link>https://t.me/hn_summary/82312</link>
+      <description><![CDATA[OSS 后门：简单修复的愚蠢之处&lt; br/&gt;
+在最近的一篇文章中，我深入研究了 liblzma 压缩库中远程代码执行后门的令人震惊的发现，强调了对开源社区的攻击的复杂性和大胆性。虽然有些人指责维护者缺乏资金，但我认为问题在于基础 OSS 库的性质，这些库并不意味着要进行重大改变。科技公司现在正在推动更严格的项目治理，但我认为责任不应该仅仅落在维护人员身上。现在是公司投资审查和监控关键依赖项以保护我们的关键基础设施免受潜在威胁的时候了。该解决方案需要全面的方法，而不仅仅是依赖于个人维护人员。]]></description>
+      <guid>https://t.me/hn_summary/82312</guid>
+      <pubDate>Mon, 01 Apr 2024 07:33:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]（免费）萨姆（地对空导弹系统）模拟器是一个详细且逼真的模拟器 [...]</title>
-      <link>https://t.me/hn_summary/82291</link>
-      <description><![CDATA[（免费）萨姆（地对空导弹系统）模拟器
-（免费）Sam（地对空导弹系统）模拟器是对各种 SAM 系统（包括 SA-75M Dvina 和 SA-200VE Vega）的详细而真实的模拟。该模拟器可让玩家体验 SAM 操作员在交战中看到和听到的内容，并具有逼真的导弹类型和地形模型等功能。有争议的是，模拟器需要分辨率为 1280x1024 或以上的计算机以及 4GB RAM 才能获得最佳性能。该模拟器的独特之处在于它注重准确性和技术细节，使其更像是系统模拟器而不是传统游戏。]]></description>
-      <guid>https://t.me/hn_summary/82291</guid>
-      <pubDate>Mon, 01 Apr 2024 01:46:23 GMT</pubDate>
+      <title>我通过在 Linux 服务器上设置虚拟机，设法在 MS-DOS 上托管一个公共网站。</title>
+      <link>https://t.me/hn_summary/82311</link>
+      <description><![CDATA[在 MS-DOS 上托管公共网站
+我通过在 Linux 服务器上设置虚拟机，设法在 MS-DOS 上托管一个公共网站。虽然可以使用 QuickBASIC 创建动态网站，但它不如使用 PHP 方便。 DOS 文件名限制可能会很麻烦，而服务器的安全性则归因于它的模糊性。然而，它可能会引起黑客的注意。 DOS Web 服务器对并发请求有限制，导致潜在的文件损坏。设置服务器涉及获取 DOS 软盘映像和配置虚拟机。这种独特的设置允许通过 SSH 与 MS-DOS 命令行进行交互，使其成为运行旧版软件的经济高效的解决方案。 （根据故事文本的 51% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82311</guid>
+      <pubDate>Mon, 01 Apr 2024 07:32:32 GMT</pubDate>
     </item>
     <item>
-      <title>我们正在进行一项调查，以了解您如何发现 Tor 以及它的 [...]</title>
-      <link>https://t.me/hn_summary/82290</link>
-      <description><![CDATA[我们想知道您如何了解 Tor 以及 Tor 如何提供帮助你
-我们正在进行一项调查，以了解您如何发现 Tor 以及它给您带来的好处。您的意见将帮助我们向潜在捐助者和支持者展示 Tor 的重要性。通过获得额外资金，我们可以增强 Tor 为全球用户提供的功能。您的反馈可能会出现在社交媒体和宣传材料中。在保证您的安全和隐私的同时，请您提供尽可能多的信息。与我们分享您的 Tor 之旅，帮助我们继续改进这一重要工具。]]></description>
-      <guid>https://t.me/hn_summary/82290</guid>
-      <pubDate>Mon, 01 Apr 2024 01:26:12 GMT</pubDate>
+      <title>在一项突破性的进展中，奥斯汀健康中心的临床医生成功植入了仿生 [...]</title>
+      <link>https://t.me/hn_summary/82310</link>
+      <description><![CDATA[首次在人体植入仿生装置来阻止克罗恩病&lt; /a&gt;
+奥斯汀健康中心的临床医生取得了突破性进展，成功地将仿生装置植入克罗恩病患者体内，以预防术后炎症。该设备由仿生研究所与弗洛里大学和墨尔本大学的研究人员合作开发，旨在使克罗恩病患者长期缓解，有可能消除终身药物治疗和重复手术的需要。该装置可以尽早刺激抗炎神经，以防止炎症复发，为改变克罗恩病患者的生活带来希望。这种创新疗法可能会彻底改变克罗恩病的治疗方法，并为长期缓解提供新途径。]]></description>
+      <guid>https://t.me/hn_summary/82310</guid>
+      <pubDate>Mon, 01 Apr 2024 07:19:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
