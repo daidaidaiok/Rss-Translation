@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 02 Apr 2024 12:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 18:06:18 GMT</lastBuildDate>
     <item>
-      <title>[媒体]您是一名希望产生重大影响的高级工程师吗？</title>
-      <link>https://t.me/hn_summary/82501</link>
-      <description><![CDATA[Emerge (YC W21) 正在招聘高级工程师来自动删除死代码
-您是一名希望产生重大影响的高级工程师吗？ Emerge (YC W21) 正在寻找有才华的人士加入我们的团队，自动删除死代码。通过简化这一流程，我们正在彻底改变软件开发的方式。加入我们，抓住这个激动人心的机会，走在创新的最前沿，帮助塑造技术的未来。立即申请并成为真正开创性事物的一部分。请访问 www.emergetools.com 了解更多信息。不要错过这个机会，成为改变科技行业游戏规则的团队的一员。]]></description>
-      <guid>https://t.me/hn_summary/82501</guid>
-      <pubDate>Tue, 02 Apr 2024 12:01:27 GMT</pubDate>
+      <title>HubSpot 的有人可以解释一下他们的一些 API 设计选择吗？</title>
+      <link>https://t.me/hn_summary/82564</link>
+      <description><![CDATA[HubSpot 的有人可以解释一下他们的一些 API 设计选择吗？
+与 Outreach 和 Salesforce 等其他销售工具相比，作者对 HubSpot 的 API 设计选择感到失望。他们批评缺乏对序列等功能的 API 支持，不同 API 之间的版本控制不一致，以及需要使用搜索端点以较低的速率限制进行排序、排序和过滤。争议源于仅验证一名超级管理员用户的限制，使得搜索端点对于拥有多个用户的团队来说实际上毫无用处。此外，还存在弃用字段、缺乏对工作流的 API 支持以及由于令牌轮换导致每 30 分钟停机一次的间歇性 401 错误等问题。]]></description>
+      <guid>https://t.me/hn_summary/82564</guid>
+      <pubDate>Tue, 02 Apr 2024 18:06:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Instructor v1.0.0，这是一款旨在轻松从 [...] 中提取结构化数据的工具</title>
-      <link>https://t.me/hn_summary/82500</link>
-      <description><![CDATA[显示 HN：Instructor v1，用于 LLM 结构化输出和流式传输
-隆重推出 Instructor v1.0.0，这是一款旨在轻松从 LLM API 中提取结构化数据的工具。 Instructor 拥有超过 4000 名 GitHub star 和 100 多名贡献者，在过去 10 个月中取得了显着增长。最新版本通过改进的输入功能简化了 API，使创建迭代和部分变得更加容易。值得注意的是，该更新允许与 OpenAI 和 Anthropic 方法无缝集成，确保与现有标准的兼容性。此外，该工具现在支持异步客户端，并提供增强的验证和错误处理功能。讲师旨在为客户提供平滑的升级路径，同时保持易用性。]]></description>
-      <guid>https://t.me/hn_summary/82500</guid>
-      <pubDate>Tue, 02 Apr 2024 10:38:01 GMT</pubDate>
+      <title>[媒体]一块神秘的金属，据信是废弃电池托盘的一部分 [...]</title>
+      <link>https://t.me/hn_summary/82563</link>
+      <description><![CDATA[被认为是国际空间站垃圾的金属穿过佛罗里达州的家
+一块神秘的金属，据信是国际空间站废弃电池托盘的一部分，撞穿了佛罗里达州的一处房屋，在屋顶和两层楼的房子上留下了一个洞。房主亚历杭德罗·奥特罗（Alejandro Otero）描述了可怕的声音和冲击力，并指出它险些击中了他的儿子。美国宇航局正在调查这一事件，专家认为这些碎片可能来自国际空间站。由于金属件的确切来源仍不清楚，情况很复杂，这引发了关于谁应对损坏负责的问题。尽管不受控制的重返大气层的情况很少见，但此类事件提醒人们与空间碎片相关的潜在风险。]]></description>
+      <guid>https://t.me/hn_summary/82563</guid>
+      <pubDate>Tue, 02 Apr 2024 18:00:13 GMT</pubDate>
     </item>
     <item>
-      <title>通过匹配工具在线寻找技术联合创始人可能不是最好的方法。</title>
-      <link>https://t.me/hn_summary/82499</link>
-      <description><![CDATA[你找不到技术联合创始人 
-通过匹配工具在线寻找技术联合创始人可能不是最好的方法。非技术创始人所期望的高标准，例如广泛的技能和免费的即时可用性，使得几乎不可能找到完美的匹配。相反，请考虑向开发人员付费，以快速有效地启动项目。通过承担风险并做出财务承诺，您可能会吸引更高水平的承诺和专业知识。请记住，热情会随着时间的推移而发展，因此请专注于寻找技术精湛且专注的人，而不是期望立即与您的愿景保持一致。 （根据 97% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82499</guid>
-      <pubDate>Tue, 02 Apr 2024 10:22:54 GMT</pubDate>
+      <title>俄罗斯、美国和德国记者最近的一项调查发现了新的证据 [...]</title>
+      <link>https://t.me/hn_summary/82562</link>
+      <description><![CDATA[新证据是俄罗斯军方GRU破坏小队引发的“哈瓦那综合症” 
+俄罗斯、美国和德国记者最近的一项调查发现了新的证据，将“哈瓦那综合症”与俄罗斯军事情报机构（特别是格鲁乌的 29155 部队）联系起来。据信，该部队一直在试验定向能装置，这些装置可能是美国外交官和情报官员所经历的神秘症状的原因。调查还显示，目标美国人有处理俄罗斯相关问题的共同历史，这表明俄罗斯是故意针对的。这一新信息要求美国情报界进行彻底、积极的调查，以查明肇事者并追究其责任。]]></description>
+      <guid>https://t.me/hn_summary/82562</guid>
+      <pubDate>Tue, 02 Apr 2024 17:45:03 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：AngelList 合法吗？</title>
-      <link>https://t.me/hn_summary/82498</link>
-      <description><![CDATA[问HN：AngelList合法吗？
-news.ycombinator.com 上这篇文章的作者是质疑 AngelList 作为创业公司投资平台的合法性。他们对财团领导发布有关初创公司的不准确信息表示担忧，这导致他们怀疑自己的资金是否真正按照承诺进行投资。作者提出了有关 AngelList 透明度和问责制的重要问题，强调了投资者的潜在风险。这场争议揭示了在线创业投资领域的挑战。]]></description>
-      <guid>https://t.me/hn_summary/82498</guid>
-      <pubDate>Tue, 02 Apr 2024 10:16:49 GMT</pubDate>
+      <title>[媒体]亚马逊正在通过“Just Walk Out”技术告别其无结账杂货店 [...]</title>
+      <link>https://t.me/hn_summary/82561</link>
+      <description><![CDATA[亚马逊放弃在杂货店“走出去”结账
+亚马逊正在通过“Just Walk Out”技术告别无结账杂货店，转而选择 Dash Carts 和自助结账柜台。备受争议的“Just Walk Out”技术依靠离岸收银员观看和标记视频来确保准确结账，从而导致收据延迟和高昂成本。尽管遇到了一些挫折，亚马逊仍在英国的几家商店和一些 Amazon Go 便利店保留了这项技术。亚马逊放弃“Just Walk Out”的举措可能表明，其重点是扩大其超市业务，并与沃尔玛和 Costco 等行业巨头竞争。]]></description>
+      <guid>https://t.me/hn_summary/82561</guid>
+      <pubDate>Tue, 02 Apr 2024 17:42:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 20 世纪 60 年代中期，卡罗琳电台通过广播彻底改变了英国音乐界 [...]</title>
-      <link>https://t.me/hn_summary/82497</link>
-      <description><![CDATA[盗版原创材料
-20 世纪 60 年代中期，卡罗琳广播电台通过在英国水域外的一艘改装渡轮上播放流行音乐，彻底改变了英国音乐界。在罗南·奥拉希利 (Ronan O&#39;Rahilly) 的领导下，该电台挑战了 BBC 有限的流行音乐输出，并演奏了各种各样的艺术家，反映了“国王路切尔西集”的文化环境。该电台叛逆的形象受到切尔西独特的社会和文化影响的影响。尽管面临财务困难和法律挑战，卡罗琳广播电台还是蓬勃发展了三年半，之后立法宣布离岸电台为非法。如今，卡罗琳广播电台继续作为获得许可的英国广播公司，对音乐行业产生了持久的影响。]]></description>
-      <guid>https://t.me/hn_summary/82497</guid>
-      <pubDate>Tue, 02 Apr 2024 10:00:43 GMT</pubDate>
+      <title>[媒体]聚变反应堆被誉为完美的能源来源，产生大量[...]</title>
+      <link>https://t.me/hn_summary/82560</link>
+      <description><![CDATA[聚变反应堆：并非如他们所吹捧的那样
+聚变反应堆被誉为完美的能源，能够以最少的放射性废物产生大量的能源，并且没有熔毁的风险。然而，现实远非完美。在地球上复制太阳的聚变过程需要极端的温度和压力，在当前的实验中，能量输入超过输出。聚变所必需的氚燃料不是自然产生的，必须补充，这带来了挑战。聚变反应堆还面临巨大的寄生功耗，消耗其产生的能量的很大一部分。此外，聚变反应堆与裂变反应堆都存在严重的问题，包括辐射损伤、放射性废物和潜在的氚释放。 （根据故事文本的 57% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82560</guid>
+      <pubDate>Tue, 02 Apr 2024 17:38:46 GMT</pubDate>
     </item>
     <item>
-      <title>Redis 最近更改了其许可协议，以限制云服务提供商使用其源代码 [...]</title>
-      <link>https://t.me/hn_summary/82496</link>
-      <description><![CDATA[Redis 的许可证更改和分叉一团糟，每个人都会感到难过关于
-Redis 最近更改了其许可协议，限制云服务提供商免费使用其源代码，从而导致出现了一个名为 Valkey 的分叉，该分叉得到了 Amazon Web Services 和 Google Cloud 等大公司的支持。这场争议引发了关于这一变化影响的讨论，一些人对这一决定感到失望。这种情况凸显了开源许可的复杂性以及商业利益和社区贡献之间的紧张关系。 Redis 和 Valkey 的未来仍然不确定，但这个问题提醒我们在不断发展的开源软件领域面临的挑战。]]></description>
-      <guid>https://t.me/hn_summary/82496</guid>
-      <pubDate>Tue, 02 Apr 2024 09:59:38 GMT</pubDate>
+      <title>谷歌已同意删除数百万使用隐身模式的用户的搜索数据 [...]</title>
+      <link>https://t.me/hn_summary/82559</link>
+      <description><![CDATA[Google 将删除数百万人使用隐身模式的搜索数据
+作为集体诉讼和解的一部分，谷歌同意删除在其 Chrome 浏览器中使用隐身模式的数百万用户的搜索数据。该诉讼显示，谷歌甚至在隐身模式下也在秘密跟踪用户的网络活动，并将这些数据用于广告目的。该和解协议要求谷歌对其跟踪行为保持透明，并阻止第三方公司以隐身模式跟踪用户的 cookie。虽然用户不会收到金钱赔偿，但他们可以选择在加利福尼亚州法院起诉谷歌。该协议达成之际，谷歌面临着在线搜索垄断和广告行为方面的其他法律挑战。]]></description>
+      <guid>https://t.me/hn_summary/82559</guid>
+      <pubDate>Tue, 02 Apr 2024 17:36:41 GMT</pubDate>
     </item>
     <item>
-      <title>KraftCloud 是 GitHub 上的一个项目，专注于 Unikraft，这是一个用于构建 [...]</title>
-      <link>https://t.me/hn_summary/82495</link>
-      <description><![CDATA[KraftCloud
-KraftCloud 是 GitHub 上的一个项目，专注于 Unikraft，这是一个自动化系统，用于构建专门的 POSIX 兼容操作系统（称为针对特定应用程序定制的 unikernel）。它支持 Xen、KVM 和 Linux 用户空间等多个目标平台，允许创建特定于平台的映像，而无需开发人员进行额外的工作。该项目旨在为云服务提供超轻型虚拟化，为嵌入式设备提供高效的软件堆栈，提供更快的启动时间、增加实例部署、减少内存消耗、增强安全性和卓越性能等优势。 KraftCloud 通过简化构建专用操作系统和 unikernel 的过程而无需专家级的努力，从而脱颖而出。 （根据 81% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82495</guid>
-      <pubDate>Tue, 02 Apr 2024 09:53:33 GMT</pubDate>
+      <title>【媒体】美国政府出手了，掌控着3.01万枚丝路基金。</title>
+      <link>https://t.me/hn_summary/82558</link>
+      <description><![CDATA[&quot;美国政府控制的3.01万枚丝路基金已上线移动“
+美国政府正在采取行动，控制着3.01万比特币的丝路基金。这一有争议的发展引发了加密货币爱好者的兴趣和猜测。请继续关注这一有趣情况的最新动态。 #SilkRoad #BTC #cryptocurrency]]></description>
+      <guid>https://t.me/hn_summary/82558</guid>
+      <pubDate>Tue, 02 Apr 2024 17:30:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“copycolors”项目是 Rust 中的一个快速颜色提取 CLI 工具，可提取 [...]</title>
-      <link>https://t.me/hn_summary/82494</link>
-      <description><![CDATA[Copycolors：Rust 中的快速颜色提取 CLI
-“copycolors”项目是 Rust 中的一个快速颜色提取 CLI 工具，可以从本地或远程图像中提取主色。它基于 Yevhenii Reizner 的 Colors Thief 算法。用户可以从不同的来源安装它并使用各种功能，例如指定要提取的颜色数量、将颜色显示为矩形、排除特定颜色以及根据与白色或黑色的对比度对颜色进行排序。该项目支持各种图像格式和像素颜色类型。用户可以通过报告错误、打开问题或发送修复或新功能的拉取请求来做出贡献。]]></description>
-      <guid>https://t.me/hn_summary/82494</guid>
-      <pubDate>Tue, 02 Apr 2024 09:50:28 GMT</pubDate>
+      <title>[媒体] 在题为“ReALM：参考解析作为语言建模”的论文中，作者前 [...]</title>
+      <link>https://t.me/hn_summary/82557</link>
+      <description><![CDATA[ReALM：参考解析作为语言建模
+在题为“ReALM：参考解析作为语言建模”的论文中，作者探索了使用语言模型 (LLM) 进行参考解析，特别是对于非会话实体。他们演示了法学硕士如何通过将问题转换为语言建模任务来有效地解决各种类型的引用，包括屏幕上的实体。该论文展示了对现有系统的显着改进，其最小模型在某些情况下优于 GPT-4。这种创新方法凸显了法学硕士在处理复杂上下文和参考解析任务方面的潜力，展示了语言建模在理解和处理不同形式信息方面的力量。]]></description>
+      <guid>https://t.me/hn_summary/82557</guid>
+      <pubDate>Tue, 02 Apr 2024 17:27:32 GMT</pubDate>
     </item>
     <item>
-      <title>Lars Wirzenius Consulting Ltd 为 Debian 12 创建了一个 Git monorepo，简化了协作 [...]</title>
-      <link>https://t.me/hn_summary/82493</link>
-      <description><![CDATA[Debian Git Monorepo
-Lars Wirzenius Consulting Ltd 为 Debian 12 创建了 Git monorepo，简化了协作并简化了转换。该存储库虽然尚未可用于协作，但旨在提高质量控制、加快开发速度并增强非自由管理。 monorepo 消除了对传统 .dsc 格式的需求，并引起了 Apple 和 Google 等科技巨头对资源支持的兴趣。然而，这个举措实际上是一个愚人节玩笑，因为 Wirzenius 用一个巨大的存储库测试了 Git 的功能。虽然不是真正的 Debian 项目，但 monorepo 展示了 Git 在处理大型存储库方面的演变。]]></description>
-      <guid>https://t.me/hn_summary/82493</guid>
-      <pubDate>Tue, 02 Apr 2024 09:32:21 GMT</pubDate>
+      <title>[媒体] 在这份 SSD 综合指南中，作者分享了他们升级到 [...]</title>
+      <link>https://t.me/hn_summary/82556</link>
+      <description><![CDATA[我所知道的关于 SSD 的一切（2019）
+在这份 SSD 综合指南中，作者分享了他们升级到配备 128 GB SSD 的 Dell Optiflex 3010 的过程，并认识到他们对 SSD 中的 NAND 闪存缺乏了解。本文深入探讨了有关 SSD 的误解，并提供了有关 SSD 如何工作、读取、写入和存储数据的中级技术讨论。作者从技术文章中获取信息并解释了 NAND 闪存控制器的复杂性。本文还涵盖了 SSD 物理内部结构、NAND 闪存、2D 和 3D 闪存以及不同类型的闪存单元（如 SLC、MLC、TLC 和 QLC）等主题。作者独特而详细的解释使本指南成为那些希望更好地了解 SSD 技术的人的宝贵资源。 （根据故事文本的 27% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82556</guid>
+      <pubDate>Tue, 02 Apr 2024 17:16:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]香蕉不仅仅是一种水果——它们是全球面临的关键宏观经济指标 [...]</title>
-      <link>https://t.me/hn_summary/82492</link>
-      <description><![CDATA[香蕉作为宏观经济指标
-香蕉不仅仅是一种水果，它们还是面临全球短缺的关键宏观经济指标。气候变化、成本上升以及枯萎病 TR4 的传播正在威胁着香蕉行业。当美国香蕉价格超过每磅 0.60 美元时，就预示着将发生重大事件。香蕉的历史，从大米歇尔香蕉到卡文迪什香蕉，揭示了我们现代食品系统的脆弱性。订阅我们的时事通讯，深入探讨全球经济中意想不到的联系。香蕉的旅程是对我们世界复杂性的一次令人着迷的洞察。]]></description>
-      <guid>https://t.me/hn_summary/82492</guid>
-      <pubDate>Tue, 02 Apr 2024 08:58:08 GMT</pubDate>
+      <title>[媒体]一块金属据信来自国际刑院丢弃的 5,800 磅重的电池托盘 [...]</title>
+      <link>https://t.me/hn_summary/82555</link>
+      <description><![CDATA[一块从国际空间站扔出的 5,800 磅电池托盘坠毁在佛罗里达州的家中&lt; /a&gt;
+一块金属据信来自国际空间站丢弃的重 5,800 磅的电池托盘，坠毁在佛罗里达州的一所房屋中，险些撞上一名男子。美国宇航局正在调查该物体的起源，该物体本应在英国《金融时报》上空燃烧。迈尔斯却因计算错误而偏离航线。房主正在等待美国宇航局和其他机构解决损失问题。该事件凸显了太空碎片的风险，科学家警告说，失控的火箭在未来十年内造成伤害的可能性为 10%。如果发现疏忽，这种情况可能会导致《联邦侵权索赔法》下的法律后果。]]></description>
+      <guid>https://t.me/hn_summary/82555</guid>
+      <pubDate>Tue, 02 Apr 2024 17:14:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
