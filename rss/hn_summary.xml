@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 02 Apr 2024 18:06:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 21:01:32 GMT</lastBuildDate>
     <item>
-      <title>HubSpot 的有人可以解释一下他们的一些 API 设计选择吗？</title>
-      <link>https://t.me/hn_summary/82564</link>
-      <description><![CDATA[HubSpot 的有人可以解释一下他们的一些 API 设计选择吗？
-与 Outreach 和 Salesforce 等其他销售工具相比，作者对 HubSpot 的 API 设计选择感到失望。他们批评缺乏对序列等功能的 API 支持，不同 API 之间的版本控制不一致，以及需要使用搜索端点以较低的速率限制进行排序、排序和过滤。争议源于仅验证一名超级管理员用户的限制，使得搜索端点对于拥有多个用户的团队来说实际上毫无用处。此外，还存在弃用字段、缺乏对工作流的 API 支持以及由于令牌轮换导致每 30 分钟停机一次的间歇性 401 错误等问题。]]></description>
-      <guid>https://t.me/hn_summary/82564</guid>
-      <pubDate>Tue, 02 Apr 2024 18:06:18 GMT</pubDate>
+      <title>[媒体] Roe AI 是一家尖端数据管理公司，正在改变企业 [...]</title>
+      <link>https://t.me/hn_summary/82605</link>
+      <description><![CDATA[Roe AI (YC W24) 正在招聘
+Roe AI 是一家尖端数据管理公司，正在改变企业处理数据的方式。我们的先进技术可以从大规模的结构化和非结构化数据中提取和利用情报。鱼子AI通过数据标准化、分类、推理、搜索、聚合等解决方案，致力于增强各行业的数据智能。在 YCombinator、Gradient Ventures 和 Snowflake Executives 的支持下，我们处于该领域创新的前沿。立即与我们预约咨询，了解 Roe AI 如何将您企业的数据能力提升到新的高度。]]></description>
+      <guid>https://t.me/hn_summary/82605</guid>
+      <pubDate>Tue, 02 Apr 2024 21:01:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]一块神秘的金属，据信是废弃电池托盘的一部分 [...]</title>
-      <link>https://t.me/hn_summary/82563</link>
-      <description><![CDATA[被认为是国际空间站垃圾的金属穿过佛罗里达州的家
-一块神秘的金属，据信是国际空间站废弃电池托盘的一部分，撞穿了佛罗里达州的一处房屋，在屋顶和两层楼的房子上留下了一个洞。房主亚历杭德罗·奥特罗（Alejandro Otero）描述了可怕的声音和冲击力，并指出它险些击中了他的儿子。美国宇航局正在调查这一事件，专家认为这些碎片可能来自国际空间站。由于金属件的确切来源仍不清楚，情况很复杂，这引发了关于谁应对损坏负责的问题。尽管不受控制的重返大气层的情况很少见，但此类事件提醒人们与空间碎片相关的潜在风险。]]></description>
-      <guid>https://t.me/hn_summary/82563</guid>
-      <pubDate>Tue, 02 Apr 2024 18:00:13 GMT</pubDate>
+      <title>Ceph SQLite VFS 允许存储和访问由 RADOS 支持的 SQLite 数据库，提供 [...]</title>
+      <link>https://t.me/hn_summary/82604</link>
+      <description><![CDATA[Ceph SQLite VFS
+Ceph SQLite VFS 允许存储和访问由 RADOS 支持的 SQLite 数据库，从而提供去中心化并改进存储使用。它不是分布式 SQL 引擎，但允许单个 SQLite 客户端一次进行独占访问。用户可以使用 SQLite 扩展加载 API 加载 ceph VFS，并将数据库文件配置为 SQLite URI。性能说明强调了潜在的延迟问题，而推荐的用例包括在 RADOS 中保存关系数据或大型数据。 VFS不支持并发读取，也不支持临时表。独占锁模式和WAL日志模式可以优化事务时间。 （根据 59% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82604</guid>
+      <pubDate>Tue, 02 Apr 2024 20:39:22 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯、美国和德国记者最近的一项调查发现了新的证据 [...]</title>
-      <link>https://t.me/hn_summary/82562</link>
-      <description><![CDATA[新证据是俄罗斯军方GRU破坏小队引发的“哈瓦那综合症” 
-俄罗斯、美国和德国记者最近的一项调查发现了新的证据，将“哈瓦那综合症”与俄罗斯军事情报机构（特别是格鲁乌的 29155 部队）联系起来。据信，该部队一直在试验定向能装置，这些装置可能是美国外交官和情报官员所经历的神秘症状的原因。调查还显示，目标美国人有处理俄罗斯相关问题的共同历史，这表明俄罗斯是故意针对的。这一新信息要求美国情报界进行彻底、积极的调查，以查明肇事者并追究其责任。]]></description>
-      <guid>https://t.me/hn_summary/82562</guid>
-      <pubDate>Tue, 02 Apr 2024 17:45:03 GMT</pubDate>
+      <title>微软已承认 FFMPEG 跟踪器存在一个高优先级问题，涉及 [...]</title>
+      <link>https://t.me/hn_summary/82603</link>
+      <description><![CDATA[微软在 FFMPEG 跟踪器上发帖称他们的问题是“高优先级” 
+Microsoft 已承认 FFMPEG 跟踪器存在一个高优先级问题，即无法在 4.2.3 之后的 Windows FFmpeg 版本上提取隐藏式字幕 eia-608 并将其转换为 srt 或 webvtt。该错误导致不生成任何输出。提供了再现命令以及所使用的 FFmpeg 版本的详细信息。此问题的补丁应提交到 ffmpeg-devel 邮件列表。]]></description>
+      <guid>https://t.me/hn_summary/82603</guid>
+      <pubDate>Tue, 02 Apr 2024 20:23:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]亚马逊正在通过“Just Walk Out”技术告别其无结账杂货店 [...]</title>
-      <link>https://t.me/hn_summary/82561</link>
-      <description><![CDATA[亚马逊放弃在杂货店“走出去”结账
-亚马逊正在通过“Just Walk Out”技术告别无结账杂货店，转而选择 Dash Carts 和自助结账柜台。备受争议的“Just Walk Out”技术依靠离岸收银员观看和标记视频来确保准确结账，从而导致收据延迟和高昂成本。尽管遇到了一些挫折，亚马逊仍在英国的几家商店和一些 Amazon Go 便利店保留了这项技术。亚马逊放弃“Just Walk Out”的举措可能表明，其重点是扩大其超市业务，并与沃尔玛和 Costco 等行业巨头竞争。]]></description>
-      <guid>https://t.me/hn_summary/82561</guid>
-      <pubDate>Tue, 02 Apr 2024 17:42:50 GMT</pubDate>
+      <title>[媒体]特斯拉的“噩梦”年仍在继续，交付量大幅下降导致库存下跌。</title>
+      <link>https://t.me/hn_summary/82602</link>
+      <description><![CDATA[特斯拉的“噩梦”年仍在继续，交付量大幅下降导致库存增加下来
+特斯拉的“噩梦”年仍在继续，交付量大幅下降导致股价下跌。特斯拉2024年第一季度交付了386,810辆电动汽车，低于华尔街的预期。分析师下调了预期，有些人甚至暗示特斯拉今年可能会亏损。在糟糕的交付公告发布后，该公司的股价下跌了近 6%，使特斯拉成为标准普尔 500 指数中表现最差的公司。一些投资者将这些困境归咎于埃隆·马斯克和公司董事会，一位投资者呼吁立即更换他们。尽管特斯拉努力提高销量，包括更新全自动驾驶技术，但其汽车销售仍面临挑战。]]></description>
+      <guid>https://t.me/hn_summary/82602</guid>
+      <pubDate>Tue, 02 Apr 2024 20:19:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]聚变反应堆被誉为完美的能源来源，产生大量[...]</title>
-      <link>https://t.me/hn_summary/82560</link>
-      <description><![CDATA[聚变反应堆：并非如他们所吹捧的那样
-聚变反应堆被誉为完美的能源，能够以最少的放射性废物产生大量的能源，并且没有熔毁的风险。然而，现实远非完美。在地球上复制太阳的聚变过程需要极端的温度和压力，在当前的实验中，能量输入超过输出。聚变所必需的氚燃料不是自然产生的，必须补充，这带来了挑战。聚变反应堆还面临巨大的寄生功耗，消耗其产生的能量的很大一部分。此外，聚变反应堆与裂变反应堆都存在严重的问题，包括辐射损伤、放射性废物和潜在的氚释放。 （根据故事文本的 57% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82560</guid>
-      <pubDate>Tue, 02 Apr 2024 17:38:46 GMT</pubDate>
+      <title>[媒体]我们很高兴地宣布发布 Arti 1.2.0，我们创新的 Tor 客户端开发 [...]</title>
+      <link>https://t.me/hn_summary/82601</link>
+      <description><![CDATA[Arti 1.2.0 发布：洋葱服务开发 
+我们很高兴地宣布发布 Arti 1.2.0，这是我们用 Rust 开发的创新 Tor 客户端。此更新重点关注洋葱服务开发并引入关键安全功能。一个值得注意的补充是对非托管可插拔传输的支持。有关使用 Arti 运行洋葱服务的详细说明和注意事项，请参阅 OnionService.md  文档。我们感谢 Alexander Færøy、Jim Newsome、Tobias Stoeckmann 和 trinity-1686a 等贡献者，以及 Zcash 社区拨款和其他赞助商的支持。请继续关注管道中的更多增强功能。]]></description>
+      <guid>https://t.me/hn_summary/82601</guid>
+      <pubDate>Tue, 02 Apr 2024 19:55:00 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌已同意删除数百万使用隐身模式的用户的搜索数据 [...]</title>
-      <link>https://t.me/hn_summary/82559</link>
-      <description><![CDATA[Google 将删除数百万人使用隐身模式的搜索数据
-作为集体诉讼和解的一部分，谷歌同意删除在其 Chrome 浏览器中使用隐身模式的数百万用户的搜索数据。该诉讼显示，谷歌甚至在隐身模式下也在秘密跟踪用户的网络活动，并将这些数据用于广告目的。该和解协议要求谷歌对其跟踪行为保持透明，并阻止第三方公司以隐身模式跟踪用户的 cookie。虽然用户不会收到金钱赔偿，但他们可以选择在加利福尼亚州法院起诉谷歌。该协议达成之际，谷歌面临着在线搜索垄断和广告行为方面的其他法律挑战。]]></description>
-      <guid>https://t.me/hn_summary/82559</guid>
-      <pubDate>Tue, 02 Apr 2024 17:36:41 GMT</pubDate>
+      <title>在《沉默的颜色》中，作者深入探讨了这部颇具争议且发人深省的作品 [...]</title>
+      <link>https://t.me/hn_summary/82600</link>
+      <description><![CDATA[沉默的颜色
+在《沉默的颜色》中，作者深入研究了约翰·凯奇和伊夫·克莱因颇具争议且发人深省的作品。凯奇臭名昭著的《4分33秒》挑战观众聆听隐藏的寂静之声，而克莱因的《单调寂静交响曲》则通过连续的D大调和弦营造出神秘而冥想的体验。该作品探索了这些作曲家突破音乐界限的独特方式凯奇和克莱因通过他们的创新作品，对音乐和艺术世界产生了持久的影响。]]></description>
+      <guid>https://t.me/hn_summary/82600</guid>
+      <pubDate>Tue, 02 Apr 2024 19:53:56 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】美国政府出手了，掌控着3.01万枚丝路基金。</title>
-      <link>https://t.me/hn_summary/82558</link>
-      <description><![CDATA[&quot;美国政府控制的3.01万枚丝路基金已上线移动“
-美国政府正在采取行动，控制着3.01万比特币的丝路基金。这一有争议的发展引发了加密货币爱好者的兴趣和猜测。请继续关注这一有趣情况的最新动态。 #SilkRoad #BTC #cryptocurrency]]></description>
-      <guid>https://t.me/hn_summary/82558</guid>
-      <pubDate>Tue, 02 Apr 2024 17:30:35 GMT</pubDate>
+      <title>[媒体]Unity 高管 Jim Whitehurst 和 Marc Whitten 对 We [...]</title>
+      <link>https://t.me/hn_summary/82599</link>
+      <description><![CDATA[Unity 高管看到 WebGPU 在游戏开发中的光明前景
+Unity 高管 Jim Whitehurst 和 Marc Whitten 对 WebGPU 在游戏开发中的潜力感到兴奋，强调其在互联网浏览器中高效运行高质量游戏的能力。他们认为 WebGPU 可以彻底改变游戏的发现和玩方式，将其与 TikTok 视频的快速访问进行比较。虽然基于浏览器的游戏并不是一个新概念，但 WebGPU 提供的速度和易用性可以为开发人员和玩家等开辟新的可能性。这项技术可以为寻求更快开发周期的开发人员提供中间立场，而无需致力于 Roblox 或 Fortnite 虚幻引擎等封闭平台。]]></description>
+      <guid>https://t.me/hn_summary/82599</guid>
+      <pubDate>Tue, 02 Apr 2024 19:47:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在题为“ReALM：参考解析作为语言建模”的论文中，作者前 [...]</title>
-      <link>https://t.me/hn_summary/82557</link>
-      <description><![CDATA[ReALM：参考解析作为语言建模
-在题为“ReALM：参考解析作为语言建模”的论文中，作者探索了使用语言模型 (LLM) 进行参考解析，特别是对于非会话实体。他们演示了法学硕士如何通过将问题转换为语言建模任务来有效地解决各种类型的引用，包括屏幕上的实体。该论文展示了对现有系统的显着改进，其最小模型在某些情况下优于 GPT-4。这种创新方法凸显了法学硕士在处理复杂上下文和参考解析任务方面的潜力，展示了语言建模在理解和处理不同形式信息方面的力量。]]></description>
-      <guid>https://t.me/hn_summary/82557</guid>
-      <pubDate>Tue, 02 Apr 2024 17:27:32 GMT</pubDate>
+      <title>[媒体]我们 ClickHouse 使用我们自己的技术构建了一个 19 PiB 日志平台来添加 [...]</title>
+      <link>https://t.me/hn_summary/82598</link>
+      <description><![CDATA[我们使用 ClickHouse 构建了 19 PiB 日志平台并节省了数百万美元
+我们 ClickHouse 使用我们自己的技术构建了一个 19 PiB 日志平台来解决可观察性挑战。通过将日志数据存储迁移到 ClickHouse，与使用 Datadog 相比，我们节省了数百万美元。我们的 ClickHouse 支持的日志平台“LogHouse”仅在我们的 AWS 区域就包含超过 37 万亿行。 ClickHouse 实现的 17 倍压缩级别对于成本效率至关重要。我们的架构包括在 Kubernetes 中将 ClickHouse 实例作为 Pod 运行，并利用 SharedMergeTree 表引擎来分离存储和计算。我们采用基于 SQL 的可观察性和可视化工具（例如 Grafana），在多 PB 规模上提供出色的查询性能。 （根据故事文本的 24% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82598</guid>
+      <pubDate>Tue, 02 Apr 2024 19:44:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这份 SSD 综合指南中，作者分享了他们升级到 [...]</title>
-      <link>https://t.me/hn_summary/82556</link>
-      <description><![CDATA[我所知道的关于 SSD 的一切（2019）
-在这份 SSD 综合指南中，作者分享了他们升级到配备 128 GB SSD 的 Dell Optiflex 3010 的过程，并认识到他们对 SSD 中的 NAND 闪存缺乏了解。本文深入探讨了有关 SSD 的误解，并提供了有关 SSD 如何工作、读取、写入和存储数据的中级技术讨论。作者从技术文章中获取信息并解释了 NAND 闪存控制器的复杂性。本文还涵盖了 SSD 物理内部结构、NAND 闪存、2D 和 3D 闪存以及不同类型的闪存单元（如 SLC、MLC、TLC 和 QLC）等主题。作者独特而详细的解释使本指南成为那些希望更好地了解 SSD 技术的人的宝贵资源。 （根据故事文本的 27% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82556</guid>
-      <pubDate>Tue, 02 Apr 2024 17:16:25 GMT</pubDate>
+      <title>[媒体]备受争议的中国科学家贺建奎因创建基因编辑器而入狱 [...]</title>
+      <link>https://t.me/hn_summary/82597</link>
+      <description><![CDATA[科学家回到实验室对婴儿进行基因编辑，“感到自豪”尽管入狱仍继续工作
+因创造基因编辑婴儿而入狱的备受争议的中国科学家贺建奎已返回他的实验室，致力于治疗阿尔茨海默氏症和遗传疾病。他使用 Crispr-Cas9 重写了胚胎中的 DNA，从而诞生了转基因双胞胎。尽管受到批评和法律后果，他仍然对自己的工作感到“自豪”，并计划继续出于医疗目的进行基因组编辑。他声称孩子们健康成长，没有意外的基因改变。他相信社会最终会接受人类胚胎基因编辑来治疗遗传疾病，从而引发了关于设计婴儿的伦理和影响的争论。]]></description>
+      <guid>https://t.me/hn_summary/82597</guid>
+      <pubDate>Tue, 02 Apr 2024 19:42:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]一块金属据信来自国际刑院丢弃的 5,800 磅重的电池托盘 [...]</title>
-      <link>https://t.me/hn_summary/82555</link>
-      <description><![CDATA[一块从国际空间站扔出的 5,800 磅电池托盘坠毁在佛罗里达州的家中&lt; /a&gt;
-一块金属据信来自国际空间站丢弃的重 5,800 磅的电池托盘，坠毁在佛罗里达州的一所房屋中，险些撞上一名男子。美国宇航局正在调查该物体的起源，该物体本应在英国《金融时报》上空燃烧。迈尔斯却因计算错误而偏离航线。房主正在等待美国宇航局和其他机构解决损失问题。该事件凸显了太空碎片的风险，科学家警告说，失控的火箭在未来十年内造成伤害的可能性为 10%。如果发现疏忽，这种情况可能会导致《联邦侵权索赔法》下的法律后果。]]></description>
-      <guid>https://t.me/hn_summary/82555</guid>
-      <pubDate>Tue, 02 Apr 2024 17:14:20 GMT</pubDate>
+      <title>[媒体] 波罗的海 GPS 干扰器已位于加里宁格勒，有第四个证据和参考文献 [...]</title>
+      <link>https://t.me/hn_summary/82596</link>
+      <description><![CDATA[波罗的海GPS干扰器在加里宁格勒–第四次证明，精炼数据集，第二次方法
+波罗的海 GPS 干扰器位于加里宁格勒，具有第四个证明和使用第二种方法的精炼数据集。这一发现揭示了该地区围绕 GPS 干扰的持续争议。随着我们继续调查这一令人惊讶和独特的发展，请继续关注更多更新。 #BalticGPSJammer #加里宁格勒 #GPSinterference]]></description>
+      <guid>https://t.me/hn_summary/82596</guid>
+      <pubDate>Tue, 02 Apr 2024 19:37:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
