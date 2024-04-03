@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 03 Apr 2024 18:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 21:04:47 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 大通银行正在通过其新零售媒体平台 Cha [...]</title>
-      <link>https://t.me/hn_summary/82765</link>
-      <description><![CDATA[摩根大通即将让广告商根据支出定位客户
-大通银行正在通过其新的零售媒体平台 Chase Media Solutions 震撼广告界，该平台允许品牌根据 8000 万客户的消费习惯来定位他们。这一有争议的举动引起了人们对隐私和数据所有权的担忧，因为银行将使用客户的交易数据来提供个性化优惠和激励措施。然而，大通银行相信，其无与伦比的规模和客户洞察力将使其在竞争激烈的零售媒体行业中脱颖而出，该行业目前价值 610 亿美元，并且正在快速增长。亚马逊和沃尔玛等主要参与者已经加入其中，大通银行希望以其独特的定向广告方法引起轰动。]]></description>
-      <guid>https://t.me/hn_summary/82765</guid>
-      <pubDate>Wed, 03 Apr 2024 18:02:30 GMT</pubDate>
+      <title>[媒体]福特已停止 2024 年款 F-150 Lightning 电动皮卡车的发货 [...]</title>
+      <link>https://t.me/hn_summary/82798</link>
+      <description><![CDATA[福特自 2 月 9 日起尚未发货 F-150 Lightning未公开问题
+由于未公开的问题，福特已暂停 2024 年款 F-150 Lightning 电动皮卡的发货，导致该措施何时取消存在不确定性。该问题不会影响内燃机驱动的 F-150，该车仍在运送到经销商处。尽管最初对电动版的需求强劲，但价格上涨和经销商加价导致了库存问题。福特首席执行官最近宣布了一项新的电气化战略，重点关注更小、更便宜的电动汽车。 F-150 Lightning的产量减少了一半，反映出流行的电动卡车面临的挑战。]]></description>
+      <guid>https://t.me/hn_summary/82798</guid>
+      <pubDate>Wed, 03 Apr 2024 21:04:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]以色列媒体调查显示，以色列正在使用秘密人工智能软件 [...]</title>
-      <link>https://t.me/hn_summary/82764</link>
-      <description><![CDATA[报告称，以色列的“Lavender”人工智能用于加沙杀戮名单&lt; /a&gt;
-以色列媒体调查显示，以色列正在使用名为“Lavender”的秘密人工智能软件在加沙创建杀戮名单，针对约37,000人进行潜在的空袭。该计划使用机器学习根据与可疑激进分子的关联等因素为个人评分。目标决策是在最少的监督下快速做出的，导致错误率很高。据报道，附带损害规则有所放松，导致平民伤亡增加。以色列否认将决策外包给机器，但围绕在瞄准实践中使用人工智能的争议引发了外国政府和人道主义组织的批评。]]></description>
-      <guid>https://t.me/hn_summary/82764</guid>
-      <pubDate>Wed, 03 Apr 2024 17:58:25 GMT</pubDate>
+      <title>正在为个人网站寻找简单的高可用性解决方案？</title>
+      <link>https://t.me/hn_summary/82797</link>
+      <description><![CDATA[与 OpenBSD 实现高可用性
+正在为个人网站寻找简单的高可用性解决方案？作者分享了他们使用 OpenBSD 的基本系统工具（如 nsd、ksh、sed 和 awk）创建自动故障转移设置的旅程。通过利用 DNS 和简单的 shell 脚本，他们无需依赖外部包即可实现异地冗余。该脚本检查主节点的可用性，如果需要，执行到备用虚拟机的故障转移，并相应地更新 DNS 记录。该解决方案的独特之处在于简单性和成本效益，迎合了作者对 KISS 方法实现高可用性的偏好。 ASCII 艺术为技术内容增添了异想天开的感觉。 （根据 50% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82797</guid>
+      <pubDate>Wed, 03 Apr 2024 20:58:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 据报道，由于基础设施成本极高，稳定性人工智能面临财务困境，[...]</title>
-      <link>https://t.me/hn_summary/82763</link>
-      <description><![CDATA[据报道，Stability AI 耗尽了现金来支付其云 GPU 账单&lt; /a&gt;
-据报道，Stability AI 由于基础设施成本过高而面临财务困境，耗尽了公司的金库，只剩下 400 万美元的储备金。前首席执行官 Emad Mostaque 难以支付其流行的文本到图像生成模型 Stable Diffusion 所需的巨额 GPU 费用。该公司未能与主要客户和投资者达成交易，导致信任和财务稳定性螺旋式下降。尽管努力转向订阅模式并转售计算资源，但 Stability AI 的未来仍然不确定，版权侵权案件迫在眉睫。新的管理层就位，但公司的命运仍悬而未决。]]></description>
-      <guid>https://t.me/hn_summary/82763</guid>
-      <pubDate>Wed, 03 Apr 2024 17:54:20 GMT</pubDate>
+      <title>[媒体]微软宣布 Windows 10 支持将于 2025 年终止，用户需要 [...]</title>
+      <link>https://t.me/hn_summary/82796</link>
+      <description><![CDATA[Microsoft 透露您需要支付多少费用才能继续使用 Windows 10 安全
+微软宣布 Windows 10 支持将于 2025 年终止，用户需要付费购买扩展安全更新 (ESU) 才能继续安全地使用该操作系统。第一年起价为 61 美元，随后每年翻倍。这是消费者第一次可以购买 Windows 10 的额外安全更新。企业和消费者必须为每台设备购买 ESU 许可证。微软正在为基于云的更新解决方案和学校提供折扣。 Windows 11 具有更严格的硬件要求，使许多 Windows 10 用户面临支付安全更新或升级费用的决定。 Microsoft 鼓励用户切换到 Windows 11。]]></description>
+      <guid>https://t.me/hn_summary/82796</guid>
+      <pubDate>Wed, 03 Apr 2024 20:55:37 GMT</pubDate>
     </item>
     <item>
-      <title>Ugreen 将挑战 Synology 在网络附加存储 (NAS) 市场的主导地位 [...]</title>
-      <link>https://t.me/hn_summary/82762</link>
-      <description><![CDATA[Ugreen 以平价系列 NAS 硬件挑战 Synology 
-Ugreen 准备通过其全新 NASync 系列挑战 Synology 在网络附加存储 (NAS) 市场的主导地位，该系列已在 Kickstarter 上筹集了超过 230 万美元。该系列包括六款产品，可满足从个人使用到商业解决方案等不同用户的需求，具有令人印象深刻的规格，如第 12 代英特尔酷睿 i5 处理器和高达 64GB 的可扩展内存。顶级型号提供双 10GbE 端口和 Thunderbolt 4 端口，实现闪电般的性能。凭借全面的移动应用程序和专业的数据安全性，NASync 系列正在成为 NAS 市场的有力竞争者。]]></description>
-      <guid>https://t.me/hn_summary/82762</guid>
-      <pubDate>Wed, 03 Apr 2024 17:53:17 GMT</pubDate>
+      <title>[媒体]TechCrunch 对 YC 2024 年冬季演示日的报道强调了各种创新 [...]</title>
+      <link>https://t.me/hn_summary/82795</link>
+      <description><![CDATA[YC 2024 年冬季演示日证实我们确实处于人工智能泡沫之中
+TechCrunch 对 YC 2024 年冬季演示日的报道重点介绍了各种利用人工智能技术的创新初创公司。从人工智能生成的音乐到资助申请协助，该活动展示了一系列前沿想法。值得注意的最爱包括非营利组织平台、检测深度造假的服务以及帮助律师有效浏览法律文件的工具。此次活动还吸引了专注于电动汽车充电基础设施、在线视频创作和云计算服务的初创公司。总体而言，演示日证实了科技行业中人工智能泡沫的存在，初创公司利用人工智能来应对各种挑战和机遇。 （根据 93% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82795</guid>
+      <pubDate>Wed, 03 Apr 2024 20:54:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这项研究探讨了临界闪烁融合阈值的个体差异，这是一个[...]</title>
-      <link>https://t.me/hn_summary/82761</link>
-      <description><![CDATA[视速：临界闪烁融合阈值的个体差异
-本研究探讨了健康人类参与者中临界闪烁融合阈值（视觉时间分辨率的衡量标准）的个体差异。研究人员使用两种常见的心理物理学方法，发现参与者之间的最大差异约为 30 Hz，其中女性比男性表现出更大的变异性。该研究还评估了阈值随时间的稳定性，发现大约 80% 的方差是由于个体之间的差异造成的。通过结合不同的测试方法，该研究旨在提供一种更有效的方法来测量 CFF 阈值。总体而言，该研究强调了视觉感知的自然变化以及在视觉时间分辨率研究中考虑个体差异的重要性。 （根据故事文本的 33% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82761</guid>
-      <pubDate>Wed, 03 Apr 2024 17:48:11 GMT</pubDate>
+      <title>[媒体]联邦通信委员会将就恢复网络中立规则进行投票[...]</title>
+      <link>https://t.me/hn_summary/82794</link>
+      <description><![CDATA[有线电视游说团体发誓要进行“多年的诉讼”，以避免屏蔽和屏蔽禁令节流
+联邦通信委员会将就恢复网络中立规则进行投票，该规则在前总统特朗普的领导下被废除。 FCC 主席 Jessica Rosenworcel 认为此举将保护消费者并确保互联网开放。然而，NCTA（互联网电视协会）等有线电视游说团体并不高兴，并发誓要进行“多年的诉讼”，以避免屏蔽和节流禁令。他们认为，尽管 FCC 努力通过 424.5 亿美元的拨款计划扩大宽带接入，但联邦标准将损害他们的企业和消费者。消费者权益团体和有线电视游说者之间的争议为潜在的法律战奠定了基础。]]></description>
+      <guid>https://t.me/hn_summary/82794</guid>
+      <pubDate>Wed, 03 Apr 2024 20:53:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]德克萨斯三角是一个独特且快速发展的巨型区域，挑战了常见的地形 [...]</title>
-      <link>https://t.me/hn_summary/82760</link>
-      <description><![CDATA[德克萨斯三角区：一个不同于其他地区的崛起中的巨型区域 
-德克萨斯三角是一个独特且快速发展的巨型区域，打破了人们对德克萨斯州的普遍刻板印象。虽然它与国家有一些共同特征，例如经济扩张和多元化，但它也通过较高的教育水平和更加中间派的政治格局挑战了人们的看法。三角都市面临着共同的挑战，例如西班牙裔社区的教育程度较低，但也具有整合在一个州内的优势。随着德克萨斯三角的不断发展，它成为在维持经济增长的同时包容多样性的典范，使其成为美国社会和全球经济的关键参与者。]]></description>
-      <guid>https://t.me/hn_summary/82760</guid>
-      <pubDate>Wed, 03 Apr 2024 17:45:07 GMT</pubDate>
+      <title>[媒体]亿万富翁投资者史蒂夫科恩最近对高尔夫进行了战略投资 [...]</title>
+      <link>https://t.me/hn_summary/82793</link>
+      <description><![CDATA[亿万富翁史蒂夫科恩投资高尔夫，因为每周工作 4 天即将到来&lt; /a&gt;
+亿万富翁投资者史蒂夫·科恩 (Steve Cohen) 最近对高尔夫行业进行了战略投资，并将即将向每周工作 4 天的转变作为推动因素。随着越来越多的人希望利用额外的一天时间进行休闲活动，科恩看到了高尔夫行业的利润丰厚的机会。这一举动令许多人感到惊讶，因为科恩以其在金融和技术领域的成功冒险而闻名。然而，他在预测不断变化的工作环境方面的远见使他成为愿意适应新兴趋势的精明投资者。]]></description>
+      <guid>https://t.me/hn_summary/82793</guid>
+      <pubDate>Wed, 03 Apr 2024 20:49:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Burr 是一个旨在帮助开发人员快速构建和调试 GenAI 应用程序的框架 [...]</title>
-      <link>https://t.me/hn_summary/82759</link>
-      <description><![CDATA[显示 HN：Burr – 用于更快构建和调试 GenAI 应用程序的框架
-Burr 是一个框架，旨在帮助开发人员通过使用简单的 Python 构建块创建状态机来更快地构建和调试 GenAI 应用程序。它包括一个用于实时监控决策的 UI，使其对于聊天机器人、代理、模拟等非常有用。 Burr 通过提供低抽象 Python 库、用于遥测的 UI 以及用于持久状态和连接到其他系统的集成而与众不同。它可用于各种应用程序，例如聊天机器人、机器学习管道和模拟。该项目以 Aaron Burr 命名，旨在简化 Hamilton DAG 执行之间的状态管理。该路线图包括测试、效率改进和基于云的检查点等功能。欢迎开发者做出贡献。]]></description>
-      <guid>https://t.me/hn_summary/82759</guid>
-      <pubDate>Wed, 03 Apr 2024 17:36:00 GMT</pubDate>
+      <title>摘要：Disarm Russia.com 强调数控机床在先进武器制造中的重要性 [...]</title>
+      <link>https://t.me/hn_summary/82792</link>
+      <description><![CDATA[解除俄罗斯武装
+摘要：Disarm Russia.com凸显数控机床在先进领域的重要性武器制造及其在欧洲种族灭绝战争中发挥的作用。该网站指出，西方公司帮助俄罗斯做好战争准备，导致数百万人伤亡，从而引发争议。该网站倡导裁军以防止进一步的苦难，并呼吁采取行动解决这一问题。]]></description>
+      <guid>https://t.me/hn_summary/82792</guid>
+      <pubDate>Wed, 03 Apr 2024 20:41:20 GMT</pubDate>
     </item>
     <item>
-      <title>藏红花是世界上最昂贵的香料，因其劳动密集型收获过程而受到重视 [...]</title>
-      <link>https://t.me/hn_summary/82758</link>
-      <description><![CDATA[藏红花：世界上最昂贵香料的故事 
-藏红花是世界上最昂贵的香料，因其劳动密集型的收获过程和丰富的历史而备受推崇。从起源于古希腊到其在烹饪、药用和宗教实践中的用途，藏红花有着悠久而传奇的历史。尽管价格昂贵，但藏红花的需求量仍然很大，大部分产量来自伊朗、印度和希腊等国家。由于气候变化给藏红花种植带来挑战，通过旅游业实现该行业多元化的努力正在兴起。藏红花的持久魅力在于其独特的采收过程和文化意义，使其成为香料世界中的宝贵商品。]]></description>
-      <guid>https://t.me/hn_summary/82758</guid>
-      <pubDate>Wed, 03 Apr 2024 17:17:50 GMT</pubDate>
+      <title>[媒体] 在这篇异想天开的帖子中，作者分享了他们重新创建深受喜爱的 Twit 的旅程 [...]</title>
+      <link>https://t.me/hn_summary/82791</link>
+      <description><![CDATA[你所有的龙都属于我们
+在这篇异想天开的文章中，作者分享了他们使用创造性方法重新创建深受喜爱的 Twitter 机器人 Dragon Hoards 的旅程。他们没有使用 Tracery，而是选择使用随机词段来生成独特的龙描述、宝藏和情感。作者巧妙地应对了诸如格式化形容词和处理复数名词等挑战，从而产生了诸如“数十亿牙刷”和“丰富的袋鼠”等有趣的输出。由 Pipedream 提供支持的自动化流程将这些龙的故事无缝地发布到 Mastodon 和 Bluesky。一个有趣且创新的项目，展示了作者的创造力和技术技能。]]></description>
+      <guid>https://t.me/hn_summary/82791</guid>
+      <pubDate>Wed, 03 Apr 2024 20:36:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此网页内容提供了一个 Python 脚本，演示如何插入 xz backdo [...]</title>
-      <link>https://t.me/hn_summary/82757</link>
-      <description><![CDATA[将 xz 后门负载放入有效的 RSA 密钥 
-此 Web 内容提供了一个 Python 脚本，演示如何将 xz 后门有效负载插入到有效的 RSA 密钥中。该脚本使用 RSA 和 Ed448 算法生成私钥，使用 ChaCha20 加密有效负载，然后将有效负载拼接到 RSA 模数中。该脚本还包括生成新素数“p”并计算“q”以使用后门有效负载生成修改模数的过程。此内容有争议的方面是演示如何通过插入后门有效负载来损害 RSA 密钥的安全性。独特之处在于实现这一目标所涉及的详细技术流程。]]></description>
-      <guid>https://t.me/hn_summary/82757</guid>
-      <pubDate>Wed, 03 Apr 2024 17:16:46 GMT</pubDate>
+      <title>[媒体]在本文中，作者讨论了诸如[...]等城市的限制性土地使用政策如何</title>
+      <link>https://t.me/hn_summary/82790</link>
+      <description><![CDATA[土地使用政策使城市托儿服务昂贵且稀缺&lt; br/&gt;
+在本文中，作者讨论了旧金山和纽约等城市的限制性土地使用政策如何导致儿童保育费用昂贵且稀缺，导致等待名单很长，给家庭带来压力。作者强调了这些政策如何通过分区和停车规定导致学前班异常短缺，推高成本并限制儿童保育的可用空间。作者赞扬奥斯汀废除了停车规定，并使托儿服务成为大多数分区的“正当”用途，从而使开设新的托儿中心变得更容易、更实惠。作者认为，家庭友好型土地使用改革对于为家庭创造充满活力和热情的城市至关重要。]]></description>
+      <guid>https://t.me/hn_summary/82790</guid>
+      <pubDate>Wed, 03 Apr 2024 20:12:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇引人入胜的文章中，布鲁斯·巴特利特 (Bruce Bartlett) 探讨了 [...]</title>
-      <link>https://t.me/hn_summary/82756</link>
-      <description><![CDATA[五次曲线、二十面体和椭圆曲线 [pdf](https ://news.ycombinator.com/item?id=39919491)
-在这篇引人入胜的文章中，布鲁斯·巴特利特 (Bruce Bartlett) 探讨了五次多项式的根、二十面体和椭圆曲线之间的有趣关系。通过深入研究 Felix Klein 的工作并引入复杂算术几何平均和连分数等新工具，Bartlett 推出了一种计算一般五次式根的直接方法。他还讨论了弗拉基米尔·阿诺德 (Vladimir Arnold) 对五次式不可解的拓扑证明，展示了与伽罗瓦理论相比更加几何化的方法。布里奥斯基五次方程的根与二十面体上的点之间令人惊讶的联系为这一数学之旅增添了独特的转折。 （根据故事文本的 19% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82756</guid>
-      <pubDate>Wed, 03 Apr 2024 17:05:39 GMT</pubDate>
+      <title>[媒体]Qiling是一个强大的二进制仿真框架，可以仿真多个平台，一个[...]</title>
+      <link>https://t.me/hn_summary/82789</link>
+      <description><![CDATA[Qiling：真正的可仪器化二进制仿真框架
+Qiling 是一个功能强大的二进制仿真框架，可以仿真多种平台、架构和文件格式。它允许在隔离环境中对代码进行沙箱处理，为内存、寄存器、操作系统和文件系统级别提供详细的 API，并支持细粒度检测。 Qiling 通过提供动态分析工具、热补丁功能和跨平台功能，与 Unicorn 和 Qemu 用户模式等其他模拟器区分开来。该项目基于Python构建，可以轻松定制安全分析。 Qiling 曾在各种国际会议上亮相，并得到 Unicorn 引擎的支持。访问他们的网站了解更多信息。]]></description>
+      <guid>https://t.me/hn_summary/82789</guid>
+      <pubDate>Wed, 03 Apr 2024 20:08:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
