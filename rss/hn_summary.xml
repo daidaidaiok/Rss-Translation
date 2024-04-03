@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 03 Apr 2024 09:07:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 15:06:28 GMT</lastBuildDate>
     <item>
-      <title>[媒体]VictoriaMetrics 首席技术官兼联合创始人 Aliaksandr Valialkin 批评 OpenTelemetry [...]</title>
-      <link>https://t.me/hn_summary/82677</link>
-      <description><![CDATA[OpenTelemetry 太复杂
-VictoriaMetrics 首席技术官兼联合创始人 Aliaksandr Valialkin 批评 OpenTelemetry 过于复杂和臃肿，导致集成问题和二进制大小增加。尽管面临挑战，可观测数据标准化的核心思想仍然被认为是有价值的。 Valialkin 认为 Prometheus 由于其效率和简单性而成为衡量指标的更好选择。 VictoriaMetrics 正在推进其自己的用于 OTel 指标支持的自定义库，同时还准备为其新产品 VictoriaLogs 采用日志协议。争议在于 OpenTelemetry 的复杂性和低效率，与标准化可观测数据的价值形成对比。]]></description>
-      <guid>https://t.me/hn_summary/82677</guid>
-      <pubDate>Wed, 03 Apr 2024 09:07:03 GMT</pubDate>
+      <title>[媒体]文章揭示了以色列使用的名为“Lavender”的人工智能程序的存在[...]</title>
+      <link>https://t.me/hn_summary/82732</link>
+      <description><![CDATA[“Lavender”：指挥以色列在加沙的疯狂轰炸&lt; /a&gt;
+文章揭示了以色列军队使用一个名为“Lavender”的人工智能程序来生成对加沙进行军事打击的目标。该计划旨在标记哈马斯和巴勒斯坦伊斯兰抵抗运动的可疑特工，已将数千名巴勒斯坦人标记为潜在的爆炸目标，导致平民伤亡。在战争初期，军队严重依赖拉文德，将其输出视为人类决​​策。使用人工智能来针对个人的争议性使用、高昂的平民死亡人数以及该过程的自动化性质引发了人们对技术对战争影响的伦理担忧。 （根据故事文本的 24% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82732</guid>
+      <pubDate>Wed, 03 Apr 2024 15:06:28 GMT</pubDate>
     </item>
     <item>
-      <title>巴尔的摩达利大楼的业主已提交请愿书，要求限制其责任[...]</title>
-      <link>https://t.me/hn_summary/82676</link>
-      <description><![CDATA[大理业主提交请愿书，要求将巴尔的摩大桥倒塌责任上限限制在 4370 万美元
-巴尔的摩 Dali 大楼的业主已提交请愿书，要求将其在最近桥梁倒塌事故中的赔偿责任上限限制为 4,370 万美元。此举引发争议，许多人质疑这笔金额是否足以支付受害者的损失和赔偿。该请愿书目前正在接受美国马里兰州地区法院的审查。请继续关注这个发展故事的更新。]]></description>
-      <guid>https://t.me/hn_summary/82676</guid>
-      <pubDate>Wed, 03 Apr 2024 09:05:59 GMT</pubDate>
+      <title>[媒体]尽管美国政府颁布禁令并努力减少中国制造设备的使用 [...]</title>
+      <link>https://t.me/hn_summary/82731</link>
+      <description><![CDATA[尽管受到禁令，美国网络中的中国设备数量仍在增长 
+尽管出于安全考虑，美国政府禁止并努力减少中国制造设备的使用，但 Forescout 最近的一项分析显示，美国网络中这些设备的数量在过去一年实际上增加了 40% 以上。受影响最严重的行业包括医疗保健、制造业和政府，其中监控摄像头和 VoIP 电话是最常见的中国设备。主要担心的是这些产品可能被中国政府用于间谍活动或破坏活动。 Forescout 强调组织需要仔细检查其网络上的所有设备，尤其是来自中国的设备。]]></description>
+      <guid>https://t.me/hn_summary/82731</guid>
+      <pubDate>Wed, 03 Apr 2024 15:01:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 19 世纪，康涅狄格州哈特福德市的一群工人阶级孩子在埃德的带领下 [...]</title>
-      <link>https://t.me/hn_summary/82675</link>
-      <description><![CDATA[The Wide Awakes：一个 19 世纪穿着斗篷的反社会俱乐部奴隶制活动家
-19 世纪，康涅狄格州哈特福德的一群工人阶级孩子在埃迪·耶加森 (Eddie Yergason) 的领导下发起了一场名为“大觉醒”的斗篷运动，以应对美国因奴隶制而日益紧张的局势。觉醒运动成为一个强大的政治组织，挑战奴隶势力和民主党。他们的行动，包括火炬游行和与民主党人的冲突，凸显了哈特福德街头争取民主的斗争。这场令人惊讶且影响深远的青年运动在南北战争的爆发中发挥了重要作用，重塑了美国的民主。 （根据故事文本的 31% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82675</guid>
-      <pubDate>Wed, 03 Apr 2024 07:53:37 GMT</pubDate>
+      <title>[媒体]Z 一代正在放弃传统的四年制大学，转而选择职业 [...]</title>
+      <link>https://t.me/hn_summary/82730</link>
+      <description><![CDATA[Z 世代正在避开大学，转而从事焊接等传统行业，管道
+Z 一代正在放弃传统的四年制大学，转而选择职业学校，寻求更高的工资并避免学生债务。疫情阻碍了许多年轻人接受高等教育，导致职业两年制学校的入学人数增加了 16%。焊接和管道等行业高薪工作机会的吸引力吸引了许多人进入这些领域，有些人甚至夸耀年薪达 20 万美元。随着学生债务的增加和对大学学位价值的怀疑，Z 世代正在寻求经济稳定和职业满意度的交易。]]></description>
+      <guid>https://t.me/hn_summary/82730</guid>
+      <pubDate>Wed, 03 Apr 2024 14:58:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Capitally 的创始人 Rafał 深知财务独立的重要性 [...]</title>
-      <link>https://t.me/hn_summary/82674</link>
-      <description><![CDATA[显示 HN：针对任何国家/地区的无代码税务模型的投资跟踪器
-Capitally 的创始人 Rafał 深知财务独立的重要性以及长期投资在实现财务独立方面所发挥的作用。他发现现有工具限制过多且脱节，因此他创建了一个灵活且用户友好的投资跟踪器，允许用户无需编码即可为任何国家/地区建立税收模型。 Capitally 使个人能够制定并跟踪其独特的财务策略以实现独立。这种创新工具结合了电子表格的灵活性和应用程序的强大功能，使用户可以更轻松地掌控自己的财务未来。在 Twitter 或 LinkedIn 上联系 Rafał 了解更多信息。]]></description>
-      <guid>https://t.me/hn_summary/82674</guid>
-      <pubDate>Wed, 03 Apr 2024 07:47:31 GMT</pubDate>
+      <title>[媒体]罗伯特·弗罗斯特，通常被视为诗歌界的诺曼·洛克威尔，实际上是美国伟大的[...]</title>
+      <link>https://t.me/hn_summary/82729</link>
+      <description><![CDATA[美国伟大的黑暗诗人：罗伯特·弗罗斯特 150 岁时的重新思考&lt; /a&gt;
+罗伯特·弗罗斯特，通常被视为诗歌界的诺曼·洛克威尔，实际上是美国伟大的黑暗诗人。尽管弗罗斯特以平易近人而闻名，但他的作品却深入探讨了徒劳、选择和死亡等主题。他的名诗《未选择的路》经常被误解为对自我主张的颂扬，但实际上，它反映了生活不确定性的忧郁。弗罗斯特的黑暗视野植根于现实主义，探索对死亡和人类状况的存在恐惧。弗罗斯特通过对韵律和韵律的巧妙运用，创作出揭示存在的令人难以忘怀的空虚的诗歌，使他成为美国诗歌大师。 （根据 95% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82729</guid>
+      <pubDate>Wed, 03 Apr 2024 14:56:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Java 21 引入了虚拟线程，这是一种由 JVM 本身管理的新型线程，[...]</title>
-      <link>https://t.me/hn_summary/82673</link>
-      <description><![CDATA[使用 Java 21 虚拟线程进行数据库访问基准
-Java 21 引入了虚拟线程，这是一种由 JVM 本身管理的新型线程，旨在在不改变代码可读性的情况下提高性能。 MariaDB 的基准测试显示了令人印象深刻的吞吐量改进，某些查询的速度提高了 9 倍。但是，线程池使用情况和网络延迟等因素可能会影响结果。作者在 PostgreSQL 上运行了他们自己的基准测试，使用 JMH 来测试平台和虚拟线程的并行查询执行。结果显示，VirtualThreadPerTaskExecutor 在 MariaDB 上的性能提高了 118%，在 PostgreSQL 上的性能甚至更好。 Java 中这种创新的线程管理方法在数据库访问优化方面显示出了有希望的结果。 （根据 47% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82673</guid>
-      <pubDate>Wed, 03 Apr 2024 07:23:21 GMT</pubDate>
+      <title>[媒体] Truemetrics 是一家 YC S23 初创公司，正在寻找一位精通 Python 和 [...]</title>
+      <link>https://t.me/hn_summary/82728</link>
+      <description><![CDATA[Truemetrics (YC S23) 招聘后端工程师 
+Truemetrics 是一家 YC S23 初创公司，正在寻找一位具备 Python 和 AWS 技能的优秀后端工程师加入他们在柏林的团队。作为首批工程师之一，您将在开发传感器和地理数据的算法和数据处理管道方面发挥至关重要的作用。该公司的目标是通过提供精确的停车和入口位置以加快送货速度来彻底改变导航。 truemetrics 由行业专家创立，提供充满活力的创业环境以及成长和学习的机会。如果您准备好加入快速发展的科技初创公司并应对最后一英里交付的挑战，这可能是您的绝佳机会。]]></description>
+      <guid>https://t.me/hn_summary/82728</guid>
+      <pubDate>Wed, 03 Apr 2024 14:54:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 摘要：“Money for Nothing, Chips for Free”是一篇 Twitter 帖子，讨论了 [...]</title>
-      <link>https://t.me/hn_summary/82672</link>
-      <description><![CDATA[白花钱，免费筹码
-摘要：“Money for Nothing，Chips for Free”是一篇 Twitter 帖子，讨论在平台上启用 JavaScript 的好处。通过启用 JavaScript，用户可以访问各种特性和功能，从而增强他们的 Twitter 体验。该帖子鼓励用户启用 JavaScript 或切换到支持的浏览器以充分利用该平台。它强调了 JavaScript 在访问 Twitter 提供的所有功能方面的重要性。]]></description>
-      <guid>https://t.me/hn_summary/82672</guid>
-      <pubDate>Wed, 03 Apr 2024 07:12:14 GMT</pubDate>
+      <title>[媒体] 隆重推出 Dig This – 一款独特的音乐推荐工具，它使用 Discogs API [...]</title>
+      <link>https://t.me/hn_summary/82727</link>
+      <description><![CDATA[显示 HN：挖掘这个 – 使用 Discogs API 的随机音乐推荐&lt; /a&gt;
+隆重推出 Dig This – 一款独特的音乐推荐工具，它使用 Discogs API 根据您喜欢的风格推荐随机歌曲。只需选择一种流派或情绪，然后让 Dig This 为您带来新的音乐发现惊喜。无论您是摇滚乐、爵士乐、电子乐还是介于两者之间的音乐迷，Dig This 都能满足您的需求。告别无休止地滚动播放列表，让 Dig This 向您介绍您最喜爱的新歌曲。立即访问 www.digthis.club 开始探索世界以全新的方式诠释音乐。]]></description>
+      <guid>https://t.me/hn_summary/82727</guid>
+      <pubDate>Wed, 03 Apr 2024 14:49:04 GMT</pubDate>
     </item>
     <item>
-      <title>惠普最近因在用户安装 HP [...] 之前禁用打印机功能而受到批评。</title>
-      <link>https://t.me/hn_summary/82671</link>
-      <description><![CDATA[在您安装 HP Smart 应用之前，HP 会禁用打印机功能
-惠普最近因在用户安装 HP Smart 应用程序之前禁用打印机功能而受到批评。这一有争议的举动激起了客户的愤怒，他们认为自己的设备不应该因为下载应用程序而被劫持。许多人质疑这一决定背后的动机，并对惠普缺乏透明度表示失望。这种令人惊讶的策略让许多用户对该公司的客户服务方式感到沮丧和失望。请继续关注这个发展故事的更新。 #HP #打印机 #争议]]></description>
-      <guid>https://t.me/hn_summary/82671</guid>
-      <pubDate>Wed, 03 Apr 2024 06:55:07 GMT</pubDate>
+      <title>操纵者是一个总部位于巴基斯坦的网络犯罪组织，一直在努力清理他们的行为 [...]</title>
+      <link>https://t.me/hn_summary/82726</link>
+      <description><![CDATA[“操纵者改进网络钓鱼，但 Opsec 仍失败
+总部位于巴基斯坦的网络犯罪组织“操纵者”一直在努力清理自己的行为，但仍然未能隐藏其非法活动。尽管恳求 KrebsOnSecurity 删除以前的报道，但新的研究表明他们仍然参与网络钓鱼和垃圾邮件。由 Saim Raza 领导的核心品牌提供逃避安全工具检测的网络犯罪资源。 DomainTools 最近的调查结果显示，The Manipulators 的计算机已被黑客入侵，导致客户数据泄露。他们的主要产品HeartSender 针对各种互联网公司的用户提供垃圾邮件发送服务。尽管操纵者声称无罪，但他们继续从事非法活动并面临执法部门的审查。]]></description>
+      <guid>https://t.me/hn_summary/82726</guid>
+      <pubDate>Wed, 03 Apr 2024 14:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Annin Robotics AR4 是一款革命性的开放式、低成本 6DOF 桌面工业 [...]</title>
-      <link>https://t.me/hn_summary/82670</link>
-      <description><![CDATA[Annin Robotics AR4，开放式低成本六自由度桌面工业机器人
-Annin Robotics AR4 是一款革命性的开放式、低成本 6DOF 桌面工业机器人，可以使用铝部件或 3D 打印部件轻松组装。它广泛应用于教育项目和爱好者社区，可以免费访问 3D 打印文件、操作软件和装配手册。 AR4采用基于Arduino的teensy 4.1控制板和免费的python控制软件，使其与RoboDK软件兼容。 AR 系列的目标是为构建用于娱乐、教育或小型生产操作的 6 轴机器人手臂提供经济实惠的选择。与我们一起创建一款多功能且经济高效的机器人来执行实际任务。]]></description>
-      <guid>https://t.me/hn_summary/82670</guid>
-      <pubDate>Wed, 03 Apr 2024 06:47:02 GMT</pubDate>
+      <title>[媒体]物理学家经常难以有效地教授勒让德变换，导致 [...]</title>
+      <link>https://t.me/hn_summary/82725</link>
+      <description><![CDATA[勒让德变换，更好的解释
+物理学家常常很难有效地教授勒让德变换，导致热力学和分析力学的学生感到困惑。像 Goldstein 和 Landau 这样的标准教科书未能提供明确的定义和解释，让学生们陷入模棱两可的微分符号和不明确的转换动机。然而，隐藏在维基百科页面中的一个简单定义表明，勒让德变换是凸函数的对合，以基本方式将拉格朗日力学和哈密顿力学联系起来。理解这个关键概念对于掌握经典物理学和量子物理学的基础至关重要。 （根据故事文本的 68% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82725</guid>
+      <pubDate>Wed, 03 Apr 2024 14:43:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]法国立法者已达成协议，将建立公平的软件许可 [...]</title>
-      <link>https://t.me/hn_summary/82669</link>
-      <description><![CDATA[法国立法者严厉打击云垄断
-法国立法者已达成协议，将在法国法律中为云客户建立公平的软件许可，此举受到欧洲云基础设施提供商 (CISPE) 游说团体的欢迎。该协议是法国数字法案 Sécuriser et reguler l&#39;espace numérique (SREN) 的一部分，该法案旨在保护敏感数据并挑战可能实现监控的美国法律。该法案面临争议，Mozilla 反对早期版本。该协议没有提及微软的名字，但 CISPE 谴责微软和博通在云领域的不公平许可行为。欧盟正在考虑更新竞争立法以解决这些问题。]]></description>
-      <guid>https://t.me/hn_summary/82669</guid>
-      <pubDate>Wed, 03 Apr 2024 06:28:54 GMT</pubDate>
+      <title>[媒体]由于 XZ 安全问题，Ubuntu 24.04 beta 版本已推迟一周 [...]</title>
+      <link>https://t.me/hn_summary/82724</link>
+      <description><![CDATA[Ubuntu 24.04 Beta 因 XZ 噩梦而延迟
+由于 XZ 安全噩梦，Ubuntu 24.04 beta 版本已推迟一周，促使 Canonical 出于谨慎而重建所有二进制包。尽管没有证据表明其他软件包受到影响，但 xz-utils 软件包中受损的 XZ 代码导致了这一决定。这一意外的挫折将测试版发布时间从 4 月 4 日推迟到了 4 月 11 日。尽管有这样的延迟，Ubuntu 24.04 LTS 4 月 25 日的正式发布日期保持不变。请继续关注 Ubuntu Discourse 上有关这一发展情况的进一步更新。]]></description>
+      <guid>https://t.me/hn_summary/82724</guid>
+      <pubDate>Wed, 03 Apr 2024 14:42:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 令人震惊的消息是，XZ 压缩实用程序和库版本 5.6.0 和 5。 [...]</title>
-      <link>https://t.me/hn_summary/82668</link>
-      <description><![CDATA[XZ 后门如何工作
-令人震惊的是，XZ 压缩实用程序和库版本 5.6.0 和 5.6.1 附带了一个针对 OpenSSH 的后门。 Andres Freund 发现的后门是一种复杂的攻击，具有从构建时到运行时的多个阶段。社区对这次攻击的反应与技术方面一样有趣。后门设计使得在不直接检查的情况下很难检测到，并且逆向工程和理解其代码的努力正在进行中。幸运的是，该漏洞被及时发现，只有少数发行版短暂地发送了受感染的软件包。建议用户随时了解 XZ 相关的安全更新。]]></description>
-      <guid>https://t.me/hn_summary/82668</guid>
-      <pubDate>Wed, 03 Apr 2024 06:24:49 GMT</pubDate>
+      <title>[媒体] 作者澄清 NixOS 根据 Reproducible Buil 不可重现 [...]</title>
+      <link>https://t.me/hn_summary/82723</link>
+      <description><![CDATA[NixOS 不可重现
+作者澄清，尽管存在常见的误解，但根据可重复构建定义，NixOS 是不可重复的。本文深入探讨了密封、可重复和可验证构建的定义，强调了实现可重复性方面持续存在的挑战。作者分享了对该主题的个人投入，并鼓励参与跨 Linux 发行版的可重复构建工作。文章以积极的态度结尾，强调了工作的协作性质，并邀请读者为解决 Linux 生态系统中的可重复性挑战做出贡献。]]></description>
+      <guid>https://t.me/hn_summary/82723</guid>
+      <pubDate>Wed, 03 Apr 2024 14:31:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
