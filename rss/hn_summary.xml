@@ -4,89 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 03 Apr 2024 06:00:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 09:07:03 GMT</lastBuildDate>
     <item>
-      <title>[媒体]最新的比利时总统提议对p进行不加区分的聊天控制扫描 [...]</title>
-      <link>https://t.me/hn_summary/82667</link>
-      <description><![CDATA[针对数字隐私和加密的全面欧盟聊天控制提案攻击
-比利时总统府最新提出的对私人消息进行不加区别的聊天控制扫描以查找非法内容的提案已被泄露，引发了对其攻击数字隐私和加密的争议。欧洲议会议员帕特里克·布雷耶警告说，该提案允许无故搜索私人聊天内容，破坏了安全加密并侵犯了基本权利。尽管布雷耶和其他人提出了担忧，欧盟各国政府仍在推进该提案，冒着在三方谈判中损害网络安全的风险。布雷耶批评该提案存在技术缺陷和缺乏保障措施，并敦促公民捍卫自己的隐私和加密权利。请访问 chatcontrol.eu 了解更多信息。]]></description>
-      <guid>https://t.me/hn_summary/82667</guid>
-      <pubDate>Wed, 03 Apr 2024 06:00:38 GMT</pubDate>
+      <title>[媒体]VictoriaMetrics 首席技术官兼联合创始人 Aliaksandr Valialkin 批评 OpenTelemetry [...]</title>
+      <link>https://t.me/hn_summary/82677</link>
+      <description><![CDATA[OpenTelemetry 太复杂
+VictoriaMetrics 首席技术官兼联合创始人 Aliaksandr Valialkin 批评 OpenTelemetry 过于复杂和臃肿，导致集成问题和二进制大小增加。尽管面临挑战，可观测数据标准化的核心思想仍然被认为是有价值的。 Valialkin 认为 Prometheus 由于其效率和简单性而成为衡量指标的更好选择。 VictoriaMetrics 正在推进其自己的用于 OTel 指标支持的自定义库，同时还准备为其新产品 VictoriaLogs 采用日志协议。争议在于 OpenTelemetry 的复杂性和低效率，与标准化可观测数据的价值形成对比。]]></description>
+      <guid>https://t.me/hn_summary/82677</guid>
+      <pubDate>Wed, 03 Apr 2024 09:07:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Octopus v2 是一种专为超级代理设计的设备上语言模型，提供 adva [...]</title>
-      <link>https://t.me/hn_summary/82666</link>
-      <description><![CDATA[Octopus v2：超级代理的设备上语言模型
-Octopus v2 是一种专为超级代理设计的设备上语言模型，无需互联网连接即可提供先进的自然语言处理功能。这种创新模型可以实现实时交互和个性化响应，使其成为人工智能助手领域的游戏规则改变者。围绕设备模型和隐私问题的争议得到解决，重点是数据安全和用户控制。借助 Octopus v2，用户可以体验与 AI 助手更加无缝、高效的交互，为设备上的语言模型树立了新标准。]]></description>
-      <guid>https://t.me/hn_summary/82666</guid>
-      <pubDate>Wed, 03 Apr 2024 05:38:26 GMT</pubDate>
+      <title>巴尔的摩达利大楼的业主已提交请愿书，要求限制其责任[...]</title>
+      <link>https://t.me/hn_summary/82676</link>
+      <description><![CDATA[大理业主提交请愿书，要求将巴尔的摩大桥倒塌责任上限限制在 4370 万美元
+巴尔的摩 Dali 大楼的业主已提交请愿书，要求将其在最近桥梁倒塌事故中的赔偿责任上限限制为 4,370 万美元。此举引发争议，许多人质疑这笔金额是否足以支付受害者的损失和赔偿。该请愿书目前正在接受美国马里兰州地区法院的审查。请继续关注这个发展故事的更新。]]></description>
+      <guid>https://t.me/hn_summary/82676</guid>
+      <pubDate>Wed, 03 Apr 2024 09:05:59 GMT</pubDate>
     </item>
     <item>
-      <title>询问 HN：您是如何构建功能标志的？</title>
-      <link>https://t.me/hn_summary/82665</link>
-      <description><![CDATA[询问 HN：您是如何构建功能标志的？ 
-标题：询问 HN：您是如何构建功能标志的？
-您是否正在为您的公司构建功能标志而苦苦挣扎？加入 news.ycombinator.com 上的讨论，聆听轶事以及其他应对这一挑战的人的见解。发现创新的架构决策并获得宝贵的提示，以简化您的功能标志实施流程。分享您自己的经验，并向社区学习如何有效地为您的项目构建功能标志。立即加入对话并升级您的特色旗帜游戏！]]></description>
-      <guid>https://t.me/hn_summary/82665</guid>
-      <pubDate>Wed, 03 Apr 2024 05:18:17 GMT</pubDate>
+      <title>[媒体] 19 世纪，康涅狄格州哈特福德市的一群工人阶级孩子在埃德的带领下 [...]</title>
+      <link>https://t.me/hn_summary/82675</link>
+      <description><![CDATA[The Wide Awakes：一个 19 世纪穿着斗篷的反社会俱乐部奴隶制活动家
+19 世纪，康涅狄格州哈特福德的一群工人阶级孩子在埃迪·耶加森 (Eddie Yergason) 的领导下发起了一场名为“大觉醒”的斗篷运动，以应对美国因奴隶制而日益紧张的局势。觉醒运动成为一个强大的政治组织，挑战奴隶势力和民主党。他们的行动，包括火炬游行和与民主党人的冲突，凸显了哈特福德街头争取民主的斗争。这场令人惊讶且影响深远的青年运动在南北战争的爆发中发挥了重要作用，重塑了美国的民主。 （根据故事文本的 31% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82675</guid>
+      <pubDate>Wed, 03 Apr 2024 07:53:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]8美国</title>
-      <link>https://t.me/hn_summary/82664</link>
-      <description><![CDATA[美国八个州现已计划禁止销售汽油动力汽车
-美国至少有八个州计划在 2035 年之后禁止销售新型汽油动力汽车，其中加利福尼亚州处于领先地位。此举旨在应对气候变化和改善空气质量，汽车制造商面临着加速电动汽车生产的压力。虽然一些州已经接受了这些禁令，但弗吉尼亚州等其他州则遵守加州的排放标准，但尚未正式认可 2035 年禁令。包括通用汽车在内的主要汽车制造商已经开始转向电动汽车，欧盟批准到 2035 年全面禁止新型汽油动力汽车。]]></description>
-      <guid>https://t.me/hn_summary/82664</guid>
-      <pubDate>Wed, 03 Apr 2024 04:26:01 GMT</pubDate>
+      <title>[媒体]Capitally 的创始人 Rafał 深知财务独立的重要性 [...]</title>
+      <link>https://t.me/hn_summary/82674</link>
+      <description><![CDATA[显示 HN：针对任何国家/地区的无代码税务模型的投资跟踪器
+Capitally 的创始人 Rafał 深知财务独立的重要性以及长期投资在实现财务独立方面所发挥的作用。他发现现有工具限制过多且脱节，因此他创建了一个灵活且用户友好的投资跟踪器，允许用户无需编码即可为任何国家/地区建立税收模型。 Capitally 使个人能够制定并跟踪其独特的财务策略以实现独立。这种创新工具结合了电子表格的灵活性和应用程序的强大功能，使用户可以更轻松地掌控自己的财务未来。在 Twitter 或 LinkedIn 上联系 Rafał 了解更多信息。]]></description>
+      <guid>https://t.me/hn_summary/82674</guid>
+      <pubDate>Wed, 03 Apr 2024 07:47:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]3M 在软盘行业的兴衰是一个关于创新和 [...]</title>
-      <link>https://t.me/hn_summary/82663</link>
-      <description><![CDATA[3M软盘的兴衰
-3M 在软盘行业的兴衰是一个关于创新和艰难决策的迷人故事。虽然该公司以其高品质磁带和卷轴式磁带而闻名，但在 20 世纪 70 年代，它又出人意料地进军软盘领域。尽管是市场上的主要参与者，3M 最终还是于 1996 年退出了数据存储业务，创建了一家名为 Imation 的新公司。这一决定是消费技术格局不断变化以及该公司努力适应低成本、低利润模式的结果。这一举措标志着 3M 数据存储传统时代的结束。 （根据80%的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82663</guid>
-      <pubDate>Wed, 03 Apr 2024 04:20:56 GMT</pubDate>
+      <title>[媒体]Java 21 引入了虚拟线程，这是一种由 JVM 本身管理的新型线程，[...]</title>
+      <link>https://t.me/hn_summary/82673</link>
+      <description><![CDATA[使用 Java 21 虚拟线程进行数据库访问基准
+Java 21 引入了虚拟线程，这是一种由 JVM 本身管理的新型线程，旨在在不改变代码可读性的情况下提高性能。 MariaDB 的基准测试显示了令人印象深刻的吞吐量改进，某些查询的速度提高了 9 倍。但是，线程池使用情况和网络延迟等因素可能会影响结果。作者在 PostgreSQL 上运行了他们自己的基准测试，使用 JMH 来测试平台和虚拟线程的并行查询执行。结果显示，VirtualThreadPerTaskExecutor 在 MariaDB 上的性能提高了 118%，在 PostgreSQL 上的性能甚至更好。 Java 中这种创新的线程管理方法在数据库访问优化方面显示出了有希望的结果。 （根据 47% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82673</guid>
+      <pubDate>Wed, 03 Apr 2024 07:23:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]海军正面临着过时的问题，因为最近发生的事件表明它们在现代 [...]</title>
-      <link>https://t.me/hn_summary/82662</link>
-      <description><![CDATA[海军已经过时，但没有人会承认这一点 
-由于最近发生的事件显示出海军在现代战争中的局限性，因此面临着过时的问题。俄罗斯黑海舰队在与乌克兰的冲突中一直无效，而胡塞运动关闭苏伊士运河则暴露了海军力量的脆弱性。陆基反舰武器和无人机对抗海军力量的能力是一个重大挑战。由于军舰控制海上航线的有效性正受到不断发展的技术的挑战，对海军力量投送必要性的信念受到质疑。海战的未来充满不确定性，传统战略正在被重新评估。]]></description>
-      <guid>https://t.me/hn_summary/82662</guid>
-      <pubDate>Wed, 03 Apr 2024 04:18:52 GMT</pubDate>
+      <title>[媒体] 摘要：“Money for Nothing, Chips for Free”是一篇 Twitter 帖子，讨论了 [...]</title>
+      <link>https://t.me/hn_summary/82672</link>
+      <description><![CDATA[白花钱，免费筹码
+摘要：“Money for Nothing，Chips for Free”是一篇 Twitter 帖子，讨论在平台上启用 JavaScript 的好处。通过启用 JavaScript，用户可以访问各种特性和功能，从而增强他们的 Twitter 体验。该帖子鼓励用户启用 JavaScript 或切换到支持的浏览器以充分利用该平台。它强调了 JavaScript 在访问 Twitter 提供的所有功能方面的重要性。]]></description>
+      <guid>https://t.me/hn_summary/82672</guid>
+      <pubDate>Wed, 03 Apr 2024 07:12:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]微软最近提供了 FFmpeg，一个开源多媒体框架，一个小型的一次性 [...]</title>
-      <link>https://t.me/hn_summary/82661</link>
-      <description><![CDATA[微软向 FFmpeg 提供小额一次性付款，而不是支持合同
-微软最近提供了 FFmpeg（一种开源多媒体框架），以少量一次性付款代替传统的支持合同。这一决定在科技界引发了争议，一些人质疑微软支持开源项目的承诺。尽管遭到强烈反对，FFmpeg 仍决定接受付款并继续独立工作。此举凸显了围绕企业参与开源开发的持续争论以及 FFmpeg 等项目在维持财务可持续性方面面临的挑战。]]></description>
-      <guid>https://t.me/hn_summary/82661</guid>
-      <pubDate>Wed, 03 Apr 2024 03:54:43 GMT</pubDate>
+      <title>惠普最近因在用户安装 HP [...] 之前禁用打印机功能而受到批评。</title>
+      <link>https://t.me/hn_summary/82671</link>
+      <description><![CDATA[在您安装 HP Smart 应用之前，HP 会禁用打印机功能
+惠普最近因在用户安装 HP Smart 应用程序之前禁用打印机功能而受到批评。这一有争议的举动激起了客户的愤怒，他们认为自己的设备不应该因为下载应用程序而被劫持。许多人质疑这一决定背后的动机，并对惠普缺乏透明度表示失望。这种令人惊讶的策略让许多用户对该公司的客户服务方式感到沮丧和失望。请继续关注这个发展故事的更新。 #HP #打印机 #争议]]></description>
+      <guid>https://t.me/hn_summary/82671</guid>
+      <pubDate>Wed, 03 Apr 2024 06:55:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 不走整体之路？</title>
-      <link>https://t.me/hn_summary/82660</link>
-      <description><![CDATA[不在整体路径中？您仍然可以在线观看日全食
-无法到达日全食的全食路径吗？没问题！您仍然可以通过 NASA、美联社和其他组织的直播在线观看所有活动。从望远镜观察太阳到高空气球实验，您可以在舒适的家中看到很多东西。为了安全起见，请不要忘记带上日食眼镜，并准备好以全新的方式见证这一天体事件。]]></description>
-      <guid>https://t.me/hn_summary/82660</guid>
-      <pubDate>Wed, 03 Apr 2024 03:35:35 GMT</pubDate>
+      <title>[媒体]Annin Robotics AR4 是一款革命性的开放式、低成本 6DOF 桌面工业 [...]</title>
+      <link>https://t.me/hn_summary/82670</link>
+      <description><![CDATA[Annin Robotics AR4，开放式低成本六自由度桌面工业机器人
+Annin Robotics AR4 是一款革命性的开放式、低成本 6DOF 桌面工业机器人，可以使用铝部件或 3D 打印部件轻松组装。它广泛应用于教育项目和爱好者社区，可以免费访问 3D 打印文件、操作软件和装配手册。 AR4采用基于Arduino的teensy 4.1控制板和免费的python控制软件，使其与RoboDK软件兼容。 AR 系列的目标是为构建用于娱乐、教育或小型生产操作的 6 轴机器人手臂提供经济实惠的选择。与我们一起创建一款多功能且经济高效的机器人来执行实际任务。]]></description>
+      <guid>https://t.me/hn_summary/82670</guid>
+      <pubDate>Wed, 03 Apr 2024 06:47:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 为什么我的设备会在 2024 年 4 月 15 日失去对 Libby 和 OverDrive 的访问权限？</title>
-      <link>https://t.me/hn_summary/82659</link>
-      <description><![CDATA[为什么我的设备会在 2024 年 4 月 15 日失去对 Libby 和 OverDrive 的访问权限？
-2024 年 4 月 15 日，OverDrive 将实施安全升级，以保护用户数据隐私，导致某些使用较旧操作系统的 Android 设备无法访问数字图书馆。此更改是由于 Web 证书提供商 Let&#39;s Encrypt 终止了对 Android 7.1.0 及更低版本的支持。为了继续访问数字图书馆，建议用户将操作系统更新到至少 Android 7.1.1。拥有早期设备的 Kindle Fire 用户仍然可以通过其他方法阅读图书馆电子书。随时了解这些技术变化，以确保不间断地访问图书馆资源。]]></description>
-      <guid>https://t.me/hn_summary/82659</guid>
-      <pubDate>Wed, 03 Apr 2024 03:34:32 GMT</pubDate>
+      <title>[媒体]法国立法者已达成协议，将建立公平的软件许可 [...]</title>
+      <link>https://t.me/hn_summary/82669</link>
+      <description><![CDATA[法国立法者严厉打击云垄断
+法国立法者已达成协议，将在法国法律中为云客户建立公平的软件许可，此举受到欧洲云基础设施提供商 (CISPE) 游说团体的欢迎。该协议是法国数字法案 Sécuriser et reguler l&#39;espace numérique (SREN) 的一部分，该法案旨在保护敏感数据并挑战可能实现监控的美国法律。该法案面临争议，Mozilla 反对早期版本。该协议没有提及微软的名字，但 CISPE 谴责微软和博通在云领域的不公平许可行为。欧盟正在考虑更新竞争立法以解决这些问题。]]></description>
+      <guid>https://t.me/hn_summary/82669</guid>
+      <pubDate>Wed, 03 Apr 2024 06:28:54 GMT</pubDate>
     </item>
     <item>
-      <title>标题：Show HN：隐藏您不喜欢的内容 – 通过文本/链接/图像隐藏内容的 Chrome 扩展</title>
-      <link>https://t.me/hn_summary/82658</link>
-      <description><![CDATA[显示 HN：隐藏您不喜欢的内容 – 用于隐藏内容的 Chrome 扩展文字/链接/图片
-标题：Show HN：隐藏您不喜欢的内容 – 通过文本/链接/图像隐藏内容的 Chrome 扩展
-
-正在寻找一种方法来隐藏您在浏览时不想看到的内容？查看这个免费的 Chrome 扩展程序，它可以让您轻松隐藏文本、链接和图像。该扩展速度很快，针对顶级网站进行了优化，并让您可以完全控制过滤器。与其他选项不同，它允许通过单词选择轻松阻止。虽然它可能并不适合所有人，但对于那些寻求简单有效的方式来定制浏览体验的人来说，这是一个不错的选择。此外，为了方便起见，还有零跟踪和将过滤器保存在云上的选项。访问 www.hidewhatyoudislike.com 了解更多信息并尝试一下出去！]]></description>
-      <guid>https://t.me/hn_summary/82658</guid>
-      <pubDate>Wed, 03 Apr 2024 03:20:23 GMT</pubDate>
+      <title>[媒体] 令人震惊的消息是，XZ 压缩实用程序和库版本 5.6.0 和 5。 [...]</title>
+      <link>https://t.me/hn_summary/82668</link>
+      <description><![CDATA[XZ 后门如何工作
+令人震惊的是，XZ 压缩实用程序和库版本 5.6.0 和 5.6.1 附带了一个针对 OpenSSH 的后门。 Andres Freund 发现的后门是一种复杂的攻击，具有从构建时到运行时的多个阶段。社区对这次攻击的反应与技术方面一样有趣。后门设计使得在不直接检查的情况下很难检测到，并且逆向工程和理解其代码的努力正在进行中。幸运的是，该漏洞被及时发现，只有少数发行版短暂地发送了受感染的软件包。建议用户随时了解 XZ 相关的安全更新。]]></description>
+      <guid>https://t.me/hn_summary/82668</guid>
+      <pubDate>Wed, 03 Apr 2024 06:24:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
