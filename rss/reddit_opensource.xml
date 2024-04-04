@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 04 Apr 2024 06:07:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 12:09:13 GMT</lastBuildDate>
+    <item>
+      <title>Open CoDE 是公共管理部门用于开源软件交流的联合平台</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bvkadl/open_code_is_the_joint_platform_of_the_public/</link>
+      <description><![CDATA[ 由   提交 /u/Doener23   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bvkadl/open_code_is_the_joint_platform_of_the_public/</guid>
+      <pubDate>Thu, 04 Apr 2024 11:01:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>德国政府将 30,000 台电脑转移到 LibreOffice（石勒苏益格-荷尔斯泰因州）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bvipi5/german_state_moving_30000_pcs_to_libreoffice/</link>
+      <description><![CDATA[       由   提交/u/buovjaga  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bvipi5/german_state_moving_30000_pcs_to_libreoffice/</guid>
+      <pubDate>Thu, 04 Apr 2024 09:17:55 GMT</pubDate>
+    </item>
     <item>
       <title>隆重推出 selfh.st/apps，一个自托管软件目录</title>
       <link>https://www.reddit.com/r/opensource/comments/1bvencw/introducing_selfhstapps_a_directory_of_selfhosted/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[   /u/dht  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bv8nza/xrdebugger_debug_your_expressjs_in_virtual_reality/</guid>
       <pubDate>Thu, 04 Apr 2024 00:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有一个自由言论浏览器插件的想法，您可能会感兴趣。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bv40ts/i_have_an_idea_for_a_free_speech_browser_plugin/</link>
-      <description><![CDATA[我一直在思考我们今天在维护在线言论自由方面面临的挑战，特别是在内容审核可能阻碍公开讨论的主要平台上。我的想法围绕着创建一个浏览器插件，旨在通过使用户能够在任何网站上发布和查看未经审查的评论来授权用户，利用加密来确保隐私和安全。 该插件的工作原理是允许用户编写网页上的评论，加密这些评论，然后将它们直接嵌入到页面上，只有拥有该插件（和正确的解密密钥）的其他用户才能查看和交互。每条评论都将标有识别哈希值和时间戳，以无缝管理和组织解密过程。 该项目不仅仅是绕过内容审核，而是在主要网站上创建一个用于自由表达的去中心化空间，利用隐私和加密的原则来保护用户的发言权和分享想法的权利。在数字权利受到越来越严格审查的时代，这个插件可以作为倡导和自由的工具。  你认为这是一个值得追求的好主意吗？不幸的是，我太忙了，无法承担这样的任务，但也许你们中的一个人会认为它值得追求。我想它甚至可以使用区块链技术？   由   提交/u/Educational_Log_9271   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bv40ts/i_have_an_idea_for_a_free_speech_browser_plugin/</guid>
-      <pubDate>Wed, 03 Apr 2024 20:55:57 GMT</pubDate>
     </item>
     <item>
       <title>Jpegli 简介：新的 JPEG 编码库</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[我的灵魂一片混乱。 为什么我们作为一个世界范围的人类集体不能创造一个真正优秀的 Adob​​e Acrobat 免费开源替代品？ 我已经尝试过一些非常好的免费封闭源替代品，例如 PDF24 和 PDFgear，甚至付费替代品，例如 nitroPDF 和 ABBY。它们都不错，但不是免费的，也不是开源的。 到目前为止我最喜欢的是 PDFgear。开发人员很棒，有一个很棒的网站，在 Reddit 上很活跃，等等，但没有办法支持它的开发。然而，如果它是开源的，人们能够支持它的开发并且人们参与其中，我相信它会变成一个 Acrobat 杀手级应用程序。已经快到了。如果它是自由开源软件，那么它将永远是一个杀手级应用程序。目前，它是免费的，但闭源意味着它很可能在未来被货币化。 为什么有这么多其他伟大的开源项目适用于各种软件类型，但还没有创建任何东西与 Acrobat 竞争？ Acrobat 的许可成本巨大且毫无意义。我宁愿花钱支持一个开源项目，这样我们就可以摆脱 Adob​​e，无论需要多长时间。  目前是否有 Acrobat 值得竞争对手的开源软件（免费或付费）？    由   提交 /u/HeihachiHibachi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bu1gdi/adobe_acrobat_foss_alternative_to_end_all/</guid>
       <pubDate>Tue, 02 Apr 2024 15:23:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qpackt - 21 世纪的 Web 服务器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bu0ftq/qpackt_web_server_for_21st_century/</link>
-      <description><![CDATA[嗨！ 我正在创建  Qpackt - 一个具有内置分析功能和更多功能的网络服务器。  主要功能是：  能够提供网站的多个版本 内置分析（基于 http 或自定义事件） GUI 配置  完整功能列表：https://qpackt.com/features.html  任何反馈（或 GH 星）都将受到高度赞赏！   由   提交/u/Over_Intention3342   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bu0ftq/qpackt_web_server_for_21st_century/</guid>
-      <pubDate>Tue, 02 Apr 2024 14:41:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
