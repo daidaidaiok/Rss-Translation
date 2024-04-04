@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 04 Apr 2024 03:08:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 06:07:45 GMT</lastBuildDate>
+    <item>
+      <title>隆重推出 selfh.st/apps，一个自托管软件目录</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bvencw/introducing_selfhstapps_a_directory_of_selfhosted/</link>
+      <description><![CDATA[       由   提交/u/vmbrasseur  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bvencw/introducing_selfhstapps_a_directory_of_selfhosted/</guid>
+      <pubDate>Thu, 04 Apr 2024 04:48:17 GMT</pubDate>
+    </item>
     <item>
       <title>XR 调试器 |在虚拟现实中调试 ExpressJS</title>
       <link>https://www.reddit.com/r/opensource/comments/1bv8nza/xrdebugger_debug_your_expressjs_in_virtual_reality/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨！ 我正在创建  Qpackt - 一个具有内置分析功能和更多功能的网络服务器。  主要功能是：  能够提供网站的多个版本 内置分析（基于 http 或自定义事件） GUI 配置  完整功能列表：https://qpackt.com/features.html  任何反馈（或 GH 星）都将受到高度赞赏！   由   提交/u/Over_Intention3342   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bu0ftq/qpackt_web_server_for_21st_century/</guid>
       <pubDate>Tue, 02 Apr 2024 14:41:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚发布的 NocoDB：0.205.0：日历和改进的表格🚀（FOSS Airtable 替代品）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1btysj6/just_released_nocodb_02050_calendar_revamped/</link>
-      <description><![CDATA[       由   提交/u/dstala  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1btysj6/just_released_nocodb_02050_calendar_revamped/</guid>
-      <pubDate>Tue, 02 Apr 2024 13:30:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
