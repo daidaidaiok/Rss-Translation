@@ -4,7 +4,56 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 07 Apr 2024 00:20:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 03:06:18 GMT</lastBuildDate>
+    <item>
+      <title>寻找可以显示文件以及条款和条件的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1bxu0e3/looking_for_a_software_that_can_present_files/</link>
+      <description><![CDATA[您好，我有一个客户，在客户购买之前向客户提供艺术品证明。  他们的典型工作流程是通过电子邮件向客户发送 PDF，客户必须回复“已批准”或回复他们想要对艺术品进行的任何更改。  他们正在寻找一种软件，可以在客户批准一切之前上传艺术品校样并添加条款和条件按钮。  它可能看起来像这样： 客户在软件上审查艺术作品文件，必须单击“我同意条款和条件”的按钮，然后单击“批准”。或者，如果他们不同意，他们可以添加一些关于他们想要更改的内容的评论。  感谢您提供的所有帮助！   由   提交 /u/OreganoTaco   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bxu0e3/looking_for_a_software_that_can_present_files/</guid>
+      <pubDate>Sun, 07 Apr 2024 03:05:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找具有相同功能的 TinyTask 宏软件的替代品</title>
+      <link>https://www.reddit.com/r/software/comments/1bxt48x/looking_for_an_alternative_to_tinytask_macro/</link>
+      <description><![CDATA[大家好， ​ 我看看是否有人知道任何替代方案？我尝试在 VMWare Pro 17 中使用 TinyTask，但每次访问虚拟机时它都会中断。 ​ 是否有任何软件可以实现这种连续操作TinyTask 提供的录制和流畅播放功能，但能够在任何软件上使用，但受到限制 ​ 我确实尝试过管理员并在设置和论坛中搜索 TinyTask，但是它没有帮助，所以如果有人知道任何替代方案，那么这将是一个很大的帮助，谢谢   由   提交 /u/SnowBorzoi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bxt48x/looking_for_an_alternative_to_tinytask_macro/</guid>
+      <pubDate>Sun, 07 Apr 2024 02:20:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>“使用 termux、termux-usb、usbredirect 将 USB 设备连接到 QEMU”[注意“Update-1”到“Update-9”以及源代码中的注释。]</title>
+      <link>https://www.reddit.com/r/software/comments/1bxsh6p/connecting_a_usb_device_to_qemu_using_termux/</link>
+      <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bxsh6p/connecting_a_usb_device_to_qemu_using_termux/</guid>
+      <pubDate>Sun, 07 Apr 2024 01:48:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以从csv导入数据的时间线软件</title>
+      <link>https://www.reddit.com/r/software/comments/1bxr9jc/timeline_software_that_can_import_data_from_csv/</link>
+      <description><![CDATA[我想创建一个漂亮的时间线，最终将嵌入到网站上。时间线的信息将通过谷歌表单收集（我正在从很多人那里收集信息），以便我最终可以将其全部作为 csv 文件。我正在寻找时间线软件，我可以通过这个 csv 文件轻松上传所有时间线信息（而不是手动输入日期和信息）。该软件不一定是免费的。有什么建议吗？  Tiki Toki 看起来可以满足要求，但我不认为它直接需要 csv 文件。    由   提交/u/QuirkyAvocado  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bxr9jc/timeline_software_that_can_import_data_from_csv/</guid>
+      <pubDate>Sun, 07 Apr 2024 00:49:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>购买一个软件</title>
+      <link>https://www.reddit.com/r/software/comments/1bxqwax/buy_a_software/</link>
+      <description><![CDATA[您好，我想购买（获取平台本身）一个类似于 Telegram 或 Discord 的平台，它不需要任何用户，只需要工作。有谁知道有人制作过一个或者我可以在哪里购买吗？   由   提交 /u/Prize-Asparagus-3782   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bxqwax/buy_a_software/</guid>
+      <pubDate>Sun, 07 Apr 2024 00:31:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于批量编辑 iPhone 照片和视频元数据的应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1bxqrkb/app_to_bulk_edit_iphone_photo_and_video_metadata/</link>
+      <description><![CDATA[嘿，我最近和朋友去度假了。我认为将所有照片和视频放入一个文件夹中会很有趣，这样我们就可以按规范顺序查看它们，但我意识到我朋友 iPhone 上的照片有奇怪的“修改日期”字样。信息。它非常不一致，甚至没有顺序。它们都有“拍摄日期”。我认为这是准确的。有没有一个应用程序可以复制“拍摄日期”并将其用作“修改日期”批量？   由   提交 /u/TeleBlue   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bxqrkb/app_to_bulk_edit_iphone_photo_and_video_metadata/</guid>
+      <pubDate>Sun, 07 Apr 2024 00:25:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于批量编辑 iPhone 照片和视频元数据的应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1bxqrf8/app_to_bulk_edit_iphone_photo_and_video_metadata/</link>
+      <description><![CDATA[嘿，我最近和朋友去度假了。我认为将所有照片和视频放入一个文件夹中会很有趣，这样我们就可以按规范顺序查看它们，但我意识到我朋友 iPhone 上的照片有奇怪的“修改日期”字样。信息。它非常不一致，甚至没有顺序。它们都有“拍摄日期”。我认为这是准确的。有没有一个应用程序可以复制“拍摄日期”并将其用作“修改日期”批量？   由   提交 /u/TeleBlue   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bxqrf8/app_to_bulk_edit_iphone_photo_and_video_metadata/</guid>
+      <pubDate>Sun, 07 Apr 2024 00:25:04 GMT</pubDate>
+    </item>
     <item>
       <title>导出 WhatsApp 聊天 +40.000</title>
       <link>https://www.reddit.com/r/software/comments/1bxq2op/export_whatsapp_chat_40000/</link>
@@ -22,7 +71,7 @@
     <item>
       <title>Windows 11 的 RoundedTB 替代方案</title>
       <link>https://www.reddit.com/r/software/comments/1bxnu9i/roundedtb_alternative_for_windows_11/</link>
-      <description><![CDATA[所以我最近又回到了 Window 来玩游戏，但在过去 18 多年里我一直是 Mac 用户。也许更长。无论如何，我真的很喜欢 Mac 上的扩展坞。感觉不错。我发现 RoundedTB 可以让我做一个码头替代品，但不幸的是它不再积极开发。有人可以向我指出一些可以在 Windows 11 中实现此操作而不占用资源或导致问题的方法吗？感谢大家。    由   提交 /u/nickccal   [链接] [评论]]]></description>
+      <description><![CDATA[所以我最近又回到了 Window 来玩游戏，但在过去 18 多年里我一直是 Mac 用户。也许更长。无论如何，我真的很喜欢 Mac 上的扩展坞。感觉不错。我发现 RoundedTB 可以让我做一个码头替代品，但不幸的是它不再积极开发。有人可以向我指出一些可以在 Windows 11 中实现此操作而不占用资源或导致问题的方法吗？感谢大家。    由   提交/u/nickccal  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bxnu9i/roundedtb_alternative_for_windows_11/</guid>
       <pubDate>Sat, 06 Apr 2024 22:14:47 GMT</pubDate>
     </item>
@@ -36,7 +85,7 @@
     <item>
       <title>尽快需要帮助</title>
       <link>https://www.reddit.com/r/software/comments/1bxlskh/need_help_asap/</link>
-      <description><![CDATA[大家好，我的一位朋友现在已经将她的手机恢复出厂设置，即使我告诉她不要这样做，因为我可以帮忙，但现在有人可以建议我吗一种无需 root 设备即可从手机恢复照片数据的方法？尸检一词有“waragerah”吗？ （其 Android 华为设备）   由   提交 /u/PreparationPale8949   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我的一位朋友现在已经将她的手机恢复出厂设置，即使我告诉她不要这样做，因为我可以帮忙，但现在有人可以建议我吗一种无需 root 设备即可从手机恢复照片数据的方法？尸检一词有“wagarah”吗？ （它是 Android 华为设备）   由   提交 /u/PreparationPale8949   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bxlskh/need_help_asap/</guid>
       <pubDate>Sat, 06 Apr 2024 20:46:40 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[ 由   提交/u/Desynchronized-  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bxijoh/playlist_downloader_for_youtube/</guid>
       <pubDate>Sat, 06 Apr 2024 18:29:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>轻量级 CLI 音乐播放器，支持添加来自 Soundcloud 和 Youtube 的播放列表和歌曲。您可以将不同来源的歌曲合并到一个播放列表中。</title>
-      <link>https://www.reddit.com/r/software/comments/1bxido2/lightweight_cli_music_player_with_support_for/</link>
-      <description><![CDATA[ 由   提交/u/jooapa  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bxido2/lightweight_cli_music_player_with_support_for/</guid>
-      <pubDate>Sat, 06 Apr 2024 18:22:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用什么工具</title>
-      <link>https://www.reddit.com/r/software/comments/1bxg6le/what_tool_to_use/</link>
-      <description><![CDATA[如果我想将一些文件发布/存储在每个扫描二维码/输入链接的人都可以访问的地方，我可以使用什么可以下载吗？   由   提交/u/lotfii03  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bxg6le/what_tool_to_use/</guid>
-      <pubDate>Sat, 06 Apr 2024 16:50:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>学生计划应用程序</title>
-      <link>https://www.reddit.com/r/software/comments/1bxg0uq/student_planner_app/</link>
-      <description><![CDATA[让我们列出最好的软件（最好是免费和开源的），这些软件可以帮助学生规划他们的学年或使学校变得更加有趣和提高工作效率。就我个人而言，我花了很长时间寻找一款可以为学生（作为我自己）做到这一点的软件，并且我坚持认为社区应该为这一切做出贡献。 我将在这里编译您推荐的所有应用程序的列表（帮助学生计划学年的应用程序）。本节中的应用程序应包括：  一个简单的日历系统，您可以在其中输入课程、时间表、假期、其他一次性事件等 A 待办事项您可以在其中输入作业的部分（包括基本列表、检查、提醒等内容） 考试部分  此外，您还可以推荐其他应用程序、网站和 Chrome/Firefox 扩展程序可以帮助学生完成学年的学业。这包括番茄计时器等。请不要推荐 CAD 软件或办公套件等应用程序，因为此类软件已经有详细记录。   School Planner Apps 操作系统/平台描述 主题 Mac iPhone iPad 一个适合具有现代用户界面的学生的最佳规划应用程序。唯一的缺陷是基于订阅的定价，并且该应用程序仅在 macOS 上可用。此外，该应用程序是专有的。   Tabby&lt; /td&gt; Windows MacOS Android 已停产规划应用程序，开源且免费。使用 Electron 构建功能齐全的规划应用程序。     其他与学校相关的应用程序&lt; /th&gt; 操作系统/平台 描述    Pomotroid Windows MacOS Linux 简单且美观的番茄钟计时器。     由   提交 /u/Eduard_von_Hunedoara   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bxg0uq/student_planner_app/</guid>
-      <pubDate>Sat, 06 Apr 2024 16:43:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找创建小图像文件的基本软件 - 需要制作 .SVG 文件</title>
-      <link>https://www.reddit.com/r/software/comments/1bxfw38/looking_for_basic_software_to_create_small_image/</link>
-      <description><![CDATA[大家好。我需要将小 .jpg 文件转换为 .svg。功能齐全的“套件”像Adobe Illustrator这样的软件太多而且太贵。此外，它还需要购买和下载（不是基于云或订阅的），因为它需要在不（轻松）连接到互联网的私人和安全区域后面使用。  我的想法类似于 MS-Paint 类型的程序。 有什么建议吗？ 提前致谢。    由   提交/u/curtis_e_melnick   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bxfw38/looking_for_basic_software_to_create_small_image/</guid>
-      <pubDate>Sat, 06 Apr 2024 16:38:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>激活软件“不再受支持”</title>
-      <link>https://www.reddit.com/r/software/comments/1bxea8p/activating_software_no_longer_supported/</link>
-      <description><![CDATA[我真傻，但我在 Ebay 上买了一张战略钓鱼系统 Contour Elite 的旧安装光盘。它安装得很好，但无法激活，尽管我有密钥。显然旧的网络连接不再存在。我真的很想玩一下这个软件。有什么建议么？谢谢！   由   提交/u/CCPikie  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bxea8p/activating_software_no_longer_supported/</guid>
-      <pubDate>Sat, 06 Apr 2024 15:29:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁能告诉我在女士团队中进行假眼神交流的任何方法</title>
-      <link>https://www.reddit.com/r/software/comments/1bxclu6/can_anyone_please_tell_me_any_method_to_make_fake/</link>
-      <description><![CDATA[我了解 nvidia 广播，但我没有启用 RTX 的 GPU。有人可以帮忙吗？我将非常感激🙏🏻   由   提交/u/DrAjinkya28   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bxclu6/can_anyone_please_tell_me_any_method_to_make_fake/</guid>
-      <pubDate>Sat, 06 Apr 2024 14:15:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>在kmplayer中剪切视频</title>
-      <link>https://www.reddit.com/r/software/comments/1bxa6hv/cutting_videos_in_kmplayer/</link>
-      <description><![CDATA[几年前我一直在 kmplayer 中剪辑视频。过去效果很好。 我现在从较长的节目中剪掉了一些 30 秒的片段。但由于某种原因，当我尝试播放它们时，声音与视频不同步，而且播放速度似乎加倍。不确定发生了什么。 我的印象是这是一个简单的修复。有人知道该怎么做吗？   由   提交/u/GothamKnight3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bxa6hv/cutting_videos_in_kmplayer/</guid>
-      <pubDate>Sat, 06 Apr 2024 12:19:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
