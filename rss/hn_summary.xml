@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 07 Apr 2024 03:06:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 11:52:31 GMT</lastBuildDate>
     <item>
-      <title>[媒体]研究人员开发出一种单分子晶体管，利用量子[...]</title>
-      <link>https://t.me/hn_summary/83318</link>
-      <description><![CDATA[晶体管利用量子干涉
-研究人员开发了一种单分子晶体管，利用量子干涉来提高效率并减少废热。通过精心设计由连接到石墨烯电极的锌卟啉分子制成的晶体管，电子以波状方式流动，从而在晶体管开启时产生相长干涉，在晶体管关闭时产生相消干涉。这种设计最大限度地减少了漏电流，并允许较低的电压开关，从而使晶体管更加高效。尽管这项技术前景广阔，但研究人员警告称，在将其集成到产品中之前还需要做更多的工作。该研究发表在《自然·纳米技术》杂志上。]]></description>
-      <guid>https://t.me/hn_summary/83318</guid>
-      <pubDate>Sun, 07 Apr 2024 03:06:10 GMT</pubDate>
+      <title>[媒体]3M 已获得针对 PFAS 污染的数十亿美元和解协议的最终批准 [...]</title>
+      <link>https://t.me/hn_summary/83352</link>
+      <description><![CDATA[法院批准针对饮用水中的 PFAS 赔偿 300 万美元&lt; /a&gt;
+3M 已获得针对饮用水中 PFAS 污染的数十亿美元和解协议的最终批准，该污染影响了东部都会区的社区。该和解是该国最大的此类解决方案之一，它对供水商因 PFAS 造成的污染进行补偿，PFAS 由于在环境中持久存在而被称为“永远的化学物质”。和解协议将有助于支付从系统中过滤 PFAS 和污染测试的费用。 3M 承诺到 2025 年底停止生产和使用 PFAS。此次和解标志着解决饮用水中普遍存在的 PFAS 污染问题迈出了重要一步。]]></description>
+      <guid>https://t.me/hn_summary/83352</guid>
+      <pubDate>Sun, 07 Apr 2024 11:52:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在我关于新 CSS 逻辑属性的最新帖子中，我详细介绍了 CSS float 的更新 [...]</title>
-      <link>https://t.me/hn_summary/83317</link>
-      <description><![CDATA[新 CSS 逻辑属性
-在我关于新 CSS 逻辑属性的最新文章中，我详细介绍了 CSS 浮动、文本对齐等方面的更新。好消息是 CSS Grid 和 Flexbox 已经使用新方法构建，因此不需要更新。了解具有逻辑属性的工作流乍一看可能很复杂，但实际上非常简单。然而，有一些问题需要考虑，例如像 margin 这样的速记属性无法按预期工作。我在 Github 上提出了如何解决这个问题的建议。总体而言，向逻辑属性的过渡为网页设计和语言支持开辟了新的可能性。看看我的演示并让我知道您的想法！]]></description>
-      <guid>https://t.me/hn_summary/83317</guid>
-      <pubDate>Sun, 07 Apr 2024 02:55:03 GMT</pubDate>
+      <title>[媒体]由于两群稀有的蝉同时出现，数以万亿计的蝉将在美国出现，创造[...]</title>
+      <link>https://t.me/hn_summary/83351</link>
+      <description><![CDATA[两窝周期性昆虫同时出现，美国将迎来数万亿蝉
+由于两群稀有的蝉同时出现，数以万亿计的蝉将在美国出现，产生几个世纪以来从未见过的刺耳声音。这项被称为“cicada-geddon”或“cicada-palooza”的活动将见证最大的周期性蝉群体“Brood XIX”在地下 13 年后与每 17 年出现一次的“Brood XII”一起出现。这一自然奇观涉及美国所有七种周期性物种，将成为一场盛大的生态奇观。虽然有些人计划前往亲眼目睹这种现象，但另一些人则对这种昆虫保持警惕，这些昆虫无害，但在受到威胁时可能会排出尿液。气候变化可能会扰乱它们的出现，使之成为一次独特且令人惊叹的事件。]]></description>
+      <guid>https://t.me/hn_summary/83351</guid>
+      <pubDate>Sun, 07 Apr 2024 11:38:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]开源计费平台 Lago 在 Pivoti 之后获得了 2200 万美元的融资 [...]</title>
-      <link>https://t.me/hn_summary/83316</link>
-      <description><![CDATA[Lago，开源 Stripe 替代品，银行融资 2200 万美元&lt; /a&gt;
-Lago 是一个开源计费平台，在转向营销工具后已获得 2200 万美元的融资。这家总部位于巴黎的初创公司由首席执行官 Anh-Tho Chuong 领导，目标客户是寻求可定制计费解决方案的开发人员。投资者包括 FirstMark 和 Y Combinator，估值为 1 亿美元。 Lago 的意外成功源于黑客新闻的一篇文章，该文章强调了工程师的计费挑战，激发了人们的兴趣和资金。尽管面临来自科技巨头的竞争，Lago 的可扩展方法仍对初创公司有吸引力，例如 Mistral.ai&lt; /a&gt;，拥抱开源精神。未来的计划包括数据分析和支付编排。该公司从营销到计费的独特历程展示了其在拥挤的市场中的适应能力和创新能力。]]></description>
-      <guid>https://t.me/hn_summary/83316</guid>
-      <pubDate>Sun, 07 Apr 2024 02:52:58 GMT</pubDate>
+      <title>该项目是一个登陆页面生成器，允许用户使用电子邮件创建登陆页面 [...]</title>
+      <link>https://t.me/hn_summary/83350</link>
+      <description><![CDATA[显示 HN：在几分钟内生成包含电子邮件收集的登陆页面
+该项目是一个登陆页面生成器，允许用户在几分钟内创建包含电子邮件收集的登陆页面。它通过从模板和配置文件生成页面来简化流程，并且能够轻松定义多个页面。电子邮件收集是通过一个简单的表单完成的，该表单将电子邮件发送到后端，后端将它们存储在 CSV 文件中。该项目的独特之处在于，前端和后端均由同一个容器提供服务，每个工作人员一个进程。此外，自述文件还包括有关设置配置、使用 Docker 运行项目以及设置注册通知的说明。]]></description>
+      <guid>https://t.me/hn_summary/83350</guid>
+      <pubDate>Sun, 07 Apr 2024 11:28:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国</title>
-      <link>https://t.me/hn_summary/83315</link>
-      <description><![CDATA[美国、加拿大禁止所有形式的鲑鱼捕捞 7 年阿拉斯加育空地区
-美国和加拿大已对阿拉斯加育空地区实施为期七年的一切形式的鲑鱼捕捞禁令，以重建奇努克鲑鱼种群。该协议的目标是让 71,000 条鱼到达加拿大的产卵场，最低目标是让 42,500 条鱼穿越边境。过度捕捞、孵化场鱼类的竞争、栖息地退化和气候变化被认为是导致鲑鱼种群减少的因素。该协议还允许有限的捕捞机会，并强调种群评估、研究、传统知识和减少兼捕。小鲑鱼/卡马克原住民酋长和其他人认为这是朝着鲑鱼保护迈出的积极一步。]]></description>
-      <guid>https://t.me/hn_summary/83315</guid>
-      <pubDate>Sun, 07 Apr 2024 02:42:51 GMT</pubDate>
+      <title>[媒体]LLM，即大型语言模型，是自然语言处理方面的强大工具，但是 [...]</title>
+      <link>https://t.me/hn_summary/83349</link>
+      <description><![CDATA[LLM 无法可靠地模拟图灵机&lt; br/&gt;
+LLM（即大型语言模型）是自然语言处理领域的强大工具，但在可靠地模拟图灵机方面存在局限性。虽然法学硕士可以执行许多复杂的任务，但模拟图灵机及其精确的逐步操作的复杂性超出了他们的能力。这凸显了了解不同人工智能模型的优缺点的重要性。这提醒我们，即使是最先进的技术也有其局限性，我们必须不断突破创新的界限来克服这些挑战。]]></description>
+      <guid>https://t.me/hn_summary/83349</guid>
+      <pubDate>Sun, 07 Apr 2024 11:27:14 GMT</pubDate>
     </item>
     <item>
-      <title>在 Blacksmith，我们了解 Docker 层缓存在 GitHub Actions 工作流程中的重要性。</title>
-      <link>https://t.me/hn_summary/83314</link>
-      <description><![CDATA[缓存为王：GitHub Actions 中的 Docker 层缓存指南&lt; /a&gt;
-在 Blacksmith，我们了解 Docker 层缓存在 GitHub Actions 工作流程中的重要性。在这份综合指南中，我们探讨了三种不同的缓存策略，以帮助您选择最适合您的项目的策略。从使用 GitHub 的本机缓存到利用注册表作为缓存后端，我们详细分析了每种方法的优缺点。令人惊讶的是，注册表缓存后端为 Docker 构建提供了一流的解决方案，支持多阶段构建中的中间层缓存并提供自定义选项。请继续关注 Blacksmith 的更多性能提升功能，并联系我们寻求优化您的 CI 工作流程的帮助。]]></description>
-      <guid>https://t.me/hn_summary/83314</guid>
-      <pubDate>Sun, 07 Apr 2024 02:00:36 GMT</pubDate>
+      <title>www.sbert.net 上的 SentenceTransformers Python 框架提供了一个强大的工具来生成 [...]</title>
+      <link>https://t.me/hn_summary/83348</link>
+      <description><![CDATA[SentenceTransformers：用于句子、文本和图像嵌入的 Python 框架
+www.sbert.net 上的 SentenceTransformers Python 框架提供了用于生成句子、文本甚至图像嵌入的强大工具。 Thakur 等人最近的一项研究。提出了一种称为 Augmented SBERT 的创新数据增强方法，该方法显着改进了成对句子评分任务的双编码器。该方法在 2021 年计算语言学协会北美分会会议上进行了展示，强调了其增强自然语言处理模型性能的潜力。增强型 SBERT 方法引入了数据增强技术的新维度，有望在计算语言学领域取得令人兴奋的进步。]]></description>
+      <guid>https://t.me/hn_summary/83348</guid>
+      <pubDate>Sun, 07 Apr 2024 11:25:11 GMT</pubDate>
     </item>
     <item>
-      <title>令人惊讶的是，佛蒙特州里士满市的一名镇雇员降低了氟化物含量 [...]</title>
-      <link>https://t.me/hn_summary/83313</link>
-      <description><![CDATA[一名城镇雇员多年来降低了水中的氟化物 
-令人惊讶的是，佛蒙特州里士满市的一名镇雇员在公众不知情的情况下降低了饮用水中的氟化物含量，引发了人们对牙齿健康的争议和担忧。做出这一决定是由于对氟化物的来源和建议含量的担忧，该员工出于公共健康的考虑。此举震惊了居民和医生，他们强调了氟化物在预防牙齿疾病方面的重要性。该员工后来为争议道歉，水务委员会投票决定将水恢复到全面氟化。该事件凸显了水管理中透明度和遵守公共卫生标准的重要性。]]></description>
-      <guid>https://t.me/hn_summary/83313</guid>
-      <pubDate>Sun, 07 Apr 2024 01:49:29 GMT</pubDate>
+      <title>[媒体] 有处理器实现整数平方根指令吗？</title>
+      <link>https://t.me/hn_summary/83347</link>
+      <description><![CDATA[是否有处理器实现整数平方根指令？ 
+Web 内容讨论了处理器中整数平方根指令的实现。它解释了最有效的方法涉及使用牛顿-拉夫森迭代来计算平方根。 “Quake 方法”被强调为一种流行的方法。该内容还深入探讨了计算平方根时精度的重要性以及 CPU 历史上如何缺乏快速整数乘法器。争议在于平方根计算是否需要极端精确的争论。作者提供了使用不依赖乘法器的二分搜索实现的代码。总体而言，内容挑战了单指令平方根实现的通用性。]]></description>
+      <guid>https://t.me/hn_summary/83347</guid>
+      <pubDate>Sun, 07 Apr 2024 11:16:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]橙色蒸汽漏斗是纽约的象征。</title>
-      <link>https://t.me/hn_summary/83312</link>
-      <description><![CDATA[橙色蒸汽漏斗是纽约的象征。它们有什么用？
-点缀在纽约市天际线的标志性橙色蒸汽漏斗不仅仅是为了展示，它们还是该市蒸汽分配系统的重要组成部分。该系统的历史可以追溯到 142 年前，是美国最古老、规模最大的系统，拥有 105 英里的管道，在高压和极端温度下向曼哈顿的建筑物输送蒸汽。联合爱迪生公司利用该网络为城市提供供暖、制冷和其他商业服务。这些蒸汽烟囱不仅是纽约的象征，也是纽约基础设施的重要组成部分。]]></description>
-      <guid>https://t.me/hn_summary/83312</guid>
-      <pubDate>Sun, 07 Apr 2024 01:07:15 GMT</pubDate>
+      <title>[媒体]通过[...]的摘录探索数学结构主义的迷人世界</title>
+      <link>https://t.me/hn_summary/83346</link>
+      <description><![CDATA[结构主义作为数学哲学
+通过《数学哲学讲座》的摘录，探索数学结构主义的迷人世界。深入研究强调结构相对于单个数学对象的重要性的哲学立场，这种立场植根于戴德金的范畴结果。探索莱布尼茨结构、刚性关系和同构轨道的概念，揭示数学结构的本质。了解分类如何在识别和表征自然数和实数等数学领域中发挥至关重要的作用。这一发人深省的内容挑战了传统的数学观点，并为结构科学提供了全新的视角。 （根据故事文本的 45% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/83346</guid>
+      <pubDate>Sun, 07 Apr 2024 10:35:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在本文中，作者探索了 Navier-S 的规范哈密顿公式 [...]</title>
-      <link>https://t.me/hn_summary/83311</link>
-      <description><![CDATA[纳维-斯托克斯问题的规范哈密顿公式 
-在本文中，作者探索了纳维-斯托克斯问题的典型哈密顿公式，承认粘性流体固有的非哈密顿性质。通过考虑与传统纳维-斯托克斯方程等效的高阶问题，他们展示了一种令人惊讶的寻找哈密顿公式的方法。通过一个涉及粘性介质中的集总质量的激励性示例，他们展示了如何将控制方程的阶数加倍并添加辅助条件如何将非哈密顿问题转化为哈密顿问题。这种独特的方法揭示了纳维-斯托克斯问题的数学结构，为其表述提供了新的视角。 （根据故事文本的 11% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83311</guid>
-      <pubDate>Sun, 07 Apr 2024 00:58:08 GMT</pubDate>
+      <title>[媒体]Chapel 团队很高兴地宣布发布 Chapel 2.0 版本，这是一个强大的 [...]</title>
+      <link>https://t.me/hn_summary/83345</link>
+      <description><![CDATA[Chapel 2.0：面向所有人的可扩展且高效的计算&lt; br/&gt;
+Chapel 团队很高兴地宣布发布 Chapel 2.0 版，这是一种用于分布式并行计算的强大且高效的编程语言。凭借稳定性保证以及大量可用性和性能改进，Chapel 现在成为跨各种平台开发快速且可扩展的软件的首选。从 Arkouda 令人印象深刻的数据分析能力到 CHAMPS 的计算流体动力学框架，Chapel 正在证明其在实际应用中的价值。该语言的独特功能（例如无缝可扩展性和可移植性）使其成为希望充分利用并行硬件潜力的开发人员的绝佳选择。 （根据故事文本的 70% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/83345</guid>
+      <pubDate>Sun, 07 Apr 2024 10:27:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Blissymbols，也称为 Blissymbolics，是一个构建的表意文字系统 [...]</title>
-      <link>https://t.me/hn_summary/83310</link>
-      <description><![CDATA[Blissymbols – 表意文字书写系统
-Blissymbols，也称为 Blissymbolics，是 Charles K. Bliss 在 1949 年创建的一种构造表意文字系统。它由数百个代表概念的符号组成，可以组合起来创建新的符号。与大多数书写系统不同，极乐符号不对应于任何口语的声音。该系统的开发是为了帮助残疾人士进行沟通。然而，对其使用和解释产生了争议，导致了冲突和法律纠纷。尽管如此，Blissymbolics 已成功用于向不同国家的残疾人教授沟通技巧。 （根据故事文本的 61% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83310</guid>
-      <pubDate>Sun, 07 Apr 2024 00:48:01 GMT</pubDate>
+      <title>[媒体] Gakken EX-System 是 20 世纪 70 年代末的教育电子套件系列，[...]</title>
+      <link>https://t.me/hn_summary/83344</link>
+      <description><![CDATA[学研前系统
+Gakken EX-System 是 20 世纪 70 年代末的教育电子套件系列，使用 Denshi 块进行安全、简单的电子实验。该套件于 2002 年在日本重新发行，主套件非常成功，值得推出扩展套件。该套件包括电子块、主机、外部设备和说明书。原始套件可以使用扩展套件进行升级，以支持总共 191 个实验。重新发布的 EX-150 套件促进了用于执行光学实验的光学扩展套件的开发。 FX 系统于 1981 年推出，使用 TMS1000 处理器。]]></description>
+      <guid>https://t.me/hn_summary/83344</guid>
+      <pubDate>Sun, 07 Apr 2024 09:18:23 GMT</pubDate>
     </item>
     <item>
-      <title>在这项研究中，我们探讨了大型语言模型 (LLM) 的性能如何随 [...]</title>
-      <link>https://t.me/hn_summary/83309</link>
-      <description><![CDATA[您只需要更多代理即可：法学硕士的绩效随代理数量的增加而变化代理
-在本研究中，我们探讨了大型语言模型 (LLM) 的性能如何随着训练期间使用的代理数量而变化。我们的研究结果表明，增加代理人的数量可以显着提高法学硕士的表现。这对于寻求增强法学硕士能力的研究人员和开发人员具有重要意义。通过在训练期间使用更多代理，我们可以在自然语言处理任务中实现更高水平的性能和准确性。这项研究揭示了扩大代理数量以优化法学硕士性能的潜力。]]></description>
-      <guid>https://t.me/hn_summary/83309</guid>
-      <pubDate>Sun, 07 Apr 2024 00:13:48 GMT</pubDate>
+      <title>[媒体] 在“Designing-data-intense-application-notes.md”中，我深入研究了 cr 的复杂性 [...]</title>
+      <link>https://t.me/hn_summary/83343</link>
+      <description><![CDATA[Designing-data-intense-application-notes.md
+在“设计数据密集应用- Notes.md，”我深入研究了创建可以有效处理大量数据的应用程序的复杂性。从了解不同的数据存储系统到优化数据处理管道，这份综合指南涵盖了所有内容。有争议的是，我挑战了传统的数据管理方法，并提出了可以彻底改变我们处理数据的方式的创新解决方案。该资源包含实际示例和富有洞察力的注释，是寻求设计健壮且可扩展的数据密集型应用程序的开发人员的必读之作。通过这些独特且内容丰富的内容探索新的可能性并提高您的数据处理技能。]]></description>
+      <guid>https://t.me/hn_summary/83343</guid>
+      <pubDate>Sun, 07 Apr 2024 08:43:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
