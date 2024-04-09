@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 08 Apr 2024 21:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 00:18:53 GMT</lastBuildDate>
+    <item>
+      <title>你会如何创建这个黄色圆圈？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bzdta3/how_would_you_create_this_yellow_circle/</link>
+      <description><![CDATA[      我显然不需要精确的解决方案 - 模拟代码也可以解决问题. 图像和右侧主要部分之间的黄色圆圈引起了我的注意，这让我有点烦恼，因为我不知道实现此目的的最佳解决方案是什么（我有一些想法，但对于对我来说，他们似乎有点矫枉过正） 除了这个黄色圆圈之外，我对其他任何东西都不感兴趣。  P.S：如果这不是提出此类问题的正确 subreddit 或主题，请原谅。如果需要，我将删除这篇文章并在正确的 subreddit/主题中提出这个问题    由   提交/u/adnanite  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bzdta3/how_would_you_create_this_yellow_circle/</guid>
+      <pubDate>Tue, 09 Apr 2024 00:02:41 GMT</pubDate>
+    </item>
     <item>
       <title>帮我建立一个网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1bz901w/help_me_build_a_website/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我继承了一个 Web 应用程序，它是一个非常基本的 CRUD 节点 API 后端，带有 React 前端。它具有内置身份验证，但 MVP 功能之一是通过 OAuth 集成启用 SSO，并支持多个联合身份提供商，因为该应用程序也是多租户的。我的第一个想法是使用 Auth0 或 AWS cognito，因为两者都支持内置用户池（多租户）和多个联合 SSO 提供商。我还应该考虑其他方法吗？基本上，该应用程序由企业用户使用，他们都希望该应用程序通过 Azure AD、Google 等提供基于 SSO 的身份验证，但我还需要在内部为那些不想联合身份验证的用户提供身份验证。   由   提交 /u/regreddit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bz1ie1/multi_tenant_ssooauth/</guid>
       <pubDate>Mon, 08 Apr 2024 15:58:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>防止电子邮件别名提交表单</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bz1gct/prevent_email_aliases_from_submitting_a_form/</link>
-      <description><![CDATA[我有一个网站，如果您提交姓名和地址，您就可以赢得优惠券。电子邮件进入奖池。目前，其唯一限制是每个电子邮件地址每天只能输入 1 条内容。出于法律原因，这次我无法通过 IP 或地址进行限制。 我们遇到的问题是，compers（每天参加比赛的人）使用他们的 iCloud/Outlook 别名电子邮件地址进入多次。  有什么方法可以判断一个电子邮件地址是否是别名？即使我们使用多重身份验证来确认电子邮件地址的真实性，它也会到达相同的端点。 ​   由   提交 /u/TheAngelsCry   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bz1gct/prevent_email_aliases_from_submitting_a_form/</guid>
-      <pubDate>Mon, 08 Apr 2024 15:55:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
