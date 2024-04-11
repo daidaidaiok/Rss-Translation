@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 11 Apr 2024 00:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 03:05:44 GMT</lastBuildDate>
+    <item>
+      <title>MoonBit引入了expect测试，无需任何外部依赖即可生成自动化测试。</title>
+      <link>https://www.reddit.com/r/programming/comments/1c13qsi/moonbit_introduces_expect_testing_generating/</link>
+      <description><![CDATA[ 由   提交/u/hongboz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c13qsi/moonbit_introduces_expect_testing_generating/</guid>
+      <pubDate>Thu, 11 Apr 2024 02:22:46 GMT</pubDate>
+    </item>
     <item>
       <title>git 错误信息注释</title>
       <link>https://www.reddit.com/r/programming/comments/1c0ztm3/notes_on_gits_error_messages/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c0pduw/crystal_1120_is_released/</guid>
       <pubDate>Wed, 10 Apr 2024 16:12:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用现代 CSS 测试 HTML</title>
-      <link>https://www.reddit.com/r/programming/comments/1c0pdtv/testing_html_with_modern_css/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c0pdtv/testing_html_with_modern_css/</guid>
-      <pubDate>Wed, 10 Apr 2024 16:12:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
