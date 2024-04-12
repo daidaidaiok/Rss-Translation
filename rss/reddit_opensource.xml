@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 12 Apr 2024 12:08:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 15:06:43 GMT</lastBuildDate>
+    <item>
+      <title>寻找 k-inv 的贡献者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c281l2/looking_for_contributors_for_kinv/</link>
+      <description><![CDATA[大家好！我是 DevOps 工程师和开发人员小组的成员，他们正在编写 k-inv，这是一个完全开源的 kubernetes 混沌工程工具。 我们希望实现一些新功能，并且对该项目的炒作越来越多。我们也处于 CNCF 景观中 (https://landscape.cncf.io /?item=observability-and-analysis--chaos-engineering--kubeinvaders)。 该项目 100% 开源。在此处查找演示 https://kubeinvaders.platformengineering.it/ 并在此处查找源代码 https://github.com/lucky-sideburn/kubeinvaders 欢迎任何贡献！    由   提交 /u/luckysideburn2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c281l2/looking_for_contributors_for_kinv/</guid>
+      <pubDate>Fri, 12 Apr 2024 12:35:48 GMT</pubDate>
+    </item>
     <item>
       <title>TaleCast - 我制作的基于 CLI 的播客管理器</title>
       <link>https://www.reddit.com/r/opensource/comments/1c27269/talecast_a_cli_based_podcast_manager_i_made/</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[我想要一个开源 NAS，但 * 预构建的解决方案不自由 * 我可以使用 TrueNas 和类似的塔式设备制作自己的 NAS PC，但我没有空间*我可以使用 USB 托架，但它们不可靠。 我只是想要一个 Nas 大小的 libre 解决方案，哈哈。有类似的吗？   由   提交/u/NatSpaghettiAgency   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c26dji/open_source_nas/</guid>
       <pubDate>Fri, 12 Apr 2024 11:06:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>这就像天哪，但我们只是从 thc 到 nic 抽烟，只要它不是 Crack 或 fent idc 就没关系</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c268pw/its_like_omgle_but_we_just_smoke_from_thc_to_nic/</link>
-      <description><![CDATA[https://call.element.io/room/#/smoking-weed?roomId=!jPzMszScKzOgiWqGJL:call.ems.host&amp;password=vc3qtyE9lOhbj73QzjAKPg 抽烟？在会话中    由   提交/u/Ok_School_7977   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c268pw/its_like_omgle_but_we_just_smoke_from_thc_to_nic/</guid>
-      <pubDate>Fri, 12 Apr 2024 10:59:56 GMT</pubDate>
     </item>
     <item>
       <title>Openkoda - 用于更快的业务应用程序和 SaaS 开发的开源平台</title>
