@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 13 Apr 2024 00:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 05:54:13 GMT</lastBuildDate>
     <item>
-      <title>[媒体]谷歌与以色列国防部建立了深化的合作伙伴关系，提供 clo [...]</title>
-      <link>https://t.me/hn_summary/84279</link>
-      <description><![CDATA[Google 合同显示与以色列国防部达成的协议
-谷歌与以色列国防部有着不断深化的合作关系，提供云计算服务和咨询援助。备受争议的价值 12 亿美元的 Nimbus 项目涉及谷歌和亚马逊向以色列政府提供技术，有报道称他们无法阻止军事用途。谷歌坚称其工作是用于民用目的，但最近的指控称以色列军方正在使用人工智能进行空袭目标。国防部正在扩展多个单位的 Google Cloud 访问权限，由 Google 提供架构设计和自动化服务。两名谷歌员工辞职以抗议 Nimbus 项目。 Google Cloud 的军事用途程度仍不清楚。]]></description>
-      <guid>https://t.me/hn_summary/84279</guid>
-      <pubDate>Sat, 13 Apr 2024 00:15:53 GMT</pubDate>
+      <title>本文讨论了一种常见的误解，即 PDF 文件中的 JavaScript 会构成安全威胁。</title>
+      <link>https://t.me/hn_summary/84329</link>
+      <description><![CDATA[浏览器安全漏洞：PDF 中的 JavaScript
+本文讨论了一种常见的误解，即 PDF 文件中的 JavaScript 会构成安全威胁。虽然 PDF 中的 JavaScript 确实可以运行，但与 HTML 文档相比，其功能极其有限。这种混淆是由于 PDF 和 HTML 文档中的 JavaScript 之间的安全风险差异而产生的。本文强调了限制 PDF 文件中的 JavaScript 以尊重用户设置的重要性，并讨论了不同浏览器如何处理此问题。令人惊讶的是，Firefox 的全局 JavaScript 切换不会影响其 PDF 查看器内的脚本，而 Chrome 和 Edge 可以正确处理它。此外，Chromium 目前会忽略 PDF 响应中的 Content-Security-Policy 标头，这会导致用户感到困惑，并给 Web 开发人员带来烦恼。]]></description>
+      <guid>https://t.me/hn_summary/84329</guid>
+      <pubDate>Sat, 13 Apr 2024 05:54:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]弗兰克是一家高端存储阵列供应商的技术支持人员，他发现自己陷入了困境 [...]</title>
-      <link>https://t.me/hn_summary/84278</link>
-      <description><![CDATA[支持合同要求技术人员在 5000 美元/晚的酒店闲逛房间
-Frank 是一家高端存储阵列供应商的技术支持人员，由于支持合同激活，周末他住在一间 5,000 美元/晚的酒店房间里。客户司法部希望他随时待命，以防存储阵列出现进一步问题。尽管住宿条件很豪华，弗兰克还是准备在需要时立即采取行动。法院在周一很快做出了裁决，弗兰克在周二就回到了工作岗位，并因其努力而获得了奖金，并在奢华中度过了一个难忘的周末。这个故事是 IT 专业人员从技术支持事件中受益的罕见例子。]]></description>
-      <guid>https://t.me/hn_summary/84278</guid>
-      <pubDate>Sat, 13 Apr 2024 00:13:50 GMT</pubDate>
+      <title>[媒体] joe-steel.com 上的 YouTube Screen Stealer 深入探讨了围绕 YouT 的争议 [...]</title>
+      <link>https://t.me/hn_summary/84328</link>
+      <description><![CDATA[YouTube 的屏幕窃取程序
+joe-steel.com 上的 YouTube Screen Stealer 深入研究了围绕 Apple TV 上 YouTube 应用程序的争议，该应用程序以压缩静态图像的幻灯片放映取代了备受喜爱的空中屏幕保护程序。作者强调了广告和促销内容对曾经平静的屏幕保护程序体验的侵入。这篇文章还讨论了 Roku 在暂停的视频流中注入广告的潜在举措，进一步强调了广告对媒体消费各个方面的侵蚀。作者提供了一种绕过 YouTube 屏幕保护程序的解决方法，展示了数字时代广告现状的沮丧和失望。]]></description>
+      <guid>https://t.me/hn_summary/84328</guid>
+      <pubDate>Sat, 13 Apr 2024 05:51:07 GMT</pubDate>
     </item>
     <item>
-      <title>OpenEQA 项目在基础模型时代引入了具体问答。</title>
-      <link>https://t.me/hn_summary/84277</link>
-      <description><![CDATA[OpenEQA：基础模型时代的体现问答
-OpenEQA 项目在基础模型时代引入了具体问答。这种创新方法在计算机视觉和模式识别会议 (CVPR) 上提出，它结合了人工智能和机器人技术，使机器能够与环境交互并根据观察结果回答问题。 OpenEQA 拥有一支由研究人员和专家组成的多元化团队，突破了人工智能功能的界限，并为现实世界的应用开辟了新的可能性。请继续关注这个令人兴奋的领域的最新进展。]]></description>
-      <guid>https://t.me/hn_summary/84277</guid>
-      <pubDate>Sat, 13 Apr 2024 00:12:47 GMT</pubDate>
+      <title>在本文中，我们深入研究了 DES/3DES 算法并提供了 h [...]</title>
+      <link>https://t.me/hn_summary/84327</link>
+      <description><![CDATA[DES/3DES算法图解
+在本文中，我们将深入研究 DES/3DES 算法并详细说明其工作原理。 DES（数据加密标准）是一种广泛使用的加密方法，已经存在了几十年，而 3DES 是增强版本，可提供更强的安全性。我们将复杂的加密过程分解为易于理解的步骤，使各个级别的读者都能理解。通过了解 DES/3DES 的工作原理，您可以更好地理解加密在保护敏感数据方面的重要性。深入阅读本文，揭开这种强大的加密算法背后的秘密。]]></description>
+      <guid>https://t.me/hn_summary/84327</guid>
+      <pubDate>Sat, 13 Apr 2024 05:25:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]2024 年 3 月 29 日，XZ 压缩实用程序中发现恶意后门，[...]</title>
-      <link>https://t.me/hn_summary/84276</link>
-      <description><![CDATA[XZ后门故事 – 初步分析
-2024 年 3 月 29 日，XZ 压缩实用程序中发现恶意后门，对使用 OpenSSH 的 Linux 发行版构成重大威胁。与之前的供应链攻击不同，这次事件涉及多阶段操作，几乎损害了全球的 SSH 服务器。该后门是通过修改构建基础设施引入的，隐藏在测试文件中，并在编译过程中与合法库链接。主要供应商在不知情的情况下运送了受感染的组件，导致严重性评分为 10。该后门旨在向 SSH 服务器引入远程代码执行功能。事件的时间表和对后门行为的详细分析揭示了一个复杂且令人震惊的违规行为。 （根据故事文本的 53% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/84276</guid>
-      <pubDate>Sat, 13 Apr 2024 00:08:43 GMT</pubDate>
+      <title>[媒体]华为技术公司迈出大胆之举，建设半导体设备研发中心 [...]</title>
+      <link>https://t.me/hn_summary/84326</link>
+      <description><![CDATA[华为在上海建设芯片设备研发中心 
+华为技术有限公司正在采取大胆举措，在上海建设半导体设备研发中心，以在美国的限制下加强其芯片供应链。该中心将专注于开发对先进芯片生产至关重要的光刻机。由于华盛顿的出口管制限制华为获得关键设备，这一战略举措旨在减少对市场上仅三个主导公司的依赖。这一进展凸显了华为应对美国打压这家科技巨头带来的挑战的决心。]]></description>
+      <guid>https://t.me/hn_summary/84326</guid>
+      <pubDate>Sat, 13 Apr 2024 05:20:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] HP 200 LX 是 1994 年推出的一款成功的掌上电脑，运行 MS-DOS 和 [...]</title>
-      <link>https://t.me/hn_summary/84275</link>
-      <description><![CDATA[HP 200LX 及相关掌上电脑
-HP 200 LX 是 1994 年推出的一款成功的掌上电脑，运行 MS-DOS 并提供独特的外形尺寸，将台式电脑挤进手掌中。惠普在 1999 年继续销售它，使其成为 20 世纪 90 年代运行时间最长的计算机型号之一。尽管不像 Palm Pilot 或 Blackberry 等其他移动平台那样华丽，HP 200 LX 仍因其实用性和尖端技术而拥有一批忠实的追随者。 HP 200 LX 能够随时随地运行有用的程序并与全尺寸计算机交换数据，在移动计算领域取得了悄然的成功。]]></description>
-      <guid>https://t.me/hn_summary/84275</guid>
-      <pubDate>Fri, 12 Apr 2024 23:58:36 GMT</pubDate>
+      <title>[媒体]节日恐怖主义的幸存者 Yarin Reichenthal 分享了他的感受 [...]</title>
+      <link>https://t.me/hn_summary/84325</link>
+      <description><![CDATA[迷幻药和创伤：节日恐怖主义的一名幸存者如何“感觉不到恐惧” &#39;
+节日恐怖主义的幸存者亚林·赖兴塔尔 (Yarin Reichenthal) 分享了他在服用迷幻药后在袭击中不再感到恐惧的经历。研究人员发现，使用不同药物的参与者以不同的方式经历了袭击，影响了他们逃离安全的能力。一些幸存者报告称，他们使用更多的药物来应对创伤，而另一些幸存者则发现迷幻药帮助他们在袭击期间保持冷静并快速做出决定。该研究正在进行中，初步结果表明，MDMA 使用者恢复得更好，并且表现出不那么严重的 PTSD 症状。吸毒对创伤康复的影响是研究的重点。]]></description>
+      <guid>https://t.me/hn_summary/84325</guid>
+      <pubDate>Sat, 13 Apr 2024 05:03:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]令人惊讶的是，中西部工业区的工人们拒绝了卢克 [...]</title>
-      <link>https://t.me/hn_summary/84274</link>
-      <description><![CDATA[廉价抵押贷款阻碍工人搬迁以获得 25 万美元的工作 
-令人惊讶的是，中西部工业区的工人们由于 30 年期抵押贷款低廉而拒绝了美国南部 25 万美元的丰厚工作机会。这一趋势给试图吸引管理人员搬迁的雇主带来了挑战，因为鉴于住房成本上涨以及大流行后远程或混合工作安排的日益普及，工人们选择留在离家较近的地方。 Challenger, Gray &amp; Christmas Inc. 高级副总裁 Andy Challenger 强调了雇主在紧张的劳动力市场中招聘人才所面临的困难。]]></description>
-      <guid>https://t.me/hn_summary/84274</guid>
-      <pubDate>Fri, 12 Apr 2024 23:24:24 GMT</pubDate>
+      <title>[媒体] Replexica 是 React 的 i18n 编译器，旨在简化添加 [...]</title>
+      <link>https://t.me/hn_summary/84324</link>
+      <description><![CDATA[显示 HN：Replexica – 用于 React 的 AI 支持的国际化编译器（+ API）
+Replexica 是 React 的 i18n 编译器，旨在通过消除对 JSON 文件和提取脚本的需求来简化向应用程序添加国际化的过程。它由 React 编译器插件和人工智能驱动的翻译 API 组成。该项目的特色在于提供无 JSON 的编译器格式、对 Markdown 内容的支持以及云中使用 LLM 进行翻译的 i18n API。核心团队由两名成员 Veronica 和 Max 组成，还有其他贡献者的贡献。该项目欢迎反馈、功能请求、错误报告甚至投诉，以改善 i18n 体验。]]></description>
+      <guid>https://t.me/hn_summary/84324</guid>
+      <pubDate>Sat, 13 Apr 2024 05:01:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]曾经坚持让员工重返办公室全职工作的首席执行官现在已经不再是[...]</title>
-      <link>https://t.me/hn_summary/84273</link>
-      <description><![CDATA[失败的首席执行官现在承认混合工作将继续存在
-曾经坚持让员工回到办公室全职工作的首席执行官们现在承认混合工作将继续存在。毕马威 (KPMG) 的一项调查发现，只有三分之一的首席执行官预计在未来三年内全面重返办公室，这与去年相比发生了重大转变，当时 62% 的首席执行官预计到 2026 年将结束在家工作。在遭遇阻力后，他们改变了主意由于重返办公室的要求，公司面临着更高的离职率和招聘困难。这种向混合工作模式的转变被认为对于未来吸引和留住顶尖人才至关重要。]]></description>
-      <guid>https://t.me/hn_summary/84273</guid>
-      <pubDate>Fri, 12 Apr 2024 23:11:16 GMT</pubDate>
+      <title>[媒体] 显示 HN：KuralGPT。</title>
+      <link>https://t.me/hn_summary/84323</link>
+      <description><![CDATA[显示 HN：KuralGPT。使用 ChatGPT 搜索古代泰米尔经文
+通过 KuralGPT 探索 Thirukural 的古老智慧，KuralGPT 是一项将现代法学硕士技术与泰米尔文学相结合的独特实验。提出诸如“蒂鲁库拉尔对友谊有何看法？”之类的问题。或“是什么让一个人成为伟大的领导者？”让我们为您找到相关的库拉尔。这款创新工具由威斯康星州密尔沃基的 Sprint1 自豪地打造，通过现代技术将过去带入现在。通过 KuralGPT 前所未有地探索古代泰米尔经文的深度。]]></description>
+      <guid>https://t.me/hn_summary/84323</guid>
+      <pubDate>Sat, 13 Apr 2024 05:00:37 GMT</pubDate>
     </item>
     <item>
-      <title>询问 HN：用于谈判/讨论固定报价范围项目的工具是什么？</title>
-      <link>https://t.me/hn_summary/84272</link>
-      <description><![CDATA[询问 HN：用于谈判/讨论固定报价范围项目的工具？
-作为一名独立的自由网络开发人员，谈判和讨论固定报价的范围项目可能是一个乏味的过程。客户经常添加新功能、更改现有功能并通过多个电子邮件线程提供反馈，这使得跟踪所有内容变得困难。虽然 Github Issues 看起来像是一个解决方案，但说服客户使用它进行业务讨论可能具有挑战性。一些开发人员尝试使用电子表格来跟踪功能和讨论，但它缺乏格式，并且很难合并屏幕截图。如果您有任何在此过程中对您有用的工具或技术，请​​分享您的见解。]]></description>
-      <guid>https://t.me/hn_summary/84272</guid>
-      <pubDate>Fri, 12 Apr 2024 22:57:09 GMT</pubDate>
+      <title>项目“jsx-htmx”旨在提供一个不会全局覆盖 [...]</title>
+      <link>https://t.me/hn_summary/84322</link>
+      <description><![CDATA[显示 HN：与 React 不冲突的 JSX-Htmx&lt; /a&gt;
+项目“jsx-htmx”旨在提供一个 htmx JSX 库，该库不会全局覆盖 JSX 命名空间或使用 /// require 语句，从而在导入和使用库时提供更大的灵活性。它允许创建完全类型安全的 JSX 组件，并且可以与 React 组件一起使用。该项目提供了使用 jsx-htmx 作为纯类型声明或 JSX 模板引擎的配置。此外，它还提供两种类型的组件创建选项：CustomComponent 和 SimpleCustomComponent。该项目的与众不同之处在于提供了一个允许 htmx JSX 与 React 组件无缝集成的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/84322</guid>
+      <pubDate>Sat, 13 Apr 2024 04:59:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Volexity 最近发现了 Palo Alto N 漏洞的零日利用 [...]</title>
-      <link>https://t.me/hn_summary/84271</link>
-      <description><![CDATA[CVE-2024-3400 Palo Alto Networks PAN-OS 零日漏洞剥削
-Volexity 最近发现了 Palo Alto Networks PAN-OS 中漏洞的零日利用，允许通过 GlobalProtect 功能执行未经身份验证的远程代码。名为 UTA0218 的威胁参与者能够破坏防火墙设备、创建反向 shell，并在受害者组织内横向移动。攻击者试图部署一个名为 UPSTYLE 的自定义 Python 后门，从而在设备上启用更多命令。 Palo Alto Networks 已发布针对 CVE-2024-3400 的公告，预计将于 2024 年 4 月 14 日修复。Volexity 建议受影响的组织立即采取行动以保护其系统和网络。 （根据故事文本的 37% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/84271</guid>
-      <pubDate>Fri, 12 Apr 2024 22:29:59 GMT</pubDate>
+      <title>我在 Twitter 上创建了一个分割视图 UI 来衡量 LLM 表现。</title>
+      <link>https://t.me/hn_summary/84321</link>
+      <description><![CDATA[显示 HN：我已经构建了一个分割视图 UI 来衡量 LLM性能
+我在 Twitter 上创建了一个分割视图 UI 来衡量 LLM 表现。通过启用 JavaScript 并使用支持的浏览器，您可以轻松地实时比较和分析 LLM 的表现。该工具为寻求优化代码和提高整体性能的开发人员提供了宝贵的见解。在 Twitter 上查看并立即开始衡量您的 LLM 表现！]]></description>
+      <guid>https://t.me/hn_summary/84321</guid>
+      <pubDate>Sat, 13 Apr 2024 04:58:31 GMT</pubDate>
     </item>
     <item>
-      <title>拜登总统于 2024 年 4 月宣布的新学生贷款债务减免计划将花费 [...]</title>
-      <link>https://t.me/hn_summary/84270</link>
-      <description><![CDATA[新学生债务减免：平均为 25,500 美元/家庭收入为 312,000 美元 [pdf](https://news.ycombinator.com/item?id=40017979)
-拜登总统于 2024 年 4 月宣布的新学生贷款债务减免计划，除了 SAVE 计划的 4750 亿美元之外，估计还将花费 840 亿美元。新计划包括免除应计利息、消除长期借款人的债务以及帮助面临财务困难的人等条款。令人惊讶的是，平均收入为 312,000 美元的家庭将获得一些救济，因为 SAVE 计划已经帮助了低收入家庭。这两个计划的总成本估计约为 5590 亿美元。由 Junlei Chen 和 Jesús Villero 进行的这项分析揭示了新计划与现有 SAVE 计划相比的增量效益。]]></description>
-      <guid>https://t.me/hn_summary/84270</guid>
-      <pubDate>Fri, 12 Apr 2024 22:15:51 GMT</pubDate>
+      <title>通过 j89.net 了解纽约市附近最新的餐厅卫生检查等级。</title>
+      <link>https://t.me/hn_summary/84320</link>
+      <description><![CDATA[显示 HN：查看纽约市附近健康检查不佳的餐厅&lt; /a&gt;
+通过 j89.net。从 A 到 C 评级，查看哪些餐厅符合健康标准，哪些餐厅未达标。请留意健康法庭后可能会发生变化的待决结果和有争议的评级。虽然我们的目标是准确性，但请注意数据中潜在的错误。该网站不是官方政府来源，因此要了解最新评级，请访问 NYC Health 的 ABCEats 工具。利用这一独特的资源随时了解最新情况并做出明智的用餐选择。]]></description>
+      <guid>https://t.me/hn_summary/84320</guid>
+      <pubDate>Sat, 13 Apr 2024 04:57:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
