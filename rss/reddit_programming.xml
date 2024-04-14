@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 14 Apr 2024 06:39:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 10:23:31 GMT</lastBuildDate>
+    <item>
+      <title>Mertix：Java 文件系统库</title>
+      <link>https://www.reddit.com/r/programming/comments/1c3p70l/mertix_a_java_filesystem_library/</link>
+      <description><![CDATA[ 由   提交/u/lonew0lf-G   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c3p70l/mertix_a_java_filesystem_library/</guid>
+      <pubDate>Sun, 14 Apr 2024 09:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关为电子商务网站构建同步浏览和语音聊天功能的建议</title>
+      <link>https://www.reddit.com/r/programming/comments/1c3o6mp/seeking_advice_on_building_sync_browsing_and/</link>
+      <description><![CDATA[大家好 我今天与您联系，寻求有关为我的电子商务网站构建两个特定功能的建议：同步浏览和语音聊天。我相信这些功能将显着增强用户体验并提高客户参与度。 对于同步浏览，我设想一种共同浏览体验，客户可以邀请朋友或家人一起浏览网站、讨论产品，并共同做出决定。理想情况下，此功能应包括语音聊天等实时通信工具。 您可以根据您对这些功能的经验或知识分享任何见解、建议或最佳实践，我将不胜感激。具体来说，我有兴趣了解： 实现同步浏览和语音聊天功能的可行性和潜在挑战。 用于构建这些功能的推荐工具、平台或服务。  构建无缝的用户体验并维护隐私和安全。 预先感谢您的时间和专业知识。我期待听到您的想法并从您的经验中学习。   由   提交/u/shotolic  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c3o6mp/seeking_advice_on_building_sync_browsing_and/</guid>
+      <pubDate>Sun, 14 Apr 2024 07:53:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索适合您的项目的各种 API</title>
+      <link>https://www.reddit.com/r/programming/comments/1c3o552/explore_diverse_apis_for_your_projects/</link>
+      <description><![CDATA[ 由   提交/u/plentyy341   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c3o552/explore_diverse_apis_for_your_projects/</guid>
+      <pubDate>Sun, 14 Apr 2024 07:50:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>任何人都知道，每当我处理可视代码时，不仅在 .css 文件上显示调色板，或者有任何技巧，我想搜索，但无法通过谷歌搜索或询问找到结果的适当方法聊天 GPT</title>
+      <link>https://www.reddit.com/r/programming/comments/1c3n50p/any_one_know_by_any_chance_an_extention_to_show_a/</link>
+      <description><![CDATA[ 由   提交/u/1TAPS-MACHINE  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c3n50p/any_one_know_by_any_chance_an_extention_to_show_a/</guid>
+      <pubDate>Sun, 14 Apr 2024 06:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>WIEHACK 5.0 - 奖金 502,000 美元，36 小时以女性为中心的混合国际黑客马拉松</title>
+      <link>https://www.reddit.com/r/programming/comments/1c3n4wn/wiehack_50_502000_prize_pool_36_hours_women/</link>
+      <description><![CDATA[问候，梦想家和开拓者！ 最常见的问题已得到解答！ 这次的大奖池为 502,000 美元💰🤩，包括一系列好礼、代金券和 30,000 卢比现金奖励。 IEEE BVCOE 推出了今年备受期待的黑客马拉松：WIEHack 5.0，36 小时以女性为中心的混合国际黑客马拉松！ 👩‍💻👨‍💻 *日期：2024 年 4 月 22 日至 23 日 *地点：BVCOE，新德里 *虚拟平台：Discord 立即注册：https://unstop.com/o/bLtWiNh?lb=86ivM4qw 我们的网站：https://wiehack.ieeebvcoe.in/ 让我们一起突破界限，掀起波澜🌊。 WIEHack 5.0 见！ ✨ 最后注册日期：2024 年 4 月 18 日   由   提交/u/Neither_Shoulder_278   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c3n4wn/wiehack_50_502000_prize_pool_36_hours_women/</guid>
+      <pubDate>Sun, 14 Apr 2024 06:44:54 GMT</pubDate>
+    </item>
     <item>
       <title>软件工程师应该了解哪些关于股票期权的知识</title>
       <link>https://www.reddit.com/r/programming/comments/1c3mj2x/what_software_engineers_should_know_about_stock/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c3lqje/from_vim_to_zed/</guid>
       <pubDate>Sun, 14 Apr 2024 05:16:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何编写代码格式化程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1c3lqjc/how_to_write_a_code_formatter/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c3lqjc/how_to_write_a_code_formatter/</guid>
-      <pubDate>Sun, 14 Apr 2024 05:16:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>bunkchat：用 posix sh 编写的波浪号服务器的本地聊天</title>
-      <link>https://www.reddit.com/r/programming/comments/1c3lqij/bunkchat_localonly_chat_for_tilde_servers_written/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c3lqij/bunkchat_localonly_chat_for_tilde_servers_written/</guid>
-      <pubDate>Sun, 14 Apr 2024 05:16:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>使 ijq 变得更快</title>
-      <link>https://www.reddit.com/r/programming/comments/1c3lqhs/making_ijq_fast/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c3lqhs/making_ijq_fast/</guid>
-      <pubDate>Sun, 14 Apr 2024 05:16:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么“streaming”是我最喜欢的 Haskell 流媒体库</title>
-      <link>https://www.reddit.com/r/programming/comments/1c3lqh2/why_streaming_is_my_favourite_haskell_streaming/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c3lqh2/why_streaming_is_my_favourite_haskell_streaming/</guid>
-      <pubDate>Sun, 14 Apr 2024 05:16:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>组合编程</title>
-      <link>https://www.reddit.com/r/programming/comments/1c3lqgn/combinatory_programming/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c3lqgn/combinatory_programming/</guid>
-      <pubDate>Sun, 14 Apr 2024 05:16:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

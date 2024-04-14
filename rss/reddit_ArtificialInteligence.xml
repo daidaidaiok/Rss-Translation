@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 14 Apr 2024 06:39:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 10:22:41 GMT</lastBuildDate>
+    <item>
+      <title>我们生活在令人难以置信的时代，我构建了一个 Android 应用程序，但我从未编写过代码。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c3pqk6/we_live_in_unbelievable_era_i_built_an_android/</link>
+      <description><![CDATA[我们生活在令人难以置信的时代，我构建了一个 Android 应用程序，但我从未编写过代码 我不敢相信这一点实际上是真实且有效的 在 5 天的时间里，从我一生中从未编写和运行代码，到构建一个功能非常好的 Android 应用程序，并且当出现提示时，它使该应用程序看起来也非常好 这是怎么回事！！！ 顺便说一句，我使用了 claude opus 这是一个简单的应用程序，解决了我业务上的一个巨大问题 &lt; p&gt;所以我有一家裁缝店，我们裁缝的任何一件衣服在交给客户之前都会经过 5 个步骤，当我们有很多订单时，有些衣服需要比预期更长的时间，有时我们不知道哪里有件到底是什么以及在哪一步 我们有一个解决方案，将收据编号作为每件上的条形码，如果它通过了任何步骤，我们需要扫描条形码，表明它从该步骤完成 我们的预算不足，因此我考虑制作一个 Android 应用程序（因为您可以获得便宜的 Android 手机），并且每一步都有一台，而不是每一步都配备 5 台与条形码扫描仪连接的计算机 应用程序很简单，首先您选择当前所处的步骤，然后读取条形码，然后提交 之后，信息将写入谷歌电子表格中，并在我们跟踪一件作品从一个步骤到另一个步骤需要多长时间，并确切地知道每件作品在哪里，瓶颈在哪里，以及如何优化制作尽可能多的作品   由   提交/u/bhk0_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c3pqk6/we_live_in_unbelievable_era_i_built_an_android/</guid>
+      <pubDate>Sun, 14 Apr 2024 09:39:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用生成式 AI 模型生成 UI</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c3nty0/generating_uis_with_generative_ai_models/</link>
+      <description><![CDATA[大家好， 我正在寻找有关如何使用 GPT-4/Claude/Gemini 生成美观的模拟 UI 的提示和指导/ Mistral 模型等。  您可能已经看过 Vercel 的 v0.dev，它根据文本提示生成 React 组件。  这是怎么做到的？这是否只是提示模型生成 HTML/Tailwind/JavaScript 模板并以某种方式对其进行迭代，直到其足够适合用户的情况？  欢迎思考！    由   提交 /u/TechnoTherapist   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c3nty0/generating_uis_with_generative_ai_models/</guid>
+      <pubDate>Sun, 14 Apr 2024 07:29:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI如何改变它的转型方式，让它变得更大，达到最高点？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c3nfua/how_ai_is_changing_its_way_to_transform_and_make/</link>
+      <description><![CDATA[ 由   提交 /u/itssinghvionline   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c3nfua/how_ai_is_changing_its_way_to_transform_and_make/</guid>
+      <pubDate>Sun, 14 Apr 2024 07:04:26 GMT</pubDate>
+    </item>
     <item>
       <title>有没有办法整合gemini和google lens？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c3m00c/is_there_a_way_to_integrate_gemini_and_google_lens/</link>
@@ -41,20 +62,6 @@
       <pubDate>Sun, 14 Apr 2024 03:33:09 GMT</pubDate>
     </item>
     <item>
-      <title>不知道如何表达人工智能生成器的内容。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c3ifzk/not_sure_how_to_word_things_for_ai_generator/</link>
-      <description><![CDATA[尝试获取衬衫的鸟瞰照片，衬衫旁边有一块毛毡信板......无论我如何措辞，都没有出现任何标志，如果出现，他们会将衬衫放在标志上。   由   提交/u/EducationalAd8035   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c3ifzk/not_sure_how_to_word_things_for_ai_generator/</guid>
-      <pubDate>Sun, 14 Apr 2024 02:03:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>令人印象深刻的音乐创作现在可供所有人使用！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c3hzxt/impressive_music_creation_is_now_available_to/</link>
-      <description><![CDATA[我刚刚在 Udio 上制作了这个&lt; /p&gt; 我想知道这将如何改变音乐产业......   由   提交/u/Longtree  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c3hzxt/impressive_music_creation_is_now_available_to/</guid>
-      <pubDate>Sun, 14 Apr 2024 01:39:56 GMT</pubDate>
-    </item>
-    <item>
       <title>我尝试了Suno，一款歌曲创作人工智能软件。以下是提示的内容：“一首关于生活在火星上的机器人的歌曲”</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c3c0y0/i_tried_suno_the_songwriting_ai_software_heres/</link>
       <description><![CDATA[这是歌曲本身的链接：https://suno.com/song/640d8f61-f54b-46e8-b823-ee364184d7dd 我可能不是音乐家，但是哇！我希望人们不要滥用Suno和其他类似的AI软件。  除此之外，您对它所写的歌曲有何看法？   由   提交 /u/Some1inreallife   [链接] [评论]]]></description>
@@ -67,13 +74,6 @@
       <description><![CDATA[ 由   提交/u/Mysterious_Okra8235   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c3ajy4/the_dead_internet_theory_is_already_becoming_true/</guid>
       <pubDate>Sat, 13 Apr 2024 19:54:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023年用人工智能报税有成功的尝试吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c3614m/were_there_any_successful_attempts_at_doing_2023/</link>
-      <description><![CDATA[理论上人工智能应该能够帮你报税。向其提供来自国税局（或国家/地区同等机构）的说明和表格、您收到的表格以及银行对账单。对于工具，实施 RAG 来理解一切，实施代码解释器来进行解析和数学计算，实施文件访问来读取和生成表格，以及对已知税务帮助论坛的搜索功能。将您最近 3 年的纳税申报表作为如何处理税务的多重示例。 给它一个起点，然后就可以了。也许首先让它对过去的税收进行逆向工程，然后再尝试最近一年的税收。告诉它检查它的工作。作为输出，它将生成已填写表格的 PDF 以及操作说明。 我并不是说这将适用于当前模型，但最终会产生多种功能模态模型应该能够在没有特殊指令的情况下完成这种事情。隐私也是一个问题，但目前本地模型还不如最好的模型。 有人听说过任何尝试吗？您认为当前良好的提示工程代理的可行性如何？ 更新：我不是在谈论 ChatGPT 或简单的提示答案用法。我说的是一个使用各种外部工具和提示工程技术来指导法学硕士的代理。我当然不认为法学硕士可以按原样做到这一点。   由   提交 /u/funbike   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c3614m/were_there_any_successful_attempts_at_doing_2023/</guid>
-      <pubDate>Sat, 13 Apr 2024 16:35:11 GMT</pubDate>
     </item>
     <item>
       <title>谁能向我解释如何为 LM Studio 创建 RAG？</title>
