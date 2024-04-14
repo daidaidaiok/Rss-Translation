@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 14 Apr 2024 14:10:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 15:29:26 GMT</lastBuildDate>
+    <item>
+      <title>变革对大脑的影响以及变革推动者必须做出的 5 项有用调整</title>
+      <link>https://www.reddit.com/r/programming/comments/1c3vta5/the_impacts_of_change_on_the_brain_and_5_helpful/</link>
+      <description><![CDATA[ 由   提交 /u/ToddLankford   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c3vta5/the_impacts_of_change_on_the_brain_and_5_helpful/</guid>
+      <pubDate>Sun, 14 Apr 2024 15:11:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>您认为这算是一种算法吗？它的安全性如何？密码学家可以通过哪些方法来破解它？</title>
+      <link>https://www.reddit.com/r/programming/comments/1c3uzqg/do_you_think_this_count_as_an_algo_and_how_secure/</link>
+      <description><![CDATA[概述：该算法概述了加密文件、压缩文件、将其分解为多个部分、再次压缩各个部分以及最后重命名输出文件的过程扩大。该算法的主要目标是通过结合加密、压缩和文件分割技术，提供一种安全存储敏感文件的方法。 步骤：  加密文件 &lt; ul&gt; 输入：原始文件 输出：加密文件 用途：加密原始文件以保护其内容。    注意事项： 使用具有足够长密钥长度的强大加密算法（例如 AES）。 确保安全的密钥管理实践以保护加密密钥。    压缩加密文件   输入：加密文件 &gt; 输出：压缩文件 目的：减小文件大小以实现高效存储和传输。 注意事项：  利用标准压缩算法（例如 ZIP）来实现兼容性。 压缩加密文件可增加额外的安全层。  &lt; /ul&gt;  将压缩文件分成多个部分   输入：压缩文件 输出：多个部分 目的：将压缩文件分割成更小的部分，以便于处理。 注意事项：  根据系统限制和用例要求。 保持重建部件的顺序和完整性。    压缩部件&lt; /li&gt;   输入：零件 输出：压缩零件 用途：减小各个零件的大小，以便有效存储和传输. 注意事项：  单独对每个部分应用压缩以优化存储空间。 使用以下方法保护压缩部分：强加密以防止未经授权的访问。    重命名最终输出文件   输入：最终输出文件 输出：带有.key扩展名的重命名文件 用途：指示文件的加密和压缩性质。 注意事项：  重命名文件扩展名可以提高清晰度，并将其与常规文件区分开来。 确保适当的应用程序能够识别新的文件扩展名。 &gt;   最后将文件存储在 GitHub 等私有存储库上。 安全注意事项：  加密强度：使用强大的加密算法（例如 AES）和足够长的密钥长度，以防止暴力攻击。 密钥管理：使用安全的方式保护加密密钥存储和访问控制机制，防止未经授权的访问。 文件完整性：在加密、压缩和分割过程中确保文件的完整性，防止数据损坏。  访问控制：实施适当的访问控制，以限制只有授权用户才能访问加密文件和压缩部分。    由   提交 /u/RekkusuYash   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c3uzqg/do_you_think_this_count_as_an_algo_and_how_secure/</guid>
+      <pubDate>Sun, 14 Apr 2024 14:35:06 GMT</pubDate>
+    </item>
     <item>
       <title>缓存：提高应用程序性能的最有用的策略</title>
       <link>https://www.reddit.com/r/programming/comments/1c3ue58/caching_the_single_most_helpful_strategy_for/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/lonew0lf-G   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c3p70l/mertix_a_java_filesystem_library/</guid>
       <pubDate>Sun, 14 Apr 2024 09:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关为电子商务网站构建同步浏览和语音聊天功能的建议</title>
-      <link>https://www.reddit.com/r/programming/comments/1c3o6mp/seeking_advice_on_building_sync_browsing_and/</link>
-      <description><![CDATA[大家好 我今天与您联系，寻求有关为我的电子商务网站构建两个特定功能的建议：同步浏览和语音聊天。我相信这些功能将显着增强用户体验并提高客户参与度。 对于同步浏览，我设想一种共同浏览体验，客户可以邀请朋友或家人一起浏览网站、讨论产品，并共同做出决定。理想情况下，此功能应包括语音聊天等实时通信工具。 您可以根据您对这些功能的经验或知识分享任何见解、建议或最佳实践，我将不胜感激。具体来说，我有兴趣了解： 实现同步浏览和语音聊天功能的可行性和潜在挑战。 用于构建这些功能的推荐工具、平台或服务。  构建无缝的用户体验并维护隐私和安全。 预先感谢您的时间和专业知识。我期待听到您的想法并从您的经验中学习。   由   提交/u/shotolic  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c3o6mp/seeking_advice_on_building_sync_browsing_and/</guid>
-      <pubDate>Sun, 14 Apr 2024 07:53:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索适合您的项目的各种 API</title>
-      <link>https://www.reddit.com/r/programming/comments/1c3o552/explore_diverse_apis_for_your_projects/</link>
-      <description><![CDATA[ 由   提交/u/plentyy341   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c3o552/explore_diverse_apis_for_your_projects/</guid>
-      <pubDate>Sun, 14 Apr 2024 07:50:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
