@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 14 Apr 2024 20:57:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 22:49:16 GMT</lastBuildDate>
+    <item>
+      <title>当前用于 RAG/聊天实验的最佳框架？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c466kn/current_best_frameworks_to_experiment_with_for/</link>
+      <description><![CDATA[我为法学院学生教授科技体验式学习课程。我们在 Docassemble 框架中做了很多文档自动化方面的工作（例如，针对不同法律问题的 TurboTax），我还想让他们能够为法学硕士使用可用于生产的聊天和 RAG 界面。他们获得了一些 LLM 理论，但去年没有人制作使用 LLM 的生产应用程序，这似乎很遗憾。 他们可能会在 Docassemble 内尝试 LLM，但是是否有任何易于部署的独立框架构建人们现在喜欢的简单 RAG 应用程序？如果他们使用 Python，我们可以最好地支持他们，这似乎是一个很容易实现的过滤器。 基本上，比用于外部访问的自定义 GPT 更强大。它们可以完全以查询小型知识库为中心。   由   提交 /u/nonprofittechy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c466kn/current_best_frameworks_to_experiment_with_for/</guid>
+      <pubDate>Sun, 14 Apr 2024 22:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>检测人工智能/自动语音</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c45ys7/detect_aiautomate_voice/</link>
+      <description><![CDATA[目前是否有任何机器学习工具可以检测音频是否包含自然人类语音或自动/人工智能语音？    由   提交/u/williamp0044  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c45ys7/detect_aiautomate_voice/</guid>
+      <pubDate>Sun, 14 Apr 2024 22:18:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能问题生成器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c455fp/ai_questions_generator/</link>
+      <description><![CDATA[大家好！我是一名大学生，我想知道您是否知道任何免费工具可以根据我的笔记生成多项选择题来帮助我复习。我尝试过一些，但它们要么不是免费的，要么功能非常有限。预先感谢您:)   由   提交/u/butterflyy18   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c455fp/ai_questions_generator/</guid>
+      <pubDate>Sun, 14 Apr 2024 21:43:39 GMT</pubDate>
+    </item>
     <item>
       <title>Facebook 正在为 WhatsApp 用户推出 Meta AI。 WhatsApp 端到端加密现在是个笑话吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c418cd/facebook_is_pushing_meta_ai_for_whatsapp_users_is/</link>
@@ -18,13 +39,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c403iu/i_am_creating_an_aipowered_algorithmic_trading/</guid>
       <pubDate>Sun, 14 Apr 2024 18:16:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI音乐生成太疯狂了……</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c3ys03/ai_music_generation_is_crazy/</link>
-      <description><![CDATA[我只是想说 AI Music Generation 绝对令人兴奋。我制作了 40 年代/50 年代版本的《疯狂火车》而且做得非常好。您对人工智能音乐生成有何看法？ https://www.youtube.com/watch？ v=9efYco1CnN0 根据规则8，该应用程序是Suno AI。提示只是复制/粘贴带有“40s jazz”的歌词。作为风格。没有做任何额外的工作（eq、master、标准化等）。   由   提交 /u/ZestVK   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c3ys03/ai_music_generation_is_crazy/</guid>
-      <pubDate>Sun, 14 Apr 2024 17:21:31 GMT</pubDate>
     </item>
     <item>
       <title>最后一年的项目帮助/想法！</title>
@@ -76,25 +90,11 @@
       <pubDate>Sun, 14 Apr 2024 11:36:40 GMT</pubDate>
     </item>
     <item>
-      <title>你会投资xAI吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c3r6u3/would_you_invest_in_xai/</link>
-      <description><![CDATA[如果您能够参与 xAI 的早期阶段，您会投资吗？很想知道您对此的思考过程是什么，以及与其他人工智能初创公司相比，您希望今天对它的公平估值是多少？   由   提交 /u/artificialimpatience   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c3r6u3/would_you_invest_in_xai/</guid>
-      <pubDate>Sun, 14 Apr 2024 11:16:42 GMT</pubDate>
-    </item>
-    <item>
       <title>我们生活在令人难以置信的时代，我构建了一个 Android 应用程序，但我从未编写过代码。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c3pqk6/we_live_in_unbelievable_era_i_built_an_android/</link>
       <description><![CDATA[我们生活在令人难以置信的时代，我构建了一个 Android 应用程序，但我从未编写过代码 我不敢相信这一点实际上是真实且有效的 在 5 天的时间里，从我一生中从未编写和运行代码，到构建一个功能非常好的 Android 应用程序，并且当出现提示时，它使该应用程序看起来也非常好 这是怎么回事！！！ 顺便说一句，我使用了 claude opus 这是一个简单的应用程序，解决了我业务上的一个巨大问题 &lt; p&gt;所以我有一家裁缝店，我们裁缝的任何一件衣服在交给客户之前都会经过 5 个步骤，当我们有很多订单时，有些衣服需要比预期更长的时间，有时我们不知道哪里有件到底是什么以及在哪一步 我们有一个解决方案，将收据编号作为每件上的条形码，如果它通过了任何步骤，我们需要扫描条形码，表明它从该步骤完成 我们的预算不足，因此我考虑制作一个 Android 应用程序（因为您可以获得便宜的 Android 手机），并且每一步都有一台，而不是每一步都配备 5 台与条形码扫描仪连接的计算机 应用程序很简单，首先您选择当前所处的步骤，然后读取条形码，然后提交 之后，信息将写入谷歌电子表格中，并在我们跟踪一件作品从一个步骤到另一个步骤需要多长时间，并确切地知道每件作品在哪里，瓶颈在哪里，以及如何优化制作尽可能多的作品   由   提交/u/bhk0_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c3pqk6/we_live_in_unbelievable_era_i_built_an_android/</guid>
       <pubDate>Sun, 14 Apr 2024 09:39:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于根据规范创建软件应用程序的人工智能。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c3kz83/ais_for_creating_software_applications_from_specs/</link>
-      <description><![CDATA[与聊天机器人对话是创建应用程序的糟糕方式。 CoPilot 之类的东西可以成为很棒的编程助手——非常棒，真的。  但我正在寻找规范的实现工具。对于大型应用程序 有哪些工具可以帮助我根据规格创建应用程序？当然，还要帮助我创建规格。这些规格会采取什么形式？  我认为，协助这项工作的人工智能不仅仅是法学硕士。不管怎样，我只是在寻找跟踪该领域技术的方法。 Al   由   提交 /u/ElroyFlynn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c3kz83/ais_for_creating_software_applications_from_specs/</guid>
-      <pubDate>Sun, 14 Apr 2024 04:29:57 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>

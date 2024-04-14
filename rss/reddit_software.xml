@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 14 Apr 2024 20:58:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 22:50:02 GMT</lastBuildDate>
+    <item>
+      <title>互联网下载管理器 (IDM) 替代方案</title>
+      <link>https://www.reddit.com/r/software/comments/1c46fh0/internet_download_manager_idm_alternative/</link>
+      <description><![CDATA[大家好！我已经使用 IDM 一段时间了，不太喜欢这个界面，但我找不到具有相同功能集的替代品。浏览器集成使下载变得无缝，而且我可以非常轻松地从网站下载视频，这一事实是无价的。在视频的右上角旁边，您会看到 IDM 按钮，其中显示可用视频的丢失（不同质量），您可以快速选择要下载的视频的质量。 有吗还有其他具有该功能的下载管理器吗？我尝试过 Jdownloader2 和免费下载管理器。无法使用它们实现相同的功能或用户体验。   由   提交 /u/allmasksoneface   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c46fh0/internet_download_manager_idm_alternative/</guid>
+      <pubDate>Sun, 14 Apr 2024 22:39:32 GMT</pubDate>
+    </item>
     <item>
       <title>用于将文件放入文件夹并将文件夹重命名为文件名的 Windows 应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1c3zpsw/windows_app_for_putting_files_in_folders_and/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[各位晚上好，我正在寻找可以使用鼠标手势模拟键盘快捷键的软件推荐。例如。按住右键+光标向下= ctrl + w。 我寻找这个的原因主要是为了用不受浏览器限制的东西替换我的鼠标手势 Firefox 扩展（Gesturefy） . 谢谢   由   提交 /u/IMockNoveltyAccounts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c35ztk/whats_the_best_windows_software_for_mouse_gestures/</guid>
       <pubDate>Sat, 13 Apr 2024 16:33:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何自动创建并行 Windows 文件夹之间的快捷方式</title>
-      <link>https://www.reddit.com/r/software/comments/1c35olk/how_to_automate_creation_of_shortcuts_between/</link>
-      <description><![CDATA[我想要自动执行一项涉及 Windows 文件夹和快捷方式的任务。 我希望您能指出我(1) 已经存在的软件可以自动执行此任务，或者 (2) 可以通过编程来自动执行此任务的软件（在这种情况下，我会在 Upwork 上找到某人来帮助编程）。 背景如下： 我们公司有两个父文件夹：FIELD 和 OFFICE 在这两个父文件夹中，我们有相同名称的项目子文件夹： 例如： Project1、Project2、Project3 - 这些项目子文件夹同时存在于 FIELD 和 OFFICE 中 这是任务： 目前，每次我们添加新项目（例如：Project4）时，我都会手动添加在 FIELD 中创建一个 Project4 子文件夹，我在 OFFICE 中手动创建一个 Project4 子文件夹，然后在 OFFICE\Project4 中，创建一个快捷方式，将我带到 FIELD\Project4 这是我要查找的内容：&lt; /h1&gt; 该软件可让我简单地浏览并选择两个父文件夹（FIELD 和 OFFICE），按一个按钮来检查并行子文件夹之间是否存在 OFFICE-to-FIELD 快捷方式，如果不存在则创建一个快捷方式. *在有人问“为什么不直接合并 OFFICE 和 FIELD 父文件夹？”之前？ - 数据安全和我们使用的一些其他应用程序使得这两个父文件夹必须保持独立而不是合并。 感谢大家的帮助！   由   提交/u/ClinoTool  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1c35olk/how_to_automate_creation_of_shortcuts_between/</guid>
-      <pubDate>Sat, 13 Apr 2024 16:19:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 14 Apr 2024 20:58:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 22:50:30 GMT</lastBuildDate>
+    <item>
+      <title>为什么 Instagram Graph API 如此复杂</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c46ipb/why_instagram_graph_api_is_so_complicated/</link>
+      <description><![CDATA[“到底为什么这么复杂？” — 那就是我，当我第一次作为 IG 工程师开始研究 Graph API 时，我抓狂了。 有没有想过为什么有这么多不同的端点和端点？ Meta API 世界中 IG Media 的变体？ 有 IG Media、Instagram 媒体，以及 媒体。所有这些都意味着同一件事：Instagram 帖子。几年前，在 Instagram Legacy API（非图）被弃用之前，IG 媒体甚至还有第四个端点 (网络存档）。疯了，对吧？ 参见我的Substack 帖子，我试图以一名前元工程师的身份解释这种疯狂背后的原因。 所以，你发现的任何内容使用 Meta API 时感到困惑？请在下面发表评论，我会看看是否可以帮忙解释。   由   提交/u/mhaowork  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c46ipb/why_instagram_graph_api_is_so_complicated/</guid>
+      <pubDate>Sun, 14 Apr 2024 22:43:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>邮递员问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c46apm/postman_question/</link>
+      <description><![CDATA[你好！ 我确信这是一个非常愚蠢的问题，但我正在努力学习邮递员，这样我就可以更熟悉API设置。我决定测试 CatAPI，因为这看起来非常简单。我首先上传了一些图像并获取了它们的 ID，现在我正尝试列出一个最喜欢的列表。然而，每次我这样做时，我都会收到一条错误消息，指出 image_id 是必需的，即使我列出了它。有人介意帮助我理解哪里出错了吗？ 作为参考，我将其设置为 POST “https://api.thecatapi.com/v1/favourites” 就像文档中一样。在标题中，我列出了 x-api-key 及其在文档中定义的内容。我尝试过使用表单数据和原始数据。在表单数据中，我将 image_id 作为键，以图像 ID 作为值。对于原始数据，我有 {“image_id”：此处的值} 谢谢！   由   提交 /u/yo_yo_vietnamese   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c46apm/postman_question/</guid>
+      <pubDate>Sun, 14 Apr 2024 22:33:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>请求：如何快速构建具有鲁棒性的 CRUD 应用程序原型？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c462bj/request_how_to_fast_prototyping_crud_app_with/</link>
+      <description><![CDATA[需要你们的想法，小伙子们，小系统设计头脑风暴:)  我想构建一个功能相对简单的网络应用程序（网络应用程序/日历/调度程序具有针对本地企业的特定功能（&lt;5）），我已经为客户做好了准备。 B 员工会使用该软件，因此可靠性是必须的（数千名客户，工作流程软件）。希望避免使用内存数据库部署单个映像。它不是内存或使用密集型的。没有计算。  要求： &gt;前端（通过按钮具有自定义工作流程功能的日历）与后端通信&gt;后端用于与api通信，存储在db中，登录门户等由前端触发&gt;耐用性/坚固性：&gt;确保数据库有一个副本，以防主数据库出现故障 &gt;现在可以使用带有客户密钥的单个主数据库&gt;涉及 docker 进行版本控制，以及使用简单的 ci/cd 进行快速测试（可能会在某个时候雇用一名离岸/欧盟开发人员来处理此问题）&gt;低成本、省力、高效益。我认为通过免费的云层，这可以很好地工作，而不会使事情变得复杂。  我是一名 jr+ 开发人员，擅长脚本编写，擅长一些基础设施工作。我或多或少需要实现一个日历来调度 当前技能：python、terraform/docker/some was/等等。  很高兴避免复杂性。   由   提交/u/D675vroom  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c462bj/request_how_to_fast_prototyping_crud_app_with/</guid>
+      <pubDate>Sun, 14 Apr 2024 22:23:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cookie 横幅很烦人</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c45io8/cookie_banners_are_annoying/</link>
+      <description><![CDATA[每个网站都有一个烦人的弹出式横幅，上面写着类似的内容—— “可以放置 cookie 🍪 👉👈🥹 ” 这有什么意义？ 为什么这是一件事？   由   提交/u/SaltNo8237  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c45io8/cookie_banners_are_annoying/</guid>
+      <pubDate>Sun, 14 Apr 2024 21:59:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我还有两个小时可以消磨。所以我无缘无故地设计了一个博客。你怎么认为？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c45aox/i_had_2_hours_to_kill_so_i_designed_a_blog_for_no/</link>
+      <description><![CDATA[链接如下：https://bored-blog。网络化。 app  显然，如果你的帖子有 netlify 链接，reddit 会自动删除它。所以我不得不这样发布，抱歉给您带来不便。   由   提交 /u/mekmookbro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c45aox/i_had_2_hours_to_kill_so_i_designed_a_blog_for_no/</guid>
+      <pubDate>Sun, 14 Apr 2024 21:49:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪里可以找到免费的好字体？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4534f/where_to_find_free_good_fonts/</link>
+      <description><![CDATA[我厌倦了使用谷歌字体并到处看到 Roboto。没有其他选择吗？    由   提交/u/Blackwater_7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4534f/where_to_find_free_good_fonts/</guid>
+      <pubDate>Sun, 14 Apr 2024 21:40:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道我如何修改这个白框吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c44mas/does_anybody_know_how_i_can_modify_this_white_box/</link>
+      <description><![CDATA[      因此，在 iOS safari 上，当我按住任何菜单项时，会出现一个巨大的白色框在链接预览打开之前，它会出现在它周围。 过去 6 小时我一直在尝试摆脱它，有人可以解释一下吗？ 提前致谢。&lt; /p&gt;   由   提交 /u/Either-Lab-1213   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c44mas/does_anybody_know_how_i_can_modify_this_white_box/</guid>
+      <pubDate>Sun, 14 Apr 2024 21:20:41 GMT</pubDate>
+    </item>
     <item>
       <title>我做了一个简单的游戏，你可以说服一个古怪的法学硕士透露一个秘密密码</title>
       <link>https://www.reddit.com/r/webdev/comments/1c43j9y/i_made_a_simple_game_where_you_convince_a_quirky/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[     &lt; td&gt; 大家好，我需要帮助在我的网站上推广并获得更多参与度。我创建了社交媒体资料并尝试以有机方式对其进行推广，但并不是很成功。我没有尝试过发送电子邮件。 我是否应该为此寻找营销专家（社交媒体经理）或使用付费 Facebook/Google 广告之类的东西？ 我不介意与从事促销/营销业务或对网站感兴趣的人合作。请让我知道如何获得更多人注册该网站。如有任何建议，我们将不胜感激。   由   提交 /u/themudgard    [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c3zbhl/help_with_promoting/</guid>
       <pubDate>Sun, 14 Apr 2024 17:44:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>过去 3 个月我网站主页的进度</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c3ywpw/progression_of_my_websites_homepage_over_the_last/</link>
-      <description><![CDATA[      &amp;# 32；由   提交/u/xor0101  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c3ywpw/progression_of_my_websites_homepage_over_the_last/</guid>
-      <pubDate>Sun, 14 Apr 2024 17:27:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>ELI5：应用程序网址</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c3ykif/eli5_app_urls/</link>
-      <description><![CDATA[通常您会看到 app 网址（例如 app.myproduct.com）进行区分它来自主网站（类似：myproduct.com）。 这种做法有特定的术语吗？如果有人熟悉 React 这样的框架（或者 NextJS 在我的情况下更合适），是否有人有教程的链接，告诉我如何实现它？   由   提交/u/gfdsayuiop   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c3ykif/eli5_app_urls/</guid>
-      <pubDate>Sun, 14 Apr 2024 17:12:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建可重用小部件的方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c3yfbo/ways_to_create_reusable_widgets/</link>
-      <description><![CDATA[有人有创建可在多个不同网站中重复使用的小部件的经验吗？  我所说的小部件是指页面的独立部分，其中包含一些重要的功能。例如，从某些 API 请求数据并显示它的表格或图表。或者允许提交一些信息的表格。小部件只能在公司范围内使用，无需公开使用。无论页面中使用什么 UI 框架（React、Angular 或其他框架），小部件都应该是可嵌入的。  我猜想其中一个选项可以是托管小部件并将其呈现在 iframe 中。但是向它传递数据似乎有点问题（例如小部件道具或身份验证令牌）。它们可能存在更多问题，但目前还不确定。 另一种选择是将小部件实现为 Web 组件。它们的好处之一是可以很容易地将它们打包为 npm 包，并且无需单独托管它们。浏览器支持似乎也不错。但我没有这项技术的经验，所以不知道会发生什么。  任何评论都会有帮助，谢谢。    由   提交 /u/ValdasTheUnique   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c3yfbo/ways_to_create_reusable_widgets/</guid>
-      <pubDate>Sun, 14 Apr 2024 17:06:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以为用户使用 .txt 文件吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c3y5it/can_i_use_a_txt_file_for_users/</link>
-      <description><![CDATA[我知道这是一个愚蠢的问题，但我懒得设置 sql 我在顶部有一个通知，它未加密 用户看起来像这样：Søck,319f4d26e3c536b5dd871bb2c52e3178 就是这样（带有密码）  &amp; #32；由   提交 /u/Mrcool654321   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c3y5it/can_i_use_a_txt_file_for_users/</guid>
-      <pubDate>Sun, 14 Apr 2024 16:55:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪种 Super Ultrawide 适用于 Web 开发/编程？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c3y2iq/which_super_ultrawide_for_web/</link>
-      <description><![CDATA[嗨， 首先需要注意的是，我有一台 Macbook M1 Max，但我不确定如果我认为显示器支持正确。 最初我打算购买DELL U4025QW (https://www.dell.com/en- us/shop/dell-ultrasharp-40-curved-thunderbolt-hub-monitor-u4025qw/apd/210-bmdp/monitors-monitor-accessories），但后来我意识到我无法安装 3 个窗口： 1. IDE 2. Figma Design 3. 在单个屏幕上进行浏览器预览。 所以我希望获得 Dell U4924DW (https://www.dell .com/en-us/shop/dell-ultrasharp-49-curved-usb-c-hub-monitor-u4924dw/apd/210-bgtz/monitors-monitor-accessories）。从阅读评论来看，人们似乎更喜欢比这款尺寸更宽的显示器有更多曲线，像 1800R 这样的显示器似乎是最佳选择。另外，我担心垂直方向上没有足够的像素，无法在代码中看到足够的上下文。 自然的下一步是查看其他品牌，我找到了这 2 个型号：三星 G9 49&quot; VA 和 三星 Neo G9 57&quot; VA，因为我没有在 LG 中找到该尺寸的 1800R 曲率。我不喜欢这个面板是VA而不是IPS，但只要文字良好，就可以了。我非常倾向于购买 Neo G9 57”但我不知道如果这适用于 M1 Max 并且有些人说 1000R 对于生产力来说太多了，那么 1800R G9 49&quot; 就可以了。似乎是一个合理的妥协：足够的屏幕空间（我必须水平打开开发工具），恰到好处的曲率。 非超超宽屏幕不适合我，因为它们不适合舒适的 3 个窗户（遗憾的是我真的想要 U4025QW）。我不会考虑除了超宽之外的任何东西，所以请不要提及 2 显示器设置。考虑到我使用的是 Macbook M1 Max，我应该选择哪一款？   由   提交/u/Technical-Skill4087   reddit.com/r/webdev/comments/1c3y2iq/which_super_ultrawide_for_web/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c3y2iq/which_super_ultrawide_for_web/</guid>
-      <pubDate>Sun, 14 Apr 2024 16:51:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何制作曲线效果</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c3xpbm/how_to_make_the_curve_effect/</link>
-      <description><![CDATA[      您好，我是一名中级 React 开发人员，我需要一些帮助。你能告诉我如何制作这种卡片吗？曲线有点混乱。谢谢。   由   提交 /u/Bubbly-Exit-6569   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c3xpbm/how_to_make_the_curve_effect/</guid>
-      <pubDate>Sun, 14 Apr 2024 16:35:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作自己的后端还是使用 BaaS 服务？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c3xa9x/making_my_own_backend_or_using_a_baas_service/</link>
-      <description><![CDATA[嗨，我有一位家庭成员需要一个网络应用程序来管理她的患者，就像她的其他同事一样。他们仍然使用日记来管理这些信息，因此他们可以使用此过程的自动化。我说是的，所以我开始研究我的技术堆栈，一开始我考虑使用 Express JS 和 PostgreSQL 自己制作后端，然后使用纯 React 和 Tailwind 将其作为 API 连接到前端。然而，由于这将是我的“第一次”我做的自由项目，考虑到它实际上会对其他人的生活产生影响，我对扩展、漏洞等感到有点不安。所以我正在考虑使用像 supabase 这样的 BaaS 框架来管理所有这些，但我我仍在争论这个决定，因为它实际上并不是一个巨大的网络应用程序，它最多只能由 3 或 4 个工作人员使用，但是它们存储的数据虽然不是很大，但相当大，而且是非常敏感的数据，并且我也从未使用过 Firebase 或 Supabase 之类的东西（不过我之前已经制作过自己的后端）。所以你怎么看？我应该创建自己的后端还是使用 BaaS 来管理它？或者您会使用其他替代方案吗？   由   提交 /u/Beagles_Are_God   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c3xa9x/making_my_own_backend_or_using_a_baas_service/</guid>
-      <pubDate>Sun, 14 Apr 2024 16:17:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
