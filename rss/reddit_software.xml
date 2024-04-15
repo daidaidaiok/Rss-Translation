@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 14 Apr 2024 22:50:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 02:34:30 GMT</lastBuildDate>
+    <item>
+      <title>如何打开 .vep 文件？</title>
+      <link>https://www.reddit.com/r/software/comments/1c4aw4b/how_do_i_open_vep_files/</link>
+      <description><![CDATA[我无法使用 avs 编辑器打开它们   由   提交 /u/OhMyKys   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c4aw4b/how_do_i_open_vep_files/</guid>
+      <pubDate>Mon, 15 Apr 2024 02:13:43 GMT</pubDate>
+    </item>
     <item>
       <title>互联网下载管理器 (IDM) 替代方案</title>
       <link>https://www.reddit.com/r/software/comments/1c46fh0/internet_download_manager_idm_alternative/</link>
@@ -27,7 +34,7 @@
       <pubDate>Sun, 14 Apr 2024 17:50:12 GMT</pubDate>
     </item>
     <item>
-      <title>有推荐的视频转换应用程序吗？我想将 avi 文件转换为 mp4。</title>
+      <title>有什么视频转换软件推荐吗？我想将 avi 文件转换为 mp4。</title>
       <link>https://www.reddit.com/r/software/comments/1c3ypib/any_video_converting_aps_you_recommend_i_want_to/</link>
       <description><![CDATA[ 由   提交 /u/solidprospect   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c3ypib/any_video_converting_aps_you_recommend_i_want_to/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>激光扫描和 3D 重建</title>
       <link>https://www.reddit.com/r/software/comments/1c3qr0l/laser_scanning_and_3d_reconstruction/</link>
-      <description><![CDATA[大家好！ 我是 Andre，我是最后一年的硕士生，我正在研究我的最终项目，我的项目包括使用激光在不同位置收集 3D 图像，然后我们必须重建图像。 例如： 我们在不同位置扫描手掌然后完成重新创建一只手的任务。 我的文件采用 .xyz 格式，我需要某种帮助，因为我对此类主题没有经验或知识，任何帮助都将是欢迎。   由   提交/u/thejman0499  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我是 Andre，我是最后一年的硕士生，我正在研究我的最终项目，我的项目包括使用激光在不同位置收集 3D 图像，然后我们必须重建图像。 例如： 我们在不同位置扫描手掌然后完成重新创建一只手的任务。 我的文件采用 .xyz 格式，我需要某种帮助，因为我对此类主题没有经验或知识，任何帮助都可以欢迎。   由   提交/u/thejman0499  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c3qr0l/laser_scanning_and_3d_reconstruction/</guid>
       <pubDate>Sun, 14 Apr 2024 10:48:55 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿r/software！我儿子对军事/国防/警察后勤感兴趣，我想下载一些软件（最好是免费的 Mac 版），看起来会用于跟踪导弹等军事战略。他喜欢感觉自己是国防部或其他部门中非常重要的人物。谢谢！   由   提交/u/Aggravating-Ad7467    reddit.com/r/software/comments/1c36i2k/any_govt_softwares_open_to_the_public/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c36i2k/any_govt_softwares_open_to_the_public/</guid>
       <pubDate>Sat, 13 Apr 2024 16:56:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于鼠标手势的最佳 Windows 软件是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1c35ztk/whats_the_best_windows_software_for_mouse_gestures/</link>
-      <description><![CDATA[各位晚上好，我正在寻找可以使用鼠标手势模拟键盘快捷键的软件推荐。例如。按住右键+光标向下= ctrl + w。 我寻找这个的原因主要是为了用不受浏览器限制的东西替换我的鼠标手势 Firefox 扩展（Gesturefy） . 谢谢   由   提交 /u/IMockNoveltyAccounts   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1c35ztk/whats_the_best_windows_software_for_mouse_gestures/</guid>
-      <pubDate>Sat, 13 Apr 2024 16:33:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
