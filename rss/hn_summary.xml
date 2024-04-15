@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 15 Apr 2024 01:31:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 03:54:57 GMT</lastBuildDate>
     <item>
-      <title>[媒体]为什么蒙特利尔成为被盗汽车出口中心？</title>
-      <link>https://t.me/hn_summary/84560</link>
-      <description><![CDATA[为什么蒙特利尔是被盗汽车出口中心？&lt; br/&gt;
-由于蒙特利尔港的战略位置和庞大的集装箱量，蒙特利尔已成为被盗汽车出口枢纽。犯罪分子将偷来的车辆装入多伦多地区的集装箱中，伪造文件，然后将其运往蒙特利尔出口。尽管努力打击汽车盗窃，但司法管辖权限制、人员缺乏和有组织犯罪阻碍了进展。蒙特利尔港口缺乏集装箱检查，使得出口被盗车辆成为一项利润丰厚、风险低的工作，只有一小部分集装箱被扫描。本期凸显了当局在预防全球港口城市有组织犯罪活动方面所面临的挑战。]]></description>
-      <guid>https://t.me/hn_summary/84560</guid>
-      <pubDate>Mon, 15 Apr 2024 01:31:23 GMT</pubDate>
+      <title>[媒体] 这篇来自 mathgarage.wordpress.com 的博文分享了 Heron 公式的独特证明 [...]</title>
+      <link>https://t.me/hn_summary/84586</link>
+      <description><![CDATA[用复数证明Heron公式（2013）&lt; br /&gt;
+这篇来自 mathgarage.wordpress.com 的博文分享了一个独特的使用复数证明海伦公式。作者由于工作繁忙，时间紧迫，想与读者分享这个美丽的证明。证明的起源未知，给数学概念增添了神秘感。这篇文章对一个众所周知的公式提供了全新的视角，使其成为寻求解决几何问题新方法的数学爱好者的必读之作。]]></description>
+      <guid>https://t.me/hn_summary/84586</guid>
+      <pubDate>Mon, 15 Apr 2024 03:54:57 GMT</pubDate>
     </item>
     <item>
-      <title>“semantic-autocomplete”项目是一个 React 组件，它扩展了 v5 MUI 的自动完成功能 [...]</title>
-      <link>https://t.me/hn_summary/84559</link>
-      <description><![CDATA[显示 HN：语义搜索 React 组件
-“semantic-autocomplete”项目是一个 React 组件，它扩展了 v5 MUI 的自动完成功能，并在客户端使用小型量化机器学习模型执行相似性搜索。它允许对网页的文本段落进行搜索和排序。该项目的与众不同之处在于，它在 React 组件中提供了完整的功能，以及其他属性，例如基于余弦相似度的过滤选项阈值、onResult 回调函数以及指定 ML 模型存储库的能力。使用的默认模型是“TaylorAI/gte-tiny”，但可以更改。该项目将 Transformers.js 归功于 xonova，将 gte-tiny 模型归功于 andersonbcdefg。]]></description>
-      <guid>https://t.me/hn_summary/84559</guid>
-      <pubDate>Mon, 15 Apr 2024 01:14:15 GMT</pubDate>
+      <title>[媒体]在伊朗最近对以色列领土发动的袭击中，伊斯兰革命卫队 [...]</title>
+      <link>https://t.me/hn_summary/84585</link>
+      <description><![CDATA[以色列 Hetz 3 或美国海军 SM-3 发现伊朗大气层外威胁&lt; /a&gt;
+在伊朗最近对以色列领土发动的袭击中，伊斯兰革命卫队发射了一系列无人机和弹道导弹，以色列成功拦截了大部分威胁。社交媒体上流传的一段视频显示，伊朗导弹可能在大气层外被拦截，如果得到证实，这将是罕见且意义重大的事件。以色列的“箭3”和美国海军的SM-3拦截机能够进行此类大气层外拦截，展示了先进的防御能力。在太空拦截弹道导弹可以最大限度地降低地球上核尘埃的风险，但可能会产生对卫星构成威胁的太空碎片。]]></description>
+      <guid>https://t.me/hn_summary/84585</guid>
+      <pubDate>Mon, 15 Apr 2024 03:50:53 GMT</pubDate>
     </item>
     <item>
-      <title>在这个由多部分组成的系列中，我的目标是专门向 C++ 从业者教授 Swift，重点是 [...]</title>
-      <link>https://t.me/hn_summary/84558</link>
-      <description><![CDATA[面向 C++ 从业者的 Swift，第 1 部分：简介和值类型
-在这个由多部分组成的系列中，我的目标是专门向 C++ 从业者教授 Swift，重点是将 C++ 习惯用法和模式映射到 Swift。我们将探索 Swift 的魔力，例如类型检查泛型和值类型，并解决可能挑战 C++ 敏感性的差异。从值类型开始，我们将 C++ 向量与 Swift 数组进行比较，并深入研究作为值类型的结构。 Swift 对本地推理的不变性和明确的初始化保证的强调得到了强调。我们将介绍 Swift 独特的初始化、委托和标记参数方法，为 C++ 从业者过渡到 Swift 提供全面的指南。 （根据 33% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84558</guid>
-      <pubDate>Mon, 15 Apr 2024 00:53:05 GMT</pubDate>
+      <title>[媒体]癌症仍然是死亡的主要原因，许多患者面临着不确定的结果[...]</title>
+      <link>https://t.me/hn_summary/84584</link>
+      <description><![CDATA[癌症患者现在可以通过 DNA“匹配”最佳治疗&lt; /a&gt;
+癌症仍然是死亡的主要原因，许多患者面临标准治疗的不确定结果。功能性精准医学是一种针对患者自身癌细胞测试药物的个性化方法，在为患者匹配有效的治疗方面显示出有希望的结果。这种方法将药物敏感性测试与 DNA 分析相结合，显着改善了癌症患者的治疗效果，其中 83% 的患者获得了临床获益。通过整合人工智能和扩大临床试验，研究人员旨在进一步个性化癌症治疗并帮助更多患者获得量身定制的治疗方法。]]></description>
+      <guid>https://t.me/hn_summary/84584</guid>
+      <pubDate>Mon, 15 Apr 2024 03:46:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] www.3blue1brown.com 上的这篇文章衷心感谢所有支持者和朋友 [...]</title>
-      <link>https://t.me/hn_summary/84557</link>
-      <description><![CDATA[3Blue1Brown：可视化注意力，变形金刚的心脏
-www.3blue1brown.com 上的这篇文章是衷心的感谢感谢所有使原始视频成为可能的支持者和赞助人。作者对做出贡献的人表示感谢，并鼓励其他人加入支持正在进行的项目。名单很广泛，展示了做出过贡献的不同群体的个人。作者对社区的赞赏以及他们对创造有价值的课程的奉献精神在整个帖子中显而易见。]]></description>
-      <guid>https://t.me/hn_summary/84557</guid>
-      <pubDate>Mon, 15 Apr 2024 00:47:00 GMT</pubDate>
+      <title>您是否希望在手册中记录您的 UNIX 实用程序、库或驱动程序？</title>
+      <link>https://t.me/hn_summary/84583</link>
+      <description><![CDATA[实用 Unix 手册：mdoc (2014)
+您是否希望在手册中记录您的 UNIX 实用程序、库或驱动程序？实用 UNIX 手册：mdoc 是一本专注于用 mdoc 语言编写可移植且可维护的 UNIX 手册的指南。本书提供教程和最佳实践，而不是参考指南。选择 mdoc 是因为它在现代 UNIX 系统上的可用性及其语义注释方法，确保跨平台的联机帮助页一致。 UNIX 联机帮助页的历史部分提供了对联机帮助页演变的深入了解。所有内容均获得知识共享许可，并归属作者 Kristaps Dzonsons。查看最新版本 0.1.4，更新于 2014 年 4 月 7 日。]]></description>
+      <guid>https://t.me/hn_summary/84583</guid>
+      <pubDate>Mon, 15 Apr 2024 03:45:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 2009 年，气候门争议爆发，当时来自气候研究机构的电子邮件 [...]</title>
-      <link>https://t.me/hn_summary/84556</link>
-      <description><![CDATA[气候门 (2009)
-2009年，东安格利亚大学气候研究中心的电子邮件被黑客入侵并泄露，气候门争议爆发，导致人们指责这是操纵气候数据的科学阴谋。气候变化否认者抓住了这些电子邮件，但随后的调查没有发现欺诈或不当行为的证据。主流媒体在哥本哈根气候变化峰会之前报道了这个故事，引发了一场针对科学界的抹黑运动。尽管存在争议，但关于人类活动导致全球变暖的科学共识并未改变。该事件被描述为人为制造的干扰，是对科学界前所未有的攻击。 （根据故事文本的 10% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/84556</guid>
-      <pubDate>Mon, 15 Apr 2024 00:43:56 GMT</pubDate>
+      <title>[媒体] WarpFactory 是 MATLAB 中的一个数值工具包，用于分析基于曲速驱动时空的 [...]</title>
+      <link>https://t.me/hn_summary/84582</link>
+      <description><![CDATA[曲速工厂：用于分析曲速驱动时空的数值工具包 
+WarpFactory 是 MATLAB 中的一个数值工具包，用于基于广义相对论分析曲速驱动时空。它专注于通过 3D 有限差分求解器、能量条件评估、度量标量评估和 GPU 利用等功能来评估时空的物理性以加快计算速度。该项目通过提供分析曲速驱动时空的综合框架而脱颖而出。作者 Christopher Helmerich 和 Jared Fuchs 在其他人的贡献下开发了这个工具包。我们鼓励用户在已发表的作品中引用他们对 WarpFactory 的使用。]]></description>
+      <guid>https://t.me/hn_summary/84582</guid>
+      <pubDate>Mon, 15 Apr 2024 03:38:40 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇发人深省的文章中，作者认为 Base 10 并不是测量 [...]</title>
-      <link>https://t.me/hn_summary/84555</link>
-      <description><![CDATA[Base 10 不是一个好的底座
-在这篇发人深省的文章中，作者认为 Base 10 并不是一个好的测量基础。他们指出，理想情况下，底数应该是 2 的幂或具有有用的因子，而底数 10 所缺乏。作者幽默地想象了一个有八个手指的外星种族，他们会觉得我们对 Base 10 的使用很奇怪。他们建议使用 12 或 8 这样的基数会更实用。这种独特的视角挑战了人们普遍认为 Base 10 是测量系统最合理的选择。]]></description>
-      <guid>https://t.me/hn_summary/84555</guid>
-      <pubDate>Mon, 15 Apr 2024 00:42:53 GMT</pubDate>
+      <title>[媒体] 苹果公司</title>
+      <link>https://t.me/hn_summary/84581</link>
+      <description><![CDATA[Android 竞争对手崛起，苹果 iPhone 出货量暴跌 10% 
+苹果公司正面临挫折，iPhone 出货量在 3 月份季度下降了 10%，在中国的销售也受到了打击。尽管智能手机行业普遍反弹，但苹果 iPhone 的出货量仅为 5010 万部，低于分析师的预期。这一下降发生之际，Android 竞争对手正在崛起，对苹果的市场主导地位构成了挑战。争议在于苹果如何努力维持自己在竞争对手中的地位，而令人惊讶的是尽管行业整体增长，iPhone 出货量却意外下降。]]></description>
+      <guid>https://t.me/hn_summary/84581</guid>
+      <pubDate>Mon, 15 Apr 2024 03:36:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]花旗最近解雇了 7,000 名员工，平均每人支付 21.4 万美元。</title>
-      <link>https://t.me/hn_summary/84554</link>
-      <description><![CDATA[花旗 7 千名被裁员工平均每人拿到 21.4 万美元&lt; /a&gt;
-花旗最近解雇了 7,000 名员工，平均每人支付 21.4 万美元。由于该银行的目标是到 2026 年总共裁员 20,000 名员工，因此被裁的大多数人都是初级副行长或以下级别。首席执行官简·弗雷泽 (Jane Fraser) 称这些裁员是该银行做出的最重大的改变，从而实现了更高效的运营。这次裁员提醒人们，即使在管理层重组中，初级员工也往往受到最大的影响。花旗计划再裁员 13,000 名员工，重点关注技术和支持团队，而优质服务等某些领域正在蓬勃发展。]]></description>
-      <guid>https://t.me/hn_summary/84554</guid>
-      <pubDate>Mon, 15 Apr 2024 00:37:48 GMT</pubDate>
+      <title>[媒体] PicoGK 是一个紧凑且强大的计算工程几何内核，开发 [...]</title>
+      <link>https://t.me/hn_summary/84580</link>
+      <description><![CDATA[PicoGK 是一个紧凑而强大的计算工程几何内核
+PicoGK 是一个紧凑而强大的计算工程几何内核，由 Lin Kayser 开发并由 LEAP 71 维护。它在 Apache License 2.0 下开源，旨在为计算工程提供一个中立、透明和免费的平台。 PicoGK 的与众不同之处在于提供基于 C# 的项目以及单独的基于 C++ 的运行时库 PicoGKRuntime，它为其他几何内核的实现提供了最小的接口。该项目鼓励软件供应商支持 PicoGKRuntime API 并提供 LEAP 71 ShapeKernel 作为构建计算工程模型的开源替代方案。]]></description>
+      <guid>https://t.me/hn_summary/84580</guid>
+      <pubDate>Mon, 15 Apr 2024 03:32:31 GMT</pubDate>
     </item>
     <item>
-      <title>萨斯卡通冰冻死亡事件涉及 20 世纪 90 年代和 2000 年代初的加拿大原住民，暂停 [...]</title>
-      <link>https://t.me/hn_summary/84553</link>
-      <description><![CDATA[萨斯卡通冰冻死亡
-萨斯卡通冰冻死亡事件涉及 20 世纪 90 年代和 2000 年代初的加拿大原住民，疑似与萨斯卡通警察局的“星光之旅”有关。原住民被遗弃在城外零度以下的气温下，导致体温过低死亡。尽管因相关罪行被定罪，但没有警察因造成这些死亡而被具体定罪。围绕这些事件的争议一直是电影、音乐和播客的主题，揭示了加拿大历史上的这段黑暗篇章。在维基百科上审查有关这些事件的信息的尝试也引发了进一步的审查。 （根据 88% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84553</guid>
-      <pubDate>Mon, 15 Apr 2024 00:15:39 GMT</pubDate>
+      <title>VisitVault 是一个 Chrome 扩展程序，可以自动跟踪和组织访问过的 URL [...]</title>
+      <link>https://t.me/hn_summary/84579</link>
+      <description><![CDATA[显示 HN：我制作了一个 Chrome 扩展来自动跟踪访问过的网址
+VisitVault 是一款 Chrome 扩展程序，可自动跟踪和组织特定域内访问过的 URL，从而减少手动工作并提供对以前查看过的内容的轻松访问。它突出显示网页上访问过的链接，显示详细的 URL 列表，并在用户浏览域时提供实时更新。该扩展注重隐私，仅跟踪指定域内的 URL，并且消耗最少的系统资源。它还提供跨设备同步功能。 VisitVault 与 Google Chrome 和基于 Chromium 的浏览器兼容。欢迎为改进功能做出贡献。该项目的独特之处在于它专注于特定领域的跟踪和隐私。]]></description>
+      <guid>https://t.me/hn_summary/84579</guid>
+      <pubDate>Mon, 15 Apr 2024 03:29:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]加州科技行业正面临严重衰退，州政府失去了 [...]</title>
-      <link>https://t.me/hn_summary/84552</link>
-      <description><![CDATA[加州正在失去科技工作岗位
-加州科技行业正面临严重衰退，自疫情爆发以来该州失去了大量科技工作岗位。这种下降产生了深远的影响，影响到该州的经济、房地产市场和公共财政。科技岗位的流失导致GDP增长放缓、租金价格降温以及房价下跌。加州对科技行业所得税收入的依赖也是一个主要问题，该州连续面临年度预算赤字，不得不削减或推迟各种州支出项目。尽管面临这些挑战，但随着该行业显示出复苏和投资增加的迹象，短期内科技股仍有希望反弹。加州在高端科技领域仍然拥有显着优势，其居民获得了该行业总薪酬的很大一部分。虽然该州的经济仍然充满活力，但人们担心机会囤积以及需要采取更具包容性的经济政策以确保共同繁荣。 （根据 91% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84552</guid>
-      <pubDate>Mon, 15 Apr 2024 00:06:34 GMT</pubDate>
+      <title>[媒体]通过视觉敏感度测试 (VST) 测量的视觉处理速度可能是 va [...]</title>
+      <link>https://t.me/hn_summary/84578</link>
+      <description><![CDATA[视觉处理速度及其与未来痴呆症的关联：前瞻性研究
+通过视觉敏感度测试（VST）测量的视觉处理速度可能是识别未来有痴呆风险的个人的一个有价值的工具。一项使用 EPIC-诺福克前瞻性人群队列数据的研究发现，VST 得分较低与痴呆症诊断的可能性较高相关。虽然其他认知测试可以更好地预测痴呆症风险，但 VST 对通常与痴呆症相关的因素表现出更高的敏感性。将视觉处理测试与其他神经心理学评估相结合可以提高识别痴呆症风险人群的准确性。]]></description>
+      <guid>https://t.me/hn_summary/84578</guid>
+      <pubDate>Mon, 15 Apr 2024 03:24:23 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：留在湾区还重要吗？</title>
-      <link>https://t.me/hn_summary/84551</link>
-      <description><![CDATA[问 HN：留在湾区还重要吗？ 
-由于AI趋势，湾区出现了人口波动，很多人离开又回来。现在的问题是：留在湾区还重要吗？这场争论仍在继续，一些人认为，在技术中心对于人际网络和职业机会至关重要，而另一些人则认为远程工作和其他地点也可以带来同样的成功。争议在于湾区作为科技圣地的地位在当今的数字时代是否仍然重要。]]></description>
-      <guid>https://t.me/hn_summary/84551</guid>
-      <pubDate>Sun, 14 Apr 2024 23:59:28 GMT</pubDate>
+      <title>[媒体]中国快速的城市化进程导致大量地铁系统的建设 [...]</title>
+      <link>https://t.me/hn_summary/84577</link>
+      <description><![CDATA[中国摇摇欲坠的地铁
+中国快速的城市化导致各大城市建设了众多地铁系统，但其中许多基础设施现在面临着严重的问题。从过度拥挤到安全问题，曾经备受赞誉的地铁系统如今在快速扩张的压力下摇摇欲坠。争议在于政府未能妥善维护和升级这些重要的交通网络，使数百万通勤者的安全和便利面临风险。随着中国不断成长和发展，地铁的状况清楚地提醒我们快速城市化带来的挑战。]]></description>
+      <guid>https://t.me/hn_summary/84577</guid>
+      <pubDate>Mon, 15 Apr 2024 03:15:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

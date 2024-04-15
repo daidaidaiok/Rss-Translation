@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 15 Apr 2024 02:34:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 03:58:23 GMT</lastBuildDate>
+    <item>
+      <title>像 WhatChanged 1.07 这样的程序除了更好之外？</title>
+      <link>https://www.reddit.com/r/software/comments/1c4bvvo/a_program_like_whatchanged_107_except_better/</link>
+      <description><![CDATA[我喜欢 WhatChanged，但不幸的是它并不完全是我所需要的.. Whatchanged 旨在快速进行动态分析，因为它不存储关闭后的目录数据！我知道大多数人倾向于活动或实时文件夹跟踪，但我不是 atm，所以不要试图说服我。我基本上想要一个程序（从其中）可以复制/快照我的目录名称，然后存储管理它们，所以它可以与未来的其他快照进行比较..当然，以一种有效的方式确定并指示我发生了什么变化（因为我不想处理分散的文本文件......）实际上我想做的是给出它是一个要扫描的目录，然后将其存储在数据库中，直到下次我想要比较..非常感谢您的帮助！ ❤️❤️👍🏼   由   提交/u/dokha  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c4bvvo/a_program_like_whatchanged_107_except_better/</guid>
+      <pubDate>Mon, 15 Apr 2024 03:03:54 GMT</pubDate>
+    </item>
     <item>
       <title>如何打开 .vep 文件？</title>
       <link>https://www.reddit.com/r/software/comments/1c4aw4b/how_do_i_open_vep_files/</link>
@@ -34,7 +41,7 @@
       <pubDate>Sun, 14 Apr 2024 17:50:12 GMT</pubDate>
     </item>
     <item>
-      <title>有什么视频转换软件推荐吗？我想将 avi 文件转换为 mp4。</title>
+      <title>有推荐的视频转换应用程序吗？我想将 avi 文件转换为 mp4。</title>
       <link>https://www.reddit.com/r/software/comments/1c3ypib/any_video_converting_aps_you_recommend_i_want_to/</link>
       <description><![CDATA[ 由   提交 /u/solidprospect   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c3ypib/any_video_converting_aps_you_recommend_i_want_to/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>激光扫描和 3D 重建</title>
       <link>https://www.reddit.com/r/software/comments/1c3qr0l/laser_scanning_and_3d_reconstruction/</link>
-      <description><![CDATA[大家好！ 我是 Andre，我是最后一年的硕士生，我正在研究我的最终项目，我的项目包括使用激光在不同位置收集 3D 图像，然后我们必须重建图像。 例如： 我们在不同位置扫描手掌然后完成重新创建一只手的任务。 我的文件采用 .xyz 格式，我需要某种帮助，因为我对此类主题没有经验或知识，任何帮助都可以欢迎。   由   提交/u/thejman0499  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我是 Andre，我是最后一年的硕士生，我正在研究我的最终项目，我的项目包括使用激光在不同位置收集 3D 图像，然后我们必须重建图像。 例如： 我们在不同位置扫描手掌然后完成重新创建一只手的任务。 我的文件采用 .xyz 格式，我需要某种帮助，因为我对此类主题没有经验或知识，任何帮助都将是欢迎。   由   提交/u/thejman0499  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c3qr0l/laser_scanning_and_3d_reconstruction/</guid>
       <pubDate>Sun, 14 Apr 2024 10:48:55 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在使用 Parsec 在连接到另一个房间中运行 DAW (Abelton) 的主机的笔记本电脑客户端上录制音频。我正在使用使用 ASIO（audio id14）的音频接口。不幸的是，从 Parsec 的支持中询问，Parsec 似乎无法拾取任何 ASIO 音频，所以我听不到笔记本电脑上的任何音频，我必须从另一个房间运行耳机才能听到音频。他们是这么说的： “Parsec 只会拾取通过 Windows 播放的音频，而不拾取 ASIO 或类似的音频（因为 Windows 的 API 无法看到该音频来捕获它）”  我对这些东西不是很熟悉，但我认为这可能指的是 Realtek 音频驱动程序（这是我在音频混音器和界面中看到的）。  所以基本上听起来，如果我想从我的笔记本电脑听到音频，我需要某种方法将该音频从 ASIO 路由回 realtek /“windows 音频”。有谁知道我该怎么做？   由   提交 /u/Embarrassed_Field_84   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c39exz/software_for_routing_asio_audio_back_into_windows/</guid>
       <pubDate>Sat, 13 Apr 2024 19:04:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有向公众开放的政府软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1c36i2k/any_govt_softwares_open_to_the_public/</link>
-      <description><![CDATA[嘿r/software！我儿子对军事/国防/警察后勤感兴趣，我想下载一些软件（最好是免费的 Mac 版），看起来会用于跟踪导弹等军事战略。他喜欢感觉自己是国防部或其他部门中非常重要的人物。谢谢！   由   提交/u/Aggravating-Ad7467    reddit.com/r/software/comments/1c36i2k/any_govt_softwares_open_to_the_public/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1c36i2k/any_govt_softwares_open_to_the_public/</guid>
-      <pubDate>Sat, 13 Apr 2024 16:56:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
