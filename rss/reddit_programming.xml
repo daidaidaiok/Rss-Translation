@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 15 Apr 2024 03:58:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:07:04 GMT</lastBuildDate>
+    <item>
+      <title>2024 年 Javascript 状况 [幽默] - 作者：“Senior JS Dev”</title>
+      <link>https://www.reddit.com/r/programming/comments/1c4eu6x/state_of_javascript_in_2024_humor_by_senior_js_dev/</link>
+      <description><![CDATA[ 由   提交/u/ProgrammingMamba189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c4eu6x/state_of_javascript_in_2024_humor_by_senior_js_dev/</guid>
+      <pubDate>Mon, 15 Apr 2024 05:55:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++ 会成为像 Rust 和其他语言一样的安全语言吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1c4e5ue/will_c_become_a_safe_language_like_rust_and_others/</link>
+      <description><![CDATA[ 由   提交/u/ram-foss  /u/ram-foss  infoq.com/news/2024/04/cpp-memory-safety-sutter/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c4e5ue/will_c_become_a_safe_language_like_rust_and_others/</guid>
+      <pubDate>Mon, 15 Apr 2024 05:12:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Powerlite PDO - DBAL PDO Wrapper - 一个 PHP 库，提供与多种类型数据库交互的有效方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1c4dldh/powerlite_pdo_dbal_pdo_wrapper_a_php_library_that/</link>
+      <description><![CDATA[ 由   提交/u/miglisoft  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c4dldh/powerlite_pdo_dbal_pdo_wrapper_a_php_library_that/</guid>
+      <pubDate>Mon, 15 Apr 2024 04:38:53 GMT</pubDate>
+    </item>
     <item>
       <title>Luck 发现的另一个严重错误的故事</title>
       <link>https://www.reddit.com/r/programming/comments/1c4ct0e/a_story_of_another_critical_bug_discovered_by_luck/</link>
@@ -48,7 +69,7 @@
       <pubDate>Sun, 14 Apr 2024 20:36:14 GMT</pubDate>
     </item>
     <item>
-      <title>ChatDB 简介：人工智能驱动的工具，用于使用自然语言查询数据库</title>
+      <title>ChatDB 简介：一种人工智能驱动的工具，用于使用自然语言查询数据库</title>
       <link>https://www.reddit.com/r/programming/comments/1c434cv/introducing_chatdb_an_aipowered_tool_for_querying/</link>
       <description><![CDATA[ 由   提交/u/poppiboi  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c434cv/introducing_chatdb_an_aipowered_tool_for_querying/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/digitebs  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c3y7mt/sum_of_left_leaves_leetcode/</guid>
       <pubDate>Sun, 14 Apr 2024 16:57:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>将设计模式融入设计元素</title>
-      <link>https://www.reddit.com/r/programming/comments/1c3xtlh/dissolving_design_patterns_in_design_elements/</link>
-      <description><![CDATA[ 由   提交/u/nfrankel  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c3xtlh/dissolving_design_patterns_in_design_elements/</guid>
-      <pubDate>Sun, 14 Apr 2024 16:40:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件工程师是否让世界变得更糟？</title>
-      <link>https://www.reddit.com/r/programming/comments/1c3xq3m/are_software_engineers_making_the_world_worse/</link>
-      <description><![CDATA[ 由   提交/u/StartupSquash129  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c3xq3m/are_software_engineers_making_the_world_worse/</guid>
-      <pubDate>Sun, 14 Apr 2024 16:36:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何认识工程师的潜力</title>
-      <link>https://www.reddit.com/r/programming/comments/1c3xbap/how_to_recognize_the_potential_in_engineers/</link>
-      <description><![CDATA[ 由   提交/u/gregorojstersek  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c3xbap/how_to_recognize_the_potential_in_engineers/</guid>
-      <pubDate>Sun, 14 Apr 2024 16:18:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
