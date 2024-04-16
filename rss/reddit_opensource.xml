@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 15 Apr 2024 21:06:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 00:18:08 GMT</lastBuildDate>
+    <item>
+      <title>宣布推出 Paige（由 Team HERMES 开发），这是一个用 C 语言编写的跨平台富文本显示/编辑引擎</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c50jzs/announcing_paige_by_team_hermes_a_crossplatform/</link>
+      <description><![CDATA[HERMES 团队很自豪地重新推出 Paige，这是一个经过时间考验的跨平台专业级解决方案，用于构建具有长格式样式文本的应用程序查看和操作能力。这是一个限制非常宽松的问题（包括从电子邮件撰写到 HTML 创作的所有内容）；因此，这个库的功能令人难以置信齐全。此外，我们在 841 页的官方 OpenPaige 用户指南中精心记录了每一项功能。 Paige 通过 I.P. 找到我们。此次收购是行业典型的“牦牛剃毛”行动的一部分。对于不相关的项目；人员方面的考虑与其进一步发展的可能性有关，而将合格的员工从应用程序转移到单纯的库（无论使用多么广泛）是否明智，是有争议的。 希望避免为了解决无论哪种方式都会出现的难题，我们已经开始了第三个行动方案：在 GNU 宽通用公共许可证下发布完整的 C 源代码，使其像言论一样自由，像啤酒一样自由。事实上，如果您拥有相关知识并且熟悉 Git，我们欢迎您做出贡献。 该项目托管在 Github 上，网址为 https://github.com/nmatavka/HERMES-Paige 以及 SourceForge 上的 https:// sourceforge.net/p/hermes-paige   由   提交 /u/Advocatus-Honestus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c50jzs/announcing_paige_by_team_hermes_a_crossplatform/</guid>
+      <pubDate>Mon, 15 Apr 2024 23:07:25 GMT</pubDate>
+    </item>
     <item>
       <title>Notion2Pandas</title>
       <link>https://www.reddit.com/r/opensource/comments/1c4w5ef/notion2pandas/</link>
-      <description><![CDATA[大家好！我刚刚发布了一个新的 Python 包，notion2pandas，它允许您仅用一行代码将 Notion 数据库导入 pandas 数据帧，并仅用一行代码从 pandas 数据帧更新 Notion 数据库。&lt;无论您是数据科学家、数据工程师、Python 爱好者，还是只是好奇，从终端“pip install notion2pandas”，按照 README 中的教程进行操作，祝您编码愉快！  ​ https://gitlab.com/Jaeger87/notion2pandas   由   提交/u/Jaeger1987   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我刚刚发布了一个新的 Python 包，notion2pandas，它允许您仅用一行代码将 Notion 数据库导入到 pandas 数据框中，并仅用一行代码从 pandas 数据框中更新 Notion 数据库。&lt;无论您是数据科学家、数据工程师、Python 爱好者，还是只是好奇，从终端“pip install notion2pandas”，按照 README 中的教程进行操作，祝您编码愉快！  ​ https://gitlab.com/Jaeger87/notion2pandas   由   提交/u/Jaeger1987   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c4w5ef/notion2pandas/</guid>
       <pubDate>Mon, 15 Apr 2024 20:09:29 GMT</pubDate>
     </item>
@@ -29,12 +36,12 @@
     <item>
       <title>开源微软办公软件</title>
       <link>https://www.reddit.com/r/opensource/comments/1c4mu5d/open_source_microsoft_office/</link>
-      <description><![CDATA[我的办公室告诉我们不能使用破解版 Microsoft Office，因此我们必须卸载它。  这里有人知道 Microsoft Office 的替代品吗？那不仅仅是办公室、开放式办公室和自由办公室。我尝试过但不适合。  需要一些可以商业使用的东西 我们使用的方式是在Excel上使用公式，在PowerPoint中很好的主题。很少有像语法这样的附加组件。如果其他人编辑该文件，引用就会改变。  最重要的是熟悉，所以更容易改变。  编辑2：由于没有一种尺寸适合所有类型的软件，也许只是针对每种软件专门提供替代方案？   由   提交 /u/yukittyred   [链接] [评论]]]></description>
+      <description><![CDATA[我的办公室告诉我们不能使用破解版 Microsoft Office，因此我们必须卸载它。  这里有人知道 Microsoft Office 的替代品吗？那不仅仅是办公室、开放式办公室和自由办公室。我尝试过但不适合。  需要一些可以商业使用的东西 我们使用的方式是在excel上使用公式，在PowerPoint中很好的主题。很少有像语法这样的附加组件。如果其他人编辑该文件，引用就会改变。  最重要的是熟悉，所以更容易改变。  编辑2：由于没有一种尺寸适合所有类型的软件，也许只是针对每种软件专门提供替代方案？   由   提交 /u/yukittyred   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c4mu5d/open_source_microsoft_office/</guid>
       <pubDate>Mon, 15 Apr 2024 13:56:07 GMT</pubDate>
     </item>
     <item>
-      <title>我做了一个 GPL Minecraft 启动器！！</title>
+      <title>我制作了一个 GPL Minecraft 启动器！！</title>
       <link>https://www.reddit.com/r/opensource/comments/1c4li51/i_made_a_gpl_minecraft_launcher/</link>
       <description><![CDATA[我为开源 CLI 启动器 picomc 制作了一个 GUI，以便于使用，我认为它运行得很好，我很乐意有人来测试它！&lt; /p&gt; 它被称为“picodulce”，是为了纪念一种阿根廷糖果，也因为它是世界上最“甜”的糖果。使用picomc的方式 ​ https://github.com/nixietab /picodulce   由   提交/u/shucture  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c4li51/i_made_a_gpl_minecraft_launcher/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Pristine-Adeptness-1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c3uu1x/github_davidewiestreader_free_opensource_website/</guid>
       <pubDate>Sun, 14 Apr 2024 14:28:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>限制智能手机使用的应用程序/软件建议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c3srm9/applicationsoftware_suggestion_for_limit/</link>
-      <description><![CDATA[听说过 blockit 或 Keep Me Out 应用程序。这些需要管理员许可并在您要求的特定时间内锁定您的设备。是否有任何开源替代方案？   由   提交/u/Pranay57  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c3srm9/applicationsoftware_suggestion_for_limit/</guid>
-      <pubDate>Sun, 14 Apr 2024 12:45:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
