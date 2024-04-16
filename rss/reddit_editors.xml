@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 16 Apr 2024 06:06:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 09:05:46 GMT</lastBuildDate>
     <item>
       <title>Davinci Resolve 18.6 中的 Chromakeying 会导致抠像剪辑下方的每一层都表现得像同一个剪辑（使用 Color Tab 进行抠像）</title>
       <link>https://www.reddit.com/r/editors/comments/1c588fg/chromakeying_in_davinci_resolve_186_causes_every/</link>
@@ -43,7 +43,7 @@
     <item>
       <title>潜在客户希望我教他们编辑。你会做吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1c4vn6z/potential_client_wants_me_to_teach_them_editing/</link>
-      <description><![CDATA[我是一名DP，曾经是一名编辑。我遇到了一个小伙子，他是个小导演。这位导演来找我，问我是否愿意坐在他身边教他首映，因为他即将从 Final Cut 切换过来。他说他会买食物和饮料，这样我们就可以出去玩。一方面，教他帮助我找到和他一起工作的机会很小，尽管除了一些自费的文档工作之外，他确实没有太多工作。另一方面，我自己知道，仅仅观看教程是最好的学习方式，而且我宁愿不坐下来教一些可以通过教程轻松学习的东西。我推荐了一些教程，但他们仍然希望我过来教他们。在这个情况下，你会怎么做？    由   提交 /u/jakenbakeboi   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名DP，曾经是一名编辑。我遇到了一个小伙子，他是个小导演。这位导演来找我，问我是否愿意坐在他身边教他首映，因为他即将从 Final Cut 切换过来。他说他会买食物和饮料，这样我们就可以出去玩。一方面，教他帮助我找到和他一起工作的机会很小，尽管除了一些自费的博士工作之外，他确实没有太多工作。另一方面，我自己知道，仅仅观看教程是最好的学习方式，而且我宁愿不坐下来教一些可以通过教程轻松学习的东西。我推荐了一些教程，但他们仍然希望我过来教他们。在这个情况下，你会怎么做？    由   提交 /u/jakenbakeboi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c4vn6z/potential_client_wants_me_to_teach_them_editing/</guid>
       <pubDate>Mon, 15 Apr 2024 19:50:20 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>不同帧速率的 Avid 导出崩溃</title>
       <link>https://www.reddit.com/r/editors/comments/1c4pmhp/avid_export_with_different_frame_rates_crashing/</link>
-      <description><![CDATA[最近作为 AE 进入一个项目，该项目具有混合帧速率。我们现在仅以 24 fps 拍摄，因此我们有一个该 fps 的新项目，但编辑告诉我，当他尝试在该项目中导出非 24 fps 素材时，他的 Avid 崩溃了。  规格： Avid 版本：2024.2.0 计算机：MBP Apple Max 2 芯片 素材：4096 x 2160 ProRes FX6 和 FX3   由   提交 /u/Far-Maintenance-5392   [链接] [评论]]]></description>
+      <description><![CDATA[最近作为 AE 进入一个项目，该项目具有混合帧速率。我们现在只以 24 fps 拍摄，因此我们有一个该 fps 的新项目，但编辑告诉我，当他尝试在该项目中导出非 24 fps 素材时，他的 Avid 崩溃了。  规格： Avid 版本：2024.2.0 计算机：MBP Apple Max 2 芯片 素材：4096 x 2160 ProRes FX6 和 FX3   由   提交 /u/Far-Maintenance-5392   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c4pmhp/avid_export_with_different_frame_rates_crashing/</guid>
       <pubDate>Mon, 15 Apr 2024 15:51:33 GMT</pubDate>
     </item>
