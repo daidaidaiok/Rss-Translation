@@ -4,20 +4,76 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 16 Apr 2024 15:06:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 18:06:52 GMT</lastBuildDate>
+    <item>
+      <title>Bridge — Django 的自动基础设施</title>
+      <link>https://www.reddit.com/r/programming/comments/1c5lzvp/bridge_automatic_infrastructure_for_django/</link>
+      <description><![CDATA[ 由   提交/u/the1024  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c5lzvp/bridge_automatic_infrastructure_for_django/</guid>
+      <pubDate>Tue, 16 Apr 2024 17:30:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Go Generics 进行类型强制访问控制</title>
+      <link>https://www.reddit.com/r/programming/comments/1c5lov5/typeenforced_access_controls_with_go_generics/</link>
+      <description><![CDATA[ 由   提交/u/FreshestOfVegetables  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c5lov5/typeenforced_access_controls_with_go_generics/</guid>
+      <pubDate>Tue, 16 Apr 2024 17:18:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>解决算法问题：绘制网格</title>
+      <link>https://www.reddit.com/r/programming/comments/1c5l4pa/solving_algorithmic_problems_painting_a_grid/</link>
+      <description><![CDATA[ 由   提交/u/alpaylan  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c5l4pa/solving_algorithmic_problems_painting_a_grid/</guid>
+      <pubDate>Tue, 16 Apr 2024 16:56:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>IT 员工调查</title>
+      <link>https://www.reddit.com/r/programming/comments/1c5l4mg/survey_for_it_employees/</link>
+      <description><![CDATA[大家好，这又是我，非常感谢所有参与我的研究的人，我有超过 120 人，但我需要更多的人希望通过一份简短的调查问卷供其中的工作人员使用。   由   提交/u/Business-Ad-3299   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c5l4mg/survey_for_it_employees/</guid>
+      <pubDate>Tue, 16 Apr 2024 16:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特尔和 Starwit Technologies 的智慧城市人工智能解决方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1c5khbb/ai_solutions_for_smart_cities_with_intel_and/</link>
+      <description><![CDATA[ 由   提交/u/WolfofIntel  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c5khbb/ai_solutions_for_smart_cities_with_intel_and/</guid>
+      <pubDate>Tue, 16 Apr 2024 16:30:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 C 调用 OCaml</title>
+      <link>https://www.reddit.com/r/programming/comments/1c5kcs2/calling_ocaml_from_c/</link>
+      <description><![CDATA[ 由   提交/u/eatonphil  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c5kcs2/calling_ocaml_from_c/</guid>
+      <pubDate>Tue, 16 Apr 2024 16:25:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>您真的需要存储所有遥测数据吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1c5kcek/do_you_really_need_to_store_all_that_telemetry/</link>
+      <description><![CDATA[ 由   提交/u/boincl  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c5kcek/do_you_really_need_to_store_all_that_telemetry/</guid>
+      <pubDate>Tue, 16 Apr 2024 16:24:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>授权仍然是工程师的噩梦：启动分布式授权</title>
+      <link>https://www.reddit.com/r/programming/comments/1c5j0p6/authorization_is_still_a_nightmare_for_engineers/</link>
+      <description><![CDATA[ 由   提交 /u/ssglaser   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c5j0p6/authorization_is_still_a_nightmare_for_engineers/</guid>
+      <pubDate>Tue, 16 Apr 2024 15:31:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 Web 代理的基于图形的工作流程构建器</title>
+      <link>https://www.reddit.com/r/programming/comments/1c5iuwj/graphbased_workflow_builder_for_web_agents/</link>
+      <description><![CDATA[ 由   提交 /u/x83ghl    [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c5iuwj/graphbased_workflow_builder_for_web_agents/</guid>
+      <pubDate>Tue, 16 Apr 2024 15:25:10 GMT</pubDate>
+    </item>
     <item>
       <title>适合您下一个项目的最佳技术堆栈</title>
       <link>https://www.reddit.com/r/programming/comments/1c5hwl0/the_best_tech_stack_for_your_next_side_project/</link>
       <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c5hwl0/the_best_tech_stack_for_your_next_side_project/</guid>
       <pubDate>Tue, 16 Apr 2024 14:45:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>初学者</title>
-      <link>https://www.reddit.com/r/programming/comments/1c5hkuo/beginner/</link>
-      <description><![CDATA[大家好 😅 我最近（本周）开始学习编程。关于我现在应该如何/学习什么有什么建议吗？我应该阅读哪些算法和编程逻辑书籍？   由   提交/u/JP_Taborda  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c5hkuo/beginner/</guid>
-      <pubDate>Tue, 16 Apr 2024 14:32:11 GMT</pubDate>
     </item>
     <item>
       <title>您应该了解的 21 个 Kubecost 替代方案</title>
@@ -53,62 +109,6 @@
       <description><![CDATA[ 由   提交/u/ablx0000  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c5euls/why_and_how_i_conduct_personal_postmortems/</guid>
       <pubDate>Tue, 16 Apr 2024 12:27:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Richard Feldman 和 James Lewis 介绍函数式编程中的 Roc 和创新 [播客]</title>
-      <link>https://www.reddit.com/r/programming/comments/1c5dxxd/intro_to_roc_innovation_in_functional_programming/</link>
-      <description><![CDATA[ 由   提交/u/goto-con  /u/goto-con  uzzsprout.com/1714721/14771426&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c5dxxd/intro_to_roc_innovation_in_functional_programming/</guid>
-      <pubDate>Tue, 16 Apr 2024 11:40:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 9 个必看的编程博客和平台，可提高您的编码技能</title>
-      <link>https://www.reddit.com/r/programming/comments/1c5dwcd/9_mustsee_programming_blogs_platforms_to_boost/</link>
-      <description><![CDATA[ 由   提交/u/StartupSquash129  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c5dwcd/9_mustsee_programming_blogs_platforms_to_boost/</guid>
-      <pubDate>Tue, 16 Apr 2024 11:38:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>为《美丽实用的 RESTful API 久经考验的设计指南》的早期审阅者提供数量有限的优惠券（免费）</title>
-      <link>https://www.reddit.com/r/programming/comments/1c5d3pi/limited_number_of_coupons_free_of_charge_for/</link>
-      <description><![CDATA[ 由   提交/u/Personal-Command-436   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c5d3pi/limited_number_of_coupons_free_of_charge_for/</guid>
-      <pubDate>Tue, 16 Apr 2024 10:52:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用CASL在React中实现授权</title>
-      <link>https://www.reddit.com/r/programming/comments/1c5cjh3/how_to_use_casl_for_implementing_authorization_in/</link>
-      <description><![CDATA[ 由   提交/u/Permit_io   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c5cjh3/how_to_use_casl_for_implementing_authorization_in/</guid>
-      <pubDate>Tue, 16 Apr 2024 10:16:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 5 个最热门的移动应用开发趋势</title>
-      <link>https://www.reddit.com/r/programming/comments/1c5c6k7/5_hottest_mobile_app_development_trends_in_2024/</link>
-      <description><![CDATA[ 由   提交/u/Yukti_Solutions  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c5c6k7/5_hottest_mobile_app_development_trends_in_2024/</guid>
-      <pubDate>Tue, 16 Apr 2024 09:52:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>setup.py 和 Makefile：一个足够好的构建工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1c5bum2/setuppy_and_makefile_a_just_good_enough_build_tool/</link>
-      <description><![CDATA[ 由   提交/u/Florents  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c5bum2/setuppy_and_makefile_a_just_good_enough_build_tool/</guid>
-      <pubDate>Tue, 16 Apr 2024 09:29:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发者面临的三大诱惑</title>
-      <link>https://www.reddit.com/r/programming/comments/1c5bnn2/the_three_temptations_for_developers/</link>
-      <description><![CDATA[ 由   提交/u/ElyeProj  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c5bnn2/the_three_temptations_for_developers/</guid>
-      <pubDate>Tue, 16 Apr 2024 09:15:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Tailwind CSS 和 Alpinejs 创建手风琴</title>
-      <link>https://www.reddit.com/r/programming/comments/1c5b4bz/how_to_create_an_accordion_with_tailwind_css_and/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建手风琴[评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c5b4bz/how_to_create_an_accordion_with_tailwind_css_and/</guid>
-      <pubDate>Tue, 16 Apr 2024 08:37:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
