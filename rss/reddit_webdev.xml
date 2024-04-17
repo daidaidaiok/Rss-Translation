@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 17 Apr 2024 00:18:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 03:06:49 GMT</lastBuildDate>
+    <item>
+      <title>[招聘] 寻求聘请一名高级网络开发人员 [每月 5,000 美元]</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5z9uj/hiring_looking_to_hire_a_senior_web_dev_5k_per/</link>
+      <description><![CDATA[嗨！ 我有几个项目需要兼职或全职开发人员。该职位需要一名高级网络开发人员。首先，我会按项目付钱给你，然后再想出一些全职的事情。  该项目的堆栈是 Javascript、React、NodeJS、python、Django 和 AWS。   由   提交 /u/stealnova   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5z9uj/hiring_looking_to_hire_a_senior_web_dev_5k_per/</guid>
+      <pubDate>Wed, 17 Apr 2024 03:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>初学者问题：嵌套 css 或类</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5yz3s/begginer_question_nested_css_or_classes/</link>
+      <description><![CDATA[       由   提交/u/Leading_Draw9267   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5yz3s/begginer_question_nested_css_or_classes/</guid>
+      <pubDate>Wed, 17 Apr 2024 02:47:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何抓取类似于 RSS feed 的社交媒体帐户？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5xehb/how_can_you_scrape_social_media_accounts_similar/</link>
+      <description><![CDATA[我有一个动漫 Facebook 新闻页面，粉丝数略多于 2000 人。这是一项充满爱的劳动，需要花费时间来了解实时和海外的新闻。我最近学习了一些工具，现在使用 feedly 来填充新闻源，并让 zapier 将这些网址发布到我的 Facebook feed 上。虽然出现了一些问题，但到目前为止进展顺利。  我的问题是如何为 Instagram 或 Facebook reels 做类似的事情。一些创作者/作者有自己的个人资料和帖子内容，我的追随者希望看到。如果不像我处理新闻文章那样每天手动执行此操作，是否也有一个系统可以提取这些社交提要？    由   提交/u/Extension-Ad-9371   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5xehb/how_can_you_scrape_social_media_accounts_similar/</guid>
+      <pubDate>Wed, 17 Apr 2024 01:30:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>X 框架选项标头</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5wrwr/xframeoption_header/</link>
+      <description><![CDATA[有人知道如何在使用 Vercel 托管的无头网站中实现此安全标头吗？  该网站使用 Next.js  我找到了这个文档，但我无法用 NextJS 编写。  https://nextjs.org/docs/pages/api -reference/next-config-js/headers 这是一个简单的实现还是会非常复杂？ 提前致谢。    由   提交 /u/unyoushual   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5wrwr/xframeoption_header/</guid>
+      <pubDate>Wed, 17 Apr 2024 01:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费的富文本编辑器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5w6hd/free_rich_text_editor/</link>
+      <description><![CDATA[​ 我有一个高流量网站，目前正在使用tinymce编辑器（例如论坛），但是现在他们想向我们收费。这不在我们的预算之内，所以我正在寻找一个免费的全功能富文本编辑器。有人有什么建议吗？ 我以为谷歌会有一个插件，但我找不到。 ​ 我非常感谢您的任何建议。   由   提交/u/EveBytes  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5w6hd/free_rich_text_editor/</guid>
+      <pubDate>Wed, 17 Apr 2024 00:32:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>产品经理直接将用户故事分配给开发人员：您怎么看？就我个人而言，我认为这让我很困扰。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5w4gx/product_managers_assigning_user_stories_to_devs/</link>
+      <description><![CDATA[到目前为止，我一直在团队中工作，PM 编写用户故事并将故事添加到给定的冲刺中。  ​ 然后，每个开发人员根据对主题的兴趣或熟悉程度来选择他们想要制作的故事。 ​  但在我目前的团队中，PM 直接将故事分配给开发人员，开发人员没有发言权。  ​ 其中的一些事情让我感到不舒服。在 sprint 计划期间，当 PM 说“好吧，你 slim_penguin 将致力于 xxx”时，就好像他们是我的老板一样，我立即感到对完成这项任务有抵触情绪。 也许这是由于权力动态：PM 决定，开发人员服从。以及我之前失去的自由。 ​ 你的看法是什么？  ​ 你会如何以非对抗性的方式在冲刺回顾期间争论开发人员自我分配任务？   由   提交 /u/slim_penguin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5w4gx/product_managers_assigning_user_stories_to_devs/</guid>
+      <pubDate>Wed, 17 Apr 2024 00:29:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>因工作以外的行为而被拒绝晋升</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5w0h6/denied_promotion_due_to_actions_outside_of_work/</link>
+      <description><![CDATA[这并不是一个真正以 webdev 为中心的主题，而更多的是一个一般的职业问题，我想知道 webdev 社区对此有何看法。所以，我想起了几年前的一次经历，当时我认识的一个人由于工作之外的行为而被拒绝担任主角。事情是这样的，这个人正在排队获得领导职位晋升，我们包括我们的老板、部门主管在周五下班后去了酒吧。这个人喝得太多了，我们可以说，他对聚会的气氛有点太投入了。所以没有什么真正疯狂的事情发生，我们都在午夜过后回家。几周后，他收到通知，称他被拒绝出演主角，显然是因为在那一晚的“不成熟”。这让我非常恼火，因为我觉得这很奇怪，考虑到已经是下班时间了，而且这个人很擅长他们的工作，这就是为什么我想看看其他人对这种情况的看法。   由   提交 /u/theofficialnar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5w0h6/denied_promotion_due_to_actions_outside_of_work/</guid>
+      <pubDate>Wed, 17 Apr 2024 00:24:38 GMT</pubDate>
+    </item>
     <item>
       <title>做到这一点有多难？</title>
       <link>https://www.reddit.com/r/webdev/comments/1c5vg8p/how_hard_is_to_do_this/</link>
@@ -36,7 +85,7 @@
     <item>
       <title>轻松修复以缩小网站规模以适应小型设备？</title>
       <link>https://www.reddit.com/r/webdev/comments/1c5u1j6/easy_fix_to_make_a_website_scale_down_for_small/</link>
-      <description><![CDATA[https://importarchive.com/toyota /corolla/1980-1983 在智能手机出现之前，我创建了一个项目网站，显示某些汽车上可用的油漆代码图表。几十年来，我逐步更新了该网站，使其更易于在移动设备上使用，但我从未真正从头开始重建它，也永远不会。不幸的是，我遇到了一个障碍，需要一些帮助来解决。 我的图表是固定宽度（576px），当我在小型设备上使用该网站时，它会截掉图表的右侧部分。调整图像和文本的大小很容易，但这些图表是由我在 2000 年代编写的 PHP 代码拼凑而成的，我没有时间进行彻底的重新编码。 在 Chrome 中使用开发工具在我的电脑上，当我将整个网站主体的最大宽度设置为 576px 时，我突然灵光一现。当我将 Chrome 的响应式窗口缩小到 576 像素以下时，整个网站也缩小了。成功！ 但是当我在 iPhone 12 Mini（350px 屏幕宽度）上尝试时，我只能看到网站左侧 60% 的部分。如果我手动捏出，那么它可以正常工作。 我在这里缺少什么？   由   提交 /u/importarchive   [链接] [评论]]]></description>
+      <description><![CDATA[https://importarchive.com/toyota /corolla/1980-1983 在智能手机出现之前，我创建了一个项目网站，显示某些汽车上可用的油漆代码图表。几十年来，我逐步更新了该网站，使其更易于在移动设备上使用，但我从未真正从头开始重建它，也永远不会。不幸的是，我遇到了一个障碍，需要一些帮助来解决。 我的图表是固定宽度（576px），当我在小型设备上使用该网站时，它会截掉图表的右侧部分。调整图像和文本的大小很容易，但这些图表是由我在 2000 年代编写的 PHP 代码拼凑而成的，我没有时间进行彻底的重新编码。 使用 Chrome 中的开发工具在我的电脑上，当我将整个网站主体的最大宽度设置为 576px 时，我突然灵光一现。当我将 Chrome 的响应窗口缩小到 576 像素以下时，整个网站也缩小了。成功！ 但是当我在 iPhone 12 Mini（350px 屏幕宽度）上尝试时，我只能看到网站左侧 60% 的部分。如果我手动捏出，那么它可以正常工作。 我在这里缺少什么？   由   提交 /u/importarchive   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c5u1j6/easy_fix_to_make_a_website_scale_down_for_small/</guid>
       <pubDate>Tue, 16 Apr 2024 22:57:07 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[所以我的网站现在只有一个页面，即主页。这就是我所需要的，这就是我现在想要的。在页面顶部有一个按钮，上面写着“立即预订”。然后页面中间是一个联系表格。我想链接“立即预订”按钮添加到联系表格中，以便当您按“立即预订”时它会向下滚动到页面中间的联系表单。当我的网站的某个部分位于同一页面上时，如何将按钮链接到该部分？它似乎没有给我任何选择。我目前正在使用免费计划，因为我仍在构建该网站。我需要升级吗？   由   提交/u/Ok_Salt_9211   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c5sx45/wordpress_how_to_link_button_to_same_page/</guid>
       <pubDate>Tue, 16 Apr 2024 22:09:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Wordpress 迁移到另一个包含大量帖子/页面的 cms 有那么困难吗？如何？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5qupy/is_it_that_hard_to_migrate_from_wordpress_to/</link>
-      <description><![CDATA[我还没有这样做，但我可能正在考虑从 WordPress 迁移到另一个无头 cms 平台，如 contentful、strapi、理智，或其他什么。 如果有数千个帖子，则。显然我们不想手动复制/粘贴... 似乎创建某种脚本来获取现有块并格式化它们以适应新的 cms 将是一种可行的方法，但你仍然需要检查所有帖子和页面以确保没有任何问题。 有人处理此类问题吗？处理这个问题最顺利的方法是什么？   由   提交/u/Impossible_Map_2355   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5qupy/is_it_that_hard_to_migrate_from_wordpress_to/</guid>
-      <pubDate>Tue, 16 Apr 2024 20:45:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>LinkedIn 图片从电子邮件分享</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5qogo/linkedin_image_share_from_email/</link>
-      <description><![CDATA[我收到一位客户关于通过电子邮件在 LinkedIn 上创建帖子的问题。流程将是： 用户收到包含“在 linkedin 上共享”的电子邮件按钮 单击按钮对用户进行身份验证 带有预填充消息的窗口，并且出现图像 用户可以编辑消息并发布到他们的个人资料 我在他们的个人资料上找到了图像共享 api开发者网站，但我完全不熟悉他们的 API。似乎可以通过应用程序实现，但我想知道是否允许这样做，特别是通过电子邮件。谢谢！   由   提交/u/flysi3000  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5qogo/linkedin_image_share_from_email/</guid>
-      <pubDate>Tue, 16 Apr 2024 20:38:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>深度链接应用程序的最佳实践。就像 Figma 如何处理从 Web 到桌面应用程序的深度链接/身份验证一样。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5qcz8/best_practices_for_deep_linking_apps_like_how/</link>
-      <description><![CDATA[我的技术堆栈涉及： Web： Supabase + next.js &lt; p&gt;​ 原生： 电子   由   提交/u/techsparrowlionpie  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5qcz8/best_practices_for_deep_linking_apps_like_how/</guid>
-      <pubDate>Tue, 16 Apr 2024 20:25:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的 css/sass 响应式网格框架</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5p3og/best_csssass_responsive_grid_framework/</link>
-      <description><![CDATA[我一直使用自己的 css/sass 网格，因为我找不到我喜欢的网格。我不可能是唯一一个想要使用轻量级网格系统的人。我绝对不喜欢 bootstrap 或 tailwind，因为它们对于这样一个简单的响应式网格系统有很多 css（即使只导入网格和断点）。但除此之外，我找不到如此广泛使用的网格系统。 那么，最好或最常用的 css/sass 响应式网格框架/样板是什么？非常感谢所有提示！   由   提交 /u/DollieExloo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5p3og/best_csssass_responsive_grid_framework/</guid>
-      <pubDate>Tue, 16 Apr 2024 19:35:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Minify Tailwind HTML 通用类名</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5oade/minify_tailwind_html_common_class_names/</link>
-      <description><![CDATA[我使用 Tailwind。假设我有一个像 ... 它在很多地方使用（例如在不同的组件中），但我不想使用像“FlexColumnAlignCenterJustifyCenter”这样的随机组件名称 ...  &gt;...&lt;/div&gt; 是否有一个工具/库可以找到重复和/或常见的内容使用类名的组合并将其缩小为单个类名以减少 HTML 大小？例如，在本例中，它将找到“flex flex-col justify-center items-center...”并将其变成“fwlekj”带有 CSS 属性 .fwlekj{ display: flex; flex-direction: column ... }  我知道 Tailwind 已经缩小了 CSS，我正在询问 HTML &lt;!-- SC_ON - -&gt;  由   提交 /u/Nomad2102   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5oade/minify_tailwind_html_common_class_names/</guid>
-      <pubDate>Tue, 16 Apr 2024 19:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将 SAML 单点登录添加到 Express 应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5muz4/how_to_add_saml_single_sign_on_to_an_express_app/</link>
-      <description><![CDATA[     ＆#32;由   提交/u/ossreleasefeed  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5muz4/how_to_add_saml_single_sign_on_to_an_express_app/</guid>
-      <pubDate>Tue, 16 Apr 2024 18:05:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>facebook API 问题 - 无法请求除电子邮件之外的更多权限</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5muku/issue_with_facebook_api_cant_ask_for_more/</link>
-      <description><![CDATA[你好， 我首先为我糟糕的英语道歉。这不是我的母语。 我正在开发一个涉及使用 facebook API 的网络应用程序。我在开发者门户中创建了一个应用程序。 我使用 Python - Flask 框架和 Flask Dance 模块来处理社交媒体身份验证。 我需要从user : email,pages_show_list,business_management,ads_read,ads_management 当我仅使用“电子邮件”时，一切都很好，但是当我请求其他权限时，我收到此错误： 抱歉，出了点问题。 我们正在努力尽快修复此问题。 我正在使用测试应用程序开发模式，这之前是有效的。我最近刚刚收到此错误。 以下是我向范围添加权限的方法： facebook_bp = make_facebook_blueprint(scope=&#39;email,pages_show_list,business_management,ads_read,ads_management &#39;,redirect_to=“main.facebook_callback”) 即使我使用图形浏览器，我也无法添加任何其他权限。 知道如何解决此问题?   由   提交 /u/yvcn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5muku/issue_with_facebook_api_cant_ask_for_more/</guid>
-      <pubDate>Tue, 16 Apr 2024 18:04:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
