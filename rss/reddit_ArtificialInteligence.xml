@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 18 Apr 2024 12:06:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 15:05:19 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊音乐即将推出 Spotify 的 AI 播放列表，并推出新的 Maestro 功能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c73j77/amazon_music_is_coming_for_spotifys_ai_playlists/</link>
+      <description><![CDATA[亚马逊音乐即将涉足机器人生成的播放列表池，最近宣布添加一项名为 Maestro 的功能，这是其新的 AI 播放列表发电机。  Maestro 目前正在向美国选定数量的订阅者推出测试版，并将在适用于 iOS 和 Android 的 Amazon Music 应用中的所有级别的服务中提供。 Amazon Music 将 Maestro 描述为“一款 AI 播放列表生成器，可帮助您创建任何您能想到的播放列表，以及所有您想不到的播放列表”。  https://www.techradar.com/audio/audio-streaming/amazon-music-is-coming-for-spotifys-ai-playlists-with-new-maestro-feature   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c73j77/amazon_music_is_coming_for_spotifys_ai_playlists/</guid>
+      <pubDate>Thu, 18 Apr 2024 13:36:32 GMT</pubDate>
+    </item>
     <item>
       <title>有没有什么软件可以AI去除视频中的文字？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c715zn/is_there_any_software_with_ai_function_of/</link>
@@ -39,13 +46,6 @@
       <description><![CDATA[有很多关于检索增强生成 (RAG) 管道的文章，作为一项技术，这是非常酷的。但 RAG 技术的下一步是什么？  如果我们可以创建具有可训练检索器的模型，或者简而言之，整个 RAG 管道都是可定制的，就像微调 LLM 一样？  问题当前 RAG 的一个问题是它们与它的子模块不完全协调，它就像一个弗兰肯斯坦怪物，它以某种方式工作，但各部分不协调并且一起执行得相当不理想。因此，为了解决 Frankenstein RAG 的所有问题，让我们深入研究 RAG 2.0。 完整文章：https://medium.com/aiguys/rag-2-0-retrieval-augmented-language-models-3762f3047256 &amp;# x200b;  更好的检索策略：备用检索和密集检索。 Colbert 结合了两者的更高级检索。  SOTA 检索算法： SPLADE、DRAGON 和混合搜索。  将检索器与生成器结合起来： RePlug 和 In-Context RALM（它使用 Frozen RAG 和 BM25，然后通过重新排序仅专门化检索部分。） 组合上下文化检索器和生成器r：解码器中的 k-NN LM 和 Fusion SOTA 上下文： REALM 和 ATLAS  RAG 分为三种类型：  Frozen RAG：我们在整个行业都看到了这些，它们只是 POC。 SemiFrozen RAG：在这里，我们实现了智能猎犬并尝试以某种方式使它们具有适应性。我们在这里不接触 LLM，只使用检索器并将它们与最终输出结合起来。 完全可训练的 RAG： 端到端训练相当困难，但如果正确完成，可提供最佳性能。资源非常密集。  结论 还有很多未探索的领域仍然需要大量研究。但我们可以肯定地说，RAG 目前还处于起步阶段，尤其是当我们谈论人们在行业中实施的内容时。 检索增强生成 (RAG) 模型的联合从头开始预训练，无论是根据参数或标记来扩展语言模型，以及如何有效地扩展检索器（无论是通过参数还是数据块）、将记忆与泛化解耦以及将知识检索与生成过程分离等等，这些都是仍然需要解决的问题答案。   由   提交 /u/Difficult-Race-1188   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c6y9zd/rag_20_better_retrieval_strategies_days_of_frozen/</guid>
       <pubDate>Thu, 18 Apr 2024 08:31:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>嘿街</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c6y97h/ai_carrer/</link>
-      <description><![CDATA[大家好， 我正在寻找职业，我想从 Ai 开始。您对此有什么经验，在人工智能上寻找工作等。有什么建议、意见...   由   提交 /u/ELTEROFF   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c6y97h/ai_carrer/</guid>
-      <pubDate>Thu, 18 Apr 2024 08:29:35 GMT</pubDate>
     </item>
     <item>
       <title>消息人士称，微软与 OpenAI 的交易将避开欧盟正式的合并调查</title>

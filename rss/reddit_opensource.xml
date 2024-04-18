@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 18 Apr 2024 12:07:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 15:06:53 GMT</lastBuildDate>
     <item>
       <title>是否还有其他操作系统与 GNU/Linux 一样接近，或者正在快速改进？</title>
       <link>https://www.reddit.com/r/opensource/comments/1c70isg/are_any_other_operating_systems_just_as_close_as/</link>
@@ -92,7 +92,7 @@
     <item>
       <title>[新，开源] Chrome 扩展程序可自动抓取网站表格/列表</title>
       <link>https://www.reddit.com/r/opensource/comments/1c5jk63/new_opensource_chrome_extension_to_automatically/</link>
-      <description><![CDATA[Rows.com 开源了 RowsX，一个 Chrome 扩展网络抓取工具。 它遵循 MIT 许可，因此任何人都可以分叉并做出贡献，包括为其开放赏金计划做出贡献。 仓库：https://github.com/rows/X    提交人    /u/hcrx   [link] [评论]]]></description>
+      <description><![CDATA[Rows.com 开源 RowsX，一个 Chrome 扩展网络抓取工具。 它遵循 MIT 许可证，因此任何人都可以分叉和贡献，包括他们的开放赏金计划。 仓库：https://github.com/rows/X   由   提交/u/hcrx  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c5jk63/new_opensource_chrome_extension_to_automatically/</guid>
       <pubDate>Tue, 16 Apr 2024 15:53:27 GMT</pubDate>
     </item>
