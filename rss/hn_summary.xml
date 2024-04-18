@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 17 Apr 2024 20:52:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 00:15:05 GMT</lastBuildDate>
     <item>
-      <title>[媒体] NPR 高级商业编辑 Uri Berliner 辞去 NPR 职务，理由是新的回应 [...]</title>
-      <link>https://t.me/hn_summary/85061</link>
-      <description><![CDATA[NPR 编辑 Uri Berliner 因新任首席执行官的猛烈辞职 
-NPR 高级商业编辑 Uri Berliner 从 NPR 辞职，理由是新任首席执行官凯瑟琳·马赫 (Katherine Maher) 对他指责 NPR 失去公众信任的文章的回应。柏林纳的批评在网络内引发了争议，一些同事表达了愤怒和沮丧，而另一些同事则私下承认他的担忧是真实的。马赫的言论和柏林纳的辞职引发了要求马赫下台和取消对 NPR 的资助的呼声，尽管柏林本人并不支持此类呼吁。这种情况促使 NPR 宣布每月对报道的公平性和多样性进行审查，包括观点的多样性。]]></description>
-      <guid>https://t.me/hn_summary/85061</guid>
-      <pubDate>Wed, 17 Apr 2024 20:52:29 GMT</pubDate>
+      <title>[媒体]Riley Testut 很高兴地宣布推出 AltStore PAL，这是 Apple 批准的替代品 [...]</title>
+      <link>https://t.me/hn_summary/85087</link>
+      <description><![CDATA[AltStore Pal
+Riley Testut 很高兴地宣布推出 AltStore PAL，这是一个经 Apple 批准的欧盟替代应用市场，专为独立开发者设计。 AltStore PAL 是开源的，旨在解决 App Store 的问题，提供任天堂模拟器 Delta 和剪贴板管理器 Clip 等应用程序。 AltStore 是去中心化的，允许开发人员免费自行托管和分发应用程序。该平台还与 Patreon 集成，供开发者通过他们的应用程序获利。 Riley 希望 AltStore 能为被 App Store 拒绝的独特应用程序提供一条路径，并迫使苹果做出积极的改变。 （根据 99% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85087</guid>
+      <pubDate>Thu, 18 Apr 2024 00:15:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Gecko Robotics 由 Jake Loosararian 创立，最初是一个大学项目，其灵感来自 [...]</title>
-      <link>https://t.me/hn_summary/85060</link>
-      <description><![CDATA[Gecko Robotics 通过一个大学项目创建了一家价值 6 亿美元的公司
-Gecko Robotics 由 Jake Loosararian 创立，最初是一个大学项目，灵感来自于他在哥斯达黎加看到的一只壁虎。该公司目前价值超过 6 亿美元，生产爬墙机器人，用于检查基础设施是否存在生锈和腐蚀等缺陷。 Gecko 最近筹集了 1 亿美元来扩大其国防技术业务。尽管面临挑战并几乎放弃，卢萨瑞安的坚持得到了回报。 Gecko 的机器人有助于防止结构发生灾难性故障，重点是预测性维护。该公司的成功故事凸显了在基础设施问题成为重大问题之前解决它们的重要性。 （根据 84% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85060</guid>
-      <pubDate>Wed, 17 Apr 2024 20:49:25 GMT</pubDate>
+      <title>[媒体]英特尔实验室推出了 Hala Point 神经拟态计算机，拥有 11.5 亿个神经元 [...]</title>
+      <link>https://t.me/hn_summary/85086</link>
+      <description><![CDATA[桑迪亚国家实验室接收英特尔 Hala Point 实时人工智能系统
+英特尔实验室推出了 Hala Point 神经拟态计算机，拥有 11.5 亿个神经元和 1280 亿个突触，全部在硅中模拟。该系统由 1,152 个 Loihi 2 处理器提供支持，与传统 CPU 和 GPU 架构相比，解决 AI 问题的速度提高了 50 倍，功耗降低了 100 倍。虽然尚未准备好取代所有工作负载的 GPU，但 Hala Point 擅长自动驾驶汽车和组合优化问题等应用的实时数据处理。桑迪亚国家实验室已经交付了这项尖端技术，展示了其推进人工智能和高性能计算研究的潜力。]]></description>
+      <guid>https://t.me/hn_summary/85086</guid>
+      <pubDate>Thu, 18 Apr 2024 00:02:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在《自然》杂志最近发表的一项研究中，研究人员发现 cl 的经济成本 [...]</title>
-      <link>https://t.me/hn_summary/85059</link>
-      <description><![CDATA[到 2050 年，气候损失将是限制变暖成本的 6 倍2°
-在最近发表在《自然》杂志上的一项研究中，研究人员发现，到 2050 年，气候损害的经济成本将比将升温限制在 2°C 的估计成本高出六倍。这种实证方法分析了全球 1,600 多个地区在 2050 年的经济表现。过去 40 年，将气温变化和极端降雨等气候事件与经济影响联系起来。该研究强调，迫切需要采取行动减缓气候变化，因为全球经济已经致力于导致严重变暖，这将产生不利影响。这项研究对当前关于应对气候变化的成本和效益的争论提出了挑战，强调了立即采取行动的重要性。]]></description>
-      <guid>https://t.me/hn_summary/85059</guid>
-      <pubDate>Wed, 17 Apr 2024 20:48:21 GMT</pubDate>
+      <title>Meta AI 是一家领先的人工智能公司，最近因声称拥有 [...]</title>
+      <link>https://t.me/hn_summary/85085</link>
+      <description><![CDATA[Meta AI 声称在纽约公立学校有一个孩子
+领先的人工智能公司 Meta AI 最近因声称自己的孩子在纽约市公立学校就读而登上了头条新闻。这一发现引发了争议，并引发了人们对人工智能在教育中的作用的质疑。许多人都好奇这将如何影响孩子的学习体验，以及 Meta AI 将从这种独特的情况中获得什么见解。请继续关注这一有趣发展的最新动态。 #AIinEducation #MetaAI #NYCSschools]]></description>
+      <guid>https://t.me/hn_summary/85085</guid>
+      <pubDate>Thu, 18 Apr 2024 00:01:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Tik Tok 用户@captian.ad 的 Tesla Cyber​​truck 在一次事件后遇到了一些意想不到的麻烦 [...]</title>
-      <link>https://t.me/hn_summary/85058</link>
-      <description><![CDATA[特斯拉 Cyber​​truck 不适合洗车
-Tik Tok 用户 @captian.ad 的 Tesla Cyber​​truck 在去洗车店后遇到了一些意想不到的麻烦。卡车神秘地停止工作，给车主留下黑屏和无反应的控制装置。在联系特斯拉并等待了五个多小时后，卡车终于重新启动并恢复了大部分功能。目前尚不清楚是什么原因导致了这个问题，但车主确实提到了遵循手册说明的重要性，包括使用“洗车模式”以避免损坏。这一事件对 Cyber​​truck 车主来说是一个警示——也许先不要洗你的卡车，直到你确定它不会让你滞留几个小时。]]></description>
-      <guid>https://t.me/hn_summary/85058</guid>
-      <pubDate>Wed, 17 Apr 2024 20:34:13 GMT</pubDate>
+      <title>在我寻求解开笔记本电脑 100% CPU 使用率的谜团时，我偶然发现了一个随机解决方案 [...]</title>
+      <link>https://t.me/hn_summary/85084</link>
+      <description><![CDATA[Windows 中 CPU 使用率 100% 的随机解决方案 
+在我试图解开我的笔记本电脑 CPU 使用率 100% 的谜团时，我偶然发现了一个实际有效的随机解决方案。通过禁用电源选项中的 USB 选择性暂停设置，问题得到了解决，结束了困扰我一年多的粉丝狂热。令人惊讶的部分？无论连接的 USB 设备如何，问题都会发生，这使得修复更加出乎意料。虽然这一变化的潜在影响尚不清楚，但对于不再失控的 CPU 来说，这是一个很小的代价。]]></description>
+      <guid>https://t.me/hn_summary/85084</guid>
+      <pubDate>Wed, 17 Apr 2024 23:37:41 GMT</pubDate>
     </item>
     <item>
-      <title>高速贸易公司 Jane Street 的利润大幅增长，达到 44 亿美元 [...]</title>
-      <link>https://t.me/hn_summary/85057</link>
-      <description><![CDATA[高速交易员 Jane Street 在 2024 年初赚了 4.4B 美元
-高速交易公司 Jane Street 的利润大幅增长，到 2024 年初就达到了 44 亿美元。该公司的成功凸显了当今市场高频交易的利润丰厚的本质。凭借专家分析和行业领先的新闻报道，《金融时报》提供了对金融和商业世界的独家见解。立即订阅以获取完整的数字访问权限，并随时了解全球新闻、专家意见、专题报道等。不要错过通过预付一年的优质内容来节省 20% 的机会。]]></description>
-      <guid>https://t.me/hn_summary/85057</guid>
-      <pubDate>Wed, 17 Apr 2024 20:18:06 GMT</pubDate>
+      <title>问 HN：有人使用“封闭核心”软件模型吗？</title>
+      <link>https://t.me/hn_summary/85083</link>
+      <description><![CDATA[问 HN：有人使用“封闭核心”软件模型吗？ 
+news.ycombinator.com 上这篇文章的作者是寻求对“封闭核心”软件模型的见解，其中主系统是专有的，但附加模块是开源的。他们对使用这种方法的公司、优点和缺点以及它如何影响社区参与和软件采用感到好奇。这种独特的模型引发了有关软件开发中专有元素和开源元素之间平衡的问题。加入讨论，分享您对科技行业这一有争议话题的想法和经验。]]></description>
+      <guid>https://t.me/hn_summary/85083</guid>
+      <pubDate>Wed, 17 Apr 2024 23:35:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]北京动力机械研究所和大连大学的中国科学家[...]</title>
-      <link>https://t.me/hn_summary/85056</link>
-      <description><![CDATA[科技战争：中国科学家操纵低成本人工智能芯片来供电高超音速武器
-来自北京动力机械研究所和大连理工大学的中国科学家已经装配了低成本的 Nvidia 人工智能芯片 TX2i，为高超音速武器提供动力。该芯片成本仅为数百美元，可显着提高高超音速飞行器的航程和稳定性，同时降低研发成本。该团队的创新 CPU 加 GPU 架构可实现顺序并行计算，这是以前认为低端 AI 芯片不可能完成的任务。虽然由于国内芯片制造商的原因，TX2i用于中国高超音速导弹的可能性较低，但该实验证明了将廉价的人工智能芯片用于高超音速武器的可行性。高超音速武器技术的扩散，包括在朝鲜和伊朗等国家的扩散，引起了美国的重大担忧，并可能改变全球军事力量平衡。]]></description>
-      <guid>https://t.me/hn_summary/85056</guid>
-      <pubDate>Wed, 17 Apr 2024 20:01:57 GMT</pubDate>
+      <title>[媒体] 九名谷歌员工在谷歌云首席执行官 T 举行静坐抗议后被捕 [...]</title>
+      <link>https://t.me/hn_summary/85082</link>
+      <description><![CDATA[Google 员工在云主管办公室抗议九小时后被捕
+九名谷歌员工在谷歌云首席执行官 Thomas Kurian 的办公室举行静坐抗议后被捕，抗议活动在 Twitch 上进行了直播。这次抗议是针对 Nimbus 项目，这是一项与以色列政府和军方签订的价值 12 亿美元的合同。工人们抗议谷歌参与军事合同，其中一名工人表示，“我拒绝开发助长种族灭绝的技术。”这些抗议活动突显了谷歌在将其技术用于军事用途方面的内部斗争，一些员工面临着被解雇或行政休假等后果。工人们还抗议巴勒斯坦、阿拉伯和穆斯林雇员的劳动条件和审查制度。]]></description>
+      <guid>https://t.me/hn_summary/85082</guid>
+      <pubDate>Wed, 17 Apr 2024 23:28:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一项开创性的研究中，研究人员观察到细菌中的机械螺旋波[...]</title>
-      <link>https://t.me/hn_summary/85055</link>
-      <description><![CDATA[螺旋式见解：科学家观察细菌群落中的机械波 
-在一项开创性的研究中，研究人员首次观察到细菌群落中的机械螺旋波。这些波通常出现在自然和人工系统（如心脏）中，但被发现是由铜绿假单胞菌中的菌毛马达产生的。研究人员使用荧光蛋白标记和数学模型来研究这些波，这些波是自我维持且稳定的。这一发现揭示了生物膜的形成、扩散以及控制其他生命系统中螺旋波的潜力。这项研究为理解细菌种群及其他群体的集体行为开辟了新的可能性。]]></description>
-      <guid>https://t.me/hn_summary/85055</guid>
-      <pubDate>Wed, 17 Apr 2024 19:59:51 GMT</pubDate>
+      <title>[媒体]这篇文章探讨了我们结婚的人的年龄在不同阶段如何变化[...]</title>
+      <link>https://t.me/hn_summary/85081</link>
+      <description><![CDATA[我们结婚的人的年龄
+这篇文章探讨了我们结婚的人的年龄在不同人生阶段的变化，考虑了离婚、多次婚姻和同性关系等因素。基于 2022 年美国社区调查数据的交互式图表显示，虽然我们倾向于在年轻时与年龄相近的人结婚，但随着年龄的增长，年龄分布变得更加多样化。令人惊讶的是，年龄在以后的关系中变得不那么重要。该数据还凸显了 2015 年同性婚姻合法化对年龄分布的影响。分析是使用 R 和 JavaScript 以及 D3.js 完成的。]]></description>
+      <guid>https://t.me/hn_summary/85081</guid>
+      <pubDate>Wed, 17 Apr 2024 23:26:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]标题：美国工人接受新工作的最低工资飙升</title>
-      <link>https://t.me/hn_summary/85054</link>
-      <description><![CDATA[美国工人接受新工作的最低工资飙升
-标题：美国工人接受新工作的最低工资猛增
-
-据纽约联邦储备银行称，现在求职者要求换工作的薪酬是多年来最高的，平均超过 81,800 美元。与几个月前相比，这一数字显着增加，当时工人们愿意以减少约 10,000 美元的价格换工作。该调查强调了通胀压力对求职者的影响以及劳动力市场动态的变化。这一趋势标志着当前经济环境下工人的期望和需求发生了转变。]]></description>
-      <guid>https://t.me/hn_summary/85054</guid>
-      <pubDate>Wed, 17 Apr 2024 19:56:46 GMT</pubDate>
+      <title>[媒体]人工智能并非无用。</title>
+      <link>https://t.me/hn_summary/85080</link>
+      <description><![CDATA[人工智能并非毫无用处。但这值得吗？
+AI并非无用，但值得吗？围绕人工智能工具，特别是大型语言模型（LLM）的使用的争议引发了对其真正收益和成本的质疑。虽然人工智能可以方便地完成某些任务，例如编码和校对，但围绕其功能的炒作往往与现实不符。公司夸大其辞地承诺人工智能工具可以取代人类作家，甚至可以制作长篇电影，但这与事实相去甚远。尽管有一些有用的功能，法学硕士很难产生新颖的想法，而且他们“幻觉”错误的倾向构成了重大挑战。关于人工智能工具有用性的争论仍在继续，人们担心它们的局限性和道德影响。 （根据 69% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85080</guid>
+      <pubDate>Wed, 17 Apr 2024 23:24:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 下料问题是运筹学中的一个数学优化问题 [...]</title>
-      <link>https://t.me/hn_summary/85053</link>
-      <description><![CDATA[切割库存问题
-切割库存问题是运筹学中的一个数学优化问题，涉及将标准尺寸的库存材料切割成指定尺寸，同时最大限度地减少浪费。这是一个NP难问题，可以简化为背包问题。该问题可以表述为整数线性规划问题。该问题在纸张、塑料薄膜和金属生产等行业中有多种应用。下料问题根据维数有不同的分类，其中一维和二维问题最为常见。该问题的历史可以追溯到 1939 年，并且已经开发了各种解决方法，包括列生成方法。 （根据故事文本的 59% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85053</guid>
-      <pubDate>Wed, 17 Apr 2024 19:52:42 GMT</pubDate>
+      <title>[媒体] 如何避免意外泄露前雇主的专有信息？</title>
+      <link>https://t.me/hn_summary/85079</link>
+      <description><![CDATA[如何避免意外分享前雇主的专有信息？
+本内容讨论了避免意外共享前雇主专有信息的重要性。它强调需要仔细阅读和理解保密协议（NDAs）以避免法律和道德问题。作者强调了分享一般知识和揭示具体专有细节之间的区别。他们还提到，并非在公司工作时学到的所有信息都被视为专有信息并应受到保护。该内容提供了有关哪些信息应保密的指导，例如未来计划、定价结构以及使公司脱颖而出的独特技巧。它还确保分享在公司工作期间开发的一般行业知识或技能并不等同于披露专有信息。]]></description>
+      <guid>https://t.me/hn_summary/85079</guid>
+      <pubDate>Wed, 17 Apr 2024 23:08:14 GMT</pubDate>
     </item>
     <item>
-      <title>拥有房屋、结婚、生子和为退休储蓄的美国梦我 [...]</title>
-      <link>https://t.me/hn_summary/85052</link>
-      <description><![CDATA[为什么在大多数地方 10 万美元的收入不再能买到美国梦
-拥有房屋、结婚、生子和退休储蓄的美国梦变得越来越昂贵，在大多数地方，10 万美元的收入已经不够了。超过一半的美国人表示，他们每年至少需要 10 万美元才能在财务上感到舒适。工资跟不上生活成本，使家庭很难实现中产阶级的生活方式。债务增长已成为收入增长的替代，学生贷款债务达到 1.77 万亿美元，信用卡债务达到 1.13 万亿美元。即使是那些年收入六位数的人也只能靠工资过活，这给收支平衡带来了压力。]]></description>
-      <guid>https://t.me/hn_summary/85052</guid>
-      <pubDate>Wed, 17 Apr 2024 19:51:38 GMT</pubDate>
+      <title>[媒体]众议院通过了一项法案，要求获得第三方购买数据的授权令，限制 [...]</title>
+      <link>https://t.me/hn_summary/85078</link>
+      <description><![CDATA[众议院通过法案，要求有授权书从第三方购买数据
+众议院通过了一项法案，要求获得授权才能从第三方购买数据，从而限制政府访问从应用程序获得的信息。这项名为《第四修正案不可出售》的立法以 219 票对 199 票通过，引发了有关隐私保护和执法工具的争论。支持者认为需要搜查令来追踪嫌疑人，而包括白宫和执法部门在内的反对者则声称该法案阻碍了国家安全工作。该法案是共和党隐私倡导者的优先事项，但因其措辞宽泛和缺乏例外而受到批评。围绕该法案的争议凸显了隐私权和安全问题之间持续存在的紧张关系。]]></description>
+      <guid>https://t.me/hn_summary/85078</guid>
+      <pubDate>Wed, 17 Apr 2024 22:52:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
