@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 19 Apr 2024 15:07:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 21:07:25 GMT</lastBuildDate>
     <item>
-      <title>SaaS 前进 - 快速推进您的开发、交付产品并消除头痛</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7z3pr/saas_forward_fast_forward_your_development_ship/</link>
-      <description><![CDATA[   /u/Joseph_Branch   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7z3pr/saas_forward_fast_forward_your_development_ship/</guid>
-      <pubDate>Fri, 19 Apr 2024 15:03:23 GMT</pubDate>
+      <title>如果您在过去 6 个月内被录用，您是否也被解雇过？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c87vmv/if_youve_been_hired_in_the_last_6_months_have_you/</link>
+      <description><![CDATA[我很好奇有多少开发者通过学习和面试真正能够坚持下去。 如何2024 年成为 Web 开发人员现实吗？   由   提交 /u/thenadeemam   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c87vmv/if_youve_been_hired_in_the_last_6_months_have_you/</guid>
+      <pubDate>Fri, 19 Apr 2024 21:03:16 GMT</pubDate>
     </item>
     <item>
-      <title>便利的成本</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7z34r/the_cost_of_convenience/</link>
-      <description><![CDATA[   一个&gt; &lt; td&gt; 由   提交/u/aijan1  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7z34r/the_cost_of_convenience/</guid>
-      <pubDate>Fri, 19 Apr 2024 15:02:46 GMT</pubDate>
+      <title>您最喜欢的图形/图表库是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c87f28/what_are_your_favourite_graphchart_libraries/</link>
+      <description><![CDATA[如果重要的话，我正在 React 中构建 这是我的用例的简化版本 我正在跟踪“订单数量”随着时间的推移，我想要一个折线图，显示随时间（X 轴）每天（y 轴）的总量。那里没什么太难的。  但我也会记录特定事件的日期，例如“新产品发布” ，并希望在它们发生时绘制它们 - 我想象一条从发生之日起向上的垂直线 - 这样您也许可以看到发布如何影响订单数量。  我还希望能够在线图上绘制一系列日期 - 例如销售的开始/结束 - 再次查看其影响。  我发现很容易找到构建折线图的方法，但添加其他位就不那么容易了，我希望有人在那里并能为我指出正确的方向！    由   提交/u/SimpleWarthog  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c87f28/what_are_your_favourite_graphchart_libraries/</guid>
+      <pubDate>Fri, 19 Apr 2024 20:44:48 GMT</pubDate>
     </item>
     <item>
-      <title>想出售我的代码，在哪里可以出售？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7yye3/want_to_sell_my_code_where_can_i_sell_it/</link>
-      <description><![CDATA[大家好，我有一个网站。它确实有可观的收入。但我想，由于我没有分销和营销技能，我没有接触到足够的大众，因此无法获得足够的收入。  这就是我开始了解白标的时候。所以我决定以 499 美元的价格出售白标许可证和整个代码。有人做过这样的事情吗？请与我分享您的经验。  我是一名机械工程师，在新冠疫情期间学习了网络开发，并制作了一个网站，可以将无聊的屏幕截图变成令人兴奋的图形。  既然我已经找到了一份工作，我将无法全职工作，所以我正在考虑出售代码（而不是品牌）。有谁知道我在哪里可以找到代码的买家。我不想卖品牌，只想卖代码。  这是我过去一年一直在开发的网站https://www.picyard.in  如果您有任何建议，请告诉我。    由   提交/u/metabhai  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7yye3/want_to_sell_my_code_where_can_i_sell_it/</guid>
-      <pubDate>Fri, 19 Apr 2024 14:57:41 GMT</pubDate>
+      <title>Facebook 的“点赞”按钮会成为过去吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c86fei/is_the_facebook_like_button_becoming_a_thing_of/</link>
+      <description><![CDATA[长话短说，我无法让它工作，并假设它一定与浏览器中现在包含的反跟踪措施有关默认情况下。 我已经做了相当多的研究。早在 2021 年就发现有很多人和我有同样的问题。该按钮在网页上显示正常。 “共享”按钮按预期运行，但单击“赞”按钮只会导致小 iframe 变成白色或黑色，然后两个按钮都会消失。令我困惑的是，在我将 Facebook 插件添加到我的网站大约一天后，我注意到我的一篇文章的 Like 计数器已更改为 1。显然它对某些人来说效果很好。 还有其他人在使用这个插件时遇到过问题吗？    由   提交 /u/System30Drew   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c86fei/is_the_facebook_like_button_becoming_a_thing_of/</guid>
+      <pubDate>Fri, 19 Apr 2024 20:03:28 GMT</pubDate>
     </item>
     <item>
-      <title>PHP/CSS 问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7ykqz/phpcss_question/</link>
-      <description><![CDATA[我正在为正在创建的四个 php 页面使用 header.php 文件，并且在头文件中链接了 CSS 样式表。只有使用它的页面之一正确对齐，我想知道我是否链接了我的代码，是否有人可以查看它并告诉我我做错了什么？我还尝试在其中一个未对齐的页面上进行轮播幻灯片放映，并且无法正常工作，因此我认为这也可能与 CSS 问题有关。 任何帮助都是赞赏。   由   提交 /u/ThickChemistry4660   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7ykqz/phpcss_question/</guid>
-      <pubDate>Fri, 19 Apr 2024 14:41:40 GMT</pubDate>
+      <title>Safari 上的 Columns 属性有问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c862dy/columns_property_on_safari_is_buggy/</link>
+      <description><![CDATA[有人因为 safari 问题而停止使用列吗？如果列元素具有底部边距，则内容的显示有时与其他浏览器（例如 Chrome 或 Firefox）上的显示不同。我不是在谈论 2016 年 ipad 的一些旧 safari 版本，而是最新版本。   由   提交 /u/Typical_Bear_264   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c862dy/columns_property_on_safari_is_buggy/</guid>
+      <pubDate>Fri, 19 Apr 2024 19:48:33 GMT</pubDate>
     </item>
     <item>
-      <title>意见：前端和后端保持一致的大小写还是分别转换大小写？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7y83f/opinion_maintain_consistent_casing_or_converting/</link>
-      <description><![CDATA[假设后端使用蛇形命名法编码，前端使用驼峰命名法编码。 你是前端开发人员。&lt; /p&gt; 您愿意吗，  在解析 API 的响应时转换大小写，例如从蛇形命名法转换为驼峰命名法，在传递数据时从驼峰命名法转换回蛇形命名法到 API   或  将前端转换为遵循蛇形格式，以便一切都一致。  仅用于上下文，正在使用 Supabase 构建东西，并意识到数据响应是蛇形的。   由   提交 /u/juzatropictroll   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7y83f/opinion_maintain_consistent_casing_or_converting/</guid>
-      <pubDate>Fri, 19 Apr 2024 14:26:23 GMT</pubDate>
+      <title>如何使用 Javascript 创建粒子动画而不使用画布？我希望屏幕上漂浮着微妙的黄色和紫色粒子，但大多数教程都是特定于画布的。谢谢！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c85feq/how_can_i_create_a_particle_animation_using/</link>
+      <description><![CDATA[   /u/sailorscoutnel  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c85feq/how_can_i_create_a_particle_animation_using/</guid>
+      <pubDate>Fri, 19 Apr 2024 19:21:43 GMT</pubDate>
     </item>
     <item>
-      <title>在 iOS 设备上的 Web 应用程序中使用触摸事件，我向元素添加和删除类，但 UI 更改并未立即反映出来。有什么想法为什么会发生这种情况吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7xb71/using_touch_events_in_my_web_app_on_ios_devices/</link>
-      <description><![CDATA[如标题所示。我是网络开发新手，正在尝试创建一个小型网络应用，用于手机练习。用户界面在桌面浏览器上更新得很好，但在移动设备上却不行。    提交人    /u/cyber-neko   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7xb71/using_touch_events_in_my_web_app_on_ios_devices/</guid>
-      <pubDate>Fri, 19 Apr 2024 13:47:05 GMT</pubDate>
+      <title>对于“经典”网络，有 Vue.JS、ReactJS 等的替代品吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c84t8o/any_alternatives_to_vuejs_reactjs_etc_for_the/</link>
+      <description><![CDATA[你好。 我实际上并不是一名 Web 开发人员，但有时我确实会制作简单的 Web 项目。这可能（而且可能会）听起来很愚蠢，但我不喜欢为前端和后端运行服务器的想法。甚至不是因为有两个网络服务器。我不想使用完全不同的语言来制作前端。所以是的，我想像以前一样制作网站。实际上我更喜欢 Jinja2 作为 Python Web 框架。但我想为网页添加一些交互性。 AFAIK AJAX 和 jQuery 已经过时了。 问题是：是否有 JS 库允许我向网页添加一些交互性，并且不需要我切换到全新的堆栈？我想要一些功能，例如获取数据和更改网页结构（例如添加新元素）。例如，我想在搜索字段下添加建议，或者在不重新加载页面的情况下编辑一些文本。   由   提交 /u/rotten_healer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c84t8o/any_alternatives_to_vuejs_reactjs_etc_for_the/</guid>
+      <pubDate>Fri, 19 Apr 2024 18:56:17 GMT</pubDate>
     </item>
     <item>
-      <title>有人可以帮助我使用 WordPress API 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7x0f8/can_someone_help_me_with_the_wordpress_api/</link>
-      <description><![CDATA[我正在使用 flutter/dart 创建一个可在手机、平板电脑和计算机上运行的应用程序。我需要能够通过 WP API 对用户进行身份验证、重置密码、检索他们的姓名和电子邮件。 我对如何执行此操作一无所知，我正在尝试阅读文档但我不明白它们。 这将是我第一次做这样的事情。 我知道如何在 flutter 上执行此操作/飞镖侧。我特别想看看端点是什么，以及我是否需要使用 cookie，或者 1 个用户创建应用程序密码是否可行。 我尝试了 wordpress oAuth 插件，但收到了格式错误的请求我认为不同 Reddit 子版块上的某个人告诉我我可以使用核心 API。这可能吗？   由   提交 /u/DudeThatsErin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7x0f8/can_someone_help_me_with_the_wordpress_api/</guid>
-      <pubDate>Fri, 19 Apr 2024 13:33:24 GMT</pubDate>
+      <title>支付。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c84owi/payment/</link>
+      <description><![CDATA[我正在在线学习 Web 开发。不在学校。所以我来听听你们是如何作为自由职业者工作的？我想要制作一个网站并将其出售给您的客户的过程？您如何获得报酬？国际上哪个app好用？用于汇款和收款的应用程序。   由   提交 /u/climentine   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c84owi/payment/</guid>
+      <pubDate>Fri, 19 Apr 2024 18:51:19 GMT</pubDate>
     </item>
     <item>
-      <title>如何部署我们的react/express应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7vn2c/how_to_deploy_our_reactexpress_app/</link>
-      <description><![CDATA[我们目前正在开发一个学校项目，其中我们有一个客户端文件夹（带有 React 应用程序）和一个服务器文件夹（带有 Express 应用程序），我们还路由文件夹中有一个 Package.json，用于处理所有启动和构建命令等。我们应该如何部署站点？我们应该分别部署react应用程序和express应用程序吗？或者我们可以通过服务器托管所有内容吗？目前我们通过构建客户端然后节点服务器来托管站点，这是常见的做法吗？如果不是，为什么这很糟糕？我们确实有一个系统，我们可以同时使用在单独的链接上运行服务器和应用程序（例如本地的 localhost3000 和 3001），但发现仅在一个链接（本地的 localhost3000）上使用服务器和主机要容易得多。但我们发现在 render/vercel 上托管确实很难。我们应该如何部署网站？每种方法的优缺点是什么？我们正在创建的网站是一个简单的网站，用户可以在其中预订露营地等。   由   提交 /u/tojzl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7vn2c/how_to_deploy_our_reactexpress_app/</guid>
-      <pubDate>Fri, 19 Apr 2024 12:27:54 GMT</pubDate>
+      <title>JS/React 状态 2023 结果</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c84msb/state_of_js_react_2023_results/</link>
+      <description><![CDATA[任何人都知道这些何时可用，我们几乎完成了第一个问题..不知道为什么需要这么长时间才能发布结果。    由   提交 /u/cabbeer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c84msb/state_of_js_react_2023_results/</guid>
+      <pubDate>Fri, 19 Apr 2024 18:49:00 GMT</pubDate>
     </item>
     <item>
-      <title>UI 库的组件建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7vh5q/components_suggestions_for_ui_library/</link>
-      <description><![CDATA[嘿开发者！我正在为 React 创建一个开源 Ui 库。 nextjs 进展顺利。现在我希望您就希望 UI 库中包含哪些组件提出建议。我现在专注于为我的 UI 库创建主题系统！和 2 个用于基本测试的基本组件。几天后完成此操作后，我将添加新组件。如果您有兴趣，请在以下位置点赞： https://github.com/meroui/meroui-react   由   提交/u/WeedLover_1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7vh5q/components_suggestions_for_ui_library/</guid>
-      <pubDate>Fri, 19 Apr 2024 12:19:45 GMT</pubDate>
+      <title>这是语义 HTML 吗？我正在使用网站构建器（Wix），并且我试图使与我的段落相关的标题“语义良好”，但是当我看到正在构建的内容时，我担心我的搜索引擎优化。我主要关心的是嵌套元素的深度。我是不是想太多了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c84m02/is_this_semantic_html_im_using_a_website_builder/</link>
+      <description><![CDATA[   /u/queonza  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c84m02/is_this_semantic_html_im_using_a_website_builder/</guid>
+      <pubDate>Fri, 19 Apr 2024 18:48:05 GMT</pubDate>
     </item>
     <item>
-      <title>SSO 得到升级：用于跨域身份管理的 OpenID Connect 和 SCIM</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7v64w/sso_got_an_upgrade_openid_connect_scim_for/</link>
-      <description><![CDATA[       由   提交/u/jns111  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7v64w/sso_got_an_upgrade_openid_connect_scim_for/</guid>
-      <pubDate>Fri, 19 Apr 2024 12:03:51 GMT</pubDate>
+      <title>当我想更新配置文件时，我收到错误 500 /api/users/update/undefined ？？？似乎 _id 的定义不足，所以我该怎么办？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c84k54/i_got_error_500_apiusersupdateundefined_when_i/</link>
+      <description><![CDATA[const res = wait fetch(`/api/users/update/${currentUser._id}`, {&lt; br /&gt; 方法: &#39;PATCH&#39;, headers: { &#39;Content-Type&#39;: &#39;application/json&#39;, }, body: JSON.stringify(formData) , });   由   提交 /u/Deepinsidesin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c84k54/i_got_error_500_apiusersupdateundefined_when_i/</guid>
+      <pubDate>Fri, 19 Apr 2024 18:46:02 GMT</pubDate>
     </item>
     <item>
-      <title>世界其他地方的人知道“www”吗？该域名以 www 开头</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7v2sv/do_people_in_other_parts_of_the_world_know_about/</link>
-      <description><![CDATA[您好，简短的 IT/营销问题 我想在传单等上写字“www.domain.com” 全世界的人都知道 www 吗？或者只有西方人？ 否则我会写“https://domain.com”这看起来不那么花哨 编辑：因为这里有些人真的在评判：我问这个是因为我有一个不常见的域名，比如brand.beer，它不能轻易被识别为域名 我不知道其他国家/地区是否认可 www   由   提交 /u/JuriJurka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7v2sv/do_people_in_other_parts_of_the_world_know_about/</guid>
-      <pubDate>Fri, 19 Apr 2024 11:59:29 GMT</pubDate>
+      <title>如果我仅使用 WHM 访问服务器管理，是否可以禁用 VPS 的所有 shell 访问 (SSH)？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c84h6s/can_i_disable_all_shell_access_ssh_for_my_vps_if/</link>
+      <description><![CDATA[我担心任何我没有想到的连锁反应。 &lt;!-- SC_ON - -&gt;  由   提交/u/specialk45  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c84h6s/can_i_disable_all_shell_access_ssh_for_my_vps_if/</guid>
+      <pubDate>Fri, 19 Apr 2024 18:42:42 GMT</pubDate>
     </item>
     <item>
-      <title>使用 ChatGPT / CoPilot 您是否感到内疚？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7the7/do_you_feel_guilty_using_chatgpt_copilot/</link>
-      <description><![CDATA[最近我意识到我的编码习惯几乎完全改变了。我不会把时间浪费在“我可以编码的东西”上，而是给出提示并使用人工智能代码。如果我不知道自己在做什么，我就不会使用它。但如果我知道如何做到这一点，我就会使用这些工具。 我的某些部分认为这是作弊，我不应该这样做。 但其他部分我说“你绝对可以做到这一点，但是我自己的代码会花费 10 倍的时间，所以为什么要浪费你的时间呢？”这是编码的新时代” 那么你们对此有何看法？你们多久使用一次这些工具？  ​   由   提交/u/Blackwater_7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7the7/do_you_feel_guilty_using_chatgpt_copilot/</guid>
-      <pubDate>Fri, 19 Apr 2024 10:26:54 GMT</pubDate>
+      <title>有什么充分的理由来制作一个原生的跨平台应用程序吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c843h5/is_there_any_good_reason_to_make_a_crossplatform/</link>
+      <description><![CDATA[我在软件开发领域完成了 Android 应用程序的毕业工作，我了解了这个生态系统，并且喜欢在其中进行编程、Jetpack Compose、Kotlin 和基本上已经适应了Web开发、反应性等中使用的所有实践和模式。 之后我了解了Web环境，React，NextJS，HTML+CSS。现在我问自己，为什么有人会制作多个本机应用程序，而不是制作一个 Web 应用程序？甚至是一个网络应用程序+一个通过无头浏览器的应用程序。或者使用 React Native 的跨平台应用程序。 我的印象是人们使用的应用程序越来越少，是否有一个关键因素值得保留多个本机应用程序?   由   提交 /u/Guyira   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c843h5/is_there_any_good_reason_to_make_a_crossplatform/</guid>
+      <pubDate>Fri, 19 Apr 2024 18:27:09 GMT</pubDate>
     </item>
     <item>
-      <title>网站视频的视频托管平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7t993/video_hosting_platform_for_website_videos/</link>
-      <description><![CDATA[你好。我的客户运营一个基于订阅的视频网站。他们目前使用 Wix 并迁移到基于 WordPress 的解决方案。我正在寻找一个视频托管平台来上传他们的视频并将其集成/嵌入到网站中。具有最小/零品牌的东西，因此看起来视频托管在网站上。他们目前有 125 个视频，并且每周添加 2 到 3 个。每个视频为 2GB - 8GB。有什么想法吗？   由   提交 /u/psychedelictranceza   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7t993/video_hosting_platform_for_website_videos/</guid>
-      <pubDate>Fri, 19 Apr 2024 10:12:52 GMT</pubDate>
+      <title>我试过了，但我很愚蠢。帮助我托管我的摄影作品集（HTML、CSS）。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c840eu/ive_tried_and_i_am_stupid_help_me_host_my/</link>
+      <description><![CDATA[请原谅我的无知。大约十年前，我使用 HTML 和 CSS 建立了一个网站，以托管我的个人摄影作品。这有点过分了，但我喜欢有一个它可以居住的地方。我每年为自己的网址向 Google Domains 支付 20 美元，并使用 Git/Git Pages 托管/更新它。 我刚刚花了一些时间重新配置我的网站，以存档一些旧页面，为我的旅行添加一些新页面。已采取。当我使用 Git Desktop 将更改提交到 master，然后实时推送更改时，我遇到了一个问题，即我的构建和部署无法通过 Git Pages 正常工作。 通过故障排除，我意识到我的整个网站和我托管的所有照片对于 Git Pages 通常使用的文件大小来说太大了（我的网站文件夹的总大小约为 12GB，几乎完全由我试图展示的照片组成）。 TLDR；我的问题是，如果不是 Git Pages，托管带有图像的大型网站的最佳解决方案是什么？我已经为该网站编写了 HTML 和 CSS 代码，并且想使用它，但如果有另一种选择可以从头开始构建一个摄影作品集页面，允许我使用我拥有的 URL，我很愿意听到它。我更喜欢免费选项，或者最多 10 美元/年或更少的成本，因为这只是为了好玩... 感谢您的意见，如果有帮助的话，很乐意回答任何其他问题，抱歉再次因为我的无知。我对此感到不知所措 编辑：我认为一个好的举措可能是使用一些照片存储网站在线存储我的照片，然后将“img src=X”替换为“img src=X”。让每个图像都来自该存储网站的 URL，而不是将图像存储在我的 git 中。问题是哪个服务？我尝试使用 Flickr 作为测试，但很难判断我使用的 URL 是否是原始尺寸的图像，因此考虑其他选项...reccos 表示赞赏。 &lt;!-- SC_ON - -&gt;  由   提交 /u/ryansinterested   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c840eu/ive_tried_and_i_am_stupid_help_me_host_my/</guid>
+      <pubDate>Fri, 19 Apr 2024 18:23:30 GMT</pubDate>
     </item>
     <item>
-      <title>PHP 建议 - 参考号分配</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7sl0z/php_advice_reference_number_allocation/</link>
-      <description><![CDATA[我有一个表单，当案例被标记为特定状态（在本例中为已发送）时，该表单会分配参考编号。 我遇到的问题是我从未想过会发生的问题是，如果两个人同时按下按钮更新记录，它会为两种情况分配相同的参考编号。 该编号基本上是由查看 recordid 的最大值并向其添加 1 以及其他一些字符。 除了在案例输入系统后立即添加唯一的 recordid 之外，您还能想到另一种方法吗？解决这个问题吗？ 编辑：忘记提及在更新此记录时会将其复制到另一个表。   由   提交/u/Bretttles1986   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7sl0z/php_advice_reference_number_allocation/</guid>
-      <pubDate>Fri, 19 Apr 2024 09:27:54 GMT</pubDate>
+      <title>是否可以创建一次性扫描二维码？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c83x1r/is_it_possible_to_create_onetime_scan_qr_codes/</link>
+      <description><![CDATA[对于我的业务，​​我需要一次使用二维码。已经找到了像 QR Planet 这样的选项，但他们没有与 Wordpress 任何集成，而且他们只提供有限数量的 QR 代码。还有其他想法吗？提前谢谢大家..:)   由   提交/u/Cenz220  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c83x1r/is_it_possible_to_create_onetime_scan_qr_codes/</guid>
+      <pubDate>Fri, 19 Apr 2024 18:19:40 GMT</pubDate>
     </item>
     <item>
-      <title>机器人正在传递 Google reCaptcha</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7sf7r/bots_are_passing_google_recaptcha/</link>
-      <description><![CDATA[我正在管理一个使用 WordPress 为客户构建的网站，曾经有一段时间我们每天从联系表单中收到数百个联系人，但是后来我们意识到这些是机器人，我继续添加谷歌的 reCAPTCHA 来过滤掉这些机器人，它似乎有效，但不到一周后，我们又回到了同样的问题，似乎这些机器人正在通过测试，什么我可以吗，我无法实现蜜罐，因为我们正在使用 wp 联系表单插件，我无权访问代码，我也不想从头开始编写表单。我还能做什么来击败这些机器人？   由   提交/u/zaphden  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7sf7r/bots_are_passing_google_recaptcha/</guid>
-      <pubDate>Fri, 19 Apr 2024 09:16:49 GMT</pubDate>
+      <title>从哪里获取 Web 开发客户端？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c83qmi/where_to_get_web_dev_clients/</link>
+      <description><![CDATA[嗨，我是一名专门从事 WordPress 的 Web 开发人员。最近，我注意到 Upwork 上的工作机会有所减少。尽管我的提案正在被查看，但我没有收到任何面试邀请。我不确定发生了什么事。我还尝试通过直接消息在 LinkedIn 上联系潜在客户，但也没有任何运气。我在这里看到了一些关于人们在代理机构寻找工作的帖子，但我不确定在哪里可以找到这些机会。我非常感谢您的建议。   由   提交/u/Kaziopu123   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c83qmi/where_to_get_web_dev_clients/</guid>
+      <pubDate>Fri, 19 Apr 2024 18:12:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
