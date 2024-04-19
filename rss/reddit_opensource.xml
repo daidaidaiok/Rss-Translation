@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 19 Apr 2024 12:08:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 15:07:33 GMT</lastBuildDate>
+    <item>
+      <title>手写数学/物理笔记的最佳应用程序？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c7x5o6/best_app_for_hand_writing_mathsphysics_notes/</link>
+      <description><![CDATA[买了一台三星 Tab s6 lite，想知道是否有比三星笔记更好的东西。 &lt;!-- SC_ON - -&gt;  由   提交/u/AdiSoldier245  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c7x5o6/best_app_for_hand_writing_mathsphysics_notes/</guid>
+      <pubDate>Fri, 19 Apr 2024 13:40:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>从您的个人资料中以 YAML 格式自动生成各种格式的简历</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c7vkm5/automatic_generation_of_cvs_in_various_formats/</link>
+      <description><![CDATA[       由   提交/u/rybakit  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c7vkm5/automatic_generation_of_cvs_in_various_formats/</guid>
+      <pubDate>Fri, 19 Apr 2024 12:24:33 GMT</pubDate>
+    </item>
     <item>
       <title>寻找一个可以保存可以在多个节点上执行的命令的工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1c7tlgk/looking_for_a_tool_that_can_hold_commands_that/</link>
@@ -64,7 +78,7 @@
     <item>
       <title>值得贡献的 Node js 或 Django 开源项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1c7bw07/node_js_or_django_open_source_projects_worth/</link>
-      <description><![CDATA[因此，我正在寻找一些不需要太多参与的 node js 或 django 项目。我今年 19 岁，并且就读于一所要求很高的软件工程系，现在我希望在不久的将来能够使用 c++ 从事更多“重要”的开源项目，但我已经作为后端开发人员使用 node js 10 个月，使用 django 7 个月。我不想忘记我所做的一切。 此外，如果项目贡献者对新人持开放态度并在遇到困难时提供帮助/指导，那将大有帮助。    提交人    /u/just_something_tbh   [链接] [评论]]]></description>
+      <description><![CDATA[所以我希望从事一些不需要太多参与的 Node js 或 django 项目。我的背景是我19岁，我也进入了一个学习软件工程的非常要求的教师，现在我希望在不久的将来我可以从事更“重要”的工作。使用 C++ 的开源项目，但我作为后端开发人员使用 Node JS 工作了 10 个月，使用 django 工作了 7 个月。我不想忘记我所做的一切。  如果项目贡献者向新人开放，并在遇到困难时提供帮助/指导，这也会有很大帮助。   由   提交/u/just_something_tbh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c7bw07/node_js_or_django_open_source_projects_worth/</guid>
       <pubDate>Thu, 18 Apr 2024 19:17:51 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[   /u/P0uletEnSlip  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c786e9/i_recently_updated_my_open_source_web_notebook_it/</guid>
       <pubDate>Thu, 18 Apr 2024 16:49:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有其他操作系统与 GNU/Linux 一样接近，或者正在快速改进？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c70isg/are_any_other_operating_systems_just_as_close_as/</link>
-      <description><![CDATA[我喜欢 GNU/Linux，但我很乐意尝试一种不同的免费开源操作系统（如果存在）？就像人们总是谈论 BSD，但我尝试安装 FreeBSD 但失败了。还有什么氧化还原？  我想要 Firefox、Steam、Neovim、终端模拟器、文件管理器以及其他系统工具。   由   提交 /u/Nixosbroken   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c70isg/are_any_other_operating_systems_just_as_close_as/</guid>
-      <pubDate>Thu, 18 Apr 2024 11:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>DBAL PDO Wrapper，一个轻量级且功能强大的 PHP 库，提供与多种类型数据库交互的有效方式</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c6uhbk/dbal_pdo_wrapper_a_lightweight_and_powerful_php/</link>
-      <description><![CDATA[       由   提交/u/miglisoft  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c6uhbk/dbal_pdo_wrapper_a_lightweight_and_powerful_php/</guid>
-      <pubDate>Thu, 18 Apr 2024 04:24:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
