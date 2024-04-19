@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Fri, 19 Apr 2024 00:18:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 03:07:26 GMT</lastBuildDate>
     <item>
-      <title>Drippyer 状态板</title>
-      <link>https://www.opensourceagenda.com/projects/drippyer-statusboard</link>
-      <description><![CDATA[使用 MagicMirror 框架进行非镜像设置]]></description>
-      <guid>https://www.opensourceagenda.com/projects/drippyer-statusboard</guid>
-      <pubDate>Fri, 19 Apr 2024 00:18:28 GMT</pubDate>
+      <title>Arifszn OneClick</title>
+      <link>https://www.opensourceagenda.com/projects/arifszn-oneclick</link>
+      <description><![CDATA[只需单击一下即可在您喜欢的网站上导航到您最喜欢的操作。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/arifszn-oneclick</guid>
+      <pubDate>Fri, 19 Apr 2024 03:07:26 GMT</pubDate>
     </item>
     <item>
-      <title>Akshaybahadur21 智能镜子</title>
-      <link>https://www.opensourceagenda.com/projects/akshaybahadur21-smart-mirror</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/akshaybahadur21-smart-mirror</guid>
-      <pubDate>Fri, 19 Apr 2024 00:18:28 GMT</pubDate>
+      <title>击键</title>
+      <link>https://www.opensourceagenda.com/projects/keystrokes</link>
+      <description><![CDATA[按键作为一个易于使用的库，用于将功能绑定到按键和组合键。它可以与任何 TypeScript 或 JavaScript 项目一起使用，甚至在非浏览器环境中也是如此。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/keystrokes</guid>
+      <pubDate>Fri, 19 Apr 2024 03:07:25 GMT</pubDate>
     </item>
     <item>
-      <title>MMM 发货追踪</title>
-      <link>https://www.opensourceagenda.com/projects/mmm-shipmenttracking</link>
-      <description><![CDATA[MagicMirror² 货件跟踪模块]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mmm-shipmenttracking</guid>
-      <pubDate>Fri, 19 Apr 2024 00:18:28 GMT</pubDate>
+      <title>React Native 操作快捷键</title>
+      <link>https://www.opensourceagenda.com/projects/react-native-actions-shortcuts</link>
+      <description><![CDATA[适用于react-native的iOS主屏幕快速操作和Android应用程序快捷方式]]></description>
+      <guid>https://www.opensourceagenda.com/projects/react-native-actions-shortcuts</guid>
+      <pubDate>Fri, 19 Apr 2024 03:07:25 GMT</pubDate>
     </item>
     <item>
-      <title>MMM 公共交通Hafas</title>
-      <link>https://www.opensourceagenda.com/projects/mmm-publictransporthafas</link>
-      <description><![CDATA[MMM-PublicTransportHafas 是 Michael Teeuw 的 MagicMirror 项目的一个模块。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mmm-publictransporthafas</guid>
-      <pubDate>Fri, 19 Apr 2024 00:18:27 GMT</pubDate>
+      <title>拉比克基地</title>
+      <link>https://www.opensourceagenda.com/projects/rubick-base</link>
+      <description><![CDATA[desktop automation, screen capture, input listen/simulation, asar compress, color picker for nodejs and electron based on rust. 基于 Rust / WASM 提供截图、取色、键鼠事件监听模拟、压缩解压、图像处理、获取已安装应用等跨平台功能的现代异步 Nodejs 模块，占用空间小, 安装便捷, 使用简单, 高性能, 资源占用极小, 可取代 iohook 和 robotjs]]></description>
+      <guid>https://www.opensourceagenda.com/projects/rubick-base</guid>
+      <pubDate>Fri, 19 Apr 2024 03:07:25 GMT</pubDate>
     </item>
     <item>
-      <title>商队Pi</title>
-      <link>https://www.opensourceagenda.com/projects/caravanpi</link>
-      <description><![CDATA[大篷车和房车智能家居 - 用于测量和显示大篷车和房车各种数值（包括气候）的系统值、填充水平和调平数据、能源数据、丙烷/丁烷传感器。包括。显示、配置网站、测试例程等。创建自己的电路板]]></description>
-      <guid>https://www.opensourceagenda.com/projects/caravanpi</guid>
-      <pubDate>Fri, 19 Apr 2024 00:18:27 GMT</pubDate>
+      <title>很棒的自定义搜索引擎</title>
+      <link>https://www.opensourceagenda.com/projects/awesome-custom-search-engines</link>
+      <description><![CDATA[🏃💨 用于改进日常工作流程的自定义搜索引擎和快捷方式列表]]></description>
+      <guid>https://www.opensourceagenda.com/projects/awesome-custom-search-engines</guid>
+      <pubDate>Fri, 19 Apr 2024 03:07:25 GMT</pubDate>
     </item>
     <item>
-      <title>MMM慕尼黑</title>
-      <link>https://www.opensourceagenda.com/projects/mmm-mvgmunich</link>
-      <description><![CDATA[MagicMirror² 监控公共交通（地铁、有轨电车、公交车、S-Bahn）的模块慕尼黑]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mmm-mvgmunich</guid>
-      <pubDate>Fri, 19 Apr 2024 00:18:27 GMT</pubDate>
+      <title>总和</title>
+      <link>https://www.opensourceagenda.com/projects/sum4all</link>
+      <description><![CDATA[网页、视频、图片大模型总结]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sum4all</guid>
+      <pubDate>Fri, 19 Apr 2024 03:07:24 GMT</pubDate>
     </item>
     <item>
-      <title>MMM网络</title>
-      <link>https://www.opensourceagenda.com/projects/mmm-netatmo</link>
-      <description><![CDATA[MagicMirror 的模块，用于显示来自 Netatmo 系统的有关房间气候的信息。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mmm-netatmo</guid>
-      <pubDate>Fri, 19 Apr 2024 00:18:26 GMT</pubDate>
+      <title>热键管理器</title>
+      <link>https://www.opensourceagenda.com/projects/hotkey-manager</link>
+      <description><![CDATA[此插件允许 Flutter 桌面应用程序定义系统/应用内热键（即快捷方式）。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hotkey-manager</guid>
+      <pubDate>Fri, 19 Apr 2024 03:07:24 GMT</pubDate>
     </item>
     <item>
-      <title>MMM 天气相关服装</title>
-      <link>https://www.opensourceagenda.com/projects/mmm-weatherdependentclothes</link>
-      <description><![CDATA[MagicMirror 模块根据天气预报和您的个人喜好显示衣服。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mmm-weatherdependentclothes</guid>
-      <pubDate>Fri, 19 Apr 2024 00:18:26 GMT</pubDate>
+      <title>基础扩展</title>
+      <link>https://www.opensourceagenda.com/projects/foundationextension</link>
+      <description><![CDATA[Foundation/Cocoa/UIKit 扩展套件。参考文档：]]></description>
+      <guid>https://www.opensourceagenda.com/projects/foundationextension</guid>
+      <pubDate>Fri, 19 Apr 2024 03:07:24 GMT</pubDate>
     </item>
     <item>
-      <title>MMM空气质量</title>
-      <link>https://www.opensourceagenda.com/projects/mmm-airquality</link>
-      <description><![CDATA[MagicMirror 用于显示某个位置的空气质量指数的模块。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mmm-airquality</guid>
-      <pubDate>Fri, 19 Apr 2024 00:18:26 GMT</pubDate>
+      <title>取消制表符</title>
+      <link>https://www.opensourceagenda.com/projects/untab</link>
+      <description><![CDATA[🔍 提高浏览器工作流程的生产力工具！]]></description>
+      <guid>https://www.opensourceagenda.com/projects/untab</guid>
+      <pubDate>Fri, 19 Apr 2024 03:07:23 GMT</pubDate>
     </item>
     <item>
-      <title>PiZero魔镜</title>
-      <link>https://www.opensourceagenda.com/projects/pizeromagicmirror</link>
-      <description><![CDATA[Pi 零魔镜应用]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pizeromagicmirror</guid>
-      <pubDate>Fri, 19 Apr 2024 00:18:25 GMT</pubDate>
+      <title>派珀兰德</title>
+      <link>https://www.opensourceagenda.com/projects/pyprland</link>
+      <description><![CDATA[Hyprland 扩展变得简单 [maintainer=@fdev31]]]></description>
+      <guid>https://www.opensourceagenda.com/projects/pyprland</guid>
+      <pubDate>Fri, 19 Apr 2024 03:07:23 GMT</pubDate>
     </item>
     <item>
-      <title>MMM OnSpotify</title>
-      <link>https://www.opensourceagenda.com/projects/mmm-onspotify</link>
-      <description><![CDATA[高度可定制的 MM2 模块，可显示您在 Spotify 中收听的内容。与 MMM-LiveLyrics 和 DynamicTheming 兼容]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mmm-onspotify</guid>
-      <pubDate>Fri, 19 Apr 2024 00:18:25 GMT</pubDate>
+      <title>健康码网址方案</title>
+      <link>https://www.opensourceagenda.com/projects/health-code-url-scheme</link>
+      <description><![CDATA[微信/支付宝健康码小程序 url scheme收集]]></description>
+      <guid>https://www.opensourceagenda.com/projects/health-code-url-scheme</guid>
+      <pubDate>Fri, 19 Apr 2024 03:07:23 GMT</pubDate>
     </item>
     <item>
-      <title>MMM 魔法移动器</title>
-      <link>https://www.opensourceagenda.com/projects/mmm-magicmover</link>
-      <description><![CDATA[MagicMirror² 模块可避免屏幕烧屏]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mmm-magicmover</guid>
-      <pubDate>Fri, 19 Apr 2024 00:18:25 GMT</pubDate>
+      <title>Leecobaby 快捷键</title>
+      <link>https://www.opensourceagenda.com/projects/leecobaby-shortcuts</link>
+      <description><![CDATA[📱 自动养猫|自动淘金币|炸年兽|芭芭农场|东东农场|抢购助手|快捷指令]]></description>
+      <guid>https://www.opensourceagenda.com/projects/leecobaby-shortcuts</guid>
+      <pubDate>Fri, 19 Apr 2024 03:07:22 GMT</pubDate>
     </item>
     <item>
-      <title>Docker 魔镜</title>
-      <link>https://www.opensourceagenda.com/projects/docker-magicmirror</link>
-      <description><![CDATA[Michael Teeuw 的 Magic Mirror 2 项目的 Docker 映像。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/docker-magicmirror</guid>
-      <pubDate>Fri, 19 Apr 2024 00:18:24 GMT</pubDate>
+      <title>Vim 按键绑定无处不在 终极列表</title>
+      <link>https://www.opensourceagenda.com/projects/vim-keybindings-everywhere-the-ultimate-list</link>
+      <description><![CDATA[原生支持类似 Vim 的键绑定的程序的最终列表，或者如何添加扩展。一个合作项目。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vim-keybindings-everywhere-the-ultimate-list</guid>
+      <pubDate>Fri, 19 Apr 2024 03:07:22 GMT</pubDate>
     </item>
     <item>
-      <title>MMM 谷歌照片</title>
-      <link>https://www.opensourceagenda.com/projects/mmm-googlephotos</link>
-      <description><![CDATA[在 MagicMirror 上显示来自 Google 相册的照片。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mmm-googlephotos</guid>
-      <pubDate>Fri, 19 Apr 2024 00:18:24 GMT</pubDate>
+      <title>Latex Gboard 词典</title>
+      <link>https://www.opensourceagenda.com/projects/latex-gboard-dictionary</link>
+      <description><![CDATA[⌨ 使用受启发的键盘快捷键在 Android 手机上更轻松地输入数学符号的可导入字典通过乳胶]]></description>
+      <guid>https://www.opensourceagenda.com/projects/latex-gboard-dictionary</guid>
+      <pubDate>Fri, 19 Apr 2024 03:07:22 GMT</pubDate>
     </item>
     <item>
-      <title>流量</title>
-      <link>https://www.opensourceagenda.com/projects/mmm-traffic</link>
-      <description><![CDATA[这是 MagicMirror 的模块。它使用 Mapbox 方向 API 考虑当前的交通状况，显示两个位置之间的旅行时间。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mmm-traffic</guid>
-      <pubDate>Fri, 19 Apr 2024 00:18:24 GMT</pubDate>
+      <title>蒂斯丰 Easydict</title>
+      <link>https://www.opensourceagenda.com/projects/tisfeng-easydict</link>
+      <description><![CDATA[一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tisfeng-easydict</guid>
+      <pubDate>Fri, 19 Apr 2024 03:07:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

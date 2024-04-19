@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 19 Apr 2024 00:17:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 03:06:26 GMT</lastBuildDate>
+    <item>
+      <title>当图像下载器不起作用时</title>
+      <link>https://www.reddit.com/r/software/comments/1c7lqje/when_image_downloaders_dont_work/</link>
+      <description><![CDATA[我正在尝试从网站中提取一些图形（实际上这是我自己的数据，所以没什么不好），我发现浏览器扩展不起作用。我猜想图形被 javascript 或其他什么隐藏了。 *但是*如果我转到页面源代码，至少在 Safari 中我可以在图形选项卡中看到图形，甚至可以将它们从那里共享到记事本或其他东西。然而，一次处理一张图形的速度很慢。是否有任何工具可以使用相同的方法并提取通常方法丢失的图形？    由   提交/u/AdCritical3285   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c7lqje/when_image_downloaders_dont_work/</guid>
+      <pubDate>Fri, 19 Apr 2024 02:26:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MS Word，如何删除此分隔线？</title>
+      <link>https://www.reddit.com/r/software/comments/1c7j67g/ms_word_how_can_i_remove_this_divider/</link>
+      <description><![CDATA[键入一个文档，然后粘贴另一个文档中的一些模板，并在两个文本块之间插入一些星号。 Nek minnit Word 已将星号转换为水平分隔线，我无法选择、移动、删除或修改它。  /u/notyourusualbot   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c7j67g/ms_word_how_can_i_remove_this_divider/</guid>
+      <pubDate>Fri, 19 Apr 2024 00:20:02 GMT</pubDate>
+    </item>
     <item>
       <title>不明白为什么我的硬盘这么满？</title>
       <link>https://www.reddit.com/r/software/comments/1c7gz0t/cant_figure_out_why_my_hard_drive_is_so_full/</link>
@@ -34,7 +48,7 @@
       <pubDate>Thu, 18 Apr 2024 19:59:09 GMT</pubDate>
     </item>
     <item>
-      <title>需要帮助判断进展是否是恶意的</title>
+      <title>需要帮助判断进度是否是恶意的</title>
       <link>https://www.reddit.com/r/software/comments/1c7998k/need_help_telling_if_progress_is_malicious/</link>
       <description><![CDATA[我有一个第三方游戏，由于它只能在 Windows 上使用，所以我必须使用软件来编译它。有没有人愿意帮我检查 Windows 文件或我的 APK，看看后台是否有可疑的情况。我已经让三个人拥有了这个 APK，我可能不小心给了他们一个木马。我只是想弄清楚我需要做什么才能保证安全。    由   提交 /u/Pristine_Hawk_2572   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c7998k/need_help_telling_if_progress_is_malicious/</guid>
@@ -62,7 +76,7 @@
       <pubDate>Thu, 18 Apr 2024 14:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>寻找一款 windows/android 软件来读取本地 epub 和 pdf 文件</title>
+      <title>寻找一个windows/android软件来读取本地epub和pdf文件</title>
       <link>https://www.reddit.com/r/software/comments/1c72htq/looking_for_a_windowsandroid_software_to_read/</link>
       <description><![CDATA[我已经在互联网上尝试了各种应用程序一段时间了，但我还没有找到符合以下条件的应用程序。您能推荐一下绝对符合以下条件的windows/android跨平台软件吗？：  -能够阅读本地pdf文件。 -绝对无需付费订阅。如果没有免费的，我可以一次性付款。 -在我的设备之间阅读时从中断处同步。我经常在 Android 和 Windows 之间切换。 如果没有也没关系，但最好是： -Obsidian 集成 -一个不错的 UI &gt; -能够读取本地 epub 文件。   由   提交/u/TolgaKerem07   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c72htq/looking_for_a_windowsandroid_software_to_read/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[我的笔记本电脑配有 GTX 1080 显卡，并且具有 1080p 屏幕，我正在使用 PotPlayer 在 43 英寸 1080p 电视上观看电影。 我的电影库主要由 RARBG 1080p x265 电影组成。 我在 PotPlayer 中使用着色器来改善电影的外观。我在预调整大小中使用的着色器是：  Sharpen.txt from  https://drive.usercontent.google.com/download?id=1OunXPIZUkAJeXMFPIDFFlGFbqa9XK3V8 CAS-dx9.hlsl 来自 https://gist.github.com/butterw/ceb89a68bc0aa3b0e317660fb4bacaa3  我在调整大小后使用的着色器是：  Contrast.10.hlsl 来自 https://github。 com/butterw/bShaders/blob/master/A-pack/Shaders/contrast.10.hlsl Grain.hlsl 来自 https://github.com/butterw/bShaders/blob/master/FilmGrain_Noise/grain.hlsl  我正在考虑安装 madVR，我将遵循 https://linustechtips.com/ topic/924659-potplayer-extective-guide-for-best-video-quality/. 这里有人用 madVR 配合 PotPlayer 观看 RARBG 1080p x265 电影吗？我对使用 madVR 有一些顾虑。   由   提交/u/cns000  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c6y9bp/i_have_questions_about_madvr/</guid>
       <pubDate>Thu, 18 Apr 2024 08:29:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>咆哮：为什么微软无法修复 Windows 搜索？</title>
-      <link>https://www.reddit.com/r/software/comments/1c6x0hs/rant_why_is_it_that_microsoft_cant_fix_windows/</link>
-      <description><![CDATA[我的意思是，现在是 2024 年。Windows 11。但我仍然无法可靠地搜索和查找文件。我可以发布我的搜索图像来证明这一点，但我认为我在这方面已经浪费了足够的时间。    由   提交/u/christoforosl08   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1c6x0hs/rant_why_is_it_that_microsoft_cant_fix_windows/</guid>
-      <pubDate>Thu, 18 Apr 2024 07:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于给文件/文件夹添加标签并按标签搜索的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1c6vpx7/software_to_add_tags_to_filesfolders_and_search/</link>
-      <description><![CDATA[ 由   提交/u/turtle_mekb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1c6vpx7/software_to_add_tags_to_filesfolders_and_search/</guid>
-      <pubDate>Thu, 18 Apr 2024 05:39:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
