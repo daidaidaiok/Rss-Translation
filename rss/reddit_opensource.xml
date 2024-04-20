@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 20 Apr 2024 18:08:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 21:06:23 GMT</lastBuildDate>
     <item>
       <title>我构建了一个开源 API 网关来保护前端应用程序中的第三方 API 密钥</title>
       <link>https://www.reddit.com/r/opensource/comments/1c8nmk7/i_built_an_opensource_api_gateway_to_secure/</link>
@@ -55,7 +55,7 @@
       <pubDate>Sat, 20 Apr 2024 03:59:13 GMT</pubDate>
     </item>
     <item>
-      <title>具有代理工作流程的 Github 项目模板</title>
+      <title>带有 Agentic 工作流的 Github 项目模板</title>
       <link>https://www.reddit.com/r/opensource/comments/1c8eyf8/a_github_project_template_with_agentic_workflows/</link>
       <description><![CDATA[我制作了一个名为 智能项目附带人工智能工作流程：  自动格式化和标记新问题 检查新 PR 的常见问题、代码质量、格式等 生成代码的工作流程 运行任意任务的工作流程 询问有关代码库的问题的工作流程  &lt; p&gt;您还可以在问题/PR 评论中使用“/pilot”与 AI 代理交谈。 让我知道您的想法！   由   提交 /u/stellarcitizen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c8eyf8/a_github_project_template_with_agentic_workflows/</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>圣经经文参考图</title>
       <link>https://www.reddit.com/r/opensource/comments/1c88lie/bible_verses_refference_graph/</link>
-      <description><![CDATA[大家好。我正在寻找一个 Excel 列表，其中包含每节经文及其中的参考文献。我想用参考创建一个布尔矩阵，然后用游戏引擎将其可视化为 3D。我想要一张圣经参考文献的地图。任何人都知道谁做过这件事，或者也许 smbd 有一个包含每节经文和参考文献的数据库？谢谢！   由   提交/u/Wandering_Wonderer28  [链接] [评论]]]></description>
+      <description><![CDATA[大家好。我正在寻找一个 Excel 列表，其中包含每节经文及其中的参考文献。我想用参考创建一个布尔矩阵，然后用游戏引擎将其可视化为 3D。我想要一张圣经参考文献的地图。任何人都知道谁做过这件事，或者也许 smbd 有一个包含每节经文和参考文献的数据库？谢谢！   由   提交/u/Wandering_Wonderer28   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c88lie/bible_verses_refference_graph/</guid>
       <pubDate>Fri, 19 Apr 2024 21:32:33 GMT</pubDate>
     </item>
