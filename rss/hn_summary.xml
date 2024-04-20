@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 20 Apr 2024 12:05:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 18:07:38 GMT</lastBuildDate>
     <item>
-      <title>[媒体]NoFap 扩展是一个浏览器工具，旨在自动阻止对 Pornogr 的访问 [...]</title>
-      <link>https://t.me/hn_summary/85493</link>
-      <description><![CDATA[显示 HN：NoFap：我创建了一个扩展来阻止色情网站&lt; /a&gt;
-NoFap Extension 是一款浏览器工具，旨在自动阻止对色情网站的访问，而无需手动输入 URL。它为那些希望限制在线露骨内容的人提供了一个简单而有效的解决方案。与其他拦截器不同，此扩展程序不收集任何用户数据，并且具有简单的功能，没有复杂的 UI。它与主要的基于 Chromium 的浏览器兼容，例如 Google Chrome 和 Firefox。用户可以为项目做出贡献并报告任何问题。 NoFap 是一个独立项目，旨在帮助用户保持专注并享受无干扰的浏览体验。]]></description>
-      <guid>https://t.me/hn_summary/85493</guid>
-      <pubDate>Sat, 20 Apr 2024 12:05:49 GMT</pubDate>
+      <title>欢迎来到 Eye Candy，这是一个视觉效果库，在这里我们将详细介绍您喜爱的作品背后的魔力 [...]</title>
+      <link>https://t.me/hn_summary/85534</link>
+      <description><![CDATA[养眼之作：视觉效果库
+欢迎来到 Eye Candy，这是一个视觉效果库，我们在这里为您剖析您喜爱的电影背后的魔力。通过电子邮件保护来提交您的电影以获取详细信息。此功能仍处于测试阶段，因此我们欢迎您的反馈和建议。深入视觉效果的世界，发现令人惊叹的视觉效果背后的秘密，使电影栩栩如生。加入我们，探索和欣赏视觉效果艺术的旅程。]]></description>
+      <guid>https://t.me/hn_summary/85534</guid>
+      <pubDate>Sat, 20 Apr 2024 18:07:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Resend 是一家领先的基础设施提供商，正在寻找 DevOps 工程师以确保 r [...]</title>
-      <link>https://t.me/hn_summary/85492</link>
-      <description><![CDATA[Resend (YC W23) 正在招聘 DevOps 工程师（远程）
-Resend 是一家领先的基础设施提供商，正在寻找 DevOps 工程师，以确保可靠地交付关键任务电子邮件。职责包括提高可靠性、安全性和性能、配置数据中心、扩展数据库以及完善灾难恢复计划。理想的候选人拥有 5 年 DevOps 或后端工程经验，英语流利，并且可以在美洲时区工作。具有电子邮件最佳实践、Node.js 和 AWS 服务方面的其他经验者优先。加入团队意味着自主权、远程工作环境、现代技术堆栈以及支持性的、低自我的文化。了解有关重新发送的更多信息并在 resend.com 进行申请。]]></description>
-      <guid>https://t.me/hn_summary/85492</guid>
-      <pubDate>Sat, 20 Apr 2024 12:02:45 GMT</pubDate>
+      <title>[媒体] 了解如何通过 OpenAI 客户端在生产中免费使用 Llama 3。</title>
+      <link>https://t.me/hn_summary/85533</link>
+      <description><![CDATA[显示 HN：通过 OpenAI 客户端在产品中免费使用 Llama 3&lt; /a&gt;
+了解如何通过 OpenAI 客户端在生产中免费使用 Llama 3。这种创新方法使您无需任何额外成本即可获得强大的 AI 功能。不要让 JavaScript 限制阻碍您，启用它或切换到受支持的浏览器来利用这个改变游戏规则的机会。在我们的帮助中心了解有关这一令人兴奋的发展的更多信息。立即释放 Llama 3 和 OpenAI 客户端的潜力！]]></description>
+      <guid>https://t.me/hn_summary/85533</guid>
+      <pubDate>Sat, 20 Apr 2024 18:01:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] AdventureAI 是一个探索互动小说中聊天机器人功能的项目 [...]</title>
-      <link>https://t.me/hn_summary/85491</link>
-      <description><![CDATA[Llama3是第一个也能赢得文字冒险的开放模型
-AdventureAI 是一个探索聊天机器人在互动小说中的能力的项目，特别是在赢得文本冒险中的能力。该存储库分析了 Adam Cadre 的游戏“9:05”，重点关注人工智能理解叙述并做出适当反应的能力。该项目使用代理 ReAct 提示技术来引导 AI 完成游戏，其结果与 GPT-4 和 Llama3 等其他模型进行了比较。自述文件强调了各种模型之间的性能差异，其中 Claude 3 Opus 因其对游戏叙事的理解而脱颖而出。 （根据故事文本的 72% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85491</guid>
-      <pubDate>Sat, 20 Apr 2024 12:01:41 GMT</pubDate>
+      <title>层次聚类是一种统计方法，可在数据中构建聚类层次结构 [...]</title>
+      <link>https://t.me/hn_summary/85532</link>
+      <description><![CDATA[层次聚类
+层次聚类是一种统计方法，可在数据挖掘和统计中构建聚类层次结构。它可以通过两种方式实现：聚合法，从单个观察开始并合并聚类，或分裂法，从一个聚类中的所有观察开始并将它们分开。该方法以树状图的形式呈现，可以使用任何有效的距离测量。但是，找到最佳解决方案可能具有挑战性，需要考虑时间和内存复杂性。不同的链接标准（例如完全链接或单链接聚类）会影响聚类的形状和相似性。Ward 链接和其他方法为聚类分析提供了替代方案。（基于 23% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85532</guid>
+      <pubDate>Sat, 20 Apr 2024 17:45:25 GMT</pubDate>
     </item>
     <item>
-      <title>屏幕时间对孩子有什么影响？</title>
-      <link>https://t.me/hn_summary/85490</link>
-      <description><![CDATA[屏幕时间对孩子有什么影响？
-父母越来越担心屏幕时间对孩子的影响，像“无智能手机童年”这样的组织越来越受欢迎。智能手机和社交媒体的兴起恰逢年轻人心理健康状况的下降，研究表明大量使用社交媒体与心理健康状况不佳之间存在联系。虽然一些实验表明，远离社交媒体可以改善幸福感，但总体影响仍然不确定。专家警告不要全面禁止社交媒体，强调需要了解为什么有些孩子在网上茁壮成长，而另一些孩子则处境艰难。随着用户越来越意识到社交媒体的潜在陷阱，他们正在相应地调整自己的行为。]]></description>
-      <guid>https://t.me/hn_summary/85490</guid>
-      <pubDate>Sat, 20 Apr 2024 11:57:36 GMT</pubDate>
+      <title>有关将 JSON 输出添加到命令行实用程序的提示。</title>
+      <link>https://t.me/hn_summary/85531</link>
+      <description><![CDATA[有关将 JSON 输出添加到命令行实用程序的提示。 （2021）
+blog.kellybrazil.com 上的博客文章讨论了这一争议围绕向命令行实用程序添加 JSON 输出，突出了定制解析器和 JSON 处理工具之间的争论。作者分享了对命令行应用程序中结构化输出支持日益增长的趋势的见解，例如 nvidia-smi 和 docker CLI 现在提供 JSON 输出选项。这篇文章还提供了生成高质量 JSON 输出的注意事项，强调了创建模式、扁平化结构和使用可预测的键名称的重要性。作者的 JSON 输出方法（如 iostat 命令所示）重点关注用户便利性以及使用 jq 等工具进行数据过滤的简易性。 （根据 40% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85531</guid>
+      <pubDate>Sat, 20 Apr 2024 17:43:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] YouTube 的一位用户体验研究员对公司如何构建产品产生了重大影响。</title>
-      <link>https://t.me/hn_summary/85489</link>
-      <description><![CDATA[一位用户体验研究人员引发了公司 (YouTube) 构建产品方式的变革
-YouTube 的一位用户体验研究员对公司产品的构建方式产生了重大影响。通过进行彻底的用户研究并倡导以用户为中心的设计原则，他们能够影响关键决策并改善平台上的整体用户体验。此人致力于了解用户需求和偏好，引发了公司产品开发方法的转变，最终带来了更加用户友好的功能和界面。他们的故事提醒我们优先考虑用户反馈并将其纳入设计过程的重要性。]]></description>
-      <guid>https://t.me/hn_summary/85489</guid>
-      <pubDate>Sat, 20 Apr 2024 11:33:26 GMT</pubDate>
+      <title>[媒体] VLC vs.</title>
+      <link>https://t.me/hn_summary/85530</link>
+      <description><![CDATA[VLC 与 App Store
+VideoLAN 在各种应用商店（包括 Windows 应用商店、Android Play 商店和 iOS 应用商店）上更新 VLC 时面临着挑战。这些平台的限制和官僚主义阻碍了它们提供更新和正确连接某些功能的能力。争议在于微软和谷歌拒绝合作，而令人惊讶的是欧洲的Android应用商店成为了潜在的替代品。弗洛里安·穆勒（Florian Mueller）强调了依赖现有平台的问题，谷歌的 YouTube 甚至采取了严厉的措施。平台之间的竞争是显而易见的，但这给 VLC 及其用户带来了困难。]]></description>
+      <guid>https://t.me/hn_summary/85530</guid>
+      <pubDate>Sat, 20 Apr 2024 17:42:14 GMT</pubDate>
     </item>
     <item>
-      <title>Zig 0.12.0 发行说明强调了 268 家公司在 8 个月内取得的重大进展 [...]</title>
-      <link>https://t.me/hn_summary/85488</link>
-      <description><![CDATA[Zig 0.12.0 发行说明
-Zig 0.12.0 发行说明强调了 268 名贡献者在 8 个月内取得的重大进展，其中包括 3688 次提交。该版本的重点是简化文档，以避免读者和维护人员不知所措。值得注意的功能包括对各种目标的支持、自动测试和预构建的二进制文件。该版本还引入了新的 Autodoc 实现，取代了之前的实验版本。发行说明提供了支持的目标、其状态和潜在问题的详细分类。总体而言，Zig 不断发展成为一种强大、优化且可重用的编程语言和工具链。 （根据故事文本的 9% 进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85488</guid>
-      <pubDate>Sat, 20 Apr 2024 11:22:20 GMT</pubDate>
+      <title>[媒体] 编程与编程</title>
+      <link>https://t.me/hn_summary/85529</link>
+      <description><![CDATA[编程与数学好奇心
+此网页内容探讨了被称为 Kaprekar 例程的数字的迷人属性，从任意 4 位数字开始，按升序和降序反复重新排列其数字，然后减去两个结果数字，最终得到数字 6174。这个令人惊讶的数字发现展示了编程和数学好奇心的交集。作者提供了一个 Ruby 程序来演示此属性，突出了该解决方案的简单性和优雅性。内容深入探讨了数字重新排列的细微差别和 Kaprekar 例程的迭代性质，对数学好奇心进行了引人入胜的探索。 （根据故事文本的 72% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85529</guid>
+      <pubDate>Sat, 20 Apr 2024 17:33:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者分享了一段 PC 问题的疯狂之旅，这些问题通过删除神秘地解决了 [...]</title>
-      <link>https://t.me/hn_summary/85487</link>
-      <description><![CDATA[不要购买海信电视（或至少让其离线） 
-作者分享了一次疯狂的 PC 问题之旅，通过删除连接到网络的海信电视生成的密钥神秘地解决了这些问题。电视是电脑故障的罪魁祸首的发现令人震惊和出乎意料。按照 Microsoft 论坛帖子中找到的解决方案进行操作后，作者的电脑恢复了正常功能，包括能够打开显示设置和使用之前出现故障的各种设备。电视可能会造成如此严重的破坏，以及最终解决问题后的轻松感，让人读起来既令人惊讶又有趣。]]></description>
-      <guid>https://t.me/hn_summary/85487</guid>
-      <pubDate>Sat, 20 Apr 2024 11:11:13 GMT</pubDate>
+      <title>Doomscroller.xyz 是一个独特的网站，只做一件事，而且只做一件事。</title>
+      <link>https://t.me/hn_summary/85528</link>
+      <description><![CDATA[Doomscroller.xyz
+Doomscroller.xyz 是一个独特的网站，只做一件事，一件事仅有的。它是一款专为 Android 和 PC 用户设计的工具，预计发货时间约为 2 周。不幸的是，iOS 用户运气不佳。感兴趣的人可以在 Github 上获取该代码。别担心，创造者相当有信心电池不会爆炸。查看 Doomscroller.xyz 以获得令人惊讶且巧妙的在线体验。]]></description>
+      <guid>https://t.me/hn_summary/85528</guid>
+      <pubDate>Sat, 20 Apr 2024 17:05:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]脱水是一个作为 shell 脚本实现的 Let's Encrypt/acme 客户端，支持 bo [...]</title>
-      <link>https://t.me/hn_summary/85486</link>
-      <description><![CDATA[脱水：Letsencrypt/acme 客户端作为 shell 脚本实现
-DeHydrated 是一个以 shell 脚本形式实现的 Let&#39;s Encrypt/acme 客户端，支持 ACME v1 和 ACME v2，包括通配符证书。它使用 openssl 进行密钥和证书处理，并具有 cURL、sed、grep、awk 和 mktemp 等依赖项。该项目提供签名域、自定义 CSR、续订、撤销等功能。作者建议使用暂存 URL 以避免速率限制。配置可以通过配置文件完成，用法包括不同操作的各种命令和参数。该项目还提供故障排除指南以及用于支持和讨论的 IRC 频道。]]></description>
-      <guid>https://t.me/hn_summary/85486</guid>
-      <pubDate>Sat, 20 Apr 2024 11:04:07 GMT</pubDate>
+      <title>OpenStreetMap 中地图设计的当前状态是多样化的景观，有各种项目 [...]</title>
+      <link>https://t.me/hn_summary/85527</link>
+      <description><![CDATA[OpenStreetMap 中地图设计的现状
+OpenStreetMap 中地图设计的当前状态是多样化的景观，各种项目塑造了平台的制图面貌。虽然 OSM-Carto 仍然具有影响力，但商业和社区驱动的其他地图设计努力正在崭露头角。来自大型科​​技公司的基于 OSM 的商业地图在该领域占据主导地位，其特点是设计简单且缺乏对细节的关注。 Stamen 等前卫项目以及德国和法国 OSM-Carto 叉子等创新风格提供了独特的视角。 OpenTopoMap 因其传统的地形图设计而脱颖而出，而 freemap.sk 户外地图风格展示了带有浮雕阴影的精心设计。 OpenStreetMap Americana 项目是一个新来者，它提供了基于 OpenMapTiles 数据的客户端渲染样式。 OpenStreetMap 中的地图设计生态系统不断发展，各种影响共同塑造着平台上制图的未来。 （根据 70% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85527</guid>
+      <pubDate>Sat, 20 Apr 2024 17:04:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]开发电动汽车高效动力总成对于转型至关重要 [...]</title>
-      <link>https://t.me/hn_summary/85485</link>
-      <description><![CDATA[具有恒定满载能力的电力驱动逆变器&lt; br /&gt;
-开发电动汽车高效动力系统对于摆脱化石燃料至关重要。 Fraunhofer IZM 与保时捷和博世合作，正在开发一款紧凑型三相驱动逆变器，具有 720 千瓦的高连续输出。通过使用耐热碳化硅晶体管和创新的预封装工艺，与现有的硅基逆变器相比，它们的性能提高了 20-30%。此外，使用 3D 打印机的铜冷却元件可以实现更好的热集成和更高效的冷却。该原型机的高度模块化将使部件的更换和维修变得更加容易，从而使电动汽车的资源利用率更高。]]></description>
-      <guid>https://t.me/hn_summary/85485</guid>
-      <pubDate>Sat, 20 Apr 2024 10:59:02 GMT</pubDate>
+      <title>[媒体] 在 grski.pl 上这篇有争议的文章中，作者认为超过一半的 cl [...]</title>
+      <link>https://t.me/hn_summary/85526</link>
+      <description><![CDATA[停止使用云
+在 grski.pl 上这篇有争议的文章中，作者认为更多超过一半的云用户没有它会过得更好，他们声称像 AWS 这样的云提供商专注于赚钱而不是提供价值。作者主张“去云”并简化基础设施，以节省成本并降低复杂性。他们提供了有关设置自托管 postgres 实例、复制 API、负载均衡器等的分步指南，每月费用不到 200 美元。这篇文章挑战了云服务对于初创公司来说是必要的这一观念，并建议拥有和托管自己的数据可能是一种更高效、更具成本效益的解决方案。 （根据故事文本的 28% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85526</guid>
+      <pubDate>Sat, 20 Apr 2024 16:58:47 GMT</pubDate>
     </item>
     <item>
-      <title>欢迎来到 mupdf.com 上的 MuPDF WASM 查看器演示！</title>
-      <link>https://t.me/hn_summary/85484</link>
-      <description><![CDATA[MuPDF WASM 查看器演示
-欢迎来到 mupdf.com 上的 MuPDF WASM 查看器演示！该演示允许您使用 MuPDF.js 直接在 Web 浏览器中打开和查看 PDF 文件。凭借全屏模式、搜索功能和调整缩放级别等功能，该查看器为在线查看 PDF 提供了无缝且用户友好的体验。 WebAssembly 技术的使用使该查看器快速高效，无需任何额外插件即可为您提供流畅的观看体验。亲自尝试一下，看看 MuPDF 的强大功能！]]></description>
-      <guid>https://t.me/hn_summary/85484</guid>
-      <pubDate>Sat, 20 Apr 2024 10:05:43 GMT</pubDate>
+      <title>[媒体] 威胁行为者正在利用 GitHub 缺陷通过 URL 分发恶意软件 [...]</title>
+      <link>https://t.me/hn_summary/85525</link>
+      <description><![CDATA[滥用 GitHub 评论通过 Microsoft 存储库 URL 推送恶意软件 
+威胁行为者正在利用 GitHub 缺陷通过与 Microsoft 存储库关联的 URL 分发恶意软件，使文件看起来合法。此缺陷允许恶意行为者将恶意软件附加到 GitHub 上的任何公共存储库，从而创建令人信服的诱饵。该恶意软件通过项目中提交或问题上留下的评论进行分发，即使未发布评论，也会自动生成下载链接。这种聪明的策略可能会损害使用 GitHub 的软件公司的声誉。尽管努力报告滥用情况，但恶意软件的传播仍然不受控制。]]></description>
+      <guid>https://t.me/hn_summary/85525</guid>
+      <pubDate>Sat, 20 Apr 2024 16:46:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
