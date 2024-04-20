@@ -4,7 +4,21 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 19 Apr 2024 21:06:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 00:17:18 GMT</lastBuildDate>
+    <item>
+      <title>希望转向视频编辑</title>
+      <link>https://www.reddit.com/r/editors/comments/1c8bl1r/looking_to_pivot_into_video_editing/</link>
+      <description><![CDATA[没有官方经验，但我通过各种课程以及学校以外的课程对 Adob​​e Premier Pro 和 Final Cut Pro 非常了解。所以我想知道，作为一个想成为一名全职编辑、没有人脉或经验的人，我该从哪里开始呢？    由   提交 /u/NeilMcCauleyHeat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1c8bl1r/looking_to_pivot_into_video_editing/</guid>
+      <pubDate>Fri, 19 Apr 2024 23:43:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 NAB 2024 上没有看过的东西</title>
+      <link>https://www.reddit.com/r/editors/comments/1c884ef/something_i_did_not_look_at_at_nab_2024/</link>
+      <description><![CDATA[https://wasabi.com/wasabi-air/  具有“内置人工智能资产管理”功能的云存储。它真的有效吗？  我当然不知道。    由   提交 /u/BobZelin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1c884ef/something_i_did_not_look_at_at_nab_2024/</guid>
+      <pubDate>Fri, 19 Apr 2024 21:13:25 GMT</pubDate>
+    </item>
     <item>
       <title>用于基本 QC 的轻量级软件？</title>
       <link>https://www.reddit.com/r/editors/comments/1c827ce/lightweight_software_for_basic_qc/</link>
@@ -90,25 +104,11 @@
       <pubDate>Thu, 18 Apr 2024 23:44:02 GMT</pubDate>
     </item>
     <item>
-      <title>多机位中的超低帧率。为什么？</title>
-      <link>https://www.reddit.com/r/editors/comments/1c7dylf/super_low_framerate_in_multi_cam_why/</link>
-      <description><![CDATA[在 Premiere 中，我在一台强大的 PC（AMD 7900xt GPU 和 5800x 3d CPU、48GB RAM）上使用 SSD 时，多机位播放的帧率非常糟糕。 一切都很顺利，直到我进入多机位视图，它就像丢了 1000 帧。这不是素材的问题，一旦我导出它就没问题了，这只是播放时的问题。 如果这是个问题，其他参与该项目的人都在使用 Mac，而我使用的是 PC。素材最初是 4k，但我使用的是 1/8 播放分辨率，并且我已经做了我能在网上找到的所有方法来修复它，例如更改编解码器（最初是 Apple Res HQ）清除媒体缓存、更新驱动程序和软件、关闭剪辑上的任何 FX、降低分辨率，但还是没有修复。我无法制作代理，因为它是序列中的，我不想重新制作所有内容。我拿到了已经制作好的序列的驱动器。任务管理器上的 CPU 和 GPU 使用率都很低，所以我的电脑没有遇到困难。 请帮忙    提交人    /u/tinybazaar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1c7dylf/super_low_framerate_in_multi_cam_why/</guid>
-      <pubDate>Thu, 18 Apr 2024 20:39:13 GMT</pubDate>
-    </item>
-    <item>
       <title>新工作站</title>
       <link>https://www.reddit.com/r/editors/comments/1c7bhpk/new_workstation/</link>
       <description><![CDATA[嘿，我打算购买一台新电脑，主要用于 Premiere Pro 编辑。我通常编辑 4K XAVC-I 或 XAVC-L，有时编辑 8K R3D。这是我选择的硬件： AMD Ryzen 9 7950X Noctua NH-U12A GIGABYTE GeForce RTX 4070 WINDFORCE OC 12G，12GB GDDR6X Crucial P5 Plus，M.2 - 1TB WD Black SN770，M.2 - 2TB 金士顿狂暴野兽黑色 64GB (2x32GB) DDR5 5600 CL40 MSI MAG B650 TOMAHAWK WIFI - AMD B650 分形设计 Meshify 2 紧凑型黑色固体 安静！系统功率 10 - 850W 对构建有什么想法吗？我已经有足够的 HDD 存储空间，所以我没有在这里列出它    由   提交 /u/Atrekan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c7bhpk/new_workstation/</guid>
       <pubDate>Thu, 18 Apr 2024 19:01:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>LucidLink - 基础还是高级？</title>
-      <link>https://www.reddit.com/r/editors/comments/1c7b0lt/lucidlink_basic_or_advanced/</link>
-      <description><![CDATA[嘿朋友们。我们正在考虑为即将到来的工作设置 LucidLink 文件空间。我们有大约 4-5 名剪辑师使用 1080p ProRes 代理（以及一些 UHD ProRes HQ vfx 合成）在 Premiere/AE 中工作。我们将在美国的几个不同角落进行合作。 与高级层相比，在基础层工作有什么缺点吗？我可以看到功能的简短列表，但我也注意到“高性能工作负载”标记并想知道这到底意味着什么？一层比另一层快吗？ Wasabi 与 IBM？ 感谢您对此提供的任何帮助。我在接下来的几天内与 LucidLink 进行了通话设置，但也想了解这个子系统。你们过去都非常有帮助。 技术信息： M1-M3 MacBook Pro、Adobe Premiere Pro（当前）、各种 Apple ProRes 风格（1080p + UHD）    由   提交/u/kstebbs  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1c7b0lt/lucidlink_basic_or_advanced/</guid>
-      <pubDate>Thu, 18 Apr 2024 18:42:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
