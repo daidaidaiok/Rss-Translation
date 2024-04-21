@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 20 Apr 2024 18:07:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 03:04:10 GMT</lastBuildDate>
     <item>
-      <title>欢迎来到 Eye Candy，这是一个视觉效果库，在这里我们将详细介绍您喜爱的作品背后的魔力 [...]</title>
-      <link>https://t.me/hn_summary/85534</link>
-      <description><![CDATA[养眼之作：视觉效果库
-欢迎来到 Eye Candy，这是一个视觉效果库，我们在这里为您剖析您喜爱的电影背后的魔力。通过电子邮件保护来提交您的电影以获取详细信息。此功能仍处于测试阶段，因此我们欢迎您的反馈和建议。深入视觉效果的世界，发现令人惊叹的视觉效果背后的秘密，使电影栩栩如生。加入我们，探索和欣赏视觉效果艺术的旅程。]]></description>
-      <guid>https://t.me/hn_summary/85534</guid>
-      <pubDate>Sat, 20 Apr 2024 18:07:38 GMT</pubDate>
+      <title>[媒体]制药巨头拜耳正在通过消除 [...]</title>
+      <link>https://t.me/hn_summary/85600</link>
+      <description><![CDATA[制药巨头拜耳正在摆脱老板
+制药巨头拜耳正在重组公司结构，取消中层管理人员，并削减庞大的规则手册，以节省数十亿美元的资金。首席执行官比尔·安德森 (Bill Anderson) 相信此举将赋予员工权力并简化决策。虽然有些人认为这是一种大胆和创新的方法，但另一些人则认为这是一种削减成本的措施，这在企业界并不是全新的。由于公司因收购孟山都公司而面临财务挑战和法律纠纷，安德森希望这一彻底的革新将为拜耳带来大量节省和更光明的未来。]]></description>
+      <guid>https://t.me/hn_summary/85600</guid>
+      <pubDate>Sun, 21 Apr 2024 03:04:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 了解如何通过 OpenAI 客户端在生产中免费使用 Llama 3。</title>
-      <link>https://t.me/hn_summary/85533</link>
-      <description><![CDATA[显示 HN：通过 OpenAI 客户端在产品中免费使用 Llama 3&lt; /a&gt;
-了解如何通过 OpenAI 客户端在生产中免费使用 Llama 3。这种创新方法使您无需任何额外成本即可获得强大的 AI 功能。不要让 JavaScript 限制阻碍您，启用它或切换到受支持的浏览器来利用这个改变游戏规则的机会。在我们的帮助中心了解有关这一令人兴奋的发展的更多信息。立即释放 Llama 3 和 OpenAI 客户端的潜力！]]></description>
-      <guid>https://t.me/hn_summary/85533</guid>
-      <pubDate>Sat, 20 Apr 2024 18:01:34 GMT</pubDate>
+      <title>[媒体] Rust for JavaScript Developers (2019) 是 www.codegram.com 上的一篇文章，探讨了 [...]</title>
+      <link>https://t.me/hn_summary/85599</link>
+      <description><![CDATA[Rust 面向 JavaScript 开发人员（2019）
+Rust for JavaScript Developers (2019) 是 www.codegram.com 上的帖子 探索了 Web 开发人员从 JavaScript 过渡到 Rust 的旅程。这篇文章强调了两种语言之间的主要区别，例如 Rust 严格的类型系统和所有权概念。它还深入研究了 Rust 中的不变性、所有权和结构等基本主题。这篇文章强调了 Rust 的多功能性，展示了它在 Web 开发、游戏开发和机器学习方面的潜力。最有趣的方面是 Rust 与 WebAssembly 的兼容性，允许开发人员将 Rust 代码与现有 JavaScript 项目无缝集成。这篇文章鼓励 JavaScript 开发人员尝试 Rust，并提供进一步学习的资源。]]></description>
+      <guid>https://t.me/hn_summary/85599</guid>
+      <pubDate>Sun, 21 Apr 2024 03:03:06 GMT</pubDate>
     </item>
     <item>
-      <title>层次聚类是一种统计方法，可在数据中构建聚类层次结构 [...]</title>
-      <link>https://t.me/hn_summary/85532</link>
-      <description><![CDATA[层次聚类
-层次聚类是一种统计方法，可在数据挖掘和统计中构建聚类层次结构。它可以通过两种方式实现：聚合法，从单个观察开始并合并聚类，或分裂法，从一个聚类中的所有观察开始并将它们分开。该方法以树状图的形式呈现，可以使用任何有效的距离测量。但是，找到最佳解决方案可能具有挑战性，需要考虑时间和内存复杂性。不同的链接标准（例如完全链接或单链接聚类）会影响聚类的形状和相似性。Ward 链接和其他方法为聚类分析提供了替代方案。（基于 23% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85532</guid>
-      <pubDate>Sat, 20 Apr 2024 17:45:25 GMT</pubDate>
+      <title>众议院投票禁止 TikTok 在美国上市</title>
+      <link>https://t.me/hn_summary/85598</link>
+      <description><![CDATA[众议院投票禁止 TikTok 在美国销售
+众议院通过了一项法案，如果 TikTok 的中国所有者不出售该应用程序，该法案可能会导致美国全国范围内禁止 TikTok。这项措施附加在支持乌克兰和以色列的对外援助法案中，拜登总统表示赞成。 TikTok 谴责该法案是对言论自由的攻击。尽管没有公开证据表明中国政府进行了干预，但对宣传和间谍活动的担忧加剧了镇压行动。关于潜在买家实际会收购什么仍存在疑问，因为 TikTok 的算法归字节跳动所有，出售它需要获得中国的批准。该法案给 TikTok 一年的时间寻找买家，但专家对能否成功出售表示怀疑。]]></description>
+      <guid>https://t.me/hn_summary/85598</guid>
+      <pubDate>Sun, 21 Apr 2024 02:48:59 GMT</pubDate>
     </item>
     <item>
-      <title>有关将 JSON 输出添加到命令行实用程序的提示。</title>
-      <link>https://t.me/hn_summary/85531</link>
-      <description><![CDATA[有关将 JSON 输出添加到命令行实用程序的提示。 （2021）
-blog.kellybrazil.com 上的博客文章讨论了这一争议围绕向命令行实用程序添加 JSON 输出，突出了定制解析器和 JSON 处理工具之间的争论。作者分享了对命令行应用程序中结构化输出支持日益增长的趋势的见解，例如 nvidia-smi 和 docker CLI 现在提供 JSON 输出选项。这篇文章还提供了生成高质量 JSON 输出的注意事项，强调了创建模式、扁平化结构和使用可预测的键名称的重要性。作者的 JSON 输出方法（如 iostat 命令所示）重点关注用户便利性以及使用 jq 等工具进行数据过滤的简易性。 （根据 40% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85531</guid>
-      <pubDate>Sat, 20 Apr 2024 17:43:21 GMT</pubDate>
+      <title>[媒体]三星正在为其高管实施每周六天的工作制，以应对较低的PE [...]</title>
+      <link>https://t.me/hn_summary/85597</link>
+      <description><![CDATA[三星要求其高管每周工作 6 天以“注入”危机感&#39;
+三星正在为其高管实行每周六天的工作制，以应对业绩下滑和经济不确定性。此举被视为注入危机意识、推动全力应对挑战的一种方式。虽然一些高管自愿每周工作六天，但这一规定现在将适用于三星各个部门的高管。这一决定违背了缩短工作周的全球趋势，冰岛和英国等国家已经看到了这种模式的积极成果。然而，在韩国，政府一直在推动延长每周工作时间，年轻一代的抗议促使人们重新考虑每周 69 小时工作时间的提议。]]></description>
+      <guid>https://t.me/hn_summary/85597</guid>
+      <pubDate>Sun, 21 Apr 2024 02:20:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] VLC vs.</title>
-      <link>https://t.me/hn_summary/85530</link>
-      <description><![CDATA[VLC 与 App Store
-VideoLAN 在各种应用商店（包括 Windows 应用商店、Android Play 商店和 iOS 应用商店）上更新 VLC 时面临着挑战。这些平台的限制和官僚主义阻碍了它们提供更新和正确连接某些功能的能力。争议在于微软和谷歌拒绝合作，而令人惊讶的是欧洲的Android应用商店成为了潜在的替代品。弗洛里安·穆勒（Florian Mueller）强调了依赖现有平台的问题，谷歌的 YouTube 甚至采取了严厉的措施。平台之间的竞争是显而易见的，但这给 VLC 及其用户带来了困难。]]></description>
-      <guid>https://t.me/hn_summary/85530</guid>
-      <pubDate>Sat, 20 Apr 2024 17:42:14 GMT</pubDate>
+      <title>[媒体]该网站探索非常规的 N 轮车辆，重点关注那些拥有一个、两个 [...]</title>
+      <link>https://t.me/hn_summary/85596</link>
+      <description><![CDATA[N轮车辆
+该网站探索非传统的 N 轮车辆，重点关注一轮、两轮和三轮车辆。它展示了独特的设计，如单轮坦克和单轮基伦海峡拖拉机。该页面还介绍了像布莱恩特双轮这样的双轮，它可以容纳多人，并有一个用于转向的舵。此外，它还重点介绍了 A C Sociable 和德国 Phanomobil 等三轮汽车，提供历史背景和技术细节。展出的车辆系列挑战了传统的汽车设计和功能概念，让人们一睹实验性交通世界的风采。 （根据故事文本的 8% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85596</guid>
+      <pubDate>Sun, 21 Apr 2024 02:16:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 编程与编程</title>
-      <link>https://t.me/hn_summary/85529</link>
-      <description><![CDATA[编程与数学好奇心
-此网页内容探讨了被称为 Kaprekar 例程的数字的迷人属性，从任意 4 位数字开始，按升序和降序反复重新排列其数字，然后减去两个结果数字，最终得到数字 6174。这个令人惊讶的数字发现展示了编程和数学好奇心的交集。作者提供了一个 Ruby 程序来演示此属性，突出了该解决方案的简单性和优雅性。内容深入探讨了数字重新排列的细微差别和 Kaprekar 例程的迭代性质，对数学好奇心进行了引人入胜的探索。 （根据故事文本的 72% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85529</guid>
-      <pubDate>Sat, 20 Apr 2024 17:33:08 GMT</pubDate>
+      <title>[媒体] 标题：仇恨者如何一夜之间将明塔瓦的时间表加快了一年</title>
+      <link>https://t.me/hn_summary/85595</link>
+      <description><![CDATA[一个反对者如何在一夜之间将 [Mentava 的时间表提前一年](https://news.ycombinator.com/item?id=40101518)
+标题：一个反对者如何在一夜之间将 Mentava 的时间表提前一年
+
+在 Mentava，我们正在悄悄地建立一家教育技术初创公司，计划在一年内推出。然后，一位直言不讳的批评家 Emily Mills 攻击了我们加速学习的使命。她的推文引发了巨大的反响，家长们甚至在我们的软件问世之前就预付了费用。一夜之间，我们加快了发布速度，手动将客户输入我们的数据库并提交到 App Store。尽管出现了一些小问题，但我们在不到一周的时间内就上线了。感谢 Emily，我们找到了热情的观众和新的目标感。有时，意外的批评可能是因祸得福。]]></description>
+      <guid>https://t.me/hn_summary/85595</guid>
+      <pubDate>Sun, 21 Apr 2024 01:27:27 GMT</pubDate>
     </item>
     <item>
-      <title>Doomscroller.xyz 是一个独特的网站，只做一件事，而且只做一件事。</title>
-      <link>https://t.me/hn_summary/85528</link>
-      <description><![CDATA[Doomscroller.xyz
-Doomscroller.xyz 是一个独特的网站，只做一件事，一件事仅有的。它是一款专为 Android 和 PC 用户设计的工具，预计发货时间约为 2 周。不幸的是，iOS 用户运气不佳。感兴趣的人可以在 Github 上获取该代码。别担心，创造者相当有信心电池不会爆炸。查看 Doomscroller.xyz 以获得令人惊讶且巧妙的在线体验。]]></description>
-      <guid>https://t.me/hn_summary/85528</guid>
-      <pubDate>Sat, 20 Apr 2024 17:05:57 GMT</pubDate>
+      <title>此 PDF 讨论了可编写脚本的操作系统的概念，用户可以在其中编写其 k [...]</title>
+      <link>https://t.me/hn_summary/85594</link>
+      <description><![CDATA[使用 Lua 编写脚本的操作系统 [pdf](https://news .ycombinator.com/item?id=40086027)
+本 PDF 讨论了可编写脚本的操作系统的概念，用户可以编写内核脚本来满足特定要求。论文提出了可脚本化操作系统的思想，将脚本开发应用于可扩展操作系统。它引入了一个使用 Lua 的内核脚本环境来动态扩展 Linux 和 NetBSD 操作系统，以实现 CPU 频率缩放和网络数据包过滤。本文探讨了将系统编程语言与脚本语言结合起来进行应用程序定制的好处。它还讨论了内核脚本编写的挑战和可能性，并提供了如何增强操作系统灵活性和性能的示例。 （根据故事文本的 22% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85594</guid>
+      <pubDate>Sun, 21 Apr 2024 01:15:18 GMT</pubDate>
     </item>
     <item>
-      <title>OpenStreetMap 中地图设计的当前状态是多样化的景观，有各种项目 [...]</title>
-      <link>https://t.me/hn_summary/85527</link>
-      <description><![CDATA[OpenStreetMap 中地图设计的现状
-OpenStreetMap 中地图设计的当前状态是多样化的景观，各种项目塑造了平台的制图面貌。虽然 OSM-Carto 仍然具有影响力，但商业和社区驱动的其他地图设计努力正在崭露头角。来自大型科​​技公司的基于 OSM 的商业地图在该领域占据主导地位，其特点是设计简单且缺乏对细节的关注。 Stamen 等前卫项目以及德国和法国 OSM-Carto 叉子等创新风格提供了独特的视角。 OpenTopoMap 因其传统的地形图设计而脱颖而出，而 freemap.sk 户外地图风格展示了带有浮雕阴影的精心设计。 OpenStreetMap Americana 项目是一个新来者，它提供了基于 OpenMapTiles 数据的客户端渲染样式。 OpenStreetMap 中的地图设计生态系统不断发展，各种影响共同塑造着平台上制图的未来。 （根据 70% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85527</guid>
-      <pubDate>Sat, 20 Apr 2024 17:04:54 GMT</pubDate>
+      <title>[媒体]法兰德斯神经电子研究中心的新研究挑战了传统观点[...]</title>
+      <link>https://t.me/hn_summary/85593</link>
+      <description><![CDATA[新研究表明脊髓可以学习和记忆
+法兰德斯神经电子研究中心的新研究挑战了脊髓的传统观点，揭示了它可以独立学习和记忆运动。这项开创性的研究表明，脊髓神经元可以在没有大脑输入的情况下适应和回忆学到的行为。研究人员发现了两个介导运动学习和记忆的特定神经元群，将该过程比作脊髓内的接力赛。这些发现为脊髓回路如何有助于运动掌握提供了新的线索，并可能彻底改变脊髓损伤患者的康复策略。这项发表在《科学》杂志上的研究强调了脊髓卓越的可塑性及其在运动学习和记忆中的潜在作用。]]></description>
+      <guid>https://t.me/hn_summary/85593</guid>
+      <pubDate>Sun, 21 Apr 2024 00:14:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 grski.pl 上这篇有争议的文章中，作者认为超过一半的 cl [...]</title>
-      <link>https://t.me/hn_summary/85526</link>
-      <description><![CDATA[停止使用云
-在 grski.pl 上这篇有争议的文章中，作者认为更多超过一半的云用户没有它会过得更好，他们声称像 AWS 这样的云提供商专注于赚钱而不是提供价值。作者主张“去云”并简化基础设施，以节省成本并降低复杂性。他们提供了有关设置自托管 postgres 实例、复制 API、负载均衡器等的分步指南，每月费用不到 200 美元。这篇文章挑战了云服务对于初创公司来说是必要的这一观念，并建议拥有和托管自己的数据可能是一种更高效、更具成本效益的解决方案。 （根据故事文本的 28% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85526</guid>
-      <pubDate>Sat, 20 Apr 2024 16:58:47 GMT</pubDate>
+      <title>Stuart Parkin 是一位著名的科学家和工程师，他凭借他的 [...]</title>
+      <link>https://t.me/hn_summary/85592</link>
+      <description><![CDATA[Stuart Parkin 彻底改变了磁盘驱动器存储
+Stuart Parkin 是一位著名的科学家和工程师，他在自旋电子学方面的开创性工作彻底改变了磁盘驱动器存储。他的创新技术利用电子的磁性和电荷来改进电子设备，使它们更加节能并能够存储大量数据。 Parkin 从 IBM 到马克斯普朗克研究所的旅程展示了他对基础科学的奉献精神以及对世界技术的影响。他对了解自然世界和推动技术前沿的热情凸显了科学和工程在解决全球挑战中的重要性。 Parkin 的贡献为在以数据为中心的世界中增加获取知识铺平了道路。]]></description>
+      <guid>https://t.me/hn_summary/85592</guid>
+      <pubDate>Sun, 21 Apr 2024 00:13:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 威胁行为者正在利用 GitHub 缺陷通过 URL 分发恶意软件 [...]</title>
-      <link>https://t.me/hn_summary/85525</link>
-      <description><![CDATA[滥用 GitHub 评论通过 Microsoft 存储库 URL 推送恶意软件 
-威胁行为者正在利用 GitHub 缺陷通过与 Microsoft 存储库关联的 URL 分发恶意软件，使文件看起来合法。此缺陷允许恶意行为者将恶意软件附加到 GitHub 上的任何公共存储库，从而创建令人信服的诱饵。该恶意软件通过项目中提交或问题上留下的评论进行分发，即使未发布评论，也会自动生成下载链接。这种聪明的策略可能会损害使用 GitHub 的软件公司的声誉。尽管努力报告滥用情况，但恶意软件的传播仍然不受控制。]]></description>
-      <guid>https://t.me/hn_summary/85525</guid>
-      <pubDate>Sat, 20 Apr 2024 16:46:09 GMT</pubDate>
+      <title>[媒体]我踏上了从哈萨克斯坦购买300个表情符号域名并创建的疯狂旅程 [...]</title>
+      <link>https://t.me/hn_summary/85591</link>
+      <description><![CDATA[我从哈萨克斯坦购买了 300 个表情符号域名并建立了电子邮件服务&lt; /a&gt;
+我开始了一段疯狂的旅程，从哈萨克斯坦购买了 300 个表情符号域名，并创建了一个名为 Mailoji 的表情符号电子邮件地址服务。从在 TikTok 上的病毒式传播到一周赚到 1000 美元，再到聘请日本配音演员，再到探索表情符号领域的奇异世界，这个项目充满了惊喜。尽管面临垃圾邮件过滤器和语言障碍等挑战，我还是坚持了下来，并在 Product Hunt 上推出了 Mailoji，一天内销售了超过 150 个表情符号电子邮件地址。虽然收入可能无法覆盖所有域名成本，但探索表情符号域名的冒险是值得的。表情符号电子邮件地址可能不那么传统，但它们确实很有趣。 （根据 98% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85591</guid>
+      <pubDate>Sun, 21 Apr 2024 00:12:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
