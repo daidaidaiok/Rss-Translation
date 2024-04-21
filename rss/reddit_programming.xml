@@ -4,13 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 21 Apr 2024 12:08:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 15:06:16 GMT</lastBuildDate>
     <item>
-      <title>选择的悖论和学习编程</title>
-      <link>https://www.reddit.com/r/programming/comments/1c9euoj/the_paradox_of_choice_learning_to_program/</link>
-      <description><![CDATA[ 由   提交/u/No-Corner-2442   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c9euoj/the_paradox_of_choice_learning_to_program/</guid>
-      <pubDate>Sun, 21 Apr 2024 10:40:47 GMT</pubDate>
+      <title>过度工程和过度设计的陷阱</title>
+      <link>https://www.reddit.com/r/programming/comments/1c9js1k/the_trap_of_overengineering_and_overdesign/</link>
+      <description><![CDATA[ 由   提交 /u/topcodemangler   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c9js1k/the_trap_of_overengineering_and_overdesign/</guid>
+      <pubDate>Sun, 21 Apr 2024 14:52:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>搜索 OEIS 表</title>
+      <link>https://www.reddit.com/r/programming/comments/1c9jbpc/searching_oeis_tables/</link>
+      <description><![CDATA[ 由   提交/u/Paddy3118  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c9jbpc/searching_oeis_tables/</guid>
+      <pubDate>Sun, 21 Apr 2024 14:33:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过“尝试修复”来破坏 CORS</title>
+      <link>https://www.reddit.com/r/programming/comments/1c9inc9/breaking_cors_by_trying_to_fix_it/</link>
+      <description><![CDATA[ 由   提交/u/Fcmam5  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c9inc9/breaking_cors_by_trying_to_fix_it/</guid>
+      <pubDate>Sun, 21 Apr 2024 14:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>有一天从冒名顶替者到第二天感觉自己像个超人</title>
+      <link>https://www.reddit.com/r/programming/comments/1c9igti/going_from_impostor_one_day_to_feeling_like_a/</link>
+      <description><![CDATA[ 由   提交/u/gregorojstersek  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c9igti/going_from_impostor_one_day_to_feeling_like_a/</guid>
+      <pubDate>Sun, 21 Apr 2024 13:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么选择 ACPI？ (2023)</title>
+      <link>https://www.reddit.com/r/programming/comments/1c9i3du/why_acpi_2023/</link>
+      <description><![CDATA[ 由   提交/u/pdp10  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c9i3du/why_acpi_2023/</guid>
+      <pubDate>Sun, 21 Apr 2024 13:37:30 GMT</pubDate>
     </item>
     <item>
       <title>2004-2022 年十大编程语言</title>
@@ -20,7 +48,7 @@
       <pubDate>Sun, 21 Apr 2024 10:19:23 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用.bak数据库恢复ASP网站</title>
+      <title>如何使用 .bak 数据库恢复 ASP 网站</title>
       <link>https://www.reddit.com/r/programming/comments/1c9du4j/how_to_restore_asp_website_with_bak_database/</link>
       <description><![CDATA[我在一家小公司工作，我是唯一的技术人员。 之前的前 IT 员工已删除我们不再使用的计费软件，但我们需要再次运行它。 他给我老板留下了一个 ZIP 文件，其中包含 .aspx、.aspx.vb 文件以及数据库 .bak文件和 web.config 文件来输入数据库连接详细信息。 所以我的问题是：我可以购买共享 Windows 主机，上传 zip 中的 aspx 和所有文件，然后上传 .bak 文件吗？数据库，编辑 web.config 文件以连接数据库并使其运行？  我使用 Wordpress/Joomla 已经超过 5 年了，但之前从未使用过基于 Windows 的服务器或 ASP 网站。我熟悉 HTML/CSS/JS 以及一点 PHP/MySQL 和 Angular，仅供参考。   由   提交 /u/Admirable_Froyo_7363   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c9du4j/how_to_restore_asp_website_with_bak_database/</guid>
@@ -29,12 +57,12 @@
     <item>
       <title>regexp-it-cli @v3.0.0：命令行应用程序，通过具有大量功能的正则表达式从不同来源搜索文本</title>
       <link>https://www.reddit.com/r/programming/comments/1c9dnu1/regexpitcli_v300_command_line_application_to/</link>
-      <description><![CDATA[ 由   提交/u/GlesCorpint  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/GlesCorpint   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c9dnu1/regexpitcli_v300_command_line_application_to/</guid>
       <pubDate>Sun, 21 Apr 2024 09:18:58 GMT</pubDate>
     </item>
     <item>
-      <title>开闭原则|坚实的原则|底层设计（印地语）</title>
+      <title>开闭原则 |坚实的原则|底层设计（印地语）</title>
       <link>https://www.reddit.com/r/programming/comments/1c9dd3r/open_closed_principle_solid_principles_low_level/</link>
       <description><![CDATA[ 由   提交 /u/Distinct-Curve-660   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c9dd3r/open_closed_principle_solid_principles_low_level/</guid>
@@ -48,7 +76,7 @@
       <pubDate>Sun, 21 Apr 2024 08:35:04 GMT</pubDate>
     </item>
     <item>
-      <title>键入信息以实现更快的 Python C 扩展</title>
+      <title>更快的 Python C 扩展的类型信息</title>
       <link>https://www.reddit.com/r/programming/comments/1c9bxya/type_information_for_faster_python_c_extensions/</link>
       <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c9bxya/type_information_for_faster_python_c_extensions/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交/u/rangoMangoTangoNamo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c95ek2/i_build_an_app_to_find_trends_in_your_hinge_data/</guid>
       <pubDate>Sun, 21 Apr 2024 00:53:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>1983 年我的个人计算机软件开发之旅</title>
-      <link>https://www.reddit.com/r/programming/comments/1c94pwi/my_journey_into_personal_computer_software/</link>
-      <description><![CDATA[ 由   提交/u/mitousa  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c94pwi/my_journey_into_personal_computer_software/</guid>
-      <pubDate>Sun, 21 Apr 2024 00:18:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>J8 表示法 - 修复 JSON-Unix 不匹配</title>
-      <link>https://www.reddit.com/r/programming/comments/1c9449t/j8_notation_fixing_the_jsonunix_mismatch/</link>
-      <description><![CDATA[ 由   提交 /u/alexeyr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c9449t/j8_notation_fixing_the_jsonunix_mismatch/</guid>
-      <pubDate>Sat, 20 Apr 2024 23:50:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Horus v1.2.1 发布！ （用 Python 构建的 OSINT/数字取证工具 - 以前称为“Sentinel”）</title>
-      <link>https://www.reddit.com/r/programming/comments/1c93txo/horus_v121_released_an_osint_digital_forensics/</link>
-      <description><![CDATA[ 由   提交/u/TheMaestro810   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c93txo/horus_v121_released_an_osint_digital_forensics/</guid>
-      <pubDate>Sat, 20 Apr 2024 23:36:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件架构中最大思想的草图：窄腰</title>
-      <link>https://www.reddit.com/r/programming/comments/1c93f85/a_sketch_of_the_biggest_idea_in_software/</link>
-      <description><![CDATA[ 由   提交 /u/alexeyr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c93f85/a_sketch_of_the_biggest_idea_in_software/</guid>
-      <pubDate>Sat, 20 Apr 2024 23:16:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
