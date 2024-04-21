@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 21 Apr 2024 03:05:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 06:05:52 GMT</lastBuildDate>
+    <item>
+      <title>每日一分钟人工智能新闻 4/20/2024</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c99f0j/oneminute_daily_ai_news_4202024/</link>
+      <description><![CDATA[ Drake 在新曲目“Taylor Made”中再次嘲笑 Kendrick Lamar Freestyle&#39;，利用 AI 版本的 2Pac 和 Snoop Dogg。[1] Microsoft 本周进行了演示&lt; strong&gt;VASA–1，一个框架，用于创建人们通过静态图像、音频样本和文本脚本进行交谈的视频，并声称向公众发布太危险了。[2] OpenAI 竞标日本业务，开设东京办事处。[3] 三星“确认”Galaxy S25 将拥有更多Galaxy AI 的力量得益于 Google 的 Gemini Nano 2。[4] 每日一分钟 AI 新闻已经一周年了。[5] li&gt;  来源：https://bushaicave.com/2024/ 04/20/4-20-2024/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c99f0j/oneminute_daily_ai_news_4202024/</guid>
+      <pubDate>Sun, 21 Apr 2024 04:39:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>何时应使用多代理编排</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c99ed8/when_should_you_use_multiagent_orchestration/</link>
+      <description><![CDATA[查看有关多代理编排重要性的简短说明，以及何时以及为何应使用它而不是单一提示 LLM 点击 https://youtu.be/GZGUvM6JfLY?si=sqS7PBEvsX0Qe6gF  &amp; #32；由   提交/u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c99ed8/when_should_you_use_multiagent_orchestration/</guid>
+      <pubDate>Sun, 21 Apr 2024 04:38:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>歌词是 A.I.生成的还是仅是 A.I. 的工具？ ？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c98npt/are_the_lyrics_ai_generated_or_is_it_only_the/</link>
+      <description><![CDATA[这个 YouTube 频道正在催生许多人工智能。每天歌曲。 只是好奇整个音频（包括歌词）是否是 A.I. ?? https://youtu.be/t4j7C94ZiLg?feature=shared   由   提交 /u/Sudden-Degree9839    reddit.com/r/ArtificialInteligence/comments/1c98npt/are_the_lyrics_ai_ generated_or_is_it_only_the/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c98npt/are_the_lyrics_ai_generated_or_is_it_only_the/</guid>
+      <pubDate>Sun, 21 Apr 2024 03:53:58 GMT</pubDate>
+    </item>
     <item>
       <title>AI会议转录+自动化工作流程</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c96h6y/ai_meeting_transcription_automated_workflow/</link>
@@ -20,7 +41,7 @@
       <pubDate>Sun, 21 Apr 2024 00:55:34 GMT</pubDate>
     </item>
     <item>
-      <title>有人工智能吗？</title>
+      <title>有人工智能可以解决这一问题吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c94xpt/is_there_an_ai_for_that/</link>
       <description><![CDATA[嘿，所以我与搬到特定地点的人们一起工作，我有一个 pdf 指南可以帮助解决这个问题。是否有一个人工智能可以让我基本上用作指南中信息的搜索引擎？他们可以与他们聊天并回答他们的问题，但它使用我提供的文档作为它的知识库？    由   提交/u/808realestate  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c94xpt/is_there_an_ai_for_that/</guid>
@@ -55,23 +76,9 @@
       <pubDate>Sat, 20 Apr 2024 22:23:02 GMT</pubDate>
     </item>
     <item>
-      <title>动漫人物人工智能面部表情编辑器</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c90wii/ai_facial_expression_editor_for_anime_characters/</link>
-      <description><![CDATA[有人知道一个免费的人工智能生成器来编辑动漫人物表情吗？我看到了这样的帖子，但它没有任何对我有帮助的答案。如果有人知道一个网站，我可以在其中输入我的角色图像，改变他的表情，然后免费下载所有内容？我需要它在 Miku.gg 上创作一部视觉小说。   由   提交/u/TheElytheOfficial  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c90wii/ai_facial_expression_editor_for_anime_characters/</guid>
-      <pubDate>Sat, 20 Apr 2024 21:22:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮我识别人工智能语音</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c907nj/help_me_identify_an_ai_voice/</link>
-      <description><![CDATA[我的妻子想在她的视频中使用这种激励性的人工智能声音，任何人都可以帮助我，请这里是它的链接 https://www.youtube.com/shorts/Wc741wPIyMw  &amp;# 32；由   提交 /u/Impressive-Fly-9846   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c907nj/help_me_identify_an_ai_voice/</guid>
-      <pubDate>Sat, 20 Apr 2024 20:52:54 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能擅长破译语言吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c8zp8c/is_ai_good_at_deciphering_a_language/</link>
-      <description><![CDATA[比如，它可以用来翻译已死的书面语言吗？ 也许它们从头开始做得比我们喂食更好他们可以用象形文字和其他东西来表达我们认为某些事物的含义。 他们可以使用已知语言来测试他们在没有帮助的情况下破译语言的能力，然后对于未知语言，结果应该是相同的。  &gt;   由   提交/u/ajax333221  [链接] [评论]]]></description>
+      <description><![CDATA[比如，它可以用来翻译已死的书面语言吗？ 也许它们从头开始做得比我们喂食更好他们可以用象形文字和其他东西来表达我们认为某些事物的含义。 他们可以通过使用已知语言来测试他们在没有帮助的情况下破译语言的能力，然后对于未知语言，结果应该是相同的。  &gt;   由   提交/u/ajax333221  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c8zp8c/is_ai_good_at_deciphering_a_language/</guid>
       <pubDate>Sat, 20 Apr 2024 20:30:43 GMT</pubDate>
     </item>
@@ -83,16 +90,9 @@
       <pubDate>Sat, 20 Apr 2024 16:25:59 GMT</pubDate>
     </item>
     <item>
-      <title>更智能的训练数据是否会带来更智能的 LLMS？一个想法和一个测试它的实验。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c8tnc5/does_more_intelligent_training_data_result_in/</link>
-      <description><![CDATA[普通人的智商为 100，医生的智商为 120，诺贝尔奖获得者的平均智商为 150。 理由表明，如果用于训练法学硕士的数据完全由诺贝尔奖获得者生成的内容组成，那么与仅使用平均智商人群生成的内容组成的数据进行训练相比，该法学硕士生成的内容可能会更智能。 每年颁发的六个诺贝尔奖中，有五个是在对智力要求很高的领域：物理、化学、医学、经济学和文学。和平奖似乎没有这种相关性。 这项实验的第一部分旨在确定使用更智能的数据训练法学硕士是否会使他们变得更智能，这将涉及仅使用五个智力要求高的领域的获奖者撰写的内容，这些内容也与他们获得诺贝尔奖的成就具体相关。这最初可以使用具有一百万个标记上下文窗口的 LLM 或使用允许无限上下文窗口的谷歌新无限注意技术的 LLM 来完成。如果这些结果被证明是有希望的，下一步将是构建一个仅基于该数据进行训练的 LLM。 将该 LLM 生成的内容与例如普通 Facebook 用户生成的内容进行比较，应该会告诉我们在更智能的数据上训练的 LLM 可以变得多么智能。 该实验的第二部分将涉及代理和专家混合 (MoE)。使用大约 10 个不同的代理，分配确定最终生成内容任务的代理将是仅在诺贝尔数据上进行训练的代理。它可以与致力于汇编不同知识领域内权威事实的代理相结合。这种方法可能会产生更多的智能。 我相信成功的实验可以帮助我们构建更智能的人工智能。尽管任何有必要时间和资源的人都可以完成此任务，但编译训练数据将是一项可以分配给斯坦福大学或麻省理工学院等顶级学术人工智能中心的任务。让我们希望一些开源社区或他们将进行实验并发布结果。    提交人    /u/Georgeo57   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c8tnc5/does_more_intelligent_training_data_result_in/</guid>
-      <pubDate>Sat, 20 Apr 2024 16:10:09 GMT</pubDate>
-    </item>
-    <item>
       <title>DARPA 的人工智能试飞员成功与人类进行了空战</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c87j6c/darpas_ai_test_pilot_successfully_flew_a_dogfight/</link>
-      <description><![CDATA[人工智能试飞员已成功驾驶喷气式战斗机与人类对手进行缠斗。这是 DARPA 空战评估计划的最新进展，该计划试图开发可以安全运行的可信航空人工智能代理。 如果您想在人工智能和技术领域保持领先地位，先看这里。 要点：  &lt; li&gt;DARPA 的空战评估项目成功测试了一名人工智能飞行员，使用 F-16 模拟器飞机与人类对手进行空战。 X-62A VISTA（F-16 的改进型）用于测试，因为其模拟各种飞行特性的能力。 该机构希望有一个机器学习代理，能够安全地自主驾驶真正的飞机，而不违反训练规则。  &lt; p&gt;来源（Ars Technica）  PS：如果您喜欢这篇文章，您一定会喜欢我的由 ML 驱动的时事通讯，总结了来自 50 多个媒体来源的最佳人工智能/技术新闻。来自OpenAI、HuggingFace、Apple...    的数百名专业人士已经阅读了它。由   提交/u/Rare_Adhesiveness518   [链接] [评论]]]></description>
+      <description><![CDATA[人工智能试飞员已成功驾驶喷气式战斗机与人类对手进行缠斗。这是 DARPA 空战评估计划的最新进展，该计划试图开发可以安全运行的可信航空人工智能代理。 如果您想在人工智能和技术领域保持领先地位，先看这里。 要点：  &lt; li&gt;DARPA 的空战评估项目成功测试了一名人工智能飞行员，使用 F-16 模拟器飞机与人类对手进行空战。 X-62A VISTA（F-16 的改进型）用于测试，因为其模拟各种飞行特性的能力。 该机构希望有一个机器学习代理，能够安全地自主驾驶真正的飞机，而不违反训练规则。  &lt; p&gt;来源（Ars Technica）  PS：如果您喜欢这篇文章，您一定会喜欢我的由 ML 驱动的时事通讯，总结了来自 50 多个媒体来源的最佳人工智能/科技新闻。来自OpenAI、HuggingFace、Apple...    的数百名专业人士已经阅读了它。由   提交/u/Rare_Adhesiveness518   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c87j6c/darpas_ai_test_pilot_successfully_flew_a_dogfight/</guid>
       <pubDate>Fri, 19 Apr 2024 20:49:23 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
