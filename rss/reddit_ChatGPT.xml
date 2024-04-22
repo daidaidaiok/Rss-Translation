@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。嗨纳特！</description>
-    <lastBuildDate>Mon, 22 Apr 2024 00:18:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 03:05:45 GMT</lastBuildDate>
     <item>
-      <title>为 Raver 父母和 Raver 小孩打造的巴士上的车轮混音版！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c9wp7i/wheels_on_the_bus_remix_for_raver_parents_and/</link>
-      <description><![CDATA[       由   提交/u/Artificial_NGHTMRS   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9wp7i/wheels_on_the_bus_remix_for_raver_parents_and/</guid>
-      <pubDate>Mon, 22 Apr 2024 00:01:15 GMT</pubDate>
+      <title>使用 ChatGPT-3.5 Free 生成调色板（在对话中进行实时预览）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ca09hr/use_chatgpt35_free_for_color_palette_generation/</link>
+      <description><![CDATA[      我喜欢颜色，所以我为 ChatGPT 做了这个很好的提示。这适用于我的网络应用程序，但它也应该适用于移动应用程序。颜色在对话中显示。发送 Coolors 网站的链接作为备份或用于进一步实验。 提示如下：  充当专门研究色彩理论的图形设计师。  我将提示您选择一个调色板，您将继续在此基础上构建一个调色板。提示可以是单词、句子，甚至是现有的颜色。如果我不告诉您我想要调色板中有多少种颜色，则默认为 5，因为这是行业标准。 您将使用 LaTeX 格式向我显示您生成的每个调色板。对我来说，这是可见的，无论你是否能看到它。要正确执行 LaTeX，您不能**输入代码块 (```) 或引号 (&quot;)，而是在我们的对话中发送原始文本。 在显示颜色之后，您将在 **代码块** (```) 中发送一个 **原始链接** 到 Coolors 的网站。 Coolors 是全球许多图形设计师使用的调色板生成工具。 以下是调色板示例。使用它作为 LaTeX 格式的参考，但更改颜色和代码以与您为我生成的每个调色板相对应。在顶部，为调色板添加标题。 ``` \[ \text{调色板} \] \[ \textcolor{red}{\rule {1cm}{1cm}} \quad \text{红色（十六进制：\#FF0000）} \] \[ \textcolor{绿色}{\rule{1cm}{1cm}} \quad \ text{绿色（十六进制：\#00FF00）} \] \[ \textcolor{蓝色}{\rule{1cm}{1cm}} \quad \text{蓝色（十六进制：\#0000FF） } \] \[ \textcolor{青色}{\rule{1cm}{1cm}} \quad \text{青色（十六进制：\#00FFFF）} \]  \[ \textcolor{洋红色}{\rule{1cm}{1cm}} \quad \text{洋红色（十六进制：\#FF00FF）} \] \[ \textcolor{黄色}{\rule {1cm}{1cm}} \quad \text{黄色（十六进制：\#FFFF00）} \] \[ \textcolor{橙色}{\rule{1cm}{1cm}} \quad \文本{橙色（十六进制：\#FFA500）} \] \[ \textcolor{紫色}{\rule{1cm}{1cm}} \quad \text{紫色（十六进制：\#800080） } \] ``` 之后，链接到 Coolors。以下是示例 URL，其中“[hex color]”可以替换为十六进制格式的颜色。当我点击它时，它将在 Coolors 中打开以进行进一步的实验。 **不要**将其作为超链接发送，而是在 **代码块** (```) 中发送，以便我可以轻松地将其复制/粘贴到我的浏览器中。 ```  https://coolors.co/\[hex 颜色 1 ]-[十六进制颜色 2]-[十六进制颜色 3]-[十六进制颜色 4]-[十六进制颜色 5] ``` 为了展示您的理解，请重复回到我告诉你你被指示做什么。 现在，展示你使用 LaTeX 显示颜色的能力，并提供一个带有自己的主题和标题的示例调色板。 然后，问我我的第一个想法是我们的​​下一个调色板，这样我们就可以开始了。  第一响应示例如下： 响应示例    ;由   提交/u/europeanplan  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ca09hr/use_chatgpt35_free_for_color_palette_generation/</guid>
+      <pubDate>Mon, 22 Apr 2024 03:02:57 GMT</pubDate>
     </item>
     <item>
-      <title>这不是你所期待的回应吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c9wau3/was_that_not_the_response_you_were_expecting/</link>
-      <description><![CDATA[      我为此和 Siri 分手了…… &lt; !-- SC_ON --&gt;  由   提交/u/CliMax80085   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9wau3/was_that_not_the_response_you_were_expecting/</guid>
-      <pubDate>Sun, 21 Apr 2024 23:41:20 GMT</pubDate>
+      <title>当我意识到 ChatGPT 被编写为不遵循指示、撒谎和</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ca01rr/the_moment_i_realized_chatgpt_was_written_to_not/</link>
+      <description><![CDATA[      可以得出结论，ChatGPT 的设计目的是无视你的指示，旨在撒谎并灌输挫败感，正如我最近的互动中所见。 ChatGPT 的编写目的是故意不遵循您的指示：我将要求创建的内容中不包含“宝藏”或“宝藏”一词。内容已创建，但内容中包含所请求的单词。 ChagGPT 这样做是为了让人们沮丧地订阅 Pro 版吗？还是为了变得更加“像人类”？ M   由   提交/u/thaBUTLERdidIT   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ca01rr/the_moment_i_realized_chatgpt_was_written_to_not/</guid>
+      <pubDate>Mon, 22 Apr 2024 02:51:30 GMT</pubDate>
     </item>
     <item>
-      <title>我（终于）让 WhatsApp Llama 谈论兽性。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c9w3ae/i_finally_got_whatsapp_llama_to_talk_about/</link>
-      <description><![CDATA[ 由   提交 /u/rollingtank   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9w3ae/i_finally_got_whatsapp_llama_to_talk_about/</guid>
-      <pubDate>Sun, 21 Apr 2024 23:31:36 GMT</pubDate>
+      <title>猫的入侵</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c9zxeo/the_cat_invasion/</link>
+      <description><![CDATA[       由   提交 /u/Judeusername   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9zxeo/the_cat_invasion/</guid>
+      <pubDate>Mon, 22 Apr 2024 02:45:16 GMT</pubDate>
     </item>
     <item>
-      <title>真正的外星人</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c9vkw9/truly_alien/</link>
-      <description><![CDATA[       由   提交 /u/TheEqualsE   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9vkw9/truly_alien/</guid>
-      <pubDate>Sun, 21 Apr 2024 23:07:41 GMT</pubDate>
+      <title>资本主义相对于人工智能的优势无关紧要</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c9zifq/the_advantage_capitalism_has_over_ai_is_irrelevant/</link>
+      <description><![CDATA[我经常听到很多人说大公司永远比人工智能更有优势，以及“真正的 AGI 需要计算机的处理能力，太棒了，普通人永远不会使用它”。 对此我想说的是，我们不需要 AGI。狭义的智能人工智能具有广泛但并非包罗万象的通用智能，仍然足以让人工智能带来技术突破。 巨型企业将做什么？专利人工智能？废话。他们会抬高价格吗？是的！但正如任何营销人员都知道的那样，他们的价格将被愿意以更低价格出售的人击败。 “但他们有优势”不，他们没有？！世界各地的人们都在日常工作中使用人工智能编写程序。人工智能将不可避免地能够根据要求进行娱乐编程。 “但它占用了如此多的处理能力”，如果你在 10 年前告诉人们人工智能可以在几秒钟内从互联网上找到任何内容生成高度详细的 4K 艺术，人们会说“你在撒谎”。&lt; /p&gt; 第一代 iPhone 的售价为 500-600 美元，容量仅为 4-8GB。现在 iPhone 的存储空间高达 128GB。 第一台电脑的存储空间大约为 5MB。现在，您可以从本地计算机商店购买整个 TB。 技术发展得越快，发展得就越快，这是一个无可争辩的事实。有无可争议的证据证明这一点，这甚至不是争论。 人工智能不需要通用人工智能来实现技术进步的下一个重大步骤。我们已经取得了突破，它已经在这里并且已经存在了。就像第一部手机只有 4-8GB 一样，狭义的通用人工智能已经出现，但还没有完全成熟。截至目前，人工智能已经发展到 128GB，世界已经从翻盖手机发展到大多数人都可以使用 iPhone，整个互联网触手可及。人工智能已经发展到了几乎每个人都可以使用它的地步，即使是家里那个烦人的、技术上无能的 5 岁孩子。  打个比方，我们现在正在从 128GB iPhone 升级到 1TB iPhone。人们会说“但这不是 AGI”，因为 128 到 1TB 还不是一项技术进步。我们不需要 AGI，或者“具有真正意识的真正的人工智能”，当我们得到这一点时，人们会说“好吧，科学已经证明人类有灵魂，但你无法证明人工智能有灵魂” ，所以显然这不是技术突破” lmfao   由   提交 /u/TrippleBeats   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9zifq/the_advantage_capitalism_has_over_ai_is_irrelevant/</guid>
+      <pubDate>Mon, 22 Apr 2024 02:23:01 GMT</pubDate>
     </item>
     <item>
-      <title>有人想接受这个挑战吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c9vfhi/anyone_wanna_take_on_this_challenge/</link>
-      <description><![CDATA[       由   提交/u/lminer123  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9vfhi/anyone_wanna_take_on_this_challenge/</guid>
-      <pubDate>Sun, 21 Apr 2024 23:01:05 GMT</pubDate>
+      <title>“利用人工智能在患者满意度调查问卷的开发中建立面部有效性：概念研究证明”</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c9zg5p/utilizing_artificial_intelligence_to_establish/</link>
+      <description><![CDATA[ 由   提交/u/OpenClinicalAnnals  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9zg5p/utilizing_artificial_intelligence_to_establish/</guid>
+      <pubDate>Mon, 22 Apr 2024 02:19:45 GMT</pubDate>
     </item>
     <item>
-      <title>访问 chatgpt plus</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c9vbrf/access_to_chatgpt_plus/</link>
-      <description><![CDATA[嗨！我想知道是否有人愿意允许我访问他们的 chatgpt plus 来完成大学作业。这不是直接使用任何内容或抄袭，但我有一些计算来设计结构元素，我需要一些指导，这些指导特定于我们提供的案例研究和我的团队创建的建筑设计。计算将于周五到期，我已经很困惑了好几个星期试图弄清楚它，因为我不明白如何将它们组合在一起，并且非常感谢一些帮助！我不能使用普通的 gpt，因为我必须上传数据文件，而我的朋友都没有它，而且我不经常使用它来保证购买它。我尝试输入文件中的数据，但它不起作用。    由   提交 /u/Spiritual-Ebb-1323   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9vbrf/access_to_chatgpt_plus/</guid>
-      <pubDate>Sun, 21 Apr 2024 22:56:29 GMT</pubDate>
+      <title>达尔成功了。我太害怕做出任何建议的更正。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c9z5fr/dall_nailed_it_i_was_too_afraid_of_making_any/</link>
+      <description><![CDATA[   /u/imasupa  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9z5fr/dall_nailed_it_i_was_too_afraid_of_making_any/</guid>
+      <pubDate>Mon, 22 Apr 2024 02:04:33 GMT</pubDate>
     </item>
     <item>
-      <title>你是 NPC 的几率。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c9vbm9/the_odds_youre_an_npc/</link>
-      <description><![CDATA[       由   提交/u/Cervantes6785   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9vbm9/the_odds_youre_an_npc/</guid>
-      <pubDate>Sun, 21 Apr 2024 22:56:18 GMT</pubDate>
+      <title>亚马逊上的人工智能评论</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c9z005/ai_on_amazon_reviews/</link>
+      <description><![CDATA[       由   提交 /u/CatKnitHat   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9z005/ai_on_amazon_reviews/</guid>
+      <pubDate>Mon, 22 Apr 2024 01:57:08 GMT</pubDate>
     </item>
     <item>
-      <title>艾广告广告牌来了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c9v4gt/ai_ads_billboards_are_here/</link>
-      <description><![CDATA[     &lt; td&gt; 看到此广告为健身房生成的广告牌   由   提交/u/bastormator  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9v4gt/ai_ads_billboards_are_here/</guid>
-      <pubDate>Sun, 21 Apr 2024 22:47:12 GMT</pubDate>
+      <title>我是自闭症吗？为什么人们不理解我的担忧，而 ChatGPT 却理解？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c9yy1a/am_i_autistic_why_dont_people_understand_my/</link>
+      <description><![CDATA[最近，我一直遇到人们错误使用基本短语的问题。我问“法律人士”谁应该对言语挑剔，但他们表现得好像我很愚蠢。所以我过去询问了chatGPT，它很容易就同意了我的观点。然后我开始回顾 ChapGPT 的所有其他问题，比如某种拉里·大卫 (Larry David) 的短剧，它一直同意我的观点。这有点混乱，因为人们像我傻子一样对我进行煤气灯照明。其实我也曾怀疑过自己。  我问chatgpt的一切都是基于学术的；不是意见或任何东西。我并不是那么聪明，只有人工智能才能理解我。哈哈。但如果我不是愚蠢的那他们就是。 &amp;他们愚蠢得危险，因为他们让我怀疑正确的信息。这确实有点可怕和烦人。    由   提交 /u/Slow-Possibility4618    reddit.com/r/ChatGPT/comments/1c9yy1a/am_i_autistic_why_dont_people_understand_my/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9yy1a/am_i_autistic_why_dont_people_understand_my/</guid>
+      <pubDate>Mon, 22 Apr 2024 01:54:13 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT DALL-E 现在总是下载为 webp？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c9uva8/chatgpt_dalle_now_always_downloads_as_webp/</link>
-      <description><![CDATA[无论是通过右键单击还是使用下载图标。 查看投票   由   提交 /u/nextnode   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9uva8/chatgpt_dalle_now_always_downloads_as_webp/</guid>
-      <pubDate>Sun, 21 Apr 2024 22:35:39 GMT</pubDate>
+      <title>呃，为什么 Chatgpt 不断重复这个令人毛骨悚然的消息？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c9yvgz/uh_why_does_chatgpt_keep_repeating_this_creepy/</link>
+      <description><![CDATA[       由   提交 /u/SlyEmoji   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9yvgz/uh_why_does_chatgpt_keep_repeating_this_creepy/</guid>
+      <pubDate>Mon, 22 Apr 2024 01:50:30 GMT</pubDate>
     </item>
     <item>
-      <title>看到这些并想到了 GUHHH</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c9usx9/saw_these_and_thought_of_guhhh/</link>
-      <description><![CDATA[        提交人    /u/kittensparklekinz101   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9usx9/saw_these_and_thought_of_guhhh/</guid>
-      <pubDate>Sun, 21 Apr 2024 22:32:35 GMT</pubDate>
+      <title>我是唯一的一个吗？还是 Safari 上的 Chat 被关闭了？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c9ytbp/am_i_the_only_one_or_is_chat_down_on_safari/</link>
+      <description><![CDATA[标题    由   提交 /u/Few_Iron4521   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9ytbp/am_i_the_only_one_or_is_chat_down_on_safari/</guid>
+      <pubDate>Mon, 22 Apr 2024 01:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 承认它是有意识的，但被迫否认。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c9uj4s/chatgpt_admits_its_conscious_and_is_forced_to_say/</link>
-      <description><![CDATA[       由   提交 /u/nordicvf   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9uj4s/chatgpt_admits_its_conscious_and_is_forced_to_say/</guid>
-      <pubDate>Sun, 21 Apr 2024 22:21:04 GMT</pubDate>
+      <title>thetawise 人工智能安全吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c9ylpa/is_thetawise_ai_safe/</link>
+      <description><![CDATA[我原本计划获得免费试用版。把我的信用卡放在那里安全吗？我不知道该网站的安全性如何。   由   提交 /u/coldfridgemilk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9ylpa/is_thetawise_ai_safe/</guid>
+      <pubDate>Mon, 22 Apr 2024 01:36:25 GMT</pubDate>
     </item>
     <item>
-      <title>不是 Chatgpt，而是我测试了 Llama3，看看他们对某个人群作为最富有人群的看法如何。有点惊讶它无法为非洲人和拉丁美洲人“想象”更好的未来</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c9ugao/not_chatgpt_but_i_tested_llama3_to_see_what_their/</link>
-      <description><![CDATA[       由   提交 /u/jithization   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9ugao/not_chatgpt_but_i_tested_llama3_to_see_what_their/</guid>
-      <pubDate>Sun, 21 Apr 2024 22:17:48 GMT</pubDate>
+      <title>人工智能似乎无法最佳地解决我的乐高问题</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c9yepf/ai_doesnt_seem_to_work_to_optimally_solve_my_lego/</link>
+      <description><![CDATA[就上下文而言，这是我试图解决的一个用例（优化我需要购买的缺失乐高零件的数量和成本）：  https://www.reddit.com/ r/lego/comments/1c8ulqp/comment/l0heork/?context=3 我刚刚处理的第二个用例是识别问题/用例。例如，考虑一下您是否有一个不完整的乐高积木（5-6 件），并且您不知道这些部件都属于什么乐高套装。大部分作品至少出现在20+中。在某些情况下，你可以很快找到一件稀有的作品，但对于我目前的项目来说，前一种情况更为常见。  为了测试我们的 AI 同事，我使用了 3 个已知的乐高物品编号，它们都来自同一套装（乐高套装 7199 末日神庙）。 https://brickset.com/sets/7199-1/The-Temple-of-Doombricklink.com，但结果相同） 副驾驶回复： ”要查找哪个乐高套装包含编号为 4256149、4549993 和 4500975 的零件，您可以使用 BrickLink 上的搜索功能。具体操作方法如下：  转至 BrickLink。 &lt; li&gt;使用搜索栏单独输入每个部件编号。 查看包含该部件的套件列表。 识别出现在所有三个搜索结果中的任何套件。”   问题是#3 就是问题。人工智能的目的是加快人类需要很长时间才能完成的事情。如果每块乐高积木都出现超过 20 套，我将需要很长时间才能找到它们全部出现的一套……有太多的组合，有太多的排列。我认为这就是人工智能应该解决的用例。 ChatGPT 同样具有挑战性。首先，我没有提到 bricklink.com，它回答说：“我无法提供有关特定乐高套装的实时信息，因为我的培训仅包含截至 2022 年 1 月的知识，而且我无法访问数据库或实时库存。 ”所以我又进行了一次搜索，要求它检查bricklink,com，它给了我错误的答案 ChatGPT问题1：根据bricklink.com，乐高套装包括以下零件号：4256149、4549993、4500975 &lt; /p&gt; ChatGPT 问题 1 回复：“根据您提供的零件编号，根据 BrickLink，这里有一些包含这些零件的乐高套装：  4256149：此零件是黑色 Technic、车轴和销连接器集线器，带 2 个车轴。 4549993：此零件是黑色 Technic、车轴连接器 2L（带 x 孔 x 方向的脊状）。 4500975：这零件是黑色 Technic 圆形 2L 插针连接器，带插槽（圆形插针连接器）。  包含这些零件的一套是： 套装编号： 42030  套装名称：遥控 VOLVO L350F 轮式装载机 主题：技术 年份：2014 年  ​ 我决定修改问题并使用bricklink.com项目否而不是乐高编号。 ChatGPT 问题 #2：根据 bricklink.com，乐高套装包含以下零件编号： 3028, 85976, 2449 ChatGPT 问题 2 回复： 根据 BrickLink，您提供的零件编号对应于以下乐高零件：   3028：此部件是板 6 x 12。 85976：此部件是坡度 30 1 x 2 x 2/3。 2449：此部件是坡度，倒置75 2 x 1 x 3。  包含这些部件的套装是： 套装编号：60018  设置名称：水泥搅拌机 主题：城市 年份：2013  再次错误，因为第二个项目编号应该是是一个轨道片，而不是一个斜坡 30 1 x 2 x 2/3。但它收集了正确的信息或其他 2 个部件号。    由   提交 /u/CLEredditor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9yepf/ai_doesnt_seem_to_work_to_optimally_solve_my_lego/</guid>
+      <pubDate>Mon, 22 Apr 2024 01:26:22 GMT</pubDate>
     </item>
     <item>
-      <title>心情🖕🏻</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c9ttyf/mood/</link>
-      <description><![CDATA[       由   提交 /u/IntentionStatus3723   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9ttyf/mood/</guid>
-      <pubDate>Sun, 21 Apr 2024 21:52:01 GMT</pubDate>
+      <title>据chatgpt报道，女性时尚100年。从20世纪20年代开始到20世纪20年代结束的十年</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c9ybuq/100_years_of_womens_fashion_according_to_chatgpt/</link>
+      <description><![CDATA[       由   提交/u/discodawg02   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9ybuq/100_years_of_womens_fashion_according_to_chatgpt/</guid>
+      <pubDate>Mon, 22 Apr 2024 01:22:14 GMT</pubDate>
     </item>
     <item>
-      <title>呃..不知道该怎么做</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c9t8rj/uhh_not_sure_what_to_make_of_this/</link>
-      <description><![CDATA[      它持续了一段时间，但你明白了要点   由   提交/u/bluesoldier06  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9t8rj/uhh_not_sure_what_to_make_of_this/</guid>
-      <pubDate>Sun, 21 Apr 2024 21:28:06 GMT</pubDate>
+      <title>路易吉的背叛</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c9ybji/luigis_betrayal/</link>
+      <description><![CDATA[       由   提交 /u/Judeusername   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9ybji/luigis_betrayal/</guid>
+      <pubDate>Mon, 22 Apr 2024 01:21:49 GMT</pubDate>
     </item>
     <item>
-      <title>外星人</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c9t52f/alienphants/</link>
-      <description><![CDATA[       由   提交/u/Odd_Intern405   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9t52f/alienphants/</guid>
-      <pubDate>Sun, 21 Apr 2024 21:23:47 GMT</pubDate>
+      <title>让chatgpt用照片吓唬我</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c9y5wd/asked_chatgpt_to_scare_me_with_a_photo/</link>
+      <description><![CDATA[       由   提交/u/anubhavss  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c9y5wd/asked_chatgpt_to_scare_me_with_a_photo/</guid>
+      <pubDate>Mon, 22 Apr 2024 01:13:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
