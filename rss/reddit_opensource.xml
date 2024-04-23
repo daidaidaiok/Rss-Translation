@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 23 Apr 2024 15:06:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 18:07:28 GMT</lastBuildDate>
+    <item>
+      <title>将选项卡分组到左侧 chrome 扩展</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cb9kr9/group_tabs_to_the_left_chrome_extension/</link>
+      <description><![CDATA[您好！我很高兴第一次涉足开源社区。 我制作了一个 Chrome 扩展通过管理选项卡混乱来提高浏览效率。只需单击一下，它就会将所有选项卡分组到当前选项卡的左侧，使我能够专注于任务，而不会丢失对打开页面的跟踪。它最小化了该组并排除了任何固定的选项卡。 我已将最近的更新推送到 GitHub 存储库。虽然此版本尚未上架 Chrome 应用商店，但它包含一项新功能：忽略现有组的能力。对于那些想要分组的人来说，这可能是更好的选择。   由   提交/u/CuntBuster2077  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cb9kr9/group_tabs_to_the_left_chrome_extension/</guid>
+      <pubDate>Tue, 23 Apr 2024 16:52:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>贡献/维护开源项目对找工作有帮助吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cb7i0c/has_contributingmaintaining_an_open_source/</link>
+      <description><![CDATA[我一直在构建一个我非常热衷的项目。我希望该项目也能通过以下方式帮助我找工作：  通过我的项目为自己带来宣传 在面试中有一个可以谈论的重大项目 在我的简历中有一个好的项目  我的问题是，有一个好的开源项目对你找工作有帮助吗？   由   提交 /u/ItsBJr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cb7i0c/has_contributingmaintaining_an_open_source/</guid>
+      <pubDate>Tue, 23 Apr 2024 15:29:30 GMT</pubDate>
+    </item>
     <item>
       <title>我应该如何许可我的第一个使用第 3 方库的 github 项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cb1em6/how_should_i_license_my_first_github_project_that/</link>
@@ -27,7 +41,7 @@
       <pubDate>Tue, 23 Apr 2024 02:04:45 GMT</pubDate>
     </item>
     <item>
-      <title>在上一个 changelog 播客中对 redis 主题的看法是，我说让我们向开源开发人员支付已执行更改的权益证明。</title>
+      <title>在上一个变更日志播客中对 Redis 主题的看法，我说让我们向开源开发人员支付已执行变更的权益证明。</title>
       <link>https://www.reddit.com/r/opensource/comments/1capebh/opinion_on_redis_topic_in_the_last_changelog/</link>
       <description><![CDATA[ 由   提交 /u/introsp3ctor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1capebh/opinion_on_redis_topic_in_the_last_changelog/</guid>
@@ -71,7 +85,7 @@
     <item>
       <title>将我的硬件和开发工具与开源软件一起销售和运输是否合法？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ca3kqh/is_it_legit_to_sell_and_ship_my_hardware_and/</link>
-      <description><![CDATA[我不明白 GPL 许可证中的“可用于非商业用途”或“免费用于非商业用途”部分。我是否可以真正围绕 GPL 软件构建我的产品，还是应该只提供从外部来源下载它们的链接？智能手机通常附带 Android，那么“免费用于非商业用途”是什么意思？    提交人    /u/Honest-Word-7890   [link] [评论]]]></description>
+      <description><![CDATA[我不明白 GPL 许可证中的“可用于非商业用途”或“免费用于非商业用途”部分。我实际上可以围绕 GPL 软件并与 GPL 软件一起构建我的产品，还是应该提供从外部源下载它们的链接？智能手机通常搭载 Android，那么“免费用于非商业用途”是什么意思？   由   提交/u/Honest-Word-7890   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ca3kqh/is_it_legit_to_sell_and_ship_my_hardware_and/</guid>
       <pubDate>Mon, 22 Apr 2024 06:16:02 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[      «开源付费一直很困难。但在过去的几个月里，一些知名公司将关键项目从开源许可证转移到了更严格的许可证。»   由   提交/u/carlospinheirotorres   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c9ta2f/whats_next_for_companies_built_on_open_source/</guid>
       <pubDate>Sun, 21 Apr 2024 21:29:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>图数据库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c9s4qc/graph_database/</link>
-      <description><![CDATA[Apache 软件基金会项目聚焦：APACHE 时代 https://news.apache.org/foundation/entry/asf-project-spotlight-apache-age https://age.apache.org/ https://github .com/apache/age   由   提交/u/Eya_AGE  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c9s4qc/graph_database/</guid>
-      <pubDate>Sun, 21 Apr 2024 20:41:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>100 多个开源本地 AI 工具和解决方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c9oqs9/100_opensource_local_ai_tools_and_solutions/</link>
-      <description><![CDATA[嗨u/opensource，我来了每天都在寻找开源的本地 AI 工具，但找到​​合适的工具和解决方案仍然很累。作为一个开源项目，我们的团队  Jan 已开始在一个 GitHub 存储库中整理一系列开源本地 AI 工具和解决方案。我们列出了从推理引擎到 AI 代理的 100 多个开源项目 - 您可以在此处查看列表：https://github。 com/janhq/awesome-local-ai 即使在加入 Jan 团队之前，这个列表也对我帮助很大。我坚信开源法学硕士很可能会改变我们做事的方式——即使是在我工作了几年的营销和商业战略等领域。一个无聊的注释：我如此坚信它，以至于我改变了我的职业方向。我们将用一些更多的视觉元素更新此列表，并为每个类别添加更容易理解的图表。我需要您对此的评论和贡献。您认为在 GitHub 存储库上添加更多视觉效果是否会引起受众共鸣，或者我们应该只为社交媒体帖子添加更多视觉效果？如果您发现该列表有用，请考虑在 GitHub 上给它一颗星。一如既往，欢迎贡献。   由   提交 /u/emreckartal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c9oqs9/100_opensource_local_ai_tools_and_solutions/</guid>
-      <pubDate>Sun, 21 Apr 2024 18:21:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
