@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 18:05:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 21:01:32 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Fallout 社区版项目是原始 Fallout g 的重新实现 [...]</title>
-      <link>https://t.me/hn_summary/86024</link>
-      <description><![CDATA[Fallout1-ce：现代操作系统的 Fallout&lt; br /&gt;
-《辐射》社区版项目是对原始《辐射》游戏的重新实现，修复了错误并提高了生活质量，使其与现代操作系统兼容。它可以安装在 Windows、Linux、macOS、Android 和 iOS 上，并为每个平台提供了具体说明。该项目旨在保持原始游戏玩法，同时提供增强功能和错误修复。作者鼓励贡献更新到 1.2 版本并向后移植 Fallout 2 的功能。该项目根据可持续使用许可证获得许可，这与其他项目不同。]]></description>
-      <guid>https://t.me/hn_summary/86024</guid>
-      <pubDate>Tue, 23 Apr 2024 18:05:56 GMT</pubDate>
+      <title>[媒体] AI 驱动的漫画工作室 Shortbread 正在 SF 寻找创始工程师。</title>
+      <link>https://t.me/hn_summary/86059</link>
+      <description><![CDATA[Shortbread (YC W23) 正在 SF 招聘一名 AI 创始工程师漫画创作
+Shortbread 是一家由 AI 驱动的漫画工作室，正在 SF 寻找创始工程师。由网络漫画艺术家和工程师组成的团队正在彻底改变漫画的创作方式，让任何人无需绘画技能即可制作自己的视觉故事。该初创公司拥有超过 6 万测试版用户，提供所有权、影响力以及尖端生成人工智能研究的机会。亲密的团队重视社区并提供 401(k) 计划和医疗保健等福利。要求包括全栈开发经验以及熟悉 React、NodeJS 等。最好的条件包括对网络漫画的热情和生成人工智能技术的经验。与我们一起塑造漫画的未来！]]></description>
+      <guid>https://t.me/hn_summary/86059</guid>
+      <pubDate>Tue, 23 Apr 2024 21:01:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 两名新泽西州司机起诉通用汽车公司，称其共享驾驶数据 [...]</title>
-      <link>https://t.me/hn_summary/86023</link>
-      <description><![CDATA[诉讼指控通用汽车未经同意与保险公司共享驾驶员数据
-新泽西州两名司机起诉通用汽车，称其未经同意与保险公司分享驾驶数据，导致保险费增加。该诉讼称，通用汽车的安吉星应用程序未经许可收集并向第三方传输驾驶员行为数据。原告辩称，这种未经授权的入侵导致隐私泄露、保险成本增加以及难以在其他地方获得合理的保费。该诉讼还引用了 Mozilla 基金会和《纽约时报》的调查，这些调查揭露了汽车行业普遍存在的隐私侵犯行为。该诉讼提出了关于解释和使用驾驶数据来确定保险费的背景的问题。]]></description>
-      <guid>https://t.me/hn_summary/86023</guid>
-      <pubDate>Tue, 23 Apr 2024 17:49:48 GMT</pubDate>
+      <title>问 HN：如何提高 PCB 原型设计迭代时间？</title>
+      <link>https://t.me/hn_summary/86058</link>
+      <description><![CDATA[询问 HN：如何提高 PCB 原型设计迭代时间？
+您是否厌倦了 PCB 原型设计的漫长交付周期？作为一名可穿戴技术开发人员，我知道其中的挣扎。 JLCPCB 3-4 周的等待耗尽了我的迭代时间。考虑搬到深圳以更快地制作原型。有什么建议或经验可以分享吗？让我们集思广益，讨论如何加快流程并让我们的产品更快上市。加入 news.ycombinator 上有关如何改进 PCB 原型设计迭代时间的讨论。 com。让我们一起创新吧！]]></description>
+      <guid>https://t.me/hn_summary/86058</guid>
+      <pubDate>Tue, 23 Apr 2024 20:59:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Erlang 的调度程序是实现容错和高并发的关键组件 [...]</title>
-      <link>https://t.me/hn_summary/86022</link>
-      <description><![CDATA[深入了解 Erlang 调度程序
-Erlang 的调度程序是在应用程序中实现容错和高并发的关键组件。这篇文章深入研究了调度程序的内部工作原理，解释了它如何有效地管理进程、资源和并发性。通过利用基于减少而不是时间片的抢占式调度，Erlang 确保了进程之间的公平执行，并最大限度地减少了阻塞操作的影响。这篇文章还强调了进程优先级的重要性，并提供了通过调度程序参数优化性能的技巧。了解 Erlang 调度程序可以使开发人员能够创建可扩展且有弹性的分布式应用程序。如需更多见解，请查看推荐资源并快乐编码！]]></description>
-      <guid>https://t.me/hn_summary/86022</guid>
-      <pubDate>Tue, 23 Apr 2024 17:45:43 GMT</pubDate>
+      <title>《纽约时报》因其对加沙的报道而面临内部冲突，特别是报道声称 [...]</title>
+      <link>https://t.me/hn_summary/86057</link>
+      <description><![CDATA[《纽约时报》黄铜行动以阻止有关加沙报道的泄密
+《纽约时报》因其对加沙的报道而面临内部冲突，特别是声称哈马斯将性暴力武器化的报道。这场争议引发了一项泄密调查，引发了针对中东和北非记者的歧视指控。调查最终没有得出明确的结论，但其后果包括与一名自由职业者断绝关系，以及一个关于性侵犯的故事被揭穿。尽管证据与他们的报道相矛盾，《泰晤士报》仍坚持其报道，引发了对透明度和编辑流程的质疑。这一事件凸显了新闻诚信面临的挑战以及一家著名新闻机构内部的冲突。 （根据 97% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86057</guid>
+      <pubDate>Tue, 23 Apr 2024 20:55:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果公司做出了令人惊讶的决定，将 Vision Pro 的出货量削减一半，原因是……</title>
-      <link>https://t.me/hn_summary/86021</link>
-      <description><![CDATA[由于需求下降“严重超出预期”，苹果削减了 Vision Pro 出货量&lt; /a&gt;
-由于需求大幅下滑，苹果做出了将 Vision Pro 出货量削减一半的令人惊讶的决定，美国分析师郭明錤表示，需求大幅下滑可能会影响该公司的耳机产品路线图，但不会影响该公司的耳机产品路线图。新的 Vision Pro 型号预计将于 2025 年推出。Apple 正在努力解决应用程序、价格和舒适度等关键问题，以改善用户体验。此外，该公司已停止生产 FineWoven 配件，并可能改用其他材料。文章中还重点介绍了即将推出的 iOS 17.5 更新和 Apple 特别活动。]]></description>
-      <guid>https://t.me/hn_summary/86021</guid>
-      <pubDate>Tue, 23 Apr 2024 17:41:37 GMT</pubDate>
+      <title>[媒体] Z 世代正在通过创建“Nospace”这一现代 Ta [...]</title>
+      <link>https://t.me/hn_summary/86056</link>
+      <description><![CDATA[Z 世代将 MySpace 重新打造为“Nospace”——拥有 38 万人候补名单
+Z 世代正在通过创建“Nospace”来震撼社交媒体场景，这是 MySpace 的现代版本，旨在带回真实的联系和自我表达。 27 岁的创始人蒂芙尼钟希望提供一个平台，让用户可以分享自己的兴趣并以更有意义的方式与他人互动。 Nospace 的等候名单超过 380,000 人，预计于 2024 年夏季推出，提供可定制个人资料、点赞代替点赞以及全球群聊体验等功能。这种远离算法驱动平台的转变标志着对真正联系的渴望以及对社交媒体规范的突破。]]></description>
+      <guid>https://t.me/hn_summary/86056</guid>
+      <pubDate>Tue, 23 Apr 2024 20:52:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：从归零地到生产：Go 在 Google 的旅程</title>
-      <link>https://t.me/hn_summary/86020</link>
-      <description><![CDATA[从零开始到生产：Go 在 Google 的旅程 
-标题：从归零地到生产：Go 在 Google 的旅程
-
-在本文中，作者分享了他们作为 Google 的 SRE、框架开发人员和 Go 早期采用者的观点。他们讨论了 Go 编程简介、构建用于身份验证和 RPC 的低级库所面临的挑战，以及面向用户的服务（例如用于监控 Google+ Bigtable 服务器的服务）的开发。作者还强调了全局主选择和执行 Bigtable 引流的重要性，以及在生产中部署 JID 代理服务所获得的见解。这篇文章揭示了 Go 在 Google 的演变，从早期到成为流行的编程语言。 （根据故事文本的 52% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86020</guid>
-      <pubDate>Tue, 23 Apr 2024 17:40:33 GMT</pubDate>
+      <title>RISC-V 以其开源、免费的替代指令正在撼动半导体市场 [...]</title>
+      <link>https://t.me/hn_summary/86055</link>
+      <description><![CDATA[为什么 RISC-V 如此重要
+RISC-V 以其开源、免费的替代指令集架构正在撼动半导体市场。这项创新技术正在推动定制硬件开发的激增，使公司能够创建专用芯片，而无需承担昂贵的许可费用。通过降低进入门槛，RISC-V 正在培育一个更高效、更具竞争力的市场，挑战 AMD 和英特尔的垄断。随着越来越多的公司投资 RISC-V，以更低的成本生产更快、更高效的芯片的潜力即将显现。这项颠覆性技术不仅重要，而且对该行业的未来也令人兴奋。]]></description>
+      <guid>https://t.me/hn_summary/86055</guid>
+      <pubDate>Tue, 23 Apr 2024 20:51:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 数学家们对四维拓扑的复杂世界着迷 [...]</title>
-      <link>https://t.me/hn_summary/86019</link>
-      <description><![CDATA[数学家惊叹于“疯狂”的四个维度切割 
-几十年来，数学家们一直对四维拓扑的复杂世界着迷。最近，Ruberman 和 Hughes 取得了突破，用简单连通补集构造了四维流形，这是研究人员近 30 年来一直未能实现的壮举。通过将鲁伯曼的几何专业知识与休斯的群论知识相结合，他们在短短一周内就解决了这个问题。证明中群论的使用使得结果有些争议，但它在四维拓扑领域开辟了新的可能性。这一发现凸显了研究四维流形所带来的持续挑战和惊喜。]]></description>
-      <guid>https://t.me/hn_summary/86019</guid>
-      <pubDate>Tue, 23 Apr 2024 17:38:28 GMT</pubDate>
+      <title>[媒体]互联网档案馆正面临主要出版商对其受控挖掘的诉讼 [...]</title>
+      <link>https://t.me/hn_summary/86054</link>
+      <description><![CDATA[法庭上的互联网档案馆：版权不仅仅是经济激励
+互联网档案馆正面临主要出版商对其受控数字借阅业务的诉讼，他们声称该业务侵犯了版权。档案馆辩称，其借阅服务是合理使用的，并且通过提供广泛的图书访问服务来服务于公共利益。该案凸显了关于版权法的目的以及对创作者的经济激励与公众获取文学之间的平衡的更广泛的争论。档案馆在法庭上进行反击，称其服务有利于公众，应该允许其继续下去。此案的结果可能对数字借贷和信息获取产生深远影响。]]></description>
+      <guid>https://t.me/hn_summary/86054</guid>
+      <pubDate>Tue, 23 Apr 2024 20:50:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果公司降低了 Vision Pro 耳机的出货量预期，分析师 Ming [...]</title>
-      <link>https://t.me/hn_summary/86018</link>
-      <description><![CDATA[苹果削减 Vision Pro 出货量，现在正在“审查和调整”耳机策略
-苹果降低了 Vision Pro 耳机的出货量预期，分析师 Ming-Chi Kuo 报告称，今年的目标为 40 万至 45 万台，低于最初预期的 70 万至 80 万台。美国需求的下降导致苹果重新考虑其国际发布策略。郭还表示，苹果正在重新评估其整体耳机业务战略，这可能会影响 2025 年第二代 Vision Pro 的发布。这些变化是否准确，或者苹果是否一直计划降低出货量，还有待观察。事态的进一步发展值得关注。]]></description>
-      <guid>https://t.me/hn_summary/86018</guid>
-      <pubDate>Tue, 23 Apr 2024 17:32:22 GMT</pubDate>
+      <title>隆重推出 Phi-3，这是 Microsoft 开创性的开放式 AI 模型系列，它重新定义了 PO [...]</title>
+      <link>https://t.me/hn_summary/86053</link>
+      <description><![CDATA[Phi-3：重新定义 SLM 的可能性&lt; br /&gt;
+隆重推出 Phi-3，这是 Microsoft 突破性的开放式 AI 模型系列，它重新定义了小语言模型 (SLM) 的可能性。 3.8B 语言模型 Phi-3-mini 现已在 Azure AI Studio、Hugging Face 和 Ollama 上提供，提供无与伦比的性能和成本效益。 Phi-3-mini 支持高达 128K 令牌的上下文窗口，针对 ONNX 运行时和 NVIDIA GPU 进行了指令调整和优化。 Phi-3 模型采用安全第一的模型设计开发，经过了严格的评估，以确保负责任的开发和部署。客户已经将 Phi-3 用于各种应用，例如在农业领域使用 ITC 的 Krishi Mitra 副驾驶应用程序。今天就和我们一起探索 Phi-3 的可能性吧！]]></description>
+      <guid>https://t.me/hn_summary/86053</guid>
+      <pubDate>Tue, 23 Apr 2024 20:49:35 GMT</pubDate>
     </item>
     <item>
-      <title>我们。</title>
-      <link>https://t.me/hn_summary/86017</link>
-      <description><![CDATA[美国债务利息支付达到 1T 美元
-在高利率和创纪录的 34 万亿美元国债的推动下，美国债务利息支付在 2023 年已达到惊人的 1 万亿美元大关。债务支付的急剧增长首次超过了国防支出，利息成本也超过了医疗补助支出。美国国债每100天增加1万亿美元，每年总计3.6万亿美元。国会预算办公室预计，到 2034 年，联邦赤字增长的 75% 将由利息成本造成。美国政府预计未来十年将花费 12.4 万亿美元用于支付利息，平均每个美国人花费 37,100 美元。]]></description>
-      <guid>https://t.me/hn_summary/86017</guid>
-      <pubDate>Tue, 23 Apr 2024 17:27:16 GMT</pubDate>
+      <title>[媒体]特斯拉 2024 年第一季度更新重点介绍了财务和运营摘要，包括美元 [...]</title>
+      <link>https://t.me/hn_summary/86052</link>
+      <description><![CDATA[特斯拉 2024 年第一季度更新 [pdf](https://news. ycombinator.com/item?id=40136709)
+Tesla 2024 年第一季度更新重点介绍了财务和运营摘要，包括 1.2B 美元的 GAAP 运营收入和创纪录的能源存储部署。尽管面临红海冲突和柏林超级工厂纵火袭击等挑战，特斯拉仍然专注于增长和盈利能力。该公司正在投资人工智能基础设施、产能和新产品，以支持未来的增长。特斯拉正在降低全自动驾驶（监督式）的价格，以使其更容易使用。更新还讨论了不同地区的车辆容量，并强调了人工智能技术对自动驾驶的重要性。尽管全球电动汽车销售面临压力，特斯拉仍致力于推动电动汽车的采用。 （根据故事文本的 27% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86052</guid>
+      <pubDate>Tue, 23 Apr 2024 20:46:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] adu.autonomy.work 网站提供了一个交互式演示，展示了企业风险如何[...]</title>
-      <link>https://t.me/hn_summary/86016</link>
-      <description><![CDATA[展示 HN：英国公司面临的地缘政治/环境风险可视化
-网站 adu.autonomy.work 提供了一个交互式演示年度报告中的企业风险披露如何提供除财务和监管合规之外的有价值的数据。该网站强调了分析风险数据的重要性，尤其是在面临危机时，以及人工智能驱动的软件从这些报告中提取有价值的见解的潜力。该项目名为 GERM（地缘政治和环境风险监控器），旨在开发软件来监控影响英国公司的风险，重点关注地缘政治和环境因素。该网站还讨论了从年度报告中提取风险数据的挑战以及风险报告标准化的必要性。 （根据故事文本的 53% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86016</guid>
-      <pubDate>Tue, 23 Apr 2024 17:20:09 GMT</pubDate>
+      <title>HCL 是一个工具包，用于创建用户友好且易于使用的结构化配置语言 [...]</title>
+      <link>https://t.me/hn_summary/86051</link>
+      <description><![CDATA[HCL：结构化配置语言工具包
+HCL 是一个用于创建用户友好和机器友好的结构化配置语言的工具包，主要针对 DevOps 工具和服务器。它为人类提供了原生语法，为机器提供了基于 JSON 的变体。 HCL 允许进行基本计算并支持动态配置的变量和函数。它提供了用于定义配置结构的构造，以及用于解析和解码配置的 Go API。 HCL 旨在在 JSON 等通用序列化格式和基于编程语言的配置格式之间取得平衡。 2.0 版结合了 HCL 1.0 和 HIL 的功能，提供支持任意表达式的单一配置语言。]]></description>
+      <guid>https://t.me/hn_summary/86051</guid>
+      <pubDate>Tue, 23 Apr 2024 20:41:39 GMT</pubDate>
     </item>
     <item>
-      <title>在关于使用 IRIS 技术检查芯片系列的最后一篇文章中，作者讨论了 [...]</title>
-      <link>https://t.me/hn_summary/86015</link>
-      <description><![CDATA[芯片图片自动拼接
-在使用 IRIS 技术检查芯片系列的最后一篇文章中，作者讨论了用于将较小的芯片图像拼接成单个大型合成图像的软件。作者解释了由于芯片图像的独特特征而使用传统图像拼接程序所面临的挑战，从而导致了定制拼接算法的开发。作者详细介绍了自动拼接的过程，包括模板匹配和最小平方误差清理，以实现门计数普查等后处理任务的像素精确对齐。作者还分享了开发过程中技术方面的见解和优化。 （根据 57% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86015</guid>
-      <pubDate>Tue, 23 Apr 2024 17:19:04 GMT</pubDate>
+      <title>[媒体]科技兄弟为硅谷的军事狂热梦想提供动力，探讨了 [...]</title>
+      <link>https://t.me/hn_summary/86050</link>
+      <description><![CDATA[科技兄弟为硅谷的军事狂热梦想提供动力&lt; br /&gt;
+《推动硅谷军事狂热梦想的科技兄弟》探讨了“Gundo Bros”的崛起，这是一群年轻的男性企业家，在埃尔塞贡多在洛杉矶国际机场附近建立了美国硬件和软件公司。该运动得到了安德森·霍洛维茨（Andreessen Horowitz）等风险投资者的支持，推动了美国硬件制造根源的回归以及对国防技术的关注。这场备受争议的运动因其性别差异而受到批评，但支持者认为这是爱国主义的复兴。爱国主义、热情和非常规商业实践的独特融合，在科技界引发了兴奋和怀疑。 （根据 96% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86050</guid>
+      <pubDate>Tue, 23 Apr 2024 20:40:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
