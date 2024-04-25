@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 25 Apr 2024 03:05:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 06:06:41 GMT</lastBuildDate>
     <item>
       <title>多伦多哪里可以展示您的编辑以获得建议？</title>
       <link>https://www.reddit.com/r/editors/comments/1cchhuj/place_to_show_your_edit_it_toronto_for_advice/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>混合音轨与视频不同步</title>
       <link>https://www.reddit.com/r/editors/comments/1cc7gdk/mixed_audio_track_not_syncing_the_video/</link>
-      <description><![CDATA[我为乐队录制了一段现场多轨录音，也录制在视频中。录制前，我确保音频设置与视频相同，即采样率为 48 kHz，位深为 16 位，但不知何故，当我将混合音轨上传到视频的时间线上时，它略微不同步。起初它似乎是同步的，但随着它的进行，您可以听到两个音频如何开始不同步。 我正在使用 CapCut，但这也发生在 iMovie 甚至 Logic Pro 上。 知道是什么原因造成的吗？ Mac Studio 2022 M1 Max 内存 64 GB CapCut v3.7.0 格式 MP4 编解码器时间码、AAC、HEVC 1920 × 1080 29.97 fps    提交人    /u/MDmixing   [链接] [评论]]]></description>
+      <description><![CDATA[我为一支乐队录制了现场多轨会话，该乐队也录制在视频中。在录制之前，我确保与视频具有相同的音频设置，即采样率 48 kHz 和位深度 16 位，但由于某种原因，当我在时间线上上传混合音轨与视频时，它稍微不同步。起初它似乎是同步的，但随着它的继续，您可以听到两个音频如何开始变得不同步。 我使用的是 CapCut，但 iMovie 甚至 Logic Pro 上也会发生这种情况. 知道是什么原因造成的吗？ Mac Studio 2022 M1 Max 内存 64 GB CapCut v3.7.0 格式 MP4 编解码器 时间码、AAC、HEVC 1920 × 1080 29.97 fps   由   提交/u/MDmixing  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cc7gdk/mixed_audio_track_not_syncing_the_video/</guid>
       <pubDate>Wed, 24 Apr 2024 19:39:03 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>Instagram / YouTube 质量难题</title>
       <link>https://www.reddit.com/r/editors/comments/1cc0jis/instagram_youtube_quality_conundrum/</link>
-      <description><![CDATA[我从事专业编辑已有十多年了 - 但我带着一个谦虚诚实的问题来找你（我确信这个问题相对频繁）我没有找到一致的答案。很棒的东西，我知道。 让我导出的广告在 YouTube 和 Instagram 上看起来清晰/干净/完美，有什么秘诀吗？我发誓，我在 NLE 中拍摄的美丽镜头，即使是 8k，在发布到 YouTube 或 Instagram 上时，似乎总是显得颗粒感十足，并且压缩得一塌糊涂。我尝试过 4k、h265、ProRes、最大 mbps 的 CBR 和 10mbps 的 VBR。我尝试过在补偿 LUT 上添加细微的颗粒并提高对比度/清晰度。有时斑点看起来很完美，有时则很糟糕。通常很糟糕。 我知道 YouTube 优先考虑产生数百万次观看次数的帐户等。但我一直看到很多邮局、品牌、内容创作者等在他们的整个社交源上都有完美的清晰视频。&lt; /p&gt; 在序列/导出设置中是否有一个我不知道的秘密？如果是的话，有人可以帮我取消这个门禁吗？每当我向大客户交付 4k 精美的最终文件时，即使有数百万的浏览量，但在他们的 Instagram 上看起来很残酷，我都会失去理智并感到尴尬。 我在 Premiere 中使用 M2 Mac Studio。  谢谢！   由   提交 /u/worldsdieinsideus   [链接] [评论]]]></description>
+      <description><![CDATA[我从事专业编辑已有十多年了 - 但我带着一个谦虚诚实的问题来找你（我确信这个问题相对频繁）我没有找到一致的答案。很棒的东西，我知道。 让我导出的广告在 YouTube 和 Instagram 上看起来清晰/干净/完美，有什么秘诀吗？我发誓，我在 NLE 中拍摄的美丽镜头，即使是 8k，在发布到 YouTube 或 Instagram 上时，似乎总是显得颗粒感十足，并且压缩得一塌糊涂。我尝试过 4k、h265、ProRes、最大 mbps 的 CBR 和 10mbps 的 VBR。我尝试过在补偿 LUT 上添加细微的颗粒并提高对比度/清晰度。有时斑点看起来很完美，有时则很糟糕。通常很糟糕。 我知道 YouTube 优先考虑产生数百万次观看次数的帐户等。但我一直看到很多邮局、品牌、内容创作者等在他们的整个社交源上都有完美的清晰视频。&lt; /p&gt; 在序列/导出设置中是否有一个我不知道的秘密？如果是的话，有人可以帮我取消这个门禁吗？每当我向大客户提供 4k 精美的最终文件时，即使有数百万的浏览量，但在他们的 Instagram 上看起来很残酷，我都会失去理智并感到尴尬。 我在 Premiere 中使用 M2 Mac Studio。  谢谢！   由   提交 /u/worldsdieinsideus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cc0jis/instagram_youtube_quality_conundrum/</guid>
       <pubDate>Wed, 24 Apr 2024 15:05:46 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>电影节上的交流</title>
       <link>https://www.reddit.com/r/editors/comments/1cbclnq/networking_at_film_festivals/</link>
-      <description><![CDATA[所以我的家乡印第安纳波利斯每年举办 3 个主要电影节。我很好奇参加节日是否是一种建立人际网络的好方法，因为今年我试图在这方面做得更好。    由   提交/u/NinjaSpartan011   [链接] [评论]]]></description>
+      <description><![CDATA[所以我的家乡印第安纳波利斯每年举办 3 个主要电影节。我很好奇参加节日是否是一种建立人际网络的好方法，因为今年我试图在这方面做得更好。    由   提交 /u/NinjaSpartan011   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cbclnq/networking_at_film_festivals/</guid>
       <pubDate>Tue, 23 Apr 2024 18:52:56 GMT</pubDate>
     </item>
@@ -97,18 +97,18 @@
       <pubDate>Tue, 23 Apr 2024 16:55:19 GMT</pubDate>
     </item>
     <item>
-      <title>Adobe Premiere Pro 2020 — 没有音频 :(</title>
-      <link>https://www.reddit.com/r/editors/comments/1cb90y8/adobe_premiere_pro_2020_no_audio/</link>
-      <description><![CDATA[我已经尝试了一切。请帮忙。我可以听到其他内容的音频。    由   提交 /u/publicganjaarts   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cb90y8/adobe_premiere_pro_2020_no_audio/</guid>
-      <pubDate>Tue, 23 Apr 2024 16:30:05 GMT</pubDate>
-    </item>
-    <item>
       <title>工作室希望我遵循的安全指南/审核/规则？</title>
       <link>https://www.reddit.com/r/editors/comments/1cb8vjf/security_guidelinesauditrules_a_studio_wants_me/</link>
       <description><![CDATA[所以我即将开始出售我自己的整理帖子“房子”。我想瞄准更高端的东西，这是我通常在“真实”领域做的事情。后期公司。 向工作室发送校准报告和为视觉特效供应商管理视觉特效拉动等技术性工作都在我的掌控之中，但阻止我认真销售服务的是安全性和数据管理方面。 当工作室人员对邮局进行审核时，我去过那里，我想知道是否有人对他们在安全方面寻求的东西有任何文件、指南或建议和数据管理？是否有需要遵守的行业协议？ 我正在寻找人员来管理数据和安全基础设施，但我不知道如何向他们说明我的需求。   由   提交 /u/broomosh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cb8vjf/security_guidelinesauditrules_a_studio_wants_me/</guid>
       <pubDate>Tue, 23 Apr 2024 16:24:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Topaz video AI 在编辑软件之前还是之后？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cb78qh/topaz_video_ai_before_editing_software_or_after/</link>
+      <description><![CDATA[我对使用不同摄像机录制的视频有多个角度。 我应该在之前还是之后使用 Topaz video AI 处理视频将视频放入我的编辑软件中？ （达芬奇决心）   由   提交/u/pantyjob3  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cb78qh/topaz_video_ai_before_editing_software_or_after/</guid>
+      <pubDate>Tue, 23 Apr 2024 15:18:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
