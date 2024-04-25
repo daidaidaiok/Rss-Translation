@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Wed, 24 Apr 2024 21:05:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 00:19:07 GMT</lastBuildDate>
+    <item>
+      <title>使用 Shutter Encoder 帮助将 srt 文件硬编码到 mp4 电影文件时出现错误？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ccaa21/error_hardcoding_srt_file_onto_mp4_movie_file/</link>
+      <description><![CDATA[嘿，我正在尝试使用快门编码器将字幕硬编码到 mp4 电影文件上，我之前已经做过很多次了，没有出现问题。 srt 文件使用 vlc 播放器与 mp4 电影文件同步并完美播放，但是当我尝试使用快门编码器以 mpeg2 或 h264 作为输出编解码器对 subs 进行硬编码时，我收到以下错误消息：   ” [AVFilterGraph @ 0000025e06627800] 处理filtergraph时出错：处理输入时发现无效数据 [in#1 @ 0000025e04fbecc0] 打开输入时出错：处理输入时发现无效数据 打开输入文件时出错：处理时发现无效数据输入”  我已经设法使用快门编码器将其他 srt 文件硬编码到同一个 mp4 电影文件中，但不幸的是字幕与电影稍微不同步，所以显然我更喜欢对完美同步的 srt 进行硬编码。如果有人可以帮助我，我真的很感激？谢谢   由   提交/u/blackholesun85  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ccaa21/error_hardcoding_srt_file_onto_mp4_movie_file/</guid>
+      <pubDate>Wed, 24 Apr 2024 21:32:31 GMT</pubDate>
+    </item>
     <item>
       <title>混合音轨与视频不同步</title>
       <link>https://www.reddit.com/r/editors/comments/1cc7gdk/mixed_audio_track_not_syncing_the_video/</link>
@@ -22,14 +29,14 @@
     <item>
       <title>屏幕捕获素材的质量比下载素材的质量更高。为什么？</title>
       <link>https://www.reddit.com/r/editors/comments/1cc0wpd/screen_capturing_footage_is_higher_quality_than/</link>
-      <description><![CDATA[我经常获取新闻片段进行编辑。内部工作流程是使用 OBS 或 Screenflow，播放素材并录制。我认为这需要太长时间，并且受您的互联网速度和缓冲的影响，因此我通常会下载素材（Clipgrab、VideoDownloadHelper、fdown.net、yt-dlp 等）。 这很有效几年前都还好，直到最近。现在，我下载的一些素材分辨率较低或具有缓冲像素化，但在我的浏览器中播放看起来很棒。想知道为什么会这样。 （我认为下载视频可以消除这些问题） 编辑：机器人的系统规格！ MacBook Pro 内存：96 GB 显卡：Apple M2 Max   由   提交/u/batteries4holden  [链接] [评论]]]></description>
+      <description><![CDATA[我经常从新闻素材中获取素材进行编辑。内部工作流程是使用 OBS 或 Screenflow，播放素材并录制。我认为这太耗时，而且取决于您的互联网速度和缓冲，所以我通常会下载素材（Clipgrab、VideoDownloadHelper、fdown.net、yt-dlp 等）。 直到最近，这种方法已经运行了好几年。现在，我下载的一些素材分辨率较低或有缓冲像素化，但在我的浏览器中播放效果很好。想知道这可能是为什么。（我以为下载素材会消除这些问题） 编辑：机器人的系统规格！MacBook Pro 内存：96 GB 显卡：Apple M2 Max    提交人    /u/batteries4holden   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cc0wpd/screen_capturing_footage_is_higher_quality_than/</guid>
       <pubDate>Wed, 24 Apr 2024 15:20:57 GMT</pubDate>
     </item>
     <item>
       <title>Instagram / YouTube 质量难题</title>
       <link>https://www.reddit.com/r/editors/comments/1cc0jis/instagram_youtube_quality_conundrum/</link>
-      <description><![CDATA[我从事专业编辑已有十多年了 - 但我带着一个谦虚诚实的问题来找你（我确信这个问题相对频繁）我没有找到一致的答案。很棒的东西，我知道。 让我导出的广告在 YouTube 和 Instagram 上看起来清晰/干净/完美，有什么秘诀吗？我发誓，我在 NLE 中拍摄的美丽镜头，即使是 8k，在发布到 YouTube 或 Instagram 上时，似乎总是显得颗粒感十足，并且压缩得一塌糊涂。我尝试过 4k、h265、ProRes、最大 mbps 的 CBR 和 10mbps 的 VBR。我尝试过在补偿 LUT 上添加细微的颗粒并提高对比度/清晰度。有时斑点看起来很完美，有时则很糟糕。通常很糟糕。 我知道 YouTube 优先考虑产生数百万次观看次数的帐户等。但我一直看到很多邮局、品牌、内容创作者等在他们的整个社交源上都有完美的清晰视频。&lt; /p&gt; 在序列/导出设置中是否有一个我不知道的秘密？如果是的话，有人可以帮我取消这个门禁吗？每当我向大客户提供 4k 精美的最终文件时，即使有数百万的浏览量，但在他们的 Instagram 上看起来很残酷，我都会失去理智并感到尴尬。 我在 Premiere 中使用 M2 Mac Studio。  谢谢！   由   提交 /u/worldsdieinsideus   [链接] [评论]]]></description>
+      <description><![CDATA[我从事专业编辑已有十多年了 - 但我带着一个谦虚诚实的问题来找你（我确信这个问题相对频繁）我没有找到一致的答案。很棒的东西，我知道。 让我导出的广告在 YouTube 和 Instagram 上看起来清晰/干净/完美，有什么秘诀吗？我发誓，我在 NLE 中拍摄的美丽镜头，即使是 8k，在发布到 YouTube 或 Instagram 上时，似乎总是显得颗粒感十足，并且压缩得一塌糊涂。我尝试过 4k、h265、ProRes、最大 mbps 的 CBR 和 10mbps 的 VBR。我尝试过在补偿 LUT 上添加细微的颗粒并提高对比度/清晰度。有时斑点看起来很完美，有时则很糟糕。通常很糟糕。 我知道 YouTube 优先考虑产生数百万次观看次数的帐户等。但我一直看到很多邮局、品牌、内容创作者等在他们的整个社交源上都有完美的清晰视频。&lt; /p&gt; 在序列/导出设置中是否有一个我不知道的秘密？如果是的话，有人可以帮我取消这个门禁吗？每当我向大客户交付 4k 精美的最终文件时，即使有数百万的浏览量，但在他们的 Instagram 上看起来很残酷，我都会失去理智并感到尴尬。 我在 Premiere 中使用 M2 Mac Studio。  谢谢！   由   提交 /u/worldsdieinsideus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cc0jis/instagram_youtube_quality_conundrum/</guid>
       <pubDate>Wed, 24 Apr 2024 15:05:46 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>电影节上的交流</title>
       <link>https://www.reddit.com/r/editors/comments/1cbclnq/networking_at_film_festivals/</link>
-      <description><![CDATA[所以我的家乡印第安纳波利斯每年举办 3 个主要电影节。我很好奇参加节日是否是一种建立人际网络的好方法，因为今年我试图在这方面做得更好。    由   提交 /u/NinjaSpartan011   [链接] [评论]]]></description>
+      <description><![CDATA[所以我的家乡印第安纳波利斯每年举办 3 个主要电影节。我很好奇参加节日是否是一种建立人际网络的好方法，因为今年我试图在这方面做得更好。    由   提交/u/NinjaSpartan011   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cbclnq/networking_at_film_festivals/</guid>
       <pubDate>Tue, 23 Apr 2024 18:52:56 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>Adobe Premiere Pro 2020 - 无音频:(</title>
       <link>https://www.reddit.com/r/editors/comments/1cb90y8/adobe_premiere_pro_2020_no_audio/</link>
-      <description><![CDATA[我已经尝试了一切。请帮忙。我可以听到其他内容的音频。    由   提交 /u/publicganjaarts   [链接] [评论]]]></description>
+      <description><![CDATA[我什么都试过了。请帮忙。我可以在其他东西上听到音频。     提交人    /u/publicganjaarts   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cb90y8/adobe_premiere_pro_2020_no_audio/</guid>
       <pubDate>Tue, 23 Apr 2024 16:30:05 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我对使用不同摄像机录制的视频有多个角度。 我应该在之前还是之后使用 Topaz video AI 处理视频将视频放入我的编辑软件中？ （达芬奇决心）   由   提交/u/pantyjob3  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cb78qh/topaz_video_ai_before_editing_software_or_after/</guid>
       <pubDate>Tue, 23 Apr 2024 15:18:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Parsec/Jump 等的远程编辑器：验证音频和视频同步的最佳/最快/最简单的方法是什么？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cb68is/remote_editors_who_use_parsecjump_etc_whats_the/</link>
-      <description><![CDATA[您可能知道，使用秒差距会出现轻微延迟，导致音频和视频无法完美匹配。我们不通过时间码同步，因此我们仅依靠通过波形同步采访。然而，如果能够验证它实际上是否与确切的帧同步，那就太好了。也没有石板:(我最初的想法是只与受访者的波形和爆破音同步。有更好的方法吗？也许可以在秒差距内进行设置来更好地同步系统的 AV 输出？     提交者 /u/bigpuffy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cb68is/remote_editors_who_use_parsecjump_etc_whats_the/</guid>
-      <pubDate>Tue, 23 Apr 2024 14:35:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
