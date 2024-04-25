@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 25 Apr 2024 12:07:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 15:06:10 GMT</lastBuildDate>
+    <item>
+      <title>推荐的现场工作应用程序/软件</title>
+      <link>https://www.reddit.com/r/software/comments/1ccttif/recommended_field_work_appsoftware/</link>
+      <description><![CDATA[我是一家小企业主，我们安装分体式空调系统、闭路电视、局域网网络、维护（清洗空调等）。 我需要一个应用程序或软件来 GPS 跟踪我的团队（技术人员）并分配工作，跟踪他们完成的工作以及每项工作花费的时间，现在我通过 WhatsApp 和致电手动完成这些工作在手机上。 如果该软件是多平台的（windows/web/android），那就太好了 任何建议将不胜感激，提前致谢   由   提交/u/RainOne8610   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ccttif/recommended_field_work_appsoftware/</guid>
+      <pubDate>Thu, 25 Apr 2024 14:46:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Geek Unninstaller 未检测到我的第二个 SSD</title>
+      <link>https://www.reddit.com/r/software/comments/1ccrinj/geek_unninstaller_not_detecting_my_2nd_ssd/</link>
+      <description><![CDATA[大家好。因此，我最近格式化了我的 PC，也就是安装了操作系统的 SSD。对第二个什么也没做。然而，当启动 Geek 卸载程序时，它不会检测到后者安装的软件和东西：主要是我的游戏。我怎样才能让它检测到它；看到我的第二个 SSD 上的所有内容？ 感谢 adv！ 编辑：geek.exe 位于第二个 SSD 中。   由   提交 /u/Key_astian   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ccrinj/geek_unninstaller_not_detecting_my_2nd_ssd/</guid>
+      <pubDate>Thu, 25 Apr 2024 13:08:27 GMT</pubDate>
+    </item>
     <item>
       <title>自由职业者的时间跟踪软件？</title>
       <link>https://www.reddit.com/r/software/comments/1ccq0j0/time_tracking_software_for_freelancing/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>Audacity 3.5 已发布！</title>
       <link>https://www.reddit.com/r/software/comments/1ccjfc7/audacity_35_is_out/</link>
-      <description><![CDATA[ 由   提交/u/warezeater  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/warezeater  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ccjfc7/audacity_35_is_out/</guid>
       <pubDate>Thu, 25 Apr 2024 04:51:10 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>需要 S2 细胞查看器</title>
       <link>https://www.reddit.com/r/software/comments/1ccj5pf/need_a_s2_cell_viewer/</link>
-      <description><![CDATA[我有 uint64 格式的 S2 蜂窝 ID。我希望能够使用这些 ID 并在地图上查看它们。有没有网站可以让我做到这一点，而无需我进行所有编码     提交人    /u/native-foreigner   [link] [comments]]]></description>
+      <description><![CDATA[我有 uint64 格式的 S2 小区 ID。我希望能够使用这些并在地图上查看。是否有任何网站可以让我无需完成所有编码即可完成此操作    由   提交/u/native-foreigner  /u/native-foreigner  reddit.com/r/software/comments/1ccj5pf/need_a_s2_cell_viewer/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ccj5pf/need_a_s2_cell_viewer/</guid>
       <pubDate>Thu, 25 Apr 2024 04:35:31 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[曾经有一个 100% 免费的服务，称为 Kitestring。无需安装，只需向 Kitestring 号码发送一段持续时间（以分钟为单位）的短信：30、60、600 等，它就会确认已收到您的请求，并会在您的持续时间内与您联系。在此期间，Kitestring 会发短信请求您使用安全词。如果您没有回复，它会用您预先制作的消息通知 3 个紧急联系人，因此它在您的语法或词典中。还有一个你可以使用的胁迫安全词。我们使用了多年的优秀免费软件，但现在已经消失了。有类似的吗？   由   提交 /u/DumPotatoHead   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cc8a9g/kitestringio_alternative/</guid>
       <pubDate>Wed, 24 Apr 2024 20:11:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 云托管的论坛软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1cc7x7u/forum_software_for_a_windows_cloud_hosting/</link>
-      <description><![CDATA[我正在 asp.net 中开发我的网站，但我想要一个临时论坛来收集访问者的反馈。我之前在旧的 apache 托管计划上安装了 phpbb，但它在我的 Windows 云托管上不起作用。它只是给了我一个空白页。我认为这是因为它是为 apache 设计的......或者也许不是，我不知何故弄乱了设置？有什么建议吗？   由   提交/u/cerwen80  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cc7x7u/forum_software_for_a_windows_cloud_hosting/</guid>
-      <pubDate>Wed, 24 Apr 2024 19:58:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>不知道我是否可以或如何阻止应用程序查看我的 IP 地址？例如，如果我在 TikTok 上被禁止使用 IP 地址，我想绕过它？</title>
-      <link>https://www.reddit.com/r/software/comments/1cc6uis/dont_know_if_or_how_i_can_prevent_an_app_from/</link>
-      <description><![CDATA[ 由   提交/u/MaxK1704  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cc6uis/dont_know_if_or_how_i_can_prevent_an_app_from/</guid>
-      <pubDate>Wed, 24 Apr 2024 19:14:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
