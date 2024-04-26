@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 08:35:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:02:05 GMT</lastBuildDate>
     <item>
-      <title>在这篇博文中，我们深入研究了修补请求的世界，以获得更好的性能和控制 [...]</title>
-      <link>https://t.me/hn_summary/86548</link>
-      <description><![CDATA[修补请求以获得乐趣和（并发）利润&lt; br /&gt;
-在这篇博文中，我们深入研究了修补请求以获得更好的性能和并发性的世界。作者探讨了启用和禁用证书验证时运行请求之间的显着时间差异，将速度减慢归因于 SSL 模块中加载verifylocations() 函数的缓慢。通过分析并发执行，他们识别导致延迟的关键函数，并通过缓存 SSL 上下文和避免不必要的 loadverifylocations() 调用来提出修复方案。作者向 Requests 提交的 PR 旨在通过预加载默认 CA 证书来优化性能，展示了增强并发请求处理的巧妙解决方案。]]></description>
-      <guid>https://t.me/hn_summary/86548</guid>
-      <pubDate>Fri, 26 Apr 2024 08:35:52 GMT</pubDate>
+      <title>询问 HN：这篇 HN 文章有何进展？</title>
+      <link>https://t.me/hn_summary/86580</link>
+      <description><![CDATA[询问 HN：这篇 HN 文章有何进展？ 
+最近我在HN的头版看到一篇文章，有30个点赞，但由于某种原因，我无法发表评论。没有标记，那是怎么回事？还有其他人遇到这个问题吗？这很令人费解，我很好奇这背后是否有原因。让我们来讨论一下，看看这篇神秘的 HN 文章到底是怎么回事。]]></description>
+      <guid>https://t.me/hn_summary/86580</guid>
+      <pubDate>Fri, 26 Apr 2024 15:02:05 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇文章中，我提出了一种静态获取 Haskell 可执行文件的替代方法 [...]</title>
-      <link>https://t.me/hn_summary/86547</link>
-      <description><![CDATA[在没有 Nix 的情况下静态链接 Haskell 可执行文件
-在这篇文章中，继 Tom Sydney 的上一篇文章之后，我提出了一种替代方法，让 Haskell 可执行文件在没有 Nix 的情况下静态链接。通过利用 Musl libc 和 Alpine Linux，我们可以实现静态链接，而不需要 Nix。 GHCup 支持 Alpine Linux，可以轻松在该系统上安装 GHC。在 Docker 容器中使用干净的构建环境，我们可以将所有内容绑定在一起并创建静态二进制文件。虽然这种方法很成功，但它确实依赖于 Alpine Linux 系统 C 库的打包，如果某些包不可用，这可能需要手动工作。]]></description>
-      <guid>https://t.me/hn_summary/86547</guid>
-      <pubDate>Fri, 26 Apr 2024 08:15:42 GMT</pubDate>
+      <title>Apple 的 Mac 过去常常会定期增加基础内存，直到 2011 年蒂姆·库克 (Tim Cook) 接任首席执行官为止，他 [...]</title>
+      <link>https://t.me/hn_summary/86579</link>
+      <description><![CDATA[蒂姆·库克 (Tim Cook) 上任后，苹果的常规 Mac 基本 RAM 提升结束了
+正如 David Schaub 的图表所示，在 Tim Cook 于 2011 年接任首席执行官之前，苹果 Mac 的基本内存一直在不断提升。每两年增加一次内存的趋势在库克的领导下结束了。虽然市场趋势和技术变化可能可以解释这种停滞状态，但苹果对更高内存配置收取过高费用以及不允许购买后升级 RAM 的策略引发了争议。该公司转向统一内存，并将 Mac 上的 8GB 与竞争对手系统上的 16GB 进行比较，加剧了争论。所有即将推出的 iPhone 16 机型可能配备 8GB RAM，这进一步引发了人们对苹果内存策略的质疑。]]></description>
+      <guid>https://t.me/hn_summary/86579</guid>
+      <pubDate>Fri, 26 Apr 2024 15:01:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]OpenBao 是一款软件解决方案，旨在管理、存储和分发敏感数据 [...]</title>
-      <link>https://t.me/hn_summary/86546</link>
-      <description><![CDATA[OpenBAO：管理、存储、分发敏感数据 - 机密、证书、键
-OpenBao 是一款软件解决方案，旨在管理、存储和分发机密、证书和密钥等敏感数据。它旨在解决保护和跟踪现代系统所需的各种秘密的访问的挑战。 OpenBao提供安全秘密存储、动态秘密生成、数据加密、租赁、更新和撤销等功能。该项目强调安全性和开放治理原则，为管理敏感数据提供开源解决方案。它通过提供详细的审核日志、密钥滚动和安全存储功能而脱颖而出，使其成为现代系统中管理机密的综合工具。]]></description>
-      <guid>https://t.me/hn_summary/86546</guid>
-      <pubDate>Fri, 26 Apr 2024 07:48:30 GMT</pubDate>
+      <title>[媒体]发表在《科学》杂志上的研究提供了强有力的证据，证明保护行动是[...]</title>
+      <link>https://t.me/hn_summary/86578</link>
+      <description><![CDATA[保护行动可有效扭转生物多样性丧失
+发表在《科学》杂志上的这项研究提供了强有力的证据，证明保护行动可以有效阻止和扭转生物多样性丧失，超过 44,000 个物种面临灭绝的风险。对 186 项研究的荟萃分析发现，保护区和入侵物种管理等保护干预措施在大多数情况下改善了生物多样性。即使干预措施没有成功，也可以为未来的努力获得宝贵的知识。该研究强调需要增加对自然保护的投资，因为全球国内生产总值高度依赖于自然。这些发现为生物多样性保护的未来带来了希望。]]></description>
+      <guid>https://t.me/hn_summary/86578</guid>
+      <pubDate>Fri, 26 Apr 2024 14:42:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]俄罗斯否决联合国决议</title>
-      <link>https://t.me/hn_summary/86545</link>
-      <description><![CDATA[俄罗斯否决了联合国关于太空核武器的决议&lt; br /&gt;
-俄罗斯否决了一项旨在防止在太空部署核武器的联合国决议，引发了美国和日本的争议和失望。该决议的出台是由于有报道称俄罗斯正在研发反卫星核武器，但俄罗斯对此予以否认。美国大使强调了这种武器的危险，而俄罗斯则认为该决议是美国和日本的把戏。俄罗斯和中国提出了禁止所有太空武器的修正案，但遭到拒绝。白宫批评俄罗斯的否决，质疑他们的意图。这一结果让美国和日本感到失望，并寻求重建信任。]]></description>
-      <guid>https://t.me/hn_summary/86545</guid>
-      <pubDate>Fri, 26 Apr 2024 07:47:26 GMT</pubDate>
+      <title>汽车保险费率不断上涨，而事实证明汽车正在暗中监视人们[...]</title>
+      <link>https://t.me/hn_summary/86577</link>
+      <description><![CDATA[汽车在秘密监视人们，导致汽车保险费率飙升
+汽车保险费率正在上涨，事实证明，汽车在秘密监视人们，收集数据，然后出售给保险公司。通用汽车一直面临来自客户的联邦诉讼，这些客户在不知情的情况下被跟踪，并因此提高了保险费率。这个行业缺乏透明度和监督，令人担忧，消费者在不知情的情况下受到监控，数据被出售给可疑的经纪人。尽管丑闻频发，但隐私法和监管的缺乏让这些做法继续不受制止。这个故事揭示了汽车行业监控和数据收集令人担忧的现实。]]></description>
+      <guid>https://t.me/hn_summary/86577</guid>
+      <pubDate>Fri, 26 Apr 2024 14:41:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《雄心的礼物》探讨了雄心在工作场所的重要性，挑战 [...]</title>
-      <link>https://t.me/hn_summary/86544</link>
-      <description><![CDATA[野心的礼物
-《野心的礼物》探讨了野心在工作场所的重要性，挑战了平静舒适的工作环境是最终目标的观念。作者认为，真正的野心包括承担风险、接受挑战以及超越舒适的范围。虽然像埃隆·马斯克这样的人物通常被认为雄心勃勃，但作者相信，雄心勃勃的目标可以在不粗暴或苛求的情况下实现。关键是要信任熟练的专业人士，接受限制，并为遥不可及的目标而奋斗。归根结底，雄心壮志就是信仰的飞跃，相信人类创造力的力量。]]></description>
-      <guid>https://t.me/hn_summary/86544</guid>
-      <pubDate>Fri, 26 Apr 2024 07:46:21 GMT</pubDate>
+      <title>【媒体】Florp Twitter 账户因违反 Twitter 政策而被暂停。</title>
+      <link>https://t.me/hn_summary/86576</link>
+      <description><![CDATA[Floorp Twitter 帐户已暂停
+Floorp Twitter 帐户因违反 Twitter 政策而被暂停。该帐户因其有争议且经常引起分歧的内容而闻名，引发了其追随者之间的辩论和讨论。虽然有些人认为该帐户是娱乐和幽默的来源，但其他人则认为其内容令人反感且不恰当。此次停职让许多人对弗洛普在社交媒体上的未来以及审查制度对言论自由的影响感到好奇。请继续关注这个发展故事的更新。]]></description>
+      <guid>https://t.me/hn_summary/86576</guid>
+      <pubDate>Fri, 26 Apr 2024 14:40:43 GMT</pubDate>
     </item>
     <item>
-      <title>哲学是一门艺术探讨了一个具有争议性的想法，即哲学理论更像是 [...]</title>
-      <link>https://t.me/hn_summary/86543</link>
-      <description><![CDATA[哲学是一门艺术
-《哲学是一门艺术》探讨了一个具有争议性的观点，即哲学理论更像是好故事，而不是科学解释。英国哲学界的关键人物玛格丽特·麦克唐纳挑战了传统的哲学类似科学的观点，并主张采取更具文学性和艺术性的方法。她认为，哲学辩论常常归结为气质差异和个人价值观，而不是客观证据。通过语言分析，麦克唐纳表明哲学理论不能像科学理论那样被检验，而是提供表达熟悉事实的新方法。这种独特的哲学视角提出了关于哲学探究的本质和价值的问题。 （根据 57% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86543</guid>
-      <pubDate>Fri, 26 Apr 2024 07:45:17 GMT</pubDate>
+      <title>[媒体] 2024 年，信息检索的格局正在发生巨大变化。</title>
+      <link>https://t.me/hn_summary/86575</link>
+      <description><![CDATA[2024 年我的搜索方式
+2024 年，信息检索的格局将发生巨大变化。老牌公司正在倒闭，社交媒体正在消亡，谷歌充斥着广告和 SEO 操纵。然而，一波新的独立搜索引擎正在涌现，它们配备了人工智能，随时准备提供高质量的结果。Kagi 就是这样一个引擎，它曾面临争议，但提供了出色的搜索结果和亲用户的商业模式。Marginalia 由一个人在他的公寓里经营，专注于非商业内容，并提供对互联网知识的深入研究。Perplexity 是一种新的 LLM 工具，对于技术搜索和总结复杂的论文出奇地好。搜索的未来是针对特定任务的，大搜索时代即将结束。]]></description>
+      <guid>https://t.me/hn_summary/86575</guid>
+      <pubDate>Fri, 26 Apr 2024 14:39:40 GMT</pubDate>
     </item>
     <item>
-      <title>wadetregaskis.com 上内容的作者对多显示器 SE 表示失望 [...]</title>
-      <link>https://t.me/hn_summary/86542</link>
-      <description><![CDATA[Mac 上的多个显示器很糟糕
-wadetregaskis.com 上内容的作者对多方面表示失望- Mac 上的显示设置，突出显示了各种问题，例如无法禁用 iMac Pro 上的内部显示屏、窗口管理困难以及人体工程学挑战。作者还讨论了可用显示器的局限性以及管理多个屏幕的不便。尽管尝试优化设置以提高工作效率，但作者得出的结论是，Mac 操作系统在多显示器功能方面仍然存在问题，导致体验不太理想。]]></description>
-      <guid>https://t.me/hn_summary/86542</guid>
-      <pubDate>Fri, 26 Apr 2024 07:44:13 GMT</pubDate>
+      <title>[媒体] 本文作者对 Ubuntu 24.04 LTS 极为失望，因为 [...]</title>
+      <link>https://t.me/hn_summary/86574</link>
+      <description><![CDATA[我对 Ubuntu 24.04 非常失望
+本文作者对 Ubuntu 24.04 LTS 非常失望，因为它故意取消了使用官方应用商店安装 deb 文件的功能。 Ubuntu 的母公司 Canonical 似乎正在将他们的“通用打包格式”Snaps 推向 Debian 的 deb 软件包。这一变化让用户感到沮丧，尤其是那些寻求用户友好体验的 Linux 新手。作者批评Canonical无视用户反馈，故意让deb包安装变得困难，最终质疑该公司提供积极用户体验的承诺。]]></description>
+      <guid>https://t.me/hn_summary/86574</guid>
+      <pubDate>Fri, 26 Apr 2024 14:38:35 GMT</pubDate>
     </item>
     <item>
-      <title>作者讲述了曾经被视为无密码自动驾驶的未来的密钥的兴衰 [...]</title>
-      <link>https://t.me/hn_summary/86541</link>
-      <description><![CDATA[万能钥匙：破碎的梦想
-作者讲述了曾被视为无密码身份验证未来的密钥的兴衰。密码最初是带着乐观和潜力开发的，但由于企业利益和技术限制而面临挑战。争议源于排除安全密钥和推动平台控制的密钥存储，导致用户沮丧和失去信任。作者最终建议不要使用密钥，并建议使用密码管理器。尽管做出了最初的承诺，但万能钥匙可能无法获得广泛的接受，甚至像作者的合作伙伴这样精通技术的用户也会选择恢复密码。]]></description>
-      <guid>https://t.me/hn_summary/86541</guid>
-      <pubDate>Fri, 26 Apr 2024 07:19:02 GMT</pubDate>
+      <title>巴拉吉·斯里尼瓦桑 (Balaji Srinivasan) 呼吁科技“退出民主”并控制地方政府 [...]</title>
+      <link>https://t.me/hn_summary/86573</link>
+      <description><![CDATA[Balaji Srinivasan 呼吁科技“退出民主”并夺取地方政府
+巴拉吉·斯里尼瓦桑（Balaji Srinivasan）呼吁科技“退出民主”并控制地方政府，并提议建立一个科技治理的城市，忠于科技公司的公民组成一个名为“灰人”的新政治部落。这个有争议的想法涉及公民穿着印有比特币或埃隆·马斯克等标志的灰色T恤，获得特殊的身份证以独家进入灰色控制的城市区域，并通过资助每周的“警察宴会”与警方结成联盟。斯里尼瓦桑认为，拥抱警察并将他们纳入科技公司的安全部门对于这一运动的成功至关重要。]]></description>
+      <guid>https://t.me/hn_summary/86573</guid>
+      <pubDate>Fri, 26 Apr 2024 14:37:30 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出人工智能婴儿睡眠教练 Layla，旨在帮助疲惫的父母获得急需的休息。</title>
-      <link>https://t.me/hn_summary/86540</link>
-      <description><![CDATA[展示 HN：Layla – 为疲惫父母提供的人工智能婴儿睡眠教练
-隆重推出人工智能婴儿睡眠教练 Layla，旨在帮助疲惫的父母获得急需的休息。有了 Layla，您可以随时取消计划并继续与她聊天直到月底。另外，您可以通过发送最多 50 条消息来免费试用 Layla。告别不眠之夜，迎接一个休息良好的家庭，Layla 就在您身边。请访问 sleepcoachlayla.netlify.app 了解更多信息。]]></description>
-      <guid>https://t.me/hn_summary/86540</guid>
-      <pubDate>Fri, 26 Apr 2024 06:26:40 GMT</pubDate>
+      <title>Google 对 YouTube 上新的“暂停广告”所取得的积极成果感到兴奋，这些广告正在 [...]</title>
+      <link>https://t.me/hn_summary/86572</link>
+      <description><![CDATA[Google 对 YouTube 上展示广告的新方式感到非常兴奋
+Google 对其在 YouTube 上推出的新“暂停广告”的积极效果感到兴奋，该广告正在智能电视上进行测试。尽管用户对平台上当前的广告不满意，但 Google 对这些非中断广告的潜力持乐观态度。该公司认为，暂停广告正在推动强大的品牌提升效果，并要求广告商提供高价。虽然更广泛推出的时间表尚不清楚，但 YouTube 用户可能很快就会在视频播放过程中看到这些广告。请继续关注有关这种创新广告格式的更多更新。]]></description>
+      <guid>https://t.me/hn_summary/86572</guid>
+      <pubDate>Fri, 26 Apr 2024 14:36:26 GMT</pubDate>
     </item>
     <item>
-      <title>Pont 是一个项目模板生成器和加载器，允许用户创建模板并加载[...]</title>
-      <link>https://t.me/hn_summary/86539</link>
-      <description><![CDATA[显示 HN：我制作了一个项目模板生成器/加载器
-Pont 是一个项目模板生成器和加载器，允许用户创建模板并从 Git 存储库或本地目录加载它们。它可用于快速生成项目模板并从这些模板构建项目。 Pont 的独特之处在于它简化了创建项目模板和加载它们的过程，使用户更容易启动新项目。它只能使用 Cargo 安装，并提供了一种用各种编程语言生成和构建项目的简单方法。]]></description>
-      <guid>https://t.me/hn_summary/86539</guid>
-      <pubDate>Fri, 26 Apr 2024 06:25:37 GMT</pubDate>
+      <title>三名妇女在新墨西哥州一家无证水疗中心接受流行的“吸血鬼面部护理”后感染了艾滋病毒，她们 [...]</title>
+      <link>https://t.me/hn_summary/86571</link>
+      <description><![CDATA[三名女性在未经许可的水疗中心因肮脏的“吸血鬼面部护理”而感染艾滋病毒&lt; /a&gt;
+三名妇女在新墨西哥州一家无证水疗中心接受流行的“吸血鬼面部护理”后感染了艾滋病毒，这是首次将整容手术与艾滋病毒爆发联系起来。水疗中心的环境令人震惊，包括未包​​装的注射器、未贴标签的血管和重复使用的设备。店主被指控并被判入狱。调查发现五起病例与水疗中心有关，感染密切相关。感染的严重程度各不相同，一名妇女因患有艾滋病定义的疾病而住院。由于客户记录不完整，调查面临挑战，凸显了识别新的艾滋病毒传播来源的重要性。]]></description>
+      <guid>https://t.me/hn_summary/86571</guid>
+      <pubDate>Fri, 26 Apr 2024 14:21:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
