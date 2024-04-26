@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>HN 摘要</title>
+    <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 25 Apr 2024 18:02:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 00:15:31 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Swan 是一个使用 FPGA 的轻量级语言模型执行环境，在 [...]</title>
-      <link>https://t.me/hn_summary/86432</link>
-      <description><![CDATA[Swan – 使用 FPGA 的轻量级语言模型执行环境 
-Swan 是一种使用 FPGA 的轻量级语言模型执行环境，以 C++ 实现，可使用高级综合 (HLS) 在通用 FPGA 上高效运行语言模型。它旨在为资源有限的边缘设备中的人工智能应用程序在 FPGA 上实现语言模型推理。 Swan支持常见的FPGA板卡，可扩展且易于定制，并考虑了语言模型的大小限制。它以其多功能性、可扩展性和轻量级架构而与众不同。该项目受 llama2.c 启发，在 Apache License 2.0 下发布，欢迎社区贡献。]]></description>
-      <guid>https://t.me/hn_summary/86432</guid>
-      <pubDate>Thu, 25 Apr 2024 18:02:59 GMT</pubDate>
+      <title>[媒体] Snowflake 正在推出 Snowflake Arctic 嵌入式模型系列，并将其开源 [...]</title>
+      <link>https://t.me/hn_summary/86503</link>
+      <description><![CDATA[Snowflake 推出用于检索用例的文本嵌入模型 
+Snowflake 正在推出 Snowflake Arctic 嵌入模型系列，并使用 Apache 2.0 许可证将其开源。这些模型提供了领先的检索性能，超过了 55.9 的平均检索性能，这一壮举通常是具有超过 10 亿个参数的模型才能实现的。该系列的五个模型可在 Hugging Face 上立即使用，并可在 Snowflake Cortex 嵌入功能中使用。 Snowflake 的模型优于以前最先进的模型，并且在质量和企业总拥有成本方面无与伦比。这些模型易于集成，并利用网络搜索的有效技术来实现令人印象深刻的性能。]]></description>
+      <guid>https://t.me/hn_summary/86503</guid>
+      <pubDate>Fri, 26 Apr 2024 00:15:31 GMT</pubDate>
     </item>
     <item>
-      <title>在一篇措辞严厉的博客文章中，Jeff Geerling 宣称企业开源已死，并指出 [...]</title>
-      <link>https://t.me/hn_summary/86431</link>
-      <description><![CDATA[Jeff Geerling：企业开源已死
-Jeff Geerling 在一篇措辞严厉的博客文章中宣称企业开源已死，并指出 HashiCorp、Redis、Red Hat 等公司最近放弃真正的开源原则，转而采用利润驱动的战略。 Geerling 强调了围绕 HashiCorp 转向“商业源码许可证”以及 IBM 以 64 亿美元收购该公司的争议。他强调维护真正的开源价值观的重要性，并警告不要为需要贡献者许可协议的项目做出贡献。尽管企业开源已经消亡，Geerling 仍然看到了小型开发团队在开源社区中产生积极影响的机会。]]></description>
-      <guid>https://t.me/hn_summary/86431</guid>
-      <pubDate>Thu, 25 Apr 2024 17:57:54 GMT</pubDate>
+      <title>[媒体] 在我的上一篇文章中，我，爱德华·佩雷斯 (Edward Perez)，Twitter 前公民诚信总监，分享了 [...]</title>
+      <link>https://t.me/hn_summary/86502</link>
+      <description><![CDATA[“我的上一篇文章”：Edward Perez，前公民总监Twitter 的诚信
+在我的上一篇文章中，我，Twitter 前公民诚信总监爱德华·佩雷斯 (Edward Perez)，分享了我对围绕社交媒体平台的挑战和争议的看法。我讨论了科技行业中透明度、问责制和道德决策的重要性。我还强调需要加强监管和监督，以解决错误信息、仇恨言论和政治操纵等问题。与我一起参与这个富有洞察力的讨论，我们将探索在线交流的复杂格局。]]></description>
+      <guid>https://t.me/hn_summary/86502</guid>
+      <pubDate>Fri, 26 Apr 2024 00:05:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] FCC 以 3 比 2 投票决定恢复网络中立性规则，禁止封锁和节流 [...]</title>
-      <link>https://t.me/hn_summary/86430</link>
-      <description><![CDATA[FCC 在 3-2 年内恢复禁止阻止和限制的网络中立性规则投票
-FCC 以 3 比 2 投票决定恢复网络中立规则，禁止屏蔽和限制合法内容。互联网服务提供商计划在法庭上反对这些规则，声称他们已经遵循网络中立原则。游说团体认为，这些规则阻碍了宽带部署，并威胁到缩小数字鸿沟的进展。法庭之争将集中于联邦通信委员会是否可以将宽带定义为电信服务。 FCC 专员斯塔克斯为这一决定辩护，称其符合过去的做法和 1996 年《电信法》。争议在于关于这些恢复规定的必要性和影响的持续争论。]]></description>
-      <guid>https://t.me/hn_summary/86430</guid>
-      <pubDate>Thu, 25 Apr 2024 17:56:49 GMT</pubDate>
+      <title>微软宣布了截至 2024 年 3 月 31 日的季度令人印象深刻的业绩，展示了 [...]</title>
+      <link>https://t.me/hn_summary/86501</link>
+      <description><![CDATA[微软公布截至 3 月 31 日的季度业绩
+微软公布了截至 2024 年 3 月 31 日的季度业绩，收入、营业收入和净利润均显着增长。在强大的销售团队执行力的推动下，该公司的云收入飙升至 351 亿美元，同比增长 23%。 Microsoft 通过 Copilot 和 Copilot 堆栈专注于人工智能转型，正在彻底改变业务成果。令人惊讶的是，Xbox 内容和服务收入增长了 62%，这主要归功于动视暴雪的收购。该公司还强调其对环境、社会和治理 (ESG) 举措的承诺。然而，微软在其前瞻性声明中承认潜在的风险和不确定性，包括激烈的竞争和网络安全威胁。 （根据 59% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86501</guid>
+      <pubDate>Thu, 25 Apr 2024 23:51:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我们的研究介绍了 CatLIP，这是一种通过 [...] 提高剪辑视觉准确性的新颖方法</title>
-      <link>https://t.me/hn_summary/86429</link>
-      <description><![CDATA[CatLIP：剪辑视觉精度提高 2.7 倍，网络预训练速度提高 2.7 倍-规模数据
-我们的研究引入了 CatLIP，这是一种通过利用网络规模数据进行预训练来提高剪辑视觉准确性的新颖方法。通过利用来自网络的大量不同数据，CatLIP 的预训练速度比现有方法快 2.7 倍。这种创新技术不仅提高了准确性，而且显着减少了预训练所需的时间。借助 CatLIP，我们正在突破剪辑视觉技术的界限，并为未来更高效、更有效的模型铺平道路。探索我们在 arxiv.org 上的发现，以更深入地了解这一突破性的成果方法。]]></description>
-      <guid>https://t.me/hn_summary/86429</guid>
-      <pubDate>Thu, 25 Apr 2024 17:55:45 GMT</pubDate>
+      <title>[媒体]墨尔本大学研究员 Dr.</title>
+      <link>https://t.me/hn_summary/86500</link>
+      <description><![CDATA[相同物种，不同大小：岛屿蝙蝠中发现的罕见进化
+墨尔本大学研究人员蒂龙·拉弗里博士取得了一项突破性的发现，观察到生活在所罗门群岛的蝙蝠中罕见的平行进化。两组叶鼻蝙蝠由于体型差异巨大，之前被认为是不同的物种，但实际上是同一物种，正在快速进化。尽管生活在一起，蝙蝠不会杂交，体型较大的蝙蝠会进化来捕食更大的猎物。这种现象在哺乳动物中很少见，突显了孤立岛屿种群中可能发生的独特进化过程。研究结果强调了保护这些非凡生态系统的重要性。]]></description>
+      <guid>https://t.me/hn_summary/86500</guid>
+      <pubDate>Thu, 25 Apr 2024 23:44:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Hive 是一个人工智能开源市场，旨在促进透明度、创新 [...]</title>
-      <link>https://t.me/hn_summary/86428</link>
-      <description><![CDATA[显示 HN：Hive – 人工智能开源市场
-Hive 是一个人工智能开源市场，旨在促进人工智能社区的透明度、创新和利润分享。通过研究中心、模型中心和代理中心，人工智能研究人员可以获得工作资助，机器学习工程师可以基于研究构建模型并发布它们，代理构建者可以开发使用模型并支付模型费用的代理。这种独特的方法创造了飞轮效应，推动社区内的协作和发展。加入我们 hivenetwork.ai，成为这一突破性计划的一部分.]]></description>
-      <guid>https://t.me/hn_summary/86428</guid>
-      <pubDate>Thu, 25 Apr 2024 17:54:40 GMT</pubDate>
+      <title>[媒体] AG 意见 (C-446/21) 已发布，强调 Facebook 需要“m [...]</title>
+      <link>https://t.me/hn_summary/86499</link>
+      <description><![CDATA[Facebook 必须“尽量减少”在欧盟投放广告的个人数据
+AG 意见 (C-446/21) 已发布，强调 Facebook 有必要“最小化”在欧盟投放广告的个人数据。 Meta 将收集到的所有数据用于广告的做法可以追溯到 2004 年，这违反了 GDPR 的数据最小化原则。涉及 Max Schrems 和 Meta Ireland Platforms Limited 的案件引发了有关数据抓取限制和将敏感数据用于广告目的的问题。本案中法律的解释可能会对网络隐私和言论自由产生重大影响。此案的结果将决定欧盟如何使用个人数据进行定向广告。]]></description>
+      <guid>https://t.me/hn_summary/86499</guid>
+      <pubDate>Thu, 25 Apr 2024 23:04:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] DDC OLED：如何从 HDMI 端口驱动微型显示器。</title>
-      <link>https://t.me/hn_summary/86427</link>
-      <description><![CDATA[DDC OLED：如何从 HDMI 端口驱动微型显示器。 （2022）
-在对一个毫无意义的项目的异想天开的追求中，作者成功地使用 DDC 协议将微型 OLED 显示器直接连接到 HDMI 端口。该过程涉及焊接、访问 Linux 上的 i2c 设备以及使用 Python 脚本将数据发送到显示器。令人惊讶的是，作者实现了每秒5-10帧的刷新率，突破了DDC协议的极限。为了将显示器转变为监视器，作者解决了 xrandr 和虚拟帧缓冲区的复杂性。这个非常规的实验无需额外的硬件即可实现正常运行的显示器，展示了作者的独创性和决心。 （根据故事文本的 57% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86427</guid>
-      <pubDate>Thu, 25 Apr 2024 17:52:35 GMT</pubDate>
+      <title>[媒体]微软与 IBM 合作，发布了 MS-DOS 4.00 和 [...]</title>
+      <link>https://t.me/hn_summary/86498</link>
+      <description><![CDATA[开源 MS-DOS 4.0
+Microsoft 与 IBM 合作，在 MIT 许可证下发布了 MS-DOS 4.00 的源代码，这标志着操作系统历史上的一个重要时刻。此版本包括研究员 Connor“Starfrost”Hyde 发现的未发布的 DOS 4.0 测试版二进制文件，揭示了 DOS 4、MT-DOS 和 OS/2 之间的关系。 Scott Hanselman 和 Jeff Sponaugle 对“Ozzie Drop”的原始磁盘和印刷文档进行了仔细成像和扫描。虽然 MT-DOS 的完整源代码仍然难以捉摸，但 MS-DOS 4.00 以及其他测试版二进制文件和文档现在可供探索。]]></description>
+      <guid>https://t.me/hn_summary/86498</guid>
+      <pubDate>Thu, 25 Apr 2024 23:03:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“Not A N and-powered Device”项目是一台由 NAND 门和 [...]</title>
-      <link>https://t.me/hn_summary/86426</link>
-      <description><![CDATA[Show HN：我用 NAND 门制作了一台可编程计算机
-“Not A N and-powered Device”项目是一台由网络上模拟的 NAND 门制成的 16 位计算机，具有自己的 CPU、机器代码语言、汇编语言等。它是基于Jack-VM-Hack平台的从Nand到Tetris的课程。该项目包括 Average、Pong 和 2048 等示例程序，以及 Overflow 和 GeneticAlgorithm 等独特程序。作者强调了为解决硬件限制而做出的技术挑战和优化，使该项目在其他项目中脱颖而出。该项目还提供了有关用 Jack 语言编写 NAND 程序的详细文档。 （根据故事文本的 19% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86426</guid>
-      <pubDate>Thu, 25 Apr 2024 17:46:29 GMT</pubDate>
+      <title>[媒体]在微服务领域，授权等共享功能可能是一个挑战 [...]</title>
+      <link>https://t.me/hn_summary/86497</link>
+      <description><![CDATA[分布式 SQL 查询的逻辑语言
+在微服务领域，授权等共享功能对于干净地实施可能是一个挑战。授权逻辑经常变得混乱，域之间的界限变得模糊，并且需要服务之间的数据同步。为了解决这个问题，我们创建了 Polar，一种用于表达授权的逻辑语言，可以在多个数据存储上运行。通过使用 Polar，团队可以构建具有共享和特定于域的逻辑的授权模型，从而以最小的开销实现更无缝的集成。这种方法称为分布式授权，它加深了应用程序和服务之间的界限，使得在分布式环境中管理授权变得更加容易。 （根据故事文本的 26% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86497</guid>
+      <pubDate>Thu, 25 Apr 2024 22:50:39 GMT</pubDate>
     </item>
     <item>
-      <title>一组行星科学家发表了支持第 9 号行星存在的新证据 [...]</title>
-      <link>https://t.me/hn_summary/86425</link>
-      <description><![CDATA[发现行星 9 的新证据
-一组行星科学家发表了支持第 9 号行星存在的新证据，这是一颗位于海王星轨道之外的假想行星。通过计算机模拟和跟踪长周期物体的运动，他们发现这些物体的不规则行为可以用一颗遥远的大行星的引力来解释。虽然模拟没有确定行星的位置，但研究人员认为这是最合理的解释。该团队承认还有其他可能的因素在起作用，但表示它们的可能性较小。即将建成的智利维拉鲁宾天文台预计将为寻找第九行星提供进一步的证据。]]></description>
-      <guid>https://t.me/hn_summary/86425</guid>
-      <pubDate>Thu, 25 Apr 2024 17:44:24 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/86496</link>
+      <description><![CDATA[美国“了解你的客户”提案将杜绝匿名云用户
+美国商务部为云服务提供商提出了“了解你的客户”制度，以打击外国恶意网络活动。该提案旨在要求基础设施即服务提供商收集客户身份信息，包括姓名、地址、付款详细信息和 IP 地址。 IaaS 的范围很广泛，涵盖虚拟专用服务器、代理和域名解析服务等服务。虽然该提案针对的是外部威胁，但它引起了人们对隐私和个人信息泄露的可能性的担忧。这项有争议的提案将于 2024 年 4 月 30 日之前开放征求意见，这对普通公民和大型云服务提供商都会产生影响。]]></description>
+      <guid>https://t.me/hn_summary/86496</guid>
+      <pubDate>Thu, 25 Apr 2024 22:33:30 GMT</pubDate>
     </item>
     <item>
-      <title>联邦贸易委员会认为，对于有价值的员工来说，竞业禁止协议是不必要的，因为贸易 [...]</title>
-      <link>https://t.me/hn_summary/86424</link>
-      <description><![CDATA[竞业禁止协议的结束是一场科技工作地震
-联邦贸易委员会认为，对于有价值的员工来说，竞业禁止协议是不必要的，因为商业秘密法和保密协议已经保护敏感信息。 FTC 主席 Lina M. Khan 认为，禁止竞业禁止将带来更多初创企业和经济活力。尽管一些企业可能会对这一裁决感到不安，但竞业禁止长期以来一直因限制工作流动性和创新而受到批评。竞业禁止的结束可能会导致科技就业市场发生翻天覆地的变化，让工人能够自由地寻求更好的机会，并有可能促进创业。围绕这一问题的争议凸显了保护企业和赋予工人权力之间的紧张关系。]]></description>
-      <guid>https://t.me/hn_summary/86424</guid>
-      <pubDate>Thu, 25 Apr 2024 17:43:20 GMT</pubDate>
+      <title>[媒体]2025款丰田凯美瑞是一款不断变得更好的“无聊”汽车的缩影。</title>
+      <link>https://t.me/hn_summary/86495</link>
+      <description><![CDATA[2025 丰田凯美瑞首次驾驶评论：最好的“无聊”汽车保持变得更好
+2025 款丰田凯美瑞是一款不断变得更好的“无聊”汽车的缩影。尽管享有盛誉，但凯美瑞始终是那些寻求普通日常用车的人的可靠选择。新款混合动力车型提供了更精致的驾驶体验，摆脱了“无聊”的标签，并被证明是一种有趣且高效的选择。青色漆面的添加增添了活泼的触感，而内饰升级和改进的操控性使凯美瑞在同级车中脱颖而出。凭借令人印象深刻的燃油经济性以及性能和效率的平衡，2025 款凯美瑞在与其他混合动力产品的竞争中表现出色。]]></description>
+      <guid>https://t.me/hn_summary/86495</guid>
+      <pubDate>Thu, 25 Apr 2024 22:29:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]41,000年前，由于微弱的磁场，地球经历了宇宙射线的猛烈轰击，[...]</title>
-      <link>https://t.me/hn_summary/86423</link>
-      <description><![CDATA[由于弱磁，地球在 41,000 年前遭到宇宙射线的撞击字段
-41,000 年前，由于拉尚旅行期间磁场较弱，地球经历了一次宇宙射线的猛烈轰击。科学家桑贾·帕诺夫斯卡（Sanja Panovska）研究了这一事件期间地球磁层强度与宇宙成因放射性核素浓度之间的关系，发现铍 10 的平均生产率翻了一番。这表明磁层强度非常低，允许更多的宇宙射线到达地球大气层。帕诺夫斯卡在此事件期间对地球磁层的重建揭示了宇宙射线轰击的影响。这项研究已在 2024 年欧洲地球科学联盟大会上发表。]]></description>
-      <guid>https://t.me/hn_summary/86423</guid>
-      <pubDate>Thu, 25 Apr 2024 17:41:14 GMT</pubDate>
+      <title>React 19 Beta 现已可供图书馆使用，为即将发布的版本做好准备。</title>
+      <link>https://t.me/hn_summary/86494</link>
+      <description><![CDATA[React 19 Beta
+React 19 Beta 现已可供图书馆使用，为即将发布的版本做好准备。建议应用开发者升级到18.3.0并等待React 19稳定。 React 19 中的新功能包括操作，它简化了数据突变和状态更新，并引入了异步转换来自动处理挂起状态、错误和乐观更新。在转换中使用异步函数可以在数据更改时提供更具响应性和交互性的 UI。此外，React 19 引入了 useActionState、useOptimistic 和 useFormStatus 等新钩子来简化常见操作和表单处理。 use API 允许在渲染中读取资源，并支持承诺和上下文。 （根据 34% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86494</guid>
+      <pubDate>Thu, 25 Apr 2024 22:21:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

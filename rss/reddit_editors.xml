@@ -4,25 +4,32 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 25 Apr 2024 21:06:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 00:18:01 GMT</lastBuildDate>
     <item>
-      <title>我应该学习 Blender 还是 Unreal Engine 来进行摄像？</title>
+      <title>Lacie 硬盘兼容性</title>
+      <link>https://www.reddit.com/r/editors/comments/1cd5ukc/lacie_hard_drive_compatibility/</link>
+      <description><![CDATA[我管理一个使用 8TB Lacie 4Big Quadra 硬盘阵列（具有 USB2 和 FireWire 800 的版本）的后期制作系统。驱动器出现故障并一直在考虑更换磁盘。  这个编辑区不是最新最好的，我找到了 Lacie 的兼容性列表，其中涵盖了广泛的产品范围，但它没有列出此特定型号（我手头没有型号。） 如果有人可以确认此列表也适用于我的模型，这将有很大帮助。更糟糕的是找到 4 个相同的 SATA II 年份/供应商/型号  ​ TIA   由   提交/u/ABS_Newsie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cd5ukc/lacie_hard_drive_compatibility/</guid>
+      <pubDate>Thu, 25 Apr 2024 23:14:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>MiniDV 转 i​​Phone 15 Pro？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cd562o/minidv_to_iphone_15_pro/</link>
+      <description><![CDATA[我一直在搜索，但我找到的方法似乎有点旧，但想看看是否有更快的解决方法。基本上，我希望能够将 miniDV 素材传输到我的 iPhone 15 pro，并在 Capcut 上进行编辑。不确定是否存在 MINiDV 转 USB-C 电缆，我也许可以通过另一个应用程序进行屏幕录制。如果没有，我有一台 MacBook Pro，但没有 USB-C。 （MacBook Pro（视网膜，15 英寸，2015 年中））任何帮助将不胜感激！    由   提交/u/eulin87  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cd562o/minidv_to_iphone_15_pro/</guid>
+      <pubDate>Thu, 25 Apr 2024 22:46:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该学习 Blender 还是 Unreal Engine 进行摄像？</title>
       <link>https://www.reddit.com/r/editors/comments/1cd2qrn/should_i_learn_blender_or_unreal_engine_for/</link>
       <description><![CDATA[我主要为公司工作做视频工作。我大约 60% 的视频都是以单口喜剧形式拍摄的，演员背后有投影仪屏幕，这样我们就可以让每个视频看起来都不同。另外 40% 是在不同商店地点进行现场拍摄的。 我希望建立一套技能，将我们的单口相声人才运用到虚拟环境中，或者在外景拍摄中添加元素。 Unreal 和 Blender 似乎都有视频编辑器可以利用的强大功能，但我似乎无法弄清楚它们各自比另一个更好，除了意识到 Unreal 是人们正在使用的视频游戏引擎在他们的视频作品中也是如此。   由   提交 /u/ucrbuffalo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cd2qrn/should_i_learn_blender_or_unreal_engine_for/</guid>
       <pubDate>Thu, 25 Apr 2024 21:04:37 GMT</pubDate>
     </item>
     <item>
-      <title>嘿，有人订阅 envato 吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cd1dif/hey_does_anyone_have_a_envato_subscription/</link>
-      <description><![CDATA[我需要一些帮助   由   提交 /u/ExplorerIndia   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cd1dif/hey_does_anyone_have_a_envato_subscription/</guid>
-      <pubDate>Thu, 25 Apr 2024 20:12:52 GMT</pubDate>
-    </item>
-    <item>
       <title>PSA - 不要使用快门编码器进行转码</title>
       <link>https://www.reddit.com/r/editors/comments/1cd11yi/psa_dont_use_shutter_encoder_for_transcoding/</link>
-      <description><![CDATA[我一直在寻找编辑速度和文件大小之间的良好平衡。我不想管理每个项目的代理，并希望所有十个编辑都正确使用它们。 LongGOP 显然很难编辑。相机的原生 Intra 格式也好不了多少。 ProResLT 比最轻的 Intra 相机格式要小一点，并且编辑效果就像黄油一样，我认为这是一个很好的解决方案。我偶然发现了 Shutter Encoder，并且非常喜欢它的快速/易用性。 我开始将我们拍摄的所有内容转码为 ProResLT。这工作得非常好，编辑速度也很棒，除了一个问题……任何具有任何渐变的东西上都会出现可怕的条带。我确实遇到了完整级别与合法级别的问题，但找到了正确的按钮来解决这个问题。它有一点帮助，但条带绝对是残暴的。 我很长一段时间都没有怀疑快门编码器是问题所在，我只是假设这是一个 ProResLT 问题，我半愿意生活与 - 如果我们用浓重的渐变背景拍摄采访，我只会使用代理。但我找到了一点空闲时间并做了适当的测试。我在 Canon C70 上以 LongGOP、Intra240、Intra410 和 Intra410 拍摄了相同的设置。 HEVC。我通过 Shutter Encoder 和 Adob​​e Media Encoder 运行这些文件。然后我对所有东西应用了相同的颜色校正。毫不奇怪，原始相机文件在任何格式下都没有超重的条带，并且快门编码器有非常讨厌的条带。然而，AME 文件看起来好多了。仍然有一点条带，但没有快门编码器文件那么糟糕。 Intra 文件 maaaybe 的转码看起来比转码的 LongGOP 好一点，但差异非常小。 有趣的是，每个程序的文件大小差异很大。这两个文件夹都包含完整的转码剪辑 - Shutter Encoder 文件夹为 607MB，AME 为 1.27GB。文件大小的两倍。奇怪。 如果您好奇，可以在此处查看 PNG 剧照。还应该注意的是，我的渐变效果比 Shutter Encoder 的测试还要糟糕。 编辑以添加 TLDR：Shutter Encoder 转码到 ProResLT 有大量条带，在 Adob​​e Media 中转码的相同文件编码器没有。    由   提交/u/Deputy-Dewey   [链接] [评论]]]></description>
+      <description><![CDATA[我一直在寻找编辑速度和文件大小之间的良好平衡。我不想管理每个项目的代理，并希望所有十个编辑都正确使用它们。 LongGOP 显然很难编辑。相机的原生 Intra 格式也好不了多少。 ProResLT 比最轻的 Intra 相机格式要小一点，并且编辑效果就像黄油一样，我认为这是一个很好的解决方案。我偶然发现了 Shutter Encoder，并且非常喜欢它的快速/易用性。 我开始将我们拍摄的所有内容转码为 ProResLT。这工作得非常好，编辑速度也很棒，除了一个问题……任何具有任何渐变的东西上都会出现可怕的条带。我确实遇到了完整级别与合法级别的问题，但找到了正确的按钮来解决这个问题。它有一点帮助，但条带绝对是残暴的。 我很长一段时间都没有怀疑快门编码器是问题所在，我只是假设这是一个 ProResLT 问题，我半愿意生活与 - 如果我们用浓重的渐变背景拍摄采访，我只会使用代理。但我找到了一点空闲时间并做了适当的测试。我在 Canon C70 上以 LongGOP、Intra240、Intra410 和 Intra410 拍摄了相同的设置。 HEVC。我通过 Shutter Encoder 和 Adob​​e Media Encoder 运行这些文件。然后我对所有东西应用了相同的颜色校正。毫不奇怪，原始相机文件在任何格式下都没有超重的条带，并且快门编码器有非常讨厌的条带。然而，AME 文件看起来好多了。仍然有一点点条带，但没有快门编码器文件那么糟糕。 Intra 文件 maaaybe 的转码看起来比转码的 LongGOP 好一点，但差异非常小。 有趣的是，每个程序的文件大小差异很大。这两个文件夹都包含完整的转码剪辑 - Shutter Encoder 文件夹为 607MB，AME 为 1.27GB。文件大小的两倍。奇怪。 如果您好奇，可以在此处查看 PNG 剧照。还应该注意的是，我的渐变效果比 Shutter Encoder 的测试还要糟糕。 编辑以添加 TLDR：Shutter Encoder 转码到 ProResLT 有大量条带，在 Adob​​e Media 中转码的相同文件编码器没有。    由   提交/u/Deputy-Dewey   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cd11yi/psa_dont_use_shutter_encoder_for_transcoding/</guid>
       <pubDate>Thu, 25 Apr 2024 20:00:58 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>英国 MCR 运营商价目表？</title>
       <link>https://www.reddit.com/r/editors/comments/1ccvwsq/mcr_operator_rate_card_uk/</link>
-      <description><![CDATA[您好，我非常幸运，我的工作单位同意延长我的合同，为期一年，未来还可以再次延长。 这是我第一次正式从事 MCR（编辑助理）工作，我可以学习电视方面的正确工作流程。以前我会自己做公司的事情。 有一个问题是，我不知道平均年薪是多少？我查了 bectu 费率表，但似乎不存在。 一个好的大概数字是多少？还是完全取决于我个人的日常工作？ 谢谢    提交人    /u/skullknap   [链接] [评论]]]></description>
+      <description><![CDATA[您好，非常幸运的是，我与工作单位的合同获得了延期，未来还有再次延期的空间。 现在，这是我第一次真正的 MCR（编辑助理）工作，我可以在其中学习电视意义上的正确工作流程。在我自己做公司的事情之前。 一个问题是，我不知道平均年薪/薪水是多少？我检查了 bectu 价目表，它似乎不存在。 一个好的大概数字是多少？或者这完全取决于我个人每天做什么？ 谢谢   由   提交 /u/skullknap   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ccvwsq/mcr_operator_rate_card_uk/</guid>
       <pubDate>Thu, 25 Apr 2024 16:10:33 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>好的网站示例</title>
       <link>https://www.reddit.com/r/editors/comments/1ccpyr8/good_examples_of_websites/</link>
-      <description><![CDATA[我希望这不会违反广告规则，但我很想看看你们的一些专业网站（或其他编辑的网站）你认为都不错）。到目前为止，我刚刚使用 Vimeo 展示来展示我的作品，但我也在考虑组建一个网站，并且很想在布局/外观等方面获得一些想法和灵感。谢谢！   由   提交 /u/baguettemebitch   [链接] [评论]]]></description>
+      <description><![CDATA[我希望这不会违反广告规则，但我很想看看你们的一些专业网站（或其他编辑的网站）你认为都很好）。到目前为止，我刚刚使用 Vimeo 展示来展示我的作品，但我也在考虑组建一个网站，并且很想在布局/外观等方面获得一些想法和灵感。谢谢！   由   提交 /u/baguettemebitch   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ccpyr8/good_examples_of_websites/</guid>
       <pubDate>Thu, 25 Apr 2024 11:51:37 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我为一支乐队录制了现场多轨会话，该乐队也录制在视频中。在录制之前，我确保与视频具有相同的音频设置，即采样率 48 kHz 和位深度 16 位，但由于某种原因，当我在时间线上上传混合音轨与视频时，它稍微不同步。起初它似乎是同步的，但随着它的继续，您可以听到两个音频如何开始变得不同步。 我使用的是 CapCut，但 iMovie 甚至 Logic Pro 上也会发生这种情况. 知道是什么原因造成的吗？ Mac Studio 2022 M1 Max 内存 64 GB CapCut v3.7.0 格式 MP4 编解码器 时间码、AAC、HEVC 1920 × 1080 29.97 fps   由   提交/u/MDmixing  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cc7gdk/mixed_audio_track_not_syncing_the_video/</guid>
       <pubDate>Wed, 24 Apr 2024 19:39:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法下载并运行 avid 的第一个版本？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cc3o2w/is_there_a_way_to_download_and_run_one_of_the/</link>
-      <description><![CDATA[我很好奇，我在我母亲的硬盘中发现了一个 2004 年的旧项目，我尝试打开它，但它是空的。我很想下载并运行 Avid 的第一个版本，以透过我 2004 年母亲的眼睛来看看！ :) 有什么想法吗？感谢您的帮助！ Mac os Sonoma 2.6 GHz Intel Core i7 6 coeurs 16 Go 2667 MHz DDR4 AMD Radeon Pro 5300M 4 Go Intel UHD Graphics 630 1536 Mo &lt; !-- SC_ON --&gt;  由   提交/u/lil_bedigas  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cc3o2w/is_there_a_way_to_download_and_run_one_of_the/</guid>
-      <pubDate>Wed, 24 Apr 2024 17:09:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
