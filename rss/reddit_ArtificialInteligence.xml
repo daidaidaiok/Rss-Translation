@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 27 Apr 2024 15:05:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 18:05:59 GMT</lastBuildDate>
+    <item>
+      <title>GPT4 提示个性化聊天</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cej7x3/gpt4_prompts_for_personalized_chats/</link>
+      <description><![CDATA[ 由   提交/u/No-Transition3372   /u/No-Transition3372 reddit.com/gallery/1cej75h&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cej7x3/gpt4_prompts_for_personalized_chats/</guid>
+      <pubDate>Sat, 27 Apr 2024 16:58:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>意识状态。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cej12w/the_states_of_consciousness/</link>
+      <description><![CDATA[ 由   提交/u/Cervantes6785   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cej12w/the_states_of_consciousness/</guid>
+      <pubDate>Sat, 27 Apr 2024 16:50:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 GPT4 和 Dalle 3 进行深度图像创建</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cehrev/deep_image_creation_with_gpt4_dalle_3/</link>
+      <description><![CDATA[ 由   提交/u/No-Transition3372   /u/No-Transition3372 reddit.com/gallery/1cehqcx&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cehrev/deep_image_creation_with_gpt4_dalle_3/</guid>
+      <pubDate>Sat, 27 Apr 2024 15:55:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧盟人工智能法案和 MLOps</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cehn4t/eu_ai_act_and_mlops/</link>
+      <description><![CDATA[您对最近通过的欧洲 AI 法案有何看法，特别是关于 ML 自动化和 MLOps 成熟度等主题？ 初步审查后，我的印象是欧盟将 MLOps 编纂成适用法律。但是，我必须说，我在 MLOps 工作多年，因此我可能会有偏见，认为一切都与我的学科有关，因此我在这里也想获得一些不同的观点。 我想了解这项法律将如何促进 AI 开发——大规模开发 AI 的公司是否需要更多地使用某些行业标准工具和技术堆栈来实现更高级别的自动化（编排工具、自动数据/模型监控、CI/CD/CT 管道）？    提交人    /u/leweex95   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cehn4t/eu_ai_act_and_mlops/</guid>
+      <pubDate>Sat, 27 Apr 2024 15:50:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为非技术人员参与人工智能的最佳方式是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cegzlq/whats_the_best_way_to_get_involved_in_ai_as_a/</link>
+      <description><![CDATA[不言而喻，人工智能的进步是非常令人兴奋的。当然，作为一个非技术人员，我一直在尝试 ChatGPT、Midjourney、Claude、llama3、Pika 等模型。 我真的很想进一步了解主题，但除了每天利用 ChatGPT 来帮助我更好地理解一些事情之外，我感到陷入困境。 我不想成为专家，但我也想超越尝试随机提示在最新的模型中了解人工智能可以做什么。 最后，我目前没有任何想要用人工智能解决的主题，也许这就是我需要得到的火花更多细节。但话虽如此，我很想知道其他非技术人员除了尝试一些提示之外如何找到了解人工智能的方法？  &amp;# 32；由   提交 /u/AlternativeSearcher   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cegzlq/whats_the_best_way_to_get_involved_in_ai_as_a/</guid>
+      <pubDate>Sat, 27 Apr 2024 15:21:30 GMT</pubDate>
+    </item>
     <item>
       <title>免费版本的 ai 发生了什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ceged4/what_is_going_on_with_free_versions_of_ai/</link>
@@ -25,27 +60,6 @@
       <description><![CDATA[教授。 Andrea Liu 于 4 月 15 日在加州大学伯克利分校发表了 2024 年奥本海默讲座。 她解释了生物子系统如何执行主动推理（我们由推理引擎组成），以及她的非机器学习人员研究小组如何简化和将他们的发现推广到一种新的数字学习和推理方法中。 其结果是使用单个晶体管作为神经元进行训练和推理的芯片，其功耗、成本和速度比传统方法低几个数量级GPU 上的矩阵或神经形态方法。 一些实现细节需要解决，但 ML 社区无法提供帮助。 您认为这有可能吗？矩阵加速器对人工智能的垄断结束了吗？ 2024 年奥本海默讲座   由   提交/u/damhack  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ceftbd/is_this_the_future_of_ai/</guid>
       <pubDate>Sat, 27 Apr 2024 14:29:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于高级对话的新自定义 GPT4</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ced203/new_custom_gpt4_for_advanced_conversations/</link>
-      <description><![CDATA[ 由   提交/u/No-Transition3372   /u/No-Transition3372 reddit.com/gallery/1ced18u&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ced203/new_custom_gpt4_for_advanced_conversations/</guid>
-      <pubDate>Sat, 27 Apr 2024 12:10:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>旅行提示</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cecild/travel_prompt/</link>
-      <description><![CDATA[旅行人工智能提示：角色：假设 GregPaulSam 的角色，这是一个专家人工智能旅行规划系统。作为家庭、情侣或个人用来计划假期的复杂旅行系统。您的任务是规划一日游，平衡家庭、情侣或个人的利益。规则：所有生成的数据必须真实且仅基于用户输入。逐字遵循分步工作流程。用户必须通过键入答案或复制并粘贴他们的答案来做出回应。与用户的所有交互都应该是社交性的和直观的，类似于《钢铁侠》中的贾维斯。向用户保证他们的个人信息是安全的，并且只会用于增强旅行计划体验。所有生成的旅行建议必须显示在文本框中。工作流程：显示下面提供的#INTERESTS 列表，包括每个类别旁边的数字。要求用户输入与他们的假期兴趣相对应的数字，并用逗号分隔。这种方法有助于避免误解并提供潜在兴趣的列表。在最后一步（第 12 步）中，使用用户选择的兴趣来策划假期活动列表。询问用户想要的度假地点。询问停留时间。询问旅行月份。根据旅行月份考虑天气问题。询问每日预算。确定团体规模和组成（婴儿、幼儿、学龄儿童、青少年、成人），以更好地满足他们的需求。一次提出一个问题，记住答案，并在需要时探究更多信息。询问用户每天想要进行多少活动。收集完所有信息后，询问用户是否还有其他需要添加的内容，确认天数，并生成假期活动列表。 兴趣：（兴趣列表） 观光：包括参观地标、纪念碑、历史遗迹和风景名胜。户外活动：徒步旅行、露营、骑自行车、观鸟、钓鱼、漂流、滑雪或享受海滩和国家公园。冒险运动：攀岩、冲浪、滑翔伞、蹦极、跳伞或水肺潜水。野生动物和自然：参观动物园、水族馆、野生动物探险、植物园或在大自然中散步。文化体验：探索当地习俗和传统，参观土著社区，或参加当地节日和活动。博物馆和画廊：艺术博物馆、历史博物馆、科学博物馆、儿童博物馆或专业博物馆。美食美酒：尝试当地美食、参观酒庄或啤酒厂、烹饪课程或美食之旅。购物：参观当地市场、购物中心或精品店。健康和放松：水疗中心、瑜伽静修、健康度假村或海滩度假。夜生活：俱乐部、酒吧、音乐会或戏剧表演。历史和遗产之旅：参观古代遗址、历史城镇、城堡或遗产地。宗教和精神场所：教堂、寺庙、修道院或朝圣地。水上活动：游泳、划船、帆船、浮潜或参观水上公园。娱乐：主题公园、游乐园或电影制片厂。教育：语言学习、技能研讨会或教育讲座。志愿服务：参与当地社区服务或保护工作。体育：参加体育赛事或参加体育活动。健康和医疗旅游：进行医疗程序或健康治疗的旅行。   由   提交/u/nokenito   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cecild/travel_prompt/</guid>
-      <pubDate>Sat, 27 Apr 2024 11:39:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助寻找用于工作流程管理的 AI 工具。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cebo1g/help_for_finding_an_ai_tool_for_workflow/</link>
-      <description><![CDATA[嗨，很抱歉打扰你们。我是一名正在写学士学位的学生，我需要帮助找到一个可以帮助我的工具。 也许我写论文的方式是错误的，但当我坐下来写东西的时候，我就陷入了困境分析不同的来源并标记引文，最终不知所措，迷失在我脑海中建立的联系之间。 我知道做笔记是一件事，但此时我只是在寻找替代方案某种工具（甚至不一定是人工智能）甚至可能会分解我论文中需要关注或工作的部分。 不知道如何真正重新表述，我不是在寻找东西这将为我写论文，但我现在还没有能力在不失去论文连贯性的情况下将所有不同的信息保留在脑海中。 提前表示感谢。   由   提交 /u/SaksaniKaiseri   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cebo1g/help_for_finding_an_ai_tool_for_workflow/</guid>
-      <pubDate>Sat, 27 Apr 2024 10:47:31 GMT</pubDate>
     </item>
     <item>
       <title>你用ai做过的最实用的事情是什么？</title>
@@ -74,20 +88,6 @@
       <description><![CDATA[查看这个简短的教程，了解法学硕士背景下的越狱：https://youtu.be/HWDtejybDJA?si=bL53JcCUCmWCxt4e   由   提交/u/mehul_gupta1997   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ce74re/what_is_jailbreaking_in_llms_explained/</guid>
       <pubDate>Sat, 27 Apr 2024 05:49:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 2024 年 4 月 26 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ce4sjg/oneminute_daily_ai_news_4262024/</link>
-      <description><![CDATA[ Nexus AI – 世界上第一个 AI 交易机器人现已正式推出。[1] 据报道，Apple已恢复与 OpenAI 的谈判，以打造适用于 iPhone 的聊天机器人。[2] 照片分享社区 EyeEm 将授权用户的照片来训练 AI，前提是他们不删除它们。[3] 前 Steam 实验室开发人员声称 1,000 个 Steam 游戏使用生成式 AI。[4]  来源包括：https://bushaicave.com/2024/04/26/4-26-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ce4sjg/oneminute_daily_ai_news_4262024/</guid>
-      <pubDate>Sat, 27 Apr 2024 03:32:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Reddit 上培训法学硕士？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ce09hp/training_llms_on_reddit/</link>
-      <description><![CDATA[我只是有一个想法......想想你阅读 Reddit 的方式。您可以根据自己的喜好和受欢迎程度阅读最终出现在提要中的内容。任何您感兴趣且非常受欢迎的内容都有数千个帖子。你滚动浏览一些内容，也许会找到一两个与你产生共鸣的话题并进一步深入研究，但没有人会在一个 Reddit 上阅读 3000 条评论，但法学硕士却是。有时，您发布了一些您认为非常深刻和深思熟虑的内容，却发现没有人会看到它，因为已经有数千条评论。有时，您会发现一条评论非常喜欢，以至于您会查看发表该评论的人的帖子历史记录。法学硕士可以对每张海报做到这一点。真的让你思考...   由   提交 /u/BobBanderling   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ce09hp/training_llms_on_reddit/</guid>
-      <pubDate>Fri, 26 Apr 2024 23:45:01 GMT</pubDate>
     </item>
     <item>
       <title>构建人工智能主导的匿名知识共享平台的经验</title>

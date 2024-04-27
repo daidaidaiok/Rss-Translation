@@ -4,13 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 27 Apr 2024 15:06:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 18:07:03 GMT</lastBuildDate>
     <item>
-      <title>如何抓取下面给定的站点？</title>
-      <link>https://www.reddit.com/r/programming/comments/1cecjzm/how_to_scrape_the_given_site_below/</link>
-      <description><![CDATA[ 由   提交/u/1tagupta  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cecjzm/how_to_scrape_the_given_site_below/</guid>
-      <pubDate>Sat, 27 Apr 2024 11:42:10 GMT</pubDate>
+      <title>我制作了一个具有几何约束的字形生成工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1cej66e/i_made_a_glyph_generation_tool_with_geometric/</link>
+      <description><![CDATA[ 由   提交/u/v4nn4  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cej66e/i_made_a_glyph_generation_tool_with_geometric/</guid>
+      <pubDate>Sat, 27 Apr 2024 16:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>用我自己的语言编写图灵机模拟器：Pilot</title>
+      <link>https://www.reddit.com/r/programming/comments/1cehuuw/writing_a_turing_machine_simulator_in_my_own/</link>
+      <description><![CDATA[ 由   提交/u/Efficient_Creme1900   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cehuuw/writing_a_turing_machine_simulator_in_my_own/</guid>
+      <pubDate>Sat, 27 Apr 2024 15:59:49 GMT</pubDate>
     </item>
     <item>
       <title>3D 空间中的平面</title>
@@ -20,13 +27,6 @@
       <pubDate>Sat, 27 Apr 2024 11:06:14 GMT</pubDate>
     </item>
     <item>
-      <title>请求pudn下载</title>
-      <link>https://www.reddit.com/r/programming/comments/1ceb8kk/request_download_from_pudn/</link>
-      <description><![CDATA[拥有 pudn 帐户的任何人都可以从此链接下载文件。提前致谢。    由   提交 /u/Big_Form_5506   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ceb8kk/request_download_from_pudn/</guid>
-      <pubDate>Sat, 27 Apr 2024 10:19:18 GMT</pubDate>
-    </item>
-    <item>
       <title>将 txtai 与 Postgres 集成</title>
       <link>https://www.reddit.com/r/programming/comments/1ceb89d/integrate_txtai_with_postgres/</link>
       <description><![CDATA[ 由   提交/u/davidmezzetti   [链接] [评论]]]></description>
@@ -34,7 +34,7 @@
       <pubDate>Sat, 27 Apr 2024 10:18:45 GMT</pubDate>
     </item>
     <item>
-      <title>TypeScript 5.4 的新增功能</title>
+      <title>TypeScript 5.4 中的新功能</title>
       <link>https://www.reddit.com/r/programming/comments/1ce8bte/whats_new_in_typescript_54/</link>
       <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce8bte/whats_new_in_typescript_54/</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>Ubuntu 24.04 中 .NET 的新增功能 - .NET 博客</title>
       <link>https://www.reddit.com/r/programming/comments/1ce70w1/whats_new_for_net_in_ubuntu_2404_net_blog/</link>
-      <description><![CDATA[  由    /u/myotcworld  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/myotcworld  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce70w1/whats_new_for_net_in_ubuntu_2404_net_blog/</guid>
       <pubDate>Sat, 27 Apr 2024 05:42:55 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>Bun.report 是 Bun 的新崩溃报告器</title>
       <link>https://www.reddit.com/r/programming/comments/1ce21vd/bunreport_is_buns_new_crash_reporter/</link>
-      <description><![CDATA[ 由   提交/u/louis11  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/louis11  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce21vd/bunreport_is_buns_new_crash_reporter/</guid>
       <pubDate>Sat, 27 Apr 2024 01:10:11 GMT</pubDate>
     </item>
