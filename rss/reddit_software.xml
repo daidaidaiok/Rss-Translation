@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 28 Apr 2024 00:20:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 03:07:30 GMT</lastBuildDate>
+    <item>
+      <title>探索未来：Meta Horizo​​n OS 如何向开发人员和消费者开放第三方硬件。</title>
+      <link>https://www.reddit.com/r/software/comments/1cew8wj/exploring_the_future_how_meta_horizon_os_is/</link>
+      <description><![CDATA[ 由   提交 /u/Anirban_Hazra   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cew8wj/exploring_the_future_how_meta_horizon_os_is/</guid>
+      <pubDate>Sun, 28 Apr 2024 02:58:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alt Tab 返回上一个窗口</title>
+      <link>https://www.reddit.com/r/software/comments/1cetyn5/alt_tab_to_return_to_previous_window/</link>
+      <description><![CDATA[很多个月前，我会使用 Alt-Tab 返回到我之前使用过的选项卡。我可以用它在两个选项卡之间来回跳转。例如，如果我发现可以从中获取（也许是复制和粘贴）信息以在后续窗口中使用的内容，或者我需要在两个选项卡之间来回切换以刷新我的记忆（我的记忆，而不是计算机内存） 。这是我认为我在计算机上使用过的最有用的功能，但它似乎不再可用。现在，Alt-Tab 会调出我最新的 Word 文档。是否有应用程序或设置可以更改以返回这个非常有效的功能供我使用？   由   提交 /u/Academic-Fig-1552   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cetyn5/alt_tab_to_return_to_previous_window/</guid>
+      <pubDate>Sun, 28 Apr 2024 00:56:16 GMT</pubDate>
+    </item>
     <item>
       <title>需要一个适合旧 Windows Surface 3 的好发行版。</title>
       <link>https://www.reddit.com/r/software/comments/1ces4am/need_a_good_distro_for_an_old_windows_surface_3/</link>
@@ -78,7 +92,7 @@
     <item>
       <title>是否可以创建交互式背景图像？</title>
       <link>https://www.reddit.com/r/software/comments/1ceamlg/is_it_possible_to_create_an_interactive/</link>
-      <description><![CDATA[大家好， 前几天我有一个想法，出于好奇，我想知道它是否真的可以执行。我相信您已经看过拉斯维加斯球体，以及它有时如何显示为观看飞机和其他事物的表情符号（如果您还没有，请在 YouTube 上搜索拉斯维加斯球体表情符号，这非常酷） 是否有可能以表情符号的形式制作拉斯维加斯球体的图像，其中球体的眼睛会跟随鼠标四处移动？或者也许它已经存在？如果没有，人们将如何实际创建类似的东西？   由   提交/u/pin_kRobot   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 前几天我有一个想法，出于好奇，我想知道它是否真的可以执行。我相信您已经看过拉斯维加斯球体，以及它有时如何显示为观看飞机和其他事物的表情符号（如果您还没有，请在 YouTube 上搜索拉斯维加斯球体表情符号，这非常酷） 是否有可能以表情符号的形式制作拉斯维加斯球体的图像，其中球体的眼睛会跟随鼠标四处移动？或者它可能已经存在？如果没有，人们将如何实际创建类似的东西？   由   提交/u/pin_kRobot   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ceamlg/is_it_possible_to_create_an_interactive/</guid>
       <pubDate>Sat, 27 Apr 2024 09:38:45 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我使用的是 Samsung 500c，我想将视频上传到 YouTube。我已完成验证过程，但卡在处理屏幕   由   提交 /u/iOS11Gaming   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ce86t2/youtube_studio_wont_work_on_chromeos/</guid>
       <pubDate>Sat, 27 Apr 2024 06:55:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>玩优惠 |开源 Android 应用程序，以折扣或免费方式获取付费应用程序</title>
-      <link>https://www.reddit.com/r/software/comments/1ce7id3/play_deals_open_source_android_app_to_get_paid/</link>
-      <description><![CDATA[Play Deals 是一款开源多平台应用，其中列出了 Google Play 商店中免费或有折扣的付费应用。它没有任何广告、跟踪器或类似的东西。 链接： - Play 商店：https://play.google.com/store/apps/details?id=me.sujanpoudel.playdeals - Github：https://github.com/psuzn/Play-Deals - F-droid：https://f-droid.org/packages/me.sujanpoudel.playdeals  免责声明 我是开发者 （希望在 GitHub 存储库上加星或在 Play 商店上发表评论）   由   提交 /u/psuzn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ce7id3/play_deals_open_source_android_app_to_get_paid/</guid>
-      <pubDate>Sat, 27 Apr 2024 06:12:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>跨多个设备同步视频播放的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1ce67cl/software_to_sync_video_playback_across_multiple/</link>
-      <description><![CDATA[大家好！我和我的朋友喜欢一起看电影和节目，但我们生活在不同的国家。我的网速比她的慢一点，所以不和谐的流媒体虽然可能，但并不总是有效。  我们观看的大部分内容都是我拥有的电视节目或电影的片段，我想知道是否有 VLC 插件或某种软件可以让我们跨设备同步播放？这意味着我可以提前向她发送文件，我们都可以以源质量观看节目/电影，并且我们双方都保持同步。 我已经看过 syncplay.pl 但还没有看到*任何人*真正谈论它，所以我对此表示怀疑。谢谢！   由   提交 /u/punishedmadalyn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ce67cl/software_to_sync_video_playback_across_multiple/</guid>
-      <pubDate>Sat, 27 Apr 2024 04:53:22 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 27 Apr 2024 17:58:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 03:04:42 GMT</lastBuildDate>
     <item>
-      <title>[媒体]国家公路交通安全管理局报告了“严重的安全差距 [...]</title>
-      <link>https://t.me/hn_summary/86753</link>
-      <description><![CDATA[监管机构报告特斯拉自动驾驶仪中与撞车事故有关的“严重安全漏洞”&lt; /a&gt;
-美国国家公路交通安全管理局报告称，特斯拉 Autopilot 系统存在“严重安全漏洞”，导致 467 起碰撞事故、13 人死亡和多人重伤。该系统的设计因无法确保驾驶员注意力和适当使用而受到批评，驾驶员参与系统较弱，即使驾驶员没有专注于道路，自动驾驶仪也能保持活跃状态​​。尽管软件更新旨在解决这些问题，但与自动驾驶仪相关的更多事故仍在发生。参议员们呼吁限制自动驾驶仪的使用，而特斯拉和首席执行官埃隆·马斯克则加倍押注自动驾驶作为公司的未来。]]></description>
-      <guid>https://t.me/hn_summary/86753</guid>
-      <pubDate>Sat, 27 Apr 2024 17:58:28 GMT</pubDate>
+      <title>[媒体].test</title>
+      <link>https://t.me/hn_summary/86807</link>
+      <description><![CDATA[.test
+.test 是用于软件测试的保留顶级域，于 1999 年引入。除了 .test 之外，还有其他 11 个保留测试域。这些域名由互联网工程任务组于 1999 年保留，以防止冲突和混乱。它们可用于文档或内部测试目的。保证这些域永远不会注册到互联网上，从而确保它们可用于测试场景。这种独特的方法有助于减少域名冲突的可能性，并提供安全的测试环境。]]></description>
+      <guid>https://t.me/hn_summary/86807</guid>
+      <pubDate>Sun, 28 Apr 2024 03:04:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Cognita 是一个专为模块化应用程序设计的开源 RAG 框架，提供了 [...]</title>
-      <link>https://t.me/hn_summary/86752</link>
-      <description><![CDATA[显示 HN：Cognita – 用于模块化应用程序的开源 RAG 框架&lt; /a&gt;
-Cognita 是一个专为模块化应用程序设计的开源 RAG 框架，提供从实验到生产过渡的解决方案。它在底层利用 Langchain/Llamaindex，以模块化、可扩展和可扩展的方式组织代码库组件。 Cognita 提供了一个生产就绪环境，具有无代码 UI 支持和增量索引功能。它通过抽象分块、嵌入、查询服务和矢量数据库部署来简化 RAG 系统的部署。该项目包括一个用于定制和实验的 UI，支持多个文档检索器、SOTA 嵌入和法学硕士。 Cognita 可以在本地使用，也可以与 Truefoundry 组件一起使用以实现可扩展性，从而使非技术用户可以轻松地与系统交互。 （根据故事文本的 53% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86752</guid>
-      <pubDate>Sat, 27 Apr 2024 17:49:21 GMT</pubDate>
+      <title>[媒体] 伊本·图法伊尔 (Ibn Tufail) 的《Hayy ibn Yaqdhan》是一部阿拉伯哲学小说，讲述了 [...]</title>
+      <link>https://t.me/hn_summary/86806</link>
+      <description><![CDATA[哲学家自学者
+伊本·图法伊尔的《Hayy ibn Yaqdhan》是一部阿拉伯哲学小说，讲述了一个男孩在岛上被羚羊抚养长大的故事。男孩哈伊通过观察和沉思了解世界，最终得出结论：一定存在一位伟大的创造者。这部小说极大地影响了伊斯兰哲学和启蒙思想家，其影响在后来的欧洲文学中也可见一斑。它探讨了自我发现、宗教与哲学的兼容性以及对知识的追求等主题。这部小说被翻译成多种语言，继续以其寓言教义和哲学见解启发读者。 （根据 81% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86806</guid>
+      <pubDate>Sun, 28 Apr 2024 02:40:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在张量数学的神秘领域，掌握艾恩之石如一颗宝石般闪耀……</title>
-      <link>https://t.me/hn_summary/86751</link>
-      <description><![CDATA[40 行 Python 中的 Einsum
-在张量数学的神秘领域，艾恩精通之石就像一座无与伦比的力量灯塔，在魔法和多维计算的世界之间架起桥梁。 Einsum 是机器学习中经常用于张量操作的工具，它提供了一种独特的方法来处理矩阵乘法等运算。虽然乍一看似乎很冗长，但 Einsum 提供了诸如记录张量维度和隐式维度重新排序等优点。 Einsum 的迭代方法涉及嵌套循环，但为了获得更快的性能，建议使用 torch 操作的矢量化实现。潜入 Einsum 的神秘舞蹈，掌握张量操纵的艺术。 （根据故事文本的 56% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86751</guid>
-      <pubDate>Sat, 27 Apr 2024 17:31:12 GMT</pubDate>
+      <title>标题：Show HN：Sleepsort – 睡觉时排序</title>
+      <link>https://t.me/hn_summary/86805</link>
+      <description><![CDATA[显示 HN：Sleepsort – 睡觉时排序
+标题：Show HN：Sleepsort – 睡觉时排序
+
+排序算法对于组织数据至关重要，有些算法很简单，有些则更快。睡眠排序是一种独特而古怪的方法，它涉及数字在加入排序列表之前“睡眠”。该算法依赖于系统调度器，这使得它与传统的排序方法不同。使用 asyncio 的 Python 实现展示了如何根据睡眠间隔对数字进行排序。通过调整睡眠时间，可以提高算法的效率，尽管与内置排序函数相比仍然较慢。尽管睡眠排序具有不可预测性和局限性，但它为排序算法提供了一种有趣且富有创意的方法。]]></description>
+      <guid>https://t.me/hn_summary/86805</guid>
+      <pubDate>Sun, 28 Apr 2024 02:39:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]摘要：andrewwegner.com 上的文章讨论了使用 [...] 时常见的 Python“陷阱”</title>
-      <link>https://t.me/hn_summary/86750</link>
-      <description><![CDATA[Python 问题：strip、lstrip、rstrip 可以删除超出预期的内容&lt; /a&gt;
-摘要：andrewwegner.com 上的文章讨论了一个常见的 Python“陷阱” &quot; 使用 strip、lstrip 和 rstrip 函数从字符串中删除前导或尾随字符时。作者解释说，如果提供字符列表而不是字符串，这些函数可以删除比预期更多的内容。本文提供了一个示例，并通过介绍Python 3.9中引入的.removesuffix()和.removeprefix()函数来提供解决方案。作者强调了理解这些函数的行为以及它们可能给新开发人员带来的困惑的重要性。]]></description>
-      <guid>https://t.me/hn_summary/86750</guid>
-      <pubDate>Sat, 27 Apr 2024 17:29:08 GMT</pubDate>
+      <title>Antimatter Dimensions 是一款创新且令人上瘾的增量游戏，玩家可以探索 [...]</title>
+      <link>https://t.me/hn_summary/86804</link>
+      <description><![CDATA[反物质维度
+Antimatter Dimensions 是一款创新且令人上瘾的增量游戏，玩家可以在其中探索反物质及其维度的概念。凭借独特的游戏机制和具有挑战性的策略，玩家可以深入探索充满无限可能性的世界，并解锁新的维度以进一步进步。然而，由于游戏的复杂性和陡峭的学习曲线，围绕该游戏存在一些争议。总体而言，《反物质维度》为在增量游戏世界中寻求新挑战的玩家提供了令人耳目一新且引人入胜的体验。]]></description>
+      <guid>https://t.me/hn_summary/86804</guid>
+      <pubDate>Sun, 28 Apr 2024 02:32:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Astroscale 的 ADRAS-J 卫星通过捕捉废弃的特写照片创造了历史 [...]</title>
-      <link>https://t.me/hn_summary/86749</link>
-      <description><![CDATA[私人太空垃圾探测器拍摄到废弃火箭在轨道上的历史照片
-Astroscale 的 ADRAS-J 卫星创造了历史，拍摄到废弃火箭在轨道上的特写照片，标志着太空垃圾清除技术的一个重要里程碑。探测器成功地在距离火箭几百米的范围内机动，展示了其会合和研究太空垃圾的能力。这一成就对于未来的航天器维修和碎片清除工作至关重要。这张照片是首张此类照片，凸显了解决日益严重的太空垃圾问题以防止地球轨道发生灾难性碰撞的重要性。请继续关注这次开创性任务的更多更新和图像。]]></description>
-      <guid>https://t.me/hn_summary/86749</guid>
-      <pubDate>Sat, 27 Apr 2024 17:27:03 GMT</pubDate>
+      <title>内容作者讨论了 RISC-V 规范的优点和缺点，[...]</title>
+      <link>https://t.me/hn_summary/86803</link>
+      <description><![CDATA[如何改进 RISC-V 规范
+内容作者讨论了 RISC-V 规范的优点和缺点，强调了规范不同部分之间的脱节。该规范由各种组件组成，包括 PDF 文档、测试套件、模拟器和正式的 SAIL 模型。作者指出了规范中的精度、可配置性和可访问性方面的问题。他们建议创建一种机器可读的格式，以提高不同工件之间的一致性和易用性。此外，他们建议使 SAIL 规范更加用户友好并与文档的其余部分集成。作者强调需要一种更有凝聚力和更高效的方法来开发和实现架构扩展。]]></description>
+      <guid>https://t.me/hn_summary/86803</guid>
+      <pubDate>Sun, 28 Apr 2024 02:15:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这个开源项目提供了一个脚本来帮助您的网站在搜索中建立索引[...]</title>
-      <link>https://t.me/hn_summary/86748</link>
-      <description><![CDATA[显示 HN：开源脚本以使您的网站在 Bing 上建立索引、Yandex 等
-这个开源项目提供了一个脚本来帮助您的网站在 Bing、Yandex 等搜索引擎上建立索引。它专为 Google 可能不会为您的网站编制索引的情况而设计。该脚本快速将站点地图中的 URL 提交到各种搜索引擎以进行索引。作者强调了该脚本的易用性和低配置要求，以及为每个域生成 API 密钥的能力。该项目通过提供对多个搜索引擎的支持和简单的设置过程而脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/86748</guid>
-      <pubDate>Sat, 27 Apr 2024 17:21:58 GMT</pubDate>
+      <title>[媒体] Sawaratsuki 在 GitHub 上的“Kawaii”科技徽标项目提供了一系列 unoffi [...]</title>
+      <link>https://t.me/hn_summary/86802</link>
+      <description><![CDATA[泽原月的“卡哇伊”科技标志
+Sawaratsuki 在 GitHub 上的“Kawaii”科技徽标项目提供了一系列非官方徽标，可用于非商业、非营利目的，例如打印贴纸或用作编辑器的图标。只要遵守相同的许可证，用户就可以修改或重新混合徽标。除非满足特定条件，否则禁止将徽标用于商业用途。该项目还欢迎新徽标的请求，并强调对创建者 Sawaratsuki 的认可。该项目使用 Photoshop 和 Illustrator 等工具进行设计，并且感谢用户的反馈。 （根据故事文本的 15% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86802</guid>
+      <pubDate>Sun, 28 Apr 2024 02:14:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 嘿嘿！</title>
-      <link>https://t.me/hn_summary/86747</link>
-      <description><![CDATA[显示 HN：我为已弃用的 Google QR 构建了一个直接替代品代码API
-嘿！我很高兴与您分享我的最新项目 - 现已弃用的 Google QR 代码 API 的直接替代品。使用 qr-api.com，您可以轻松生成二维码使用我们的简单端点进行代码。我们的与众不同之处在于我们的实时预览功能，让您可以在下载之前实时查看您的二维码。告别寻找新的二维码生成器的麻烦 - qr-api .com 已满足您的需求。请访问 simple.qr 查看我们的替换端点和实时预览-api.com/google。让我们让二维码保持活力！]]></description>
-      <guid>https://t.me/hn_summary/86747</guid>
-      <pubDate>Sat, 27 Apr 2024 17:16:23 GMT</pubDate>
+      <title>[媒体] RFC 7282 讨论了 IETF 中达成共识的重要性，强调了传统 [...]</title>
+      <link>https://t.me/hn_summary/86801</link>
+      <description><![CDATA[RFC 7282 – 关于 IETF 中的共识和嗡嗡声 (2014)&lt; /a&gt;
+RFC 7282 讨论了 IETF 中共识的重要性，强调了粗略共识优于多数规则的传统。它解释了粗略共识的概念、使用“嗡嗡声”代替投票以及达成共识所面临的挑战。该文件旨在促进对 IETF 共识流程的理解，并就如何有效达成粗略共识展开讨论。它强调了一种误解，即一致意见比没有分歧更重要，并提供了例子来说明这一点。该文件最后提出了改进 IETF 建立共识实践的方法建议。 （根据故事文本的 19% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86801</guid>
+      <pubDate>Sun, 28 Apr 2024 02:13:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 硅谷的科技工作者已经不再将自己视为未来的亿万富翁 [...]</title>
-      <link>https://t.me/hn_summary/86746</link>
-      <description><![CDATA[硅谷的阶级斗争
-硅谷的科技工作者已经不再将自己视为未来的亿万富翁，而是认识到工作条件不断恶化，并引发了前所未有的激进主义浪潮。该行业的衰落归因于“enshitification”，科技公司现在生产劣质产品并虐待员工。随着竞争、监管和自助不再约束该行业，劳工激进主义已成为对其权力的最后一个潜在制约。科技工作者现在正在与其他蓝领科技工作者组织起来并协调他们的斗争，这标志着科技行业观念的重大转变和员工积极性的上升。]]></description>
-      <guid>https://t.me/hn_summary/86746</guid>
-      <pubDate>Sat, 27 Apr 2024 16:59:15 GMT</pubDate>
+      <title>[媒体]Rittr 是一个独特的微博网站，它通过 [...]</title>
+      <link>https://t.me/hn_summary/86800</link>
+      <description><![CDATA[展示 HN：Rittr 一个采用 RSS 的简单微博网站
+Rittr 是一个独特的微博网站，它通过 RSS 提要从其他网站中脱颖而出。用户可以轻松共享简短的更新和链接，同时通过 RSS 集成了解他们喜爱的网站。对于那些喜欢简化社交媒体方式的人来说，Rittr 的简单性使其成为一个用户友好的平台。加入 rittr.club 的对话，体验微博的新方式借助 RSS 的力量。]]></description>
+      <guid>https://t.me/hn_summary/86800</guid>
+      <pubDate>Sun, 28 Apr 2024 01:51:59 GMT</pubDate>
     </item>
     <item>
-      <title>在一项有趣的研究中，科学家们深入研究了猫坐在[...]上的神秘行为。</title>
-      <link>https://t.me/hn_summary/86745</link>
-      <description><![CDATA[科学家研究了坐在广场上的猫的神秘行为（2021） 
-在一项有趣的研究中，科学家们深入研究了猫坐在正方形上的神秘行为。这种奇怪的现象多年来一直困扰着猫主人，但研究人员终于解释了为什么我们的猫科动物朋友对这些几何形状如此着迷。通过仔细的观察和分析，他们发现了一些关于猫的思维及其古怪习惯的令人惊讶的见解。这项研究引发了人们对了解我们心爱的宠物的行为的新一轮兴趣，并使许多猫主人对他们毛茸茸的伙伴有了新的欣赏。]]></description>
-      <guid>https://t.me/hn_summary/86745</guid>
-      <pubDate>Sat, 27 Apr 2024 16:57:40 GMT</pubDate>
+      <title>[媒体] 作为一个自称完美主义者的人，我曾经在发布那些不适合 [...] 的软件方面遇到了困难。</title>
+      <link>https://t.me/hn_summary/86799</link>
+      <description><![CDATA[为什么我现在对发布有缺陷的软件感到放心&lt; br /&gt;
+作为一个自称完美主义者的人，我曾经为发布不完美的软件而苦苦挣扎。然而，与工作中的首席质量检查人员的对话让我看到了一个新的视角。我意识到，作为一名工程师，评估发布软件的风险不是我的工作 - 责任在于业务利益相关者。秉承“尽早发布、经常发布”的口号，我对发布有缺陷的软件变得更加轻松。虽然我仍然力求完美，但我了解及时向用户提供新功能的重要性。这种思维方式的转变让我在频繁发布软件的快节奏世界中更加适应。]]></description>
+      <guid>https://t.me/hn_summary/86799</guid>
+      <pubDate>Sun, 28 Apr 2024 01:48:56 GMT</pubDate>
     </item>
     <item>
-      <title>在法学硕士的世界里，及时的工程至关重要，但常常被忽视。</title>
-      <link>https://t.me/hn_summary/86744</link>
-      <description><![CDATA[对 LLM 少量示例的实证测试表明示例选择至关重要
-在法学硕士的世界里，及时的工程至关重要，但常常被忽视。在 Libretto，我们正在分享我们的经验，以帮助其他人应对这个复杂的过程。在最近的一项实验中，我们测试了少数样本选择对 LLM 准确性的影响。令人惊讶的是，示例的选择产生了显着的效果，性能相差 19.2 个百分点。一种变体的表现甚至比基线提示还要差。经过仔细检查，我们发现使用单字示例会导致法学硕士的回答出现错误。这凸显了仔细选择示例以获得最佳结果的重要性。 Libretto 旨在简化即时优化，使即时工程对所有人来说都更易于管理。]]></description>
-      <guid>https://t.me/hn_summary/86744</guid>
-      <pubDate>Sat, 27 Apr 2024 16:39:32 GMT</pubDate>
+      <title>[媒体]在一项突破性的发现中，研究人员找到了一种将水和油混合的方法，而无需 [...]</title>
+      <link>https://t.me/hn_summary/86798</link>
+      <description><![CDATA[混合水和油：无需表面活性剂
+在一项突破性的发现中，研究人员找到了一种无需使用表面活性剂即可混合水和油的方法。这一令人惊讶的突破挑战了化学领域的传统智慧，并为工业应用开辟了新的可能性。通过利用涉及界面张力操纵的独特方法，研究人员能够在不需要表面活性剂的情况下创建稳定的乳液。这一有争议的发现有可能彻底改变我们处理乳液的方式，并可能在各个行业带来更可持续和更高效的工艺。请访问physicalsworld.com了解有关这项创新研究的更多信息。]]></description>
+      <guid>https://t.me/hn_summary/86798</guid>
+      <pubDate>Sun, 28 Apr 2024 01:38:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
