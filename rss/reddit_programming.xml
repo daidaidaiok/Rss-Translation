@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 28 Apr 2024 03:07:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 06:06:25 GMT</lastBuildDate>
+    <item>
+      <title>安装 asdf：一个运行时管理器来统治所有开发环境</title>
+      <link>https://www.reddit.com/r/programming/comments/1cey166/install_asdf_one_runtime_manager_to_rule_all_dev/</link>
+      <description><![CDATA[嘿，各位！ 人们经常引诱我讨论为什么我也使用 asdf为什么没有必要；我每次都会上当。  不过，这种情况不会再发生了，因为我为好奇、无知、怀疑和热情的爱好者写了一篇关于为什么以及如何使用 asdf.vm 的教程:) &lt; /p&gt; 我想我应该在这里分享给那些感兴趣的人；当然欢迎反馈。   由   提交/u/jdsalaro  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cey166/install_asdf_one_runtime_manager_to_rule_all_dev/</guid>
+      <pubDate>Sun, 28 Apr 2024 04:42:11 GMT</pubDate>
+    </item>
     <item>
       <title>Web 开发更新、工具和文章 #2</title>
       <link>https://www.reddit.com/r/programming/comments/1cewc70/web_dev_updates_tools_articles_2/</link>
@@ -13,7 +20,7 @@
       <pubDate>Sun, 28 Apr 2024 03:03:36 GMT</pubDate>
     </item>
     <item>
-      <title>Java 工程：摘要 #17</title>
+      <title>Java 工程：摘要#17</title>
       <link>https://www.reddit.com/r/programming/comments/1ceumo1/engineering_with_java_digest_17/</link>
       <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ceumo1/engineering_with_java_digest_17/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>由 Yusuke Endoh 制作的流体力学 ASCII 艺术的一些有趣演示</title>
       <link>https://www.reddit.com/r/programming/comments/1cesjif/some_fun_demonstration_of_fluid_mechanics_ascii/</link>
-      <description><![CDATA[ 由   提交/u/AissySantos  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/AissySantos  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cesjif/some_fun_demonstration_of_fluid_mechanics_ascii/</guid>
       <pubDate>Sat, 27 Apr 2024 23:47:12 GMT</pubDate>
     </item>
@@ -39,13 +46,6 @@
       <description><![CDATA[ 由   提交/u/bitter-cognac  [链接]   ; [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cepo7q/mastering_dynamodb_essential_techniques_for/</guid>
       <pubDate>Sat, 27 Apr 2024 21:36:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在推出“不要承诺”：获取策划的可操作的技术见解时事通讯 [详细信息在评论中]</title>
-      <link>https://www.reddit.com/r/programming/comments/1celmiv/i_am_launching_dont_commit_get_curated_actionable/</link>
-      <description><![CDATA[ 由   提交/u/mrsampage  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1celmiv/i_am_launching_dont_commit_get_curated_actionable/</guid>
-      <pubDate>Sat, 27 Apr 2024 18:40:35 GMT</pubDate>
     </item>
     <item>
       <title>我的 Langton ant 的 WIP 实现（JS Web 可视化工具和 C++）</title>
@@ -83,21 +83,21 @@
       <pubDate>Sat, 27 Apr 2024 06:49:44 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 24.04 中 .NET 的新增功能 - .NET 博客</title>
+      <title>Ubuntu 24.04 中的 .NET 新功能 - .NET 博客</title>
       <link>https://www.reddit.com/r/programming/comments/1ce70w1/whats_new_for_net_in_ubuntu_2404_net_blog/</link>
       <description><![CDATA[ 由   提交/u/myotcworld  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce70w1/whats_new_for_net_in_ubuntu_2404_net_blog/</guid>
       <pubDate>Sat, 27 Apr 2024 05:42:55 GMT</pubDate>
     </item>
     <item>
-      <title>系统和数据库设计（第 1 天） - 30 天内创建 SaaS 初创公司</title>
+      <title>系统和数据库设计（第 1 天）- 在 30 天内创建 SaaS 初创公司</title>
       <link>https://www.reddit.com/r/programming/comments/1ce6sn4/system_database_design_day_1_creating_a_saas/</link>
       <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce6sn4/system_database_design_day_1_creating_a_saas/</guid>
       <pubDate>Sat, 27 Apr 2024 05:29:12 GMT</pubDate>
     </item>
     <item>
-      <title>TypeScript 5.5 测试版发布</title>
+      <title>TypeScript 5.5 测试版</title>
       <link>https://www.reddit.com/r/programming/comments/1ce4dnl/typescript_55_beta_release/</link>
       <description><![CDATA[ 由   提交/u/Puzzleheaded_Ad4030   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce4dnl/typescript_55_beta_release/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>Bun.report 是 Bun 的新崩溃报告器</title>
       <link>https://www.reddit.com/r/programming/comments/1ce21vd/bunreport_is_buns_new_crash_reporter/</link>
-      <description><![CDATA[  由    /u/louis11  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/louis11  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce21vd/bunreport_is_buns_new_crash_reporter/</guid>
       <pubDate>Sat, 27 Apr 2024 01:10:11 GMT</pubDate>
     </item>
