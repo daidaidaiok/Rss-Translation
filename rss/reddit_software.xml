@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 28 Apr 2024 06:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 09:06:18 GMT</lastBuildDate>
+    <item>
+      <title>带有内置文本阅读器的有声读物播放器</title>
+      <link>https://www.reddit.com/r/software/comments/1cf21j5/audiobook_player_with_builtin_text_reader/</link>
+      <description><![CDATA[想要一些精美的 UI、额外的功能等。   由   提交/u/Demon_Kingjt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cf21j5/audiobook_player_with_builtin_text_reader/</guid>
+      <pubDate>Sun, 28 Apr 2024 09:05:01 GMT</pubDate>
+    </item>
     <item>
       <title>为什么桌面浏览器使用这么多内存？</title>
       <link>https://www.reddit.com/r/software/comments/1ceyf3x/why_do_desktop_browsers_use_so_much_memory/</link>
@@ -15,12 +22,12 @@
     <item>
       <title>正在寻找一个类似 kosmi 的本地共同观看工具 - 适合家庭使用，因此仅 LAN 就可以，但要轻量级且专用</title>
       <link>https://www.reddit.com/r/software/comments/1cex654/looking_for_a_local_kosmilike_cowatch_tool_for/</link>
-      <description><![CDATA[主题。我已经使用 kosmi 很长时间了 - app.kosmi.io/  它可以工作，但它对任何超过 720p 的东西都付费，现在有很多奇怪的功能，并且对资源有点拖累过去是怎样的。我无法想象没有其他目的构建的共同观看应用程序，甚至没有某种用于通过本地网络共同观看的 VLC 或 MPC-HC 插件，但这对谷歌来说是一件相当困难的事情，而且很多人都使用会议应用程序这并不符合我的要求 - 我真的很喜欢专门构建的东西，可以轻松共享单个应用程序和音频。   由   提交/u/hotfistdotcom   [链接] [评论]]]></description>
+      <description><![CDATA[主题。我已经使用 kosmi 很长时间了 - app.kosmi.io/  它可以工作，但它对任何超过 720p 的东西都付费，现在有很多奇怪的功能，并且对资源有点拖累过去是怎样的。我无法想象没有其他目的构建的共同观看应用程序，甚至没有某种用于通过本地网络共同观看的 VLC 或 MPC-HC 插件，但这对谷歌来说是一件相当困难的事情，而且很多人都使用会议应用程序这并不符合我的要求 - 我真的很喜欢专门构建的东西，可以轻松共享单个应用程序和音频。   由   提交/u/hotfistdotcom  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cex654/looking_for_a_local_kosmilike_cowatch_tool_for/</guid>
       <pubDate>Sun, 28 Apr 2024 03:50:43 GMT</pubDate>
     </item>
     <item>
-      <title>探索未来：Meta Horizo​​n OS 如何向开发人员和消费者开放第三方硬件。</title>
+      <title>探索未来：Meta Horizo​​n OS 如何向开发者和消费者开放第三方硬件。</title>
       <link>https://www.reddit.com/r/software/comments/1cew8wj/exploring_the_future_how_meta_horizon_os_is/</link>
       <description><![CDATA[ 由   提交 /u/Anirban_Hazra   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cew8wj/exploring_the_future_how_meta_horizon_os_is/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>ChatGPT 但专门用于帮助编程/编码？</title>
       <link>https://www.reddit.com/r/software/comments/1ceihny/chatgpt_but_specifically_for_helping_with/</link>
-      <description><![CDATA[没有考虑任何特定的语言，但我开始发现 ChatGPT 对协助完成通用&quot;编程&quot;任务（创建简单的配置等）非常有用。 它帮助解决的随机问题（不是我使用的确切查询，但类似）： -&gt; 请创建有效的 Nginx 入口规则以将 HTTP 转发到端口 8088 上的此服务 -&gt; 嘿 ChatGPT！请编写一个从 10.0.0.1 开始并具有 10.0.0.125 网关的 ipv4 网络配置。我需要足够的空间容纳大约 100 个本地 IP。 -&gt;请创建一个家庭助理自动化程序，以便在午夜自动关闭房间“卧室”的灯 （我猜这两个例子都是 YAML！） 这让我想知道是否有一个利用 ChatGPT（或另一个 LLM）的工具专门用于帮助生成代码片段，并且可能会产生更多有用的输出。 TIA 有任何建议！    提交人    /u/danielrosehill   [link] [评论]]]></description>
+      <description><![CDATA[没有想到任何特定的语言，但我开始发现 ChatGPT 对于协助通用“编程”非常有帮助。任务（创建简单的配置等）。 它帮助解决的随机问题（不是我使用的确切查询，但类似）： -&gt;请创建有效的 Nginx 入口规则，以将 HTTP 转发到此服务的端口 8088 -&gt;嘿ChatGPT！请编写一个 ipv4 网络配置，该配置从 10.0.0.1 开始，网关为 10.0 .0.125。我需要足够的空间容纳大约 100 个本地 IP。 -&gt;请创建一个家庭助理自动化，以在午夜自动关闭“卧室”房间的灯 （我想这两个示例都是 YAML！） 这引导了我想知道是否有一个利用 ChatGPT（或另一个 LLM）的工具专门用于帮助生成代码片段，并且可能会产生更有用的输出。 TIA 适用于任何建议！   由   提交/u/danielrosehill  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ceihny/chatgpt_but_specifically_for_helping_with/</guid>
       <pubDate>Sat, 27 Apr 2024 16:26:26 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我通常使用 Discord 和 Amino，最近尝试了 Spacehey。只是想寻找一个主要吸引 weebs/游戏玩家（主要是 weebs）的社区。与 facebook/insta/reddit 相比相对小众但仍然相当活跃的东西将是首选，但这不是必要的要求。    由   提交/u/Mountain_Clock2410   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ceaq33/good_appsite_to_find_weeb_friends_other_than/</guid>
       <pubDate>Sat, 27 Apr 2024 09:45:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以创建交互式背景图像？</title>
-      <link>https://www.reddit.com/r/software/comments/1ceamlg/is_it_possible_to_create_an_interactive/</link>
-      <description><![CDATA[大家好， 前几天我有了一个想法，出于好奇，我想知道它是否真的可以实现。我相信你见过拉斯维加斯球体，以及它有时是如何显示为一个表情符号来观看飞机和其他东西的（如果你还没有，请在 YouTube 上搜索拉斯维加斯球体表情符号，它非常酷） 是否有可能以表情符号的形式制作拉斯维加斯球体的图像，其中球体的眼睛会跟随鼠标移动？或者它已经存在了？如果没有，人们将如何真正创造这样的东西？    提交人    /u/pin_kRobot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ceamlg/is_it_possible_to_create_an_interactive/</guid>
-      <pubDate>Sat, 27 Apr 2024 09:38:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
