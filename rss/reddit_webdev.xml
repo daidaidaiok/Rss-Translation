@@ -3,19 +3,61 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 15:06:44 GMT</lastBuildDate>
+    <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Tue, 30 Apr 2024 18:07:54 GMT</lastBuildDate>
     <item>
-      <title>IP轮换和系统攻击者</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cgv08k/ip_rotation_and_system_attacker/</link>
-      <description><![CDATA[希望阻止/遏制对 Web 应用程序的已知攻击： - 攻击者正在轮换 IP - 攻击者可以在每次尝试时刷新会话/cookie 数据 因此在本地跟踪 IP 并基于此进行阻止可能不起作用。 设置会话/cookie 进行识别可能不起作用。  我说有可能，因为网络应用程序仍然会这样做，但它可能没有实际意义。 关于如何跟踪此类被察觉的流氓有什么想法吗？ &lt; !-- SC_ON --&gt;  由   提交 /u/ottawawebguy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cgv08k/ip_rotation_and_system_attacker/</guid>
-      <pubDate>Tue, 30 Apr 2024 15:01:28 GMT</pubDate>
+      <title>我发现设置 Node Express 应用程序很令人沮丧，所以我写了一篇关于如何设置的文章</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cgzcgw/ive_found_it_frustrating_to_set_up_a_node_express/</link>
+      <description><![CDATA[       由   提交/u/noahflk  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cgzcgw/ive_found_it_frustrating_to_set_up_a_node_express/</guid>
+      <pubDate>Tue, 30 Apr 2024 18:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用已部署的数据库还是本地主机数据库进行开发？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cgywwi/do_you_develop_with_a_deployed_database_or_with_a/</link>
+      <description><![CDATA[所以我找到了一份兼职工作（仍然是学生），我和我的老板使用已部署的数据库进行开发，现在这是唯一的方法在开发过程中，现在我无法从家里访问该数据库，因为我的老板设置了一些IP限制，你只能从工作场所访问。  这对你来说也是常态吗？是这样的吗？    由   提交 /u/El_Mario_Verde   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cgywwi/do_you_develop_with_a_deployed_database_or_with_a/</guid>
+      <pubDate>Tue, 30 Apr 2024 17:45:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由形式嵌入静态 HTML 页面？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cgywmu/free_form_embedding_into_static_html_page/</link>
+      <description><![CDATA[有人知道有什么免费服务可以让我将联系表单嵌入到静态网页中吗？ 我不知道不要介意它是否有广告或任何内容 如果有一种方法可以将其链接到 Mailchimp 上的邮件列表或其他内容，那就太理想了  &lt;!-- SC_ON - -&gt;  由   提交 /u/Weekly_Frosting_5868   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cgywmu/free_form_embedding_into_static_html_page/</guid>
+      <pubDate>Tue, 30 Apr 2024 17:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助理解 Vercel 限制！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cgyfp2/help_on_understanding_vercel_limits/</link>
+      <description><![CDATA[我正在考虑将网站部署到 vercel。不过据说在 3000 次请求之后，您将受到速率限制。根据我的理解，这意味着您仍然可以发出请求，但每分钟会受到限制，对吧？ 只是有点担心，因为我的网站每秒都使用轮询获取请求来从 Spotify 获取信息，而我不&#39;不想突然花太多钱。   由   提交/u/captainpeanutlemon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cgyfp2/help_on_understanding_vercel_limits/</guid>
+      <pubDate>Tue, 30 Apr 2024 17:25:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>组件未按预期工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cgvszj/component_doesnt_work_as_expected/</link>
+      <description><![CDATA[     &lt; /td&gt; 我正在使用 ReactJs 和 Material ui 制作一个 Web 应用程序，但我的组件无法按预期工作，我有一个state 称为 searchValue，它以空字符串开头，在表单提交时，它再次设置为空字符串，它设置状态，但输入上的值不会更改为空字符串。 如果我将值设置为“”或“lorem”，它会按预期工作，但空字符串不会，有人知道发生了什么吗？  &amp; #32；由   提交/u/DigLean  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cgvszj/component_doesnt_work_as_expected/</guid>
+      <pubDate>Tue, 30 Apr 2024 15:34:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一些帮助来重新创建导航/部分组件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cgvd56/need_some_help_recreating_a_navigationsections/</link>
+      <description><![CDATA[      我在 godly 中看到了这个导航/部分栏，它看起来真的很棒，因为我的网站有多个部分，而且它似乎是最好的选择。 我想重新创建这个 ^ 我似乎不知道如何创建这种类型的线条，我不知道它是纯 CSS 还是只是一个图像。我尝试重新创建它，但我无处可去并创建了一些完全不同的东西。 这是一个进度条，使用框架运动 希望得到一些帮助！ 使用：下一个js，框架运动，顺风   由   提交/u/macato  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cgvd56/need_some_help_recreating_a_navigationsections/</guid>
+      <pubDate>Tue, 30 Apr 2024 15:16:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了我的第一个网站！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cgva2r/made_my_first_website/</link>
+      <description><![CDATA[只是想向任何可能对 webdev 感兴趣/不熟悉的人分享我的第一个网站！这是我的 CS50 计划的最后一个项目，它的名字是“LISTN”。  视频演示链接：此处 这非常简单您可以在该网站上评价您最喜欢的音乐并查看其他人的个人资料/评级。  前端使用HTML/CSS/JS制作，后端使用Python和Flask。我还使用 Spotify 的 API 来获取所有音乐信息。除了在 CS50 中学到的知识之外，我没有任何其他编码经验，所以我还是个新手。 如果有人有任何问题/意见，我会非常乐意回复！   由   提交/u/RevolutionaryCover57  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cgva2r/made_my_first_website/</guid>
+      <pubDate>Tue, 30 Apr 2024 15:12:38 GMT</pubDate>
     </item>
     <item>
       <title>HTML 样板框架</title>
       <link>https://www.reddit.com/r/webdev/comments/1cguv4b/html_boilerplate_framework/</link>
-      <description><![CDATA[我已经离开静态 HTML 网站好几年了。正在查找 HTML 框架，我使用和喜爱的许多工具不再受支持。 要求是： - Webpack（或相当于处理构建和插件） - Sass（不是 Post 的忠实粉丝） -CSS，但如果它是唯一的选择，我会使用它） - ES6 - 实时重新加载（Browsersync 是我的首选） - CSS 优化插件功能（如 UnCSS、Autoprefixer 等） - Handlebars（或某种类似的模板） 对样板有什么建议吗？我宁愿使用现有的东西，而不是从头开始创建自己的东西。   由   提交/u/domestic-jones  /u/domestic-jones  reddit.com/r/webdev/comments/1cguv4b/html_boilerplate_framework/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我已经几年没有使用静态 HTML 网站了。一直在寻找 HTML 框架，我发现很多我使用过并喜欢的工具都不再受支持。 要求如下： - Webpack（或等效工具，用于处理构建和插件） - Sass（不是 Post-CSS 的忠实粉丝，但如果只有它一个选项，我会使用它） - ES6 - Live Reload（我更喜欢 Browsersync） - CSS 优化插件功能（如 UnCSS、Autoprefixer 等） - Handlebars（或某种模板等效工具） 对样板有什么建议吗？我宁愿使用现有的东西，而不是从头开始创建自己的。    提交人    /u/domestic-jones   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cguv4b/html_boilerplate_framework/</guid>
       <pubDate>Tue, 30 Apr 2024 14:55:36 GMT</pubDate>
     </item>
@@ -34,7 +76,7 @@
       <pubDate>Tue, 30 Apr 2024 13:37:48 GMT</pubDate>
     </item>
     <item>
-      <title>区块链 99% 被夸大了，是骗局吗？</title>
+      <title>区块链99%是被夸大的骗局吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cgszay/is_blockchain_99_overhyped_scam/</link>
       <description><![CDATA[我是一名网络开发人员，最近加入了一家加密货币公司担任前端开发人员。这引起了我对加密货币的兴趣，我对加密货币了解得越多并与社区互动，我就越觉得大约 95% 是创建庞氏骗局的过于复杂的方式...... 我很漂亮确保“一切都将在区块链上运行”的叙述根本不是真的，因为智能合约就是狗屎。他们只能真正与区块链数据交互，而不能与现实世界的东西和 API 交互，因为这样的话，去信任应用程序的整个概念就会崩溃 --&gt;因此，在我看来，在资源有限的 EVM 上额外实现业务逻辑是没有意义的。 无论如何，这并没有阻止我。现在我正尝试亲自动手构建一些东西，看看在区块链上开发的感觉如何。我选择了在 Solana（区块链）上运行的超级井字棋，人们实际上告诉我：“只需拉地毯即可；”那更简单”，基本上告诉我我应该欺骗别人。这也向我表明，这个社区纯粹是有毒的。 有一些有趣的项目，如 Nosana、Render 等，它们试图在区块链上运行 GPU 网络，以使训练 AI 模型更便宜，但那不可能是这样。说真的，一定有一些东西我没有看到，因为我对技术不够了解，对吗？我不想投入太多的精力来学习这项技术，但一年后回来时却发现这只是一个复杂的骗局。  您对区块链发展有何看法？   由   提交 /u/haasilein   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cgszay/is_blockchain_99_overhyped_scam/</guid>
@@ -43,7 +85,7 @@
     <item>
       <title>邮递员显示“发送请求”但不执行任何操作</title>
       <link>https://www.reddit.com/r/webdev/comments/1cgsgzh/postman_showing_sending_request_but_does_not_do/</link>
-      <description><![CDATA[我的邮递员发布请求卡在发送请求中，基本上我有两个具有相同代码库的文件，当运行其中一个时我得到了 json 响应一秒钟，但是当我运行第二个时，它陷入了发布请求，我的服务器位于 mongodb    由   提交/u/Ex_bhakt69   [链接] [评论]]]></description>
+      <description><![CDATA[我的邮递员发布请求卡在发送请求中，基本上我有两个具有相同代码库的文件，当运行其中一个时，我在一秒钟内收到了 json 响应，但是当我运行第二个时，它卡在发布请求中，我的服务器在 mongodb     提交人    /u/Ex_bhakt69   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cgsgzh/postman_showing_sending_request_but_does_not_do/</guid>
       <pubDate>Tue, 30 Apr 2024 13:10:11 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[寻找一种方式来托管图像，从几百到一千个图像的网站便宜，或者可能是免费的。  这是一个 Astro 网站，希望托管在 netlify 免费套餐上。 我在想，如果我单独托管图像，那么我不应该超过 netlify 免费套餐限制吗？  或者也许我错了！   由   提交/u/Space_Ganondorf  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cgqd92/best_place_for_small_scale_image_hosting_for_a/</guid>
       <pubDate>Tue, 30 Apr 2024 11:20:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tanstack表中的分组、过滤和聚合</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cgoihh/grouping_filtering_and_aggregation_in_tanstack/</link>
-      <description><![CDATA[       由   提交/u/pdycnbl  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cgoihh/grouping_filtering_and_aggregation_in_tanstack/</guid>
-      <pubDate>Tue, 30 Apr 2024 09:20:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为为嵌入式小部件编写 CSS 的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cgo4l6/what_do_you_think_would_be_the_best_way_to_write/</link>
-      <description><![CDATA[您好，我最近一直在思考我在工作中遇到的一个问题，我想获得一些外部意见来帮助理解这个问题 TL;DR：嵌入式 Web 小部件有时会为其 CSS 或 JS 代码使用真正通用的类，最终会与我们的网站不兼容，这是谁的“错”？ ？你会如何处理呢？您认为谁应该编写 100% 独立的代码？ 因此，就一点背景而言，我在一家公司工作，该公司在一个域中构建网站，其中大量客户希望在其网站上安装外部小部件。站点（大多数时候，我们添加一些加载 div 的 JS 代码片段，这是非常基本的东西）。通常，这些小部件附带捆绑的 CSS，它们要么覆盖我们的一些样式，要么只是让它们的样式被我们的 CSS 覆盖。发生这种情况是因为小部件和我们的网站都包含诸如“title”之类的类。或“容器”，你知道，这些“通用”类型。易于重用的类名...  而且我总是对这些小部件所有者感到沮丧，因为在我看来，他们是制作一段应该在任何网站上运行的代码的人，他们不应该吗？使用真正特定的类和 ID 来使它们的小部件完全独立？至少，每当我确实需要编写一些将嵌入到其他地方的代码时，这就是我解决问题的方式。但与此同时，这种情况已经发生了很多！比如，我们必须为客户安装的 3 或 4 个小部件中，可能有 1 个需要调试，因为脚本附加到了错误的 div 或某些 CSS 损坏了……那么，也许我错了？也许我的网站应该使用复杂的类名来与地球上的每个小部件兼容，以防万一？ 我真的不知道如何解决这个问题？因为小部件所有者经常告诉他们的客户，我们有错，因为我们网站的代码覆盖了他们小部件的代码，而客户并不真正精通技术，几乎总是向我们发送有关此事的邮件，而我们最终向每个人扔石头其他类似的，这是完全愚蠢和低效的。那么...大家觉得怎么样？处理这个问题的最佳方法是什么？您曾经遇到过类似的问题吗？我真的很期待这次讨论，而不是期待一个精确的技术解决方案（如果存在的话），这是我很好奇的事情...... &lt;！-- SC_ON -- &gt;  由   提交 /u/Twistaga   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cgo4l6/what_do_you_think_would_be_the_best_way_to_write/</guid>
-      <pubDate>Tue, 30 Apr 2024 08:53:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>理发预约系统</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cgo1tc/barber_booking_system/</link>
-      <description><![CDATA[我决定创建一个理发师预约应用程序，该应用程序具有时间段、选择理发师的能力、付款和奖金系统。（React Native、Mongo、Express） 我位于希腊，我将获得的纯货币收益约为 4000。这比我个人赚的钱还多。但我开始认为该项目将比我想象的更复杂。 大多数人的答案可能是说服他们购买已经成熟的产品。但这样，我是否就不会失去构建自己的东西并利用最终产品的经验为自己谋利的机会？ 您是否有什么技巧可以让这个工作之外的项目更顺利进行？ 有没有什么来源可以激发您创建可靠模式的灵感，或者有哪些技巧可以避免陷阱？ 编辑： 这是特定理发店的预订应用程序 我将实现这样的功能https://www.nicol.salon/ 这不是一篇通篇的文章。 我现在正在考虑如何构建合适的数据库模式。 这是主要流程： - 用户将选择理发师 - 用户将选择一种预约类型，可能有不同的时间范围，例如“30 分钟理发”，45 分钟理发和胡须修剪 - 用户将看到可用日期的列表和预留的时间段。 - 他们只会选择预约的开始时间，如果合适，他们将等待管理员的确认     提交人    /u/Rigidyragidywrecked   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cgo1tc/barber_booking_system/</guid>
-      <pubDate>Tue, 30 Apr 2024 08:47:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>四月份新增网页平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cgntpa/new_to_the_web_platform_in_april/</link>
-      <description><![CDATA[      由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cgntpa/new_to_the_web_platform_in_april/</guid>
-      <pubDate>Tue, 30 Apr 2024 08:32:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>记录对象时，它会用其中一个属性覆盖另一个属性，但记录该属性本身会显示正确的属性。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cgniuh/when_logging_an_object_it_overwrites_one_of_the/</link>
-      <description><![CDATA[我目前遇到了一个非常奇怪的错误。 const defaultCampaign: CampaignNpoCreate = { general: { campaignName: &#39;&#39;, languages: [], urlName: &#39;&#39;, campaignLogo: &#39;-&#39;, approvedP2P: false, }, mail: { enableThanksMail: false, enableFiscalCertificateMail: false, thanksMail: &#39;&#39;, }, };  此 defaultCampaign（稍微简化了）可作为创建活动的基础。运行此代码后： const campaign = defaultCampaign; console.log(campaign); console.log(campaign.mail);  第一个日志显示“mail”具有与“general”相同的属性，但第二个日志显示了正确的信息。在表单中使用 campaign 对象时，它也没有正确的信息。 我尝试解构 defaultCampaign (const campaign = { ...defaultCampaign } ) 并将 defaultCampaign 设置为返回 CampaignNpoCreate 对象的函数，结果相同。有人知道是什么原因造成的吗？ 对于上下文，此代码用于 Vue 应用程序中。    提交人    /u/OABMusic1313   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cgniuh/when_logging_an_object_it_overwrites_one_of_the/</guid>
-      <pubDate>Tue, 30 Apr 2024 08:10:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>这样的网站是如何建设的呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cgmphm/how_is_a_website_like_this_built/</link>
-      <description><![CDATA[大家好， 我想了解更多关于如何构建这样的网站的信息； hotuk优惠。 com 因为我想为我所在的地区创建一个类似的网站。我擅长前端，但缺乏一些后端技能。但我只是好奇这样的网站是如何构建的。如果您有更好的设置方法，请随时发表评论！ 谢谢！   由   提交 /u/belikerich   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cgmphm/how_is_a_website_like_this_built/</guid>
-      <pubDate>Tue, 30 Apr 2024 07:12:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
