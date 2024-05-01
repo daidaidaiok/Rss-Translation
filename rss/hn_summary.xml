@@ -3,87 +3,87 @@
   <channel>
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
-    <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 21:06:39 GMT</lastBuildDate>
+    <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
+    <lastBuildDate>Wed, 01 May 2024 00:18:41 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 恶意 Python 代码获得执行是软件开发人员环境中的严重威胁 [...]</title>
-      <link>https://t.me/hn_summary/87267</link>
-      <description><![CDATA[恶意Python代码获得执行
-获得执行的恶意 Python 代码是软件开发人员环境中的严重威胁，攻击者瞄准开源软件依赖项以实现任意代码执行。威胁行为者使用各种方法来利用漏洞，包括运行加密货币挖矿程序、窃取机密或加密数据以获取赎金。 Phylum 提供了一个检测、报告和阻止恶意包的解决方案，提供了 GitHub、GitLab、Azure Pipelines 和 Bitbucket Pipelines 的集成。通过使用锁定文件、监视依赖关系并防止任意代码执行，开发人员可以保护其环境免受这些攻击。 Phylum 的社区版可用于自动化软件供应链安全并确保使用可信的开源代码。]]></description>
-      <guid>https://t.me/hn_summary/87267</guid>
-      <pubDate>Tue, 30 Apr 2024 21:06:39 GMT</pubDate>
+      <title>[媒体]我开发了一种通过自定义 ChatGPT 货币化的解决方案，特别是针对利基聊天 [...]</title>
+      <link>https://t.me/hn_summary/87288</link>
+      <description><![CDATA[展示 HN：自定义 ChatGPT 货币化解决方案 
+我开发了一种通过自定义 ChatGPT 货币化的解决方案，特别是对于具有较小用户群但可提供巨大价值的利基聊天。虽然 OpenAI 的试点货币化计划侧重于 Plus Subs 的收入分享，但我的基于提示的付费专区集成允许用户通过 Stripe 购买订阅并在每次对话开始时验证他们的电子邮件。这种实验方法可能需要一些培训，但可以有效地限制非订阅者的访问。如果您有有价值的自定义 ChatGPT 并且正在考虑获利，请访问 https://monetizechatgpts.com 进行尝试出来。我们正在探索货币化和增强聊天体验的新方法，欢迎您提供反馈。Monetizechatgpts今天通过自定义 ChatGPT 货币化OpenAI 的 GPT 商店已经推出，但收入分成却没有。不要等待，立即开始通过您的自定义 ChatGPT 获利，同时保留 100% 的收入。将您的 ChatGPT 转变为创收 SaaS]]></description>
+      <guid>https://t.me/hn_summary/87288</guid>
+      <pubDate>Wed, 01 May 2024 00:18:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Svelte 5 目前处于候选发布阶段，这表明该框架的设计 [...]</title>
-      <link>https://t.me/hn_summary/87266</link>
-      <description><![CDATA[Svelte 5 候选版本 (RC)
-Svelte 5 现在处于候选发布阶段，这表明该框架的设计已基本确定，没有重大错误。虽然尚未准备好投入生产，但现在是尝试的好时机。新功能包括用于反应性的符文、改进的事件处理、组件片段和本机 TypeScript 支持。 Svelte 4 中的组件将与 Svelte 5 一起使用，只有少数例外。最终，对 Svelte 4 功能的支持将被逐步取消。稳定版本的发布日期尚不确定，但将根据需要进行更新。请继续关注 Svelte 团队的更多更新和改进。]]></description>
-      <guid>https://t.me/hn_summary/87266</guid>
-      <pubDate>Tue, 30 Apr 2024 21:05:35 GMT</pubDate>
+      <title>Trellis 是一款革命性工具，允许用户对非结构化数据运行 SQL 查询，专业 [...]</title>
+      <link>https://t.me/hn_summary/87287</link>
+      <description><![CDATA[向 HN 展示：我们制作了 Trellis——一种对非结构化数据运行 SQL 查询的方法
+Trellis 是一款革命性的工具，允许用户对非结构化数据运行 SQL 查询，从而无缝提取有价值的见解和信息。借助 Trellis，用户可以定义转换以结构化格式组织和分析数据，从而更易于查询和操作。这个创新平台简化了处理非结构化数据的过程，为希望以新方式利用 SQL 功能的企业和个人提供了独特的解决方案。立即访问demo.runtrellis.com，体验 Trellis 的强大功能，释放非结构化数据的潜力。]]></description>
+      <guid>https://t.me/hn_summary/87287</guid>
+      <pubDate>Wed, 01 May 2024 00:17:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]国家公路交通安全管理局已正式强制要求所有新 [...]</title>
-      <link>https://t.me/hn_summary/87265</link>
-      <description><![CDATA[所有在美国销售的汽车很快都必须能够自动避免崩溃
-美国国家公路交通安全管理局已正式规定，到 2029 年 9 月 1 日，所有在美国销售的新车必须配备自动紧急制动功能，能够避免时速 62 英里的碰撞事故。然而，某些车辆有豁免、延迟推出以及禁用该系统的不同方法。汽车制造商不确定他们是否能够实现这一激进目标，并对更高速度下的可靠性提出了担忧。新规定还提出了有关误报和幻象制动事件的问题。尽管意图良好，但这些系统的有效性仍有待观察。看看汽车制造商如何应对这一挑战将会很有趣。]]></description>
-      <guid>https://t.me/hn_summary/87265</guid>
-      <pubDate>Tue, 30 Apr 2024 21:04:31 GMT</pubDate>
+      <title>隆重推出 Risk Close，这是一种交易监控器，旨在帮助交易者避免过度交易并坚持 [...]</title>
+      <link>https://t.me/hn_summary/87286</link>
+      <description><![CDATA[显示 HN：通过此交易监控器实现交易纪律自动化和一致性
+隆重推出 Risk Close，这是一种交易监控器，旨在帮助交易者避免过度交易并遵守交易规则。通过自动阻止和关闭违反您设定规则的交易，风险关闭旨在保护您的资本并促进交易纪律。该工具支持 MT4、MT5 等主要交易平台，提供实时交易监控、用户友好的仪表板以及防止规则更改的锁定功能。起价为每月 69 美元，提供 5 天免费试用，并提供高级支持。立即加入候补名单，即可在 2024 年 6 月发布时获得折扣券。]]></description>
+      <guid>https://t.me/hn_summary/87286</guid>
+      <pubDate>Wed, 01 May 2024 00:14:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 media.com 上这篇发人深省的文章中，作者深入探讨了 l [...]</title>
-      <link>https://t.me/hn_summary/87264</link>
-      <description><![CDATA[LLM作为n维空间中的n维对象
-在 medium.com 上这篇发人深省的文章中，作者深入探讨了语言模型的概念是 n 维空间中的 n 维对象。他们认为，语言模型，无论是基于符号的还是基于神经网络的，都可以表示为多维空间中的复杂对象。对提示的理解就像导航该对象的表面，通过微调和重新训练修改其拓扑。作者质疑仅语言模型是否足以进行认知和推理，这表明可能有必要进行更广泛的概括。这种独特的视角挑战了关于语言模型及其在人工智能中的作用的传统观点。]]></description>
-      <guid>https://t.me/hn_summary/87264</guid>
-      <pubDate>Tue, 30 Apr 2024 21:03:26 GMT</pubDate>
+      <title>[媒体] GitHub 上的“BrainFk Visual Editor”项目是一个用于编写和编辑程序的工具 [...]</title>
+      <link>https://t.me/hn_summary/87285</link>
+      <description><![CDATA[展示 HN：一个 Brainfuck 可视化编辑器
+GitHub 上的“BrainFk Visual Editor”项目是一个用深奥的编程语言 BrainFk 编写和编辑程序的工具。该编辑器允许用户轻松编写和可视化 BrainFk 代码，具有插入模式、类似 VIM 的绑定以及用于递增、递减和移动指针的箭头键功能等功能。该项目的灵感来自 Tsoding 的 Tula 语言/数学动画工具，但提供了一种独特的方法来编辑 BrainFk 代码。对于那些希望以可视化和交互式方式尝试 BrainFk 编程的人来说，此工具可能很有用。]]></description>
+      <guid>https://t.me/hn_summary/87285</guid>
+      <pubDate>Wed, 01 May 2024 00:13:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]ASML 印刷了第一个 10nm [...]</title>
-      <link>https://t.me/hn_summary/87263</link>
-      <description><![CDATA[ASML 使用高数值孔径 EUV 工具对第一片晶圆进行图案化，出货量第二高-NA扫描仪
-ASML 使用其高数值孔径 EUV 原型系统印刷了首批 10 纳米图案，在光刻领域实现了一个重要里程碑。该公司还向一位未透露姓名的客户交付了第二套高数值孔径 EUV 系统。英特尔计划将这些工具用于自己的研发，并计划在 2026 年至 2027 年之前大规模生产采用英特尔 14A 技术的芯片。其他领先的芯片制造商也对高数值孔径 EUV 工具表现出兴趣，这些工具有望提供更精细的分辨率和更高的晶体管密度。业界正在密切关注ASML在这一尖端技术方面的进展。]]></description>
-      <guid>https://t.me/hn_summary/87263</guid>
-      <pubDate>Tue, 30 Apr 2024 21:02:20 GMT</pubDate>
+      <title>[媒体]Show HN：你能推倒今天的墙吗？</title>
+      <link>https://t.me/hn_summary/87284</link>
+      <description><![CDATA[Show HN：你能推倒今天的墙吗？&lt; br/&gt;
+在 bythomas.co.uk，每天挑战自己倒塌的字母墙。您的任务是使用给定的字母创建 4 个有效的五字母单词。可能有多种解决方案，并且您可以使用任何有效的单词。如果您的单词正确，字母就会变成绿色并被删除。需要帮忙？每三个单词就会解锁一条线索，您可以调整设置以应对更难的挑战。 Toppled 提供独特且引人入胜的文字游戏体验。你准备好推倒今天的墙了吗？来玩吧！]]></description>
+      <guid>https://t.me/hn_summary/87284</guid>
+      <pubDate>Wed, 01 May 2024 00:12:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Kubernetes 作为调度程序 vs.</title>
-      <link>https://t.me/hn_summary/87262</link>
-      <description><![CDATA[Kubernetes 作为调度程序与 API 代理&lt; br/&gt;
-Kubernetes 不再只是一个容器编排器；而是一个容器编排器。它现在面临管理云服务和数据库等外部资源的挑战。这种扩展带来了重大的安全挑战，需要转向零信任安全模型。传统的 RBAC 方法难以跨不同安全域映射权限，因此难以确保合规性和安全性。 Otterize 提供了一种解决方案，通过使用基于意图的访问控制 (IBAC) 自动化 IAM 策略，简化安全管理并确保持续合规性。通过将安全性视为代码并将其集成到开发生命周期中，Otterize 提供了一种可扩展且适应性强的方法来保护 Kubernetes 环境。 （根据故事文本的 43% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/87262</guid>
-      <pubDate>Tue, 30 Apr 2024 21:01:15 GMT</pubDate>
+      <title>介绍我们的创新工具，该工具结合了 GPT-4 和 DataForSEO 的强大功能，可帮助您 [...]</title>
+      <link>https://t.me/hn_summary/87283</link>
+      <description><![CDATA[Show HN：使用GPT-4和DataForSEO来查找的工具创业想法
+隆重推出我们的创新工具，该工具结合了 GPT-4 和 DataForSEO 的强大功能，可帮助您发现客户正在积极寻找的独特创业想法。通过 Find Micro Saas Ideas，您可以了解最新趋势并发现市场中隐藏的机会。利用我们的尖端技术在竞争中保持领先并成功创业。版权所有 © 2024 - 保留所有权利。今天就探索创业的未来！]]></description>
+      <guid>https://t.me/hn_summary/87283</guid>
+      <pubDate>Wed, 01 May 2024 00:11:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 由于“网络安全事件”，加拿大西部的伦敦药店仍处于关闭状态 [...]</title>
-      <link>https://t.me/hn_summary/87261</link>
-      <description><![CDATA[网络安全事件导致 London Drugs 商店继续关闭&lt; br/&gt;
-由于“网络安全事件”，加拿大西部的伦敦药店仍然关闭，没有提供重新开业的时间表。该公司正在与网络安全专家合作调查数据泄露的程度。顾客仍然可以亲自获得紧急药房护理，但电话线路已中断。该事件突显了加拿大网络犯罪日益猖獗，专家强调了积极主动的网络安全措施的重要性。网络安全专家乔恩·弗格森表示，此次泄露可能涉及勒索软件或数据泄露，并强调公司和个人需要更新软件并使用双因素身份验证来防范此类攻击。]]></description>
-      <guid>https://t.me/hn_summary/87261</guid>
-      <pubDate>Tue, 30 Apr 2024 21:00:09 GMT</pubDate>
+      <title>[媒体]同店销售额意外下降，导致星巴克股价暴跌8% [...]</title>
+      <link>https://t.me/hn_summary/87282</link>
+      <description><![CDATA[季度业绩同店销售额下降，星巴克股价下跌 8%想念
+由于同店销售额意外下降，星巴克股价暴跌 8%，导致季度报告令人失望。首席执行官 Laxman Narasimhan 承认公司面临的挑战，包括所有地区（尤其是美国和中国）的流量和销售额下降。该公司目前正在修订其 2024 财年预测，预计收入增长将呈低个位数增长，每股收益增长将持平至低个位数。星巴克计划通过新的订购选项吸引更多临时顾客，并扩大其成功的薰衣草饮料系列。尽管遇到挫折，该公司仍专注于实施战略行动，以提高业绩并实现 40 亿美元的供应链成本节约。]]></description>
+      <guid>https://t.me/hn_summary/87282</guid>
+      <pubDate>Tue, 30 Apr 2024 23:56:34 GMT</pubDate>
     </item>
     <item>
-      <title>Rama 是一个强大的编程平台，展示了 Clojure 在革新 [...] 方面的能力。</title>
-      <link>https://t.me/hn_summary/87260</link>
-      <description><![CDATA[Rama 证明了 Clojure 的力量&lt; br/&gt;
-Rama 是一个强大的编程平台，展示了 Clojure 彻底改变后端开发的能力。 Rama 以新的编程语言和范例为核心，用最少的代码简化了端到端后端的创建。该平台强调不变性和数据结构导向，以及无缝混合范例的能力，使其与众不同。 Rama 与 Clojure 的集成可实现平滑的互操作性和高效的执行。虽然 Clojure 的原则已被证明可以简化软件开发，但 Rama 更进一步，解决了构建端到端后端的所有方面问题，使其成为行业游戏规则的改变者。加入 #rama 频道中有关 Clojure Slack 的讨论。]]></description>
-      <guid>https://t.me/hn_summary/87260</guid>
-      <pubDate>Tue, 30 Apr 2024 20:59:04 GMT</pubDate>
+      <title>[媒体] 一名前谷歌软件工程师在参加针对以色列的抗议活动后被解雇 [...]</title>
+      <link>https://t.me/hn_summary/87281</link>
+      <description><![CDATA[Google 员工因抗议以色列合同文件 NLRB 投诉而被解雇 
+一名前谷歌软件工程师在参加针对以色列国防合同的抗议活动后被解雇，尽管他声称自己只是一个旁观者。因抗议活动，谷歌最初让 9 名员工休假，最终解雇了 28 名员工。超过 50 名被解雇的员工已向国家劳工关系委员会提出投诉，指控遭到非法报复。谷歌对此提出异议，称所有被解雇的员工都参与了破坏性活动。这标志着谷歌对员工异议反应的转变，因为过去针对 Dragonfly 项目和 Maven 项目等项目的抗议处理方式有所不同。被解雇的工程师认为 Google 正在打击员工表达担忧。]]></description>
+      <guid>https://t.me/hn_summary/87281</guid>
+      <pubDate>Tue, 30 Apr 2024 23:43:27 GMT</pubDate>
     </item>
     <item>
-      <title>在这项研究中，我们通过评估 [...]</title>
-      <link>https://t.me/hn_summary/87259</link>
-      <description><![CDATA[用陪审团取代法官：用模型小组评估 LLM 一代&lt; /a&gt;
-在这项研究中，我们通过使用一组模型评估不同代法律语言模型（LLM）的表现，探讨了在法律体系中用陪审团取代法官的想法。通过比较法学硕士做出法律判断的准确性和效率，我们的目的是确定它们是否可以有效替代人类法官。我们的研究结果表明，虽然法学硕士在某些领域表现出希望，但在实施此类系统之前必须考虑其能力的局限性。这个有争议的话题引发了有关技术在法律领域中的作用的重要问题。]]></description>
-      <guid>https://t.me/hn_summary/87259</guid>
-      <pubDate>Tue, 30 Apr 2024 20:58:00 GMT</pubDate>
+      <title>[媒体] Rabbit R1 是一款备受期待的人工智能设备，但它却让早期支持者感到失望 [...]</title>
+      <link>https://t.me/hn_summary/87280</link>
+      <description><![CDATA[Rabbit R1，一个应该只是一个应用程序的东西，只是一个 Android 应用
+Rabbit R1 是一款备受期待的人工智能设备，但其平淡的性能让早期支持者感到失望。批评者认为，该设备几乎没有智能手机无法提供的功能，这导致许多人质疑为什么像 Rabbit 这样的公司不直接发布应用程序。令人惊讶的是，人们发现 Rabbit R1 实际上在 Android 上运行，其整个界面由单个 Android 应用程序提供支持。这一爆料引发了争议，并引发了人们对此类硬件产品必要性的质疑。 Rabbit R1 的功能可以在智能手机上复制，这一事实既有趣又说明了人工智能设备的当前状态。]]></description>
+      <guid>https://t.me/hn_summary/87280</guid>
+      <pubDate>Tue, 30 Apr 2024 23:41:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]JFrog 研究团队发现了针对 Docker Hub 的协同攻击，这些攻击植入了 [...]</title>
-      <link>https://t.me/hn_summary/87258</link>
-      <description><![CDATA[JFrog 研究发现针对 Docker Hub 的协同攻击造成了数百万美元的损失
-JFrog 研究团队发现了针对 Docker Hub 的协同攻击，这些攻击在数百万个“无图像”存储库中植入了恶意元数据。这些存储库不包含容器映像，而是包含恶意元数据。 Docker Hub 上近 20% 的公共存储库被发现托管恶意内容，包括垃圾邮件、恶意软件和网络钓鱼网站。该研究发现了三起针对 Docker Hub 的大规模恶意软件活动，其中一项活动使用 SEO 文本创建虚假存储库，提议下载盗版内容或视频游戏作弊内容。这些活动使用了各种策略来避免检测，例如使用虚假 URL 缩短程序和重定向到合法资源作为恶意来源的掩护。 （根据 47% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/87258</guid>
-      <pubDate>Tue, 30 Apr 2024 20:56:56 GMT</pubDate>
+      <title>[媒体]Kevin Buzzard 讨论了在精益中证明费马大定理的雄心勃勃的项目，[...]</title>
+      <link>https://t.me/hn_summary/87279</link>
+      <description><![CDATA[费马大定理项目
+凯文·巴扎德 (Kevin Buzzard) 讨论了在精益中证明费马大定理的雄心勃勃的项目，强调了该定理陈述的简单性与其证明的复杂性形成鲜明对比。该项目旨在使用交互式定理证明器将现代数学形式化，目标是将 FLT 简化为 20 世纪 80 年代末已知的主张。众包数学是该项目成功的关键，它允许贡献者解决小引理并在 Lean Zulip 聊天中实时协作。该项目由 EPSRC 资助，旨在弥合现代研究和计算机辅助数学之间的差距，最终实现计算机可以理解的 FLT 证明。]]></description>
+      <guid>https://t.me/hn_summary/87279</guid>
+      <pubDate>Tue, 30 Apr 2024 23:29:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

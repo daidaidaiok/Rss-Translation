@@ -4,7 +4,7 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 21:07:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 00:19:41 GMT</lastBuildDate>
     <item>
       <title>Adobe 是否是一家设置障碍阻碍竞争的垄断企业？</title>
       <link>https://www.reddit.com/r/software/comments/1ch0afe/is_adobe_a_monopoly_that_is_putting_hurdles_in/</link>
@@ -27,7 +27,7 @@
       <pubDate>Tue, 30 Apr 2024 16:58:04 GMT</pubDate>
     </item>
     <item>
-      <title>是否有重复文件查找器可以按内容查找重复的文档文件</title>
+      <title>是否有一个重复文件查找器，可以根据内容查找重复的文档文件</title>
       <link>https://www.reddit.com/r/software/comments/1cguqmi/is_there_a_duplicate_file_finder_that_finds/</link>
       <description><![CDATA[我继承了母亲的电脑和拇指驱动器，正在翻阅她近 40 年的文档文件。在所有不同的备份副本和以新名称重新保存的版本之间，有很多很多情况，同一首诗、故事或信件有多个版本。文本完全相同，但文件的二进制文件不相同（字体不同，或者最后保存的 MS Word 版本不同，诸如此类）。文件名也经常不同。 是否有任何软件可以比较文档文件的内容并为我标记重复项，即使文件在版本/格式/方面存在差异元数据？理想情况下，它知道如何处理 doc 和 docx。在完美的世界中，它还知道如何处理由 DOS、wordperfect 等创建的文档。   由   提交/u/Glaurung_Quena   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cguqmi/is_there_a_duplicate_file_finder_that_finds/</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>硬件监控器</title>
       <link>https://www.reddit.com/r/software/comments/1cgqgnm/hwmonitor/</link>
-      <description><![CDATA[您好！所以我今天开始使用 HWMonitor，我想到了几个问题。我的目标不是成为一名计算机天才，所以如果你简化你的答案就可以了。  如果我想跟踪基本的东西，我应该主要寻找什么？ &lt; li&gt;什么是 GPU“热点”？ “热点”是否有效？适用于更多事物，例如 CPU？  我想在游戏时进行跟踪的原因很简单，因为我想知道我的 CP 何时工作较多，何时完全不工作。我有一台相当新的电脑，所以没有任何具体问题。 https://preview.redd.it/q8h0rn4jqlxc1.png?width=656&amp;format=png&amp;auto=webp&amp;s=ab515f8aff68f16e30aafa70d0c1f0ea 3533a5d0   由   提交 /u/Orreputt   [链接] [评论]]]></description>
+      <description><![CDATA[您好！今天我开始使用 HWMonitor，脑子里出现了几个问题。我并不是想成为计算机天才，所以如果您能简化您的答案就好了。  如果我想跟踪基本内容，我应该主要寻找什么？ 什么是 GPU“热点”？ “热点”是否适用于更多内容，例如 CPU？  我想在玩游戏时进行跟踪的原因只是因为我想知道我的 CP 何时工作很多，何时根本不工作。我有一台很新的 PC，所以没有任何特定问题。 https://preview.redd.it/q8h0rn4jqlxc1.png?width=656&amp;format=png&amp;auto=webp&amp;s=ab515f8aff68f16e30aafa70d0c1f0ea3533a5d0    提交人    /u/Orreputt   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cgqgnm/hwmonitor/</guid>
       <pubDate>Tue, 30 Apr 2024 11:26:08 GMT</pubDate>
     </item>
@@ -69,7 +69,7 @@
       <pubDate>Tue, 30 Apr 2024 09:36:21 GMT</pubDate>
     </item>
     <item>
-      <title>可视化产品公司间关系的程序。</title>
+      <title>用于可视化产品的公司间关系的程序。</title>
       <link>https://www.reddit.com/r/software/comments/1cgmcob/program_to_visualize_intercompany_relations_for/</link>
       <description><![CDATA[所以我从事销售工作。  我意识到，如果我能列出极其具体的其他公司作为参考，我可以与客户进行完全不同的对话。  要做到这一点，我必须找到一个数据库/BI 工具，可以记录公司生产什么产品、他们的供应商是谁、他们的产品卖给谁、推动同一行业内公司的利益相关者。  这些公司都互相认识。向客户列出 3 个供应商、他们的 4 个客户和他们的 2 个竞争对手也是客户，您将立即获得他们的信任。  我对数据库有非常基本的了解。我相信这将有很多非常小的桌子。增加查询运行时间。  D365 中有大量数据，但所有详细信息都必须手动输入。    由   提交/u/NoShirt158  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cgmcob/program_to_visualize_intercompany_relations_for/</guid>
@@ -104,7 +104,7 @@
       <pubDate>Mon, 29 Apr 2024 23:21:19 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub Copilot 现在可以利用 AI 帮助启动项目，而不仅仅是完成它</title>
+      <title>GitHub Copilot 现在可以帮助启动人工智能项目，而不仅仅是完成它</title>
       <link>https://www.reddit.com/r/software/comments/1cgcp3a/github_copilot_can_now_help_start_a_project_with/</link>
       <description><![CDATA[ 由   提交/u/badshah247  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cgcp3a/github_copilot_can_now_help_start_a_project_with/</guid>
