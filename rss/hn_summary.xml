@@ -1,89 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>HN 摘要</title>
+    <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 01 May 2024 02:41:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 05:41:26 GMT</lastBuildDate>
     <item>
-      <title>LANANA 是 Linux 命名空间分配的权威机构，确保更好的互操作性 [...]</title>
-      <link>https://t.me/hn_summary/87308</link>
-      <description><![CDATA[Linux 名称和数字分配机构
-LANANA 是 Linux 命名空间分配的权威机构，可确保驱动程序和应用程序具有更好的互操作性和可用性。LANANA 由 Jeff Licquia 维护，旨在通过用户友好的注册服务防止命名空间冲突。虽然已发布的分配可在网站上找到，但可能还有其他分配尚未公开。这项独特的服务对于 Linux 社区的繁荣和发展至关重要。]]></description>
-      <guid>https://t.me/hn_summary/87308</guid>
-      <pubDate>Wed, 01 May 2024 02:41:34 GMT</pubDate>
+      <title>[媒体]Roger Ver，一位被称为“比特币耶稣”的早期比特币投资者，被指控犯有多项罪行 [...]</title>
+      <link>https://t.me/hn_summary/87339</link>
+      <description><![CDATA[早期比特币投资者 Roger Ver 被指控税务欺诈&lt; br /&gt;
+被称为“比特币耶稣”的早期比特币投资者罗杰·维尔 (Roger Ver) 被指控邮件欺诈、逃税和提交虚假纳税申报表。据称，Ver 为自己和他的公司购买了比特币，但在放弃美国公民身份后未能向美国国税局准确报告这些比特币。他被指控给国税局造成至少 4800 万美元的损失。尽管Ver已移居国外，但法律要求他对某些分配进行报告和纳税，据称他隐瞒了这些分配。此案正在由美国国税局刑事调查网络犯罪部门调查，Ver 面临被引渡到美国接受审判。]]></description>
+      <guid>https://t.me/hn_summary/87339</guid>
+      <pubDate>Wed, 01 May 2024 05:41:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果将推出 Safari 18 以及新操作系统，其中包含人工智能工具 [...]</title>
-      <link>https://t.me/hn_summary/87307</link>
-      <description><![CDATA[Apple 将与新操作系统一起推出支持人工智能的 Safari
-苹果将​​与新操作系统一起推出 Safari 18，其中包括智能搜索和网页橡皮擦等人工智能工具。新的 Safari 菜单将整合控件以方便访问，统一 iPadOS 和 macOS UI 范例。此外，Apple 正在为 2025 年开发强大的视觉搜索功能。这些增强功能使 Safari 能够在人工智能领域与竞争对手抗衡。虽然这些功能正在测试中，但并非所有功能都能发布。苹果对人工智能的关注显而易见，更多功能预计将在 6 月 10 日的 WWDC 上随 iOS 18 和 macOS 15 一起亮相。]]></description>
-      <guid>https://t.me/hn_summary/87307</guid>
-      <pubDate>Wed, 01 May 2024 02:38:30 GMT</pubDate>
+      <title>[媒体]Dream-HTML 是一个允许生成 HTML、SVG 和 MathML 标记的库 [...]</title>
+      <link>https://t.me/hn_summary/87338</link>
+      <description><![CDATA[Dream-HTML – 渲染 HTML、SVG、MathML、Htmx 标记OCaml
+Dream-HTML 是一个库，允许使用 Dream 从 OCaml 后端服务器生成 HTML、SVG 和 MathML 标记。它旨在提供 TyXML 和 Dream 的 eml 的更用户友好的替代方案，为创建 HTML 模板提供更简单的语法。该项目包含几乎所有标准 HTML 元素和属性，同时省略非标准或已弃用的元素和属性。它还支持开箱即用的 htmx 属性。 Dream-HTML 通过提供更直观的方式来生成 HTML 标记以及提供与 Dream 的 CSRF 令牌生成的集成而与众不同。它还通过转义属性和文本值来确保安全性。]]></description>
+      <guid>https://t.me/hn_summary/87338</guid>
+      <pubDate>Wed, 01 May 2024 05:38:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这个项目是一个简单的留言板和显示系统，使用 Bash 脚本创建 [...]</title>
-      <link>https://t.me/hn_summary/87306</link>
-      <description><![CDATA[显示 HN：让人想起早期互联网的留言板（我认为） 
-该项目是一个使用 Bash 脚本和 Docker 容器创建的简单消息板和显示系统。它包括消息服务器脚本、Web 服务器脚本和备份脚本。用户可以向服务器发送消息并通过 Web 界面查看它们。该项目允许自定义端口、文件路径、页眉和页脚文本。还执行消息的每日备份。该项目旨在重现早期互联网留言板的感觉，并通过使用 Bash 脚本和 Docker 容器来轻松设置和管理，从而使自己与众不同。]]></description>
-      <guid>https://t.me/hn_summary/87306</guid>
-      <pubDate>Wed, 01 May 2024 02:27:23 GMT</pubDate>
+      <title>[媒体]在这项开创性的研究中，研究人员探索了负质量激子的概念[...]</title>
+      <link>https://t.me/hn_summary/87337</link>
+      <description><![CDATA[光-物质耦合半导体诱发的负质量激子极化子
+在这项开创性的研究中，研究人员探索了半导体中光与物质耦合引起的负质量激子极化激元的概念。通过引入一种非厄米哈密顿量来解释腔光子和激子之间的相干和耗散耦合，该团队发现了异常色散行为，该行为导致激子极化子色散中的能级吸引和负质量区域。这种意想不到的现象，即质量在反演峰值附近变成负值，挑战了传统的理解，并为操纵光与物质相互作用开辟了新的可能性。该研究揭示了激子极化子的复杂动力学，并为光子学和量子技术的创新应用铺平了道路。 （根据 48% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87337</guid>
+      <pubDate>Wed, 01 May 2024 05:06:07 GMT</pubDate>
     </item>
     <item>
-      <title>澳洲航空的客户对该航空公司应用程序中的数据泄露感到震惊，该应用程序允许他们访问 [...]</title>
-      <link>https://t.me/hn_summary/87305</link>
-      <description><![CDATA[澳洲航空应用程序数据泄露允许客户访问陌生人的预订详细信息
-澳洲航空的客户对该航空公司应用程序中的数据泄露感到震惊，该应用程序允许他们访问陌生人的预订详细信息。用户报告说看到了不正确的帐户信息，包括未知人员的登机牌和积分。该漏洞甚至允许用户以其他人的名义更换座位、取消航班或预订新航班。一些客户对其个人信息的安全表示担忧。澳洲航空正在调查该问题，并建议客户注销并重新登录其帐户。该航空公司对由此造成的任何不便表示歉意，并警告乘客在此期间警惕社交媒体诈骗。]]></description>
-      <guid>https://t.me/hn_summary/87305</guid>
-      <pubDate>Wed, 01 May 2024 02:23:18 GMT</pubDate>
+      <title>[媒体] 标题：150 倍 PGVector 加速</title>
+      <link>https://t.me/hn_summary/87336</link>
+      <description><![CDATA[150 倍 PGVector 加速
+标题：150 倍 PGVector 加速
+
+在 jkatz05.com 上的这篇“年度回顾”文章中，我深入探讨了 pgvector 令人印象深刻的性能改进，并特别感谢 Andrew Kane。重点介绍了 0.5.0 版和 0.7.0 版之间索引构建时间显著加快 150 倍，这是通过“二进制量化”方法实现的。虽然已经发布了一些具有竞争力的基准，但公平地定位技术并承认需要改进的领域至关重要。透明的测试方法和与之前 pgvector 版本的比较展示了该项目的发展和潜力。从召回率到延迟和吞吐量，pgvector 在向量相似性搜索领域不断发展并令人印象深刻。（基于 42% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87336</guid>
+      <pubDate>Wed, 01 May 2024 05:02:01 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出 Codehelium，这是一个轻量级 React IDE 组件，允许用户编写和执行 [...]</title>
-      <link>https://t.me/hn_summary/87304</link>
-      <description><![CDATA[显示 HN：运行用户编写的 Python 代码的轻量级 React IDE 组件
-隆重推出 Codehelium，这是一个轻量级的 React IDE 组件，允许用户直接在浏览器中编写和执行 Python 代码。这个无膨胀工具非常适合快速测试概念和想法。通过安装 npm 包并导入 PythonEditor 组件，您可以轻松地将 Codehelium 集成到您的 React 应用程序中。此外，您可以根据用户编写的代码自定义控制台输出，甚至使用外部 Pyodide 实例进行更多控制。该项目对贡献开放，旨在支持导入外部 Python 包、使用其他语言进行编码等。通过为该存储库加注星标并为其开发做出贡献来表达您的支持！]]></description>
-      <guid>https://t.me/hn_summary/87304</guid>
-      <pubDate>Wed, 01 May 2024 02:21:13 GMT</pubDate>
+      <title>[媒体]“粪便流程图”是一张技术图，显示排泄物如何通过 [...]</title>
+      <link>https://t.me/hn_summary/87335</link>
+      <description><![CDATA[狗屎流程图
+“粪便流程图”是一张技术图，显示排泄物如何通过一个位置，重点关注废物处理和处置。该工具最初由世界银行的水和卫生项目开发，用于发展中国家应对卫生挑战。已发布 240 多份报告，重点关注南亚和非洲。该图简化了有关排泄物管理的对话，从而实现有效的资源分配。这种独特的方法提供了污水流量的可视化表示，强调了不断发展的城市地区改进卫生策略的必要性。]]></description>
+      <guid>https://t.me/hn_summary/87335</guid>
+      <pubDate>Wed, 01 May 2024 04:56:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]微软发布了开源 Cascadia Code 字体的更新，该字体专为 [...]</title>
-      <link>https://t.me/hn_summary/87303</link>
-      <description><![CDATA[Microsoft Cascadia Code NF - Nerd 字体
-微软发布了开源 Cascadia Code 字体的更新，专为终端和代码编辑器设计。版本 2404.23 包括 1,140 个带有用于遗留计算的符号的新字形，以及新的原生“Nerd Font”变体。此字体更新面向开发人员，并在 Windows 终端下使用适用于 Linux 和 Ubuntu 的 Windows 子系统进行展示。有关更多信息，请访问 Microsoft 开发者博客或从 GitHub 下载字体。此次更新为开发人员选择的这种流行字体带来了新功能和改进。]]></description>
-      <guid>https://t.me/hn_summary/87303</guid>
-      <pubDate>Wed, 01 May 2024 02:20:08 GMT</pubDate>
+      <title>[媒体]像麦当劳这样的大品牌警告说，低收入消费者开始崩溃[...]</title>
+      <link>https://t.me/hn_summary/87334</link>
+      <description><![CDATA[麦当劳和其他大品牌警告说，低收入消费者开始破解
+麦当劳等大品牌警告说，低收入消费者在通货膨胀的压力下开始崩溃。尽管价格增长略有放缓，但消费者仍感到手头紧缩，钱包紧缩。这导致消费者信心下降和消费习惯发生转变。 3M 和 Newell Brands 等公司正感受到通货膨胀的影响，而高露洁棕榄和可口可乐等公司则有所缓解。持续的通货膨胀斗争正在影响企业和消费者，创造一个充满挑战的经济环境。]]></description>
+      <guid>https://t.me/hn_summary/87334</guid>
+      <pubDate>Wed, 01 May 2024 04:54:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在 2024 年 4 月的更新中，Linux Mint 讨论了分叉更多 GNOME 应用程序的计划 [...]</title>
-      <link>https://t.me/hn_summary/87302</link>
-      <description><![CDATA[Linux Mint 希望分叉更多 Gnome 软件，使 XApp 更加独立&lt; /a&gt;
-在 2024 年 4 月的更新中，Linux Mint 讨论了分叉更多 GNOME 应用程序并使 XApp 应用程序更加独立的计划。他们的目标是与其他 Linux 发行版合作，并通过为 XApp 提供自己的 GitHub 存储库和网站来增加贡献。由于 Adwaita 库专门针对 GNOME，Linux Mint 希望将各种 GNOME 应用程序的较旧 GTK3 版本作为 XApp 的一部分进行维护。他们强调支持与其用户和环境相一致的应用程序的重要性。看看这些分叉如何发展以及其他各方对更独立的 XApp 项目的兴趣程度将会很有趣。]]></description>
-      <guid>https://t.me/hn_summary/87302</guid>
-      <pubDate>Wed, 01 May 2024 01:28:51 GMT</pubDate>
+      <title>[媒体]工程师 Adam Majmudar 在短短两周内从头开始成功构建了 GPU，sh [...]</title>
+      <link>https://t.me/hn_summary/87333</link>
+      <description><![CDATA[工程师在两周内“从头开始构建 GPU”
+工程师 Adam Majmudar 在短短两周内从头开始成功构建了 GPU，并在 Twitter 上展示了他的旅程。尽管在 GPU 设计过程中面临挑战，Majmudar 仍专注于通用并行计算能力，并编写了矩阵数学内核来演示 GPU 在图形和机器学习任务中的功能。在 George Hotz 的指导下，Majmudar 克服了障碍，并通过 OpenLane EDA 软件成功验证了他的 GPU 设计。虽然无法与顶级显卡相比，但 Majmudar 的自制 GPU 是一项了不起的成就，很快将通过 Tiny Tapeout 7 成为物理芯片。]]></description>
+      <guid>https://t.me/hn_summary/87333</guid>
+      <pubDate>Wed, 01 May 2024 04:53:48 GMT</pubDate>
     </item>
     <item>
-      <title>Aboriginal Linux 是一个极简构建系统，可为各种 [...]</title>
-      <link>https://t.me/hn_summary/87301</link>
-      <description><![CDATA[原住民Linux
-Aboriginal Linux 是一个极简的构建系统，可以为各种架构创建可启动的系统映像，从而无需进行大量的交叉编译即可实现跨平台支持。它自动化回归测试，提供自托管开发环境，并强调使用当前的普通软件包以避免兼容性问题。该项目正在转向使用 toybox、musl 和 llvm 来简化开发环境并减少对 GPL 软件的依赖。最终目标是只有四个软件包：linux、toybox、musl 和 qcc。这种转变是由 uClibc 的长期开发问题和避免 GPLv3 的愿望推动的。 （根据 42% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/87301</guid>
-      <pubDate>Wed, 01 May 2024 01:18:45 GMT</pubDate>
+      <title>在我即将迎来 73 岁生日之际，我向大家分享 101 条我希望早点知道的新建议。</title>
+      <link>https://t.me/hn_summary/87332</link>
+      <description><![CDATA[凯文·凯利：101 条额外建议
+在我即将迎来 73 岁生日之际，我向大家分享 101 条我希望早点知道的新建议。这些技巧涵盖了广泛的主题，从拥抱你喜欢的事情到投资自己。一个建议是通过移除而不是添加东西来让房间变得奢华。另一种建议是在你的父母还活着的时候采访他们，以了解一些令人惊奇的事情。我还建议尝试用你喜欢的东西来定义自己，而不是你讨厌的东西。这些建议旨在激励和指导您的人生旅程。 （根据 73% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87332</guid>
+      <pubDate>Wed, 01 May 2024 04:52:44 GMT</pubDate>
     </item>
     <item>
-      <title>询问 HN：2008 年之前的 4chan 档案？</title>
-      <link>https://t.me/hn_summary/87300</link>
-      <description><![CDATA[询问 HN：2008 年之前的 4chan 档案？&lt; br /&gt;
-大家好，我一直在深入研究 4chan 的历史，并且正在寻找 2008 年之前的档案。我很好奇这个平台多年来是如何发展的，以及早期是否有任何隐藏的瑰宝。任何线索或资源将不胜感激。让我们一起揭开4chan的秘密吧！]]></description>
-      <guid>https://t.me/hn_summary/87300</guid>
-      <pubDate>Wed, 01 May 2024 01:11:39 GMT</pubDate>
+      <title>[媒体] Rabbit R1 启动器 APK 已成功下载并在 Google Pixel 6A 上运行 [...]</title>
+      <link>https://t.me/hn_summary/87331</link>
+      <description><![CDATA[Rabbit R1 作为 Android 应用
+Mishaal Rahman 已成功下载 Rabbit R1 启动器 APK 并在 Google Pixel 6A 上运行，使他能够与该应用程序进行交互，就像在 Rabbit 自己的设备上一样。然而，Rahman 指出，由于系统级权限的原因，该应用程序可能无法提供与 R1 相同的功能。 Rabbit 创始人 Jesse Lyu 不同意 R1 只是一款 Android 应用程序的说法，并表示它运行在定制的操作系统和云服务上。尽管软件更新解决了一些投诉，但与智能手机相比，R1 缺乏独特的功能，这引发了人们对其必要性的质疑。争议在于 R1 是否真正是一个独立设备，或者只是一个应用程序。]]></description>
+      <guid>https://t.me/hn_summary/87331</guid>
+      <pubDate>Wed, 01 May 2024 04:49:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 为什么人工智能不想向我展示耶稣为门徒洗脚的场景？</title>
-      <link>https://t.me/hn_summary/87299</link>
-      <description><![CDATA[为什么人工智能不想向我展示耶稣洗脚的场景他的门徒？
-令笔者感到困惑的是，人工智能图像生成器似乎很难创建耶稣为门徒洗脚的图像，这是基督教艺术和神话中常见且重要的场景。尽管有大量关于这一事件的历史艺术表现，但人工智能结果始终显示耶稣洗脚而不是洗衣服。作者推测了造成这种情况的可能原因，包括人工智能的参数可能避免将耶稣描绘成屈从的位置。作者还质疑他们是否对人工智能要求过高。]]></description>
-      <guid>https://t.me/hn_summary/87299</guid>
-      <pubDate>Wed, 01 May 2024 01:09:35 GMT</pubDate>
+      <title>[媒体]在中国，政府正在利用先进的人工智能技术来创建监控统计数据 [...]</title>
+      <link>https://t.me/hn_summary/87330</link>
+      <description><![CDATA[圆形监狱已经在这里（2020）
+在中国，政府正在利用先进的人工智能技术来创建一个实时监控公民的监控国家。中国国家主席习近平的目标是到 2030 年实现人工智能霸主地位，并已经实施了一套使用算法来识别异议者的社会控制系统。这一系统已经在新疆维吾尔族穆斯林少数民族身上进行了测试，那里有超过一百万人被监禁并受到严密监视。人工智能监控工具的使用正在扩大，中国正在将这项技术出口到其他独裁政权，这可能会重塑全球地缘政治。以中国为首的人工智能驱动的威权集团的出现可能会威胁到全世界的政治自由。 （根据故事文本的 28% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87330</guid>
+      <pubDate>Wed, 01 May 2024 04:43:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
