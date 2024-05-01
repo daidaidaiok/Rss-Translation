@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>HN总结</title>
+    <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
-    <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Wed, 01 May 2024 00:18:41 GMT</lastBuildDate>
+    <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
+    <lastBuildDate>Wed, 01 May 2024 02:41:34 GMT</lastBuildDate>
     <item>
-      <title>[媒体]我开发了一种通过自定义 ChatGPT 货币化的解决方案，特别是针对利基聊天 [...]</title>
-      <link>https://t.me/hn_summary/87288</link>
-      <description><![CDATA[展示 HN：自定义 ChatGPT 货币化解决方案 
-我开发了一种通过自定义 ChatGPT 货币化的解决方案，特别是对于具有较小用户群但可提供巨大价值的利基聊天。虽然 OpenAI 的试点货币化计划侧重于 Plus Subs 的收入分享，但我的基于提示的付费专区集成允许用户通过 Stripe 购买订阅并在每次对话开始时验证他们的电子邮件。这种实验方法可能需要一些培训，但可以有效地限制非订阅者的访问。如果您有有价值的自定义 ChatGPT 并且正在考虑获利，请访问 https://monetizechatgpts.com 进行尝试出来。我们正在探索货币化和增强聊天体验的新方法，欢迎您提供反馈。Monetizechatgpts今天通过自定义 ChatGPT 货币化OpenAI 的 GPT 商店已经推出，但收入分成却没有。不要等待，立即开始通过您的自定义 ChatGPT 获利，同时保留 100% 的收入。将您的 ChatGPT 转变为创收 SaaS]]></description>
-      <guid>https://t.me/hn_summary/87288</guid>
-      <pubDate>Wed, 01 May 2024 00:18:41 GMT</pubDate>
+      <title>LANANA 是 Linux 命名空间分配的权威机构，确保更好的互操作性 [...]</title>
+      <link>https://t.me/hn_summary/87308</link>
+      <description><![CDATA[Linux 名称和数字分配机构
+LANANA 是 Linux 命名空间分配的权威机构，可确保驱动程序和应用程序具有更好的互操作性和可用性。LANANA 由 Jeff Licquia 维护，旨在通过用户友好的注册服务防止命名空间冲突。虽然已发布的分配可在网站上找到，但可能还有其他分配尚未公开。这项独特的服务对于 Linux 社区的繁荣和发展至关重要。]]></description>
+      <guid>https://t.me/hn_summary/87308</guid>
+      <pubDate>Wed, 01 May 2024 02:41:34 GMT</pubDate>
     </item>
     <item>
-      <title>Trellis 是一款革命性工具，允许用户对非结构化数据运行 SQL 查询，专业 [...]</title>
-      <link>https://t.me/hn_summary/87287</link>
-      <description><![CDATA[向 HN 展示：我们制作了 Trellis——一种对非结构化数据运行 SQL 查询的方法
-Trellis 是一款革命性的工具，允许用户对非结构化数据运行 SQL 查询，从而无缝提取有价值的见解和信息。借助 Trellis，用户可以定义转换以结构化格式组织和分析数据，从而更易于查询和操作。这个创新平台简化了处理非结构化数据的过程，为希望以新方式利用 SQL 功能的企业和个人提供了独特的解决方案。立即访问demo.runtrellis.com，体验 Trellis 的强大功能，释放非结构化数据的潜力。]]></description>
-      <guid>https://t.me/hn_summary/87287</guid>
-      <pubDate>Wed, 01 May 2024 00:17:37 GMT</pubDate>
+      <title>[媒体]苹果将推出 Safari 18 以及新操作系统，其中包含人工智能工具 [...]</title>
+      <link>https://t.me/hn_summary/87307</link>
+      <description><![CDATA[Apple 将与新操作系统一起推出支持人工智能的 Safari
+苹果将​​与新操作系统一起推出 Safari 18，其中包括智能搜索和网页橡皮擦等人工智能工具。新的 Safari 菜单将整合控件以方便访问，统一 iPadOS 和 macOS UI 范例。此外，Apple 正在为 2025 年开发强大的视觉搜索功能。这些增强功能使 Safari 能够在人工智能领域与竞争对手抗衡。虽然这些功能正在测试中，但并非所有功能都能发布。苹果对人工智能的关注显而易见，更多功能预计将在 6 月 10 日的 WWDC 上随 iOS 18 和 macOS 15 一起亮相。]]></description>
+      <guid>https://t.me/hn_summary/87307</guid>
+      <pubDate>Wed, 01 May 2024 02:38:30 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出 Risk Close，这是一种交易监控器，旨在帮助交易者避免过度交易并坚持 [...]</title>
-      <link>https://t.me/hn_summary/87286</link>
-      <description><![CDATA[显示 HN：通过此交易监控器实现交易纪律自动化和一致性
-隆重推出 Risk Close，这是一种交易监控器，旨在帮助交易者避免过度交易并遵守交易规则。通过自动阻止和关闭违反您设定规则的交易，风险关闭旨在保护您的资本并促进交易纪律。该工具支持 MT4、MT5 等主要交易平台，提供实时交易监控、用户友好的仪表板以及防止规则更改的锁定功能。起价为每月 69 美元，提供 5 天免费试用，并提供高级支持。立即加入候补名单，即可在 2024 年 6 月发布时获得折扣券。]]></description>
-      <guid>https://t.me/hn_summary/87286</guid>
-      <pubDate>Wed, 01 May 2024 00:14:55 GMT</pubDate>
+      <title>[媒体]这个项目是一个简单的留言板和显示系统，使用 Bash 脚本创建 [...]</title>
+      <link>https://t.me/hn_summary/87306</link>
+      <description><![CDATA[显示 HN：让人想起早期互联网的留言板（我认为） 
+该项目是一个使用 Bash 脚本和 Docker 容器创建的简单消息板和显示系统。它包括消息服务器脚本、Web 服务器脚本和备份脚本。用户可以向服务器发送消息并通过 Web 界面查看它们。该项目允许自定义端口、文件路径、页眉和页脚文本。还执行消息的每日备份。该项目旨在重现早期互联网留言板的感觉，并通过使用 Bash 脚本和 Docker 容器来轻松设置和管理，从而使自己与众不同。]]></description>
+      <guid>https://t.me/hn_summary/87306</guid>
+      <pubDate>Wed, 01 May 2024 02:27:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub 上的“BrainFk Visual Editor”项目是一个用于编写和编辑程序的工具 [...]</title>
-      <link>https://t.me/hn_summary/87285</link>
-      <description><![CDATA[展示 HN：一个 Brainfuck 可视化编辑器
-GitHub 上的“BrainFk Visual Editor”项目是一个用深奥的编程语言 BrainFk 编写和编辑程序的工具。该编辑器允许用户轻松编写和可视化 BrainFk 代码，具有插入模式、类似 VIM 的绑定以及用于递增、递减和移动指针的箭头键功能等功能。该项目的灵感来自 Tsoding 的 Tula 语言/数学动画工具，但提供了一种独特的方法来编辑 BrainFk 代码。对于那些希望以可视化和交互式方式尝试 BrainFk 编程的人来说，此工具可能很有用。]]></description>
-      <guid>https://t.me/hn_summary/87285</guid>
-      <pubDate>Wed, 01 May 2024 00:13:50 GMT</pubDate>
+      <title>澳洲航空的客户对该航空公司应用程序中的数据泄露感到震惊，该应用程序允许他们访问 [...]</title>
+      <link>https://t.me/hn_summary/87305</link>
+      <description><![CDATA[澳洲航空应用程序数据泄露允许客户访问陌生人的预订详细信息
+澳洲航空的客户对该航空公司应用程序中的数据泄露感到震惊，该应用程序允许他们访问陌生人的预订详细信息。用户报告说看到了不正确的帐户信息，包括未知人员的登机牌和积分。该漏洞甚至允许用户以其他人的名义更换座位、取消航班或预订新航班。一些客户对其个人信息的安全表示担忧。澳洲航空正在调查该问题，并建议客户注销并重新登录其帐户。该航空公司对由此造成的任何不便表示歉意，并警告乘客在此期间警惕社交媒体诈骗。]]></description>
+      <guid>https://t.me/hn_summary/87305</guid>
+      <pubDate>Wed, 01 May 2024 02:23:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Show HN：你能推倒今天的墙吗？</title>
-      <link>https://t.me/hn_summary/87284</link>
-      <description><![CDATA[Show HN：你能推倒今天的墙吗？&lt; br/&gt;
-在 bythomas.co.uk，每天挑战自己倒塌的字母墙。您的任务是使用给定的字母创建 4 个有效的五字母单词。可能有多种解决方案，并且您可以使用任何有效的单词。如果您的单词正确，字母就会变成绿色并被删除。需要帮忙？每三个单词就会解锁一条线索，您可以调整设置以应对更难的挑战。 Toppled 提供独特且引人入胜的文字游戏体验。你准备好推倒今天的墙了吗？来玩吧！]]></description>
-      <guid>https://t.me/hn_summary/87284</guid>
-      <pubDate>Wed, 01 May 2024 00:12:16 GMT</pubDate>
+      <title>隆重推出 Codehelium，这是一个轻量级 React IDE 组件，允许用户编写和执行 [...]</title>
+      <link>https://t.me/hn_summary/87304</link>
+      <description><![CDATA[显示 HN：运行用户编写的 Python 代码的轻量级 React IDE 组件
+隆重推出 Codehelium，这是一个轻量级的 React IDE 组件，允许用户直接在浏览器中编写和执行 Python 代码。这个无膨胀工具非常适合快速测试概念和想法。通过安装 npm 包并导入 PythonEditor 组件，您可以轻松地将 Codehelium 集成到您的 React 应用程序中。此外，您可以根据用户编写的代码自定义控制台输出，甚至使用外部 Pyodide 实例进行更多控制。该项目对贡献开放，旨在支持导入外部 Python 包、使用其他语言进行编码等。通过为该存储库加注星标并为其开发做出贡献来表达您的支持！]]></description>
+      <guid>https://t.me/hn_summary/87304</guid>
+      <pubDate>Wed, 01 May 2024 02:21:13 GMT</pubDate>
     </item>
     <item>
-      <title>介绍我们的创新工具，该工具结合了 GPT-4 和 DataForSEO 的强大功能，可帮助您 [...]</title>
-      <link>https://t.me/hn_summary/87283</link>
-      <description><![CDATA[Show HN：使用GPT-4和DataForSEO来查找的工具创业想法
-隆重推出我们的创新工具，该工具结合了 GPT-4 和 DataForSEO 的强大功能，可帮助您发现客户正在积极寻找的独特创业想法。通过 Find Micro Saas Ideas，您可以了解最新趋势并发现市场中隐藏的机会。利用我们的尖端技术在竞争中保持领先并成功创业。版权所有 © 2024 - 保留所有权利。今天就探索创业的未来！]]></description>
-      <guid>https://t.me/hn_summary/87283</guid>
-      <pubDate>Wed, 01 May 2024 00:11:11 GMT</pubDate>
+      <title>[媒体]微软发布了开源 Cascadia Code 字体的更新，该字体专为 [...]</title>
+      <link>https://t.me/hn_summary/87303</link>
+      <description><![CDATA[Microsoft Cascadia Code NF - Nerd 字体
+微软发布了开源 Cascadia Code 字体的更新，专为终端和代码编辑器设计。版本 2404.23 包括 1,140 个带有用于遗留计算的符号的新字形，以及新的原生“Nerd Font”变体。此字体更新面向开发人员，并在 Windows 终端下使用适用于 Linux 和 Ubuntu 的 Windows 子系统进行展示。有关更多信息，请访问 Microsoft 开发者博客或从 GitHub 下载字体。此次更新为开发人员选择的这种流行字体带来了新功能和改进。]]></description>
+      <guid>https://t.me/hn_summary/87303</guid>
+      <pubDate>Wed, 01 May 2024 02:20:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]同店销售额意外下降，导致星巴克股价暴跌8% [...]</title>
-      <link>https://t.me/hn_summary/87282</link>
-      <description><![CDATA[季度业绩同店销售额下降，星巴克股价下跌 8%想念
-由于同店销售额意外下降，星巴克股价暴跌 8%，导致季度报告令人失望。首席执行官 Laxman Narasimhan 承认公司面临的挑战，包括所有地区（尤其是美国和中国）的流量和销售额下降。该公司目前正在修订其 2024 财年预测，预计收入增长将呈低个位数增长，每股收益增长将持平至低个位数。星巴克计划通过新的订购选项吸引更多临时顾客，并扩大其成功的薰衣草饮料系列。尽管遇到挫折，该公司仍专注于实施战略行动，以提高业绩并实现 40 亿美元的供应链成本节约。]]></description>
-      <guid>https://t.me/hn_summary/87282</guid>
-      <pubDate>Tue, 30 Apr 2024 23:56:34 GMT</pubDate>
+      <title>[媒体]在 2024 年 4 月的更新中，Linux Mint 讨论了分叉更多 GNOME 应用程序的计划 [...]</title>
+      <link>https://t.me/hn_summary/87302</link>
+      <description><![CDATA[Linux Mint 希望分叉更多 Gnome 软件，使 XApp 更加独立&lt; /a&gt;
+在 2024 年 4 月的更新中，Linux Mint 讨论了分叉更多 GNOME 应用程序并使 XApp 应用程序更加独立的计划。他们的目标是与其他 Linux 发行版合作，并通过为 XApp 提供自己的 GitHub 存储库和网站来增加贡献。由于 Adwaita 库专门针对 GNOME，Linux Mint 希望将各种 GNOME 应用程序的较旧 GTK3 版本作为 XApp 的一部分进行维护。他们强调支持与其用户和环境相一致的应用程序的重要性。看看这些分叉如何发展以及其他各方对更独立的 XApp 项目的兴趣程度将会很有趣。]]></description>
+      <guid>https://t.me/hn_summary/87302</guid>
+      <pubDate>Wed, 01 May 2024 01:28:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 一名前谷歌软件工程师在参加针对以色列的抗议活动后被解雇 [...]</title>
-      <link>https://t.me/hn_summary/87281</link>
-      <description><![CDATA[Google 员工因抗议以色列合同文件 NLRB 投诉而被解雇 
-一名前谷歌软件工程师在参加针对以色列国防合同的抗议活动后被解雇，尽管他声称自己只是一个旁观者。因抗议活动，谷歌最初让 9 名员工休假，最终解雇了 28 名员工。超过 50 名被解雇的员工已向国家劳工关系委员会提出投诉，指控遭到非法报复。谷歌对此提出异议，称所有被解雇的员工都参与了破坏性活动。这标志着谷歌对员工异议反应的转变，因为过去针对 Dragonfly 项目和 Maven 项目等项目的抗议处理方式有所不同。被解雇的工程师认为 Google 正在打击员工表达担忧。]]></description>
-      <guid>https://t.me/hn_summary/87281</guid>
-      <pubDate>Tue, 30 Apr 2024 23:43:27 GMT</pubDate>
+      <title>Aboriginal Linux 是一个极简构建系统，可为各种 [...]</title>
+      <link>https://t.me/hn_summary/87301</link>
+      <description><![CDATA[原住民Linux
+Aboriginal Linux 是一个极简的构建系统，可以为各种架构创建可启动的系统映像，从而无需进行大量的交叉编译即可实现跨平台支持。它自动化回归测试，提供自托管开发环境，并强调使用当前的普通软件包以避免兼容性问题。该项目正在转向使用 toybox、musl 和 llvm 来简化开发环境并减少对 GPL 软件的依赖。最终目标是只有四个软件包：linux、toybox、musl 和 qcc。这种转变是由 uClibc 的长期开发问题和避免 GPLv3 的愿望推动的。 （根据 42% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87301</guid>
+      <pubDate>Wed, 01 May 2024 01:18:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Rabbit R1 是一款备受期待的人工智能设备，但它却让早期支持者感到失望 [...]</title>
-      <link>https://t.me/hn_summary/87280</link>
-      <description><![CDATA[Rabbit R1，一个应该只是一个应用程序的东西，只是一个 Android 应用
-Rabbit R1 是一款备受期待的人工智能设备，但其平淡的性能让早期支持者感到失望。批评者认为，该设备几乎没有智能手机无法提供的功能，这导致许多人质疑为什么像 Rabbit 这样的公司不直接发布应用程序。令人惊讶的是，人们发现 Rabbit R1 实际上在 Android 上运行，其整个界面由单个 Android 应用程序提供支持。这一爆料引发了争议，并引发了人们对此类硬件产品必要性的质疑。 Rabbit R1 的功能可以在智能手机上复制，这一事实既有趣又说明了人工智能设备的当前状态。]]></description>
-      <guid>https://t.me/hn_summary/87280</guid>
-      <pubDate>Tue, 30 Apr 2024 23:41:23 GMT</pubDate>
+      <title>询问 HN：2008 年之前的 4chan 档案？</title>
+      <link>https://t.me/hn_summary/87300</link>
+      <description><![CDATA[询问 HN：2008 年之前的 4chan 档案？&lt; br /&gt;
+大家好，我一直在深入研究 4chan 的历史，并且正在寻找 2008 年之前的档案。我很好奇这个平台多年来是如何发展的，以及早期是否有任何隐藏的瑰宝。任何线索或资源将不胜感激。让我们一起揭开4chan的秘密吧！]]></description>
+      <guid>https://t.me/hn_summary/87300</guid>
+      <pubDate>Wed, 01 May 2024 01:11:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Kevin Buzzard 讨论了在精益中证明费马大定理的雄心勃勃的项目，[...]</title>
-      <link>https://t.me/hn_summary/87279</link>
-      <description><![CDATA[费马大定理项目
-凯文·巴扎德 (Kevin Buzzard) 讨论了在精益中证明费马大定理的雄心勃勃的项目，强调了该定理陈述的简单性与其证明的复杂性形成鲜明对比。该项目旨在使用交互式定理证明器将现代数学形式化，目标是将 FLT 简化为 20 世纪 80 年代末已知的主张。众包数学是该项目成功的关键，它允许贡献者解决小引理并在 Lean Zulip 聊天中实时协作。该项目由 EPSRC 资助，旨在弥合现代研究和计算机辅助数学之间的差距，最终实现计算机可以理解的 FLT 证明。]]></description>
-      <guid>https://t.me/hn_summary/87279</guid>
-      <pubDate>Tue, 30 Apr 2024 23:29:16 GMT</pubDate>
+      <title>[媒体] 为什么人工智能不想向我展示耶稣为门徒洗脚的场景？</title>
+      <link>https://t.me/hn_summary/87299</link>
+      <description><![CDATA[为什么人工智能不想向我展示耶稣洗脚的场景他的门徒？
+令笔者感到困惑的是，人工智能图像生成器似乎很难创建耶稣为门徒洗脚的图像，这是基督教艺术和神话中常见且重要的场景。尽管有大量关于这一事件的历史艺术表现，但人工智能结果始终显示耶稣洗脚而不是洗衣服。作者推测了造成这种情况的可能原因，包括人工智能的参数可能避免将耶稣描绘成屈从的位置。作者还质疑他们是否对人工智能要求过高。]]></description>
+      <guid>https://t.me/hn_summary/87299</guid>
+      <pubDate>Wed, 01 May 2024 01:09:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
