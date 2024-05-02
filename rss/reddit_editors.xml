@@ -4,11 +4,18 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 02 May 2024 00:17:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 03:05:52 GMT</lastBuildDate>
+    <item>
+      <title>客户声称他可以在广播电视上“看到”3:2 下拉的隔行扫描</title>
+      <link>https://www.reddit.com/r/editors/comments/1ci486u/client_claims_that_he_can_see_the_interlacing/</link>
+      <description><![CDATA[20 年来，我一直在 23.98p 时间线中进行编辑，并以 23.98p 的速度从这些时间线中导出母版。然后，对于广播交付成果，我使用 23.98p 主控导出 29.97 (59.94i) 广播交付成果，使用真正的上场优先、隔行扫描 3:2 下拉（没有任何帧混合或插值）。 我一直这样做，因为我知道这基本上是自 20 世纪 50 年代以来所有 24fps 电影源转换为广播电视的方式（至少在北美）。  我现在有一位客​​户建议我使用 Apple Compressor 使用“最佳（运动补偿）”转换为广播交付成果。 “重定时质量”中的选项设置。显然，这将使用光流创建新的插值逐行帧，而不是仅使用 3:2 下拉非破坏性地将原始逐行帧分割成场。  他希望我这样做，因为他说当他查看广播交付成果时，他实际上可以看到隔行扫描。当我告诉他隔行扫描的交付成果仅适用于在支持隔行扫描播放的电视（而不是在逐行扫描计算机屏幕上）上观看/播放时，他反驳说，即使他看到自己的电视，他仍然可以注意到隔行扫描伪像。广播电视上的广告。 我在电视上看过以这种方式投放的所有广告广告，但从未注意到任何奇怪的地方。事实上，我之所以这么热衷于这样做，是因为我总是注意到，只需重复逐行帧或使用某种帧混合过程，某个点就会从 23.98 转换为 29.97。它像拇指酸痛一样突出。 但我愿意在这一点上犯错。我只是好奇我的客户是否疯了，或者我是那个需要现实检查的人？    由   提交 /u/doctorpebkac   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ci486u/client_claims_that_he_can_see_the_interlacing/</guid>
+      <pubDate>Thu, 02 May 2024 02:13:58 GMT</pubDate>
+    </item>
     <item>
       <title>在 Premiere 中制作多机位时我的 AE 做错了什么？</title>
       <link>https://www.reddit.com/r/editors/comments/1chza3j/what_is_my_ae_doing_wrong_when_making_multicams/</link>
-      <description><![CDATA[我刚开始做剪辑师，和一位之前没合作过的助理剪辑师合作。我注意到他说他制作的所有“多机位”其实都不是多机位，但似乎是所有角度在时间线上同步。因此，我无法在多机位视图中观看，这使得在这种节目中剪辑非常困难。 我不确定它们是如何像这样同步的，是否有快速纠正方法，或者他是否必须一起制作新的多机位？    提交人    /u/One-Patient-3417   [链接] [评论]]]></description>
+      <description><![CDATA[我刚刚开始了一份新的工作，担任编辑，还有一位我以前从未合作过的助理编辑。我注意到所有的“多镜头”他说他制作的并不是真正的多镜头，但似乎所有角度都在时间轴上同步。因此，我无法在多机位视图中观看它，这使得编辑此类节目非常困难。 我不确定它们是如何像这样同步的，以及是否存在快速纠正它的方法，或者他是否必须一起制作新的多机位？    由   提交/u/One-Patient-3417   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chza3j/what_is_my_ae_doing_wrong_when_making_multicams/</guid>
       <pubDate>Wed, 01 May 2024 22:26:51 GMT</pubDate>
     </item>
@@ -20,7 +27,7 @@
       <pubDate>Wed, 01 May 2024 21:39:29 GMT</pubDate>
     </item>
     <item>
-      <title>本地 700 成员作为 AE 想要成为调色师？</title>
+      <title>本地 700 成员作为 AE 想要成为一名调色师？</title>
       <link>https://www.reddit.com/r/editors/comments/1chxve6/local_700_member_as_an_ae_seeking_to_be_a_colorist/</link>
       <description><![CDATA[大家好， 我的目标是成为一名调色师，目前我有足够的助理编辑时间来加入当地 700 名名单（我在洛杉矶）。我已完成加入名册的所有文书工作，只是尚未提交，因为我正在寻找几个答案：  我目前从事无薪/低薪工作自由着色和编辑演出，如果我要加入花名册，然后最终加入工会，我是否必须*要求*调色师或 AE 率，或者我仍然可以承担基本上是 Craigslist 的演出吗？ 如果我在加入花名册/工会后找到了一家邮局来收留我，那是如何运作的？我要向工会请假吗？如果是这样，列入名单是否需要办理 LoA 的正式文书？ 有点归结为：如果有人为我提供低薪工作，我是否会被迫步行因加入名册/工会而离开？ 成员一旦加入名册/工会，是否必须遵守规则？ li&gt; 我知道加入花名册是一个绝佳的机会，但我也想确保这是成为调色师的下一个正确步骤。有什么我应该注意的缺点吗？    由   提交/u/blueberrybones  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chxve6/local_700_member_as_an_ae_seeking_to_be_a_colorist/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>对 Glyph Technologies 16TB Blackbox PRO 有何看法？</title>
       <link>https://www.reddit.com/r/editors/comments/1chuaot/thoughts_on_glyph_technologies_16tb_blackbox_pro/</link>
-      <description><![CDATA[我喜欢保留一个相当大的硬盘，用于“不冷不热”地存储项目备份。我从未计划对其进行编辑，只是想在我的主 RAID 发生问题或我意外删除某些内容并希望立即恢复时，自动将我的内容转到该位置。 通常，我使用 G-RAID，但在 B&amp;H 上闲逛时看到了这个，想知道是否有人有使用经验？ https://www.bhphotovideo.com/c/product/1550672-REG/glyph_technologies_bbpr16000ent_16tb_blackbox_pro_enterprise.html 编辑以安抚 autoMod，即使它与问题无关： MacStudio M2 MAX 64GB Avid、Premiere、Resolve，随便什么……    由    /u/the__post__merc  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我喜欢保留一个相当大的硬盘以供“不冷不热”的使用。项目备份的存储。我从来不打算编辑它，只是当我的主 RAID 发生问题或者我不小心删除了某些内容并希望立即将其恢复时，我的东西会自动转到一个地方。 通常，我使用过 G-RAID，但在 B&amp;H 上闲逛时看到了这个，想知道是否有人有使用过它的经验？ https://www.bhphotovideo.com/c/product/1550672-REG/glyph_technologies_bbpr16000ent_16tb_blackbox_pro_enterprise.html 编辑到安抚 autoMod，即使它与问题无关： MacStudio M2 MAX 64GB Avid、Premiere、Resolve，无论什么...... &lt; !-- SC_ON --&gt;  由   提交 /u/the__post__merc   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chuaot/thoughts_on_glyph_technologies_16tb_blackbox_pro/</guid>
       <pubDate>Wed, 01 May 2024 19:03:57 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Wed, 01 May 2024 17:44:40 GMT</pubDate>
     </item>
     <item>
-      <title>多伦多、洛杉矶、纽约 有没有可以制作长篇作品的后期制作公司？</title>
+      <title>多伦多/洛杉矶/纽约是否有适合长期工作的邮局？</title>
       <link>https://www.reddit.com/r/editors/comments/1chqy4i/are_there_any_post_houses_in_torontolanyc_for/</link>
       <description><![CDATA[我已经涉足商业领域大约 5 年了 - 通过在邮局从事全职工作获得收入。与一家公司签约对我来说很有效，因为它提供了稳定的收入和相对较低的风险，这就是我想保留的 - 但我希望跳入长篇/专题游戏。我已经做了相当多的研究，但似乎找不到任何我可以关注的主要专注于长篇（严格编辑，而不是视觉特效/音频/等）的后期制作公司。我一直认为切割功能更多的是“自由职业”。无论如何，考虑到每个项目的范围，游戏比广告更重要，但我想在这里运行它，以防万一我错了。我目前住在多伦多，但愿意搬到美国。甚至跳回到助理编辑，如果这就是我在功能上涉足的必要条件。    由   提交/u/hipwithyoungsters  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chqy4i/are_there_any_post_houses_in_torontolanyc_for/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>达芬奇节点问题</title>
       <link>https://www.reddit.com/r/editors/comments/1chpppw/davinci_nodes_problem/</link>
-      <description><![CDATA[嗨！我正在研究创建 3D 相机效果的 DaVinci Resolve 教程。当尝试应用“投影”时对文本和连接节点的影响，它们没有连接起来。这种情况不仅发生在这种效应上，而且也发生在其他效应上。有什么解决方案吗？   由   提交/u/Maureceo  [链接] [评论]]]></description>
+      <description><![CDATA[嗨！我正在制作一个 DaVinci Resolve 教程，创建 3D 相机效果。当尝试将“阴影”效果应用于文本并连接节点时，它们不会链接起来。这不仅发生在这个效果上，也发生在其他效果上。有什么解决办法吗？    提交人    /u/Maureceo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chpppw/davinci_nodes_problem/</guid>
       <pubDate>Wed, 01 May 2024 15:59:38 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我作为一名自由视频编辑已经有两年了，我想专注于企业视频，但除了 VSL 之外我还能提供什么，以及我如何找到大多数客户？如果有任何人在这个利基市场，我将不胜感激任何建议！    由   提交/u/_ACamus_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ch8oq5/how_to_get_into_corporate_video_editing/</guid>
       <pubDate>Wed, 01 May 2024 00:35:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用其他类型的生成曲目导出 EDL</title>
-      <link>https://www.reddit.com/r/editors/comments/1ch76ih/exporting_edl_with_other_types_of_generated_tracks/</link>
-      <description><![CDATA[有谁知道 Premiere pro 中是否可以导出其他视频对象（例如彩条）作为 EDL 的一部分？ 我正在运行一个实验，当我在文本编辑器中查看 EDL 时，我只能查看主视频文件的入点和出点。    由   提交 /u/carlostambien   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ch76ih/exporting_edl_with_other_types_of_generated_tracks/</guid>
-      <pubDate>Tue, 30 Apr 2024 23:26:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

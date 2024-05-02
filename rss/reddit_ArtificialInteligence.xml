@@ -3,31 +3,38 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 02 May 2024 00:17:05 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Thu, 02 May 2024 03:05:11 GMT</lastBuildDate>
     <item>
-      <title>ChatGPT/Bard/Gemini 需要额外的监视器来支持多种语言模型</title>
+      <title>我的“朋友”新“EP”刚刚发布</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ci4bgd/my_friends_new_ep_just_dropped/</link>
+      <description><![CDATA[整个假期我都在尝试新的音乐制作工具。现在有一些可以做到这一点，而且都不难找到。我认为作为一名前业余音乐家，我想知道是否可以制作出在风格和艺术方向上有些一致的音乐，而又不会感到完全无情。 TL;DR。我不认为我“被震撼了”。 我想这是制作足够类似于音乐的东西的有趣的第一步。该过程首先会在输入提示后，应用程序为您提供两个 30 秒的选项供您选择。之后，您可以在迭代想法之前和之后进行扩展。因此，在某种程度上，这就像沿着二叉树走下去，您可以在两端添加分支和节点。 我想，程序上它是有效的，但至少在这个阶段，您无法更改这些“组装”后 30 秒的片段。也就是说，你不能再改变词语或声音了。一旦三个部分合并成一个 90 秒的片段，您就无法再将它们分开。 我喜欢该应用程序如何在歌曲中添加一些奇怪的缺陷。 https://soundcloud.com/silent-sea-sg/sets/ep -laments-for-cold-ocean 这对你来说感觉真实吗？   由   提交/u/d3the_h3ll0w   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ci4bgd/my_friends_new_ep_just_dropped/</guid>
+      <pubDate>Thu, 02 May 2024 02:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我不能询问具体情况</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ci3syk/why_cant_i_ask_for_specifics/</link>
+      <description><![CDATA[我尝试询问“Axolotl Anime man /boy”mot the half human kind，但以动漫人性化为主题的动漫版本却显示“不适当的提示”在聊天中。我尝试“Jason Todd”，它在其他提示中告诉我“不适当的提示”。    由   提交 /u/Unogaseye   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ci3syk/why_cant_i_ask_for_specifics/</guid>
+      <pubDate>Thu, 02 May 2024 01:53:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>来自 Coursera 的 Google AI 课程</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ci1uq5/google_ai_course_via_coursera/</link>
+      <description><![CDATA[有人参加过本课程吗： https://grow.google/certificates/en_us/certificates/ai/?utm_source=google&amp;utm_medium=paidsearch&amp;utm_campaign=ha-sem-sk-aie-phr__geo--US&amp;utm_term=learn%20ai&amp;gad_source= 1&amp;gbraid=0AAAAADEWTLWbYyOVPFBh-MmpfgGIFkKRw&amp;gclid=Cj0KCQjw0MexBhD3ARISAEI3WHJboaYgk7pH06TX-LNmP3wX7U6nMS98_vFSq_0E2ZHa-5DbDUWUjgEaAugSEALw_wcB p&gt; 如果是这样，你认为值得吗？   由   提交/u/Traifkohen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ci1uq5/google_ai_course_via_coursera/</guid>
+      <pubDate>Thu, 02 May 2024 00:20:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT/Bard/Gemini 需要额外的监视器来监控多种语言模型</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ci03o7/chatgptbardgemini_need_an_extra_monitor_for/</link>
       <description><![CDATA[虽然可以方便地使用菜单栏应用程序（MacOS）并通过快捷方式调用 ChatGPT/Gemini/Bart，但必​​须手动输入所有内容才能打开他们总是需要频繁切换屏幕和应用程序，所以决定买一个专用的电脑屏幕，嗯，花钱的理由很充分，只是为了为 ChatGPT/Gemini/Bart 获得额外的空间，现在我可以查询所有型号了同时查看结果，无需切换屏幕，同时无需停止我正在使用这些多模型应用程序所做的事情： https://chatboxai.app/ https://smol.ai/&lt; /p&gt; ​ ​   由   提交 /u/itoldusoandso   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ci03o7/chatgptbardgemini_need_an_extra_monitor_for/</guid>
       <pubDate>Wed, 01 May 2024 23:01:29 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能工具可以生成我自己半可识别的照片？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1chzryr/ai_tool_to_generate_semirecogniseable_photos_of/</link>
-      <description><![CDATA[我计划在全职工作之外开始自己的副业。 看来我将成为一名我的实际雇主的竞争对手，我需要尝试在不被抓的情况下做到这一点，哈哈。 我觉得如果我的网站上有自己的照片，我会获得更好的转化率......所以我需要我的照片：  足够容易辨认，这样我就可以与潜在客户进行视频通话，而他们不会想“这个人是谁？”照片中的不是他” 足够不同，因此，如果我的雇主偶然发现我的网站，他们不会认为“WTF，那是Weekly_Frosting_5868！！” 看起来很自然，但其人工智能却并不明显  这样的工具存在吗？或者说人工智能根本就不是这个问题的答案？   由   提交 /u/Weekly_Frosting_5868   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1chzryr/ai_tool_to_generate_semirecogniseable_photos_of/</guid>
-      <pubDate>Wed, 01 May 2024 22:47:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于概念艺术的最佳人工智能图像生成器？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1chys3d/best_ai_image_generator_for_concept_arts/</link>
-      <description><![CDATA[嗨，也许我在错误的子目录中，但我只是想要一些指导。我一直在使用 chatgpt 4 和 dall-e，但质量和输出并不完全是我想要的，它有那种阴暗的 openai 外观，我真的不喜欢。  我可以获得一些建议，可以付费订阅，以获得更好的概念艺术、角色等质量吗？    由   提交 /u/Snapandsnap   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1chys3d/best_ai_image_generator_for_concept_arts/</guid>
-      <pubDate>Wed, 01 May 2024 22:06:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解人工智能新闻的最佳单一来源是什么？</title>
+      <title>了解人工智能新闻的最佳来源是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1chy900/what_is_the_single_best_source_to_keep_up_with_ai/</link>
       <description><![CDATA[有很多新闻通讯和渠道发布或提及新工具和产品，但我遇到的大多数最酷的事情都是发送给我的 我希望保持最新动态，但又不想被淹没，而且我最感兴趣的是刚刚向公众发布的新产品（无论领域或类型，可以是文本、图像/视频、音乐） ，艺术......无论如何）。 有时我觉得我一直生活在岩石下，尽管事实上我恰恰相反。 什么是最好的以及最全面的地方来了解最新的现实世界应用程序（但也有接近应用的科学进步）？ 我想也许黑客新闻（我已经偶尔浏览过）是它，但让我看看这里其他人的想法。   由   提交 /u/BlackJackT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1chy900/what_is_the_single_best_source_to_keep_up_with_ai/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>人工智能不会抢走你的工作，懂得如何使用人工智能的人会抢走你的工作！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1chw1nw/ai_wont_take_your_job_people_who_know_how_to_use/</link>
-      <description><![CDATA[大家好， 最近，我看到很多人对人工智能接管我们的工作感到焦虑。但说实话，人工智能不是敌人 - 它是一种工具，就像任何工具一样，它的好坏取决于使用它的人。 想一想：知道如何使用人工智能的内容作者强大的研究工具和语言生成器可以比以往更快、更高效地生成高质量内容。  能够利用机器学习力量的 Web 开发人员可以构建更加直观和用户友好的网站。能够与人工智能合作识别模式和趋势的数据分析师可以做出以前不可能的预测和决策。 重点是，人工智能并不是来取代我们的，而是来增强我们的。它的目的是让我们更快、更聪明、更有效率。因此，我们不要害怕机器人，而是学习如何与它们一起工作。让我们不断提高技能，重新掌握技能，成为我们自己由人工智能驱动的命运的主人。 记住，取代你工作的不是人工智能，而是那些知道如何使用人工智能来完成你工作的人更好、更快、更便宜。   由   提交 /u/skrt_pls   [链接] [评论]]]></description>
+      <description><![CDATA[嘿大家， 最近我看到了很多关于人工智能接管我们工作的焦虑。但说实话，人工智能不是敌人 - 它是一种工具，就像任何工具一样，它的好坏取决于使用它的人。 想一想：知道如何使用人工智能的内容作者强大的研究工具和语言生成器可以比以往更快、更高效地生成高质量的内容。  能够利用机器学习力量的 Web 开发人员可以构建更加直观和用户友好的网站。能够与人工智能合作识别模式和趋势的数据分析师可以做出以前不可能的预测和决策。 重点是，人工智能并不是来取代我们的，而是来增强我们的。它的存在是为了让我们更快、更聪明、更高效。因此，我们不要害怕机器人，而是学习如何与它们一起工作。让我们不断提高技能，重新掌握技能，成为我们自己由人工智能驱动的命运的主人。 记住，取代你工作的不是人工智能，而是那些知道如何使用人工智能来完成你工作的人更好、更快、更便宜。   由   提交 /u/skrt_pls   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1chw1nw/ai_wont_take_your_job_people_who_know_how_to_use/</guid>
       <pubDate>Wed, 01 May 2024 20:15:53 GMT</pubDate>
     </item>
@@ -46,13 +53,6 @@
       <description><![CDATA[ 由   提交/u/Equivalent-Net-7496   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1chuaqk/how_well_has_this_post_aged/</guid>
       <pubDate>Wed, 01 May 2024 19:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用AI增强Pi-hole的可行性</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cht7nj/feasibility_of_using_ai_to_enhance_pihole/</link>
-      <description><![CDATA[我最近一直在探索 Pi-hole 并考虑设置它。但是，我听说它可能无法有效地阻止 YouTube 广告，因为用于逃避广告拦截器的网址不断变化。虽然定期更新第三方批准列表，但它们并非万无一失。 我的想法是利用人工智能自动阻止被识别为广告的网址。一种方法可能涉及使用带有 Python 脚本的视觉模型。以下是我对其工作原理的初步想法：当另一台设备上的用户请求网页时，Pi-hole 会收到请求并执行其通常的阻止功能。同时，如果最近没有检查过该页面，Python 脚本会检测新的 URL 并在运行 Pi-hole 的同一设备上加载该网页。该脚本捕获每个页面元素的屏幕截图，并使用关联的 URL 对其进行命名。然后将这些屏幕截图发送到视觉模型，视觉模型确定每个屏幕截图是否代表广告，从而提供简单的“是”答案。或“否”回复。如果答案是“是”，则可以。该脚本将 URL 添加到 Pi-hole 阻止列表中；如果是“否”，则允许显示该元素。此外，可以实施两天的宽限期，以跳过在该时间范围内重新检查同一网页，以确保优化性能。 但是，我预见到这个想法存在一些问题：1）确定的过程如果元素是广告，则速度可能会很慢，可能会导致偶尔向用户显示广告。但是，由于它发生在后台，与用户在其他设备上执行的操作无关，因此这可能不是一个重大问题。 2）实现这个想法需要放弃使用Raspberry Pi，而是使用专用笔记本电脑。 所以，我的问题是：这个想法是否可行，有谁知道是否有更简单的方法达到这个目的？另外，有人已经开发出类似的东西吗？如果像 GitHub 这样的平台上已有解决方案，那么承担这项工作就显得多余了。   由   提交 /u/CodeCraftedCanvas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cht7nj/feasibility_of_using_ai_to_enhance_pihole/</guid>
-      <pubDate>Wed, 01 May 2024 18:21:07 GMT</pubDate>
     </item>
     <item>
       <title>是否有人工智能可以提供随机数据，然后稍后查询？</title>
@@ -71,7 +71,7 @@
     <item>
       <title>谷歌敦促美国更新移民规则以吸引更多人工智能人才</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1chpfjy/google_urges_us_to_update_immigration_rules_to/</link>
-      <description><![CDATA[谷歌在 致劳工部的信函。该公司表示，政府必须更新附表 A，将人工智能和网络安全纳入其中，并定期更新。 如果您想领先于最新的人工智能发展，看看这里！ 问题：美国移民制度不适合快节奏的科技行业，尤其是人工智能。  附表 A 是一份预先批准的缺乏美国工人的职业清单，已经过时（20 年来未更新），并且不包括人工智能或网络安全。 &lt; li&gt;绿卡的 PERM 流程可能会很漫长，导致一些人才在等待期间离开美国。  Google 的建议：美国需要适应其竞争全球人工智能人才的政策。  更新附表 A，将人工智能和网络安全专业纳入其中。 使用各种数据源（包括公众反馈）定期审查和更新列表. 简化 PERM 流程或提供替代途径来吸引人工智能专家。  紧迫性：美国在人工智能发展方面面临落后的风险.  全球人工智能人才短缺，其他国家正在积极吸引他们。 美国公司在国内很难找到合格的人工智能工程师和研究人员。 失去人才库可能会削弱美国在人工智能竞赛中的竞争力。  来源 (The Verge) PS：如果您喜欢这篇文章，您一定会喜欢我的&lt; href=&quot;https://smmry.tech/?utm_source=reddit&quot;&gt;人工智能驱动的时事通讯，总结了来自 50 多个媒体来源的最佳人工智能/科技新闻。来自OpenAI、Google、Meta…    的数百名专业人士已经阅读了它。由   提交/u/Rare_Adhesiveness518   [链接] [评论]]]></description>
+      <description><![CDATA[谷歌在 致劳工部的信函。该公司表示，政府必须更新附表 A，将人工智能和网络安全纳入其中，并定期更新。 如果您想领先于最新的人工智能发展，看看这里！ 问题：美国移民制度不适合快节奏的科技行业，尤其是人工智能。  附表 A 是一份预先批准的缺乏美国工人的职业清单，已经过时（20 年来未更新），并且不包括人工智能或网络安全。 &lt; li&gt;绿卡的 PERM 流程可能会很漫长，导致一些人才在等待期间离开美国。  Google 的建议：美国需要适应其竞争全球人工智能人才的政策。  更新附表 A，将人工智能和网络安全专业纳入其中。 使用各种数据源（包括公众反馈）定期审查和更新列表. 简化 PERM 流程或提供替代途径来吸引人工智能专家。  紧迫性：美国在人工智能发展方面面临落后的风险.  全球人工智能人才短缺，其他国家正在积极吸引他们。 美国公司在国内很难找到合格的人工智能工程师和研究人员。 失去人才库可能会削弱美国在人工智能竞赛中的竞争力。  来源 (The Verge) PS：如果您喜欢这篇文章，您一定会喜欢我的&lt; href=&quot;https://smmry.tech/?utm_source=reddit&quot;&gt;人工智能驱动的时事通讯，总结了来自 50 多个媒体来源的最佳人工智能/科技新闻。来自OpenAI、Google、Meta...的数百名专业人士已经阅读了它......   由   提交/u/Rare_Adhesiveness518   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1chpfjy/google_urges_us_to_update_immigration_rules_to/</guid>
       <pubDate>Wed, 01 May 2024 15:47:47 GMT</pubDate>
     </item>
@@ -99,14 +99,14 @@
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
-      <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 Karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解子版块的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
     <item>
-      <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>
+      <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
