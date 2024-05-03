@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt——每天最好的新产品</title>
+    <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 03 May 2024 15:07:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 18:06:58 GMT</lastBuildDate>
     <item>
       <title>专业备份</title>
       <link>https://www.producthunt.com/posts/pro-backup</link>
@@ -48,7 +48,7 @@
       <pubDate>Fri, 03 May 2024 07:28:04 GMT</pubDate>
     </item>
     <item>
-      <title>Synthesia 推出富有表现力的 AI 虚拟形象</title>
+      <title>Synthesia 富有表现力的人工智能头像</title>
       <link>https://www.producthunt.com/posts/expressive-ai-avatars-by-synthesia</link>
       <description><![CDATA[
             在几分钟内使用人工智能头像创建栩栩如生的视频
@@ -79,12 +79,12 @@
       <title>GitHub Copilot 工作区</title>
       <link>https://www.producthunt.com/posts/github-copilot-workspace</link>
       <description><![CDATA[
-            Copilot 原生开发环境，专为日常任务而设计
-          
+Copilot 原生开发环境，专为日常任务而设计
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/github-copilot-workspace</guid>
       <pubDate>Fri, 03 May 2024 00:58:48 GMT</pubDate>
@@ -202,7 +202,7 @@
       <pubDate>Fri, 26 Apr 2024 18:57:44 GMT</pubDate>
     </item>
     <item>
-      <title>凝缩</title>
+      <title>康登斯</title>
       <link>https://www.producthunt.com/posts/condens</link>
       <description><![CDATA[
             增强您的用户体验研究分析
