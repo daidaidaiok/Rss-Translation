@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 03 May 2024 06:06:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 09:06:15 GMT</lastBuildDate>
+    <item>
+      <title>2023 年精彩 C++ 会议演讲汇编</title>
+      <link>https://www.reddit.com/r/programming/comments/1cj3t3d/compilation_of_gripping_c_conference_talks_from/</link>
+      <description><![CDATA[ 由   提交 /u/Pioneer_X   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cj3t3d/compilation_of_gripping_c_conference_talks_from/</guid>
+      <pubDate>Fri, 03 May 2024 08:45:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>追踪胜利</title>
+      <link>https://www.reddit.com/r/programming/comments/1cj3nj4/tracking_the_wins/</link>
+      <description><![CDATA[ 由   提交/u/mageling  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cj3nj4/tracking_the_wins/</guid>
+      <pubDate>Fri, 03 May 2024 08:33:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>True Devtools - 面向开发人员的免费一体化工具包</title>
+      <link>https://www.reddit.com/r/programming/comments/1cj30fx/true_devtools_a_free_allinone_toolkit_for/</link>
+      <description><![CDATA[  由    /u/dathoangnd  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cj30fx/true_devtools_a_free_allinone_toolkit_for/</guid>
+      <pubDate>Fri, 03 May 2024 07:47:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>工程经理的冲突解决策略</title>
+      <link>https://www.reddit.com/r/programming/comments/1cj2x1k/conflict_resolution_strategies_for_engineering/</link>
+      <description><![CDATA[ 由   提交/u/nicolaballotta  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cj2x1k/conflict_resolution_strategies_for_engineering/</guid>
+      <pubDate>Fri, 03 May 2024 07:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>True Devtools - 面向开发人员的免费一体化工具包</title>
+      <link>https://www.reddit.com/r/programming/comments/1cj2w29/true_devtools_a_free_allinone_toolkit_for/</link>
+      <description><![CDATA[ 由   提交 /u/dathoangnd    [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cj2w29/true_devtools_a_free_allinone_toolkit_for/</guid>
+      <pubDate>Fri, 03 May 2024 07:38:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>FIFO 优于 LRU：惰性提升和快速降级的威力</title>
+      <link>https://www.reddit.com/r/programming/comments/1cj2faa/fifo_is_better_than_lru_the_power_of_lazy/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cj2faa/fifo_is_better_than_lru_the_power_of_lazy/</guid>
+      <pubDate>Fri, 03 May 2024 07:05:12 GMT</pubDate>
+    </item>
     <item>
       <title>机器学习领域超过 151 个有趣的研究论文主题 [2024]</title>
       <link>https://www.reddit.com/r/programming/comments/1cj1d4t/151_good_interesting_research_paper_topics_in/</link>
@@ -27,7 +69,7 @@
       <pubDate>Fri, 03 May 2024 05:49:01 GMT</pubDate>
     </item>
     <item>
-      <title>CSS 选择器 - 第 1 部分：基本 CSS 选择器系列🧑‍💻 #css #csstutorial #css3 #cssselector #coding</title>
+      <title>CSS 选择器 - 第 1 部分：基本 CSS 选择器系列🧑‍💻#css #csstutorial #css3 #cssselector #coding</title>
       <link>https://www.reddit.com/r/programming/comments/1ciygtv/css_selectors_part_1_basic_css_selector_series/</link>
       <description><![CDATA[ 由   提交/u/Mech_beast001   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ciygtv/css_selectors_part_1_basic_css_selector_series/</guid>
@@ -48,18 +90,11 @@
       <pubDate>Fri, 03 May 2024 02:04:24 GMT</pubDate>
     </item>
     <item>
-      <title>如何制作可点击的图像来播放视频而无需重定向？</title>
+      <title>如何制作可点击的图像并播放视频而无需重定向？</title>
       <link>https://www.reddit.com/r/programming/comments/1cix1ff/how_do_i_make_a_clickable_image_that_plays_a/</link>
       <description><![CDATA[ 由   提交 /u/TheKingofStupidness   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cix1ff/how_do_i_make_a_clickable_image_that_plays_a/</guid>
       <pubDate>Fri, 03 May 2024 01:53:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>优化什么？</title>
-      <link>https://www.reddit.com/r/programming/comments/1civqlh/optimize_what/</link>
-      <description><![CDATA[ 由   提交/u/bbb23sucks  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1civqlh/optimize_what/</guid>
-      <pubDate>Fri, 03 May 2024 00:48:09 GMT</pubDate>
     </item>
     <item>
       <title>JetBrains IDE 中的全行代码完成</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1citoly/native_support_for_cjsesm_interoperability_begins/</guid>
       <pubDate>Thu, 02 May 2024 23:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着 Flutter、Dart 和 Python 团队的裁员，谷歌裁员仍在继续</title>
-      <link>https://www.reddit.com/r/programming/comments/1citb3e/google_layoffs_continue_as_cuts_hit_flutter_dart/</link>
-      <description><![CDATA[ 由   提交/u/john83672  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1citb3e/google_layoffs_continue_as_cuts_hit_flutter_dart/</guid>
-      <pubDate>Thu, 02 May 2024 22:52:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>忘记 IDE 和编程语言：用笔、记事本和 AI 创建您的下一个应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1cisu10/forget_ides_programming_language_creating_your/</link>
-      <description><![CDATA[ 由   提交/u/reddit-user2025   [链接]   ; [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cisu10/forget_ides_programming_language_creating_your/</guid>
-      <pubDate>Thu, 02 May 2024 22:30:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open ID connect (OIDC) 如何在 GitHub Actions 中工作（图解）</title>
-      <link>https://www.reddit.com/r/programming/comments/1cis2vt/how_open_id_connect_oidc_works_in_github_actions/</link>
-      <description><![CDATA[ 由   提交/u/utpalnadiger  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cis2vt/how_open_id_connect_oidc_works_in_github_actions/</guid>
-      <pubDate>Thu, 02 May 2024 21:58:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Git：您可能会使用的一些提高生产力的技巧</title>
-      <link>https://www.reddit.com/r/programming/comments/1cir8rg/git_some_productivity_tips_you_might_use/</link>
-      <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cir8rg/git_some_productivity_tips_you_might_use/</guid>
-      <pubDate>Thu, 02 May 2024 21:22:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub 是否已经无法满足您的需求？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ciqzar/do_you_ever_outgrow_github/</link>
-      <description><![CDATA[ 由   提交/u/kendumez  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ciqzar/do_you_ever_outgrow_github/</guid>
-      <pubDate>Thu, 02 May 2024 21:11:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 03 May 2024 06:06:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 09:06:09 GMT</lastBuildDate>
+    <item>
+      <title>谷歌驱动器上的菜鸟问题</title>
+      <link>https://www.reddit.com/r/software/comments/1cj39rg/noob_question_on_google_drive/</link>
+      <description><![CDATA[桌面版 Google 云端硬盘无法与 Android 手机上的应用同步，为什么？有人可以向像我这样生活在石器时代的贫穷会计师解释一下我们如何同步两个设备上的谷歌驱动器，以确保桌面上的所有文件在电脑和手机的谷歌驱动器上同步吗？谢谢，我变得愚蠢了   由   提交/u/matteo5477  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cj39rg/noob_question_on_google_drive/</guid>
+      <pubDate>Fri, 03 May 2024 08:05:42 GMT</pubDate>
+    </item>
     <item>
       <title>如何从 apk 中提取未出现在 res 或 obb 文件夹中的图像？</title>
       <link>https://www.reddit.com/r/software/comments/1ciztga/how_do_i_extract_images_from_an_apk_that_dont/</link>
@@ -20,7 +27,7 @@
       <pubDate>Fri, 03 May 2024 01:48:58 GMT</pubDate>
     </item>
     <item>
-      <title>模拟 OHP 投影片的 PC 软件</title>
+      <title>模仿 OHP 透明胶片的 PC 软件</title>
       <link>https://www.reddit.com/r/software/comments/1civjxf/pc_software_that_mimics_ohp_transparencies/</link>
       <description><![CDATA[嘿团队，有人知道有一个程序可以像旧的 OHP 一样工作，并允许我将幻灯片相互叠加以便它们都可见吗？干杯    由   提交/u/ffongo  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1civjxf/pc_software_that_mimics_ohp_transparencies/</guid>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 02 May 2024 23:36:06 GMT</pubDate>
     </item>
     <item>
-      <title>让不同的电脑播放不同的视频但同步</title>
+      <title>让不同的计算机同步播放不同的视频</title>
       <link>https://www.reddit.com/r/software/comments/1cirq3j/make_different_computers_play_different_videos/</link>
       <description><![CDATA[嗨，我正在寻找一款可以在不同计算机上同步视频的软件，就我而言，我想要一个屏幕显示电影，另一个屏幕显示电影屏幕（可以是两台不同的计算机）来显示单独的视频，并重复显示字幕，因此需要同步。 提前致谢！    由   提交 /u/whitedadontheinside   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cirq3j/make_different_computers_play_different_videos/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>Windows 远程桌面连接帮助</title>
       <link>https://www.reddit.com/r/software/comments/1cio5fw/windows_remote_desktop_connection_help/</link>
-      <description><![CDATA[大家好！我无法使用自己的 wifi、VPN 和 Windows 远程桌面连接从家里连接到我的工作电脑。我的互联网连接速度足够快，但 RDC 应用程序每次尝试都会断开连接，说我的往返时间太长。我甚至可以通过 vpn ping 我想要连接的计算机。所有这些都可以通过我的手机使用移动数据正常工作。有人有这个问题的解决方案吗？我在我的私人电脑上运行着 Win11 家庭版。 提前谢谢！:)    提交人    /u/GuitarNoob25   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我无法使用自己的 wifi、VPN 和 Windows 远程桌面连接从家里连接到我的工作计算机。我的互联网连接速度足够快，但 RDC 应用程序每次尝试都会断开连接，并表示我的往返时间太长。我什至可以通过 VPN ping 我想要连接的计算机。通过我的手机使用移动数据，所有这些都可以正常工作。有人有解决这个问题的办法吗？我正在运行 Win11 家庭版和 fritzbox。 提前致谢！ :)   由   提交/u/GuitarNoob25   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cio5fw/windows_remote_desktop_connection_help/</guid>
       <pubDate>Thu, 02 May 2024 19:17:27 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我从我的电脑上在 Steam 上启动了《星球大战：前线》，但现在它无法关闭。在 EA 应用程序上它显示它没有运行，但在 steam 上它是。关闭游戏没有任何作用，它不在任务栏中，任务管理器也没有显示任何内容。我什至重新启动了我的电脑。当我打开它时游戏仍在运行。我用任务管理器关闭了很多次steam，但没有任何作用。我也刚刚以管理员身份尝试了命令提示符。我无法卸载游戏，因为它正在运行。我无法清除缓存，因为它正在运行。我可以卸载steam，因为它正在运行游戏。我验证了文件的完整性，并且不需要两秒钟就可以验证它们。哦，关于“停止”在steam游戏中，是的，根据steam的说法，这已经停止了大约1.7小时。哦，另一个编辑，我无法从文件资源管理器中手动删除游戏文件...... 因为游戏正在运行，请帮忙  &lt; p&gt;https://preview.redd.it/3b2rh1uis1yc1。 png?width=652&amp;format=png&amp;auto=webp&amp;s=258b3f91cae5f24fc1467990ebbdc4ee741db007 https://preview.redd.it/pf78zekjs1yc1.png?width=1613&amp;format=png&amp;auto=webp&amp;s=e20af92625c8206ceb84d4cc 337b0fb2e8854ce6 https://preview.redd.it/ fydvkq5ks1yc1.png?width=525&amp;format=png&amp;auto=webp&amp;s=5e6e1eb76bbea32e0b5dfeb5b25​​2504906591955 ​ ​ &lt; /div&gt;  由   提交/u/MousseIndependent310   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cilfwo/steam_game_wont_close_even_restarted_pc_task_is/</guid>
       <pubDate>Thu, 02 May 2024 17:26:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个好的免费 VPN 吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1cil0jb/a_good_free_vpn/</link>
-      <description><![CDATA[我想在 netflix 上观看更多内容，并且我想找到一个好的 VPN   由   提交 /u/sosthesosi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cil0jb/a_good_free_vpn/</guid>
-      <pubDate>Thu, 02 May 2024 17:08:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
