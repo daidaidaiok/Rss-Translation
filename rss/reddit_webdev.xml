@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 03 May 2024 03:07:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 06:07:11 GMT</lastBuildDate>
+    <item>
+      <title>渲染一个 1000 行的表需要多长时间？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cj14ec/how_long_does_it_take_to_render_a_1000_row_table/</link>
+      <description><![CDATA[说真的，需要多长时间？ 我正在尝试渲染一个普通的 &lt; /code&gt; 使用 React，大约 1000 行已经下载并缓存在客户端上，在我强大的台式电脑上渲染大约需要 750 毫秒。 我不知道 React 是否很慢，或者 DOM 很慢，或者我只是搞砸了一些事情。但我没想到会那么糟糕？   由   提交 /u/VlK06eMBkNRo6iqf27pq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cj14ec/how_long_does_it_take_to_render_a_1000_row_table/</guid>
+      <pubDate>Fri, 03 May 2024 05:38:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人对易于集成的 CRM 有什么建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cj06md/anyone_have_any_recommendations_for_crm_that_is/</link>
+      <description><![CDATA[我对 Hubspot 集成的体验一直不佳，尽管它是一个很棒的平台，但使用它带来的性能影响并不值得。我正在寻找一种 CRM，从性能角度来看，集成非常轻，并且后端功能良好或更好。您有什么建议吗？ 我想要它的两个主要功能是管理潜在客户捕获和电子邮件营销。   由   提交 /u/TheSlothJesus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cj06md/anyone_have_any_recommendations_for_crm_that_is/</guid>
+      <pubDate>Fri, 03 May 2024 04:41:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>分享自由职业材料</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ciyxe9/sharing_freelance_materials/</link>
+      <description><![CDATA[   共享 Web 开发自由合同 大家好， 共享我用于我的 Web 的合同开发和计算机维修自由职业。 请随意获取、编辑、分享、忽略 GitHub 存储库中的任何内容： https://github.com/blubberbo/web-dev-freelancing-resources 也欢迎任何和所有反馈！&lt; /p&gt; 享受   由   提交/u/blubberbo   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ciyxe9/sharing_freelance_materials/</guid>
+      <pubDate>Fri, 03 May 2024 03:31:53 GMT</pubDate>
+    </item>
     <item>
       <title>使用 github 和 VS Code？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ciyc6j/using_github_and_vs_code/</link>
@@ -13,9 +34,9 @@
       <pubDate>Fri, 03 May 2024 03:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>Vite：最小化和非最小化构建 + 构建扩展名为 .js 而非 .cjs</title>
+      <title>Vite：缩小和非缩小构建 + 构建扩展名是 .js 而不是 .cjs</title>
       <link>https://www.reddit.com/r/webdev/comments/1ciy8ou/vite_minified_non_minified_builds_have_build/</link>
-      <description><![CDATA[是否可以使用 Vite 进行构建，从而生成非最小化构建和最小化构建？这样，当您进行构建时，您将获得 script.js 和 script.min.js 文件。 是否也可以将每个构建的文件扩展名设为 .js 扩展名而不是 .cjs 扩展名？ 这是我的配置 ``` // vite.config.js import { defineConfig } from &#39;vite&#39;;从 &#39;../package.json&#39; 导入 packageJSON； 导出默认 defineConfig({ build: { outDir: &#39;dist&#39;, lib: { entry: &#39;bundle.js&#39;, fileName: packageJSON.name, name: &#39;myObject&#39;, 格式: [&#39;cjs&#39;, &#39;es&#39;, &#39;umd&#39;] }, minify: false } }); ``` 它在我的 dist/ 文件夹中生成了这三个文件  my-project.cjs my-project.js my-project.umd.cjs  是否可以让构建的输出在我的 dist/ 文件夹中生成这些文件……  my-project.cjs.js my-project.cjs.min.js my-project.esm.js my-project.esm.min.js my-project.umd.js my-project.umd.min.js     提交人    /u/trymeouteh   [链接] [评论]]]></description>
+      <description><![CDATA[是否可以使用 Vite 进行非缩小构建和缩小构建的构建？这样，当您进行构建时，您将获得一个 script.js 和 script.min.js 文件。 是否也可以有每个构建的文件扩展名是 .js 扩展名而不是 .cjs 扩展名？ 这是我的配置 ``` // vite.config.js import { DefineConfig } from &#39;vite&#39;; import packageJSON from &#39;../package.json&#39;; 导出默认的defineConfig({ build: { outDir: &#39;dist&#39;, lib: { entry: &#39;bundle.js&#39;, fileName: packageJSON.name,名称：&#39;myObject&#39;，格式：[&#39;cjs&#39;, &#39;es&#39;, &#39;umd&#39;] }, minify: false } }); ``` 它在我的 dist/ 文件夹中生成这三个文件  my-project.cjs  my-project.js my-project.umd.cjs  是否可以让构建的输出在我的 dist/&lt; /code&gt; 文件夹...  my-project.cjs.js my-project.cjs.min.js my-project .esm.js my-project.esm.min.js my-project.umd.js my-project.umd.min.js     由   提交/u/trymeouteh  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ciy8ou/vite_minified_non_minified_builds_have_build/</guid>
       <pubDate>Fri, 03 May 2024 02:54:51 GMT</pubDate>
     </item>
@@ -29,14 +50,14 @@
     <item>
       <title>需要帮助找到正确的 Xpath 并单击按钮</title>
       <link>https://www.reddit.com/r/webdev/comments/1ciwdd5/need_help_finding_the_correct_xpath_and_clicking/</link>
-      <description><![CDATA[您好，我正在开发一个自动化网页的个人项目。  下面是已检查的 HTML 源代码的一部分。两个 li 类代表 2 个可点击的选项，需要点击它们才能继续（需要点击带有文本“是的，没错。”的选项）。  由于两个按钮类具有相同的名称，并且除了包含的文本之外的所有其他内容，我认为扫描 li 类并检查文本会起作用，但它失败了。  此外，前端按钮的位置并不总是相同。有时选项 yes 位于顶部，有时选项 no 位于顶部。 请耐心等待，因为我在这里才刚刚涉足 Python 自动化和 Selenium。 （如果有更好的 Reddit 子版块来解答此类问题，我们深表歉意） HTML 来源： li class=“_25kWt _1nWdI”&gt; &lt;按钮数据测试=“故事选择”类=“_1NTQa”&gt; &lt;svg class=&quot;jds2F&quot;高度＝“24”宽度＝“24”&gt; &lt;圆cx＝“12” cy＝“12”填充=“透明” r＝“11”描边宽度=“2”&gt;&lt;/圆&gt; &lt;圆cx＝“12” cy＝“12”填充=“透明” r＝“7”&gt;/圆&gt; &lt;/svg&gt; &lt;/按钮&gt;  &lt;div class=&quot;_2s38C 短语&quot;&gt; &lt;span class=“v9pTQ _3AnZj _2ziOV”&gt;是&lt;/span&gt; &lt;span class=“v9pTQ _3AnZj”&gt;，&lt;/span&gt; &lt;span class=“v9pTQ _3AnZj _2ziOV”&gt;那就是&lt;/span&gt;  &lt;/span&gt; &lt;span class=“v9pTQ _3AnZj _2ziOV”&gt;右&lt;/span&gt; 。   &lt;/li&gt; &lt;li 类=“_25kWt _1nWdI”&gt; &lt;按钮数据测试=“故事选择”类=“_1NTQa”&gt; &lt;svg class=&quot;jds2F&quot;高度＝“24”宽度＝“24”&gt; &lt;圆cx＝“12” cy＝“12”填充=“透明” r＝“11”描边宽度=“2”&gt;&lt;/圆&gt; &lt;圆cx＝“12” cy＝“12”填充=“透明” r＝“7”&gt;/圆&gt; &lt;/svg&gt; &lt;/按钮&gt;  &lt;div class=&quot;_2s38C 短语&quot;&gt; &lt;span class=“v9pTQ _3AnZj _2ziOV”&gt;否&lt;/span&gt; &lt;span class=“v9pTQ _3AnZj”&gt;，&lt;/span&gt; &lt;span class=“v9pTQ _3AnZj _2ziOV”&gt;那就是&lt;/span&gt;  &lt;/span&gt; 错误 。   &lt;/li&gt; ## PYTHON 脚本中不执行任何操作的部分 options_elements = driver.find_elements(By.XPATH, &quot;//li[contains(@class, &#39;_25kWt&#39;)]&quot;) for option_element in options_elements: text_element = option_element. find_element(By.XPATH, &quot;.//span[@class=&#39;v9pTQ _3AnZj&#39;]&quot;) option_text = text_element.text if option_text == &quot;Yes&quot;: button_element = option_element.find_element(By.XPATH, &quot; .//button[@data-test=&#39;stories-choice&#39;]&quot;)button_element.click()break   由   提交/u/brown_nipples  [链接] [评论]]]></description>
+      <description><![CDATA[您好，我正在开发一个自动化网页的个人项目。  下面是已检查的 HTML 源代码的一部分。两个 li 类代表 2 个可点击的选项，需要点击它们才能继续（需要点击带有文本“是的，没错。”的选项）。  由于两个按钮类具有相同的名称，并且除了包含的文本之外的所有其他内容，我认为扫描 li 类并检查文本会起作用，但它失败了。  此外，前端按钮的位置并不总是相同。有时选项 yes 位于顶部，有时选项 no 位于顶部。 请耐心等待，因为我在这里才刚刚涉足 Python 自动化和 Selenium。 （如果有更好的 Reddit 子版块来解决此类问题，我们深表歉意） HTML 来源： li class=“_25kWt _1nWdI”&gt; &lt;按钮数据测试=“故事选择”类=“_1NTQa”&gt; &lt;svg class=&quot;jds2F&quot;高度＝“24”宽度＝“24”&gt; &lt;圆cx＝“12” cy＝“12”填充=“透明” r＝“11”描边宽度=“2”&gt;&lt;/圆&gt; &lt;圆cx＝“12” cy＝“12”填充=“透明” r＝“7”&gt;/圆&gt; &lt;/svg&gt; &lt;/按钮&gt;  &lt;div class=&quot;_2s38C 短语&quot;&gt; &lt;span class=“v9pTQ _3AnZj _2ziOV”&gt;是&lt;/span&gt; &lt;span class=“v9pTQ _3AnZj”&gt;，&lt;/span&gt; &lt;span class=“v9pTQ _3AnZj _2ziOV”&gt;那就是&lt;/span&gt;  &lt;/span&gt; &lt;span class=“v9pTQ _3AnZj _2ziOV”&gt;右&lt;/span&gt; 。   &lt;/li&gt; &lt;li 类=“_25kWt _1nWdI”&gt; &lt;按钮数据测试=“故事选择”类=“_1NTQa”&gt; &lt;svg class=&quot;jds2F&quot;高度＝“24”宽度＝“24”&gt; &lt;圆cx＝“12” cy＝“12”填充=“透明” r＝“11”描边宽度=“2”&gt;&lt;/圆&gt; &lt;圆cx＝“12” cy＝“12”填充=“透明” r＝“7”&gt;/圆&gt; &lt;/svg&gt; &lt;/按钮&gt;  &lt;div class=&quot;_2s38C 短语&quot;&gt; &lt;span class=“v9pTQ _3AnZj _2ziOV”&gt;否&lt;/span&gt; &lt;span class=“v9pTQ _3AnZj”&gt;，&lt;/span&gt; &lt;span class=“v9pTQ _3AnZj _2ziOV”&gt;那就是&lt;/span&gt;  &lt;/span&gt; 错误 。   &lt;/li&gt; ## PYTHON 脚本中不执行任何操作的部分 options_elements = driver.find_elements(By.XPATH, &quot;//li[contains(@class, &#39;_25kWt&#39;)]&quot;) for option_element in options_elements: text_element = option_element. find_element(By.XPATH, &quot;.//span[@class=&#39;v9pTQ _3AnZj&#39;]&quot;) option_text = text_element.text if option_text == &quot;Yes&quot;: button_element = option_element.find_element(By.XPATH, &quot; .//button[@data-test=&#39;stories-choice&#39;]&quot;)button_element.click()break   由   提交/u/brown_nipples  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ciwdd5/need_help_finding_the_correct_xpath_and_clicking/</guid>
       <pubDate>Fri, 03 May 2024 01:19:43 GMT</pubDate>
     </item>
     <item>
       <title>甚至没有机会 - Amazon SDE OA</title>
       <link>https://www.reddit.com/r/webdev/comments/1ciwb01/didnt_even_get_a_chance_amazon_sde_oa/</link>
-      <description><![CDATA[几周前，我收到亚马逊招聘人员发来的一封电子邮件，要求我发送我的空闲时间来讨论亚马逊的软件开发职位。我很高兴能面试亚马逊，所以那天我回复了我的空闲时间。经过几天的等待，没有得到回应，我联系了同一个招聘人员，但仍然没有回应。  几天前，我决定直接申请，因为亚马逊在我所在地区附近发布了很多工作机会。我上周四申请了亚马逊，周五收到了在线评估。我得到了一周的时间，今天（星期四 - 6 天后）我登录参加在线评估，却发现该链接不再可用。 我没有点击评估或尚未接受，所以我不确定为什么链接已过期。在就业门户网站上，我的申请不再被考虑。  其他人也遇到过这种情况吗？想知道我是否花了太长时间参加评估，确切地说是 6 天，或者在我参加评估之前工作是否已被填补？ 这就是电子邮件的内容： &lt; blockquote&gt; “我们很高兴能够推动您在申请过程中取得进展。下一步，我们邀请您在一周内完成此在线评估。”  具体日期：  评估电子邮件 - 24 年 4 月 26 日星期五， 今天 - 2024 年 5 月 2 日星期四  编辑：在我申请时，该职位似乎刚刚关闭再次担任不同的角色、相同的地点并获得另一个 OA。这次不会等到截止日期结束。   由   提交/u/Hour-Rent-2453  [链接] [评论]]]></description>
+      <description><![CDATA[几周前，我收到亚马逊招聘人员发来的一封电子邮件，要求我发送我的空闲时间来讨论亚马逊的软件开发职位。我很高兴能面试亚马逊，所以那天我回复了我的空闲时间。经过几天的等待，没有得到回应，我联系了同一个招聘人员，但仍然没有回应。  几天前，我决定直接申请，因为亚马逊在我所在地区附近发布了很多工作机会。我上周四申请了亚马逊，周五收到了在线评估。我得到了一周的时间，今天（星期四 - 6 天后）我登录参加在线评估，却发现链接不再可用。 我没有点击评估或尚未接受，所以我不确定为什么链接已过期。在就业门户网站上，我的申请不再被考虑。  其他人也遇到过这种情况吗？想知道我是否花了太长时间参加评估，确切地说是 6 天，或者在我参加评估之前工作是否已被填补？ 这就是电子邮件的内容： &lt; blockquote&gt; “我们很高兴能够推动您在申请过程中取得进展。下一步，我们邀请您在一周内完成此在线评估。”  具体日期：  评估电子邮件 - 24 年 4 月 26 日星期五， 今天 - 2024 年 5 月 2 日星期四  编辑：在我申请时，该职位似乎刚刚关闭再次担任不同的角色、相同的地点并获得另一个 OA。这次不会等到截止日期结束。   由   提交/u/Hour-Rent-2453  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ciwb01/didnt_even_get_a_chance_amazon_sde_oa/</guid>
       <pubDate>Fri, 03 May 2024 01:16:15 GMT</pubDate>
     </item>
@@ -48,7 +69,7 @@
       <pubDate>Fri, 03 May 2024 01:06:24 GMT</pubDate>
     </item>
     <item>
-      <title>如何让 UI 设计更具创意</title>
+      <title>如何在 UI 设计中发挥更多创意</title>
       <link>https://www.reddit.com/r/webdev/comments/1ciw10d/how_to_get_more_creative_with_ui_design/</link>
       <description><![CDATA[我是一名 Web 开发人员，我需要帮助改进我的设计领域。我想在CSS方面做得更好，但更重要的是，我想学习更多的设计原则和想法。我看到了我可以制作的这个非常酷的网站设计，但如果我从未见过它，我就不会想到类似的事情。我想不出很酷的设计理念等。   由   提交 /u/RRTropical   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ciw10d/how_to_get_more_creative_with_ui_design/</guid>
@@ -64,7 +85,7 @@
     <item>
       <title>对我最近制作的网站提供反馈的最佳地点？</title>
       <link>https://www.reddit.com/r/webdev/comments/1civ6pf/best_place_to_has_for_feedback_on_a_recent/</link>
-      <description><![CDATA[我想问一下，哪里是针对我制作的新网站征求反馈的好地方？    提交人    /u/Wrong-Acanthaceae-94   [链接] [评论]]]></description>
+      <description><![CDATA[我想问一下，在哪里可以就我制作的新网站寻求反馈？   由   提交 /u/Wrong-Acanthaceae-94   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1civ6pf/best_place_to_has_for_feedback_on_a_recent/</guid>
       <pubDate>Fri, 03 May 2024 00:19:54 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我需要在谷歌地图上显示 11 条路线，它们永远不会改变。我该如何优化这个？ （apache、php、vanilla js） 到目前为止我的方法：我将 lat/lng 保存在 js 数组中（大约 400&#39;000 行），然后将其与页面一起发送。 &lt; p&gt;我在文档准备好后将它们加载到地图中，与在每个页面加载时向谷歌地图 API 发送请求相比，这已经加快了进程。 现在这个文件很大（11MB），所以我开始研究压缩，到目前为止最好的选择是 HTTP 压缩，但我不明白这是否已经从一开始就实现了，听起来默认情况下已经在使用了    由   提交 /u/zwibele   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cit9b7/how_do_i_optimizw_google_maps_routes/</guid>
       <pubDate>Thu, 02 May 2024 22:49:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>二分键工具帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ciso9r/dichotomous_key_tool_help/</link>
-      <description><![CDATA[大家好！我也是网络开发和编程的初学者，需要经验丰富的人的建议。我有一个项目，我想在其中创建用于植物识别的交互式二分键。最好的格式（应用程序？网页？）和最简单的格式（格式/语言）是什么。 目标是提供带有 A 或 B 选项的页面，用您所选择的图像（可选）描述植物形态。可以选择，这将带您进入下一个 A/B 选项，直到您进行身份验证。感觉对于初学者来说制作起来很简单，但我基本上不知道这个项目的最佳格式。我愿意在 html 上学习 python 以外的语言基础知识。  我愿意接受您的想法和建议！提前致谢:)   由   提交/u/Rainom15  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ciso9r/dichotomous_key_tool_help/</guid>
-      <pubDate>Thu, 02 May 2024 22:23:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>访问量突然激增，然后就没有了……我做错了什么吗？ 🥲</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cirvkd/sudden_surge_of_visits_and_then_nothing_am_i/</link>
-      <description><![CDATA[我和我的高中朋友已经开发了一年的 chrome 扩展应用程序来简化协作，因为您可以在任何网页上插入便签。  它非常适合小型团队，例如初创公司、设计或网络代理机构（在线寻找灵感），甚至房地产代理机构！  如果您想与您的团队一起尝试：https://trytagu.com 从我之前的帖子中，我们被告知：  将其与第三方项目管理软件（如 trello 或 notion（目前正在开发））集成 将其与 Slack 等通信平台集成。我很想知道其他人是否同意这个建议！   PS：我们提供限时终身优惠，非常便宜，绝对可以激励我和我的朋友们更加努力，继续不停地工作！     提交人    /u/FanaticRoute   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cirvkd/sudden_surge_of_visits_and_then_nothing_am_i/</guid>
-      <pubDate>Thu, 02 May 2024 21:49:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人使用过 helcim 进行付款处理吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1circbm/has_anyone_used_helcim_for_payment_processing/</link>
-      <description><![CDATA[我正在寻找廉价但强大的支付处理服务。我看到helcim 的价格非常便宜。有人用过吗？    由   提交/u/Even-Advertising-332   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1circbm/has_anyone_used_helcim_for_payment_processing/</guid>
-      <pubDate>Thu, 02 May 2024 21:26:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

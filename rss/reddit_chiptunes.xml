@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
-    <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
-    <lastBuildDate>Fri, 03 May 2024 03:07:15 GMT</lastBuildDate>
+    <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
+    <lastBuildDate>Fri, 03 May 2024 06:07:05 GMT</lastBuildDate>
     <item>
       <title>彼得彼得！</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cipcxe/pedro_pedro/</link>
@@ -57,12 +57,12 @@
     <item>
       <title>在 Furnace Tracker 中混合和匹配声音芯片？</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1chrtwk/mixing_and_matching_soundchips_in_furnace_tracker/</link>
-      <description><![CDATA[我正在做一个向 Kirby 音乐和 Dreamland 系列致敬的项目。我希望能够将 gameboy 脉冲和波表通道与一些 snes 样本通道结合使用。通过浏览文档和基本的谷歌搜索，我没有找到答案，但想问一下，在我仔细阅读手册的每一页或联系支持人员之前，你们中是否有人知道如何做到这一点。我的猜测是，由于 Furnace 致力于模拟特定芯片的功能，因此所有通道都一起处理，这是不可能的，但现在是 2024 年，Furnace 本身的存在就是一个奇迹。后续问题：由于 Kirby snes 游戏总是为音效保留 3 个通道，我只会使用 5 个通道，并且为了获得更清晰的界面，我想消除未使用的通道。有办法吗？   由    /u/knotalie  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我正在开发一个项目，向《星之卡比》音乐尤其是《梦境》系列致敬。我希望能够将 Gameboy 脉冲和波表通道与一些 snes 示例通道结合使用。通过浏览文档和基本的谷歌搜索，我还没有找到答案，但在我浏览手册的每一页或联系支持人员之前，我想问问你们是否知道如何做到这一点。我的猜测是，由于 Furnace 如此致力于模拟特定芯片的功能，因此所有通道都一起处理，这是不可能的，但现在是 2024 年，Furnace 本身的存在就是一个奇迹。后续问题：由于卡比snes游戏总是保留3个声道用于音效，我只会使用5个声道，并且为了更干净的界面，希望消除未使用的声道。有办法做到这一点吗？   由   提交/u/knotalie  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1chrtwk/mixing_and_matching_soundchips_in_furnace_tracker/</guid>
       <pubDate>Wed, 01 May 2024 17:25:26 GMT</pubDate>
     </item>
     <item>
-      <title>了解 Contriver XTD（24 分钟）</title>
+      <title>Contriver XTD 理解（24 分钟）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1chqjsf/contriver_xtd_understanding_24_mins/</link>
       <description><![CDATA[    &lt; /a&gt;   由   提交/u/bobthefrog003  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1chqjsf/contriver_xtd_understanding_24_mins/</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>GINKO ULTRA 的 Wavehalo 仪式</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1choq4l/wavehalo_ritual_by_ginko_ultra/</link>
-      <description><![CDATA[      作曲/演奏/录制：GINKO ULTRA    由   提交 /u/GINKO-ULTRA-3000   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      由 GINKO ULTRA 创作/表演/录制     由   提交  /u/GINKO-ULTRA-3000   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1choq4l/wavehalo_ritual_by_ginko_ultra/</guid>
       <pubDate>Wed, 01 May 2024 15:17:45 GMT</pubDate>
     </item>
