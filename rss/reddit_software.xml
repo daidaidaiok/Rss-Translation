@@ -4,7 +4,7 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 04 May 2024 06:06:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 09:05:58 GMT</lastBuildDate>
     <item>
       <title>在 Windows 11 上安装 Windows Visual C++ 2010 的问题</title>
       <link>https://www.reddit.com/r/software/comments/1cjrc5t/issues_installing_windows_visual_c_2010_on/</link>
@@ -20,14 +20,14 @@
       <pubDate>Sat, 04 May 2024 02:35:06 GMT</pubDate>
     </item>
     <item>
-      <title>Windows installshield 向导安装 Avid Media Composer 时出现问题？</title>
+      <title>Windows InstallShield 向导安装 Avid Media Composer 时有问题吗？</title>
       <link>https://www.reddit.com/r/software/comments/1cjm2m6/problem_with_windows_installshield_wizard/</link>
-      <description><![CDATA[嗨，我已经尝试了 3 天，从官方网站为 Windows 中的 uni 项目安装 avid media composer，但每当 installshield 向导即将结束安装时，它都会显示类似“恢复操作”的内容，并且进度条会倒退。然后出现一个窗口，显示“安装程序在完成安装之前已停止，您的系统尚未修改。要在其他时间完成安装，请再次执行”我已经尝试了大约 12 次，但就是不起作用。 也许这是因为我第一次尝试安装时速度太慢，我以为它没有工作，所以我只是从任务管理器关闭它并重试？ 我尝试从 avid 安装以前的版本，但发生了相同的错误，还尝试删除我能找到的每个 avid 文件并重试，我重新启动了大约 1000 次。还可以尝试以管理员身份直接从安装文件执行安装（这也会打开 installshield） 系统规格： 处理器； AMD Ryzen 5 5500U，配备 Radeon Graphics 2.10 GHz 安装的 RAM：8,00 GB（可用 7,33 GB） x64 位处理器 Windows：Windows 11 Home    提交人    /u/Longclaw10   [link] [评论]]]></description>
+      <description><![CDATA[嗨，我已经尝试了 3 天从官方网站为 Windows 中的 uni 项目安装 avid mediacomposer，但每当 installshield向导即将结束安装，它会显示“恢复操作”之类的内容，并且进度条向后移动。然后出现一个窗口，显示“安装程序在完成安装之前停止，您的系统尚未修改。”要在其他时间完成安装，请再次执行”我已经尝试了大约 12 次，但它无法正常工作。 也许这与我第一次尝试安装速度太慢有关，我认为它无法正常工作，所以我只是从任务管理器中将其关闭然后再试一次？ 我尝试从 avid 安装以前的版本，但发生了同样的错误，还尝试删除我能找到的每个 avid 文件并重试，然后我重新启动了大约 1000 次。还可以尝试以管理员身份直接从安装文件执行安装（无论如何也会打开 installshield） 系统规格： 处理器； AMD Ryzen 5 5500U，配备 Radeon Graphics 2.10 GHz 安装的内存：8,00 GB（可用 7,33 GB） x64 位处理器 Windows：Windows 11首页   由   提交/u/Longclaw10   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjm2m6/problem_with_windows_installshield_wizard/</guid>
       <pubDate>Fri, 03 May 2024 23:16:06 GMT</pubDate>
     </item>
     <item>
-      <title>文件传输软件可以在电脑重启后暂停并恢复传输吗？</title>
+      <title>电脑重启后可以暂停和恢复传输的文件传输软件？</title>
       <link>https://www.reddit.com/r/software/comments/1cjhd10/file_transfer_software_that_can_be_paused_and/</link>
       <description><![CDATA[你好！ 这是我的情况 - 早在 2018-2019 年，我有一台旧计算机，上面有一些相当长视频（每个视频长达几个小时，文件大小为千兆字节）。我已经升级到一台新计算机，并将旧硬盘放入新硬盘中，这样我的文件就会被保留。 视频被保留，但很多都非常滞后，几乎无法观看。我被告知这可能是因为我的旧硬盘速度很慢并且难以读取文件。情况很可能是这样，因为我设法将其中一个视频从旧 HDD 传输到新 SSD，并且该视频工作正常。 所以现在，问题是：我正在尝试传输将视频从我的 HDD 转移到 SSD，但该过程非常慢（可能是因为它仍在尝试从 HDD 读取文件）。一个文件实际上需要几天的时间才能被继承，而且我真的不能让我的电脑连续几天开着。最好的选择是，我可以在电脑开启时让文件传输，在必须关闭电脑时暂停传输，然后在回到电脑时恢复传输。 最接近我的想法是将视频上传到 YouTube 并迫使 YouTube 认为我的上传被中断 - 如果我在上传过程中突然关闭浏览器，YouTube 将保存视频上传的进度并记住我离开的位置关闭约 24 小时，这意味着我基本上可以“暂停”上传。当然，这并不可靠 - 我只成功执行过一次，并且在尝试对其他几个视频执行此操作后 - 每次都会导致“上传失败”视频上传“暂停”时出现错误正如你可以想象的那样，这非常令人沮丧。 我试图寻找一种可以在计算机重新启动后暂停并在第二天恢复的文件传输软件，但我并没有真正找到太多，因为我的问题相当具体，所以我想我会直接向你们询问一些软件建议:) 编辑：无法真正回复所有人，但谢谢大家的建议。我会考虑修复我的硬盘或某种形式的数据恢复   由   提交 /u/N0rbertas   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjhd10/file_transfer_software_that_can_be_paused_and/</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>Alternatives to Lu Dashi （鲁大师）</title>
       <link>https://www.reddit.com/r/software/comments/1cja7h0/alternatives_to_lu_dashi_鲁大师/</link>
-      <description><![CDATA[我正在寻找一个简单的程序，它只会在我的计算机温度升高时通知我。   由   提交 /u/Plantaineous   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个简单的程序，如果我的计算机温度过高，它会通知我。    提交人    /u/Plantaineous   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cja7h0/alternatives_to_lu_dashi_鲁大师/</guid>
       <pubDate>Fri, 03 May 2024 14:34:49 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Fri, 03 May 2024 14:26:57 GMT</pubDate>
     </item>
     <item>
-      <title>寻求 Thunderbird 的替代方案来替代 Exchange 电子邮件帐户</title>
+      <title>为 Exchange 电子邮件帐户寻求 Thunderbird 的替代方案</title>
       <link>https://www.reddit.com/r/software/comments/1cj9ryz/seeking_an_alternative_to_thunderbird_for/</link>
       <description><![CDATA[嘿各位 Reddit 用户，让我们直接进入主题吧。我目前管理六个电子邮件帐户，其中两个是与我工作的公司关联的 Exchange 帐户。其余四个帐户有多种用途，包括个人使用和求职。直到最近，我还依赖 Thunderbird 作为我的电子邮件客户端。但是，它突然停止与我的 Exchange 帐户顺利运行。虽然它仍然可以连接到服务器，但拒绝发送电子邮件。有趣的是，在另一台具有相同设置的计算机上，Thunderbird 可以完美运行。现在，我正在寻找替代的电子邮件客户端 - 一个没有任何限制并且可以与 Exchange 电子邮件无缝协作的客户端。你们有什么建议吗？我非常感谢您的见解！   由   提交/u/sana9675  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cj9ryz/seeking_an_alternative_to_thunderbird_for/</guid>
