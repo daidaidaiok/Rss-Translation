@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 04 May 2024 18:06:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 00:19:05 GMT</lastBuildDate>
+    <item>
+      <title>用于社区花园管理的开源软件</title>
+      <link>https://www.reddit.com/r/software/comments/1ckcxzp/open_source_software_for_community_garden/</link>
+      <description><![CDATA[我是一家运营社区花园的非营利组织的系统管理员。我希望找到某种形式的软件，让我能够管理谁租用了这些地块并跟踪他们的会员级别。  我们确实有 NeonOne 来进行其余的操作，但它不能很好地处理社区花园。  有什么想法吗？   由   提交/u/Kamikazepyro9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ckcxzp/open_source_software_for_community_garden/</guid>
+      <pubDate>Sat, 04 May 2024 22:58:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于管理多个外部显示器并将窗口快速移动到它们的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1ck94er/software_to_manage_several_external_monitors_and/</link>
+      <description><![CDATA[嗨，我使用的是 Windows 10。 有时我的笔记本电脑使用 2 个显示器，如果我想移动 chrome窗口到一个并使其填满整个屏幕，我需要用鼠标将其移动到所需的屏幕，单击F11使其全屏。我也可以使用 Windows 键 + 箭头，但需要时间和多次按下。 是否有软件可以更好地管理此操作？就像一个热键一样，自动发送我的聚焦窗口以显示 X 并使其全屏。 提前致谢。   由   提交 /u/sotodefonk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ck94er/software_to_manage_several_external_monitors_and/</guid>
+      <pubDate>Sat, 04 May 2024 20:02:44 GMT</pubDate>
+    </item>
     <item>
       <title>提供单向同步的云服务</title>
       <link>https://www.reddit.com/r/software/comments/1ck658c/cloud_service_that_provides_one_way_sync/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[这种情况有些人可能会比其他人遇到更多。我的系统上主要使用两种语言，它们之间的切换应该如下很简单，就像 alt+shift 一样。然而，有时我需要输入一些与所用字母表不同的其他语言（例如从英语切换到中文和俄语）。偶尔但有些频繁。在 Windows 上保持 4 或 5 种语言处于启用状态，使用 alt+shift 和 shift+win+space 来导航它们有点麻烦，所以我需要一个软件或实用程序，您可以使用它来快速启用/禁用语言，而无需费力转到 Windows 设置，时不时地添加语言及其功能。   由   提交/u/Mahfoudh94  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjfbn8/quick_enable_disable_languages_on_windows/</guid>
       <pubDate>Fri, 03 May 2024 18:08:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的剪贴板坏了。</title>
-      <link>https://www.reddit.com/r/software/comments/1cje2tn/my_clipboard_is_broken/</link>
-      <description><![CDATA[​ https://preview.redd.it/qw2460wov8yc1.png?width=310&amp;format=png&amp;auto=webp&amp;s=829c64017a24d9bbd5 9f604fe15111aaba7fc8fe&lt; /p&gt;   由   提交/u/DJSharp15  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cje2tn/my_clipboard_is_broken/</guid>
-      <pubDate>Fri, 03 May 2024 17:16:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>环绕声</title>
-      <link>https://www.reddit.com/r/software/comments/1cje2ic/surround_sound/</link>
-      <description><![CDATA[我正在尝试像现实生活一样渲染音频是否有像杜比全景声渲染器这样的免费软件我尝试在搅拌机中渲染声音，但效果不太好&lt; /p&gt;   由   提交 /u/Computerslord   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cje2ic/surround_sound/</guid>
-      <pubDate>Fri, 03 May 2024 17:16:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

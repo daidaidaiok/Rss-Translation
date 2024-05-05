@@ -2,19 +2,19 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 04 May 2024 21:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 00:19:39 GMT</lastBuildDate>
     <item>
       <title>Nanito - 极简发射器</title>
       <link>https://www.producthunt.com/posts/nanito-minimalist-launcher</link>
       <description><![CDATA[
-            最小的 Android 启动器可帮助您减少屏幕时间
-          
+极简 Android 启动器，可帮助您减少屏幕时间
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/nanito-minimalist-launcher</guid>
       <pubDate>Fri, 03 May 2024 10:21:34 GMT</pubDate>
@@ -48,7 +48,7 @@
       <pubDate>Fri, 03 May 2024 07:34:41 GMT</pubDate>
     </item>
     <item>
-      <title>应答时间</title>
+      <title>解答时间</title>
       <link>https://www.producthunt.com/posts/answertime</link>
       <description><![CDATA[
             由 AI 提供支持的快速、有效的用户研究
@@ -79,18 +79,18 @@
       <title>我们的风帆</title>
       <link>https://www.producthunt.com/posts/oursails</link>
       <description><![CDATA[
-            简单、私密、安全的协作会议应用程序
-          
+简单、私密、安全的协作会议应用程序
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/oursails</guid>
       <pubDate>Thu, 02 May 2024 23:59:46 GMT</pubDate>
     </item>
     <item>
-      <title>洛伊特</title>
+      <title>徽标</title>
       <link>https://www.producthunt.com/posts/logoit</link>
       <description><![CDATA[
             徽标变得简单
@@ -177,12 +177,12 @@
       <title>霍什艾</title>
       <link>https://www.producthunt.com/posts/hoshai</link>
       <description><![CDATA[
-            用于生成文本、图像、音频和视频的 AI 助手
-          
+用于生成文本、图像、音频和视频的 AI 助手
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/hoshai</guid>
       <pubDate>Fri, 26 Apr 2024 18:57:44 GMT</pubDate>
@@ -202,7 +202,7 @@
       <pubDate>Fri, 08 Mar 2024 20:33:23 GMT</pubDate>
     </item>
     <item>
-      <title>新闻大师.ai</title>
+      <title>Pressmaster.ai</title>
       <link>https://www.producthunt.com/posts/pressmaster-ai</link>
       <description><![CDATA[
             人工智能驱动的一体化公共关系软件
