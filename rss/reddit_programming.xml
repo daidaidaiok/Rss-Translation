@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 05 May 2024 06:06:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 09:07:14 GMT</lastBuildDate>
+    <item>
+      <title>代码审查中到底该说什么</title>
+      <link>https://www.reddit.com/r/programming/comments/1cklfdi/exactly_what_to_say_in_code_reviews/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cklfdi/exactly_what_to_say_in_code_reviews/</guid>
+      <pubDate>Sun, 05 May 2024 07:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么选择 ULID 而不是传统的 UUID 或 ID 来进行数据库标识？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ckklm9/why_choose_ulids_over_traditional_uuids_or_ids/</link>
+      <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ckklm9/why_choose_ulids_over_traditional_uuids_or_ids/</guid>
+      <pubDate>Sun, 05 May 2024 06:09:12 GMT</pubDate>
+    </item>
     <item>
       <title>闯入科技就业市场：如何脱颖而出并获得关注</title>
       <link>https://www.reddit.com/r/programming/comments/1ckficn/hacking_the_tech_job_market_how_to_stand_out_and/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>android-luks：“一款允许使用 USB 配件模式安全 LUKS 解锁而无需输入 LUKS 密码的应用程序。当前状态是：稳定的概念证明。” “应用程序已测试”的智能手机：“Xiaomi A3 (Android 11)”、“Google Pixel 3 (Android 12)”和“Samsung A54 (Android 13)”。</title>
       <link>https://www.reddit.com/r/programming/comments/1ckfayy/androidluks_an_app_that_allows_secure_luks/</link>
-      <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/throtaway16830261  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ckfayy/androidluks_an_app_that_allows_secure_luks/</guid>
       <pubDate>Sun, 05 May 2024 00:54:36 GMT</pubDate>
     </item>
@@ -36,7 +50,7 @@
     <item>
       <title>我从未有过的 Git 指南</title>
       <link>https://www.reddit.com/r/programming/comments/1ckafi5/the_guide_to_git_i_never_had/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ckafi5/the_guide_to_git_i_never_had/</guid>
       <pubDate>Sat, 04 May 2024 21:01:40 GMT</pubDate>
     </item>
@@ -55,7 +69,7 @@
       <pubDate>Sat, 04 May 2024 19:56:47 GMT</pubDate>
     </item>
     <item>
-      <title>制作了一个跟踪卷曲脚本的工具 |壳</title>
+      <title>制作了一个工具来跟踪 curl | shell 的脚本</title>
       <link>https://www.reddit.com/r/programming/comments/1ck7imw/made_a_tool_to_track_scripts_that_curl_shell/</link>
       <description><![CDATA[ 由   提交/u/boxstripe  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ck7imw/made_a_tool_to_track_scripts_that_curl_shell/</guid>
@@ -85,30 +99,16 @@
     <item>
       <title>PDF 中非 JavaScript 的浏览器安全漏洞</title>
       <link>https://www.reddit.com/r/programming/comments/1ck53yx/browser_security_bugs_that_arent_javascript_in_pdf/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ck53yx/browser_security_bugs_that_arent_javascript_in_pdf/</guid>
       <pubDate>Sat, 04 May 2024 17:05:19 GMT</pubDate>
     </item>
     <item>
       <title>使用 GreenMail 进行 Spring Mail (JavaMailSender) JUnit 5 集成测试</title>
       <link>https://www.reddit.com/r/programming/comments/1ck40ep/use_greenmail_for_spring_mail_javamailsender/</link>
-      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ck40ep/use_greenmail_for_spring_mail_javamailsender/</guid>
       <pubDate>Sat, 04 May 2024 16:17:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>PlutoBook：分页 HTML 渲染库</title>
-      <link>https://www.reddit.com/r/programming/comments/1ck3usm/plutobook_paged_html_rendering_library/</link>
-      <description><![CDATA[ 由   提交 /u/SamNwutobo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ck3usm/plutobook_paged_html_rendering_library/</guid>
-      <pubDate>Sat, 04 May 2024 16:10:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用Python和2captcha绕过hCaptcha</title>
-      <link>https://www.reddit.com/r/programming/comments/1ck357a/how_to_bypass_hcaptcha_using_python_and_2captcha/</link>
-      <description><![CDATA[ 由   提交/u/Organic_Drawing_3339   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ck357a/how_to_bypass_hcaptcha_using_python_and_2captcha/</guid>
-      <pubDate>Sat, 04 May 2024 15:39:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
