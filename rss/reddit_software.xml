@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 06 May 2024 06:06:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 09:06:24 GMT</lastBuildDate>
+    <item>
+      <title>类似FL studios的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1clcvlc/similar_software_like_fl_studios/</link>
+      <description><![CDATA[我正在寻找类似的免费音乐制作软件，例如 FL studios   由   提交/u/goldzorvday  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1clcvlc/similar_software_like_fl_studios/</guid>
+      <pubDate>Mon, 06 May 2024 07:07:28 GMT</pubDate>
+    </item>
     <item>
       <title>嵌入式 LUKS (E-LUKS)：物联网安全的硬件解决方案——“物联网 (IoT) 安全是开发人员必须面对的最重要问题之一。” E-LUKS“框架”“类似于Linux系统中用于加密数据分区的Linux统一密钥设置（LUKS）解决方案”。</title>
       <link>https://www.reddit.com/r/software/comments/1clbmf8/embedded_luks_eluks_a_hardware_solution_to_iot/</link>
@@ -64,12 +71,12 @@
     <item>
       <title>一个人如何恢复在 Whatsapp 上发送的 1 次打开的视频，同时在 Whatsapp 本身上录制该视频（因此它没有保存到媒体）？</title>
       <link>https://www.reddit.com/r/software/comments/1cl1bhd/how_can_a_person_recover_a_1_time_opened_video/</link>
-      <description><![CDATA[  由    /u/ivaxcx  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/ivaxcx   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cl1bhd/how_can_a_person_recover_a_1_time_opened_video/</guid>
       <pubDate>Sun, 05 May 2024 20:58:58 GMT</pubDate>
     </item>
     <item>
-      <title>音乐播放器可以在转到下一首歌曲之前重复一首歌曲 X 次</title>
+      <title>音乐播放器可以重复播放一首歌曲 X 次，然后再播放下一首歌曲</title>
       <link>https://www.reddit.com/r/software/comments/1ckvci4/music_player_that_can_repeat_a_song_x_times/</link>
       <description><![CDATA[对于至少要循环一次的音乐（例如视频游戏音乐）   由   提交 /u/Clairvoidance   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ckvci4/music_player_that_can_repeat_a_song_x_times/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>VPN 客户端的后端如何工作？</title>
       <link>https://www.reddit.com/r/software/comments/1ckotz8/how_does_the_backend_of_a_vpn_client_work/</link>
-      <description><![CDATA[大家好， 我使用 VPN 服务已经有一段时间了，我一直很好奇如何使用 VPN 服务VPN 客户端的后端实际运行。我们都熟悉用户友好的前端，只需单击一下即可选择服务器并连接，但幕后发生了什么？ 我的主要问题是：  服务器信息管理：是否有一个中央服务器保存所有可用 VPN 服务器的信息？客户端如何知道哪些服务器在线并可供连接？ 用户身份验证：连接到 VPN 服务器时，必须涉及某种形式的身份验证。如何安全地向客户提供凭证？当然，它们没有硬编码到客户端应用程序的源代码中，对吗？    由   提交 /u/DSandleman   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我使用 VPN 服务已经有一段时间了，我一直很好奇 VPN 客户端的后端是如何运作的。我们都熟悉用户友好的前端，只需单击一下即可选择服务器并连接，但幕后发生了什么呢？ 我的主要问题是：  服务器信息管理：是否有一个中央服务器保存有关所有可用 VPN 服务器的信息？客户端如何知道哪些服务器在线且可连接？ 用户身份验证：连接到 VPN 服务器时，必须涉及某种形式的身份验证。如何安全地向客户端提供凭据？当然，它们不是硬编码到客户端应用程序的源代码中，对吧？     提交人    /u/DSandleman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ckotz8/how_does_the_backend_of_a_vpn_client_work/</guid>
       <pubDate>Sun, 05 May 2024 11:08:19 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[filminator dot net  使用点符号代替单词 dot  &lt; p&gt;​   由   提交 /u/filminator_developer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cknzu5/the_coolest_movie_app_in_the_world_just_released/</guid>
       <pubDate>Sun, 05 May 2024 10:10:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>支持批量和4K下载的YouTube视频下载器</title>
-      <link>https://www.reddit.com/r/software/comments/1ckk68y/youtube_video_downloader_that_supports_bulk_and/</link>
-      <description><![CDATA[嘿伙计们。只是想知道是否有支持批量或队列下载以及 4k 下载器的 YouTube 视频下载器。我目前正在使用此下载器，但它不支持队列/批量下载。我必须等到第一次下载完成后才能添加另一个视频链接。谢谢！   由   提交 /u/Sekiroweb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ckk68y/youtube_video_downloader_that_supports_bulk_and/</guid>
-      <pubDate>Sun, 05 May 2024 05:40:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
