@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 06 May 2024 09:06:24 GMT</lastBuildDate>
+    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Mon, 06 May 2024 12:07:51 GMT</lastBuildDate>
+    <item>
+      <title>OBD2 Windows 软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1clg082/obd2_windows_software/</link>
+      <description><![CDATA[有人知道 Windows 下的 OBD2 软件吗？提前致谢！   由   提交 /u/WannaSeeMagic69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1clg082/obd2_windows_software/</guid>
+      <pubDate>Mon, 06 May 2024 10:47:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要一个浏览器中的 YouTube 下载器</title>
+      <link>https://www.reddit.com/r/software/comments/1cleve7/i_need_a_youtube_downloader_in_browser/</link>
+      <description><![CDATA[我正在使用 yt mate，但它表现得很奇怪   由   提交/u/Far_Baseball_1663   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cleve7/i_need_a_youtube_downloader_in_browser/</guid>
+      <pubDate>Mon, 06 May 2024 09:30:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一款无需订阅的免费看板软件</title>
+      <link>https://www.reddit.com/r/software/comments/1clevb7/looking_for_a_free_kanban_software_without/</link>
+      <description><![CDATA[您好， 我正在开发一个独立项目，我想要一个看板来跟踪我的工作需要这样做。 但我能找到的几乎所有看板软件都需要订阅或付款。我不需要有很多功能的大东西来促进团队合作，我目前是独自一人。有人知道一个简单的免费工具吗？   由   提交/u/Elgatee  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1clevb7/looking_for_a_free_kanban_software_without/</guid>
+      <pubDate>Mon, 06 May 2024 09:29:53 GMT</pubDate>
+    </item>
     <item>
       <title>类似FL studios的软件</title>
       <link>https://www.reddit.com/r/software/comments/1clcvlc/similar_software_like_fl_studios/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>地图任天堂切换屏幕截图按钮以不和谐一键通话</title>
       <link>https://www.reddit.com/r/software/comments/1clagnv/map_nintendo_switch_screenshot_button_to_discord/</link>
-      <description><![CDATA[我正在使用任天堂 Switch 控制器在 Windows PC 上的 Steam 上玩游戏，这让我大吃一惊，弄清楚这是多么困难。我想重新映射屏幕截图按钮，以便它可以在不和谐中启用一键通，可以映射到任何按钮。我尝试将其映射到`键，然后在steam大图片模式下，将屏幕截图按钮更改为`，但是在游戏本身中，单击`不会在不和谐中注册。  我愿意购买另一个控制器，这可能会让事情变得更容易。 Xbox 控制器是否更适合在 Steam 上玩游戏/重新映射一键通？任何能让这一切变得尽可能简单的事情，而无需我堆叠不同的软件解决方案来获得我正在寻找的东西。   由   提交 /u/Embarrassed_Field_84   [链接] [评论]]]></description>
+      <description><![CDATA[我正在使用任天堂 Switch 控制器在 Windows PC 上的 Steam 上玩游戏，弄清楚这件事有多难让我吃惊。我想重新映射屏幕截图按钮，以便它在 discord 中启用一键通，可以映射到任何按钮。我尝试将其映射到 ` 键，然后在 Steam 大图片模式下，将屏幕截图按钮更改为 `，但在游戏中，单击 ` 不会在 discord 中注册。  我愿意再买一个可能会让事情变得更容易的控制器。Xbox 控制器是否更适合在 Steam 上玩游戏/重新映射一键通？任何能让这一切尽可能简单的事情，而我不需要堆叠不同的软件解决方案来获得我想要的东西。    提交人    /u/Embarrassed_Field_84   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1clagnv/map_nintendo_switch_screenshot_button_to_discord/</guid>
       <pubDate>Mon, 06 May 2024 04:28:46 GMT</pubDate>
     </item>
@@ -57,7 +78,7 @@
     <item>
       <title>帮助解决这个烦人的功能</title>
       <link>https://www.reddit.com/r/software/comments/1cl3fdr/help_with_this_annoying_feature/</link>
-      <description><![CDATA[每次我按 alt+ 空格（误点击）时，它都会上升并关闭我的工作窗口，我该如何取消激活它？我使用的是 Windows 11 https:/ /preview.redd.it/6norf7dgpoyc1.png?width=862&amp;format=png&amp;auto=webp&amp;s=fc9df0cbbeb96bca3fb280edb3a2d5e53228798f   由   提交/u/samuelgtrzz__   [链接] [评论]]]></description>
+      <description><![CDATA[每次我按下 alt+space（误点击）时，这个按钮都会弹出并关闭我的工作窗口，我该如何取消激活它？我在 Windows 11 上 https://preview.redd.it/6norf7dgpoyc1.png?width=862&amp;format=png&amp;auto=webp&amp;s=fc9df0cbbeb96bca3fb280edb3a2d5e53228798f   由    /u/samuelgtrzz__  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cl3fdr/help_with_this_annoying_feature/</guid>
       <pubDate>Sun, 05 May 2024 22:30:03 GMT</pubDate>
     </item>
@@ -76,7 +97,7 @@
       <pubDate>Sun, 05 May 2024 20:58:58 GMT</pubDate>
     </item>
     <item>
-      <title>音乐播放器可以重复播放一首歌曲 X 次，然后再播放下一首歌曲</title>
+      <title>音乐播放器可以在转到下一首歌曲之前重复一首歌曲 X 次</title>
       <link>https://www.reddit.com/r/software/comments/1ckvci4/music_player_that_can_repeat_a_song_x_times/</link>
       <description><![CDATA[对于至少要循环一次的音乐（例如视频游戏音乐）   由   提交 /u/Clairvoidance   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ckvci4/music_player_that_can_repeat_a_song_x_times/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[youtube 上有一些扩展可以做到这一点，但我找不到一个程序可以做到这一点，这会有很大的帮助   由   提交 /u/IAmNotNeru   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cks21g/video_player_that_automatically_skips_the_silent/</guid>
       <pubDate>Sun, 05 May 2024 14:07:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>时间表制作者</title>
-      <link>https://www.reddit.com/r/software/comments/1ckprqw/timetable_maker/</link>
-      <description><![CDATA[我想为我的大学制定时间表（适用于所有班级和老师）是否有软件可以实现此目的？ &lt; !-- SC_ON --&gt;  由   提交/u/jan_Asilu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ckprqw/timetable_maker/</guid>
-      <pubDate>Sun, 05 May 2024 12:06:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>VPN 客户端的后端如何工作？</title>
-      <link>https://www.reddit.com/r/software/comments/1ckotz8/how_does_the_backend_of_a_vpn_client_work/</link>
-      <description><![CDATA[大家好， 我使用 VPN 服务已经有一段时间了，我一直很好奇 VPN 客户端的后端是如何运作的。我们都熟悉用户友好的前端，只需单击一下即可选择服务器并连接，但幕后发生了什么呢？ 我的主要问题是：  服务器信息管理：是否有一个中央服务器保存有关所有可用 VPN 服务器的信息？客户端如何知道哪些服务器在线且可连接？ 用户身份验证：连接到 VPN 服务器时，必须涉及某种形式的身份验证。如何安全地向客户端提供凭据？当然，它们不是硬编码到客户端应用程序的源代码中，对吧？     提交人    /u/DSandleman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ckotz8/how_does_the_backend_of_a_vpn_client_work/</guid>
-      <pubDate>Sun, 05 May 2024 11:08:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>世界上最酷的电影应用程序刚刚发布</title>
-      <link>https://www.reddit.com/r/software/comments/1cknzu5/the_coolest_movie_app_in_the_world_just_released/</link>
-      <description><![CDATA[filminator dot net  使用点符号代替单词 dot  &lt; p&gt;​   由   提交 /u/filminator_developer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cknzu5/the_coolest_movie_app_in_the_world_just_released/</guid>
-      <pubDate>Sun, 05 May 2024 10:10:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
