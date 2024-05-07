@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 07 May 2024 12:08:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 15:06:32 GMT</lastBuildDate>
+    <item>
+      <title>感觉只会说一种语言？来认识一下 Huriha，多语言 Web 服务器！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cmcyza/feeling_monolingual_meet_huriha_the_polyglot_web/</link>
+      <description><![CDATA[ 由   提交/u/DaniAsh551   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cmcyza/feeling_monolingual_meet_huriha_the_polyglot_web/</guid>
+      <pubDate>Tue, 07 May 2024 14:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>伙计们，我创建了基于人工智能的潜在客户生成器，在一个工具中包含许多功能，例如潜在客户提取器、电子邮件营销、聊天机器人集成和客户关系管理。在这里结帐，并在评论部分提供您的反馈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cmcvb2/guys_i_have_created_ai_based_lead_generator/</link>
+      <description><![CDATA[ 由   提交/u/Ok_Simple_5326   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cmcvb2/guys_i_have_created_ai_based_lead_generator/</guid>
+      <pubDate>Tue, 07 May 2024 14:11:55 GMT</pubDate>
+    </item>
     <item>
       <title>低调厌倦了开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1cm9wz1/lowkey_getting_tired_of_open_sourcing/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>开源学校项目帮助</title>
       <link>https://www.reddit.com/r/opensource/comments/1cm91qm/open_source_school_project_help/</link>
-      <description><![CDATA[我昨天发布了一些内容，但今天会详细说明一下。 我的名字是 Tom，我在我接受全栈开发人员教育的第一年。 现在我有一项开源学校作业，其中我需要为所选的开源项目贡献大约 40 个小时。我必须制作一个相对简单的第一个补丁，例如从“良好的第一期”标签开始，然后在同一项目中制作一个更复杂的补丁。 要求如下：  项目至少包含15k行代码。 最近两个月已更新。 项目必须有代码标准  我的技能：  html css php java（任何java）  由于我是一名全栈开发人员，我可以做前端和后端，但我更喜欢与样式相关的事情。这是我觉得最舒服的事情。 到目前为止，我最大的问题是我承担的项目太大并且需要大量的学习，但我希望有一个更顺利、压力更小的结局到了今年，所以我需要一些帮助来了解什么是大量工作，什么不是大量工作:) 我的兴趣：  自然 天气 任何有助于建设更美好世界的事情。  提前感谢您的帮助，祝您有美好的一天：） 汤姆   由   提交 /u/Lumpy_Hawk2410   [链接] [评论]]]></description>
+      <description><![CDATA[所以我昨天发布了一些内容，但今天会详细说明一下。 我的名字是汤姆，我正在接受全栈开发人员教育的第一年。 现在我有一个开源学校作业，我需要为一个我选择的开源项目贡献大约 40 个小时。我必须制作一个相对简单的第一个补丁，例如从“好的第一个问题”标签开始，然后在同一个项目中制作一个更复杂的补丁。 要求如下：  该项目至少包含 15k 行代码。 在过去两个月内更新过。 该项目必须有代码标准  我的技能：  html css php java（任何 java）  因为我是一名全栈开发人员，所以我可以做前端和后端，但我更喜欢与样式相关的东西。这就是我最舒服的事情。 到目前为止，我最大的问题是我承担的项目太大并且需要大量学习，但我想以更顺利、更少压力的方式结束这一年，所以我需要一些帮助，了解哪些工作量大，哪些工作量小：) 我的兴趣：  自然 天气 任何有助于改善世界的事情。  提前感谢你的帮助，祝你有美好的一天：) 汤姆    提交人    /u/Lumpy_Hawk2410   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cm91qm/open_source_school_project_help/</guid>
       <pubDate>Tue, 07 May 2024 10:55:30 GMT</pubDate>
     </item>
@@ -34,9 +48,9 @@
       <pubDate>Tue, 07 May 2024 10:01:02 GMT</pubDate>
     </item>
     <item>
-      <title>正在寻找适用于 Windows 的 FOSS 图库来组织照片和视频？</title>
+      <title>正在寻找适用于 Windows 的 FOSS Gallery 来组织照片和视频？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cm6jyi/looking_for_a_foss_gallery_for_windows_to/</link>
-      <description><![CDATA[有谁知道一些 FOSS Windows 软件，允许我选择一个特定的文件夹，然后自动加载该文件夹和子文件夹中的所有图像和视频。图像和视频应按日期组织，我希望有一个搜索选项，能够按日期和图像名称进行搜索。 此外，如果它内置地图，显示地图上每幅图像的位置，那就太好了。 我不是在寻找像 Immich、Home Gallery 或类似的东西这样的自托管解决方案，所以不推荐在 Docker 上运行的东西。我需要的只是一个 Windows 软件，一个我可以安装并完成工作的 .exe 文件。 我找到了一款名为 Darktable 的软件，它可以完成我正在寻找的这些事情，但它的主要功能不是像 Gallery 应用程序那样工作，而且它不适用于视频，只适用于照片。它有太多选项，很混乱，而且看起来真的很丑，已经过时了。 任何建议或意见都将不胜感激！提前致谢。    提交人    /u/Cyber​​Sweeper   [link] [comments]]]></description>
+      <description><![CDATA[有谁知道一些 FOSS Windows 软件，它允许我选择特定文件夹，然后自动加载该文件夹和子文件夹中的所有图像和视频。图像和视频应按日期组织，我希望有一个搜索选项，以便能够按日期和图像名称进行搜索。 此外，如果它内置了地图，则会显示地图上每个图像的位置，那就太好了。 我不是在寻找像 Immich、Home Gallery 或类似的东西这样的自托管解决方案，所以不推荐在 Docker 上运行的东西。我所需要的只是一个 Windows 软件，一个可以安装并完成工作的 .exe 文件。 我找到了一个名为 Darktable 的软件，它可以完成我正在寻找的这些事情，但它的主要功能不是像图库应用程序那样工作，而且它不能处理视频，只能处理照片。它有太多选项，很混乱，而且看起来真的很难看，而且已经过时了。 任何建议或建议将不胜感激！提前致谢。   由   提交 /u/Cyber​​Sweeper   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cm6jyi/looking_for_a_foss_gallery_for_windows_to/</guid>
       <pubDate>Tue, 07 May 2024 08:01:43 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[嘿，我在 GitHub 上有一个开源项目，我正在开始，希望有很多人使用/贡献 - 祝我好运。但我不清楚使用哪个许可证。不使用 MIT 许可证的原因是什么？我应该考虑更好的选择吗？我对许可不太熟悉，需要一些帮助来做出决定。感谢您的帮助。 编辑以防万一，主应用程序是用 SwiftUI 编写的，后端服务器是用 Rust 编写的。  &amp; #32；由   提交 /u/Admirable_Proxy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</guid>
       <pubDate>Sun, 05 May 2024 22:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 Android 应用程序 - 如何双重检查？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</link>
-      <description><![CDATA[是否有推荐的应用程序或移动网站可用于验证您要下载的开源应用程序是否合法？我通常从 FDroid 获得我的，所以我确信它们没问题，但我希望能够了解要查找的内容和/或在整个过程中添加另一个检查的工具。 此外，什么是很好的应用程序（最好是免费的），我可以学习 Android 编码。谢谢！    由   提交/u/DameWasistlos  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</guid>
-      <pubDate>Sun, 05 May 2024 16:44:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有一种简单的方法可以将音频从智能手机传输到 Linux 系统？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ckrvgq/is_there_an_easy_possibility_to_stream_audio_from/</link>
-      <description><![CDATA[我目前正在设置多房间音频，虽然很容易获得 snapcast 启动并运行，将使用 mpd 播放的音乐从我的服务器传输到 Android 和 Raspberry Pi；我在相反的方向上苦苦挣扎。 我想要的理想情况是能够选择我的服务器作为 Spotify 或 Youtube 中的 Chromecast 目标，就像我可以选择 Fire TV 棒一样。不幸的是，我在谷歌上搜索“chromecast 接收器”的运气并不好。因为我发现只有 863 项目允许将音频发送到 Fire TV 棒或 chromecast 设备。 任何人都可以向我指出将音频从 Android 发送到服务器的可能性，以便我可以将其通过管道传输到快照？   由   提交/u/atyon  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ckrvgq/is_there_an_easy_possibility_to_stream_audio_from/</guid>
-      <pubDate>Sun, 05 May 2024 13:58:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
