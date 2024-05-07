@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 07 May 2024 06:07:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:06:57 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找适用于 Windows 的 FOSS Gallery 来组织照片和视频？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cm6jyi/looking_for_a_foss_gallery_for_windows_to/</link>
+      <description><![CDATA[有谁知道一些 FOSS Windows 软件，它允许我选择特定文件夹，然后自动加载该文件夹和子文件夹中的所有图像和视频。图像和视频应按日期组织，我希望有一个搜索选项，以便能够按日期和图像名称进行搜索。 此外，如果它内置了地图，则会显示地图上每个图像的位置，那就太好了。 我不是在寻找像 Immich、Home Gallery 或类似的东西这样的自托管解决方案，所以不推荐在 Docker 上运行的东西。我所需要的只是一个 Windows 软件，一个可以安装并完成工作的 .exe 文件。 我找到了一个名为 Darktable 的软件，它可以完成我正在寻找的这些事情，但它的主要功能不是像图库应用程序那样工作，而且它不能处理视频，只能处理照片。它有太多选项，很混乱，而且看起来真的很难看，而且已经过时了。 任何建议或建议将不胜感激！提前致谢。   由   提交 /u/Cyber​​Sweeper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cm6jyi/looking_for_a_foss_gallery_for_windows_to/</guid>
+      <pubDate>Tue, 07 May 2024 08:01:43 GMT</pubDate>
+    </item>
     <item>
       <title>精简 Android 操作系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1cm1nwk/stripped_down_android_operating_system/</link>
@@ -29,14 +36,14 @@
     <item>
       <title>开源 Discord 机器人</title>
       <link>https://www.reddit.com/r/opensource/comments/1clnux2/open_source_discord_bot/</link>
-      <description><![CDATA[嗨， 我想介绍一个有趣的小型 discord 机器人，它使用开放的 AI API 与用户进行交流。它具有一套正在开发的审核功能，但真正让它脱颖而出的是开发完整角色或个性的能力。 该机器人实际上可以改变服务器中每个频道的个性，而且它们可以像您希望的那样丰富和多样化。虽然 AI 市场的许多其他领域都专注于数据、统计数据和分析，但我想在为人们创造一个有趣的互动环境方面，更多地关注 AI 中人类状况的异想天开的一面。 请查看该项目并给我留下一些反馈。如果您觉得值得，请考虑留下一颗星，也许可以赞助它。  谢谢。 开源 discord 机器人    由   提交  /u/RobertD3277   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我想介绍一个有趣的小不和谐机器人，它使用开放式 AI API，因为它意味着与用户。它具有一套正在发展的调节能力，但让它脱颖而出的是发展完整角色或个性的能力。  机器人可以真正改变服务器中每个频道的个性，并且它们可以像您想要的那样丰富和多样化。虽然人工智能市场的许多其他领域都专注于数据、统计和分析，但我想更多地关注人工智能中人类状况的异想天开的一面，即为人们创造一个有趣的互动环境。 请查看该项目并给我留下一些反馈。如果您觉得值得，请考虑留下一颗星星，也许可以赞助它。  谢谢。 开源不和谐机器人   由   提交/u/RobertD3277   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1clnux2/open_source_discord_bot/</guid>
       <pubDate>Mon, 06 May 2024 16:49:40 GMT</pubDate>
     </item>
     <item>
       <title>开源 AI 定义 – 5 月 6 日每周更新</title>
       <link>https://www.reddit.com/r/opensource/comments/1clmpju/open_source_ai_definition_weekly_update_may_6/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1clmpju/open_source_ai_definition_weekly_update_may_6/</guid>
       <pubDate>Mon, 06 May 2024 16:03:02 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>开源 Android 应用程序 - 如何双重检查？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</link>
-      <description><![CDATA[有没有推荐的应用程序或移动网站可用于验证您要下载的开源应用程序是否合法？我通常从 FDroid 获取我的应用程序，所以我确定它们没问题，但我希望能够了解要查找什么和/或在整个过程中添加另一项检查的工具。 此外，有什么好的应用程序（最好是免费的）可以让我学习 Android 编码。谢谢！    提交人    /u/DameWasistlos   [link] [评论]]]></description>
+      <description><![CDATA[是否有推荐的应用程序或移动网站可用于验证您要下载的开源应用程序是否合法？我通常从 FDroid 获取我的，所以我确信它们没问题，但我希望能够了解要查找的内容和/或在整个过程中添加另一项检查的工具。 此外，什么是很好的应用程序（最好是免费的），我可以学习 Android 编码。谢谢！    由   提交/u/DameWasistlos  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</guid>
       <pubDate>Sun, 05 May 2024 16:44:57 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>在 Django 和 Headless CMS 之间进行网站开发选择：寻求建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1cke5ly/choosing_between_django_and_headless_cms_for/</link>
-      <description><![CDATA[嘿r/opensource， 我一直在深入研究我正在为一家酒店业主开发的网站项目的决策过程。他们热衷于拥有一个强大的管理界面来管理网站的各个方面，包括图库、博客、活动、电子邮件和付款。虽然我已经做了相当多的研究，但我仍然在纠结是使用 Django 强大的管理功能还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和集成的可能性。 Next.js 前端。 尽管我付出了努力，但我发现自己有点进退两难。这是我可以利用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与Next.js 前端？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面用户友好性和可定制性如何？&lt; /li&gt; 性能和可扩展性：在为此项目选择 Django 和无头 CMS 时，我应该牢记任何性能或可扩展性注意事项吗？ 成本和部署：哪些开源无头 CMS 选项允许自托管，无需额外的部署成本？这些 CMS 的部署过程与部署 Django 应用程序相比如何？ 客户满意度：根据您的经验，与 Django Admin 提供的管理界面相比，客户对 Django Admin 提供的管理界面的满意度如何？开源无头 CMS 平台在易用性和功能方面的优势？  尽管我进行了研究，但我仍然发现自己在权衡利弊。您根据自己的经验提出的见解、建议或最佳实践将对指导我做出决定非常有帮助。 预先感谢您的帮助！   由   提交/u/Noor_Slimane_9999   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，r/opensource， 我正在为一家酒店老板做网站项目，研究其决策过程。他们希望拥有一个强大的管理界面来管理网站的各个方面，包括画廊、博客、活动、电子邮件和付款。虽然我已经做了大量的研究，但我仍在犹豫是使用 Django 的强大管理功能，还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和与 Next.js 前端集成的可能性。 尽管我付出了很多努力，但我还是陷入了困境。以下是我可以使用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与 Next.js 前端集成之间的开发复杂性如何？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面的用户友好性和可定制性如何？ 性能和可扩展性：在为该项目在 Django 和无头 CMS 之间进行选择时，我是否应该牢记任何性能或可扩展性注意事项？ 成本和部署：哪些开源无头 CMS 选项允许自托管而无需额外的部署成本？与部署 Django 应用程序相比，这些 CMS 的部署流程如何？ 客户满意度：根据您的经验，就易用性和功能性而言，客户对 Django Admin 提供的管理界面与开源无头 CMS 平台提供的管理界面的满意度如何？  尽管我做了大量研究，但我仍然在权衡利弊。您根据经验提出的见解、建议或最佳实践将对我做出决定大有裨益。 提前感谢您的帮助！    提交人    /u/Noor_Slimane_9999   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cke5ly/choosing_between_django_and_headless_cms_for/</guid>
       <pubDate>Sat, 04 May 2024 23:57:49 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[一个人无法完成数百件事情，一个人必须能够拖放？    由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</guid>
       <pubDate>Sat, 04 May 2024 14:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>公共文档 OSS</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</link>
-      <description><![CDATA[我们一直在使用大纲/大纲，但它主要集中在内部文档上。目前向我们的客户共享公共链接时使用的是 PITA。 ​ 我们正在寻找非常相似的 OSS 来帮助解决此问题，并且可能是基于 Next 构建的。 JS  而且我们没有时间构建静态 NextJS 网站来提供文档，因为团队规模较小，而且文档主要由非技术人员编写。   由   提交/u/piyushsingariya  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</guid>
-      <pubDate>Sat, 04 May 2024 11:28:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

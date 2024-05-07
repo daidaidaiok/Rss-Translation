@@ -4,11 +4,18 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 07 May 2024 06:06:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:06:21 GMT</lastBuildDate>
+    <item>
+      <title>SRT 至 EBU-STL</title>
+      <link>https://www.reddit.com/r/editors/comments/1cm7c2j/srt_to_ebustl/</link>
+      <description><![CDATA[大家好，我需要将在 Da Vinci Resolve 中制作的字幕从 SRT 格式转换为 EBU-STL 格式。有人对实现这一目标的最有效方法有建议吗？一项挑战是保留客户要求的特定样式，包括字体和阴影。如何确保在转换过程中保留这些数据？提前致谢！    由   提交 /u/focusbitchfocus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cm7c2j/srt_to_ebustl/</guid>
+      <pubDate>Tue, 07 May 2024 08:59:49 GMT</pubDate>
+    </item>
     <item>
       <title>自由职业者网站？</title>
       <link>https://www.reddit.com/r/editors/comments/1cm4uxv/freelance_website/</link>
-      <description><![CDATA[大家好，发布此内容是为了在 upwork、 Fiverr 等自由职业网站上获取您的意见。 你们中的任何人都在使用它？您对此有何看法。   由   提交 /u/Ju1cyBr4in   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我发这个帖子是为了征求大家对 upwork、fiverr 等自由职业网站的看法。 你们有人用过吗？你对它有什么看法。    提交人    /u/Ju1cyBr4in   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cm4uxv/freelance_website/</guid>
       <pubDate>Tue, 07 May 2024 06:02:10 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 07 May 2024 03:38:42 GMT</pubDate>
     </item>
     <item>
-      <title>编辑装备：将 NVME 驱动器放入 RAID</title>
+      <title>编辑设备：将 NVME 驱动器放入 RAID</title>
       <link>https://www.reddit.com/r/editors/comments/1clyztk/editing_rig_putting_nvme_drive_into_a_raid/</link>
       <description><![CDATA[我正在设置一个视频编辑工作站，并尝试充分利用我的 z790 主板（Asus Hero BTF）上的 5 个 NVME 插槽。第一个插槽仅用于我的操作系统和暂存盘，但我想对其他 4 个插槽进行 RAID，以便快速读取/写入项目文件。 请先回答这个问题：您知道主板上 NVME 驱动器的软件 raid 解决方案对编辑有意义吗？我见过提到英特尔 RST、英特尔 VROC、StorageSpaces、DrivePool、REFS、XFS，但没有一个主题突出以速度为导向或可供 Win10 计算机上的专业消费者使用。 问题我想大多数人都会对我大喊大叫：我真的“需要”吗？如果我已经在使用 NVME 驱动器，那么 RAID 带来的额外速度。是的。让我们假设答案是肯定的。   由   提交 /u/besttype   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1clyztk/editing_rig_putting_nvme_drive_into_a_raid/</guid>
@@ -41,7 +48,7 @@
       <pubDate>Mon, 06 May 2024 22:43:22 GMT</pubDate>
     </item>
     <item>
-      <title>有人对为无组织组织的人工作有什么建议吗？</title>
+      <title>有人对为无组织的人工作有什么建议吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1clvi4y/anyone_have_advice_for_working_for_the_unorganized/</link>
       <description><![CDATA[我有一位客户，他在收款方面有着出色的技巧。但我从未见过他全神贯注于任何事情。他拍摄了很长的采访，然后把它们交给我编辑成 5 分钟的商业影片或商业简介，但没有真正的方向。这个过程通常涉及大量的修改（首先是他的修改，然后是客户的修改），从而导致视频质量不佳。通常，他的修改笔记会导致客户质疑作品的逻辑结构，而我最终会回到旧的剪辑。他的理念是给客户他们想要的东西，但我们似乎从未获得回报。 我如何让他专注于实际产品？他似乎太忙于收集业务，无暇专注于实际制作高质量的视频。 去年，我为一家小型企业编辑了一个 5 分钟的迷你文档，其中使用了一个小时的采访和花絮，当时客户特别想要一个 1 分钟的垂直移动广告，完全没有对话。这只是一次沟通失误……我花了一周时间拍摄一部客户甚至不想要的电影。  最近，我花了 70 个小时对他和他的客户提取的选择进行编辑。当我向客户展示时，所有的选择都是错误的。我一直都有报酬，但该死的，我想为更关心我的人工作。   由   提交 /u/RibbitClyde   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1clvi4y/anyone_have_advice_for_working_for_the_unorganized/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>30 天后可以取消的最佳素材库网站吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1clumzj/best_stock_footage_site_that_i_can_cancel_after/</link>
-      <description><![CDATA[我正在为医疗行业的一位客户编辑一个项目。我需要一些关于红细胞和医生/患者互动的素材。我通常不使用素材，所以我打算让我的客户购买许可证。我想知道是否有一个网站提供类似一个月内只需支付一个价格就可以下载所有内容的服务，因为我打算在那个月结束后取消。任何建议都非常感谢！    提交人    /u/kikokiko12   [link] [评论]]]></description>
+      <description><![CDATA[我正在为医疗保健行业的客户编辑一个项目。我需要一些有关红细胞和医生/患者互动的素材。我通常不使用库存素材，因此我将要求我的客户购买许可证。我想知道是否有一个网站可以提供当月单一价格下载的所有内容，因为我计划在该月结束后取消。任何建议将不胜感激！    由   提交/u/kikokiko12  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1clumzj/best_stock_footage_site_that_i_can_cancel_after/</guid>
       <pubDate>Mon, 06 May 2024 21:26:45 GMT</pubDate>
     </item>
@@ -62,14 +69,14 @@
       <pubDate>Mon, 06 May 2024 21:13:47 GMT</pubDate>
     </item>
     <item>
-      <title>SANDISK G RAID MIRROR 36 TB 仅显示 16,3 TB</title>
+      <title>SANDISK G RAID MIRROR 36 TB 仅显示 16.3 TB</title>
       <link>https://www.reddit.com/r/editors/comments/1clt7tq/sandisk_g_raid_mirror_36_tb_showing_only_163_tb/</link>
       <description><![CDATA[大家好， 我刚刚购买了 Sandisk G RAID MIRROR 36 TB，raid 模式切换为“raid mode 0” ;，将磁盘格式化为 NTFS - 但大小仅显示 16,3 TB。 这是我第一次使用 G raid 镜像 - 我了解在 raid 模式 1 下 - 存储应显示一半磁盘容量，因为它是镜像的 - 但使用 raid 模式 0 应该显示完整的 36 TB 存储否？ 如果有人可以解释这是如何工作的或者我应该做什么才能使磁盘充满 36 TB - 我会非常感谢 非常感谢   由   提交/u/Kls41  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1clt7tq/sandisk_g_raid_mirror_36_tb_showing_only_163_tb/</guid>
       <pubDate>Mon, 06 May 2024 20:27:55 GMT</pubDate>
     </item>
     <item>
-      <title>谁能给我一个关于在 Premiere 中缩放到帧和缩放到序列的具体描述链接</title>
+      <title>任何人都可以将我链接到有关缩放到帧和缩放到序列在首映中的具体作用的描述吗</title>
       <link>https://www.reddit.com/r/editors/comments/1clt1i8/can_anybody_link_me_to_a_description_of_exactly/</link>
       <description><![CDATA[我正在疯狂地梳理论坛帖子和他们设置的垃圾页面来代替实际手册   由   提交 /u/T00Human   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1clt1i8/can_anybody_link_me_to_a_description_of_exactly/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[/r/editors 是一个社区面向后期制作专业人士。 每周，我们都会使用此帖子与任何对编辑或后期制作有疑问的人进行公开讨论，**无论您的职业或专业地位如何。**  再次强调，如果您是新来的，请知道这个 Reddit 子版块是针对专业人士的。我们的模组团队修剪了 Reddit 子版块，并在此发布了新手级别的问题。  ​ 如果您不确定自己属于哪一类？这就是您正在寻找的主题。 关键规则：彼此保持良好（且耐心）。没有自我推销。没有盗版。 [其余规则可在此处找到](https://www.reddit.com/r/editors/ about/rules/) 如果您不在该领域工作，这就是您的问题应该去的地方 什么样的问题对于该主题来说是公平的游戏？   学校值得吗？ 职业问题？ 哪个编辑器*您应该付费？*（免费工具？请参阅/r/videoediting) 考虑副业吗？ 我应该设置什么费率在？ （参见 WIKI） 从学校毕业？并需要入门建议？  ​ 此子版块有一个 wiki。 请随意建议它需要的页面。 我们有一个姐妹子版块 /r/videoediting。如果您不以此为生，这是理想的选择 - 但此帖子适合所有人！   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cleg76/ask_a_pro_weekly_monday_mon_may_06_2024_no_stupid/</guid>
       <pubDate>Mon, 06 May 2024 09:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>音频同步不起作用</title>
-      <link>https://www.reddit.com/r/editors/comments/1cl8ek4/audio_sync_not_working/</link>
-      <description><![CDATA[我正在尝试在 Davinci Resolve 18 的媒体页面中同步音频。 我在媒体页面中，我的音频和视频都已导入到项目中。我分别在视频预览和波形预览中找到视频和音频上隔板关闭的点。 我按下波形监视器下方的小链环按钮。它似乎是链接的，当我按下播放时，音频和视频会同步移动。但是，新音频无法通过我的耳机播放。 一旦我单击另一个剪辑并返回到此剪辑，两个剪辑就不再同步。 我是什么缺少？   由   提交/u/MaxKCoolio  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cl8ek4/audio_sync_not_working/</guid>
-      <pubDate>Mon, 06 May 2024 02:35:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
