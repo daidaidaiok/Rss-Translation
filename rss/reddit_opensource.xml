@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 07 May 2024 03:08:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 06:07:25 GMT</lastBuildDate>
     <item>
       <title>精简 Android 操作系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1cm1nwk/stripped_down_android_operating_system/</link>
@@ -29,14 +29,14 @@
     <item>
       <title>开源 Discord 机器人</title>
       <link>https://www.reddit.com/r/opensource/comments/1clnux2/open_source_discord_bot/</link>
-      <description><![CDATA[嗨， 我想介绍一个有趣的小不和谐机器人，它使用开放式 AI API，因为它意味着与用户。它具有一套正在发展的调节能力，但让它脱颖而出的是发展完整角色或个性的能力。  机器人可以真正改变服务器中每个频道的个性，并且它们可以像您想要的那样丰富和多样化。虽然人工智能市场的许多其他领域都专注于数据、统计和分析，但我想更多地关注人工智能中人类状况的异想天开的一面，即为人们创造一个有趣的互动环境。 请查看该项目并给我留下一些反馈。如果您觉得值得，请考虑留下一颗星星，也许可以赞助它。  谢谢。 开源不和谐机器人   由   提交/u/RobertD3277   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我想介绍一个有趣的小型 discord 机器人，它使用开放的 AI API 与用户进行交流。它具有一套正在开发的审核功能，但真正让它脱颖而出的是开发完整角色或个性的能力。 该机器人实际上可以改变服务器中每个频道的个性，而且它们可以像您希望的那样丰富和多样化。虽然 AI 市场的许多其他领域都专注于数据、统计数据和分析，但我想在为人们创造一个有趣的互动环境方面，更多地关注 AI 中人类状况的异想天开的一面。 请查看该项目并给我留下一些反馈。如果您觉得值得，请考虑留下一颗星，也许可以赞助它。  谢谢。 开源 discord 机器人    由   提交  /u/RobertD3277   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1clnux2/open_source_discord_bot/</guid>
       <pubDate>Mon, 06 May 2024 16:49:40 GMT</pubDate>
     </item>
     <item>
       <title>开源 AI 定义 – 5 月 6 日每周更新</title>
       <link>https://www.reddit.com/r/opensource/comments/1clmpju/open_source_ai_definition_weekly_update_may_6/</link>
-      <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1clmpju/open_source_ai_definition_weekly_update_may_6/</guid>
       <pubDate>Mon, 06 May 2024 16:03:02 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>开源许可证的建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</link>
-      <description><![CDATA[嘿，我在 GitHub 上有一个开源项目，我刚刚开始这个项目，希望能得到一些人的使用/贡献 - 祝我好运。但我不清楚要使用哪种许可证。不使用 MIT 许可证的原因是什么？我应该看看有没有更好的选择？我对许可不是很熟悉，需要一些帮助来做决定。我很感激任何帮助。 编辑以防万一，主应用程序是用 SwiftUI 编写的，后端服务器是用 Rust 编写的。    提交人    /u/Admirable_Proxy   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我在 GitHub 上有一个开源项目，我正在开始，希望有很多人使用/贡献 - 祝我好运。但我不清楚使用哪个许可证。不使用 MIT 许可证的原因是什么？我应该考虑更好的选择吗？我对许可不太熟悉，需要一些帮助来做出决定。感谢您的帮助。 编辑以防万一，主应用程序是用 SwiftUI 编写的，后端服务器是用 Rust 编写的。  &amp; #32；由   提交 /u/Admirable_Proxy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</guid>
       <pubDate>Sun, 05 May 2024 22:29:00 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>在 Django 和 Headless CMS 之间进行网站开发选择：寻求建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1cke5ly/choosing_between_django_and_headless_cms_for/</link>
-      <description><![CDATA[嘿r/opensource， 我一直在深入研究我正在为一家酒店业主开发的网站项目的决策过程。他们热衷于拥有一个强大的管理界面来管理网站的各个方面，包括图库、博客、活动、电子邮件和付款。虽然我已经做了相当多的研究，但我仍然在纠结是使用 Django 强大的管理功能还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和集成的可能性。 Next.js 前端。 尽管我付出了努力，但我发现自己有点进退两难。这是我可以利用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与Next.js 前端？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面用户友好性和可定制性如何？&lt; /li&gt; 性能和可扩展性：在为此项目选择 Django 和无头 CMS 时，我应该牢记任何性能或可扩展性注意事项吗？ 成本和部署：哪些开源无头 CMS 选项允许自托管，无需额外的部署成本？这些 CMS 的部署过程与部署 Django 应用程序相比如何？ 客户满意度：根据您的经验，与 Django Admin 提供的管理界面相比，客户对 Django Admin 提供的管理界面的满意度如何？开源无头 CMS 平台在易用性和功能方面的优势？  尽管我进行了研究，但我仍然发现自己在权衡利弊。您根据自己的经验提出的见解、建议或最佳实践将对指导我做出决定非常有帮助。 提前感谢您的帮助！   由   提交/u/Noor_Slimane_9999   [链接] [评论]]]></description>
+      <description><![CDATA[嘿r/opensource， 我一直在深入研究我正在为一家酒店业主开发的网站项目的决策过程。他们热衷于拥有一个强大的管理界面来管理网站的各个方面，包括图库、博客、活动、电子邮件和付款。虽然我已经做了相当多的研究，但我仍然在纠结是使用 Django 强大的管理功能还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和集成的可能性。 Next.js 前端。 尽管我付出了努力，但我发现自己有点进退两难。这是我可以利用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与Next.js 前端？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面用户友好性和可定制性如何？&lt; /li&gt; 性能和可扩展性：在为此项目选择 Django 和无头 CMS 时，我应该牢记任何性能或可扩展性注意事项吗？ 成本和部署：哪些开源无头 CMS 选项允许自托管，无需额外的部署成本？这些 CMS 的部署过程与部署 Django 应用程序相比如何？ 客户满意度：根据您的经验，与 Django Admin 提供的管理界面相比，客户对 Django Admin 提供的管理界面的满意度如何？开源无头 CMS 平台在易用性和功能方面的优势？  尽管我进行了研究，但我仍然发现自己在权衡利弊。您根据自己的经验提出的见解、建议或最佳实践将对指导我做出决定非常有帮助。 预先感谢您的帮助！   由   提交/u/Noor_Slimane_9999   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cke5ly/choosing_between_django_and_headless_cms_for/</guid>
       <pubDate>Sat, 04 May 2024 23:57:49 GMT</pubDate>
     </item>
