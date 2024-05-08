@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 07 May 2024 21:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 00:15:51 GMT</lastBuildDate>
+    <item>
+      <title>寻找新计划</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cmqs08/looking_for_a_new_program/</link>
+      <description><![CDATA[有人知道像 O&amp;Os app buster 这样的开源系统应用程序删除器吗？我在工作中使用它，但它有一些我不想在我的个人电脑上使用的过时软件。厌倦了通过 cmd 提示符从我的电脑上删除一些东西，而 Windows 不会让你正常删除这些东西。如果能够通过几次点击来完成就太好了，谢谢    由   提交 /u/PianoMeow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cmqs08/looking_for_a_new_program/</guid>
+      <pubDate>Wed, 08 May 2024 00:01:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>从事开源软件实习/资助工作。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cmqays/working_with_internshipgrants_in_open_source/</link>
+      <description><![CDATA[今天我看到，Processing 基金会设立了拨款，为人们在 4 个月内为其项目编写一些功能提供补贴。  我知道还有 Google 的代码之夏（今年已结束）以及尼克斯之夏。  您知道还有其他实习项目可以为开源做出贡献并从中赚取生活工资吗？    由   提交/u/RagingBass2020   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cmqays/working_with_internshipgrants_in_open_source/</guid>
+      <pubDate>Tue, 07 May 2024 23:39:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该将我的咖啡机闹钟文件和构建指南开源吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cmoh5v/should_i_make_my_coffee_maker_alarm_clock_files/</link>
+      <description><![CDATA[主要问题： 有人对我将这个项目开源感兴趣吗？ “Coffee Waker”项目描述： 一款低于 70 美元的咖啡机闹钟，类似于 Barisieur。建造者必须： 3D 打印大部分；订单&amp;组装 PCB； Flash嵌入式程序；折断一些硼硅酸盐管。 它的工作原理是使用包裹在食品安全热缩管中的浸入式加热器将锥形烧瓶中的水煮沸，以产生压力，迫使沸水从管子中流出并排出。  它使用托管网页进行交互/配置；称重传感器收集冲煮组件的状态（最小水量、不存在等）以及接口（水龙头控制某些功能）。 咖啡唤醒者的图像 背景： 任何喜欢咖啡和咖啡的人咖啡 YouTube 可能见过Barisieur咖啡机闹钟。我记得关注了他们的 Kickstarter，并且喜欢这个概念和美学。当它们推出时，我真的很想要一个，但它们（现在仍然是）超过 300 美元。 当时我的一些爱好是 3D 打印、难以忍受的基本 CAD 设计、基本嵌入式编程和电气工程。所以很自然地，我总是想知道如何自己建造一个。从那时起，我就通过攻读电气工程学士学位来磨练硬件部分。几个月前决定通过最终设计自己的版本来测试我的学位和爱好技能。我在几家公司实习过，所以我试图尽可能认真地对待这个问题，因此我的限制和限制要求列表是这样的：  约束和条件要求：BOM&lt;最低熊价为 70 美元 BOM &lt; 100 美元，带唤醒灯和闹钟语音人工智能 它应该可以工作 尽可能安全（食品安全、电气安全、功能安全），但不能防白痴     由   提交 /u/Enough-Tomatillo-135   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cmoh5v/should_i_make_my_coffee_maker_alarm_clock_files/</guid>
+      <pubDate>Tue, 07 May 2024 22:19:20 GMT</pubDate>
+    </item>
     <item>
       <title>如何在简历中提及开源贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/1cmhmuf/how_to_mention_open_source_contributions_in_resume/</link>
@@ -15,12 +36,12 @@
     <item>
       <title>帮助我找到一种方法在午夜后完全阻止我的笔记本电脑。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cmfxic/help_me_find_a_way_to_completely_block_my_laptop/</link>
-      <description><![CDATA[我有在电脑（Windows 10）上呆到很晚的倾向，这对我的健康非常不利。但我还是忍不住这么做。 我想找到一种方法来阻止它，但很难撤销。  这可能需要向某人提供密码，但如果不必这样做，那就更好了。 我已经使用了 Cold turkey 拦截器，但是卸载起来太容易了。 而且 Freedom 软件似乎不起作用。 我还需要无法更改计算机的小时数，用这种方法或其他方法，或者我只会更改小时数.... 最好的是，如果我有两个甚至更多的解决方案，这样删除阻止会更烦人且更困难。 我经常上网，但我也会看以前下载的电影/电视节目，或者阅读文档... 我找到了一种阻止 Youtube 的方法，效果很好，但我不记得指导方针是什么了。 非常感谢    提交人    /u/Loxarr   [链接] [评论]]]></description>
+      <description><![CDATA[我倾向于在计算机 (Windows 10) 上呆到很晚，这对我的健康非常不利。但我还是忍不住。我想找到一种方法来阻止它，那是很难撤消的。  它可能涉及向某人提供密码，但如果我不必这样做，那就更好了。 我已经使用了 Cold turkey 拦截器，但它太容易卸载了. 而且 Freedom 软件似乎不起作用。 我还需要无法使用此方法或替代方法更改计算机的时间，否则我就只能改变时间...... 最好的是如果我有两个或什至更多的解决方案，这样会更烦人和难以删除块。 我经常停留在互联网，但我也看以前下载的电影/电视节目，或者阅读文档... 我找到了一种阻止 Youtube 的方法，效果很好，但我不记得了指导方针是。 非常感谢   由   提交 /u/Loxarr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cmfxic/help_me_find_a_way_to_completely_block_my_laptop/</guid>
       <pubDate>Tue, 07 May 2024 16:22:59 GMT</pubDate>
     </item>
     <item>
-      <title>Lowkey 对开源感到厌倦</title>
+      <title>低调厌倦了开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1cm9wz1/lowkey_getting_tired_of_open_sourcing/</link>
       <description><![CDATA[我开源了一些项目，每当我这样做时，总是会出现某种问题。 我开源了一个项目例如，煎饼镜头替代品，主要让人们说“从技术上讲，它不是煎饼”。以及“Ig 这么好，为什么meta 不使用它呢？”然后“把它留给真正的工程师” 然后我为初学者设计了一个简单的外壳来设计耳机，重复的一个评论是“哦，这是用tinkercad制作的吗？” （我用fusion 360，这些人关注我并且知道这一点，他们说这是侮辱） 现在我发布了一个Unity工具，并花时间让帖子尽可能写得好，ofc反馈是“哦，是的，这是人工智能生成的” （事实并非如此，我确实有一台服务器，我在其中讨论了该项目并中途展示了它） 老实说，我已经厌倦了开源。我有两个项目一直在与我雇佣的团队合作，第三个项目我可能已经工作了 3 年，说实话，我已经非常接近关闭采购了，现在就到此为止，让自己高枕无忧。我打赌我也可以通过我联系的代理机构以相当高的价格出售代码。 有人有同感吗？  &amp;# 32；由   提交/u/Walker-Dev  /u/Walker-Dev  reddit.com/r/opensource/comments/1cm9wz1/lowkey_getting_tired_of_open_commerce/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cm9wz1/lowkey_getting_tired_of_open_sourcing/</guid>
@@ -55,7 +76,7 @@
       <pubDate>Tue, 07 May 2024 08:01:43 GMT</pubDate>
     </item>
     <item>
-      <title>精简 Android 操作系统</title>
+      <title>精简版安卓操作系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1cm1nwk/stripped_down_android_operating_system/</link>
       <description><![CDATA[有人知道有什么好的、精简的 Android 操作系统吗？我有一个较旧的 Android（2016），只是想要一个在较旧的硬件上运行更轻的操作系统，如果有帮助的话，我将把它用作哑电话。   由   提交 /u/die4tek   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cm1nwk/stripped_down_android_operating_system/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1clmpju/open_source_ai_definition_weekly_update_may_6/</guid>
       <pubDate>Mon, 06 May 2024 16:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源学校作业</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cljvkg/open_source_school_assignment/</link>
-      <description><![CDATA[亲爱的 Reddit 朋友们， 我将通过一项作业来结束我的 IT 学习第一年，以便为以下项目做出贡献一个开源项目。 它可以是你能想到的任何东西，但请记住我只使用过以下语言：  html php css Java kotlin &gt;  有人有建议或想法吗？它需要在一周内完成，我倾向于承担对我来说很大的项目:) 很高兴听到你的想法   由   提交 /u/Lumpy_Hawk2410   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cljvkg/open_source_school_assignment/</guid>
-      <pubDate>Mon, 06 May 2024 14:04:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家好，我正在寻找一个网站，该网站提供按用户主题分类的各种开源软件的概述。知道我在哪里可以找到这个吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1clcdr2/hi_everyone_im_looking_for_a_website_that/</link>
-      <description><![CDATA[ 由   提交 /u/bazipip   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1clcdr2/hi_everyone_im_looking_for_a_website_that/</guid>
-      <pubDate>Mon, 06 May 2024 06:33:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源许可证的建议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</link>
-      <description><![CDATA[嘿，我在 GitHub 上有一个开源项目，我刚刚开始这个项目，希望能得到一些人的使用/贡献 - 祝我好运。但我不清楚要使用哪种许可证。不使用 MIT 许可证的原因是什么？我应该看看有没有更好的选择？我对许可不是很熟悉，需要一些帮助来做决定。我很感激任何帮助。 编辑以防万一，主应用程序是用 SwiftUI 编写的，后端服务器是用 Rust 编写的。    提交人    /u/Admirable_Proxy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</guid>
-      <pubDate>Sun, 05 May 2024 22:29:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
