@@ -35,14 +35,14 @@ SpaceX 正在亚轨道 B 站测试 Ship 30。预计 Ship 30 将成为 Starship �
 配置：N22 - 半人马座上级无整流罩、2 个固体火箭发动机和 2 个 RL10 发动机。 《贴身卫士》
 太空舱：宇宙飞船 3（Calypso）； 1597天14小时35分钟21秒周转
 胶囊历史：OFT-1
-火箭弹道：东北拥抱美国东海岸
+火箭轨迹：东北拥抱美国东海岸
 任务指挥官：布奇·威尔莫尔 - 第三次太空飞行
 任务飞行员：苏尼塔·威廉姆斯 - 第三次太空飞行
 统计数据：
   · ULA 的第 161 次发射，也是今年的第 3 次发射
   · Atlas V 第 100 次发射，第 3 次以 N22 配置发射
   · ULA 从 SLC-41 进行第 75 次发射，Atlas V 从 SLC-41 进行第 83 次发射
-  · 波音公司的 Starliner 航天器第三次轨道飞行和第一次载人航天飞行
+  · 波音公司的 Starliner 飞船第三次轨道飞行和第一次载人航天飞行
   · 此次任务将把波音公司派送的总共最多2人送入轨道
 
 论坛链接：https://forum.nasaspaceflight.com/index.php?topic=47978.0
@@ -56,42 +56,36 @@ SpaceX 正在亚轨道 B 站测试 Ship 30。预计 Ship 30 将成为 Starship �
     <item>
       <title>SpaceX 猎鹰 9 号发射星链 6-57</title>
       <link>https://www.youtube.com/watch?v=j7YaUP51q90</link>
-      <description><![CDATA[SpaceX 为其第二代高速低地球轨道互联网卫星星座发射了一批 Starlink v2-mini 卫星。
+      <description><![CDATA[SpaceX 为其第二代高速近地轨道互联网卫星星座发射了一批 Starlink v2-mini 卫星。
 
-发射窗口打开时间：5 月 6 日美国东部时间上午 11:34（UTC 时间 15:34）
-
-发射窗口关闭时间：5 月 6 日美国东部时间下午 4:05（UTC 时间 20:05）
-
-第一个 T0：5 月 6 日美国东部时间下午 12:36（UTC 时间 16:36）
-
-最后一个 T0：5 月 6 日美国东部时间下午 2:48（UTC 时间 18:48）
+窗口开放时间： 5 月 6 日上午 11:34 EDT（15:34 UTC）
+窗口关闭： 5 月 6 日下午 4:05 EDT（20:05 UTC）
+第一个 T0：5 月 6 日中午 12:36 EDT（16:36 UTC）
+最后 T0：5 月 6 日下午 2:48 EDT（18:48 UTC）
 
 任务：F9 发射 23 颗 Starlink v2 Mini 卫星
-
-发射地点：地球卡纳维拉尔角太空军基地 40 号太空发射中心。
-
-目标轨道：低地球轨道，284 x 292 公里 43º 轨道
-
-助推器：B1069-15； 31 天 7 小时 24 分钟周转时间
-助推器历史：CRS-24、SL 4-23、Hotbird 13F、OneWeb-15、SL 5-3、SES-18 和 SES-19、SL 5-6、SL 5-12、SL 6-9、SL 6-19、SL 6-28、SL 6-36、SL 6-39、SL 6-47。
-助推器回收：Just Read The Instructions (JRTI)；599 公里下游
-整流罩回收：Bob
-火箭轨迹：从开普敦向东南方向经过巴哈马东北部
-有效载荷质量：约 16.8 吨
-短喷嘴：没有（谢天谢地）
+发射地点：地球卡纳维拉尔角太空部队站 40 号航天发射场。
+目标轨道：近地轨道，284×292公里43°轨道
+助推器：B1069-15； 31天7小时24分钟周转
+助推器历史：CRS-24、SL 4-23、Hotbird 13F、OneWeb-15、SL 5-3、SES-18 和 SES-19、SL 5-6、SL 5-12、SL 6-9、SL 6- 19、SL 6-28、SL 6-36、SL 6-39、SL 6-47。
+增强恢复：只需阅读说明 (JRTI)； 599公里下行
+整流罩回收：鲍勃
+火箭弹道：从海角东南方向经过巴哈马东北部
+有效负载质量：约16.8吨
+粗短的喷嘴：否（谢天谢地）
 统计数据：
-· SpaceX 今年的第 47 次发射和本月的第 3 次发射。
-· 自 Amos 6 以来的第 311 次猎鹰轨道发射，F9 的第 330 次轨道飞行。
-· SpaceX 从 SLC-40 发射的第 184 次。
-· 在 82 次尝试中，第 81 次在 JRTI 上着陆。
-· 自上次失败以来，第 230 次成功着陆。
-· 第 87 次发射专门用于 Starlink Gen 2，第 161 次发射专门用于 Starlink。
+  · SpaceX 今年第 47 次发射，本月第 3 次发射。
+  · 自阿莫斯 6 号以来，猎鹰号进行了第 311 次轨道发射，F9 进行了第 330 次轨道飞行。
+  · SpaceX 从 SLC-40 进行的第 184 次发射。
+  · 在 JRTI 上的 82 次尝试中第 81 次着陆。
+  · 自上次失败以来第 230 次成功着陆。
+  · 第 87 次发射专门针对 Starlink Gen 2，第 161 次发射专门针对 Starlink 整体。
 
 论坛链接：https://forum.nasaspaceflight.com/index.php?topic=60786.0
 
-⚡ 成为 NASASpaceflight 频道的成员，获得独家 discord 访问权限、快速周转剪辑和其他独家福利。您的支持有助于我们继续提供全天候报道。⚡
+⚡ 成为 NASASpaceflight 频道的会员，享受独家 Discord 访问、快速周转剪辑和其他独家福利。您的支持有助于我们继续提供 24/7 全天候服务。 ⚡
 
-🔍 如果您有兴趣使用此流捕获的镜头，请查看我们的内容使用政策：https://www.nasaspaceflight.com/content-use-policy/]]></description>
+🔍如果您有兴趣使用此流捕获的镜头，请查看我们的内容使用政策：https://www.nasaspaceflight.com/content-use-policy/]]></description>
       <guid>https://www.youtube.com/watch?v=j7YaUP51q90</guid>
       <pubDate>Mon, 06 May 2024 18:47:54 GMT</pubDate>
     </item>
@@ -180,7 +174,7 @@ L2 Boca Chica（更多剪辑和照片）从不列颠哥伦比亚省的早期到�
 2:21 将 30 号船提升至 B 台
 2:38 在 B 台上运送 30 号
 2:51 运送 30 的 FTS 箱
-3:04 新垫片区域安装钢筋
+3:04 在新垫区域安装钢筋
 3:24 OLM 和筷子
 3:32 筷子工作继续进行
 3:47 在 B 台上运送 30 号
@@ -218,9 +212,9 @@ L2 Boca Chica（更多剪辑和照片）从不列颠哥伦比亚省的早期到�
     <item>
       <title>阿尔忒弥斯和星舰 HLS 的猎户座隔热罩问题新闻 - NSF Live</title>
       <link>https://www.youtube.com/watch?v=d2fGCA4rp8U</link>
-      <description><![CDATA[加入我们观看 NSF Live 的另一集。在本集中，杰克、索耶和 EJ 将讨论美国宇航局在阿耳忒弥斯一号任务中发现的猎户座太空舱的最新问题。他们还将谈论一些令人兴奋的案例研究、为火星做准备，当然还有最近的星际飞船新闻。
+      <description><![CDATA[欢迎收看 NSF Live 的另一集。在这一集中，Jack、Sawyer 和 EJ 将讨论 NASA 在 Artemis I 任务中发现的猎户座太空舱的近期问题。他们还将讨论一些激动人心的案例研究、为火星之旅做准备，当然还有最近的星际飞船新闻。
 
-如果您有兴趣使用此流捕获的镜头，请查看我们的内容使用政策：https://www.nasaspaceflight.com/content-use-policy/]]></description>
+如果您有兴趣使用此直播拍摄的镜头，请查看我们的内容使用政策：https://www.nasaspaceflight.com/content-use-policy/]]></description>
       <guid>https://www.youtube.com/watch?v=d2fGCA4rp8U</guid>
       <pubDate>Fri, 03 May 2024 23:30:07 GMT</pubDate>
     </item>
@@ -243,7 +237,7 @@ NASA、CCTV、JPL/Malin 空间科学系统、蓝色起源、SpaceX、Impulse Spa
 #OrionSpacecraft #ArtemisI #NASA #MarsMissions #SpaceX #Falcon9 #LongMarchRocket #CommercialSpaceflight #SpaceExploration #WeeklySpaceUpdate #AerospaceTechnology #InternationalSpaceMissions #LunarLanders #MarsSatellites #DeepSpaceTravel #SpaceIndustry #OrionHeatshield #SpaceLaunches #Marslink #SpaceNews
 
 
-00:00 介绍
+00:00 简介
 00:33 NASA 选择商业火星任务研究
 02:26 NASA监察长评估阿耳忒弥斯二号的准备情况
 07:44 SES收购Intelsat
@@ -251,12 +245,12 @@ NASA、CCTV、JPL/Malin 空间科学系统、蓝色起源、SpaceX、Impulse Spa
 09:42 阿丽亚娜6号通过堆叠进行首次飞行
 10:51 长征12发动机试火
 4 月 28 日 12:11：SpaceX 花费助推器发射伽利略卫星
-4月28日14:38：星链集团6-54号猎鹰9号发射
-15:32 月末发布统计数据
-4月30日16:00 神舟十七号返回地球
+4月28日14:38：猎鹰9号发射星链群6-54
+15:32 月末发布统计
+4月30日16:00：神舟十七号返回地球
 5 月 2 日 17:10：Crew-8 重新定位国际空间站上的端口
 5月2日17:46：猎鹰9号连续第300次成功发射
-5月3日19:19：猎鹰9号发射星链群6-55
+5月3日19:19：星链集团6-55猎鹰9号发射
 5月3日19:53：嫦娥六号嫦娥五号发射
 5月6日20:05：猎鹰9号发射星链群6-56
 5 月 7 日 20:17：Atlas V N22 发射 Starliner 载人飞行测试
@@ -305,54 +299,55 @@ NASA、CCTV、JPL/Malin 空间科学系统、蓝色起源、SpaceX、Impulse Spa
       <pubDate>Fri, 03 May 2024 03:19:25 GMT</pubDate>
     </item>
     <item>
-      <title>Booster 13 在梅西前哨站进行低温验证测试 | SpaceX 博卡奇卡</title>
+      <title>助推器 13 在 Massey 前哨基地进行低温验证测试 | SpaceX Boca Chica</title>
       <link>https://www.youtube.com/watch?v=QLRJDaHgL9c</link>
-      <description><![CDATA[发现了更多用于星际飞船 2 版的开发硬件，测试了发射架和筷子，并在 Massey Outpost 对 Booster 13 进行了低温验证。
+      <description><![CDATA[发现了 Starship 第 2 版的更多开发硬件，测试了发射架和筷子，并且 Booster 13 在梅西前哨站进行了低温验证。
 
 🔗 NSF 商店：https://www.nasaspaceflight.com/shop/
 
-⚡ 成为 NASASpaceflight 频道的会员，享受独家 discord 访问权限、快速周转剪辑和其他独家福利。您的支持有助于我们继续提供全天候报道。单击上方的加入即可开始。⚡
+⚡ 成为 NASASpaceflight 频道的会员，享受独家 Discord 访问、快速周转剪辑和其他独家福利。您的支持有助于我们继续提供 24/7 全天候服务。点击上面的“加入”即可开始。⚡
 
-🎥 视频来自 Mary (@BocaChicaGal)、Jack (@theJackBeyer)、Sean (@SeanKD_Photos) 和 Starbase Live。
-✂️ 由 Thomas (@_thomashayden) 编辑。
 
-🔍 如果您有兴趣使用此视频中的镜头，请查看我们的内容使用政策：https://www.nasaspaceflight.com/content-use-policy/
+🎥 来自 Mary (@BocaChicaGal)、Jack (@theJackBeyer)、Sean (@SeanKD_Photos) 和 Starbase Live 的视频。
+✂️ 由托马斯 (@_thomashayden) 编辑。
 
-L2 Boca Chica（更多剪辑和照片）从 BC 的早期到今天。
+🔍如果您有兴趣使用该视频中的片段，请查看我们的内容使用政策：https://www.nasaspaceflight.com/content-use-policy/
+
+L2 Boca Chica（更多剪辑和照片）从不列颠哥伦比亚省的早期到今天。
 🔗 https://forum.nasaspaceflight.com/index.php?topic=47107.0
-（加入 L2 并在此支持 NSF：https://www.nasaspaceflight.com/l2/）
+（在此加入 L2 并支持 NSF：https://www.nasaspaceflight.com/l2/）
 
-#SpaceX #StarbaseUpdate #SpaceNews #SpaceExploration #RocketLaunch #Starship #BoosterTesting #SpaceTechnology #SpaceXUpdates #SpaceXLaunch #SpaceXStarbase #SpaceXNews #SpaceXUpdates2023 #StarbaseLaunchSite #StarshipModifications #SpaceXLaunchPad #SpaceXTesting #SpaceXProductionSite #SpaceXSteelPlate #SpaceXManifolds #SpaceXBoosterTesting #SpaceXLaunchUpdates #SpaceXUpdates2023 #SpaceXSpacecraft #spacexdevelopment 
+#SpaceX #StarbaseUpdate #SpaceNews #SpaceExploration #RocketLaunch #Starship #BoosterTesting #SpaceTechnology #SpaceXUpdates #SpaceXLaunch #SpaceXStarbase #SpaceXNews #SpaceXUpdates2023 #StarbaseLaunchSite #StarshipModifications #SpaceXLaunchPad #SpaceXTesting #SpaceXProductionSite #SpaceXSteelPlate #SpaceXManifolds #SpaceXBoosterTesting #SpaceXLaunchUpdates #SpaceXUpdates2023 #SpaceXSpacecraft #spacexdevelopment
 
 时间戳：
-0:00 星工厂安装玻璃
-0:23 星工厂中的风扇电机
-0:34 停车场施工
+0:00 Starfactory安装玻璃
+0:23 Starfactory 中的风扇电机
+0:34 停车场建设
 0:56 停车场部分
-1:10 带 Edome 的 Dev Barrel
-1:36 B14.1 公共圆顶部分
+1:10 开发桶与 Edome
+1:36 B14.1 普通圆顶剖面
 1:46 钻机到达
 2:13 LR 11000 移至 OLM
-2:46 停车场垂直安装
-3:01 30 号船进入新高架
-3:13 星工厂
-3:31 办公楼施工
+2:46 垂直停车库安装完毕
+3:01 30号船在新高湾
+3:13 星际工厂
+3:31 办公楼建设
 3:46 标志前的土方工程
-4:11 第二个垫块的基础工作
+4:11 第二块地基的基础工作
 4:21 从卡车上卸下零件
-4:29 移动泽西护栏
-4:41 拆除塔
+4:29 球衣屏障移动
+4:41 塔被拆除
 4:57 OLM 和筷子
-5:09 处理 BQD
+5:09 BQD 工作
 5:40 LR 11000 起重机挂在适配器上
-6:25 OLM 压紧测试
+6:25 OLM 按下测试
 6:35 筷子
-6:44 油库工作
-6:55 油库真空车农场
-7:16 飞船 QD 臂
-7:28 助推器 13 低温测试
-8:10 LR 11000 移至 B 发射台
-8:35 筷子和油罐农场测试
+6:44 在罐区工作
+6:55 罐区的真空卡车
+7:16 船舶 QD 臂
+7:28 助推器 13 冷冻测试
+8:10 LR 11000 移至 B 台
+8:35 筷子和罐区测试
 8:56 筷子控制测试]]></description>
       <guid>https://www.youtube.com/watch?v=QLRJDaHgL9c</guid>
       <pubDate>Wed, 01 May 2024 14:52:33 GMT</pubDate>
