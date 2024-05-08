@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 08 May 2024 09:06:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 12:07:32 GMT</lastBuildDate>
+    <item>
+      <title>docker 构建 | AI/ML 中缺少 docker run 工作流程？</title>
+      <link>https://www.reddit.com/r/programming/comments/1cn21lh/the_docker_build_docker_run_workflow_missing_from/</link>
+      <description><![CDATA[ 由   提交/u/iamjessew  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cn21lh/the_docker_build_docker_run_workflow_missing_from/</guid>
+      <pubDate>Wed, 08 May 2024 11:18:28 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能正在慢慢杀死软件开发人员的工作吗？</title>
       <link>https://www.reddit.com/r/programming/comments/1cn024o/is_ai_slowly_killing_software_developer_jobs/</link>
@@ -34,13 +41,6 @@
       <pubDate>Wed, 08 May 2024 08:04:10 GMT</pubDate>
     </item>
     <item>
-      <title>什么是Web3？初学者指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1cmy3zs/what_is_web3_a_beginners_guide/</link>
-      <description><![CDATA[ 由   提交 /u/Inevitable-Ad4581   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cmy3zs/what_is_web3_a_beginners_guide/</guid>
-      <pubDate>Wed, 08 May 2024 06:45:44 GMT</pubDate>
-    </item>
-    <item>
       <title>GitHub Copilot 真的提高了我的工作效率吗？</title>
       <link>https://www.reddit.com/r/programming/comments/1cmy2x4/did_github_copilot_really_increase_my_productivity/</link>
       <description><![CDATA[ 由   提交/u/Xadartt  [链接] [评论]]]></description>
@@ -48,7 +48,7 @@
       <pubDate>Wed, 08 May 2024 06:43:42 GMT</pubDate>
     </item>
     <item>
-      <title>CODECADEMY 订阅！如果您想要 codecademy 订阅，请直接发信息给我。我刚买了一年的订阅，但我还没用。</title>
+      <title>Codecademy 订阅！如果您想要订阅 Codecademy，请私信我。我刚买了一年的，但没有使用。</title>
       <link>https://www.reddit.com/r/programming/comments/1cmwwm1/codecademy_subscription_if_you_want_a_codecademy/</link>
       <description><![CDATA[ 由   提交 /u/Puzzled-Key4691   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cmwwm1/codecademy_subscription_if_you_want_a_codecademy/</guid>
@@ -104,7 +104,7 @@
       <pubDate>Tue, 07 May 2024 21:55:40 GMT</pubDate>
     </item>
     <item>
-      <title>DuckDB 中的向量相似度搜索</title>
+      <title>DuckDB 中的向量相似性搜索</title>
       <link>https://www.reddit.com/r/programming/comments/1cmnpo6/vector_similarity_search_in_duckdb/</link>
       <description><![CDATA[ 由   提交/u/ashvar  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cmnpo6/vector_similarity_search_in_duckdb/</guid>
