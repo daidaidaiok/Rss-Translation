@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 09 May 2024 15:06:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 21:07:17 GMT</lastBuildDate>
     <item>
-      <title>将Github与EC2连接起来？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnx79x/connect_github_with_ec2/</link>
-      <description><![CDATA[在 VS Code 上做 CS50 项目时，项目文件保存在 Github 上。之前，我将映像从 VS Code 推送到 Dockerhub，然后将 Dockerhub 推送到 EC2。 是否建议我忽略 Dockerhub 并利用 Github 上保存的项目文件？并将 Github 与 EC2 连接起来，而不是所谓的 CI/CD？ https://www.canva.com/design/DAGEvISsGjw/Zobc2_UVSSZmHoajpG9ctA/edit?utm_content=DAGEvISsGjw&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton   由   提交 /u/DigitalSplendid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnx79x/connect_github_with_ec2/</guid>
-      <pubDate>Thu, 09 May 2024 13:23:25 GMT</pubDate>
+      <title>书评：先整洁？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co7wbm/book_review_tidy_first/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co7wbm/book_review_tidy_first/</guid>
+      <pubDate>Thu, 09 May 2024 21:01:19 GMT</pubDate>
     </item>
     <item>
-      <title>您的快速单页原型/mvp 网站的工作流程/方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnwq5o/whats_your_workflowapproach_for_a_quick_onepage/</link>
-      <description><![CDATA[各位开发人员大家好！ 这里是后端软件工程师（10 岁，精通 Java、C# 和 Python），有几年的工作经验为了满足团队的需要，我还从事前端工作（涉及 React）。不用说，在前端方面我更像是一个初级学生，但仍然可以设法读/写理解一些高级代码。 基本上，我正在围绕网络抓取、工程构建一个小项目博客、LLM 和知识库 (RAG) 以及我的前端会有点简单 =&gt;主要是一页（除了登录），包含 3/4 个组件（每个组件位于另一个组件的顶部/底部）。 问题：当我正在构建这个供其他人使用的副项目时（可能是免费的捐赠和/或一些高级功能的费用/子），我真的想实现一个令人愉快的/响应式的 UI/UX，看起来很好。 你们推荐什么低代码工具（无代码不适合，因为我明显控制代码）来简化前端编码/设计？ 请感受一下免费推荐任何框架/库/工具（即使是付费的，如果不是太贵的话）。 谢谢！   由   提交/u/maher_bk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnwq5o/whats_your_workflowapproach_for_a_quick_onepage/</guid>
-      <pubDate>Thu, 09 May 2024 13:01:18 GMT</pubDate>
+      <title>一台设备上多个用户的 Google OAuth</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co7q1a/google_oauth_for_many_users_on_one_device/</link>
+      <description><![CDATA[我正在开发一个 Flask Web 应用程序，它使用 Google OAuth 来登录用户。我正在尝试这样做，以便我可以签署用户退出并允许其他用户在同一设备上登录。 我可以将用户退出，但一旦他们再次点击“使用 Google 登录”，它就会自动使用之前的帐户登录。有没有办法让我可以注销用户，并且下一个点击“使用 Google 登录”的用户需要输入自己的帐户凭据？ 我已经做了很多研究，但我似乎找不到任何对我有帮助的东西。似乎使用这种方法也会让用户登录到谷歌，为了实现我想要的，我需要强制用户退出谷歌。 （大多数用户没有自己的设备）。这可能吗？ 总的来说，我对 Flask 和 OAuth 还很陌生，所以如果我遗漏了一些明显的东西，请告诉我。 谢谢！   由   提交/u/InitialBN   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co7q1a/google_oauth_for_many_users_on_one_device/</guid>
+      <pubDate>Thu, 09 May 2024 20:54:11 GMT</pubDate>
     </item>
     <item>
-      <title>一些网络框架和编程语言隐藏了可爱的 UwU 徽标</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnvwyb/some_web_frameworks_and_programming_langs_has/</link>
-      <description><![CDATA[       由   提交 /u/landlord01263   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnvwyb/some_web_frameworks_and_programming_langs_has/</guid>
-      <pubDate>Thu, 09 May 2024 12:20:56 GMT</pubDate>
+      <title>Safari 技术预览版 194 发行说明</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co7in7/release_notes_for_safari_technology_preview_194/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co7in7/release_notes_for_safari_technology_preview_194/</guid>
+      <pubDate>Thu, 09 May 2024 20:45:36 GMT</pubDate>
     </item>
     <item>
-      <title>PropelAuth 与 KeyCloak</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnv6xg/propelauth_vs_keycloak/</link>
-      <description><![CDATA[今天我向我的应用程序添加了社交登录。以前，在我的 nextjs + fastapi + postgres 设置中使用 PropelAuth 时，身份验证的便捷性给我留下了深刻的印象。现在我正在考虑托管我自己的钥匙斗篷。有人有任何经验吗？或者有人总结一下我应该知道的优点和缺点？将不胜感激。  有问题的应用程序被添加为链接，供那些有兴趣查看 propelauth 实际操作的人使用。注册和登录页面由 PropelAuth 托管。   由   提交 /u/Current-Status-3764   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnv6xg/propelauth_vs_keycloak/</guid>
-      <pubDate>Thu, 09 May 2024 11:42:10 GMT</pubDate>
+      <title>提交表单时如何处理加载状态？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co7h7k/how_do_you_handle_loading_state_when_submitting/</link>
+      <description><![CDATA[最近我更加关注可访问性，我想知道处理 API 提交加载的最佳方法是什么最多需要几秒钟的时间来响应。 通常我会禁用整个页面，以确保用户在请求解决之前不会离开包含表单的页面。 理想情况下，我想要向用户宣布，有一些工作正在进行中，可能需要一些时间才能完成，请稍候。 查看民意调查   由   提交 /u/toateslafel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co7h7k/how_do_you_handle_loading_state_when_submitting/</guid>
+      <pubDate>Thu, 09 May 2024 20:43:57 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Wix Studio 的高级 CSS 技术释放创意潜力</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnut07/unlocking_creative_potential_with_advanced_css/</link>
-      <description><![CDATA[       由   提交 /u/Sad-Fish-3999   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnut07/unlocking_creative_potential_with_advanced_css/</guid>
-      <pubDate>Thu, 09 May 2024 11:20:17 GMT</pubDate>
+      <title>如何防止用户窃取我的 API？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co7ba5/how_do_i_prevent_users_from_stealing_my_api/</link>
+      <description><![CDATA[我有一个网络应用程序，其中包含一个输入字段，用户可以在其中输入内容并获取该内容的结果图像/视频。目前，前端输入字段调用 JS 函数，该函数执行一些简单的验证，然后将用户重定向到 www.page.com/images/something&lt; /a&gt; ，显示图像的位置。问题是，任何想要与我使用相同 API 但又不想付费的人都可以调用 www.page.com /images/something 来自 PostMan，获取我页面的完整 HTML 并窃取 src=&quot;&quot; 中的图像/视频 URL ”我的  的属性和&lt;视频&gt;标签。我知道我可以存储图像/视频并自己托管它们，但我不想这样做，因为这会花费更多的钱，而我的预算中没有。   由   提交 /u/KarpuzMan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co7ba5/how_do_i_prevent_users_from_stealing_my_api/</guid>
+      <pubDate>Thu, 09 May 2024 20:36:48 GMT</pubDate>
     </item>
     <item>
-      <title>录制网络产品演示</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnupcu/recording_web_product_demo/</link>
-      <description><![CDATA[大家好， 对于很多独立开发者来说，Web开发完成后，需要录制一些产品演示和视频。您对用于录制或创建 AI 生成视频的软件或 Chrome 扩展程序有什么建议吗？我知道它与 Web 开发没有直接关系，但对于我们许多人来说，开发 Web 应用程序还涉及通过视频或幻灯片演示来呈现它们。  非常感谢！   由   提交 /u/Vinserello   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnupcu/recording_web_product_demo/</guid>
-      <pubDate>Thu, 09 May 2024 11:14:21 GMT</pubDate>
+      <title>您如何寻找自由职业的导师？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co5y86/how_do_you_go_about_finding_a_mentor_for/</link>
+      <description><![CDATA[你好， 我已经尝试这个软件自由职业大约六个月了。这确实不容易。并非我遇到的所有问题都可以轻松通过谷歌搜索，如果能得到一些指导就很高兴了。那么有人对如何找到好的导师有什么好的建议吗？让他们也变得疯狂   由   提交/u/rangoMangoTangoNamo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co5y86/how_do_you_go_about_finding_a_mentor_for/</guid>
+      <pubDate>Thu, 09 May 2024 19:40:16 GMT</pubDate>
     </item>
     <item>
-      <title>狗头人字母</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnukd6/kobold_letters/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnukd6/kobold_letters/</guid>
-      <pubDate>Thu, 09 May 2024 11:06:09 GMT</pubDate>
+      <title>我什么时候应该在用户端（fromtend）而不是后端格式化数据？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co5vxw/when_should_i_format_the_data_on_the_user_end/</link>
+      <description><![CDATA[我的处境很艰难。 我有正确的日历视图。它有 3 个视图。 日视图。 周视图。 月视图。 每个视图都有自己的渲染时数据格式不同。 日视图很简单： X 轴是日，小时 00:00-23:59 Y-轴是员工 按时间渲染项目。 周视图有一些非常奇怪的嵌套数据。每个项目都属于一个公司。  因此，在 X 轴上，我们有该周的工作日，每天的列。 行如下所示： 公司 X：  项目名称 | item-location 是每行..然后我们在星期三显示，我们有一个员工 X 的项目。 但是我们需要首先查明我们是否有该项目名称 |项目位置？那有意义吗？如果不把所有事情都经历一次就无法知道。 对于月视图，公司不相关，但每个项目都属于一个组。 因此，例如： &gt; X 轴：月份期间 Y 轴：格式化，首先是一个“标题”行，如组名称，然后是员工的行，然后我们显示日期上的日历项目。 因此，员工可能有两个显示在不同组中的日历项目？  群组名称 x： 员工 Y：星期三匹配 群组名称 Y： 员工 Y：星期四匹配 群组名称 Y： 员工 Y：星期四匹配 p&gt; 所以..所有数据都来自相同的表，但格式不同，具体取决于我们加载的视图。 我对其进行格式化，然后通过 ajax 请求发送到前端。  我该怎么办？    由   提交 /u/TestningMan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co5vxw/when_should_i_format_the_data_on_the_user_end/</guid>
+      <pubDate>Thu, 09 May 2024 19:37:33 GMT</pubDate>
     </item>
     <item>
-      <title>今天我发布了 EverShop 1.1.0 - 它可以帮助您使用 ReactJS 和 Node 构建专业的电子商务项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnuflo/today_i_release_evershop_110_it_helps_you_build_a/</link>
-      <description><![CDATA[       由   提交 /u/Thenguyenvn   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnuflo/today_i_release_evershop_110_it_helps_you_build_a/</guid>
-      <pubDate>Thu, 09 May 2024 10:58:57 GMT</pubDate>
+      <title>HTTP 基础知识：如何使用 Platformatic 轻松进行 HTTP 调用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co50ps/http_fundamentals_how_to_easily_make_http_calls/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co50ps/http_fundamentals_how_to_easily_make_http_calls/</guid>
+      <pubDate>Thu, 09 May 2024 19:01:19 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 CSS 动画在移动设备上仍然如此糟糕</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnu81c/how_are_css_animations_still_so_bad_on_mobile/</link>
-      <description><![CDATA[我正在通过转换向我的 Angular 网站添加一些动画。在桌面上，它们看起来很棒，在移动设备上的某些浏览器（主要是 Chrome）上，它们几乎无法工作，或者只是很糟糕。  我尝试了很多东西来优化，比如在角度中使用推送策略，内置的角度动画 - 它们看起来都很糟糕！  即使使用使用动画的 Angular Material 组件，例如模态，动画也很糟糕。  我记得他们几年前就很糟糕，并且很遗憾他们仍然如此 😢   由   提交/u/SuchTown32  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnu81c/how_are_css_animations_still_so_bad_on_mobile/</guid>
-      <pubDate>Thu, 09 May 2024 10:46:08 GMT</pubDate>
+      <title>安全管理体系项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co4gxm/safety_management_system_project/</link>
+      <description><![CDATA[大家好！我目前在一家初创公司担任安全协调员，职位非常好。我热爱我的工作，因为它让我能够非常灵活地发展我的职业生涯。我在安全和环境健康方面拥有丰富的背景，这使我能够作为唯一的安全专业人员获得这份工作。 这家公司从未有过安全专业人员，这带来了一些挑战。我必须从头开始做一切，这对我来说既有趣又可怕。最近，我开始攻读软件工程学位，之前也做过一些项目，但大多是初学者级别的东西（HTML、CSS、Javascript、Angular）。 我目前的想法是长期使用这个职位术语来帮助我为未来的软件工程职位构建我的作品集。我已获准创建任何我想添加到简历中并帮助公司发展的内容。 我知道这将是一个长期项目，可能超过一两年，但我想创建一个安全管理系统，允许我们的小公司进行用户登录。这些用户将能够发布包含险情报告行动项目的帖子，并发布安全会议的会议纪要。我还想包括一些其他内容，但我理解其中大部分内容将是我的尝试和自学。 有哪些好的资源可以帮助我实现目标？我目前正在运行 TheOdinProject，以帮助提醒自己一些基础知识，并且希望得到你们之前使用过的任何反馈或指导。 ​ -忘记了提到我这样做的原因是，市场上缺乏适合极小型初创公司的安全管理系统，这些初创公司可能不想为仅容纳少数用户的系统支付大量费用。另外，我认为这作为一个长期项目会很棒，同时我还可以学到一些较小的东西。   由   提交 /u/HatAsleep3202   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co4gxm/safety_management_system_project/</guid>
+      <pubDate>Thu, 09 May 2024 18:38:18 GMT</pubDate>
     </item>
     <item>
-      <title>需要进行健全性检查以确保我不会向我的网站引入任何安全漏洞</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cntetw/need_a_sanity_check_to_make_sure_im_not/</link>
-      <description><![CDATA[我正在为客户构建一个网站，他们希望用户能够登录该网站并查看他们以前的订单。我想确保我实现用户登录的方式没问题，不会引入任何安全问题。 所以该网站是一个 Django 网站，允许用户购买本地活动/演出/音乐会的门票/ETC。当我开始研究它时，我创建了一个 User 模型，但是用户模型根本没有被使用，它只是在那里他们想要跟踪他们的客户（现在他们做）。他们现在想要做的是，每当客户在网站上购物时，自动为他们创建一个用户帐户，以便用户能够重新登录并查看他们所做的所有购买。 他们不想强迫用户通过选择用户名和密码来创建帐户，因为这会对用户体验产生负面影响。同时，他们为自己和其他客户创建了一些用户帐户（使用传统的用户名和密码方法），以便他们能够登录 Django 管理员并管理网站上的内容。因此，我必须支持通过密码和 OTP 登录用户，以防自动创建帐户。 我计划创建一个 API 端点，它将接受用户名或电子邮件，并检查是否存在与传递的用户名/电子邮件对应的用户帐户。如果帐户存在，端点将返回用于该帐户的身份验证方法，如果该帐户是通过 Django 管理员创建并具有有效密码，则将通过密码进行验证；如果帐户是自动创建的，则将通过 OTP 进行验证对于客户，并且没有有效的密码。 我创建了一个 OTP 模型，如下所示 - class OTP(models .Model): value = models.CharField(max_length=6, default=utils.generate_random_otp) user = models.ForeignKey(User, on_delete=models.CASCADE, related_name=&#39;otps&#39;) valid_till = models.DateTimeField(default=utils. get_otp_expiration_time)  我计划在登录工作流程中采用的方法是这样的 -  要求用户输入他们的用户名或电子邮件 检查给定用户名/电子邮件的帐户是否存在 如果存在，则返回要使用的身份验证方法 如果身份验证方法是密码，只需将用户的用户名和密码 POST 到 Django 的 LoginView，Django 将处理其余的事情 如果身份验证方法是 OTP，则创建 OTP 并将其发送到用户输入的电子邮件。  向用户询问 OTP。如果输入的 OTP 正确且有效，请登录用户并将他们重定向到他们要查找的页面。  我主要关心的是我已经实现了 OTP 模型本身，并且OTP 只是一个随机的 6 位数字（由 random.random 生成）。我 99% 确定此工作流程不会引入任何安全问题，但我只是想在实施之前确定一下。通过 OTP 实现登录时有什么需要注意的吗？或者这种方法可以吗？   由   提交/u/gohanshouldgetUI   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cntetw/need_a_sanity_check_to_make_sure_im_not/</guid>
-      <pubDate>Thu, 09 May 2024 09:53:50 GMT</pubDate>
+      <title>在 Digital Ocean 上使用 Nodejs 和 Nginx 部署应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co3zi7/deploy_app_with_nodejs_and_nginx_on_digital_ocean/</link>
+      <description><![CDATA[嗨，我有一个数字海洋水滴，它已经安装了节点、pm2 和 nginx。我制作了一个带有 2 个端点的 Express，一个提供 html，另一个提供 json 数据。现在，我应该如何在我的服务器上设置它？我已经有一个域名和 ssl，一切正常。我尝试使用 nginx 直接提供 html，但无法访问 json 端点，并且尝试使用反向代理从节点端点提供 html，但仍然无法访问 json 端点。顺便说一句，我希望 html 向后端点发出 fetch 请求以获取 json 数据。我认为我设置不正确，请帮忙。   由   提交/u/CurrentResistance  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co3zi7/deploy_app_with_nodejs_and_nginx_on_digital_ocean/</guid>
+      <pubDate>Thu, 09 May 2024 18:18:31 GMT</pubDate>
     </item>
     <item>
-      <title>使用超级代币，这足以保证没有用户修改其他用户的数据吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnt1o6/using_supertokens_is_this_enough_to_guarantee_no/</link>
-      <description><![CDATA[大家好！ 我开始使用超级代币开发一个网站 (https://github.com/supertokens）用于所有身份验证内容，并且想知道这是否足以防止其他人窃取其他人的令牌？ 应用程序全部隐藏在登录后面，您与其他用户没有联系，就像没有“个人资料”这样的东西一样。本身就像在社交网络中一样。但是，考虑到 API 调用，我怀疑有人可以看到这些并尝试随机令牌或以某种方式操作参数？ 我想要解决这个问题的方法是完全依赖令牌来检索用户 ID并采取行动（编辑个人资料图像、属性等）。除非您从其他用户那里窃取令牌，否则您不应该做任何正确的事情？或者我错过了一些额外的东西？   由   提交/u/edgraq   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnt1o6/using_supertokens_is_this_enough_to_guarantee_no/</guid>
-      <pubDate>Thu, 09 May 2024 09:27:26 GMT</pubDate>
+      <title>哪些类型的应用程序需要使用容器或托管在云上？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co3z4e/what_kinds_of_applications_would_require_use_of/</link>
+      <description><![CDATA[我想为我的简历（去年已经大学毕业）制作一个小型网络应用程序，可以证明我知道如何使用这些技术，但是我不知道它们需要什么类型或达到什么规模才能实现这一点。 我之前尝试使用 Firebase 和 Google Cloud 制作一个包含用户帐户/登录功能的待办事项列表 Web 应用程序，但是当尝试实际创建示例帐户时页面出现一堆错误（Firebase 的数据库不会接收输入数据）时，我遇到了麻烦。我已经走了很远，但无法弄清楚我的问题是否与任何 JavaScript 代码有关，或者是否是我如何使用 Firebase 或 Google Cloud 的一些更大问题导致我无法继续。我想也许从头开始重做，但我不确定。   由   提交 /u/Comfortable-Rise7201    reddit.com/r/webdev/comments/1co3z4e/what_kinds_of_applications_would_require_use_of/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co3z4e/what_kinds_of_applications_would_require_use_of/</guid>
+      <pubDate>Thu, 09 May 2024 18:18:04 GMT</pubDate>
     </item>
     <item>
-      <title>将我的团队扩大 4 倍是一件痛苦的事情。我们可以做得更好吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnswbe/growing_my_team_4x_has_been_a_pain_can_we_do/</link>
-      <description><![CDATA[       由   提交/u/vklepov  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnswbe/growing_my_team_4x_has_been_a_pain_can_we_do/</guid>
-      <pubDate>Thu, 09 May 2024 09:17:01 GMT</pubDate>
+      <title>自由职业者的定价网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co3ov8/pricing_websites_for_freelance/</link>
+      <description><![CDATA[人们通常如何为自由项目的网站定价？ 在这方面是否存在巨头或黄金法则？非常感谢任何有关参考材料的建议。 就上下文而言，我认识的人要求我创建一个具有预约功能的静态代理网站。他们有一些品牌材料，我只需要实现绿地项目所需的 UI 和功能。   由   提交 /u/ZeFeXi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co3ov8/pricing_websites_for_freelance/</guid>
+      <pubDate>Thu, 09 May 2024 18:06:16 GMT</pubDate>
     </item>
     <item>
-      <title>帮助！！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnsub4/help/</link>
-      <description><![CDATA[为电子商务网站设置用户帐户和用户店面时遇到问题如上所述，我遇到了自定义用户配置文件表单的问题。我正在使用 Ultimate Member 的免费版本，但无法编辑配置文件页面（我的所有更改都没有显示）。 如果有意义，请告诉我（谈到这个，我很笨）。 我应该获得专业版还是我的大脑只是处于土豆模式？ 感谢任何有用的信息！    提交人    /u/TrippyMerc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnsub4/help/</guid>
-      <pubDate>Thu, 09 May 2024 09:13:04 GMT</pubDate>
+      <title>我需要建立一个人事代理机构网站，请问有什么建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co3fii/i_need_to_build_a_staffing_agency_website_advice/</link>
+      <description><![CDATA[我想使用 webflow 或 Framer 或你们建议的其他方式构建一个网站。我希望它看起来现代又漂亮，所以没有 WordPress 我从来没有见过一个漂亮的 WordPress 网站。对于人才中介网站来说，webflow 和 Framer 哪个更好！   由   提交/u/Miserable_Marsupial4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co3fii/i_need_to_build_a_staffing_agency_website_advice/</guid>
+      <pubDate>Thu, 09 May 2024 17:55:41 GMT</pubDate>
     </item>
     <item>
-      <title>是否可以将 MS Access SQL 数据库用于前端 Web 应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnssl3/is_it_possible_to_use_ms_access_sql_database_for/</link>
-      <description><![CDATA[我有一个客户，它有一个使用 MS Access 在内部构建的自定义产品管理系统。他们的目标是拥有一个前端网络应用程序，以便客户能够管理和订购批发产品。我没有任何处理 MS Access 的经验，我很想知道这是否理想或什至可能。如果不是，理想/现代的解决方案是什么？提前致谢。    由   提交/u/Seoulites  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnssl3/is_it_possible_to_use_ms_access_sql_database_for/</guid>
-      <pubDate>Thu, 09 May 2024 09:09:53 GMT</pubDate>
+      <title>如何获得 GitHub 贡献者</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co2ez3/how_to_get_github_contributors/</link>
+      <description><![CDATA[我在 1 周内完成了多个步骤，将我的贡献者从 0 增加到 10。  创建问题和良好的结果第一期 创建文档供人们轻松遵循和安装 DEV 文章 为开源做出贡献如何帮助您找到工作 &lt; /ul&gt; 通过给现有贡献者一个舞台来保留他们  在此处观看完整视频： https://www.youtube.com/watch?v=1NaRYnEI9Ss   由   提交 /u/sleepysiding22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co2ez3/how_to_get_github_contributors/</guid>
+      <pubDate>Thu, 09 May 2024 17:11:45 GMT</pubDate>
     </item>
     <item>
-      <title>适合具有基本网络开发技能的学生的 WordPress 替代方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnsnbp/wordpress_alternative_for_students_with_basic/</link>
-      <description><![CDATA[我们学校有一个 webdev 课程。学生学习 html、css、php 和 JS 的基础知识。出于安全原因，我们仅发布他们在本地创建的网站。现在一些学生喜欢在网络上发布他们的网站。到目前为止，我一直告诉他们这是一个很大的安全风险，他们应该只使用 WordPress。这对他们来说有点令人沮丧，因为他们刚刚学会了一项他们想要使用的技能。我们教他们针对 SQLi 等的基本保护，但我确信学生生成的代码中仍然存在很多漏洞。有没有一种简单的方法来创建足够安全、可以在网络上发布的网站？ 也许是像 WordPress 这样基于 JS 的可以定制的网站？   由   提交 /u/BetterNotLouder   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnsnbp/wordpress_alternative_for_students_with_basic/</guid>
-      <pubDate>Thu, 09 May 2024 08:59:59 GMT</pubDate>
+      <title>我列出了所有最好的 React + tailwindcss UI 组件库。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co1ora/i_made_a_list_of_all_the_best_ui_component/</link>
+      <description><![CDATA[    /u/DevHev   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co1ora/i_made_a_list_of_all_the_best_ui_component/</guid>
+      <pubDate>Thu, 09 May 2024 16:40:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
