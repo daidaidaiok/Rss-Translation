@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>帖子 独立黑客</title>
+    <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Thu, 09 May 2024 12:08:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 15:06:38 GMT</lastBuildDate>
+    <item>
+      <title>课程创建者的一键式利润核算 - 值得吗？</title>
+      <link>https://feed.indiehackers.world/post/1f34855e00</link>
+      <description><![CDATA[目标：
+简化课程创建者的会计流程
+减少人工错误并节省时间
+提供人性化的财务管理平台
+问题：
+
+作为课程创建者，这是您遇到的问题吗？
+您会使用这样的应用吗？
+是否有我缺少的现有解决方案？
+
+
+我们来讨论一下吧！分享您的想法，帮助我决定是否构建或验证这个想法！
+
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/1f34855e00</guid>
+      <pubDate>Thu, 09 May 2024 15:02:04 GMT</pubDate>
+    </item>
     <item>
       <title>设计如何为您的业务增加价值？</title>
       <link>https://feed.indiehackers.world/post/f46e7faed3</link>
@@ -53,10 +73,10 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>#buildinpublic - 是还是不是？</title>
       <link>https://feed.indiehackers.world/post/ef9b54ea1b</link>
-      <description><![CDATA[我想你们大多数人已经熟悉了#buildinpublic的概念。你用过吗？
-如果用过，进展如何，值得吗？
-如果没有，是什么让你决定不这样做？
-Discord Indiehackers Chat广告这里]]></description>
+      <description><![CDATA[我想你们大多数人已经熟悉#buildinpublic 的概念。你用它吗？ 
+如果是，进展如何，值得吗？ 
+如果没有，是什么让您决定不这样做？
+Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/ef9b54ea1b</guid>
       <pubDate>Thu, 02 May 2024 08:41:08 GMT</pubDate>
     </item>
@@ -78,7 +98,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Tue, 30 Apr 2024 13:13:04 GMT</pubDate>
     </item>
     <item>
-      <title>烘烤我的登陆页面并验证我的想法</title>
+      <title>审视我的登陆页面并验证我的想法</title>
       <link>https://feed.indiehackers.world/post/688bc965de</link>
       <description><![CDATA[我已经整理了一个登陆页面来开始收集电子邮件并衡量兴趣。我非常感谢您对概念和登陆页面本身的反馈。
 请不要犹豫——欢迎提供任何和所有反馈！
@@ -101,12 +121,12 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>传统软件公司要么演变成无代码机构，要么被抛在后面。 💀</title>
       <link>https://feed.indiehackers.world/post/95bda99e03</link>
       <description><![CDATA[您对此有何看法？
-Discord Indiehackers Chat广告此处]]></description>
+Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/95bda99e03</guid>
       <pubDate>Fri, 26 Apr 2024 17:58:05 GMT</pubDate>
     </item>
     <item>
-      <title>传统软件公司要么演变成无代码机构，要么被抛在后面。 💀</title>
+      <title>传统软件公司要么发展成为无代码机构，要么被淘汰。💀</title>
       <link>https://feed.indiehackers.world/post/2bc8cbe251</link>
       <description><![CDATA[您对此有何看法？
 Discord 独立黑客聊天广告这里]]></description>
@@ -116,30 +136,22 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>如何实现应用内消息传递？</title>
       <link>https://feed.indiehackers.world/post/01107b2c9d</link>
-      <description><![CDATA[在用户和群组之间建立应用内消息传递的最佳方式是什么？
-是否有任何 SAAS 产品提供这些功能，还是我必须从头开始构建。
+      <description><![CDATA[在用户和群组之间构建应用内消息传递的最佳方法是什么？
+是否有任何 SAAS 产品可以提供这些功能，或者我是否必须从头开始构建它。
 我确实找到了一些，但它们似乎价格过高。让我知道你的想法
-Discord Indiehackers Chat广告这里]]></description>
+Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/01107b2c9d</guid>
       <pubDate>Thu, 25 Apr 2024 18:47:47 GMT</pubDate>
     </item>
     <item>
-      <title>开源对你来说意味着什么？</title>
+      <title>开源对您意味着什么？</title>
       <link>https://feed.indiehackers.world/post/f72bf8d4db</link>
-      <description><![CDATA[我已经编码几个月了。我真的在考虑建立一个开源平台。话虽如此，对我来说，开源允许更多的协作、定制和自由。
-我很好奇开源对你意味着什么，以及你为什么喜欢或不喜欢使用开源平台。
-让我知道！
-Discord Indiehackers Chat广告这里]]></description>
+      <description><![CDATA[我已经编码几个月了。我真的在考虑建立一个开源平台。也就是说，对我来说，开源允许更多的协作、定制和自由。 
+我很想知道开源对您意味着什么，以及为什么您愿意或不愿意使用开源平台。 
+请告诉我！
+Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/f72bf8d4db</guid>
       <pubDate>Thu, 25 Apr 2024 15:52:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用在线工具来计算百分比吗？</title>
-      <link>https://feed.indiehackers.world/post/918cb035a1</link>
-      <description><![CDATA[我创建了一个带有方便计算器的简单网站，因为我认识一些苦苦挣扎的人。我也有兴趣了解社区！
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/918cb035a1</guid>
-      <pubDate>Sun, 21 Apr 2024 13:44:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
