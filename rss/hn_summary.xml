@@ -4,86 +4,89 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 09 May 2024 05:54:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 18:00:18 GMT</lastBuildDate>
     <item>
-      <title>Symbolica 计算机代数系统提供多种语言的 API，例如 Python、Rust、C++、[...]</title>
-      <link>https://t.me/hn_summary/88679</link>
-      <description><![CDATA[Symbolica计算机代数系统
-Symbolica 计算机代数系统提供多种语言的 API，例如 Python、Rust、C++ 和 Mathematica，使其适用于各种项目。它具有先进的模式匹配功能，具有对称函数意识，可实现精确的数学模式识别。该系统拥有终极的可扩展性，能够独立、并行地操作表达式中的每个术语。 Symbolica 还包括专用的多项式代数例程和多元多项式的快速最大公约数实现。令人惊讶的是，Symbolica 对学生和爱好者免费，而大学工作人员和公司则需要许可证。此外，完整的源代码和开发过程在 GitHub 上公开提供。]]></description>
-      <guid>https://t.me/hn_summary/88679</guid>
-      <pubDate>Thu, 09 May 2024 05:54:07 GMT</pubDate>
+      <title>[媒体]scratchdata.com 上内容的作者对为什么“Buckets of Parqu [...]</title>
+      <link>https://t.me/hn_summary/88762</link>
+      <description><![CDATA[成桶的 Parquet 文件太糟糕了
+scratchdata.com 上内容的作者对原因充满热情”一桶桶镶木地板文件”太糟糕了。他们认为，对于那些没有专门团队来管理数据的人来说，将 Parquet 格式的大量数据转储到 S3 存储桶中的常见做法效率低下且存在问题。作者批评了 Postgres 和 DuckDB 等工具在处理 Parquet 文件方面的局限性，并主张采用更有效的方法在本地处理小块数据。他们正在构建 Scratch Data 作为一种解决方案，以简化数据处理并使其更加用户友好。作者邀请合作，并为那些在大数据集上苦苦挣扎的人提供个人帮助。]]></description>
+      <guid>https://t.me/hn_summary/88762</guid>
+      <pubDate>Thu, 09 May 2024 18:00:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 正在寻找一件独特的家具吗？</title>
-      <link>https://t.me/hn_summary/88678</link>
-      <description><![CDATA[不寻常的家具设计利基：沙发后面的控制台
-正在寻找一件独特的家具吗？查看 Mitten State Woodworks 的沙发后控制台，它非常适合为您的生活空间增添功能。这些控制台有各种尺寸和木质选项，还可以选择内置插座以方便使用。价格从 80 美元到 200 美元不等，是您家中经济实惠的补充。虽然设计和构造可能很小，但这些控制台具有实用用途，并且可以轻松地与您现有的家具融为一体。请务必添加一些毛毡以保护墙壁免遭刮擦。适合任何家庭的巧妙实用的家具解决方案。]]></description>
-      <guid>https://t.me/hn_summary/88678</guid>
-      <pubDate>Thu, 09 May 2024 05:30:56 GMT</pubDate>
+      <title>[媒体] 日本商社三井物产</title>
+      <link>https://t.me/hn_summary/88761</link>
+      <description><![CDATA[日本三井投资2亿美元建设德克萨斯州太阳能发电场 
+日本贸易公司三井物产公司（Mitsui &amp; Co.）采取了一项大胆举措，投资 2 亿美元在以依赖风力发电而闻名的德克萨斯州建造一座太阳能发电厂。该公司旨在通过向国家电网和企业供电来满足对可再生能源不断增长的需求。这项投资体现了三井物产对能源领域可持续发展和创新的承诺。]]></description>
+      <guid>https://t.me/hn_summary/88761</guid>
+      <pubDate>Thu, 09 May 2024 17:54:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] UniSuper 会员面临长达一周的磨难，无法获得退休金账户 [...]</title>
-      <link>https://t.me/hn_summary/88677</link>
-      <description><![CDATA[在 Google Cloud 配置错误后，UniSuper 会员连续一周无法访问帐户&lt; /a&gt;
-由于 Google Cloud 配置错误，UniSuper 会员面临长达一周的痛苦，无法访问其退休金账户，这是一次“独一无二”的事件，导致该金融服务提供商的私有云账户被删除。虽然服务已恢复，但投资账户余额仍在更新。 UniSuper 首席执行官 Peter Chun 向会员保证个人数据不会受到泄露。 Chun 和 Google Cloud 首席执行官托马斯·库里安 (Thomas Kurian) 联合道歉，突显了该事件的前所未有的性质。尽管面临挑战，UniSuper 仍能够使用另一家提供商的备份来恢复服务。该事件凸显了数据冗余和灾难恢复措施的重要性。]]></description>
-      <guid>https://t.me/hn_summary/88677</guid>
-      <pubDate>Thu, 09 May 2024 05:18:48 GMT</pubDate>
+      <title>[媒体]OpenAI 一直通过其首选出版商 Progr 与新闻出版商接触 [...]</title>
+      <link>https://t.me/hn_summary/88760</link>
+      <description><![CDATA[泄露的资料揭示了 OpenAI 如何与出版商建立合作伙伴关系&lt; br/&gt;
+OpenAI 一直通过其首选出版商计划与新闻出版商接触，提供合作激励。泄露的信息揭示了合作伙伴关系的结构，包括财务条款和出版商的利益。 OpenAI 旨在通过 ChatGPT 增加与发布商内容的互动，从而改善用户体验。然而，该计划引发了争议，一些出版商起诉 OpenAI 未经许可使用受版权保护的材料。尽管面临法律挑战，OpenAI 仍继续寻求与出版商合作，以扩大其影响范围并增强其人工智能能力。该计划强调了数字出版商与人工智能技术之间不断发展的关系。]]></description>
+      <guid>https://t.me/hn_summary/88760</guid>
+      <pubDate>Thu, 09 May 2024 17:50:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Tegon，它是 Jira 和 Linear 的人工智能优先开源替代品。</title>
-      <link>https://t.me/hn_summary/88676</link>
-      <description><![CDATA[显示 HN：Tegon：AI 优先、Jira 的开源替代方案, 线性
-隆重推出 Tegon，它是 Jira 和 Linear 的人工智能优先开源替代品。借助 AI 生成的 Tegon 简洁标题建议，告别模糊的手动创建标题。利用这一创新工具彻底改变您的项目管理体验。立即查看Tegon.ai，亲自看看有何不同。&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/88676</guid>
-      <pubDate>Thu, 09 May 2024 04:53:35 GMT</pubDate>
+      <title>[媒体] 银翼杀手</title>
+      <link>https://t.me/hn_summary/88759</link>
+      <description><![CDATA[银翼杀手
+《银翼杀手》是一部多年来引发争议和两极分化的电影。从陷入困境的制作到好评如潮，这部电影经历了一段动荡的历史。关于主角戴卡德是否是复制人的争论一直是粉丝和评论家争论的焦点。尽管影片具有令人惊叹的视觉效果和大气的构图，但影片的情感距离和主题的不一致让一些观众对其整体影响感到冷淡。 1997 年改编的电脑游戏《银翼杀手》使讨论变得更加复杂，因为很难区分人们对游戏的反应和对电影的反应。 （根据故事文本的 35% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/88759</guid>
+      <pubDate>Thu, 09 May 2024 17:42:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Temporal Python SDK 已正式发布，使 Python 成为全面支持的 [...]</title>
-      <link>https://t.me/hn_summary/88675</link>
-      <description><![CDATA[Temporal Python – 持久的分布式异步事件循环 (2023)&lt; /a&gt;
-Temporal Python SDK 已正式发布，使 Python 成为 Temporal 中完全支持的工作流语言。利用本机 asyncio 构造，Temporal Python 非常适合希望创建持久工作流程的开发人员。 Temporal 中的工作流是确定性的，可以在不同的工作线程上重放，而在工作线程上运行的活动作为通用功能。 Temporal Python 使用 asyncio 事件循环来有效地建模工作流，从而允许执行计时器、异步操作和协程等任务。通过实现 asyncio 事件循环，Temporal Python 与 Temporal 的工作流系统无缝集成，为 Python 开发人员提供自然的开发体验。 （根据 44% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/88675</guid>
-      <pubDate>Thu, 09 May 2024 04:52:31 GMT</pubDate>
+      <title>[媒体]在最近的一次采访中，向拜登总统展示 ChatGPT 的女士表达了担忧 [...]</title>
+      <link>https://t.me/hn_summary/88758</link>
+      <description><![CDATA[向拜登总统展示ChatGPT的女人
+在最近的一次采访中，向拜登总统展示 ChatGPT 的女士表达了对人工智能技术在微软等大公司（收购了 Inflection）的集中化的担忧。总统签署的行政命令旨在解决人工智能技术的竞争、偏见和公平问题。尽管华盛顿特区的一些人对政府干预确定偏见持谨慎态度，但该命令的重点是确保政府使用的人工智能工具不会嵌入偏见。这位女士还强调了人工智能在退伍军人事务部和社会保障管理局等政府服务中使用的潜力，重点是负责任和公正地使用该技术。]]></description>
+      <guid>https://t.me/hn_summary/88758</guid>
+      <pubDate>Thu, 09 May 2024 17:41:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在最近的一份证词中，Robert F.</title>
-      <link>https://t.me/hn_summary/88674</link>
-      <description><![CDATA[脑虫：科学探究
-在最近的一份证词中，小罗伯特·F·肯尼迪声称他的大脑中有一条蠕虫，在死前吃了一部分。专家怀疑这可能是由猪肉绦虫幼虫引起的神经囊尾蚴病。虽然这听起来很可怕，但它实际上是大脑中常见的寄生虫感染，通常无症状。 NCC 可以通过良好的卫生习惯来预防，也可以通过药物治疗。肯尼迪的症状可能是由汞中毒引起的。 NCC在美国很少见，但这一消息可能会引发不必要的恐慌。对于那些真正担心食脑寄生虫的人来说，福氏耐格里阿米巴原虫（一种在温水中发现的阿米巴原虫）是一个更合理的威胁。]]></description>
-      <guid>https://t.me/hn_summary/88674</guid>
-      <pubDate>Thu, 09 May 2024 04:38:22 GMT</pubDate>
+      <title>[媒体] 网址：shkspr.mobi</title>
+      <link>https://t.me/hn_summary/88757</link>
+      <description><![CDATA[纯文本 WordPress 主题
+标题：纯文本 WordPress 主题
+网站：shkspr.mobi
+
+正在寻找简洁、简洁的 WordPress 主题？别再犹豫了！这个纯文本主题非常基本——只有一个index.php 和style.css 文件。没有花哨的格式，没有图像，没有链接。只是纯粹的、不掺杂任何杂质的文字。它可能不是最复杂的代码，但它可以完成工作。非常适合那些想要简约的博客方式的人。因此，如果您厌倦了所有花哨的东西，请尝试一下这个主题并享受简单性。]]></description>
+      <guid>https://t.me/hn_summary/88757</guid>
+      <pubDate>Thu, 09 May 2024 17:36:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇博文中，作者反思了 Go 编程语言的创建 [...]</title>
-      <link>https://t.me/hn_summary/88673</link>
-      <description><![CDATA[少即是多
-在这篇博文中，作者反思了 Go 编程语言的创建及其与 C++ 和 Java 的区别。令人惊讶的是，大多数 Go 程序员都有 Python 和 Ruby 背景，而不是 C++。作者讨论了 Go 与 C++ 相比的简单性和表现力，并强调了对组合而不是类型层次结构的关注。这篇文章深入探讨了 Go 设计背后的哲学，强调了组合和耦合在编写大型程序中的重要性。作者对类型层次结构对于编程至关重要的观念提出了挑战，主张采用更实用、更灵活的方法。 （根据 81% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/88673</guid>
-      <pubDate>Thu, 09 May 2024 04:20:54 GMT</pubDate>
+      <title>GitHub 上的“hnsw”项目是一个用于 Go 的嵌入式 HNSW 库，实现了分层 N [...]</title>
+      <link>https://t.me/hn_summary/88756</link>
+      <description><![CDATA[显示 HN：适用于 Go 的嵌入式 HNSW 库
+GitHub 上的“hnsw”项目是一个用于 Go 的嵌入式 HNSW 库，实现了分层可导航小世界图，用于使用高维向量数据进行快速近似最近邻搜索。它是 Pinecone 和 Weaviate 等矢量数据库的内存替代品，提供插入、删除、搜索和查找等基本操作以及相应的复杂性。该项目强调了降低数据维度对于性能优化的重要性，并提供了提高速度和内存使用率的建议。作者计划在未来添加持久化/序列化功能。该项目因其处理矢量数据的简单性和高效性而脱颖而出。]]></description>
+      <guid>https://t.me/hn_summary/88756</guid>
+      <pubDate>Thu, 09 May 2024 17:28:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谷歌员工正在质疑高管“士气下降”，尽管公司 [...]</title>
-      <link>https://t.me/hn_summary/88672</link>
-      <description><![CDATA[Google 员工就业绩井喷后“士气下降”向高管提出质疑&lt; /a&gt;
-尽管公司盈利井喷，但谷歌员工仍在质疑高管“士气下降”。首席执行官桑达尔·皮查伊 (Sundar Pichai) 和首席财务官露丝·波拉特 (Ruth Porat) 举行的全体会议重点讨论了对薪酬、成本削减措施以及领导层与员工之间脱节的担忧。波拉特承认过去在处理投资方面的错误，强调需要投资于增长。皮查伊承认公司的过渡期，包括削减开支和提高效率。尽管盈利强劲，但裁员仍在继续，皮查伊表示大部分裁员将在 2024 年上半年完成。公司计划全年继续管理员工人数增长。]]></description>
-      <guid>https://t.me/hn_summary/88672</guid>
-      <pubDate>Thu, 09 May 2024 03:56:41 GMT</pubDate>
+      <title>[媒体] 邻避者反对开发以保护其房地产价格的普遍说法是 [...]</title>
+      <link>https://t.me/hn_summary/88755</link>
+      <description><![CDATA[开发帕洛阿尔托价值 1 万亿美元
+NIMBY 反对开发以保护其房地产价格的普遍说法是一个神话。真正的问题是新开发项目可能带来的拥堵和噪音等集中危害。通过允许单个开发商获取利益并向反对者支付报酬，开发可以造福所有人。例如，将帕洛阿尔托变成像曼哈顿下城一样人口密集的地区，可以在扣除建筑成本后产生 1 万亿美元的利润。这可能意味着帕洛阿尔托每户家庭可获得 3000 万美元，以及重大的基础设施改进。问题仍然存在：居民是宁愿保护他们价值 300 万美元的房屋，还是从 3000 万美元的意外之财中受益？]]></description>
+      <guid>https://t.me/hn_summary/88755</guid>
+      <pubDate>Thu, 09 May 2024 17:21:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在 Ahrefs，我们已成功以 90% 的折扣建设了价值 10 亿美元的基础设施 [...]</title>
-      <link>https://t.me/hn_summary/88671</link>
-      <description><![CDATA[Ahrefs 如何以 90% 的折扣获得价值 10 亿美元的基础设施
-在 Ahrefs，我们以比 AWS 云服务低 90% 的折扣成功构建了价值 10 亿美元的基础设施。通过利用我们自己强大的本地服务器，多年来我们节省了数百万美元。虽然有些人主张转向无服务器架构或现货实例，但这些选项并不适合我们的高负载服务器。此外，雇用大型团队来支持托管服务器的想法实际上会比拥有硬件花费更多。最后，选择托管对我们来说是正确的决定，让我们的开发人员能够专注于产品增强而不是云成本优化。云技术有其优点，但像任何药物一样，请以合理的剂量负责任地使用它。]]></description>
-      <guid>https://t.me/hn_summary/88671</guid>
-      <pubDate>Thu, 09 May 2024 03:11:21 GMT</pubDate>
+      <title>[媒体]特斯拉悄然下架美国所有地区</title>
+      <link>https://t.me/hn_summary/88754</link>
+      <description><![CDATA[特斯拉悄悄删除所有美国招聘信息
+特斯拉悄悄删除了所有美国招聘信息，这表明在最近裁员后，北美的招聘工作将冻结。其制造开发计划中只有三个职位仍在列出，与几周前成千上万的职位形成鲜明对比。首席执行官埃隆·马斯克表示，裁员的原因是需要降低成本和提高生产力，超过 20,000 人可能会受到影响。该公司还看到高调的高管辞职和暑期实习机会被撤销。这种情况让许多前员工感到无足轻重，对自己的未来感到不确定。特斯拉的快速变化和重组引发了人们对其稳定性和未来方向的担忧。]]></description>
+      <guid>https://t.me/hn_summary/88754</guid>
+      <pubDate>Thu, 09 May 2024 17:12:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]马萨诸塞大学阿默斯特分校的物理学家与大学合作[...]</title>
-      <link>https://t.me/hn_summary/88670</link>
-      <description><![CDATA[物理学家开发出用于先进量子计算的突破性设备
-马萨诸塞州阿默斯特大学的物理学家与芝加哥大学合作，开发了一种用于先进量子计算的突破性设备。通过修改微波循环器以精确管理量子比特和微波谐振腔之间的非互易性，他们显着增强了量子计算机内的控制，并简化了未来研究的理论模型。这项创新可以精确调整非互易性，这是量子信息处理中的重要工具。该团队的研究成果发表在《科学进展》上，标志着首次将非互易性嵌入到量子计算设备中，为设计更复杂的量子计算硬件打开了大门。]]></description>
-      <guid>https://t.me/hn_summary/88670</guid>
-      <pubDate>Thu, 09 May 2024 02:45:39 GMT</pubDate>
+      <title>[媒体]安德鲁·胡伯曼 (Andrew Huberman) 是一位颇受欢迎的播客兼健康专家，拥有神经科学博士学位，[...]</title>
+      <link>https://t.me/hn_summary/88753</link>
+      <description><![CDATA[Andrew Huberman 关于大麻的说法惹恼了药物专家
+安德鲁·胡伯曼 (Andrew Huberman) 是一位颇受欢迎的播客兼健康专家，拥有神经科学博士学位，他因在他的节目《胡伯曼实验室》中有关大麻的言论而受到批评。该领域的专家批评他过于简单化和不准确，特别是在大麻对记忆、食欲和注意力的影响方面。休伯曼将 THC 和 CBD 混为一谈，以及他关于苜蓿和籼稻菌株的主张，已被研究人员揭穿，他们强调缺乏科学证据支持他的主张。尽管休伯曼试图支持他的言论，但批评者认为他正在散布错误信息，应该更加透明地介绍他的消息来源和专业知识。]]></description>
+      <guid>https://t.me/hn_summary/88753</guid>
+      <pubDate>Thu, 09 May 2024 17:07:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
