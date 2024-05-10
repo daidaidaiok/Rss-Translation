@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Thu, 09 May 2024 09:05:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 12:06:55 GMT</lastBuildDate>
+    <item>
+      <title>使用您的 AWS 账户订阅 Enterprise Hub</title>
+      <link>https://huggingface.co/blog/enterprise-hub-aws-marketplace</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/enterprise-hub-aws-marketplace</guid>
+      <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用英特尔 Gaudi 2 和英特尔至强构建经济高效的企业 RAG 应用</title>
       <link>https://huggingface.co/blog/cost-efficient-rag-applications-with-intel</link>
@@ -55,14 +62,14 @@
       <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>万事通，精通某项技能，多用途变压器代理</title>
+      <title>万事通，多才多艺，多用途变压器代理</title>
       <link>https://huggingface.co/blog/jat</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/jat</guid>
       <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>开放医学法学硕士排行榜：医疗保健领域大型语言模型的基准测试</title>
+      <title>开放医学法学硕士排行榜：对医疗保健领域的大型语言模型进行基准测试</title>
       <link>https://huggingface.co/blog/leaderboard-medicalllm</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-medicalllm</guid>
@@ -76,7 +83,7 @@
       <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Gradio 的重新加载模式让你快速开发 AI 应用</title>
+      <title>利用 Gradio 的重新加载模式快速实现 AI 应用程序</title>
       <link>https://huggingface.co/blog/gradio-reload</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/gradio-reload</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/ryght-case-study</guid>
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>隆重推出 Idefics2：面向社区的强大 8B 视觉语言模型</title>
-      <link>https://huggingface.co/blog/idefics2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/idefics2</guid>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
