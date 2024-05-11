@@ -4,11 +4,25 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 10 May 2024 21:05:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 00:16:52 GMT</lastBuildDate>
     <item>
-      <title>“当然，我可以为你生成”：科学期刊充斥着 ChatGPT 虚假“研究”</title>
+      <title>7 分钟解释 RAG：人工智能的未来？ - 动画视频</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cp49ib/rag_explained_in_7_minutes_the_future_of_ai/</link>
+      <description><![CDATA[嗨，我是奥斯汀！我是一个视觉学习者&amp;学习数据分析的研究生对法学硕士、RAG 和矢量数据库方面的疯狂技术进步感到兴奋。我对尖端人工智能的所有事物都很着迷。我访问了旧金山和我被我从未听说过的概念震惊了：从 RAG 到幻觉。  我创建此视频是为了教自己和其他人与检索增强生成相关的概念。如果您想查看，请点击链接：https://www.youtube.com/watch?v=kdBBEmw8Pqk 我很想知道您对我的解释有何看法？我喜欢这个话题&amp;想要制作更多视频。更深入地探索向量数据库、LLM、检索器算法等。 非常感谢！   由   提交 /u/SoftwareDream   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cp49ib/rag_explained_in_7_minutes_the_future_of_ai/</guid>
+      <pubDate>Sat, 11 May 2024 00:07:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我观看了马克·扎克伯格最近关于人工智能的 1 小时采访 - 以下是我们都应该知道的关键要点</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1coztdy/i_watched_mark_zuckerbergs_recent_1hour_interview/</link>
+      <description><![CDATA[几天前，Zuck 接受了 Dwarkesh 播客的采访，提供了许多见解，特别是他对开源计划的坚定支持。在长达一小时的谈话中，我记下了 9 个要点，并在此总结。 深入挖掘！ 采访：https://www.youtube.com/watch?v=bc6uFV9CJGg 1.与多个 AI 代理交互的时代  Mark 的理论是，他们在 Meta 中构建的 AI 代理需要学习与其他 AI 代理交互。这种趋势已经在 Meta、Notion 和 Microsoft 中体现出来，它们都拥有自己的人工智能，很可能会跨现有软件平台进行集成，而不是完全成为新的软件产品 ⏳ 16:50 &lt;强&gt;2.用于日常任务的较小人工智能模型  为了填补人工智能开发的空白，Mark 确定了适合更简单任务的较小模型的利基市场。具有 1B 或 500M 上下文功能的模型可以在手机等设备上离线运行 - 这可以进一步普及人工智能的使用。 ⏳ 23:40 3.人工智能的演变反映了计算的革命  马克将人工智能的创造与计算的根本革命进行了类比。这种比较促使人们思考未来 5-10 年人工智能融入生活各个方面所带来的变革。如果计算机在这段时间内给世界带来了如此大的改变，那么人工智能会产生什么影响？ ⏳ 34:06 4.迈向 AGI 的渐进之路  与耸人听闻的叙述相反，马克预计通用人工智能 (AGI) 的发展将逐步展开，而不是一夜之间。这种渐进的进展允许社会适应并实施必要的保障措施。 ⏳ 35:48 5.倡导开源人工智能  让一个参与者在封闭系统中仅控制 1 个人工智能的风险远远超过开源的风险。开源框架促进广泛的部署和协作，确保全面推广开发，以防止对人工智能技术的垄断控制。 ⏳ 42:54 6.威胁将首先来自人类，而不是人工智能 最有可能的是，人工智能的威胁将表现为人类将其滥用于邪恶目的，而不是人工智能单独行动。虽然对 AGI 的担忧经常主导讨论，但 Mark 强调了恶意行为者利用 AI 实现不正当目的所构成的更大直接威胁。 ⏳ 45:24 7.好与坏的人工智能之间正在进行的战斗  马克扎克伯格强调了旨在防止伤害的人工智能与寻求利用安全系统漏洞的恶意人工智能之间正在进行的军备竞赛。这种斗争在 Facebook 等社交平台上很明显，凸显了持续创新的必要性，以领先于不断变化的威胁。 ⏳ 51:20 8.开源 10B 模型  Mark 确认了对开放的承诺，并确认 10B 模型将开源！ ⏳ 1:06:40 ⏳ 1:06:40 p&gt; 9。创新中的闭源限制  Mark 列举了苹果和谷歌 Play 商店等平台的闭源性质抑制创新的例子，说明了技术生态系统中垄断控制的弊端。这一批评强调了开放和竞争在推动进步和培养创造力方面的重要性。 ⏳ 1:08:34  如果这有点过分了很有见地，我希望你可以看看RoboNuggets，我最初在那里分享了这个和其他人工智能相关的实践知识！我的目标不是“AI日报”，而是“人工智能日报”。 （因为已经太多了），而是分享有用的见解/知识，让每个人都能充分利用新的人工智能常态:)干杯！  &amp;# 32；由   提交/u/ExternalFollowing  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1coztdy/i_watched_mark_zuckerbergs_recent_1hour_interview/</guid>
+      <pubDate>Fri, 10 May 2024 20:50:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>“当然，我可以为你生成它”：科学期刊充斥着 ChatGPT 虚假“研究”</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1coyxr5/sure_i_can_generate_that_for_you_science_journals/</link>
-      <description><![CDATA[ChatGPT 在许多任务中非常有用，例如编程、原型设计或网页设计。不幸的是，它也容易被滥用，这在一些在同行评审的科学期刊上发表论文的研究人员身上很明显，他们太懒或完全愚蠢。诸如此类的短语： · “当然，我可以为你生成这个，” · “当然，这是一个例子……” · “或者作为大型语言模型……”等在同行评审的科学期刊中广为流传。 现在，科学期刊中有成千上万的 ChatGPT 胡言乱语，这些胡言乱语被编辑得很差。许多此类论文涉及医学、工程、生物学和其他 STEM 领域。 结果就是一些垃圾，例如发表在《新西兰爬虫学杂志》上的《揭开数字盔甲的面纱：利用社交媒体交响乐推广 COVID-19 疫苗》。这是六位研究人员撰写的一篇使用 ChatGPT 生成的 Twitter 标签论文，其中包含一些有趣的短语，例如：“当然，这是印度疫苗的一个例子。” 这些人在将论文提交给期刊审稿人之前甚至懒得阅读他们的论文，而审稿人也不会阅读这些文章。 这是完整的故事，以及更多此类“科学”的例子。   提交者    /u/FrontalSteel   [链接] [评论]]]></description>
+      <description><![CDATA[ChatGPT 在许多任务中非常有用，例如编程、原型设计或网页设计。不幸的是，它也容易被滥用，这一点在一些在同行评审的科学期刊上发表文章的研究人员过于懒惰或完全愚蠢的情况中显而易见。诸如此类的短语： · “当然，我可以为你生成它，” · “当然，这是一个例子......” · “或者作为大型语言模型……”等其他内容在同行评审的科学期刊中广泛传播。 现在，科学期刊中存在数千条编辑不当的 ChatGPT 胡言乱语。许多此类论文属于医学、工程、生物学和其他 STEM 领域。 其结果是垃圾，例如发表的《揭开数字盔甲：利用社交媒体交响曲推广 COVID-19 疫苗》在“新西兰爬行动物学杂志”中。这是由六名研究人员撰写的 Twitter 主题标签上的 ChatGPT 生成的论文，其中包含这样有趣的短语：“当然，这是印度疫苗的一个例子。” 这些人以前甚至懒得阅读他们的论文。将它们提交给期刊审稿人，而期刊审稿人也不会阅读这些文章。 这是完整的故事，更多此类“科学”的例子。   由   提交 /u/FrontalSteel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1coyxr5/sure_i_can_generate_that_for_you_science_journals/</guid>
       <pubDate>Fri, 10 May 2024 20:12:54 GMT</pubDate>
     </item>
@@ -27,14 +41,7 @@
       <pubDate>Fri, 10 May 2024 18:14:17 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个 AI 涂鸦应用程序</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cov74q/i_built_an_ai_doodle_app/</link>
-      <description><![CDATA[人工智能艺术和文本转图像现在非常流行。当谈到创作艺术时，我个人更注重享受过程而不仅仅是结果，因此深入研究从文本创作人工智能艺术对我来说非常令人兴奋。但有些事情不太合拍，或者感觉不太对劲。我没有得到同样的满足。将我自己的想法转化为人工智能艺术比我想象的要困难得多。比我预想的要棘手得多。 这就是我开发自己的 iOS 应用程序的原因 - 尝试不同的输入。现在，我可以快速涂鸦一些东西，应用程序会将其转换为详细的 AI 艺术作品。我希望这可以为那些有快速想法的忙碌创意者提供一些用例。思考不同的输入如何演变并使人工智能更像一个创造性的合作伙伴是非常疯狂的。  该应用程序还刚刚起步，但我真的很想加强它，让它更好地把我们的想法变成现实。如果您有 iPhone 并且想尝试一下，我真的很想听听您的想法。永久免费使用。不过，有一个可选的 IAP。  谢谢大家！ 获取 CoDoodle：您的人工智能伴侣在这里！   由   提交 /u/Seedani   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cov74q/i_built_an_ai_doodle_app/</guid>
-      <pubDate>Fri, 10 May 2024 17:32:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open AI 周一发布自己的搜索引擎</title>
+      <title>Open AI 周一发布了自己的搜索引擎</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1coulbc/open_ai_releasing_their_own_search_engine_on/</link>
       <description><![CDATA[这将如何影响 Google 的主导地位？ 我们已经看到 Perplexity AI 等平台的使用量有所增加 我个人使用 Chatgpt pro 语音功能来搜索和聊天。这真的很简单。 每个人都在做什么？   由   提交 /u/Happy-Credit-3821   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1coulbc/open_ai_releasing_their_own_search_engine_on/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Fri, 10 May 2024 12:25:21 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 的开源替代品，100% 在本地运行</title>
+      <title>ChatGPT 的开源替代方案，100% 在本地运行</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1colfpm/an_opensource_alternative_to_chatgpt_that_runs/</link>
       <description><![CDATA[嗨r/ArtificialInteligence  注意到这里的一篇文章提到了 Jan，所以我想我应该分享更多相关内容！我希望这篇文章不要被视为自我广告，因为它是关于开源工具和本地人工智能解决方案的兴起的。  我想向您介绍 Jan，它是 ChatGPT 的开源替代方案，可 100% 在本地运行。 Jan 允许您在自己的设备上使用 AI 模型 - 您可以通过 Jan 运行 AI 模型，例如 Llama 3、Mistral 7B 或 Command R，无需 CLI 或编码经验。 它完全免费，您可以保留自己的模型数据，如果您使用开源模型，则无需支付 OpenAI 等远程 API 的费用。对话、偏好和模型使用情况都保留在您的计算机上。  Jan 是一款本地优先的桌面应用程序，但您也可以连接到远程 API，例如 ChatGPT、Groq 等。您还可以通过在我们的模型中心搜索模型名称来从 Hugging Face 下载模型。  网站：https://jan.ai 这是一个开源项目 - 您也可以在 GitHub 上为 Jan 做出贡献： https://github.com/janhq/jan Jan 支持Llama.cpp，TensorRT-LLM，所以速度更快。还与Mistral API、OpenAI API、Groq API、LM Studio、Ollama集成&gt; 和其他 OAI 兼容服务器。 如果您发现该项目有用，请考虑在 GitHub 上给它一颗星！ :)   由   提交 /u/emreckartal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1colfpm/an_opensource_alternative_to_chatgpt_that_runs/</guid>
@@ -81,13 +88,6 @@
       <description><![CDATA[说真的，我的意思是 Google 助理是最好的助手。但谷歌试图复制 Copilot 的人工智能搜索编译器在 70% 的情况下都是垃圾。我什至不能使用它，因为即使我不能证明它是错误的，它很可能仍然是错误的。我真的不能相信任何事情。这不是测试版，这是 Sub-Alpha 原型 AI。 然后是 Gemini。它本来应该非常好，然后令人惊讶的是，它在很多方面都令人非常失望，它甚至无法完成 Google Assistant 可以做的所有事情，更不用说它所做的事情也乏善可陈。  他们拥有如此多的数据、如此多的资源可以利用，以创造出比 Microsoft Copilot 更好的令人惊叹的浏览器 AI。到底是怎么回事？为什么他们在让人工智能发挥作用方面如此努力？   由   提交 /u/Correct_Bad_1353   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1colb35/why_is_google_so_bad_at_ai/</guid>
       <pubDate>Fri, 10 May 2024 09:20:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>消息称 OpenAI 计划于周一宣布谷歌搜索竞争对手</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cofvxv/openai_plans_to_announce_google_search_competitor/</link>
-      <description><![CDATA[https://www.reuters.com/technology/openai-plans-announce-google-search-competitor-monday-sources-say-2024-05-09/   由   提交 /u/BiggerGeorge   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cofvxv/openai_plans_to_announce_google_search_competitor/</guid>
-      <pubDate>Fri, 10 May 2024 03:23:18 GMT</pubDate>
     </item>
     <item>
       <title>3 条提示在 ChatGPT 中生成 100% 类似人类的内容</title>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有被视为人工智能的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
