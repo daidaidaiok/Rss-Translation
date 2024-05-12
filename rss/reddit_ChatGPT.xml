@@ -4,7 +4,63 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢纳特！</description>
-    <lastBuildDate>Sun, 12 May 2024 00:18:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 03:05:22 GMT</lastBuildDate>
+    <item>
+      <title>阿马拉</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cpx2ke/amara/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cpx2ke/amara/</guid>
+      <pubDate>Sun, 12 May 2024 02:00:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 太糟糕了，难以忍受</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cpwr4u/chatgpt_is_fucking_awful_and_unbearable/</link>
+      <description><![CDATA[gpt 4 已经降级到地狱了，但是 gpt 3.5 呢？我卸载了该应用程序，因为它令人难以忍受，肤浅，答案质量差，遵守用户而不是纠正错误信息，不记得任何东西，几乎不会听任何东西，更不用说费心阅读你的整个消息，并且当收到一些指示时它要么会破坏它们，要么在一条消息后忘记它们，要么只是忽略它们，我曾经将它用于工作和创造性的东西，弓它提供了完全错误的信息，让我自满而不是给我更正，或者以其他方式打断我的校对或者它太肤浅了，经过几个月的日复一日的今天，我厌倦了并卸载了现在是一堆热火朝天的废话   由   提交 /u/ShoulderAutomatic793   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cpwr4u/chatgpt_is_fucking_awful_and_unbearable/</guid>
+      <pubDate>Sun, 12 May 2024 01:42:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 与 Google 说唱之战</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cpwovr/chatgpt_vs_google_rap_battle/</link>
+      <description><![CDATA[我不知道我很无聊（剧透了，因为后面有一些咒骂）   由   提交 /u/AlphaKappaFly   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cpwovr/chatgpt_vs_google_rap_battle/</guid>
+      <pubDate>Sun, 12 May 2024 01:38:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管在 Playground 中工作的提示和设置完全相同，但在使用 API 时始终收到错误请求，而其他 API 的请求工作正常。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cpwouj/getting_bad_request_consistently_when_using_the/</link>
+      <description><![CDATA[我在这里开始有点抓狂了。我有一些使用 Playground 制作的特定系统提示，但是当我使用 API 实现它们时，我始终收到错误请求。它似乎与提供一些示例数据或特定的 JSON 格式（我已经验证过）有关。所以现在我在操场上所做的工作无法实施，我无法找到解决方案。其他有 API 访问权限的人可以看看是不是只有我一个人？ Playground 说没问题 这是一个失败的基本示例： 这有什么问题吗？ {“标题” : &quot;你好&quot;, &quot;信息&quot;: [ {&quot;数据&quot;: [1, 0, 0, 0, 2, 0, 0, 0, 3, 2, 0, 0, 1, 0, 0, 0 ]}, {“数据”: [0, 1, 0, 0, 0, 2, 0, 0, 0, 0, 3, 2, 0, 0, 1, 0]}, {“数据”: [0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 3, 2, 0, 0]}, {“数据”: [0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 3, 2]} ] }   由   提交/u/StreetBeefBaby  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cpwouj/getting_bad_request_consistently_when_using_the/</guid>
+      <pubDate>Sun, 12 May 2024 01:38:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>3.5的我不行</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cpwnxm/i_cant_with_35/</link>
+      <description><![CDATA[      https://preview .redd.it/4ajzejkdgwzc1.png?width=461&amp;format=png&amp;auto=webp&amp;s=5dacede33a57f90596a1bc5c873c73d9247196d9   由   提交/u/deleon_el  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cpwnxm/i_cant_with_35/</guid>
+      <pubDate>Sun, 12 May 2024 01:37:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 ChatGPT 运行单人 D&D 游戏</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cpvjo0/using_chatgpt_to_run_a_solo_dd_game/</link>
+      <description><![CDATA[...或任何其他桌面角色扮演游戏。就实际上下文窗口而言，现在的内存有多可靠？我一直在尝试使用新的记忆功能，但它仍然忘记了我的角色表上的详细信息。我还使用了一个名为 DM 工具包的自定义 GPT，希望这样做能够帮助聊天记住它的作用。还有什么其他建议？    由   提交/u/doughnutbreakfast  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cpvjo0/using_chatgpt_to_run_a_solo_dd_game/</guid>
+      <pubDate>Sun, 12 May 2024 00:37:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以直接从地址栏使用 ChatGPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cpvfe7/you_can_use_chatgpt_directly_from_the_address_bar/</link>
+      <description><![CDATA[https:// chat.openai.com/chat#autoSubmit=1&amp;prompt=%s 将其放入您的 搜索引擎 Edge：edge://settings/searchEngines Chrome：chrome://settings/searchEngines Firefox：关于:preferences#search   由   提交/u/diggpthoo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cpvfe7/you_can_use_chatgpt_directly_from_the_address_bar/</guid>
+      <pubDate>Sun, 12 May 2024 00:30:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个 chatgpt 购物包装</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cpvd92/i_made_a_chatgpt_wrapper_for_shopping/</link>
+      <description><![CDATA[       https:/ /preview.redd.it/8msx9jhd3wzc1.jpg?width=1802&amp;format=pjpg&amp;auto=webp&amp;s=be45654c8cb1aef87e3423010a383c61be1bf80a 项目链接 - https://www.chat.shopencore.ai 我和朋友对中高端时装的高价格感到沮丧在线品牌 因此，在我们的气候技术课程中，我们为我们的课程创建了一个免费的人工智能时尚助手，它可以链接并推荐来自数百个转售/二手网站（例如Grailed、Thredup、Vinted、Depop 等）🍃 功能：  询问有关风格、历史、产品描述、视觉效果的建议  查找您想要的商品的二手/转售更便宜的替代品 保存单个产品项目/搜索 &lt; /ol&gt;   由   提交/u/NoInspiration7284   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cpvd92/i_made_a_chatgpt_wrapper_for_shopping/</guid>
+      <pubDate>Sun, 12 May 2024 00:27:50 GMT</pubDate>
+    </item>
     <item>
       <title>那是一场艰难的比赛</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1cpv4fz/that_was_a_tough_one/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[    /u/Prantheman   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1cpt4pa/i_asked_gemini_to_explain_part_of_a_response_that/</guid>
       <pubDate>Sat, 11 May 2024 22:37:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>DALLE 3 生成的霸王龙上的耶稣</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cpszk1/jesus_on_trex_generated_by_dalle_3/</link>
-      <description><![CDATA[      &amp;# 32；由   提交 /u/Zoroastrius   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cpszk1/jesus_on_trex_generated_by_dalle_3/</guid>
-      <pubDate>Sat, 11 May 2024 22:30:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是艾吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cpswhz/is_this_ai/</link>
-      <description><![CDATA[       由   提交 /u/Discodoggyy   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cpswhz/is_this_ai/</guid>
-      <pubDate>Sat, 11 May 2024 22:26:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 聊天机器人网址已更新。有人注意到这一点吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cpsmbl/openai_chatbot_web_address_got_updated_did_anyone/</link>
-      <description><![CDATA[https://preview.redd.it/66lvplv8gvzc1.jpg?width=841&amp;format=pjpg&amp;auto=webp&amp;s=fa8d74b5b81fc6d86e1a3e82a43f65 5f4a46a547 我刚刚注意到OpenAI 将其网址更新为 chatgpt.com，但目前还没有任何信息。连 GPT-4 都不知道。   由   提交 /u/yenksid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cpsmbl/openai_chatbot_web_address_got_updated_did_anyone/</guid>
-      <pubDate>Sat, 11 May 2024 22:12:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何提高提示能力？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cpsjok/how_to_improve_at_prompting/</link>
-      <description><![CDATA[最近我一直在努力学习如何更好地提示。根据我收集到的信息，以下是我用我那小小的大脑学到的东西。   给它一个标识。说类似的话； “你是世界上最好的软件工程师，可以完成某项任务等”  用适当的上下文阐述你的问题（尽可能详细） 准确说出你想要它做什么（尽可能详细）。 准确说出您希望如何输出（尽可能详细）。   ol&gt; 以上大部分时间对我来说都有效。但我想知道如何让它变得更好？我能做些什么？有什么我可以添加/删除/改进的吗？请告诉我。 提前谢谢您！    由   提交 /u/lucrosisgone   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cpsjok/how_to_improve_at_prompting/</guid>
-      <pubDate>Sat, 11 May 2024 22:09:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 和神秘的中国护肤讯息</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cpsj3z/chatgpt_and_the_mystery_chinese_skincare_message/</link>
-      <description><![CDATA[        由   提交 /u/Ugnju   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cpsj3z/chatgpt_and_the_mystery_chinese_skincare_message/</guid>
-      <pubDate>Sat, 11 May 2024 22:08:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>不工作</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cprn9z/not_working/</link>
-      <description><![CDATA[我一直收到您最近一次发送的请求失败，请在我发送任何内容时立即重试，即使我只是说“你好”，而且我什至为此付费......太令人沮丧了    由   提交 /u/klejss   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cprn9z/not_working/</guid>
-      <pubDate>Sat, 11 May 2024 21:26:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT 决定对我竖起中指，并停止为我最初生成的 Excel 文件所做的每次更新提供下载链接。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cprmxc/gpt_decided_to_give_me_the_finger_and_stop_giving/</link>
-      <description><![CDATA[在我有机会单击它提供的链接并下载我正在开发的内容的最终版本之前，我必须离开，该版本现在给出了消息已过期。我告诉它重新生成文件，但每次分析时都会出错。  我在新的聊天中复制/粘贴了相同的提示，认为它会给出完全相同的响应，所以没什么大不了的。令人惊讶的是，现在完全不同了，它的行为就像是联邦雇员而不是私营企业。它只是告诉我如何制作电子表格和类别等等，但不会像以前那样为我做。  这很重要，因为我实际上是在为感兴趣的主要主题提供 GPT 提示，并且它会自动在其制作的模板中查找每个类别的信息并填写信息。太令人兴奋了，我拍下了聊天截图。  现在我只需要手指，它就可以尽可能少地工作。发生了什么？   由   提交/u/Shrinkographer2016   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cprmxc/gpt_decided_to_give_me_the_finger_and_stop_giving/</guid>
-      <pubDate>Sat, 11 May 2024 21:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于图像和视频创建的人工智能软件 - 最好的</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cprkif/ai_softwares_for_image_video_creation_best_of_best/</link>
-      <description><![CDATA[最好的图像和视频创作人工智能软件是什么。我想要一些可以创建图像的东西，但后来又为我创建了相同图像的营销视频和一些海报等并写下来。  最好的软件是什么 - 免费还是付费   由   提交 /u/Leather-Wheel1115    reddit.com/r/ChatGPT/comments/1cprkif/ai_softwares_for_image_video_creation_best_of_best/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cprkif/ai_softwares_for_image_video_creation_best_of_best/</guid>
-      <pubDate>Sat, 11 May 2024 21:22:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
