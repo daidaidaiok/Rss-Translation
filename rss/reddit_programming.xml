@@ -4,13 +4,62 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 13 May 2024 09:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 12:07:52 GMT</lastBuildDate>
     <item>
-      <title>如果开发人员不愿意，就停止强迫他们设定目标和成长</title>
-      <link>https://www.reddit.com/r/programming/comments/1cqu23o/stop_forcing_developers_to_set_goals_and_grow_if/</link>
-      <description><![CDATA[ 由   提交/u/dmp0x7c5  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cqu23o/stop_forcing_developers_to_set_goals_and_grow_if/</guid>
-      <pubDate>Mon, 13 May 2024 08:10:54 GMT</pubDate>
+      <title>只需 5 分钟即可为您的项目打造文档 QA 助理！</title>
+      <link>https://www.reddit.com/r/programming/comments/1cqxnus/craft_a_document_qa_assistant_for_your_project_in/</link>
+      <description><![CDATA[ 由   提交/u/Zheng_SJ  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cqxnus/craft_a_document_qa_assistant_for_your_project_in/</guid>
+      <pubDate>Mon, 13 May 2024 12:06:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>编码挑战 - Apple 推出 M4 芯片</title>
+      <link>https://www.reddit.com/r/programming/comments/1cqxja5/coding_challenge_apple_introduces_m4_chip/</link>
+      <description><![CDATA[ 由   提交/u/curious_drive  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cqxja5/coding_challenge_apple_introduces_m4_chip/</guid>
+      <pubDate>Mon, 13 May 2024 12:00:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>用 400 行代码构建您自己的 React.js</title>
+      <link>https://www.reddit.com/r/programming/comments/1cqxhyo/build_your_own_reactjs_in_400_lines_of_code/</link>
+      <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cqxhyo/build_your_own_reactjs_in_400_lines_of_code/</guid>
+      <pubDate>Mon, 13 May 2024 11:58:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>您错过的最新 Docker BuildKit 功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1cqwpr9/recent_docker_buildkit_features_youre_missing_out/</link>
+      <description><![CDATA[ 由   提交 /u/Am4t3uR   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cqwpr9/recent_docker_buildkit_features_youre_missing_out/</guid>
+      <pubDate>Mon, 13 May 2024 11:13:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>色郎！一种（稍微）新的表示 RGBA 颜色的方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1cqwm1e/colorang_a_slightly_new_way_to_represent_rgba/</link>
+      <description><![CDATA[ 由   提交/u/Rupour  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cqwm1e/colorang_a_slightly_new_way_to_represent_rgba/</guid>
+      <pubDate>Mon, 13 May 2024 11:07:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>当无法进行主干时：遇到寿命较短的分支</title>
+      <link>https://www.reddit.com/r/programming/comments/1cqvwl6/when_cant_trunk_meet_shortliving_branches/</link>
+      <description><![CDATA[ 由   提交/u/meaboutsoftware  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cqvwl6/when_cant_trunk_meet_shortliving_branches/</guid>
+      <pubDate>Mon, 13 May 2024 10:24:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Tailwind CSS 和 JavaScript 创建交互式定价表</title>
+      <link>https://www.reddit.com/r/programming/comments/1cqv070/how_to_create_an_interactive_pricing_table_with/</link>
+      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cqv070/how_to_create_an_interactive_pricing_table_with/</guid>
+      <pubDate>Mon, 13 May 2024 09:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何认识工程师的潜力</title>
+      <link>https://www.reddit.com/r/programming/comments/1cquwit/how_to_recognize_the_potential_in_engineers/</link>
+      <description><![CDATA[ 由   提交/u/gregorojstersek  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cquwit/how_to_recognize_the_potential_in_engineers/</guid>
+      <pubDate>Mon, 13 May 2024 09:14:24 GMT</pubDate>
     </item>
     <item>
       <title>请帮我解决这个错误该怎么办？？？</title>
@@ -60,55 +109,6 @@
       <description><![CDATA[我一直在尝试在 python 中实现以下存储库，但我遇到了许多功能依赖错误，如果有人可以帮助我进行转换我将不胜感激，谢谢！   由   提交 /u/Wheresthelambsauce_9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cqq20r/any_matlab_experts_please_help/</guid>
       <pubDate>Mon, 13 May 2024 03:48:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为我的操作系统制作了一个文件压缩器</title>
-      <link>https://www.reddit.com/r/programming/comments/1cqpd7q/i_made_a_file_compressor_for_my_operating_system/</link>
-      <description><![CDATA[它没有在我的操作系统上运行，我的开发环境是 nix，直到我的操作系统可以构建并运行 vsvodium lol My os 仅是 zig，没有 gcc，这对大多数构建脚本来说意味着不行，但我可以制作自己的    由   提交 /u/ProgrammingAllar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cqpd7q/i_made_a_file_compressor_for_my_operating_system/</guid>
-      <pubDate>Mon, 13 May 2024 03:09:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于制作app的问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1cqp229/question_about_making_an_app/</link>
-      <description><![CDATA[我想制作一个免费的应用程序并将其放在 App Store 上。该应用程序将简单地使用推送通知来更新已发布的新博客上的用户，以便他们可以查看。我计划从官方网站上抓取新发布的博客并将故事放入应用程序中。做事有什么限制吗？或者我是否必须提及我正在使用特定网站的信息来获取此信息？   由   提交/u/babuscool  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cqp229/question_about_making_an_app/</guid>
-      <pubDate>Mon, 13 May 2024 02:52:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scratch - 想象、编程、分享</title>
-      <link>https://www.reddit.com/r/programming/comments/1cqnmpd/scratch_imagine_program_share/</link>
-      <description><![CDATA[...   由   提交/u/luisifm  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cqnmpd/scratch_imagine_program_share/</guid>
-      <pubDate>Mon, 13 May 2024 01:37:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>WinDbg 时间旅行调试器是神奇的魔法</title>
-      <link>https://www.reddit.com/r/programming/comments/1cqnfiz/windbg_time_traveling_debugger_is_amazing_magic/</link>
-      <description><![CDATA[ 由   提交/u/NX18  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cqnfiz/windbg_time_traveling_debugger_is_amazing_magic/</guid>
-      <pubDate>Mon, 13 May 2024 01:27:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>“无聊”代码的力量</title>
-      <link>https://www.reddit.com/r/programming/comments/1cqn44g/the_power_of_boring_code/</link>
-      <description><![CDATA[ 由   提交/u/palettecat  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cqn44g/the_power_of_boring_code/</guid>
-      <pubDate>Mon, 13 May 2024 01:10:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>替代实施问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1cqlhbz/the_alternative_implementation_problem/</link>
-      <description><![CDATA[ 由   提交/u/Davester47  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cqlhbz/the_alternative_implementation_problem/</guid>
-      <pubDate>Sun, 12 May 2024 23:46:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>跟踪测试覆盖率</title>
-      <link>https://www.reddit.com/r/programming/comments/1cqhzoo/test_coverage_with_tracing/</link>
-      <description><![CDATA[ 由   提交/u/congolomera  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cqhzoo/test_coverage_with_tracing/</guid>
-      <pubDate>Sun, 12 May 2024 21:03:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
