@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 12 May 2024 21:08:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 00:19:29 GMT</lastBuildDate>
+    <item>
+      <title>需要有关移动按钮的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqj3zg/need_help_with_moving_buttons/</link>
+      <description><![CDATA[嗨，我遇到了此页面响应能力的问题，我似乎无法弄清楚为什么一切都移动得这么厉害。任何帮助将非常感激。    由   提交/u/gggggpedws  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqj3zg/need_help_with_moving_buttons/</guid>
+      <pubDate>Sun, 12 May 2024 21:54:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作一个看起来整洁的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqi4sn/making_a_website_that_looks_neat/</link>
+      <description><![CDATA[大家好！我从来都不是一个网络开发者，但我做过各种电子项目。我想制作一个网站来展示我已完成的一些项目，并且看起来不错甚至是独特的。我知道如何使用 HTML/CSS/Bootstrap 和后端框架，只是不知道如何让网站看起来漂亮。我想要一些好的资源，甚至是我可以使用的其他工具。    由   提交/u/ronnyjordeen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqi4sn/making_a_website_that_looks_neat/</guid>
+      <pubDate>Sun, 12 May 2024 21:10:17 GMT</pubDate>
+    </item>
     <item>
       <title>免费构建以添加到简历</title>
       <link>https://www.reddit.com/r/webdev/comments/1cqi2ud/building_for_free_to_add_to_resume/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[https://imgur.com/a/7R6UM13   由   提交 /u/forkeverything   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cqae3v/i_made_an_ai_project_managerbut_accidentally/</guid>
       <pubDate>Sun, 12 May 2024 15:27:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>影响OpenAI - 堆栈内存溢出</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cq8b90/effect_openai_stack_overflow_questions/</link>
-      <description><![CDATA[      我今天观察到，Copilot 和 ChatGPT 等工具似乎对使用 Python、R 和JavaScript。然而，对于使用 Java、C#、C++、Rust 和 Go 的用户来说，该平台的使用似乎几乎没有影响。  您认为为什么会出现这种情况？ 参考链接   由   提交/u/jonnekleijer  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cq8b90/effect_openai_stack_overflow_questions/</guid>
-      <pubDate>Sun, 12 May 2024 13:50:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何解决汉堡菜单不全屏的问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cq8awv/how_to_fix_burger_menu_not_taking_full_screen/</link>
-      <description><![CDATA[       由   提交/u/fuck-pmo   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cq8awv/how_to_fix_burger_menu_not_taking_full_screen/</guid>
-      <pubDate>Sun, 12 May 2024 13:50:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
