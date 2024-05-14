@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 14 May 2024 12:08:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 15:06:54 GMT</lastBuildDate>
+    <item>
+      <title>我们如何通过 Kubernetes 大规模部署低成本开源 AI 技术，节省数十数千美元</title>
+      <link>https://www.reddit.com/r/programming/comments/1crucoc/how_we_saved_10s_of_thousands_of_dollars/</link>
+      <description><![CDATA[ 由   提交/u/jpmmcb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1crucoc/how_we_saved_10s_of_thousands_of_dollars/</guid>
+      <pubDate>Tue, 14 May 2024 15:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们正在不到 20 分钟的时间内构建一个股票价格预测 Python 仪表板</title>
+      <link>https://www.reddit.com/r/programming/comments/1cru29j/were_building_a_stock_price_prevision_python/</link>
+      <description><![CDATA[ 由   提交/u/amimiath   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cru29j/were_building_a_stock_price_prevision_python/</guid>
+      <pubDate>Tue, 14 May 2024 14:51:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了我的第一个高级作品集！任何反馈都将被采纳！</title>
+      <link>https://www.reddit.com/r/programming/comments/1crtyoo/i_created_my_first_advanced_portfolio_any/</link>
+      <description><![CDATA[ 由   提交/u/yret1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1crtyoo/i_created_my_first_advanced_portfolio_any/</guid>
+      <pubDate>Tue, 14 May 2024 14:47:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>从扫描的书籍中提取单词：使用 Python 和 OpenCV 的分步教程</title>
+      <link>https://www.reddit.com/r/programming/comments/1crt9dd/extracting_words_from_scanned_books_a_stepbystep/</link>
+      <description><![CDATA[ 由   提交 /u/Feitgemel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1crt9dd/extracting_words_from_scanned_books_a_stepbystep/</guid>
+      <pubDate>Tue, 14 May 2024 14:16:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>声明式 GUI Slint v1.6 发布，带有设计模式 (WYSIWYG) 改进</title>
+      <link>https://www.reddit.com/r/programming/comments/1crsjlc/declarative_gui_slint_v16_released_with_design/</link>
+      <description><![CDATA[ 由   提交/u/madnirua  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1crsjlc/declarative_gui_slint_v16_released_with_design/</guid>
+      <pubDate>Tue, 14 May 2024 13:45:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过形式验证增强对 WebAssembly 代码的信心</title>
+      <link>https://www.reddit.com/r/programming/comments/1crqj7r/increasing_confidence_in_webassembly_code_with/</link>
+      <description><![CDATA[ 由   提交/u/jleitgeb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1crqj7r/increasing_confidence_in_webassembly_code_with/</guid>
+      <pubDate>Tue, 14 May 2024 12:08:21 GMT</pubDate>
+    </item>
     <item>
       <title>更高的 RAII，以及线性类型的七种神秘用途</title>
       <link>https://www.reddit.com/r/programming/comments/1crqi4e/higher_raii_and_the_seven_arcane_uses_of_linear/</link>
@@ -25,13 +67,6 @@
       <description><![CDATA[ 由   提交/u/congolomera  [链接]&lt; /跨度&gt;   [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1crpf85/resuming_change_data_capture_cdc_using_mongodb/</guid>
       <pubDate>Tue, 14 May 2024 11:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>用 400 行代码构建您自己的 React.js</title>
-      <link>https://www.reddit.com/r/programming/comments/1crp45q/build_your_own_reactjs_in_400_lines_of_code/</link>
-      <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1crp45q/build_your_own_reactjs_in_400_lines_of_code/</guid>
-      <pubDate>Tue, 14 May 2024 10:46:30 GMT</pubDate>
     </item>
     <item>
       <title>Screeps 中的自动化基地规划 – 带代码的分步指南</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/marbehl  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1crmnzn/docker_images_finally_understandable/</guid>
       <pubDate>Tue, 14 May 2024 07:53:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Tailwind CSS 和 JavaScript 创建滚动动画导航</title>
-      <link>https://www.reddit.com/r/programming/comments/1crmbdu/how_to_create_an_animated_navigation_on_scroll/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1crmbdu/how_to_create_an_animated_navigation_on_scroll/</guid>
-      <pubDate>Tue, 14 May 2024 07:27:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>再见奥帕姆，你好尼克斯</title>
-      <link>https://www.reddit.com/r/programming/comments/1crm46l/bye_opam_hello_nix/</link>
-      <description><![CDATA[ 由   提交/u/Privann   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1crm46l/bye_opam_hello_nix/</guid>
-      <pubDate>Tue, 14 May 2024 07:12:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Godot 中编程 - GDScript 教程</title>
-      <link>https://www.reddit.com/r/programming/comments/1crl7k0/how_to_program_in_godot_gdscript_tutorial/</link>
-      <description><![CDATA[ 由   提交/u/mariuz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1crl7k0/how_to_program_in_godot_gdscript_tutorial/</guid>
-      <pubDate>Tue, 14 May 2024 06:09:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>今年谁将参加 HackFS 2024？</title>
-      <link>https://www.reddit.com/r/programming/comments/1crj3d3/whos_joining_hackfs_2024_this_year/</link>
-      <description><![CDATA[ 由   提交/u/Noirkat76   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1crj3d3/whos_joining_hackfs_2024_this_year/</guid>
-      <pubDate>Tue, 14 May 2024 03:59:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>隆重推出 🥁 新的 Bitbucket 拉取请求体验</title>
-      <link>https://www.reddit.com/r/programming/comments/1crio7m/introducing_a_new_bitbucket_pull_request/</link>
-      <description><![CDATA[ 由   提交/u/daigoba66  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1crio7m/introducing_a_new_bitbucket_pull_request/</guid>
-      <pubDate>Tue, 14 May 2024 03:35:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
