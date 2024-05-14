@@ -4,20 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 14 May 2024 00:17:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 03:06:41 GMT</lastBuildDate>
+    <item>
+      <title>用 HTML 和 CSS 重写您的简历</title>
+      <link>https://www.reddit.com/r/programming/comments/1cri0a0/rewrite_your_resume_in_html_and_css/</link>
+      <description><![CDATA[ 由   提交 /u/Normal-Estimate-4752   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cri0a0/rewrite_your_resume_in_html_and_css/</guid>
+      <pubDate>Tue, 14 May 2024 02:59:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一个计算机程序 – ACM 通信</title>
+      <link>https://www.reddit.com/r/programming/comments/1crf2ox/the_first_computer_program_communications_of_the/</link>
+      <description><![CDATA[ 由   提交/u/moontoadzzz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1crf2ox/the_first_computer_program_communications_of_the/</guid>
+      <pubDate>Tue, 14 May 2024 00:31:26 GMT</pubDate>
+    </item>
     <item>
       <title>DOS游戏《F-15 Strike Eagle II》逆向工程/重建战争故事 - Ghidra 来救援</title>
       <link>https://www.reddit.com/r/programming/comments/1crelua/dos_game_f15_strike_eagle_ii_reverse/</link>
       <description><![CDATA[这篇文章是系列文章的一部分 关于 Neuvieme Porte 的一个业余爱好项目的主题，该项目正在为 1989 年的游戏重新创建 C 源代码 F-15 Strike Eagle II 通过对原始二进制文件进行逆向工程。   由   提交/u/NXGZ   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1crelua/dos_game_f15_strike_eagle_ii_reverse/</guid>
       <pubDate>Tue, 14 May 2024 00:08:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>算法节奏</title>
-      <link>https://www.reddit.com/r/programming/comments/1crej56/algorhythm/</link>
-      <description><![CDATA[ 由   提交/u/paki4lyf3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1crej56/algorhythm/</guid>
-      <pubDate>Tue, 14 May 2024 00:04:29 GMT</pubDate>
     </item>
     <item>
       <title>openapic：让 openapi-generator 更像 protoc 的提案</title>
@@ -32,13 +39,6 @@
       <description><![CDATA[ 由   提交/u/help-me-grow  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1crdv1z/11_ways_to_mix_and_match_tools_to_build_ai_agents/</guid>
       <pubDate>Mon, 13 May 2024 23:32:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>解决 SELECT N+1 问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1crd2hc/solving_the_select_n1_problem/</link>
-      <description><![CDATA[ 由   提交/u/dhlowrents  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1crd2hc/solving_the_select_n1_problem/</guid>
-      <pubDate>Mon, 13 May 2024 22:57:03 GMT</pubDate>
     </item>
     <item>
       <title>我们很高兴地宣布 .NET 9 Preview 3 发布。 · 问题 #9305 · dotnet/core</title>
