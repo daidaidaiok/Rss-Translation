@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 14 May 2024 21:05:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 00:18:14 GMT</lastBuildDate>
+    <item>
+      <title>用两种不同声音转录音频文件的最佳软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1cs6914/best_software_to_transcribe_an_audio_file_with/</link>
+      <description><![CDATA[我为学校项目进行了面试，但我的老师需要成绩单。这是一个大约 50 分钟的文件，我想知道是否有转录器可以分成两个声音，这样我就可以为每个声音分配相似的名称。  我可以使用 Mac 和 iPhone   由   提交 /u/okrdokr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cs6914/best_software_to_transcribe_an_audio_file_with/</guid>
+      <pubDate>Tue, 14 May 2024 23:18:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>史上最奇怪的问题：Google Chrome 按下 RCtrl 按钮时触发麦克风</title>
+      <link>https://www.reddit.com/r/software/comments/1cs4kkn/the_strangest_problem_in_history_the_microphone/</link>
+      <description><![CDATA[这非常非常奇怪 当我按下键盘上的 RCtrl 按钮时，请求激活该站点的麦克风将弹出（下图） https://i.imgur.com/IE0cAoP.png LCtrl 没有这个问题 每个网站都存在这个问题 Microsoft Edge 中不存在这个问题 我杀掉所有程序并再次测试，问题依然存在 操作系统：Windows 10 Google Chrome 始终更新 &lt;!-- SC_ON - -&gt;  由   提交/u/Xtruth369  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cs4kkn/the_strangest_problem_in_history_the_microphone/</guid>
+      <pubDate>Tue, 14 May 2024 22:04:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>音乐分类器和欺骗去除器？</title>
+      <link>https://www.reddit.com/r/software/comments/1cs4eam/music_sorter_and_dupe_remover/</link>
+      <description><![CDATA[我这些年来收藏的音乐刚刚超过 120 GB，其中很多是从当时已经废弃的 iPod 中提取的，如果您&#39;如果你见过他们如何处理音乐文件，你就会明白（这些文件被放置在随机命名的文件夹中，然后给出随机名称，就像在文件夹 HSCY 中，文件是 RDYF.mp3 一样）。我的大部分曲目都是这样，甚至有些有重复。我正在尝试找到一个软件（如果存在）可以删除重复项，将它们分类到艺术家的文件夹中。如果它在艺术家文件夹中也有专辑文件夹，那就太棒了，但我希望可以从那里进行排序。 我的主要目标是从我的主电脑上获取所有这些内容，将其放在我的 Plex 服务器上，以便随时随地进行流式传输。  我可以访问 Windows、Android 和 Linux，并且可以将文件移动到任何平台上进行排序（如果该平台上有软件）。    由   提交/u/zakky12  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cs4eam/music_sorter_and_dupe_remover/</guid>
+      <pubDate>Tue, 14 May 2024 21:57:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找免费投票网站</title>
+      <link>https://www.reddit.com/r/software/comments/1cs39fb/looking_for_a_free_polling_website/</link>
+      <description><![CDATA[大家好！ 我需要为我的部门进行一次代表投票，这次投票我需要以下东西：  我有大约 400 个特定电子邮件地址，他们可能是唯一允许填写表单的人 此后的投票需要完全匿名 每个人都必须投票给三分之二的候选人（不能多也不能少），并且需要确保这一点  我知道我们有谷歌表单，但据我所知，谷歌表单不允许您限制表单说出特定的电子邮件，而只提供将其限制在或在域/组织之外。    由   提交 /u/Cinnabonbutterfly03   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cs39fb/looking_for_a_free_polling_website/</guid>
+      <pubDate>Tue, 14 May 2024 21:08:54 GMT</pubDate>
+    </item>
     <item>
       <title>自动点击软件/程序</title>
       <link>https://www.reddit.com/r/software/comments/1crzr03/automatic_clicking_software_program/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我不知道为什么 VLC 无法播放我的某些 DVD。还有其他我可以使用的软件吗？   由   提交 /u/Safe_Mousse_5660   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1criooo/any_dvd_player_recommendation_other_than_vlc/</guid>
       <pubDate>Tue, 14 May 2024 03:35:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于从选定程序中隐藏选定麦克风的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1crhr7f/software_to_hide_a_selected_mic_from_selected/</link>
-      <description><![CDATA[有时我的蓝牙音频设备会断开连接，因为它们有内置麦克风，不和谐会回退到我的采集卡的音频，因为它被设计为可被检测到作为麦克风输入。这最终会导致通话中的任何人无缘无故地听到我的游戏，所以我想阻止不和谐使用那个“麦克风”。但不会阻止我的电脑的其余部分这样做，因为我将它用于 OBS。理想情况下想要免费的东西，但我也愿意研究 5-20 美元范围内的东西，只要已知任何付费选项都可以工作并得到更新（即使只是偶尔一次）。   由   提交/u/Kairi5431  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1crhr7f/software_to_hide_a_selected_mic_from_selected/</guid>
-      <pubDate>Tue, 14 May 2024 02:46:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是一个可行的项目吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1crhl7d/is_this_a_doable_project/</link>
-      <description><![CDATA[所以我对软件开发什么的一无所知。但我想制作自己的基于 Linux 的数字音频播放器。  有人告诉我，这项工作更多地基于软件，所以我来这里寻求一些建议。  我正在考虑购买一个带有 wifi 和蓝牙的 reto 手持设备并尝试使用它，而不是购买单独的硬件组件。  我的想法合乎逻辑吗？可以做吗？我应该从哪里开始？  我不想购买手持设备，然后发现我对整个事情的看法都错了。    由   提交/u/Visual_Way7416   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1crhl7d/is_this_a_doable_project/</guid>
-      <pubDate>Tue, 14 May 2024 02:37:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>有这样的宏录制器吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1crhfk1/are_there_macro_recorders_that_are_like_this/</link>
-      <description><![CDATA[嗨，我正在尝试为 Minecraft 寻找一个宏录制器。每当我使用 Pulover 或 TinyTask 之类的东西时，鼠标播放速度都非常慢，并且与我记录的内容不准确。我相信这是因为它们会读取你的鼠标在屏幕上的坐标，而《我的世界》的屏幕始终居中于中间，因此一切都会变得不稳定。如有任何帮助，我们将不胜感激，谢谢！   由   提交 /u/sand_jpg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1crhfk1/are_there_macro_recorders_that_are_like_this/</guid>
-      <pubDate>Tue, 14 May 2024 02:29:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>右键单击 Shell 扩展将 m4a 转换为 mp4？</title>
-      <link>https://www.reddit.com/r/software/comments/1crg3j9/right_click_shell_extension_to_convert_m4a_to_mp4/</link>
-      <description><![CDATA[是的，这是 M4A 到 MP4，而不是 mp3。原因是有时我想将音频文件上传到 YouTube，但他们只接受视频文件。我想要一个简单的方法，它有一个 shell 扩展，供我右键单击并打开它。立即转换文件。开源是一个巨大的优势。  有什么建议吗？    由   提交/u/milkygirl21  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1crg3j9/right_click_shell_extension_to_convert_m4a_to_mp4/</guid>
-      <pubDate>Tue, 14 May 2024 01:21:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

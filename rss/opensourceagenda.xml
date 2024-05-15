@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Tue, 14 May 2024 21:06:35 GMT</lastBuildDate>
-    <item>
-      <title>C64 创艾</title>
-      <link>https://www.opensourceagenda.com/projects/c64-gen-ai</link>
-      <description><![CDATA[利用生成式 AI 在 Commodore 64 上制作创意复古游戏精灵。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/c64-gen-ai</guid>
-      <pubDate>Tue, 14 May 2024 21:06:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gpt代币</title>
-      <link>https://www.opensourceagenda.com/projects/gpt-tokens</link>
-      <description><![CDATA[在 tiktoken 中学到了什么？]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gpt-tokens</guid>
-      <pubDate>Tue, 14 May 2024 21:06:34 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 May 2024 00:19:04 GMT</lastBuildDate>
     <item>
       <title>Duix.ai</title>
       <link>https://www.opensourceagenda.com/projects/duixai</link>
       <description><![CDATA[适用于边缘设备（android/ios/etc.）的离线 2d 数字人体演示]]></description>
       <guid>https://www.opensourceagenda.com/projects/duixai</guid>
-      <pubDate>Tue, 14 May 2024 21:06:33 GMT</pubDate>
+      <pubDate>Wed, 15 May 2024 00:19:03 GMT</pubDate>
     </item>
     <item>
       <title>男性AI</title>
       <link>https://www.opensourceagenda.com/projects/meeseeksai</link>
       <description><![CDATA[使用美人鱼图编排 AI 代理的框架]]></description>
       <guid>https://www.opensourceagenda.com/projects/meeseeksai</guid>
-      <pubDate>Tue, 14 May 2024 21:06:33 GMT</pubDate>
+      <pubDate>Wed, 15 May 2024 00:19:03 GMT</pubDate>
     </item>
     <item>
-      <title>乔萨迪兰特冰山</title>
-      <link>https://www.opensourceagenda.com/projects/josadillangt-iceberg</link>
-      <description><![CDATA[是一种更“新鲜”的 Tapal，仅存在五天。其界面与广受好评的 Blum 极其相似，游戏玩法也非常相似。主要区别只有两点：每 6 小时可以收集一次金币，推荐系统不限于 5 人。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/josadillangt-iceberg</guid>
-      <pubDate>Tue, 14 May 2024 21:06:32 GMT</pubDate>
+      <title>C64 创艾</title>
+      <link>https://www.opensourceagenda.com/projects/c64-gen-ai</link>
+      <description><![CDATA[利用生成式 AI 在 Commodore 64 上制作创意复古游戏精灵。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/c64-gen-ai</guid>
+      <pubDate>Wed, 15 May 2024 00:19:03 GMT</pubDate>
     </item>
     <item>
-      <title>乌布罗赛·艾特</title>
-      <link>https://www.opensourceagenda.com/projects/upbrosai-ait</link>
-      <description><![CDATA[引入“ait”、“aiself”和“aits”——人工智能系统的新代词。该存储库提供了定义和示例，以促进它们在人工智能方面的使用。欢迎贡献和多语言版本。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/upbrosai-ait</guid>
-      <pubDate>Tue, 14 May 2024 21:06:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>作我数据集</title>
-      <link>https://www.opensourceagenda.com/projects/sakugadataset</link>
-      <description><![CDATA[Sakuga-42M 数据集官方存储库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sakugadataset</guid>
-      <pubDate>Tue, 14 May 2024 21:06:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>医学博士</title>
-      <link>https://www.opensourceagenda.com/projects/apl-md</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/apl-md</guid>
-      <pubDate>Tue, 14 May 2024 21:06:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>1982 Adob​​e Photoshop</title>
-      <link>https://www.opensourceagenda.com/projects/ispetate1982-adobe-photoshop</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ispetate1982-adobe-photoshop</guid>
-      <pubDate>Tue, 14 May 2024 21:06:30 GMT</pubDate>
+      <title>Gpt代币</title>
+      <link>https://www.opensourceagenda.com/projects/gpt-tokens</link>
+      <description><![CDATA[在 tiktoken 中学到了什么？]]></description>
+      <guid>https://www.opensourceagenda.com/projects/gpt-tokens</guid>
+      <pubDate>Wed, 15 May 2024 00:19:03 GMT</pubDate>
     </item>
     <item>
       <title>泽特</title>
       <link>https://www.opensourceagenda.com/projects/zett</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/zett</guid>
-      <pubDate>Tue, 14 May 2024 21:06:30 GMT</pubDate>
+      <pubDate>Wed, 15 May 2024 00:19:02 GMT</pubDate>
     </item>
     <item>
-      <title>新 FORTNI 真实</title>
-      <link>https://www.opensourceagenda.com/projects/newfortnitecht</link>
-      <description><![CDATA[fortnite fortnite-cheat fortnite-cheats fortnite-aim fortnite-aimbot fortnite-hack fortnite-hacks fortnite-esp fortnite-wallhack fortnite-wh fortnite-softaim cheat-fortnite cheats-fortnite hack-fortnite hacks-fortnite fortnite-free-hack fortnite-hack-aim fortnite-legit fortnite-rage]]></description>
-      <guid>https://www.opensourceagenda.com/projects/newfortnitecht</guid>
-      <pubDate>Tue, 14 May 2024 21:06:29 GMT</pubDate>
+      <title>作我数据集</title>
+      <link>https://www.opensourceagenda.com/projects/sakugadataset</link>
+      <description><![CDATA[Sakuga-42M 数据集官方存储库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sakugadataset</guid>
+      <pubDate>Wed, 15 May 2024 00:19:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>乔萨迪兰特冰山</title>
+      <link>https://www.opensourceagenda.com/projects/josadillangt-iceberg</link>
+      <description><![CDATA[是一种更“新鲜”的 Tapal，仅存在五天。其界面与广受好评的 Blum 极其相似，游戏玩法也非常相似。主要区别只有两点：每 6 小时可以收集一次金币，推荐系统不限于 5 人。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/josadillangt-iceberg</guid>
+      <pubDate>Wed, 15 May 2024 00:19:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌布罗赛·艾特</title>
+      <link>https://www.opensourceagenda.com/projects/upbrosai-ait</link>
+      <description><![CDATA[引入“ait”、“aiself”和“aits”——人工智能系统的新代词。该存储库提供了定义和示例，以促进它们在人工智能方面的使用。欢迎贡献和多语言版本。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/upbrosai-ait</guid>
+      <pubDate>Wed, 15 May 2024 00:19:02 GMT</pubDate>
     </item>
     <item>
       <title>新VALORANTcht</title>
       <link>https://www.opensourceagenda.com/projects/newvalorantcht</link>
       <description><![CDATA[valorant valorant-cheat valorant-cheats valorant-aim valorant-aimbot valorant-hack valorant-hacks valorant-esp valorant-wallhack valorant-wh valorant-softaim cheat-valorant cheats-valorant hack-valorant hacks-valorant valorant-free-hack valorant-hack-aim valorant-legit valorant-rage]]></description>
       <guid>https://www.opensourceagenda.com/projects/newvalorantcht</guid>
-      <pubDate>Tue, 14 May 2024 21:06:28 GMT</pubDate>
+      <pubDate>Wed, 15 May 2024 00:19:01 GMT</pubDate>
     </item>
     <item>
       <title>Vodalus 专家法学硕士锻造</title>
       <link>https://www.opensourceagenda.com/projects/vodalus-expert-llm-forge</link>
       <description><![CDATA[仅使用免费的开源工具进行数据集制作和高效微调]]></description>
       <guid>https://www.opensourceagenda.com/projects/vodalus-expert-llm-forge</guid>
-      <pubDate>Tue, 14 May 2024 21:06:28 GMT</pubDate>
+      <pubDate>Wed, 15 May 2024 00:19:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>新 FORTNI 真实</title>
+      <link>https://www.opensourceagenda.com/projects/newfortnitecht</link>
+      <description><![CDATA[fortnite fortnite-cheat fortnite-cheats fortnite-aim fortnite-aimbot fortnite-hack fortnite-hacks fortnite-esp fortnite-wallhack fortnite-wh fortnite-softaim cheat-fortnite cheats-fortnite hack-fortnite hacks-fortnite fortnite-free-hack fortnite-hack-aim fortnite-legit fortnite-rage]]></description>
+      <guid>https://www.opensourceagenda.com/projects/newfortnitecht</guid>
+      <pubDate>Wed, 15 May 2024 00:19:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>医学博士</title>
+      <link>https://www.opensourceagenda.com/projects/apl-md</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/apl-md</guid>
+      <pubDate>Wed, 15 May 2024 00:19:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>1982 Adob​​e Photoshop</title>
+      <link>https://www.opensourceagenda.com/projects/ispetate1982-adobe-photoshop</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ispetate1982-adobe-photoshop</guid>
+      <pubDate>Wed, 15 May 2024 00:19:01 GMT</pubDate>
     </item>
     <item>
       <title>Zahyan4okArcher ETH 套利 MEV BOT</title>
       <link>https://www.opensourceagenda.com/projects/zahyan4okarcher-eth-arbitrage-mev-bot</link>
       <description><![CDATA[被动收入 –.mevbot.œ.快速内存池扫描和利润通过三明治攻击提取。]]></description>
       <guid>https://www.opensourceagenda.com/projects/zahyan4okarcher-eth-arbitrage-mev-bot</guid>
-      <pubDate>Tue, 14 May 2024 21:06:27 GMT</pubDate>
+      <pubDate>Wed, 15 May 2024 00:19:00 GMT</pubDate>
     </item>
     <item>
       <title>龙卷风现金重新托管</title>
       <link>https://www.opensourceagenda.com/projects/tornado-cash-rehosted</link>
       <description><![CDATA[Tornado cash 现已重新托管在tornadoash.exchange 上]]></description>
       <guid>https://www.opensourceagenda.com/projects/tornado-cash-rehosted</guid>
-      <pubDate>Tue, 14 May 2024 21:06:27 GMT</pubDate>
+      <pubDate>Wed, 15 May 2024 00:19:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
