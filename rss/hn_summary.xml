@@ -4,97 +4,94 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 15 May 2024 00:15:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 03:02:24 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 标题：SynthID：识别人工智能生成的内容</title>
-      <link>https://t.me/hn_summary/89613</link>
-      <description><![CDATA[SynthID：识别人工智能生成的内容
-标题：SynthID：识别人工智能生成的内容
+      <title>[媒体]一种罕见且致命的自身免疫性疾病，抗 MDA5 阳性皮肌炎，正在研究中 [...]</title>
+      <link>https://t.me/hn_summary/89630</link>
+      <description><![CDATA[出现了一种可能致命的新冠病毒相关综合症 
+抗 MDA5 阳性皮肌炎是一种罕见且致命的自身免疫性疾病，在英格兰北部呈上升趋势，可能与 COVID-19 有关。这种疾病以前主要在亚洲人群中观察到，现在正在影响约克郡的白人居民。它由攻击 MDA5 酶的抗体触发，导致进行性间质性肺疾病。 2020 年至 2022 年间，约克郡出现 60 例病例，造成 8 人死亡。研究人员指出，这种激增与 COVID-19 的主要浪潮同时发生，这表明该疾病出现了一种新形式，称为 MIP-C。令人惊讶的是，只有 8 名患者的 COVID-19 检测结果呈阳性，这意味着无症状感染可能引发这种疾病。该研究发表在《eBioMedicine》上，表明这种现象可能是全球性的。]]></description>
+      <guid>https://t.me/hn_summary/89630</guid>
+      <pubDate>Wed, 15 May 2024 03:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]当局是如何识别涉嫌Lockbit老板的？</title>
+      <link>https://t.me/hn_summary/89629</link>
+      <description><![CDATA[当局如何识别涉嫌的 Lockbit 老板？&lt; br/&gt;
+上周，美国、英国和澳大利亚制裁并指控俄罗斯男子德米特里·尤里耶维奇·霍罗舍夫 (Dmitry Yuryevich Khoroshev) 为臭名昭著的 LockBit 勒索软件组织的领导者。然而，LockBit 的所谓领导人“LockBitSupp”声称当局抓错人了，并对将霍罗舍夫与犯罪联系起来的证据提出质疑。这篇文章深入探讨了霍罗舍夫以各种化名在网络犯罪论坛上的活动，追溯了他 14 年的恶意软件开发生涯。美国司法部起诉霍罗舍夫 26 项罪名，指控他个人勒索超过 1 亿美元，LockBit 在四年内勒索约 5 亿美元。调查显示，霍罗舍夫参与了勒索软件即服务运营，他保留了 20% 的赎金，其余的则交给了关联公司。他的各种在线身份，包括“NeroWolfe”和“Putinkrab”，显示了复杂的恶意软件开发和网络犯罪的历史。尽管他的身份存在争议，但有证据表明他深度参与了勒索软件活动。 （根据 87% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/89629</guid>
+      <pubDate>Wed, 15 May 2024 02:36:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 题为“多模态神经网络收敛到 [...] 的共享统计模型的论文</title>
+      <link>https://t.me/hn_summary/89628</link>
+      <description><![CDATA[多模态神经网络收敛到现实的共享统计模型
+题为“多模态神经网络收敛到现实的共享统计模型”的论文，可在 arxiv.org，探讨了在不同类型的数据（例如文本、图像、音频）上训练的神经网络如何倾向于开发类似的世界内部表征。这种融合表明，这些网络正在利用现实的共享统计模型，无论其输入数据的形式如何。该研究的结果可能对开发更集成、更高效的人工智能系统产生重大影响。这项研究的一个令人惊讶的方面是这些不同的神经网络在其内部表示中的对齐程度，暗示了各种形式数据背后的通用结构。]]></description>
+      <guid>https://t.me/hn_summary/89628</guid>
+      <pubDate>Wed, 15 May 2024 02:35:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 有抱负的作家 K.</title>
+      <link>https://t.me/hn_summary/89627</link>
+      <description><![CDATA[爱情小说作者因“不当”内容而被禁止访问 Google 文档&lt; /a&gt;
+在该平台将她的曲棍球浪漫内容标记为“不适当”后，有抱负的作家 K. Renee 被锁定在她的 Google Docs 帐户之外。 Renee 在 Google Docs 上存储了超过 222,000 个单词，她发现自己无法分享自己的作品，现有的协作者也失去了访问权限。蕾妮将她的作品描述为“开放式香料”（露骨内容），她认为她的作品应该属于谷歌服务条款中的艺术例外。这个问题并不是孤立的；奇幻浪漫小说作家考特尼·威姆斯也面临着类似的封锁，据称是因为垃圾邮件，但她否认了这一点。此类事件与过去发生的事件相呼应，例如 2017 年，当时用户被错误地锁定，无法访问其内容。争议在于 Google 对其政策的执行不一致，引发了人们对其产品未来对露骨内容作者的可用性的担忧。]]></description>
+      <guid>https://t.me/hn_summary/89627</guid>
+      <pubDate>Wed, 15 May 2024 02:33:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在谷歌的 I/O 大会上，这家科技巨头展示了其 Gemini AI 的功能，包括 [...]</title>
+      <link>https://t.me/hn_summary/89626</link>
+      <description><![CDATA[Google 的 Gemini 视频搜索在演示中出现事实错误&lt; br/&gt;
+在谷歌的 I/O 大会上，这家科技巨头展示了其 Gemini AI 的功能，包括视频搜索功能，允许用户通过视频剪辑进行语音搜索。然而，在演示过程中，Gemini 犯了一个重大的事实错误。当被问及为什么胶片相机的前进杆被卡住时，双子座建议“打开后门并轻轻取出胶片”，这一举动会因将胶片暴露在光线下而损坏胶片。这个错误让人想起之前的一次事件，谷歌的巴德聊天机器人错误地声称詹姆斯·韦伯太空望远镜是第一个拍摄系外行星的望远镜。这些错误凸显了人工智能准确性方面持续存在的问题。]]></description>
+      <guid>https://t.me/hn_summary/89626</guid>
+      <pubDate>Wed, 15 May 2024 01:42:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]英国佩米拉</title>
+      <link>https://t.me/hn_summary/89625</link>
+      <description><![CDATA[Permira 将以 6.6B 美元的交易将 Squarespace 私有化&lt; br/&gt;
+英国私募股权公司 Permira 将以价值 66 亿美元的全现金交易将 Squarespace 私有化，使该公司的企业估值达到 69 亿美元。 Squarespace 由首席执行官 Anthony Casalena 于 2004 年创立，以其无代码平台而闻名，该平台使中小企业和自由职业者能够创建网站、博客和在线商店。尽管IPO后股票表现不稳定，但由于强劲的盈利，该公司的市值已反弹至超过50亿美元。 Permira 每股 44 美元的报价比 Squarespace 最近的收盘价溢价 15%。值得注意的是，卡萨莱纳将继续担任首席执行官和主要股东。此次收购是 Thoma Bravo 和 Vista Equity 等私募股权公司在科技领域采取重大举措的更广泛趋势的一部分。鉴于 Permira 之前在网络安全和企业软件领域的收购，Permira 对消费级网站构建器 Squarespace 的兴趣是独一无二的。 Squarespace 最近对生成人工智能的投资以及超过 10 亿美元的年收入可能促成了 Permira 的决定。]]></description>
+      <guid>https://t.me/hn_summary/89625</guid>
+      <pubDate>Wed, 15 May 2024 01:36:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>标题：Gemini Nano 即将内置于 Chrome 126，由 WebGPU 提供支持</title>
+      <link>https://t.me/hn_summary/89624</link>
+      <description><![CDATA[Gemini Nano 即将内置于 Chrome 126，由 WebGPU 提供支持
+标题：Gemini Nano 即将内置于 Chrome 126，由 WebGPU 提供支持
 
-网站：deepmind.google
+网站：twitter.com
 
-SynthID 采用先进的深度学习模型和算法，在各种媒体类型（包括文本、音频、图像和视频）上添加水印并识别 AI 生成的内容。对于文本，SynthID 将水印集成到大型语言模型 (LLM) 的标记预测过程中，巧妙地调整概率分数，而不会影响质量或创造力。 2023 年 11 月，SynthID 通过 Lyria 模型扩展到人工智能生成的音乐水印，将听不见的水印嵌入到音频波形中。对于图像和视频，SynthID 将难以察觉的水印嵌入到像素或帧中，确保即使在修改后也可检测到。该技术可供 Vertex AI 客户使用，并集成到 Imagen 和 VideoFX 等工具中。用户可以通过搜索或 Chrome 中的“关于此图片”功能识别 AI 生成的内容。]]></description>
-      <guid>https://t.me/hn_summary/89613</guid>
-      <pubDate>Wed, 15 May 2024 00:15:14 GMT</pubDate>
+摘要：即将推出的 Chrome 126 将采用 Gemini Nano，直接集成到浏览器中并由 WebGPU 提供支持。这一进步有望增强图形性能和更高效的计算能力。我们鼓励用户启用 JavaScript 或切换到支持的浏览器以充分体验这些新功能。欲了解更多信息，请访问帮助中心。]]></description>
+      <guid>https://t.me/hn_summary/89624</guid>
+      <pubDate>Wed, 15 May 2024 01:34:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]保时捷全新升级计划 Macan EV 正式投产 [...]</title>
-      <link>https://t.me/hn_summary/89612</link>
-      <description><![CDATA[保时捷在新升级的工厂开始生产 Macan EV
-投资近 10 亿美元后，保时捷在德国萨克森州新升级的工厂正式开始生产 Macan EV。这标志着保时捷继 Taycan 后推出的第二款全电动汽车。莱比锡工厂现在拥有一条新的车身装配线，目标是到 2030 年实现碳中和资产负债表。Macan EV 提供 Macan 4 和 Macan Turbo 型号，拥有令人印象深刻的规格：Macan 4 提供 402 马力和 0-60英里/小时的时间为 4.9 秒，而 Turbo 型号可提供 630 马力和 3.1 秒的冲刺时间。两款车型均配备先进的信息娱乐系统，起价分别为 78,800 美元和 105,300 美元。目前已开始接受订单，预计将于今年下半年交付。值得注意的是，保时捷旨在通过在同一条生产线上生产汽油车、混合动力车和电动汽车来保持灵活性，这在行业中是一种独特的方法。]]></description>
-      <guid>https://t.me/hn_summary/89612</guid>
-      <pubDate>Wed, 15 May 2024 00:11:08 GMT</pubDate>
+      <title>[媒体]生成式人工智能正在彻底改变技术和业务效率，但它需要 si [...]</title>
+      <link>https://t.me/hn_summary/89623</link>
+      <description><![CDATA[Trillium，第六代 Google Cloud TPU&lt; br/&gt;
+生成式人工智能正在彻底改变技术和业务效率，但它需要大量的计算、内存和通信资源。十多年来，谷歌开发了定制的人工智能专用硬件、张量处理单元（TPU）来满足这些需求。在 Google I/O 大会上，我们推出了第六代 TPU Trillium，与 TPU v5e 相比，它的每芯片峰值计算性能提高了 4.7 倍。 Trillium 将高带宽内存 (HBM) 和芯片间互连 (ICI) 带宽提高了一倍，并具有适用于高级工作负载的第三代 SparseCore。令人印象深刻的是，Trillium 的能效比 TPU v5e 高出 67% 以上。它可以在一个 Pod 中扩展到 256 个 TPU，并连接超级计算机网络中的数万个芯片。这项创新将为下一波人工智能模型提供动力，让 Nuro、Deep Genomics 和德勤等公司受益。]]></description>
+      <guid>https://t.me/hn_summary/89623</guid>
+      <pubDate>Wed, 15 May 2024 01:29:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]容器很有趣，因为它们使简单的流程能够像虚拟机一样运行[...]</title>
-      <link>https://t.me/hn_summary/89611</link>
-      <description><![CDATA[了解容器镜像层
-容器很有趣，因为它们使简单的流程能够像虚拟机一样运行。该功能的核心在于容器镜像层，它存储和分发容器化文件系统的内容。使用 Dockerfile 构建映像时，每个命令都会创建一个新层，类似于保存修改文件的目录。例如，从 FROM scrap&gt; 开始创建一个空目录，后续命令在新目录中添加或修改文件。然后，这些层被压缩和共享，并删除未修改的文件以节省空间。一个独特的方面是使用“whiteout 文件”来指示删除。为正在运行的容器创建快照的过程涉及按顺序解压这些层，形成用作容器文件系统的已提交快照。层缓存和覆盖文件系统等优化进一步提高了效率。例如，Linux 中的覆盖文件系统会合并目录以反映更改，而无需复制文件，展示了容器化中本机操作系统功能的巧妙使用。这种分层方法不仅简化了存储，还实现了容器镜像的可重用性和高效分发。 （根据 98% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/89611</guid>
-      <pubDate>Wed, 15 May 2024 00:10:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 今天，我深入研究了使用依赖类型为 sprintf 函数提供类型。</title>
-      <link>https://t.me/hn_summary/89610</link>
-      <description><![CDATA[Sprintf的类型
-今天，我深入研究了使用依赖类型为 sprintf 函数提供类型。通常，sprintf 函数依赖格式字符串中的特殊模式来确定后续参数的类型，如果没有特殊情况，静态类型系统就无法处理这些参数。然而，依赖类型系统（例如 Agda 或 Idris 中的系统）允许我们在编译时解析格式字符串，并创建具有精确类型的函数，例如 sprintf。通过将字符串词法分析为标记并将这些标记转换为类型，我们可以构造一个类型安全的 sprintf 函数。这展示了依赖类型的强大功能，它可以处理细化类型无法处理的任务。虽然这个例子有些简化和未经优化，但它强调了依赖类型在编程和证明编写中的表达能力。有关更多详细信息，请查看此处的完整讨论。]]></description>
-      <guid>https://t.me/hn_summary/89610</guid>
-      <pubDate>Wed, 15 May 2024 00:09:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]据报道俄罗斯在英国声称拥有主权的南极领土发现了大量石油储量[...]</title>
-      <link>https://t.me/hn_summary/89609</link>
-      <description><![CDATA[俄罗斯刚刚在南极洲发现石油储量
-据报道，俄罗斯在英国声称拥有主权的南极领土上发现了大量石油储量，特别是在威德尔海，储量约为 5110 亿桶，是北海过去 50 年产量的十倍。向英国下议院环境审计委员会透露的这一发现引起了人们对俄罗斯在该地区意图的严重担忧。尽管 1959 年签订的《南极条约》禁止石油开发并指定该大陆为和平与科学之地，但克劳斯·多兹教授等专家表示，俄罗斯可能会勘探石油和天然气，从而可能违反该条约。地缘政治紧张局势进一步加剧了这种情况，特别是在俄罗斯入侵乌克兰之后。然而，包括戴维·鲁特利在内的英国官员认为，俄罗斯重申了对该条约的承诺，坚称其活动纯粹是科学性的。这场争议凸显了国际关系与南极洲环境管理之间的微妙平衡。]]></description>
-      <guid>https://t.me/hn_summary/89609</guid>
-      <pubDate>Wed, 15 May 2024 00:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]特斯拉最近失去了一位关键的人工智能工程师 Paril Jain，他在 com [...]</title>
-      <link>https://t.me/hn_summary/89608</link>
-      <description><![CDATA[特斯拉失去人工智能领先优势
-特斯拉最近失去了一位关键的人工智能工程师 Paril Jain，他在公司的自动驾驶工作中发挥了重要作用。领导“Tesla AI 规划、模仿学习和强化学习团队”的 Jain 宣布离职，与 Twitch 和 Cruise 联合创始人凯尔·沃格特 (Kyle Vogt) 共同创立“The Bot Company”。这次退出是特斯拉更广泛的人才外流的一部分，最近的裁员潮和员工士气低迷加剧了这种情况。贾恩赞扬了特斯拉在自动驾驶技术方面的进步，但强调了他对自己的新事业的兴奋。 Electrek 指出，特斯拉吸引和留住顶尖人才的能力似乎正在减弱，这是该公司未来的一个令人担忧的趋势。]]></description>
-      <guid>https://t.me/hn_summary/89608</guid>
-      <pubDate>Tue, 14 May 2024 23:50:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站：matt.sh</title>
-      <link>https://t.me/hn_summary/89607</link>
-      <description><![CDATA[世界上最有才华的人
-标题：世界上最有才华的人
-网站：matt.sh
+      <title>[媒体] 标题：司法部称，波音公司违反了 737 MAX 坠机事故后避免起诉的协议</title>
+      <link>https://t.me/hn_summary/89622</link>
+      <description><![CDATA[司法部表示，波音公司违反了在 737 MAX 坠机事故后避免起诉的协议&lt; /a&gt;
+标题：司法部称波音公司违反了 737 MAX 坠机事故后避免被起诉的协议
 
-我偶然发现了一位名叫朱迪·奇菲 (Jodie Chiffey) 的网络天才，她的才华横跨多个领域。 Jodie 是一位 3D 设计师、博主、烧烤爱好者、吉他手、户外装备评论家、旅行爱好者、啤酒鉴赏家、商业战略家、竞技赛车手、私人教练、营养专家和狂热的露营者。她在这些领域的丰富知识和实践经验令人印象深刻。然而，仔细观察就会发现，朱迪是联属营销网络创建的虚构人物，旨在为各种网站生成低质量的内容。这些网站是一个更大的垃圾邮件、自动生成内容农场网络的一部分，操纵搜索引擎结果以获取广告收入。这突显了虚假、低价值内容污染互联网的日益严重的问题。]]></description>
-      <guid>https://t.me/hn_summary/89607</guid>
-      <pubDate>Tue, 14 May 2024 23:49:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wiisfi.com 的这篇论文深入探讨了 Wi-Fi 在美国的运作方式 [...]</title>
-      <link>https://t.me/hn_summary/89606</link>
-      <description><![CDATA[5 GHz 的 DFS 通道
-Wiisfi.com 中的这篇论文深入介绍了如何Wi-Fi 在美国运行，但与其他国家/地区存在一些差异。它强调了了解 Wi-Fi 技术以做出明智的升级决策的重要性，特别是考虑到路由器制造商的营销炒作。该论文强调，虽然较新的 Wi-Fi 标准 (Wi-Fi 4/5/6/6E/7) 提供更快的速度，但实际性能通常受到客户端设备的功能和与路由器的距离的限制。一个关键建议是使用具有 4×4 MIMO、DFS 通道和 160 MHz 宽通道等功能的中档 Wi-Fi 6 路由器，以获得最佳价值。该文件还强调了安装接入点以提高远距离 Wi-Fi 速度的重要性。 
+网站：apnews.com
 
-令人惊讶/聪明的见解：该论文揭示，尽管取得了进步，但现实世界的 Wi-Fi 速度通常受到客户端设备（通常是 2x2 MIMO）而不是路由器本身的限制。
-
-争议点：该论文批评路由器制造商误导性营销行为，宣传不切实际的聚合速度，而这并不能反映用户将体验到的实际性能。 （根据故事文本的 3% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/89606</guid>
-      <pubDate>Tue, 14 May 2024 23:34:30 GMT</pubDate>
+华盛顿（美联社）——司法部指控波音公司违反了一项和解协议，该协议允许该公司在 2018 年和 2019 年发生两起致命 737 Max 坠机事故、造成 346 人死亡后避免刑事起诉。 2021 年 1 月达成的 25 亿美元和解协议旨在解决与误导联邦监管机构相关的欺诈指控。美国司法部声称，波音未能实施承诺的变革，以防止未来违反联邦反欺诈法。波音公司对此提出异议，声称遵守了协议。美国司法部将于 7 月 7 日决定是否起诉波音公司。争议的焦点是波音公司涉嫌未能遵守和解条款，以及最近发生的涉及阿拉斯加航空 737 Max 的事件后持续进行的审查。事故受害者家属正在推动司法部采取进一步行动。]]></description>
+      <guid>https://t.me/hn_summary/89622</guid>
+      <pubDate>Wed, 15 May 2024 01:26:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]2023财年美国净利息成本</title>
-      <link>https://t.me/hn_summary/89605</link>
-      <description><![CDATA[由于美国政府浪费开支，2023 年利息成本达到 659B 美元
-根据美国财政部的数据，2023 财年，美国政府的净利息成本飙升至 6590 亿美元，占 GDP 的 2.5%。这比上一年增加了 1,840 亿美元。过去三年，利息成本几乎翻了一番，成为第四大政府支出，超过了儿童、医疗补助、退伍军人和教育支出。这一增长归因于公共债务增加 9.5 万亿美元和利率上升。新发行的国债和票据利率大幅上涨，导致成本不断膨胀。预测表明，未来十年利息支出可能超过 13 万亿美元，到 2025 年可能超过国防预算，到 2026 年超过医疗保险预算。为了遏制这一趋势，立法者必须实施财政改革，以减缓债务增长并降低利率。财政委员会可以提供前进的战略道路。]]></description>
-      <guid>https://t.me/hn_summary/89605</guid>
-      <pubDate>Tue, 14 May 2024 23:22:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>【媒体】Sam Altman 在 Twitter 上宣布 Ilya Sutskever 和 OpenAI 分道扬镳。</title>
-      <link>https://t.me/hn_summary/89604</link>
-      <description><![CDATA[Sam Altman：“Ilya 和 OpenAI 将分道扬镳”&lt; /a&gt;
-Sam Altman 在 Twitter 上宣布 Ilya Sutskever 和 OpenAI 分道扬镳。这标志着该组织的重大转变，因为伊利亚一直是其发展的关键人物。该推文没有提供离职的具体原因，为猜测和潜在争议留下了空间。这一消息引发了科技界关于 OpenAI 未来方向以及 Ilya 退出对其项目影响的讨论。如需了解更多详细信息，建议用户访问启用了 JavaScript 的 Twitter，或查阅帮助中心以了解受支持的浏览器。]]></description>
-      <guid>https://t.me/hn_summary/89604</guid>
-      <pubDate>Tue, 14 May 2024 23:08:11 GMT</pubDate>
+      <title>[媒体]《真实身份法》最初定于 2008 年全面生效，规定所有国内 [...]</title>
+      <link>https://t.me/hn_summary/89621</link>
+      <description><![CDATA[真实身份截止日期永远不会到来
+《真实身份法案》最初定于 2008 年全面生效，规定所有在 TSA 检查站使用驾驶执照的国内旅客必须出示符合联邦规定的驾驶执照。尽管有无数迹象和故事声称截止日期即将到来，但它已被一再推迟超过 15 年。该法案是 9/11 后的一项安全措施，旨在创建一个共享驾驶员信息的国家系统，并制定更严格的文件标准。然而，其实施却因国家阻力、成本担忧和公众采用缓慢而受到阻碍。批评者认为，真实身份提供的安全优势微乎其微，并引发了隐私问题，尤其是数字许可证有可能实现广泛的跟踪。考虑到行政负担和政治成本，笔者预计截止日期将再次推迟至2025年5月之前。]]></description>
+      <guid>https://t.me/hn_summary/89621</guid>
+      <pubDate>Wed, 15 May 2024 01:17:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
