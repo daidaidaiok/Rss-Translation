@@ -3,12 +3,12 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 17 May 2024 03:06:24 GMT</lastBuildDate>
+    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Fri, 17 May 2024 06:07:32 GMT</lastBuildDate>
     <item>
       <title>发布 MJ PDF v2.2.0，开源 Android PDF 阅读器</title>
       <link>https://www.reddit.com/r/opensource/comments/1ctsmdm/announcing_mj_pdf_v220_opensource_android_pdf/</link>
-      <description><![CDATA[大家好，r/opensource 社区！ 我的开源 PDF 阅读器 MJ PDF v2.2.0 即将正式发布，但我需要您的帮助进行测试。此版本侧重于改进和稳定性。以下是变更日志的简短摘要： 简短变更日志  增加了对阿拉伯语、中文、土耳其语、德语、西班牙语、葡萄牙语、印地语和俄语的支持。 引入了“始终处于水平模式”选项。 在搜索结果中添加了返回按钮，改进了搜索结果突出显示。 增加了对受密码保护和非本地 PDF 的全面支持。 添加了“重新加载 PDF 文件”按钮设置。 添加了一个实验性设置以显示“重新加载 PDF 文件”按钮 解决了后退按钮在某些情况下不起作用的问题。 改进了图标和文本颜色的 UI 一致性，以及更简化的全屏按钮布局。 解决了许多崩溃情况。 已更新至 Android SDK、Gradle 和许多依赖项。  注意：主要更新核心库的更新标志着重大进展，解决了长期存在的问题。 令人兴奋的更新 在开发此版本时，我发现了一种方法，可以添加一些最受要求的功能，例如文本突出显示和实时文本选择。看起来我可以毫不费力地完成这些功能。但是，我现在忙得不可开交，所以我不确定什么时候开始做这些。我会随时通知你！ 链接  直接下载链接。 简单变更日志。 详细变更日志。  感谢您参与这次旅程，祝您测试愉快！    由    /u/mudlej  提交  [链接] [评论]]]></description>
+      <description><![CDATA[嘿r/opensource社区！&lt; /p&gt; 我的开源 PDF 阅读器 MJ PDF v2.2.0 即将正式发布&lt; /a&gt;，但我需要你的测试帮助。该版本侧重于改进和稳定性。以下是更改日志的简短摘要： 简短更改日志  添加了对阿拉伯语、中文、土耳其语、德语、西班牙语、葡萄牙语、印地语和俄语的支持。 引入了“始终处于水平模式”选项。 向搜索结果添加了返回按钮，改进了搜索结果突出显示。 添加了对密码保护和非本地 PDF 的全面支持. 添加了“重新加载 PDF 文件”按钮设置。 添加了实验性设置以显示“重新加载 PDF 文件”按钮 修复了后退按钮的问题在某些情况下不起作用。 改进了 UI 与图标和文本颜色的一致性，以及更简化的全屏按钮布局。 解决了许多崩溃情况。 更新了 Android SDK、Gradle 和许多依赖项。  注意：核心库的重大更新标志着重大进展，解决了长期存在的问题。 &lt; h1&gt;令人兴奋的更新 在开发此版本时，我找到了一种可能添加一些最需要的功能的方法，例如文本突出显示和实时文本选择。看来我可以毫不费力地完成这些工作。然而，我现在很忙，所以我不确定什么时候开始做这些。我会随时通知您！ 链接  直接下载链接。 简单变更日志。 详细变更日志 .  感谢您参与这次旅程，祝您测试愉快！   由   提交 /u/mudlej   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ctsmdm/announcing_mj_pdf_v220_opensource_android_pdf/</guid>
       <pubDate>Fri, 17 May 2024 00:46:48 GMT</pubDate>
     </item>
@@ -57,21 +57,21 @@
     <item>
       <title>搜索一个受欢迎的 Nextjs 开源项目来做出贡献并从中学习</title>
       <link>https://www.reddit.com/r/opensource/comments/1ctaqrf/search_for_a_welcoming_nextjs_open_source_project/</link>
-      <description><![CDATA[嗨，我正在攻读理学学士学位的最后一年，我所在的地区（斯威士兰王国）没有这样的实习机会。我相信开源有望帮助我解决这个问题。我希望为项目做出贡献或成为其中的一员。我一直在使用 MERN 堆栈，现在正在学习 Nextjs。任何指导都将不胜感激。提前致谢！    提交人    /u/Tabish1511   [link] [评论]]]></description>
+      <description><![CDATA[您好，我正处于理学士学位的最后一年，在我所在的地区（斯威士兰王国）没有此类实习机会。我相信开源有望帮助我解决这个问题。我希望为我可以贡献的项目做出贡献或成为其中的一部分。我一直在使用 MERN stack，现在正在学习 Nextjs。任何指导都将受到高度赞赏。提前致谢！   由   提交 /u/Tabish1511   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ctaqrf/search_for_a_welcoming_nextjs_open_source_project/</guid>
       <pubDate>Thu, 16 May 2024 11:32:32 GMT</pubDate>
     </item>
     <item>
-      <title>Radient - 将多种不同类型的数据矢量化，用于 RAG 和推荐</title>
+      <title>Radient - 对许多不同类型的数据进行矢量化以用于 RAG 和推荐</title>
       <link>https://www.reddit.com/r/opensource/comments/1ct66a7/radient_vectorize_many_different_types_of_data/</link>
-      <description><![CDATA[大家好， 想分享我最近在做的一个项目。 LLM 正在走向多模式，而对所有不同类型的数据（图像、文本、音频等）进行矢量化似乎是未来的一个重要趋势。许多现有的库和工具包主要关注文本，因此我构建了 Radient 来尝试帮助缩小这一差距：https://github.com/fzliu/radient 欢迎任何反馈！    提交人    /u/mrintellectual   [链接] [评论]]]></description>
+      <description><![CDATA[嘿伙计们， 想分享我最近正在从事的一个项目。 法学硕士正在走向多模式，对所有不同类型的数据（图像、文本、音频等）进行矢量化似乎是一个重要的发展趋势。许多现有的库和工具包主要关注文本，因此我构建了 Radient 来尝试帮助缩小这一差距：https://github。 com/fzliu/radient 欢迎任何和所有反馈！   由   提交 /u/mrintellectual   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ct66a7/radient_vectorize_many_different_types_of_data/</guid>
       <pubDate>Thu, 16 May 2024 06:03:48 GMT</pubDate>
     </item>
     <item>
       <title>发布 Lorevault（测试版），一个从配方创建目录的工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1cstxpw/announcing_lorevault_beta_a_tool_to_create_a/</link>
-      <description><![CDATA[ 由   提交 /u/Bowtiestyle   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/Bowtiestyle  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cstxpw/announcing_lorevault_beta_a_tool_to_create_a/</guid>
       <pubDate>Wed, 15 May 2024 19:48:04 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Wed, 15 May 2024 12:05:59 GMT</pubDate>
     </item>
     <item>
-      <title>在开源库之上构建</title>
+      <title>构建在开源库之上</title>
       <link>https://www.reddit.com/r/opensource/comments/1csgfmo/building_on_top_of_a_open_source_library/</link>
       <description><![CDATA[有一个 Apache 2.0 库，它具有我需要的基本框架。基本上都是基础。我将大量修改该库，通过扩展它来满足我的需求。我的问题是我添加的所有新代码是否也会自动归属 Apache 2.0 许可证？或者它可以是专有的吗？ 编辑1：这是有问题的许可证https://github.com/klinecharts/ KLineChart 编辑2：https://softwareengineering.stackexchange.com/questions/220068/file-with-apache-2-0-and-my-modifications 我猜这回答了我的问题，我可以在同一文件下有多个许可证，即一个用于 Apache，另一个用于我的修改的专有许可证（闭源）。  他们提到的一件有趣的事情 您可以选择使用不同的版权许可进行修改。然而，单个文件具有适用不同版权许可的多个部分的情况非常罕见，我怀疑其法律方面是否已在法庭上得到检验，因此我建议不要这样做。如果您不分发修改（或不分发到您的公司外部），则无需执行任何操作。版权许可仅在分发程序/库时发挥作用。   由   提交 /u/zZurf   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1csgfmo/building_on_top_of_a_open_source_library/</guid>

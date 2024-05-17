@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 17 May 2024 03:06:19 GMT</lastBuildDate>
+    <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Fri, 17 May 2024 06:07:27 GMT</lastBuildDate>
+    <item>
+      <title>今晚需要帮助 - 正在创造历史</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cty3pd/need_help_tonight_history_being_made/</link>
+      <description><![CDATA[大家好，我需要一个在洛杉矶担任程序员 Web 开发人员的人，或者可以和我一起进行 Zoom 或其他我要做的事情的人犹太历史与该计划，但我需要帮助。我不知道我在做什么，只要我能即兴发挥，今晚谁能帮忙，这是为了报酬。   由   提交/u/Professional_Care453  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cty3pd/need_help_tonight_history_being_made/</guid>
+      <pubDate>Fri, 17 May 2024 05:58:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源 API 可将 PDF、URL、YouTube 等提供给 OpenAI 的新 GPT-4o 视觉模型</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cty255/open_source_api_to_feed_pdfs_urls_youtube_etc_to/</link>
+      <description><![CDATA[ 由   提交/u/ToeIntelligent4472   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cty255/open_source_api_to_feed_pdfs_urls_youtube_etc_to/</guid>
+      <pubDate>Fri, 17 May 2024 05:55:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 桌面上的图像呈现奇怪</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ctvas2/image_rendering_oddly_on_chrome_desktop/</link>
+      <description><![CDATA[我是一名平面设计师，在我的 20 年里，我从未遇到过这种情况。该徽标在 Safari 浏览器（桌面版和移动版）上看起来都很棒（需要调整手机尺寸，我刚刚注意到……）。在 Chrome 桌面上，它看起来完全是一坨屎，就好像图像上有一个 70% 密度的滤镜。在 Chrome 移动设备上看起来不错。有人告诉我，这只是“浏览器渲染颜色的方式不同”，但我设计网页图形已有数十年，但这种情况从未发生过。有任何想法吗？？ Google 的帮助为零，因此希望 Reddit 社区能够提供帮助。谢谢你！ https://alohomorapodcast.com   由   提交/u/rubywizard24   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ctvas2/image_rendering_oddly_on_chrome_desktop/</guid>
+      <pubDate>Fri, 17 May 2024 03:08:26 GMT</pubDate>
+    </item>
     <item>
       <title>Bluehost / Wordpress 网站因 Cloudflare 问题而关闭？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ctufre/bluehost_wordpress_site_went_down_due_to/</link>
@@ -27,7 +48,7 @@
       <pubDate>Thu, 16 May 2024 23:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>你会学习哪些后端框架组合</title>
+      <title>您会学习哪种后端框架组合</title>
       <link>https://www.reddit.com/r/webdev/comments/1ctpjla/which_combination_of_backend_frameworks_would_you/</link>
       <description><![CDATA[如果您必须选择两个框架来覆盖最广泛的开发场景、提供最佳的编程体验等，您会选择什么？  同时假设您之前不具备某种特定语言的专业知识。   由   提交 /u/WhiskeeFrank   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ctpjla/which_combination_of_backend_frameworks_would_you/</guid>
@@ -50,7 +71,7 @@
     <item>
       <title>您为客户法律页面做什么？隐私政策、cookie 政策等</title>
       <link>https://www.reddit.com/r/webdev/comments/1cto8fe/what_do_you_do_for_client_legal_pages_privacy/</link>
-      <description><![CDATA[你们都推荐使用像 Termly 这样的服务吗？你们只是使用免费生成器吗？有什么建议吗？    提交人    /u/evilsniperxv   [link] [comments]]]></description>
+      <description><![CDATA[你们都推荐他们使用像 Termly 这样的服务吗？你只使用免费的发电机吗？有建议吗？   由   提交 /u/evilsniperxv   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cto8fe/what_do_you_do_for_client_legal_pages_privacy/</guid>
       <pubDate>Thu, 16 May 2024 21:18:56 GMT</pubDate>
     </item>
@@ -78,7 +99,7 @@
     <item>
       <title>角度新手</title>
       <link>https://www.reddit.com/r/webdev/comments/1ctlx5o/new_to_angular/</link>
-      <description><![CDATA[我想构建一个仪表板。有小费吗？我拥有 React 和 Tailwind CSS 的中级技能。从未使用过 Material UI。我以为选择一个新框架会很容易，但是哟！  无论如何，我如何创建一个带有漂亮图表、饼图和条形图的仪表板。充实可以连接到后端的东西的最快方法是什么？我发现在线 React 教程比 Angular 的质量更高且最新。  友善一点。我是一个敏感的人。    由   提交 /u/Economics-Unique   /u/Economics-Unique  reddit.com/r/webdev/comments/1ctlx5o/new_to_angular/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我想构建一个仪表板。有什么建议吗？我在 React 和 tailwind css 方面具有中级技能。从未使用过材料 UI。我以为选择一个新的框架会很容易，但是哟！  无论如何，如何创建一个带有漂亮图表、饼图和条形图的仪表板。充实可以连接到后端的东西的最快方法是什么？我发现网上有比 Angular 更多的优质和最新的 React 教程。  要友善。我是一个敏感的人。     提交人    /u/Economics-Unique   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ctlx5o/new_to_angular/</guid>
       <pubDate>Thu, 16 May 2024 19:48:54 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[嘿伙计们，为了让我一直非常热衷的项目更加投入，我希望你们能够尝试一下我的网络应用程序在 https://sparkify.vercel.app 上，sparks 是一个开源社交媒体平台，使用户能够使用人工智能发现和创造新想法，以及与他人实时沟通。让我知道你们的想法！   由   提交 /u/Additional_Hall_3034   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ctlqcc/try_out_my_social_media_project/</guid>
       <pubDate>Thu, 16 May 2024 19:41:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Squarespace 上转移域名还是购买套餐？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ctlbk6/transfer_domain_on_squarespace_or_buy_the_package/</link>
-      <description><![CDATA[大家好！ 我是一名自由职业者（与 webdev 无关），想制作一个网站来展示我的工作，什么也没有复杂。 我对网络开发完全陌生，我一直在尝试 Squarespace 并且到目前为止非常喜欢它，但我想知道在其他地方购买域名然后转移是否更好/更安全它到 Squarespace 还是直接获取 Squarespace 中域名的 psckage 更好？ 两者的优缺点是什么？我看到了很多关于 Porkbun 购买域名的建议，所以如果我决定独立购买，我认为这是我的选择。 提前感谢您的帮助！    由   提交/u/logi_throway  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ctlbk6/transfer_domain_on_squarespace_or_buy_the_package/</guid>
-      <pubDate>Thu, 16 May 2024 19:24:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>从工作区转移到版本化包的合理存储库设置是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ctjko8/what_is_a_reasonable_repo_setup_to_move_from/</link>
-      <description><![CDATA[嗨， 我们目前正在使用 npm 工作区设置。它包含 3 种产品使用的共享库。这对于快速开发和代码重用性来说非常棒，但我们正在慢慢增加依赖于库的应用程序，并且随着每个新应用程序的增加，随着 PR 大小的增加，它开始变得越来越困难。 每当有人更改库时，他们都需要立即修复所有消费者。 我们如何将其移动到版本化设置而不损害开发体验？我已经阅读了一些资料，在 npm link 上，有人还向我推荐了 yalc，但是所有这些通常都带有一个缺点（对监视模式的支持不舒服，经常不得不使用 package.json 等） 对我来说，一个完美的设置是：  我可以运行我的应用程序并更改库，从而立即收到反馈。 理想情况下，我不必触及我的 package.json - 我增加库版本，进行更改，立即引用该库，并且可能在本地进行某种环境配置，将我的应用程序“代理”到我本地链接的版本化库，而无需在 npm 注册表中查找它。  这可能吗？    提交人    /u/Sossenbinder   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ctjko8/what_is_a_reasonable_repo_setup_to_move_from/</guid>
-      <pubDate>Thu, 16 May 2024 18:13:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 组件验证</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ctjgx2/web_component_validation/</link>
-      <description><![CDATA[我有一个使用 Lit 构建的 Web 组件库。我们使用lit-analyzer验证我们的lit html模板：https://github.com/runem/lit-analyzer 这会检查所有输入都是预期的并且属于预期的类型。因此，我们有信心重命名和反应器属性，如果我们没有捕获重构内容的所有用法，我们会收到通知。这类似于 Angular 的类型检查。  这在 Web 组件库内部工作。我正在寻找的是通过 GitHub 操作在消费应用程序中验证 Web 组件使用情况的东西。我希望能够确认以已知名称空间开头的所有元素没有意外的属性，并且所有输入值都具有预期的类型。 Web 组件库发布自定义元素清单文件。我希望找到一个 eslint 插件来使用它，但没有成功。以前有人取得过这样的成就吗？ https://custom-elements-manifest.open-wc.org/ 我的目标应用程序是 Angular 应用程序（如果有的话）。    由   提交/u/ajbrun86  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ctjgx2/web_component_validation/</guid>
-      <pubDate>Thu, 16 May 2024 18:09:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
