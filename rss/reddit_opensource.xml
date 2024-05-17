@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 16 May 2024 21:06:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 00:19:30 GMT</lastBuildDate>
     <item>
       <title>德国主权技术基金现在支持 FFmpeg</title>
       <link>https://www.reddit.com/r/opensource/comments/1ctmhx5/germanys_sovereign_tech_fund_now_supporting_ffmpeg/</link>
@@ -13,16 +13,9 @@
       <pubDate>Thu, 16 May 2024 20:10:47 GMT</pubDate>
     </item>
     <item>
-      <title>Winamp 的源代码将于 2024 年 9 月 24 日提供</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ctm2yz/winamps_source_code_will_be_available_on/</link>
-      <description><![CDATA[       由   提交/u/TheBigCore  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ctm2yz/winamps_source_code_will_be_available_on/</guid>
-      <pubDate>Thu, 16 May 2024 19:55:14 GMT</pubDate>
-    </item>
-    <item>
       <title>VFCFinder 重点介绍开源软件中的安全补丁</title>
       <link>https://www.reddit.com/r/opensource/comments/1ctj864/vfcfinder_highlights_security_patches_in_open/</link>
-      <description><![CDATA[        提交人    /u/yourbasicgeek   [链接] [评论] ]]></description>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/yourbasicgeek  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ctj864/vfcfinder_highlights_security_patches_in_open/</guid>
       <pubDate>Thu, 16 May 2024 18:00:08 GMT</pubDate>
     </item>
@@ -36,14 +29,14 @@
     <item>
       <title>Rio：纯 Python 中的 Web 应用程序。无需 JavaScript、HTML 和 CSS！</title>
       <link>https://www.reddit.com/r/opensource/comments/1ctee01/rio_webapps_in_pure_python_no_javascript_html_and/</link>
-      <description><![CDATA[大家好！我们很高兴地宣布，我们的反应式 Web UI 框架现已公开。这个项目已经进行了相当长一段时间了，我们很高兴与您分享。欢迎随时查看并分享您的反馈！  GitHub 网站  GitHub 上有一个简短的编码 GIF。 我的项目做什么 Rio 是一个全新的 GUI 框架，旨在让您只需几行 Python 代码即可创建现代 Web 应用程序。我们的目标是简化 Web 和应用程序开发，让您能够专注于最重要的事情，而不是陷入复杂的用户界面细节。 我们通过坚持众所周知的 Python 核心原则来实现这一目标和爱。 Python 旨在简单、简洁，Rio 体现了这一理念。无需学习 HTML、CSS 或 JavaScript 等其他语言，因为所有 UI、逻辑、组件甚至布局都完全在 Python 中管理。而且，前端和后端没有分离； Rio 透明地为您处理所有通信。 Showcase Rio 不仅仅提供 HTML 模板，就像您可能习惯使用 Flask 等框架一样。在 Rio 中，您可以使用 React/Flutter 风格的构建方法将组件定义为简单的数据类。 Rio 会持续监视您的属性更改并根据需要更新 UI。 class MyComponent(rio.Component): clicks: int = 0 def _on_press(self) -&gt;无： self.clicks += 1 def build(self) -&gt; rio.Component: return rio.Column( rio.Button(&#39;Click me&#39;, on_press=self._on_press), rio.Text(f&#39;您点击了按钮 {self.clicks} 次&#39;), ) app = rio.App(build=MyComponent) app.run_in_browser()  请注意，不需要任何显式 HTTP 请求。事实上，前端和后端之间甚至没有区别。 Rio 为您透明地处理所有通信。与 tkinter 等古老的库不同，Rio 在 Google Material Design 中附带了 50 多个内置组件。此外，相同的代码库可用于本地应用程序和网站。 主要功能  全栈 Web 开发： Rio 处理前端- 端和后端为您服务。事实上，您甚至不会注意到它们的存在。创建您的 UI，Rio 将负责剩下的工作。 Python Native： Rio 应用程序是用 100% Python 编写的，这意味着您无需编写一行代码CSS 或 JavaScript。 现代 Python：我们拥抱现代 Python 功能，例如类型注释和异步。这可以使您的代码保持干净和可维护，并帮助您的代码编辑器帮助您完成代码完成和类型检查。 兼容 Python 调试器：由于 Rio 在 Python 上运行，因此您可以连接使用调试器直接进入正在运行的进程。这使得您可以轻松识别和修复代码中的错误。 声明式界面：Rio 应用程序是使用可重用组件构建的，其灵感来自于 React、Flutter 和 React。视图。它们以声明方式组合起来，以创建模块化且可维护的 UI。 包含电池：超过 50 个基于 Google Material Design 的内置组件  Target受众 Rio 非常适合那些想要创建 Web 应用程序而无需花时间学习新语言的开发人员。对于那些想要构建现代、专业外观的应用程序而又不想强调细节的人来说，它也是理想的选择。 我们欢迎在评论中提出您的想法和问题！如果您喜欢该项目，请在 GitHub 上给它一颗星，以表示您的支持并帮助我们继续改进它。   由   提交/u/Rio-Labs  /u/Rio-Labs  reddit.com/r/opensource/comments/1ctee01/rio_webapps_in_pure_python_no_javascript_html_and/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[大家好！我们很高兴地宣布，我们的反应式 Web UI 框架现已公开。这个项目已经进行了相当长一段时间了，我们很高兴与您分享。欢迎随时查看并分享您的反馈！  GitHub 网站  GitHub 上有一个简短的编码 GIF。 我的项目做什么 Rio 是一个全新的 GUI 框架，旨在让您只需几行 Python 即可创建现代 Web 应用程序。我们的目标是简化 Web 和应用程序开发，让您能够专注于最重要的事情，而不是陷入复杂的用户界面细节。 我们通过坚持众所周知的 Python 核心原则来实现这一目标和爱。 Python 旨在简单、简洁，Rio 体现了这一理念。无需学习 HTML、CSS 或 JavaScript 等其他语言，因为所有 UI、逻辑、组件甚至布局都完全在 Python 中管理。而且，前端和后端没有分离； Rio 透明地为您处理所有通信。 Showcase Rio 不仅仅提供 HTML 模板，就像您可能习惯使用 Flask 等框架一样。在 Rio 中，您可以使用 React/Flutter 风格的构建方法将组件定义为简单的数据类。 Rio 会持续监视您的属性更改并根据需要更新 UI。 class MyComponent(rio.Component): clicks: int = 0 def _on_press(self) -&gt;无： self.clicks += 1 def build(self) -&gt; rio.Component: return rio.Column( rio.Button(&#39;Click me&#39;, on_press=self._on_press), rio.Text(f&#39;您点击了按钮 {self.clicks} 次&#39;), ) app = rio.App(build=MyComponent) app.run_in_browser()  请注意，不需要任何显式 HTTP 请求。事实上，前端和后端之间甚至没有区别。 Rio 为您透明地处理所有通信。与 tkinter 等古老的库不同，Rio 在 Google 的 Material Design 中附带了 50 多个内置组件。此外，相同的代码库可用于本地应用程序和网站。 主要功能  全栈 Web 开发： Rio 处理前端- 为您提供端和后端。事实上，您甚至不会注意到它们的存在。创建您的 UI，Rio 将处理剩下的事情。 Python Native： Rio 应用程序是用 100% Python 编写的，这意味着您不需要编写一行代码CSS 或 JavaScript。 现代 Python：我们拥抱现代 Python 功能，例如类型注释和异步。这可以使您的代码保持干净和可维护，并帮助您的代码编辑器帮助您完成代码完成和类型检查。 兼容 Python 调试器：由于 Rio 在 Python 上运行，因此您可以连接使用调试器直接进入正在运行的进程。这使得您可以轻松识别和修复代码中的错误。 声明式界面：Rio 应用程序是使用可重用组件构建的，其灵感来自于 React、Flutter 和 Flutter。视图。它们以声明方式组合起来，以创建模块化且可维护的 UI。 包含电池：超过 50 个基于 Google Material Design 的内置组件  Target受众 Rio 非常适合那些想要创建 Web 应用程序而无需花时间学习新语言的开发人员。对于那些想要构建现代、专业外观的应用程序而又不想强调细节的人来说，它也是理想的选择。 我们欢迎在评论中提出您的想法和问题！如果您喜欢该项目，请在 GitHub 上给它一颗星，以表示您的支持并帮助我们继续改进它。   由   提交/u/Rio-Labs  /u/Rio-Labs  reddit.com/r/opensource/comments/1ctee01/rio_webapps_in_pure_python_no_javascript_html_and/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ctee01/rio_webapps_in_pure_python_no_javascript_html_and/</guid>
       <pubDate>Thu, 16 May 2024 14:34:38 GMT</pubDate>
     </item>
     <item>
       <title>揭晓 ClearlyDefined：这项免费的 SBOM 服务已获准起飞</title>
       <link>https://www.reddit.com/r/opensource/comments/1ctd8lx/unveiling_clearlydefined_this_free_sbom_service/</link>
-      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由    /u/opensourceinitiative  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ctd8lx/unveiling_clearlydefined_this_free_sbom_service/</guid>
       <pubDate>Thu, 16 May 2024 13:44:01 GMT</pubDate>
     </item>
@@ -55,7 +48,7 @@
       <pubDate>Thu, 16 May 2024 12:31:17 GMT</pubDate>
     </item>
     <item>
-      <title>搜索一个受欢迎的 Nextjs 开源项目来做出贡献并从中学习</title>
+      <title>寻找一个受欢迎的 Nextjs 开源项目，以便做出贡献并学习</title>
       <link>https://www.reddit.com/r/opensource/comments/1ctaqrf/search_for_a_welcoming_nextjs_open_source_project/</link>
       <description><![CDATA[您好，我正处于理学士学位的最后一年，在我所在的地区（斯威士兰王国）没有此类实习机会。我相信开源有望帮助我解决这个问题。我希望为我可以贡献的项目做出贡献或成为其中的一部分。我一直在使用 MERN stack，现在正在学习 Nextjs。任何指导都将受到高度赞赏。提前致谢！   由   提交 /u/Tabish1511   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ctaqrf/search_for_a_welcoming_nextjs_open_source_project/</guid>
@@ -69,7 +62,7 @@
       <pubDate>Thu, 16 May 2024 06:03:48 GMT</pubDate>
     </item>
     <item>
-      <title>发布 Lorevault（测试版），一个从配方创建目录的工具</title>
+      <title>推出 Lorevault（测试版），一种从配方创建目录的工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1cstxpw/announcing_lorevault_beta_a_tool_to_create_a/</link>
       <description><![CDATA[ 由   提交 /u/Bowtiestyle   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cstxpw/announcing_lorevault_beta_a_tool_to_create_a/</guid>
@@ -92,7 +85,7 @@
     <item>
       <title>构建在开源库之上</title>
       <link>https://www.reddit.com/r/opensource/comments/1csgfmo/building_on_top_of_a_open_source_library/</link>
-      <description><![CDATA[有一个 Apache 2.0 库，它包含我所需的基本内容。基本上是基础。我将大量修改该库，通过扩展它来使其满足我的需求。我的问题是，我添加的所有新代码是否也会自动属于 Apache 2.0 许可证？或者它可以是专有的？ 编辑 1：这是有问题的许可证 https://github.com/klinecharts/KLineChart 编辑 2：https://softwareengineering.stackexchange.com/questions/220068/file-with-apache-2-0-and-my-modifications 猜猜这回答了我的问题，我被允许在同一个文件下拥有多个许可证，即，一个用于 Apache，一个用于我的修改的专有许可证（封闭源）。  他们提到了一件有趣的事情 您可以选择对您的修改使用不同的版权许可证。但是，单个文件包含多个适用不同版权许可的部分的情况非常罕见，而且我怀疑这种情况的法律方面是否已在法庭上得到检验，因此我建议不要这样做。如果您不分发修改内容（或不在公司外部分发），则无需执行任何操作。版权许可仅在分发程序/库时才起作用。    提交人    /u/zZurf   [link] [评论]]]></description>
+      <description><![CDATA[有一个 Apache 2.0 库，它具有我需要的基本框架。基本上都是基础。我将大量修改该库，通过扩展它来满足我的需求。我的问题是我添加的所有新代码是否也会自动归属 Apache 2.0 许可证？或者它可以是专有的吗？ 编辑1：这是有问题的许可证https://github.com/klinecharts/ KLineChart 编辑2：https://softwareengineering.stackexchange.com/questions/220068/file-with-apache-2-0-and-my-modifications 我猜这回答了我的问题，我可以在同一文件下有多个许可证，即一个用于 Apache，另一个用于我的修改的专有许可证（闭源）。  他们提到的一件有趣的事情 您可以选择使用不同的版权许可进行修改。然而，单个文件具有适用不同版权许可的多个部分的情况非常罕见，我怀疑其法律方面是否已在法庭上得到检验，因此我建议不要这样做。如果您不分发修改（或不分发到您的公司外部），则无需执行任何操作。版权许可仅在分发程序/库时发挥作用。   由   提交 /u/zZurf   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1csgfmo/building_on_top_of_a_open_source_library/</guid>
       <pubDate>Wed, 15 May 2024 09:14:19 GMT</pubDate>
     </item>
@@ -106,9 +99,16 @@
     <item>
       <title>开源 AI 定义 – 5 月 13 日每周更新</title>
       <link>https://www.reddit.com/r/opensource/comments/1cruhbi/open_source_ai_definition_weekly_update_may_13/</link>
-      <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cruhbi/open_source_ai_definition_weekly_update_may_13/</guid>
       <pubDate>Tue, 14 May 2024 15:09:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在寻找基于实际使用情况的网络抓取工具的建议。请突出显示任何特定的优点或缺点。 🙏</title>
+      <link>https://www.reddit.com/r/opensource/comments/1crsh00/i_am_looking_for_recommendations_based_on_actual/</link>
+      <description><![CDATA[ 由   提交 /u/Saiyyidi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1crsh00/i_am_looking_for_recommendations_based_on_actual/</guid>
+      <pubDate>Tue, 14 May 2024 13:42:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
