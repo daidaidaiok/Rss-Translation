@@ -4,23 +4,23 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 18 May 2024 15:06:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 18:06:03 GMT</lastBuildDate>
     <item>
       <title>可以上传和剪切30GB的视频吗？</title>
       <link>https://www.reddit.com/r/software/comments/1cuz84l/able_to_upload_and_cut_a_30gb_video/</link>
-      <description><![CDATA[我有一个近 3 小时长的视频（在笔记本电脑上），我只需要最后 3 分钟 - 但我只能找到有限的选项对于视频修剪，Clipchamp 不会加载超过 2 - 3% 的视频。关于如何修剪这个有什么想法吗？   由   提交/u/truetoorangeandblue  [链接] [评论]]]></description>
+      <description><![CDATA[我有一个近 3 小时长的视频（在笔记本电脑上），我只需要最后 3 分钟 - 但我只能找到有限的选项对于视频修剪，Clipchamp 不会加载超过 2 - 3% 的视频，因为文件太大。关于如何修剪这个有什么想法吗？   由   提交/u/truetoorangeandblue  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cuz84l/able_to_upload_and_cut_a_30gb_video/</guid>
       <pubDate>Sat, 18 May 2024 15:01:30 GMT</pubDate>
     </item>
     <item>
       <title>是否可以使用InstallForge软件轻松创建一个.exe安装程序，将不同的文件夹安装到不同的目标安装路径中？</title>
       <link>https://www.reddit.com/r/software/comments/1cuyn6a/is_it_possible_to_easily_create_an_exe_installer/</link>
-      <description><![CDATA[不幸的是，我还没有找到任何关于此的信息。  如果可能的话，我会发现它非常有用。我认为 InstallForge 比 Inno Setup 等工具更容易使用。因为它不是纯粹基于代码，而是具有清晰且结构良好的界面。   由   提交 /u/Ok-Grape-5348   [链接] [评论]]]></description>
+      <description><![CDATA[不幸的是，我还没有找到任何关于此的信息。  如果可能的话，我会发现它非常有用。我认为 InstallForge 比 Inno Setup 等更容易使用。因为它不是纯粹基于代码的，而是具有清晰且结构良好的界面。    提交人    /u/Ok-Grape-5348   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cuyn6a/is_it_possible_to_easily_create_an_exe_installer/</guid>
       <pubDate>Sat, 18 May 2024 14:33:52 GMT</pubDate>
     </item>
     <item>
-      <title>darkmodeanyapp(.)com - 该软件声称可以将任何软件变成暗模式。有什么好处吗？有用户吗？</title>
+      <title>darkmodeanyapp(.)com - 该软件声称可以将任何软件转变为黑暗模式。有什么好处吗？有用户吗？</title>
       <link>https://www.reddit.com/r/software/comments/1cuy8qb/darkmodeanyappcom_this_software_claims_to_turn/</link>
       <description><![CDATA[你知道这样的软件吗？   由   提交/u/ultraman55ty  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cuy8qb/darkmodeanyappcom_this_software_claims_to_turn/</guid>
@@ -29,7 +29,7 @@
     <item>
       <title>间接访问LinkedIn的工具</title>
       <link>https://www.reddit.com/r/software/comments/1cuvmu7/tool_for_indirect_access_of_linkedin/</link>
-      <description><![CDATA[寻找一种工具，通过它我可以间接访问我的客户的 LinkedIn 个人资料。 想要它用于外展目的。    提交人    /u/Appropriate_Item_752   [链接] [评论]]]></description>
+      <description><![CDATA[正在寻找一种工具，通过它可以间接访问我的客户 LinkedIn 个人资料。 希望将其用于外展目的。    由   提交 /u/Appropriate_Item_752   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cuvmu7/tool_for_indirect_access_of_linkedin/</guid>
       <pubDate>Sat, 18 May 2024 11:54:42 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Fri, 17 May 2024 18:54:37 GMT</pubDate>
     </item>
     <item>
-      <title>寻找一个非常简单的应用程序来为图像添加注释</title>
+      <title>寻找一个非常简单的应用程序来向图像添加注释</title>
       <link>https://www.reddit.com/r/software/comments/1cud2c5/looking_for_a_very_simple_application_to_add_a/</link>
       <description><![CDATA[我需要一个非常简单的应用程序，可以将图像加载到其中，并为每个图像添加简单的文本注释。我需要能够使用 python 阅读每个图像的文本注释。我在 Linux 上使用过 jExifToolGUI，但这对于不懂计算机的人来说并不是特别容易使用。我可以用什么东西在 Windows 上执行此操作吗？   由   提交/u/bc_uk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cud2c5/looking_for_a_very_simple_application_to_add_a/</guid>
