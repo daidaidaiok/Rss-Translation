@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 18 May 2024 09:07:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 12:08:33 GMT</lastBuildDate>
+    <item>
+      <title>有没有自定义缓存大小的 YouTube PC/Web 客户端？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cuv28v/any_youtube_pcweb_client_with_custom_cache_size/</link>
+      <description><![CDATA[我想要 mpv 之类的东西，但具有与原始 YouTube 类似的功能（例如主页）。另外，我想更改视频缓存大小，以确保它在我观看时缓存所有视频   由   提交/u/dream_nobody  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cuv28v/any_youtube_pcweb_client_with_custom_cache_size/</guid>
+      <pubDate>Sat, 18 May 2024 11:18:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>browsermob-proxy 功能是否有真正的竞争者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/</link>
+      <description><![CDATA[因此，我一直在使用 browsermob-proxy 进行编程代理访问，到目前为止非常满意。现在我的需求已经发生了变化，并且由于没有维护的 browsermob-proxy 已经很旧并且不支持 wss 等，我陷入了困境。  mitmproxy 很棒并且维护得很好，但我无法通过受控会话创建 har，在其中我可以执行 new_har 的操作，然后在与客户端相同的程序运行时中处理所有请求。 我希望能够以编程方式控制代理会话，并且需要对 HTTP/2 和 HTTP/2 的支持。 QUIC 对于 websocket 来说会很棒，当然对于 ssl 终止等也是如此。 在这种情况下要考虑的正确方法甚至正确的代理是什么。    由   提交/u/droned-s2k   /u/droned-s2k  reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/</guid>
+      <pubDate>Sat, 18 May 2024 10:21:04 GMT</pubDate>
+    </item>
     <item>
       <title>加入 macOS 上的 GSequencer 测试版</title>
       <link>https://www.reddit.com/r/opensource/comments/1cusndf/join_the_gsequencer_beta_on_macos/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>寻找一个支持 Vim 的 Windows 开源便签程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1cupbut/looking_for_an_open_source_sticky_note_program/</link>
-      <description><![CDATA[我知道这听起来很具体，但你必须问。我经常使用 Windows 便笺，并且真的宁愿停止使用它而转而使用开源的东西。最终，我真的希望能够在键入 Vim 命令时使用它们，这就是促使我首先寻找替代方案的原因。   由   提交 /u/Verbais   [链接] [评论]]]></description>
+      <description><![CDATA[我知道这听起来很具体，但你得问。我经常使用 Windows 便签，真的希望停止使用它，转而使用一些开源的东西。最终，我真的希望能够在输入 Vim 命令时使用它们，这就是我首先寻找替代方案的原因。    由   提交  /u/Verbais   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cupbut/looking_for_an_open_source_sticky_note_program/</guid>
       <pubDate>Sat, 18 May 2024 04:41:59 GMT</pubDate>
     </item>
@@ -36,12 +50,12 @@
     <item>
       <title>我可以将开放式角色扮演游戏制作工具的外壳与 godot 结合起来使其发挥作用吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuadhc/could_i_take_the_husk_of_open_rpg_maker_and/</link>
-      <description><![CDATA[ 由   提交 /u/WalkingGundam   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/WalkingGundam  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuadhc/could_i_take_the_husk_of_open_rpg_maker_and/</guid>
       <pubDate>Fri, 17 May 2024 16:59:41 GMT</pubDate>
     </item>
     <item>
-      <title>Winamp 宣布将开放其源代码，以便协作开发其适用于 Windows 的传奇播放器。</title>
+      <title>Winamp 宣布将开放其源代码，以便能够协作开发其传奇的 Windows 播放器。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cu8ri8/winamp_has_announced_that_it_is_opening_up_its/</link>
       <description><![CDATA[    /u/Puzzleheaded-Eye8414   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cu8ri8/winamp_has_announced_that_it_is_opening_up_its/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[嘿r/opensource社区！&lt; /p&gt; 我的开源 PDF 阅读器 MJ PDF v2.2.0 即将正式发布&lt; /a&gt;，但我需要你的测试帮助。该版本侧重于改进和稳定性。以下是更改日志的简短摘要： 简短更改日志  添加了对阿拉伯语、中文、土耳其语、德语、西班牙语、葡萄牙语、印地语和俄语的支持。 引入了“始终处于水平模式”选项。 向搜索结果添加了返回按钮，改进了搜索结果突出显示。 添加了对密码保护和非本地 PDF 的全面支持. 添加了一个实验性设置以显示“重新加载 PDF 文件”按钮 修复了后退按钮在某些情况下不起作用的问题。 改进了 UI 一致性具有图标和文本颜色，以及更简化的全屏按钮布局。 解决了许多崩溃情况。 更新了 Android SDK、Gradle 和许多依赖项。  ul&gt; 注意：核心库的重大更新标志着重大进展，解决了长期存在的问题。 令人兴奋的更新 在此版本上工作时，我找到了一种可能添加一些最需要的功能的方法，例如文本突出显示和实时文本选择。看来我可以毫不费力地完成这些工作。然而，我现在很忙，所以我不确定什么时候开始做这些。我会随时通知您！ 链接  直接下载链接。 简单变更日志。 详细变更日志 .  感谢您参与这次旅程，祝您测试愉快！   由   提交 /u/mudlej   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ctsmdm/announcing_mj_pdf_v220_opensource_android_pdf/</guid>
       <pubDate>Fri, 17 May 2024 00:46:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国主权技术基金现在支持 FFmpeg</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ctmhx5/germanys_sovereign_tech_fund_now_supporting_ffmpeg/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/vmbrasseur  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ctmhx5/germanys_sovereign_tech_fund_now_supporting_ffmpeg/</guid>
-      <pubDate>Thu, 16 May 2024 20:10:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>VFCFinder 重点介绍开源软件中的安全补丁</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ctj864/vfcfinder_highlights_security_patches_in_open/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/yourbasicgeek  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ctj864/vfcfinder_highlights_security_patches_in_open/</guid>
-      <pubDate>Thu, 16 May 2024 18:00:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
