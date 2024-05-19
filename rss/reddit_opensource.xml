@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 19 May 2024 15:06:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 18:06:43 GMT</lastBuildDate>
     <item>
       <title>显示热键 1.3.2 发布！使用热键立即应用显示设置！</title>
       <link>https://www.reddit.com/r/opensource/comments/1cvnql2/display_hot_keys_132_released_instantly_apply/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>寻找有关我的开源密码管理器应用程序 - NewPass 的反馈！</title>
       <link>https://www.reddit.com/r/opensource/comments/1cvmo4t/looking_for_feedback_on_my_open_source_password/</link>
-      <description><![CDATA[   大家好， 我一直在致力于一个开放的- 名为 NewPass 的源 Android 应用程序，旨在提供安全且用户友好的密码管理解决方案。经过付出大量努力，我很高兴与大家分享，并很高兴听到您的想法和建议。 主要功能： - 安全存储：使用强大的加密功能可确保您的密码安全。 - 用户友好的界面：设计直观且易于使用。 - 开源：该代码可在 GitHub 上找到，因此您可以查看、贡献或分叉它。 我正在寻找： - 有关功能和界面的反馈 - 改进建议 - 错误报告 如果您有兴趣，请访问 网站 或 GitHub 存储库。 提前致谢！ &lt; /div&gt;  由   提交/u/Geeero  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      大家好， 我一直在开发一款名为 NewPass 的开源 Android 应用，旨在为管理密码提供安全且用户友好的解决方案。经过大量努力，我很高兴与大家分享，并希望听到您的想法和建议。 主要功能： - 安全存储：使用强加密来保证您的密码安全。 - 用户友好界面：设计直观且易于使用。 - 开源：代码可在 GitHub 上获得，因此您可以查看、贡献或分叉它。 我正在寻找： - 有关功能和界面的反馈 - 改进建议 - 错误报告 如果您有兴趣，请访问网站或GitHub repo。 提前致谢！    由    /u/Geeero  提交  [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cvmo4t/looking_for_feedback_on_my_open_source_password/</guid>
       <pubDate>Sun, 19 May 2024 12:00:39 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>browsermob-proxy 功能是否有真正的竞争者</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/</link>
-      <description><![CDATA[因此，我一直在使用 browsermob-proxy 进行编程代理访问，到目前为止非常满意。现在我的需求已经发生了变化，并且由于没有维护的 browsermob-proxy 已经很旧并且不支持 wss 等，我陷入了困境。  mitmproxy 很棒并且维护得很好，但我无法通过受控会话创建 har，在其中我可以执行 new_har 的操作，然后在与客户端相同的程序运行时中处理所有请求。 我希望能够以编程方式控制代理会话，并且需要对 HTTP/2 和 HTTP/2 的支持。 QUIC 对于 websocket 来说会很棒，当然对于 ssl 终止等也是如此。 在这种情况下要考虑的正确方法甚至正确的代理是什么。    由   提交/u/droned-s2k   /u/droned-s2k  reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[因此，我一直在使用 browsermob-proxy 进行编程代理访问，到目前为止非常满意。现在我的需求已经发生了变化，并且由于没有维护的 browsermob-proxy 已经很旧并且不支持 wss 等，我陷入了困境。  mitmproxy 很棒并且维护得很好，但我无法通过受控会话创建 har，在其中我可以执行 new_har 的操作，然后在与客户端相同的程序运行时中处理所有请求。 我希望能够以编程方式控制代理会话，并且需要对 HTTP/2 和 HTTP/2 的支持。 QUIC 对于 websocket 来说会很棒，当然对于 ssl 终止等。 在这种情况下要考虑的正确方法甚至正确的代理是什么。    由   提交/u/droned-s2k   /u/droned-s2k  reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/</guid>
       <pubDate>Sat, 18 May 2024 10:21:04 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>我构建了一个运行本地法学硕士的开源答案引擎</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuguyx/i_built_an_opensource_answer_engine_that_runs/</link>
-      <description><![CDATA[大家好！我构建了一个名为 Farfalle 的开源人工智能答案引擎。  它是 Perplexity 的自托管替代品，通过 ollama 支持本地模型。它具有从头开始构建的生成式 UI，具有来自后端的流事件。 演示视频展示了我在 M1 Macbook Pro 上使用 llama3 在本地运行它。 Open-来源：代码在 Github 上完全开源 (github.com/rashadphz/farfalle/) 存储库包含有关如何在本地运行项目以及如何使用 Ollama + Docker 设置项目的说明。   由   提交/u/rashadphil  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我构建了一个名为 Farfalle 的开源 AI 驱动答案引擎。 它是 Perplexity 的自托管替代方案，可通过 ollama 支持本地模型。它具有从头开始构建的生成 UI，并带有来自后端的流式事件。 演示视频展示了我在 M1 Macbook Pro 上使用 llama3 本地运行它。 开源：代码在 Github 上完全开源（github.com/rashadphz/farfalle/） 存储库包含有关如何在本地运行项目并使用 Ollama + Docker 进行设置的说明。    提交人    /u/rashadphil   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuguyx/i_built_an_opensource_answer_engine_that_runs/</guid>
       <pubDate>Fri, 17 May 2024 21:30:36 GMT</pubDate>
     </item>
