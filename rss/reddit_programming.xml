@@ -4,20 +4,97 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 20 May 2024 15:06:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 18:06:39 GMT</lastBuildDate>
     <item>
-      <title>您如何管理链接和书签？</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwhqsh/how_do_you_manage_your_links_and_bookmarks/</link>
-      <description><![CDATA[ 由   提交/u/TellPleasant8005  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwhqsh/how_do_you_manage_your_links_and_bookmarks/</guid>
-      <pubDate>Mon, 20 May 2024 15:04:08 GMT</pubDate>
+      <title>Uber 将 1 万亿条记录从 DynamoDB 迁移到 LedgerStore，每年节省 600 万美元</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwm04c/uber_migrates_1_trillion_records_from_dynamodb_to/</link>
+      <description><![CDATA[ 由   提交/u/rgancarz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwm04c/uber_migrates_1_trillion_records_from_dynamodb_to/</guid>
+      <pubDate>Mon, 20 May 2024 18:03:26 GMT</pubDate>
     </item>
     <item>
-      <title>孩子在游泳课上表现得很激动！vbrrghrb nggggfhhh😚</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwhn7h/child_shows_big_emotions_at_swim_lessonvbrrghrb/</link>
-      <description><![CDATA[U   由   提交/u/RiseBroad8502  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwhn7h/child_shows_big_emotions_at_swim_lessonvbrrghrb/</guid>
-      <pubDate>Mon, 20 May 2024 15:00:09 GMT</pubDate>
+      <title>VINIX - 用 V 语言编写的操作系统（与 Unix 兼容，包括 Bash、Xorg……）</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwlvuq/vinix_operating_system_with_unix_compatibility/</link>
+      <description><![CDATA[ 由   提交/u/j_m_macleod  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwlvuq/vinix_operating_system_with_unix_compatibility/</guid>
+      <pubDate>Mon, 20 May 2024 17:58:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 包装产品的繁荣是一个恐怖谷地狱景象</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwltdj/the_chatgpt_wrapper_product_boom_is_an_uncanny/</link>
+      <description><![CDATA[ 由   提交/u/_PC__LOAD__LETTER_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwltdj/the_chatgpt_wrapper_product_boom_is_an_uncanny/</guid>
+      <pubDate>Mon, 20 May 2024 17:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果（ping>200）：销毁（现实）；</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwltd8/if_ping200_destroyreality/</link>
+      <description><![CDATA[ 由   提交 /u/ShinyHappyREM   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwltd8/if_ping200_destroyreality/</guid>
+      <pubDate>Mon, 20 May 2024 17:55:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>最终决定着手创建一门像样的Python和Android课程。 Kivy学校推出新课程</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwlrxn/finally_decided_to_get_down_to_creating_a_decent/</link>
+      <description><![CDATA[ 由   提交/u/Cabbanis_Zero  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwlrxn/finally_decided_to_get_down_to_creating_a_decent/</guid>
+      <pubDate>Mon, 20 May 2024 17:54:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>优化 SQL 查询 - PostgreSQL 最佳实践</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwlede/optimizing_sql_queries_postgresql_best_practices/</link>
+      <description><![CDATA[ 由   提交/u/waterslurpingnoises   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwlede/optimizing_sql_queries_postgresql_best_practices/</guid>
+      <pubDate>Mon, 20 May 2024 17:38:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cample-html - 新的开源工具，用于轻松获取服务器端 HTML 并将其添加到 DOM。</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwklmw/camplehtml_new_open_source_tool_for_easily/</link>
+      <description><![CDATA[ 由   提交/u/antonmak1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwklmw/camplehtml_new_open_source_tool_for_easily/</guid>
+      <pubDate>Mon, 20 May 2024 17:05:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>NoJS 2 - 随机 Boogaloo。使用纯 HTML 和 CSS 制作具有“随机性”的井字游戏。没有JavaScript！</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwk5d0/nojs_2_stochastic_boogaloo_making_a_tictactoe/</link>
+      <description><![CDATA[ 由   提交/u/Prof_Farnsworth1729  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwk5d0/nojs_2_stochastic_boogaloo_making_a_tictactoe/</guid>
+      <pubDate>Mon, 20 May 2024 16:46:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAPI 生成器 v7.6.0 发布</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwjw6t/openapi_generator_v760_released/</link>
+      <description><![CDATA[  由    /u/wing328  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwjw6t/openapi_generator_v760_released/</guid>
+      <pubDate>Mon, 20 May 2024 16:35:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>K 均值聚类算法的 5 分钟视觉指南。</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwjtt8/a_5_minute_visual_guide_to_the_kmeans_clustering/</link>
+      <description><![CDATA[ 由   提交/u/ml_a_day  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwjtt8/a_5_minute_visual_guide_to_the_kmeans_clustering/</guid>
+      <pubDate>Mon, 20 May 2024 16:32:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>一堂课永远改变了我对结果的看法</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwj4qq/one_lesson_that_forever_changed_how_i_look_at/</link>
+      <description><![CDATA[  由    /u/ToddLankford  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwj4qq/one_lesson_that_forever_changed_how_i_look_at/</guid>
+      <pubDate>Mon, 20 May 2024 16:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用源代码控制 - 在回顾三十年的工作后给程序员的建议，以获得更友善、更健康的生活。</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwiiy0/use_source_control_advice_for_programmers_after/</link>
+      <description><![CDATA[ 由   提交/u/davidwhitney  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwiiy0/use_source_control_advice_for_programmers_after/</guid>
+      <pubDate>Mon, 20 May 2024 15:37:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>让 PostgreSQL 为您选择一个索引</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwib9n/let_postgresql_pick_an_index_for_you/</link>
+      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwib9n/let_postgresql_pick_an_index_for_you/</guid>
+      <pubDate>Mon, 20 May 2024 15:27:44 GMT</pubDate>
     </item>
     <item>
       <title>在 StackOverflow 上提问之前，请先做好功课！</title>
@@ -32,83 +109,6 @@
       <description><![CDATA[ 由   提交/u/dodiehun  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwgrk7/git_tips_and_tricks/</guid>
       <pubDate>Mon, 20 May 2024 14:20:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>用 html 编写你的第一个 hello world</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwgn9k/write_your_first_hello_world_in_html/</link>
-      <description><![CDATA[ 由   提交/u/Low_Bank4390   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwgn9k/write_your_first_hello_world_in_html/</guid>
-      <pubDate>Mon, 20 May 2024 14:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件开发中的代码完成 - 利用生成代码和人工智能工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwg2vb/code_completion_in_software_development/</link>
-      <description><![CDATA[ 由   提交/u/thumbsdrivesmecrazy  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwg2vb/code_completion_in_software_development/</guid>
-      <pubDate>Mon, 20 May 2024 13:50:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们公司 (BioSistemika) 正在举办一场关于 IVD（体外诊断）行业有效软件开发的免费网络研讨会。</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwesxe/our_company_biosistemika_is_hosting_a_free/</link>
-      <description><![CDATA[ 由   提交/u/DrShestar  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwesxe/our_company_biosistemika_is_hosting_a_free/</guid>
-      <pubDate>Mon, 20 May 2024 12:50:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 LoRA、llama.cpp 和 KitOps 微调您的第一个大型语言模型 (LLM)</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwejgf/finetune_your_first_large_language_model_llm_with/</link>
-      <description><![CDATA[ 由   提交/u/iamjessew  [链接] &amp; #32； [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwejgf/finetune_your_first_large_language_model_llm_with/</guid>
-      <pubDate>Mon, 20 May 2024 12:37:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>编码实验：Jetpack Compose Android 应用程序，用于通过动画 QR 码在设备之间传输大字符串</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwdxao/coding_experiment_a_jetpack_compose_android_app/</link>
-      <description><![CDATA[ 由   提交/u/Sajeg  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwdxao/coding_experiment_a_jetpack_compose_android_app/</guid>
-      <pubDate>Mon, 20 May 2024 12:05:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>SDG-增加了对基于 GPT 的单表合成数据生成的支持</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwdi11/sdg_adds_support_for_gptbased_synthetic_data/</link>
-      <description><![CDATA[ 由   提交 /u/hitszids   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwdi11/sdg_adds_support_for_gptbased_synthetic_data/</guid>
-      <pubDate>Mon, 20 May 2024 11:42:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>包含基于LLM的单表数据合成模型，查看colab示例：LLM：数据合成和LLM：表外特征推理。</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwdfwt/a_singletable_data_synthesis_model_based_on_llm/</link>
-      <description><![CDATA[ 由   提交 /u/hitszids   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwdfwt/a_singletable_data_synthesis_model_based_on_llm/</guid>
-      <pubDate>Mon, 20 May 2024 11:38:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>编码挑战 - Google 发布 Gemini 1.5</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwczh6/coding_challenge_google_releases_gemini_15/</link>
-      <description><![CDATA[ 由   提交/u/curious_drive  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwczh6/coding_challenge_google_releases_gemini_15/</guid>
-      <pubDate>Mon, 20 May 2024 11:12:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>JWT 不是为了授权而生的</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwcrgm/jwts_arent_made_for_authorization/</link>
-      <description><![CDATA[ 由   提交/u/odd_sherlock  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwcrgm/jwts_arent_made_for_authorization/</guid>
-      <pubDate>Mon, 20 May 2024 10:59:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>交互式 UI：掌握 ReactJS 进行 Web 开发</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwcowz/interactive_uis_mastering_reactjs_for_web/</link>
-      <description><![CDATA[ 由   提交/u/anujtomar_17  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwcowz/interactive_uis_mastering_reactjs_for_web/</guid>
-      <pubDate>Mon, 20 May 2024 10:54:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 shadcn ui 与 adobe 的 React aria 一起使用</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwbs5z/using_shadcn_ui_with_adobes_react_aria/</link>
-      <description><![CDATA[ 由   提交/u/pdycnbl  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwbs5z/using_shadcn_ui_with_adobes_react_aria/</guid>
-      <pubDate>Mon, 20 May 2024 09:57:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
