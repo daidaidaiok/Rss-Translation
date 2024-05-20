@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 20 May 2024 03:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 06:07:09 GMT</lastBuildDate>
+    <item>
+      <title>ImageGlass 现在是付费应用程序吗？如果是这样，什么是真正好的免费替代方案？</title>
+      <link>https://www.reddit.com/r/software/comments/1cw5xqd/is_imageglass_a_pay_app_now_if_so_what_is_a_free/</link>
+      <description><![CDATA[最近有更新，看来您现在只能在 Microsoft Store 上获取 ImageGlass。价格为 9.99 美元或“免费试用”。我似乎记得在 ImageGlass 的网站或其他地方下载过它，没有特殊条件。此外，ImageGlass 有着糟糕的历史，开发人员将某种恶意软件或其他东西打包在一起，导致了黑名单，直到它被删除，所以谁知道开发人员现在在这个最新更新中做了什么。 那么是时候寻找替代方案还是仍然有免费的当前版本的 ImageGlass？   由   提交 /u/GoBackToLeddit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cw5xqd/is_imageglass_a_pay_app_now_if_so_what_is_a_free/</guid>
+      <pubDate>Mon, 20 May 2024 03:20:46 GMT</pubDate>
+    </item>
     <item>
       <title>您用拇指驱动器/U 盘做过的最酷的事情是什么？</title>
       <link>https://www.reddit.com/r/software/comments/1cw4u24/what_are_the_coolest_things_you_have_done_with/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>[PATCH] mmc-utils：实现了 CMD42 锁定/解锁</title>
       <link>https://www.reddit.com/r/software/comments/1cw3x4y/patch_mmcutils_implemented_cmd42_lockingunlocking/</link>
-      <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
+      <description><![CDATA[  由   提交  /u/throwaway16830261   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cw3x4y/patch_mmcutils_implemented_cmd42_lockingunlocking/</guid>
       <pubDate>Mon, 20 May 2024 01:32:29 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Sun, 19 May 2024 23:05:10 GMT</pubDate>
     </item>
     <item>
-      <title>客户的电脑到底怎么了？我在上面安装了干净的 Windows 7，除了 Chrome 之外，无论是 x64 还是 x32，我都无法安装任何东西，因为这个错误 - “C:\\Users\Peter\Desktop\OperaSetup.exe 不是有效的 Win32 应用程序。”</title>
+      <title>客户的电脑上到底发生了什么？我在上面安装了全新 Windows 7，但无论是 x64 还是 x32，除了 Chrome 之外，我都无法安装任何东西，因为出现此错误 - “C:\\Users\Peter\Desktop\OperaSetup.exe 不是有效的 Win32 应用程序。”</title>
       <link>https://www.reddit.com/r/software/comments/1cw0yqp/what_the_fuck_is_going_on_customers_computer_i/</link>
       <description><![CDATA[“C:\Users\Peter\Desktop\OperaSetup.exe 不是有效的 Win32 应用程序。” i已经尝试安装 Windows x64 并遇到了同样的错误...  PC 有 4GB 内存，之前安装了一些充满病毒的修改 Windows 8 版本，现在我几乎无法安装任何东西（当前使用 Windows 7 x32） )   由   提交 /u/usuariocabuloso   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cw0yqp/what_the_fuck_is_going_on_customers_computer_i/</guid>
@@ -43,12 +50,12 @@
     <item>
       <title>Laview户外摄像机的PC应用程序？</title>
       <link>https://www.reddit.com/r/software/comments/1cvz63m/pc_app_for_laview_outdoor_camera/</link>
-      <description><![CDATA[尝试将我的户外安全摄像头传输到我的电视上，但似乎找不到任何可以连接到 LaView 摄像头的东西。谢谢大家。如果我至少可以先将它连接到我的笔记本电脑上，那么我就可以传输它。或者有一个适用于 GoogleTV 或 Roku 的 cmaera 应用程序，那就更好了。    提交人    /u/Dramatic-Emu-7899   [link] [评论]]]></description>
+      <description><![CDATA[尝试将我的户外安全摄像头传输到我的电视，但我似乎找不到任何可以连接到 LaView 摄像头的东西。谢谢大家。如果我至少可以将它放到我的笔记本电脑 1srt 上，那么我就可以流式传输它。或者有一个适用于 GoogleTV 或 Roku 的 cmaera 应用程序，这两个应用程序会更好。   由   提交/u/Dramatic-Emu-7899   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cvz63m/pc_app_for_laview_outdoor_camera/</guid>
       <pubDate>Sun, 19 May 2024 21:40:44 GMT</pubDate>
     </item>
     <item>
-      <title>Mp4 转 GIF 但质量很高？</title>
+      <title>Mp4 转 GIF 但质量要高吗？</title>
       <link>https://www.reddit.com/r/software/comments/1cvwius/mp4_to_gif_but_high_quality/</link>
       <description><![CDATA[我尝试将文件转换为 GIF，但质量太差，我不知道该怎么办。 Adobe Express 太烂了，让整个事情看起来很糟糕，Ezgif 让它看起来好一点，但不是很多，而且完美的循环被剪掉了，所以玩的时候看起来很奇怪，Filmora 要求我买没有水印的，所以我没有甚至不尝试测试。有没有人有一个好的软件或网站可以将 MP4 制作为 GIF，可以保持其高质量并保持其完美的循环？    由   提交 /u/Traditional-Age-6547   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cvwius/mp4_to_gif_but_high_quality/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Sun, 19 May 2024 06:26:28 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 Jdownloader 从 xtremevideos 下载</title>
+      <title>如何使用Jdownloader从xtremevideos下载</title>
       <link>https://www.reddit.com/r/software/comments/1cvhar7/how_to_use_jdownloader_to_download_from/</link>
       <description><![CDATA[你好 希望你一切顺利！  当您拥有链接 https:// 时，如何使用 jdownloader 下载视频ardirilisertugrul.net/kutul-amare/1.php?id=33   由   提交/u/mosid455  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cvhar7/how_to_use_jdownloader_to_download_from/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我想知道是否有一些免费软件具有与 Photoshop 类似的功能。我以前使用过 Photoshop，我喜欢它并想继续使用它，但它对我来说太贵了，我希望找到免费的替代品。谢谢！   由   提交/u/MagicRegan  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cvf8le/looking_for_any_photoshop_alternative_that_look/</guid>
       <pubDate>Sun, 19 May 2024 03:46:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件可以让我的手机在收到来自特定电子邮件的电子邮件时崩溃</title>
-      <link>https://www.reddit.com/r/software/comments/1cveak8/software_to_make_my_phone_blowup_upon_receiving/</link>
-      <description><![CDATA[我兼职工作，我接受轮班的方式是他们向我发送一封电子邮件，告知有轮班，然后我可以通过以下方式接受或拒绝轮班：他们的应用程序。问题是当我看到电子邮件时，班次已被其他人接受。当我收到来自该特定电子邮件的电子邮件时，是否可以通过电话让铃声或闹钟响起？我有一部小米手机。谢谢   由   提交 /u/MrGustav101   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cveak8/software_to_make_my_phone_blowup_upon_receiving/</guid>
-      <pubDate>Sun, 19 May 2024 02:53:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 20 May 2024 03:06:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 06:07:13 GMT</lastBuildDate>
+    <item>
+      <title>[视频]如何养成良好的开发习惯！了解“习惯叠加”、“2 分钟规则”、“诱惑捆绑”以及其他一些内容……</title>
+      <link>https://www.reddit.com/r/programming/comments/1cw89h7/video_how_to_incorporate_good_dev_habits_learn/</link>
+      <description><![CDATA[ 由   提交/u/natan-sil  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cw89h7/video_how_to_incorporate_good_dev_habits_learn/</guid>
+      <pubDate>Mon, 20 May 2024 05:44:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>City In A Bottle – 256 字节光线投射系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1cw823t/city_in_a_bottle_a_256_byte_raycasting_system/</link>
+      <description><![CDATA[  由    /u/Slackluster  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cw823t/city_in_a_bottle_a_256_byte_raycasting_system/</guid>
+      <pubDate>Mon, 20 May 2024 05:30:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>apache项目中使用的语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1cw6rbx/lenguajes_utilizados_en_los_proyectos_apache/</link>
+      <description><![CDATA[ 由   提交/u/emanuelpeg  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cw6rbx/lenguajes_utilizados_en_los_proyectos_apache/</guid>
+      <pubDate>Mon, 20 May 2024 04:07:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>.NET 和 .NET Framework 2024 年 5 月服务更新 - .NET 博客</title>
+      <link>https://www.reddit.com/r/programming/comments/1cw5q2i/net_and_net_framework_may_2024_servicing_updates/</link>
+      <description><![CDATA[ 由   提交/u/myotcworld  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cw5q2i/net_and_net_framework_may_2024_servicing_updates/</guid>
+      <pubDate>Mon, 20 May 2024 03:08:33 GMT</pubDate>
+    </item>
     <item>
       <title>数学语言</title>
       <link>https://www.reddit.com/r/programming/comments/1cw4vb0/a_language_for_math/</link>
@@ -43,7 +71,7 @@
     <item>
       <title>PokeText - 一个 Pokemon 捕捉和（某种程度上）探索 CLI 应用程序。</title>
       <link>https://www.reddit.com/r/programming/comments/1cw0xev/poketext_a_pokemon_catching_and_sorta_exploring/</link>
-      <description><![CDATA[  由    /u/ThatProgrammingDude  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/ThatProgrammingDude   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cw0xev/poketext_a_pokemon_catching_and_sorta_exploring/</guid>
       <pubDate>Sun, 19 May 2024 23:01:16 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvtixc/why_kubernetes_was_a_mistake_for_my_saas_business/</guid>
       <pubDate>Sun, 19 May 2024 17:29:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>HVM2 101：新的（？）并行计算创新的无障碍指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1cvte9n/hvm2_101_an_accessible_guide_to_new_parallel/</link>
-      <description><![CDATA[ 由   提交/u/CrowSufficient  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cvte9n/hvm2_101_an_accessible_guide_to_new_parallel/</guid>
-      <pubDate>Sun, 19 May 2024 17:23:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>weval 免费编译器：WebAssembly 部分评估器</title>
-      <link>https://www.reddit.com/r/programming/comments/1cvtd5s/compilers_for_free_with_weval_a_webassembly/</link>
-      <description><![CDATA[ 由   提交/u/self  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cvtd5s/compilers_for_free_with_weval_a_webassembly/</guid>
-      <pubDate>Sun, 19 May 2024 17:21:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>从开发者角度看我使用 n8n 的经历</title>
-      <link>https://www.reddit.com/r/programming/comments/1cvsqek/my_experience_using_n8n_from_a_developer/</link>
-      <description><![CDATA[ 由   提交/u/superjet1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cvsqek/my_experience_using_n8n_from_a_developer/</guid>
-      <pubDate>Sun, 19 May 2024 16:51:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我希望我早点知道 BCR</title>
-      <link>https://www.reddit.com/r/programming/comments/1cvqsg3/i_wish_i_knew_about_bcr_earlier/</link>
-      <description><![CDATA[为编码面试做好准备是很困难的，尤其是当您不确定 DSA 时。甚至当你在公司写一段片段时也可能如此。我知道只要有机会，我就想优化我的代码。所以我一直的问题是“它足够好吗？”。我其实不知道该停在哪里。就在那时，我遇到了“最佳可想象运行时”，在本文中，我尝试尽我所能总结这个概念。   由   提交 /u/Siddhapan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cvqsg3/i_wish_i_knew_about_bcr_earlier/</guid>
-      <pubDate>Sun, 19 May 2024 15:26:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

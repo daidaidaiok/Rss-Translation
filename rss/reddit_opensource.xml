@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 20 May 2024 03:06:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 06:07:37 GMT</lastBuildDate>
+    <item>
+      <title>限制 LLM 培训管道使用源代码的许可证可以开源吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cw7qih/can_a_license_that_restricts_consumption_of/</link>
+      <description><![CDATA[这件事困扰了我一段时间。我有几个小型软件项目想与人类用户分享，但我已经停止将代码推送到 GitHub，因为想到我正在为封闭源语言模型的技术寡头提供免费劳动力，这让我感觉有点恶心。 我知道我的想法有矛盾。我曾为几家公司工作，这些公司的产品都是基于开源产品构建的（虽然公平地说，其中几家公司不仅仅是_使用_开源，而且还积极贡献或制作自己的开源项目），我也为我知道用于商业产品的开源项目做出了贡献。我并不声称自己没有矛盾，也不想在这里解决这些矛盾。 我想知道的是：开源的定义中是否有空间允许许可证对许可源的分发施加限制，以使其不能通过 Github 等托管服务进行分发，这些托管服务的服务条款包括默示许可授予，允许他们基本上对他们托管的代码做任何他们想做的事情？ 我知道 OSI 提供了 开源定义，我可以看到反对“仅限人类的开源”的良好论据（但我也可以看到一些很好的反驳）。我还知道版权本身（就 LLM 而言，可以说是过时的法律范式）包括公平使用原则，但该原则尚未在法庭上充分发挥作用。 我是唯一有这种感觉的人吗？或者这种感觉是否意味着社区中其他人也存在一个需要解决的问题？ 如果我们不能将一个限制使用涵盖的软件来训练 LLM 的许可证称为“开源”，但我们仍然希望以 OSI 定义所涵盖的方式与人类共享它，我们该如何称呼它？在我看来，限制在 LLM 中使用而没有通常要求开源的归属并不意味着这种软件是专有的（尽管我看到有人对这种限制感到冒犯，想称其为专有）。 我今天早些时候考虑过这个问题，并决定尝试整理这样一个许可证，称之为“人类公共许可证”： * https://gitea.com/waynr/human-public-license 这是我在其他许可证的“非 AI”版本集合中找到的 MPL 2.0 衍生产品的修改。 我想把这个许可证称为“开源”因为我认为它符合开源精神，在 LLM 炒作和 LLM 产品化之前，我意识到我打算与其他人分享的代码也可能用于训练闭源 LLM。 并不是说它非常相关或重要，但我正在最近开始使用的一个小工具上试用此许可证： * https://gitea.com/waynr/chooks    提交人    /u/trickofshade   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cw7qih/can_a_license_that_restricts_consumption_of/</guid>
+      <pubDate>Mon, 20 May 2024 05:09:09 GMT</pubDate>
+    </item>
     <item>
       <title>第一次在 Pypi 中发布并寻求任何反馈</title>
       <link>https://www.reddit.com/r/opensource/comments/1cvzpxb/first_time_publishing_in_pypi_and_looking_for_any/</link>
@@ -13,9 +20,9 @@
       <pubDate>Sun, 19 May 2024 22:05:27 GMT</pubDate>
     </item>
     <item>
-      <title>显示热键 1.3.2 发布！使用热键立即应用显示设置！</title>
+      <title>显示热键 1.3.2 已发布！使用热键立即应用显示设置！</title>
       <link>https://www.reddit.com/r/opensource/comments/1cvnql2/display_hot_keys_132_released_instantly_apply/</link>
-      <description><![CDATA[网站：https://jon- mil-92.github.io/DisplayHotKeys/ 更改日志  清除热键按钮现在位于热键旁边键。 缩短了插槽指示器标签。 修复了启动时运行按钮在刷新应用程序后恢复到不正确状态的错误。&lt; /li&gt; 在清除所有热键插槽时添加了确认弹出窗口。  发行说明 此版本侧重于压缩 UI。 清除热键按钮已更改为热键旁边的小按钮，并且根据是否设置热键动态禁用和启用自身。插槽指示器标签也被缩短。 如果您事先安装了 Display Hot Keys 1.2.0 或更早版本，您必须先将其卸载，然后才能使用 1.3.2 版本的安装程序 。此外，如果更改主显示器，然后以某种方式更改显示配置，则应用程序可能会挂起并拒绝启动备份。目前，如果发生这种情况，重新启动 Windows 将阻止应用程序挂起并拒绝启动。 如果您发现此软件有用，请考虑为该项目授予“星”级。在 GitHub 页面上！如果您真的很慷慨，请考虑使用网站或应用程序中的 PayPal 捐赠按钮进行捐赠。谢谢！   由   提交/u/jonRock1992   [链接] [评论]]]></description>
+      <description><![CDATA[网站：https://jon-mil-92.github.io/DisplayHotKeys/ 变更日志  清除热键按钮现在位于热键旁边。 缩短了插槽指示器标签。 修复了刷新应用程序后启动时运行按钮会恢复到不正确状态的错误。 清除所有热键插槽时添加确认弹出窗口。  发行说明 此版本专注于压缩 UI。 清除热键按钮已更改为热键旁边的小按钮，它会根据是否设置了热键动态禁用和启用自身。插槽指示器标签也已缩短。 如果您之前安装了 Display Hot Keys 版本 1.2.0 或更早版本，您必须在使用版本 1.3.2 的安装程序之前将其卸载。此外，如果更改了主显示器，然后以某种方式更改了显示配置，则应用程序可能会挂起并拒绝重新启动。目前，如果发生这种情况，重新启动 Windows 将阻止应用程序挂起并拒绝启动。 如果您发现此软件有用，请考虑在 GitHub 页面上为该项目点赞！如果您真的很慷慨，请考虑使用网站或应用程序中的 PayPal 捐赠按钮进行捐赠。谢谢！    提交人    /u/jonRock1992   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cvnql2/display_hot_keys_132_released_instantly_apply/</guid>
       <pubDate>Sun, 19 May 2024 13:00:06 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>LinkedIn 个人资料页面的替代方案？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cvf0ju/alternative_to_linkedin_profile_page/</link>
-      <description><![CDATA[我正在寻找可以在自己的域上托管的与 LinkedIn 个人资料页面（不是职位匹配或社交提要）等效的内容。我想为我的个人资料托管一个登陆页面，同时尽可能坚持 LinkedIn 的设计。 为什么不直接使用 LinkedIn？ 非 LinkedIn 无法访问 LinkedIn 个人资料页面用户。 URL 有一个技巧可以实现，但它不一致，它要么让您访问个人资料，要么要求您连接您的帐户。这就是为什么我想自己托管它，以获得更好的控制和一致的行为。将我的个人资料提取为 PDF，然后托管 - 这是一个选项，但 .pdf 版本不如网站美观，并且不&#39; t 显示诸如“项目”之类的部分。 为什么坚持 LinkedIn 的设计/格式？LinkedIn 是我的专业领域中的一个众所周知的平台。遵循此模板将简化招聘人员浏览我的个人资料的过程（对于那些使用 LinkedIn 的人）。 仅作为一些视觉定制进行链接，它迫使我们以非常有限的方式关注内容效率和创造力。这对我的域名来说是一个很好的品质，所以我希望保留它。我真的很喜欢将媒体嵌入到各个部分的可能性。 我愿意听到与 LinkedIn 解决方案不太相似的解决方案，因为我知道我很难希望得到一份副本。 ^^   由   提交 /u/Tungill   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个与 LinkedIn 个人资料页面相当的页面（不是工作匹配或社交信息流），我可以将其托管在自己的域上。我想托管我的个人资料的登录页面，同时尽可能遵循 LinkedIn 的设计。 你为什么不直接使用 LinkedIn？ 非 LinkedIn 用户无法访问 LinkedIn 个人资料页面。有一个使用 URL 的技巧可以做到这一点，但它不一致，它要么允许您访问个人资料，要么要求您连接您的帐户。这就是为什么我想自己托管它，以便有更好的控制和一致的行为。 将我的个人资料提取为 PDF 然后托管它是一个选项，但 .pdf 版本不如网站美观，并且不显示“项目”等部分。 为什么要坚持 LinkedIn 的设计/格式？ LinkedIn 是我专业领域中一个知名的平台。遵循此模板将简化招聘人员浏览我的个人资料的过程（对于使用 LinkedIn 的人）。 由于只有少数视觉定制，它迫使人们以非常有限的方式关注内容效率和创造力。这对我的领域来说是一个很好的品质，所以我希望保留它。我真的很喜欢将媒体嵌入到部分中的可能性。 我愿意听到与 LinkedIn 解决方案不太相似的东西，因为我知道我几乎不能指望一份副本。^^    提交人    /u/Tungill   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cvf0ju/alternative_to_linkedin_profile_page/</guid>
       <pubDate>Sun, 19 May 2024 03:33:18 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>加入 macOS 上的 GSequencer 测试版</title>
       <link>https://www.reddit.com/r/opensource/comments/1cusndf/join_the_gsequencer_beta_on_macos/</link>
-      <description><![CDATA[      由   提交/u/joel2001k   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/joel2001k   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cusndf/join_the_gsequencer_beta_on_macos/</guid>
       <pubDate>Sat, 18 May 2024 08:27:06 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[    /u/Puzzleheaded-Eye8414   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cu8ri8/winamp_has_announced_that_it_is_opening_up_its/</guid>
       <pubDate>Fri, 17 May 2024 15:54:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源既不是社区也不是民主</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cu8l2l/open_source_is_neither_a_community_nor_a_democracy/</link>
-      <description><![CDATA[        提交人    /u/CrankyBear   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cu8l2l/open_source_is_neither_a_community_nor_a_democracy/</guid>
-      <pubDate>Fri, 17 May 2024 15:47:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
