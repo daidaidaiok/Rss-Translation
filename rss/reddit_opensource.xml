@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 20 May 2024 09:07:49 GMT</lastBuildDate>
+    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Mon, 20 May 2024 12:09:56 GMT</lastBuildDate>
+    <item>
+      <title>交互式 UI：掌握 ReactJS 进行 Web 开发</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cwcq4j/interactive_uis_mastering_reactjs_for_web/</link>
+      <description><![CDATA[   /u/anujtomar_17  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cwcq4j/interactive_uis_mastering_reactjs_for_web/</guid>
+      <pubDate>Mon, 20 May 2024 10:56:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spring 的 Phoenix 模板引擎</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cwbeoz/phoenix_template_engine_for_spring/</link>
+      <description><![CDATA[几个月前，我发布了有关 Pheonix 的文章，这是我开始开发的 Spring boot 模板引擎。它成功地引起了一些关注，我从这里得到了非常好的反馈。我继续开发它，让它更好更快。经过几个月的工作，我有了一个新版本，我相信值得再次发布。我想收集尽可能多的反馈，让凤凰城变得更好。它尚未准备好用于生产使用，还有很多事情需要完成（请参阅“问题”）。 什么是 Phoenix Phoenix 是一个现代模板引擎，用于Spring 和 Spring Boot 旨在通过提供一种创建复杂和模块化模板的方法来促进复杂 Web 应用程序的开发，该模板受益于服务器端渲染，以便更好地集成前端和后端。 Phoenix 与 Thymeleaf 或 Freemarker  与目前其他现有模板引擎相比，Phoenix 具有以下几个优势：  能够将 Java 代码直接集成到 HTML 模板中，而无需学习新的语法或特殊的语法。  一种更容易理解的语法，只需要一个特殊字符@即可将Java代码集成到HTML代码中。 可以的片段或组件可以组合和重用，使代码更易于维护。 速度，速度，速度 - Phoenix 模板经过编译，提供的渲染速度比 Thymeleaf 快几个数量级。在我的（基本）基准测试中，Phoenix 甚至比 Rocker 稍快 借助 Phoenix View，您可以轻松地从任何控制器返回网页或 JSON 对象 反向路由 - Spring 的一个全新功能。 URL 在运行时写入模板中，无需手动写入。您只需要提及控制器和方法，Phoenix 就会计算出正确的 URL。这样，您就可以在控制器中更改 URL，而无需修改模板。 通过从 JS 调用后端来动态修改页面，以获得可随时添加到 DOM 的片段/模块。  与 Rocker 几乎 100% 兼容（并致力于实现完全兼容性） 易于配置*（正在进行中以减少必要的依赖性）。  为什么选择 Phoenix 而不是 React/Angular/Vue？ Phoenix 无意成为 JS 框架的替代品。相反，Phoenix 的目标是利用现有的 JS 框架添加 SSR，从而提高页面渲染速度和 FE-BE 集成。您不再需要总是返回复杂的 JSON；您可以直接提供一个 HTML 页面，其中包含所需的所有内容，仅此而已。关于 SSR 与非 SSR 可能存在很大的争论，因此 Phoenix 尝试结合两者的优点。 开源 Phoenix 完全开源，可以完全用于自由的。它还不够稳定，无法在生产中使用，但我将继续开发它，致力于稳定性和性能，并尝试添加其他功能。当然，值得赞赏。 更多详细信息：https://pazvanti.github.io/Phoenix/  我的博客：https://petrepopescu.tech 意见、反馈、批评等。 这篇文章是为了收集反馈。因此，我欢迎您提出任何意见或批评。请避免使用诸如“让我们回到 JSP”之类的评论。 （Phoenix 完全不同，性能更高且更易于集成）或“当有 React/Angular/Vue/另一个 JS 框架时为什么要使用它”？ （我相信基于 JS 的 FE 框架和提供 SSR 的 BE 端更集成的变体都有空间）。   由   提交/u/pazvanti2003  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cwbeoz/phoenix_template_engine_for_spring/</guid>
+      <pubDate>Mon, 20 May 2024 09:30:43 GMT</pubDate>
+    </item>
     <item>
       <title>博客：RISC-V 硬件上的自动化内核测试</title>
       <link>https://www.reddit.com/r/opensource/comments/1cwb0pb/blog_automated_kernel_testing_on_riscv_hardware/</link>
@@ -34,7 +48,7 @@
       <pubDate>Sun, 19 May 2024 13:00:06 GMT</pubDate>
     </item>
     <item>
-      <title>a.i 💔 开源吗？</title>
+      <title>a.i💔开源？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cvlo3q/ai_open_source/</link>
       <description><![CDATA[   /u/carlospinheirotorres   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cvlo3q/ai_open_source/</guid>
@@ -78,14 +92,14 @@
     <item>
       <title>加入 macOS 上的 GSequencer 测试版</title>
       <link>https://www.reddit.com/r/opensource/comments/1cusndf/join_the_gsequencer_beta_on_macos/</link>
-      <description><![CDATA[      由   提交/u/joel2001k   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/joel2001k   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cusndf/join_the_gsequencer_beta_on_macos/</guid>
       <pubDate>Sat, 18 May 2024 08:27:06 GMT</pubDate>
     </item>
     <item>
       <title>寻找一个支持 Vim 的 Windows 开源便签程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1cupbut/looking_for_an_open_source_sticky_note_program/</link>
-      <description><![CDATA[我知道这听起来很具体，但你必须问。我经常使用 Windows 便笺，并且真的宁愿停止使用它而转而使用开源的东西。最终，我真的希望能够在键入 Vim 命令时使用它们，这就是促使我首先寻找替代方案的原因。   由   提交 /u/Verbais   [链接] [评论]]]></description>
+      <description><![CDATA[我知道这听起来很具体，但你得问。我经常使用 Windows 便签，真的希望停止使用它，转而使用一些开源的东西。最终，我真的希望能够在输入 Vim 命令时使用它们，这就是我首先寻找替代方案的原因。    由   提交  /u/Verbais   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cupbut/looking_for_an_open_source_sticky_note_program/</guid>
       <pubDate>Sat, 18 May 2024 04:41:59 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好！我构建了一个名为 Farfalle 的开源人工智能答案引擎。  它是 Perplexity 的自托管替代品，通过 ollama 支持本地模型。它具有从头开始构建的生成式 UI，具有来自后端的流事件。 演示视频展示了我在 M1 Macbook Pro 上使用 llama3 在本地运行它。 Open-来源：代码在 Github 上完全开源 (github.com/rashadphz/farfalle/) 存储库包含有关如何在本地运行项目以及如何使用 Ollama + Docker 设置项目的说明。   由   提交/u/rashadphil  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuguyx/i_built_an_opensource_answer_engine_that_runs/</guid>
       <pubDate>Fri, 17 May 2024 21:30:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>有助于应对气候变化的开源项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cuf8m4/open_source_projects_that_help_with_climate_change/</link>
-      <description><![CDATA[是否有任何致力于帮助气候变化的开源项目？任何技术堆栈都可以，但 C++ 是我目前最好的语言    由   提交/u/1v0ryh4t  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cuf8m4/open_source_projects_that_help_with_climate_change/</guid>
-      <pubDate>Fri, 17 May 2024 20:20:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以将开放式角色扮演游戏制作工具的外壳与 godot 结合起来使其发挥作用吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cuadhc/could_i_take_the_husk_of_open_rpg_maker_and/</link>
-      <description><![CDATA[ 由   提交 /u/WalkingGundam   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cuadhc/could_i_take_the_husk_of_open_rpg_maker_and/</guid>
-      <pubDate>Fri, 17 May 2024 16:59:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
