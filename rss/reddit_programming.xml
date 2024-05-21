@@ -4,13 +4,13 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 21 May 2024 03:06:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 06:07:09 GMT</lastBuildDate>
     <item>
-      <title>Python基础知识直播</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwwrxz/python_basics_live_stream/</link>
-      <description><![CDATA[高级后端开发人员介绍的Python教程，以及一些有趣且易于使用的库。加入并提出问题或提出建议   由   提交/u/whitechoc6  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwwrxz/python_basics_live_stream/</guid>
-      <pubDate>Tue, 21 May 2024 02:00:49 GMT</pubDate>
+      <title>使用 CompletableFuture 实现异步超时</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwz98m/implementing_async_timeouts_with_completablefuture/</link>
+      <description><![CDATA[ 由   提交/u/Puzzleheaded_Ad4030   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwz98m/implementing_async_timeouts_with_completablefuture/</guid>
+      <pubDate>Tue, 21 May 2024 04:16:26 GMT</pubDate>
     </item>
     <item>
       <title>React Conf 2024 的新增内容</title>
@@ -41,7 +41,7 @@
       <pubDate>Tue, 21 May 2024 00:07:43 GMT</pubDate>
     </item>
     <item>
-      <title>比较桌面开发工具、Qt、Electron 和 macOS Native（Objective-C 和 Swift）</title>
+      <title>比较桌面开发工具 Qt、Electron 和 macOS Native（Objective-C 和 Swift）</title>
       <link>https://www.reddit.com/r/programming/comments/1cwtdmz/comparing_desktop_development_tools_qt_electron/</link>
       <description><![CDATA[ 由   提交/u/bbm_engineer  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwtdmz/comparing_desktop_development_tools_qt_electron/</guid>
@@ -71,14 +71,14 @@
     <item>
       <title>当人工智能帮助你编码时，谁拥有成品？</title>
       <link>https://www.reddit.com/r/programming/comments/1cwqmzs/when_ai_helps_you_code_who_owns_the_finished/</link>
-      <description><![CDATA[ 由   提交/u/stronghup  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/stronghup  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwqmzs/when_ai_helps_you_code_who_owns_the_finished/</guid>
       <pubDate>Mon, 20 May 2024 21:14:03 GMT</pubDate>
     </item>
     <item>
       <title>使用 Nodejs 的开源 linkedin 自动化</title>
       <link>https://www.reddit.com/r/programming/comments/1cwq34m/open_source_linkedin_automation_with_nodejs/</link>
-      <description><![CDATA[ 由   提交/u/Ranorkk  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/Ranorkk  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwq34m/open_source_linkedin_automation_with_nodejs/</guid>
       <pubDate>Mon, 20 May 2024 20:50:56 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>Uber 将 1 万亿条记录从 DynamoDB 迁移到 LedgerStore，每年节省 600 万美元</title>
       <link>https://www.reddit.com/r/programming/comments/1cwm04c/uber_migrates_1_trillion_records_from_dynamodb_to/</link>
-      <description><![CDATA[ 由   提交/u/rgancarz  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/rgancarz  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwm04c/uber_migrates_1_trillion_records_from_dynamodb_to/</guid>
       <pubDate>Mon, 20 May 2024 18:03:26 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>优化 SQL 查询 - PostgreSQL 最佳实践</title>
       <link>https://www.reddit.com/r/programming/comments/1cwlede/optimizing_sql_queries_postgresql_best_practices/</link>
-      <description><![CDATA[ 由   提交/u/waterslurpingnoises   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/waterslurpingnoises  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwlede/optimizing_sql_queries_postgresql_best_practices/</guid>
       <pubDate>Mon, 20 May 2024 17:38:38 GMT</pubDate>
     </item>
