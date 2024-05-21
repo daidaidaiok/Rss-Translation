@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 21 May 2024 18:07:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 21:07:03 GMT</lastBuildDate>
     <item>
       <title>水果</title>
       <link>https://www.producthunt.com/posts/fructu-2</link>
@@ -90,7 +90,7 @@
       <pubDate>Mon, 20 May 2024 14:10:21 GMT</pubDate>
     </item>
     <item>
-      <title>增高器</title>
+      <title>增压器</title>
       <link>https://www.producthunt.com/posts/increaser-3</link>
       <description><![CDATA[
             您更好地集中注意力和平衡工作与生活的工具
@@ -118,10 +118,24 @@
       <pubDate>Mon, 20 May 2024 06:05:33 GMT</pubDate>
     </item>
     <item>
+      <title>作为一个团队</title>
+      <link>https://www.producthunt.com/posts/asa-team</link>
+      <description><![CDATA[
+            团队合作
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/asa-team</guid>
+      <pubDate>Sat, 18 May 2024 01:22:01 GMT</pubDate>
+    </item>
+    <item>
       <title>卫星猫</title>
       <link>https://www.producthunt.com/posts/satcat</link>
       <description><![CDATA[
-            实时分析和跟踪超过 25,000 颗卫星
+            实时分析和跟踪超过 25,000 颗卫星 
           
 
 讨论
@@ -149,12 +163,12 @@
       <title>时尚</title>
       <link>https://www.producthunt.com/posts/ssleek</link>
       <description><![CDATA[
-证书管理的直接方法
-
+            一种简单的证书管理方法
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/ssleek</guid>
       <pubDate>Thu, 16 May 2024 12:07:18 GMT</pubDate>
@@ -191,29 +205,15 @@
       <title>索诺斯王牌</title>
       <link>https://www.producthunt.com/posts/sonos-ace</link>
       <description><![CDATA[
-            完善个人聆听
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/sonos-ace</guid>
-      <pubDate>Tue, 07 May 2024 00:44:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>新位点</title>
-      <link>https://www.producthunt.com/posts/neolocus-2</link>
-      <description><![CDATA[
-为您的房子提供 AI 室内设计师
+个人聆听完美
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/neolocus-2</guid>
-      <pubDate>Wed, 01 May 2024 09:04:38 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/sonos-ace</guid>
+      <pubDate>Tue, 07 May 2024 00:44:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
