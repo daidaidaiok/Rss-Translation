@@ -4,11 +4,60 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 20 May 2024 21:06:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 00:18:28 GMT</lastBuildDate>
     <item>
-      <title>使用 nodejs 开源 linkedin 自动化</title>
+      <title>异步 Rust 并不坏：你是</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwunpb/async_rust_isnt_bad_you_are/</link>
+      <description><![CDATA[ 由   提交/u/Imaginary_Ad5366   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwunpb/async_rust_isnt_bad_you_are/</guid>
+      <pubDate>Tue, 21 May 2024 00:15:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作的酷应用：使用 OpenAI 的 Whisper 以任何语言离线转录音频！</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwui6i/cool_app_i_made_transcribe_audio_offline_in_any/</link>
+      <description><![CDATA[ 由   提交/u/WeatherZealousideal5  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwui6i/cool_app_i_made_transcribe_audio_offline_in_any/</guid>
+      <pubDate>Tue, 21 May 2024 00:07:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>比较桌面开发工具、Qt、Electron 和 macOS Native（Objective-C 和 Swift）</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwtdmz/comparing_desktop_development_tools_qt_electron/</link>
+      <description><![CDATA[ 由   提交/u/bbm_engineer  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwtdmz/comparing_desktop_development_tools_qt_electron/</guid>
+      <pubDate>Mon, 20 May 2024 23:14:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>saalikmueen/go-grpc-实现：Golang + Gin + Docker + gRPC + NGINX</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwsmua/saalikmubeengogrpcimplementation_golang_gin/</link>
+      <description><![CDATA[ 由   提交/u/saalik_m   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwsmua/saalikmubeengogrpcimplementation_golang_gin/</guid>
+      <pubDate>Mon, 20 May 2024 22:40:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>gRPC、Java 和 Spring Boot 中的 Protobuf 验证</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwrlqs/protobuf_validation_in_grpc_java_and_spring_boot/</link>
+      <description><![CDATA[ 由   提交/u/congolomera  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwrlqs/protobuf_validation_in_grpc_java_and_spring_boot/</guid>
+      <pubDate>Mon, 20 May 2024 21:55:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple II 的 Reversing Choplifter —— Blondihacks 上的源代码和文章</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwr4pk/reversing_choplifter_for_apple_ii_source_code_and/</link>
+      <description><![CDATA[ 由   提交/u/r_retrohacking_mod2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwr4pk/reversing_choplifter_for_apple_ii_source_code_and/</guid>
+      <pubDate>Mon, 20 May 2024 21:34:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>当人工智能帮助你编码时，谁拥有成品？</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwqmzs/when_ai_helps_you_code_who_owns_the_finished/</link>
+      <description><![CDATA[ 由   提交/u/stronghup  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwqmzs/when_ai_helps_you_code_who_owns_the_finished/</guid>
+      <pubDate>Mon, 20 May 2024 21:14:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Nodejs 的开源 linkedin 自动化</title>
       <link>https://www.reddit.com/r/programming/comments/1cwq34m/open_source_linkedin_automation_with_nodejs/</link>
-      <description><![CDATA[  由    /u/Ranorkk  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Ranorkk  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwq34m/open_source_linkedin_automation_with_nodejs/</guid>
       <pubDate>Mon, 20 May 2024 20:50:56 GMT</pubDate>
     </item>
@@ -27,7 +76,7 @@
       <pubDate>Mon, 20 May 2024 18:03:26 GMT</pubDate>
     </item>
     <item>
-      <title>VINIX - 用 V 语言编写的操作系统（与 Unix 兼容，包括 Bash、Xorg……）</title>
+      <title>VINIX - 用 V 语言编写的操作系统（与 Unix 兼容，包括 Bash、Xorg...）</title>
       <link>https://www.reddit.com/r/programming/comments/1cwlvuq/vinix_operating_system_with_unix_compatibility/</link>
       <description><![CDATA[ 由   提交/u/j_m_macleod  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwlvuq/vinix_operating_system_with_unix_compatibility/</guid>
@@ -55,60 +104,11 @@
       <pubDate>Mon, 20 May 2024 16:46:08 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAPI Generator v7.6.0 发布</title>
+      <title>OpenAPI 生成器 v7.6.0 发布</title>
       <link>https://www.reddit.com/r/programming/comments/1cwjw6t/openapi_generator_v760_released/</link>
       <description><![CDATA[ 由   提交/u/wing328  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwjw6t/openapi_generator_v760_released/</guid>
       <pubDate>Mon, 20 May 2024 16:35:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>K 均值聚类算法的 5 分钟视觉指南。</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwjtt8/a_5_minute_visual_guide_to_the_kmeans_clustering/</link>
-      <description><![CDATA[  由    /u/ml_a_day  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwjtt8/a_5_minute_visual_guide_to_the_kmeans_clustering/</guid>
-      <pubDate>Mon, 20 May 2024 16:32:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>一堂课永远改变了我对结果的看法</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwj4qq/one_lesson_that_forever_changed_how_i_look_at/</link>
-      <description><![CDATA[ 由   提交/u/ToddLankford  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwj4qq/one_lesson_that_forever_changed_how_i_look_at/</guid>
-      <pubDate>Mon, 20 May 2024 16:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用源代码控制 - 在回顾三十年的工作后给程序员的建议，以获得更友善、更健康的生活。</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwiiy0/use_source_control_advice_for_programmers_after/</link>
-      <description><![CDATA[ 由   提交/u/davidwhitney  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwiiy0/use_source_control_advice_for_programmers_after/</guid>
-      <pubDate>Mon, 20 May 2024 15:37:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>让 PostgreSQL 为您选择一个索引</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwib9n/let_postgresql_pick_an_index_for_you/</link>
-      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwib9n/let_postgresql_pick_an_index_for_you/</guid>
-      <pubDate>Mon, 20 May 2024 15:27:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 StackOverflow 上提问之前，请先做好功课！</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwhhwd/before_you_ask_a_question_on_stackoverflow_do/</link>
-      <description><![CDATA[ 由   提交/u/shift_devs  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwhhwd/before_you_ask_a_question_on_stackoverflow_do/</guid>
-      <pubDate>Mon, 20 May 2024 14:53:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Git 提示和技巧</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwgrk7/git_tips_and_tricks/</link>
-      <description><![CDATA[  由    /u/dodiehun  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwgrk7/git_tips_and_tricks/</guid>
-      <pubDate>Mon, 20 May 2024 14:20:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件开发中的代码完成 - 利用生成代码和人工智能工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwg2vb/code_completion_in_software_development/</link>
-      <description><![CDATA[  由    /u/thumbsdrivesmecrazy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwg2vb/code_completion_in_software_development/</guid>
-      <pubDate>Mon, 20 May 2024 13:50:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
