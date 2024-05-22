@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 22 May 2024 12:08:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 15:06:34 GMT</lastBuildDate>
+    <item>
+      <title>PyAuth：Python 中具有加密和 Web 仪表板的身份验证系统。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cxzdee/pyauth_auth_system_with_encryption_and_web/</link>
+      <description><![CDATA[       由   提交/u/AhmedMinegames  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cxzdee/pyauth_auth_system_with_encryption_and_web/</guid>
+      <pubDate>Wed, 22 May 2024 12:46:25 GMT</pubDate>
+    </item>
     <item>
       <title>开源移动应用程序，用于在通过设备数据增强的多模式法学硕士上试验视觉提示</title>
       <link>https://www.reddit.com/r/opensource/comments/1cxxfd4/opensource_mobile_app_for_experimenting_with/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>GitHub 上有哪些 JavaScript、Python 和 Go 的新热门项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cxlrg7/what_are_some_new_trending_projects_on_github_in/</link>
-      <description><![CDATA[我正在 GitHub 上寻找一些目前很流行的新鲜且令人兴奋的项目，尤其是 JavaScript、Python 和 Go 领域的项目。无论是一个创新的库、一个很酷的框架，还是一个有趣的应用程序，我很想听听社区最近都在讨论什么。如果您遇到过任何正在获得关注或只是值得的项目退房，请在此处分享！提前致谢！   由   提交/u/ human-g30   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找 GitHub 上一些目前流行的新鲜而令人兴奋的项目，尤其是在 JavaScript、Python 和 Go 中。无论是创新的库、酷炫的框架还是有趣的应用程序，我都想听听社区最近在讨论什么。 如果您遇到任何正在获得关注或值得一看的项目，请在此处分享！ 提前致谢！    提交人    /u/human-g30   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cxlrg7/what_are_some_new_trending_projects_on_github_in/</guid>
       <pubDate>Tue, 21 May 2024 23:15:16 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Tue, 21 May 2024 06:21:26 GMT</pubDate>
     </item>
     <item>
-      <title>我正在考虑开源一个人工智能文章生成器，希望听听你的意见</title>
+      <title>我正在考虑开源人工智能文章生成器，希望得到您关于如何实现它的意见</title>
       <link>https://www.reddit.com/r/opensource/comments/1cx0on1/i_am_thinking_about_opensourcing_an_ai_article/</link>
       <description><![CDATA[当我开始第一个项目时，我遇到了获得 SEO 可见性以及生成内容和排名需要多长时间的问题。一个捷径是通过人工智能生成博客文章，但大多数工具质量都很低。 所以我开始尝试结合网络抓取和法学硕士，结果要好得多，内容丰富这更有意义（减少“深入研究”......）。我最终将其产品化（人工智能博客文章）。但我相信对于 OSS 社区来说，拥有一个任何人都可以用来启动他们的 SEO 流量的自托管版本可能会很棒。另外，社区的贡献会让它变得更好。 免责声明：我希望你们中的一些人批评人工智能生成的内容，我也这样做。然而，我将其视为流量开始进入的起点 - 这就是人性化发挥作用的点，重写非常有意义。 您认为这样做会有用吗？它开源吗？   由   提交/u/rbatista191  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cx0on1/i_am_thinking_about_opensourcing_an_ai_article/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>GIGO Dev - 程序员的开源学习平台</title>
       <link>https://www.reddit.com/r/opensource/comments/1cwm8ik/gigo_dev_an_open_source_learning_platform_for/</link>
-      <description><![CDATA[大家好， 我和我的团队已经在这个平台上工作了一段时间，我们想与那些感兴趣的人分享它。 GIGO Dev 的目标是提供一个学习平台，解决我们第一次学习编码时遇到的所有挑战。 该 repo 包含平台的所有部分，从库模型到前端代码。我们希望将我们的平台开源，以便人们能够了解它的工作原理，对我们可以做哪些不同的事情提供反馈，甚至做出贡献！ 我们每天都在继续努力，并努力使它变得更好。 这是 repo 的链接：https://github.com/Gage-Technologies/gigo.dev 这是实际平台的链接：https://www.gigo.dev/    提交人    /u/GIGOsailboat   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我和我的团队已经在这个平台上工作了一段时间，我们想与大家分享它那些可能感兴趣的人。 GIGO Dev 的目标是提供一个学习平台，解决我们第一次学习编码时遇到的所有挑战。 该存储库包含所有内容平台的各个部分，从库模型到前端代码。我们希望开源我们的平台，让人们能够看到它是如何工作的，就我们可以采取哪些不同的做法提供反馈，甚至做出贡献！ 我们每天都在继续努力，并努力始终使更好。 这里是存储库的链接：https://github.com/Gage- Technologies/gigo.dev 这是实际平台的链接：https://www.gigo .dev/   由   提交 /u/GIGOsailboat   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cwm8ik/gigo_dev_an_open_source_learning_platform_for/</guid>
       <pubDate>Mon, 20 May 2024 18:13:05 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在寻找其他开发人员与我合作，使 cal.com 真正完全开源。我们将删除任何需要支付许可证费用的依赖项，并重写它们或从代码库中删除它们。世界值得一个真正开源且完全免费的调度解决方案。我将在此线程上发布可用的更新。   由   提交 /u/Dense_Monk_694   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cwm0o7/calcom_thats_actually_open_source/</guid>
       <pubDate>Mon, 20 May 2024 18:04:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>用 Go 编写的类别领先的开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cwklwy/categoryleading_open_source_projects_written_in_go/</link>
-      <description><![CDATA[       由   提交/u/opensourcecolumbus  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cwklwy/categoryleading_open_source_projects_written_in_go/</guid>
-      <pubDate>Mon, 20 May 2024 17:05:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
