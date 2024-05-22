@@ -4,100 +4,101 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 22 May 2024 14:52:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 17:58:58 GMT</lastBuildDate>
     <item>
-      <title>[媒体]总部位于台湾的全球领先芯片制造商台积电为其 EUV 机器配备了 R [...]</title>
-      <link>https://t.me/hn_summary/90910</link>
-      <description><![CDATA[台积电EUV机器配备远程自毁功能，以防入侵&lt; /a&gt;
-总部位于台湾的全球领先芯片制造商台积电为其 EUV 机器配备了远程自毁功能，以防止它们在入侵时落入中国手中。此举是在美国担忧的推动下，旨在保护台积电先进的芯片制造技术。美国一直在积极限制中国的技术进步，包括将中国企业列入黑名单和征收关税。尽管做出了这些努力，中国仍在传统芯片生产方面取得进展，并正在开发本土技术以应对外部压力。美国还投资将台积电的生产转移到北美和日本，以降低风险。这一发展是更广泛的中美贸易战的一部分，两国都在争夺技术主导地位。 
+      <title>[媒体]特斯拉公司</title>
+      <link>https://t.me/hn_summary/90933</link>
+      <description><![CDATA[特斯拉在欧洲的销量跌至 15 个月低点
+特斯拉公司在欧洲的销量大幅下滑，4月份销量创15个月新低，注册销量仅为13,951辆，同比下降2.3%。这一下降与全行业纯电动汽车销量 14% 的增长形成鲜明对比。同样，特斯拉上海工厂的出货量也出现下滑，与中国插电式汽车市场的强劲增长背道而驰。首席执行官埃隆·马斯克(Elon Musk)预计第二季度会表现强劲，并指出红海运输问题和德国工厂附近涉嫌纵火等中断是第一季度的挑战。尽管遇到这些挫折，马斯克仍然对第二季度持乐观态度。特斯拉股价今年已下跌25%，而德国和瑞典等国电动汽车补贴的减少进一步影响了销量。值得注意的是，虽然欧洲的电动汽车整体注册量保持稳定，但特斯拉 4 月份销量下降了 32%，其中英国销量下降了 25%。]]></description>
+      <guid>https://t.me/hn_summary/90933</guid>
+      <pubDate>Wed, 22 May 2024 17:58:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网址：www.nerdcrawler.com</title>
+      <link>https://t.me/hn_summary/90932</link>
+      <description><![CDATA[我们如何屏蔽 TikTok 的 Bytespider 机器人并将带宽减少 80%
+标题：我们如何屏蔽 TikTok 的 Bytespider 机器人并将带宽减少 80%
+网站：www.nerdcrawler.com
 
-争议点：美国国会议员塞思·莫尔顿建议中国入侵台湾时轰炸台积电设施。
+Nerd Crawler 是漫画艺术家出售原创艺术品的首选市场，利用竞价技术实现收益最大化。然而，我们面临一个重大问题：我们的 Ruby on Rails 应用程序使用 Cloudinary 进行图像托管，每天被约 30 万个图像请求淹没，花费了我们一大笔钱。最初尝试调整图片大小有所帮助，但真正的突破发生在我们发现 TikTok 的 Bytespider 机器人消耗了我们 67% 的带宽时。通过使用 Rack-Attack gem 阻止 Bytespider，我们大幅减少了带宽使用量。关键要点：监控异常流量来源并优先修复可以节省成本的问题。]]></description>
+      <guid>https://t.me/hn_summary/90932</guid>
+      <pubDate>Wed, 22 May 2024 17:58:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 为什么不直接用 C 语言做简单的 C++ RAII？</title>
+      <link>https://t.me/hn_summary/90931</link>
+      <description><![CDATA[为什么不直接用 C 语言做简单的 C++ RAII 呢？ 
+在文章“为什么不在 C 中做简单的 C++ RAII？”在 thephd.dev 上，作者解决了一个关于实现C 中的通用撤消机制使用 RAII（资源获取即初始化），这是 C++ 固有的概念。作者认为，“Simple RAII”无法在 C 中实现，主要有两个原因：语法困难和 C 有限的类型/对象模型。本文解释了 C++ 如何使用构造函数和析构函数来确定性地管理资源，该功能严重依赖于函数重载和名称修改（C 中不存在的概念）。作者强调，尝试在 C 中复制 RAII 会损害该语言的核心品质，从而使得这是不切实际的。对于那些相信扩展 C 的功能以匹配 C++ 的功能的人来说，这种立场可能会引起争议。 （根据故事文本的 28% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/90931</guid>
+      <pubDate>Wed, 22 May 2024 17:56:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>【媒体】Show HN：我为了孤独而做了一个 Flutter 应用。</title>
+      <link>https://t.me/hn_summary/90930</link>
+      <description><![CDATA[Show HN：我为孤独制作了一个 Flutter 应用。 14000 分钟后的语音消息
+标题：Show HN：我为孤独制作了一个 Flutter 应用。 14000 分钟语音留言
+网站：main.d1lmgoealm7rq0.amplifyapp.com&lt; br/&gt;
 
-独特/聪明的方面：台积电 EUV 机器中的远程终止开关，可在发生入侵时禁用它们。]]></description>
-      <guid>https://t.me/hn_summary/90910</guid>
-      <pubDate>Wed, 22 May 2024 14:52:00 GMT</pubDate>
+Bubblic 的联合创始人 Albert 受到自己研究生期间经历的启发，创建了这款用于对抗孤独的应用程序。 Bubblic 允许用户匿名分享与其大致位置相关的语音消息，从而培养真实的联系，而无需约会应用程序的肤浅。该应用程序强调语音而不是文本以避免误解，并鼓励害羞的人练习口语。独特的功能包括公共语音消息和上下文位置共享。 Bubblic 通过私人消息和多媒体共享等高级功能而不是通过数据销售或广告来获利。目标是帮助用户培养现实生活中互动的社交技能。]]></description>
+      <guid>https://t.me/hn_summary/90930</guid>
+      <pubDate>Wed, 22 May 2024 17:38:36 GMT</pubDate>
     </item>
     <item>
-      <title>“PBT”项目是 Ruby 的基于属性的测试库，旨在测试通用 p [...]</title>
-      <link>https://t.me/hn_summary/90909</link>
-      <description><![CDATA[显示 HN：PBT – Ruby 的基于属性的测试库&lt; /a&gt;
-“PBT”项目是一个基于属性的 Ruby 测试库，旨在测试代码的一般属性而不是特定的示例。它会自动生成各种输入，以发现传统测试可能遗漏的边缘情况和潜在错误。 PBT 的一个突出功能是它对使用 Ruby 的 Ractor、线程或进程并行运行测试用例的实验性支持，从而提高了测试效率。该库还包括将失败的测试用例缩小为更简单的形式以便于调试的机制。配置选项允许自定义详细程度、并发方法和测试运行的数量。 （根据 81% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/90909</guid>
-      <pubDate>Wed, 22 May 2024 14:50:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]为什么讽刺天才汤姆·莱勒（Tom Lehrer）放弃了举世闻名的名声却默默无闻？</title>
-      <link>https://t.me/hn_summary/90908</link>
-      <description><![CDATA[为什么讽刺天才汤姆·莱勒 (Tom Lehrer) 放弃了举世闻名的名声，却变得默默无闻？
-1959 年，汤姆·莱勒 (Tom Lehrer) 的讽刺歌曲为我在一所严格的耶稣会寄宿学校提供了不敬和叛逆的生命线。莱勒是一位 15 岁进入哈佛大学的数学神童，凭借《公园里的毒鸽》和《梵蒂冈抹布》等黑色幽默歌曲引起了地下轰动。尽管取得了成功，莱勒还是于 1960 年退出了聚光灯下，并于 1965 年短暂重新出现，然后又回到了平静的数学讲师生活。 2020年，他将自己的作品纳入公共领域，这对于著名艺术家来说是罕见的举动。莱勒淡出名声仍然是个谜，但很明显，他更看重舒适和智力追求，而不是财富和权力。]]></description>
-      <guid>https://t.me/hn_summary/90908</guid>
-      <pubDate>Wed, 22 May 2024 14:49:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：www.soundbarrier.io</title>
-      <link>https://t.me/hn_summary/90907</link>
-      <description><![CDATA[Git 之外的版本控制
-标题：Git 之外的版本控制
-网站：www.soundbarrier.io
+      <title>[媒体]网站：garymarcus.substack.com</title>
+      <link>https://t.me/hn_summary/90929</link>
+      <description><![CDATA[山姆·奥尔特曼失宠
+标题：萨姆·奥尔特曼的失宠
+网站：garymarcus.substack.com
 
-Git 是自 2005 年以来占据主导地位的版本控制系统，它的缺点可能会激发创新。虽然新用户经常批评 Git 复杂的界面和陡峭的学习曲线，但经验丰富的用户却面临可扩展性问题，尤其是对于大型存储库。尽管有 Git-lfs 和 fsmonitor 等改进，但 Git 的分布式特性对于大型项目来说可能很麻烦。 Mercurial、Fossil 等替代品以及 Sapling 和 Jujutsu 等较新的系统提供了有趣的功能，但尚未超越 Git 的性能。 Perforce 和 Plastic SCM 等商业选项可满足特定需求，例如处理大型二进制文件。作者设想了一个理想的系统，将 Git 的版本控制与 Bazel 等构建系统相结合，从而增强复杂工作流程的可追溯性和效率。将构建输出集成为版本控制中的一流实体的想法尤其具有创新性，可能会彻底改变机器学习等领域。]]></description>
-      <guid>https://t.me/hn_summary/90907</guid>
-      <pubDate>Wed, 22 May 2024 14:49:40 GMT</pubDate>
+11 月，山姆·奥尔特曼 (Sam Altman) 广受赞誉，但最近发生的事件彻底改变了公众的看法。 X 上的各种声音，包括 Brian Merchant、Michelle Champagne、Ed Zitron 和 David Slack，都表达了批评意见。杰弗里·米勒在有效利他主义论坛上的帖子加剧了日益增长的不满情绪。 Ryan Briggs 和我都质疑 OpenAI 董事会在这种情况下的作用。集体情绪似乎正集中在对奥特曼的负面评价上。 《萨姆·奥尔特曼剧本》一书的作者加里·马库斯反思了公众舆论的这一巨大变化。]]></description>
+      <guid>https://t.me/hn_summary/90929</guid>
+      <pubDate>Wed, 22 May 2024 17:35:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] LLMArena 是一个创新平台，旨在促进 [...]</title>
-      <link>https://t.me/hn_summary/90906</link>
-      <description><![CDATA[展示 HN：LLMArena – 创建和分享精彩的 LLM 比较
-LLMArena 是一个创新平台，旨在促进各种大型语言模型 (LLM) 的并排比较。通过选择两个或多个法学硕士，用户可以轻松地以清晰、美观的格式可视化和分析他们的差异和相似之处。该工具对于希望就哪种法学硕士最适合他们的需求做出明智决定的研究人员、开发人员和爱好者特别有用。该平台的用户友好界面和详细的比较功能使其成为人工智能社区中的杰出资源。访问 llmarena.ai 探索并分享您自己的 LLM 比较。&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/90906</guid>
-      <pubDate>Wed, 22 May 2024 14:44:32 GMT</pubDate>
+      <title>[媒体] Sasha Rush 和 Marcos Treviso 的“Tensor Puzzles”GitHub 项目旨在 [...]</title>
+      <link>https://t.me/hn_summary/90928</link>
+      <description><![CDATA[张量谜题
+Sasha Rush 和 Marcos Treviso 的“Tensor Puzzles”GitHub 项目旨在通过解决 21 个张量难题来帮助用户学习 PyTorch 或 NumPy 等张量编程语言。这些谜题鼓励用户从第一原理出发，利用张量运算和广播的表现力来实现函数，而不是依赖标准库函数或 StackOverflow 等外部帮助。每个谜题都必须用一行代码来解决，并遵守特定的规则和约束。该项目的突出之处在于提供了一个结构化、简化的环境来深入练习和理解核心张量运算，并提供 Colab 笔记本和 YouTube 演练等额外资源。 （根据故事文本的 63% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/90928</guid>
+      <pubDate>Wed, 22 May 2024 17:34:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]尽管特斯拉声称采用超宽带（UWB）技术来防止相关[...]</title>
-      <link>https://t.me/hn_summary/90905</link>
-      <description><![CDATA[尽管有新的无钥匙系统，特斯拉仍然可以通过廉价的无线电黑客被盗技术
-尽管特斯拉声称采用超宽带 (UWB) 技术来防止中继攻击，但 GoGoByte 研究人员的最新发现表明，最新的特斯拉 Model 3 仍然可以通过廉价的蓝牙中继黑客被盗。这与特斯拉 2020 年向美国联邦通信委员会提交的文件相矛盾，该文件表明 UWB 将使中继攻击变得不可能。特斯拉的产品安全团队对这些调查结果做出了回应，称用于安全的 UWB 仍在开发中，尚不可靠。这个问题并不是特斯拉独有的。其他拥有 UWB 硬件的汽车制造商也仍然容易受到攻击。尽管如此，与其他汽车相比，特斯拉的 GPS 跟踪功能使其被盗的可能性更小。但是，车主应保持谨慎并使用额外的安全措施，例如 PIN 码驱动器保护。]]></description>
-      <guid>https://t.me/hn_summary/90905</guid>
-      <pubDate>Wed, 22 May 2024 14:43:26 GMT</pubDate>
+      <title>[媒体] textualvariations.substack.com 上的文章揭穿了“疯狂 [...]</title>
+      <link>https://t.me/hn_summary/90927</link>
+      <description><![CDATA[Fury Road 的实用外汇神话
+textualvariations.substack.com 上的文章揭穿了普遍的看法《疯狂的麦克斯：狂暴之路》几乎完全依赖实际效果，很少使用CGI。尽管流行的说法（通常归因于导演乔治·米勒）认为影片 80-90% 的效果都是实用的，但文章显示至少 74% 的镜头使用了 CGI。这种误解可能源于媒体的误解，而不是米勒的直接声明。该作品强调了数字视觉效果 (DVFX) 在增强和转变实际效果方面的重要性，并对电影的最终外观做出了重大贡献。这个神话导致了对即将上映的前传《Furiosa》的不公平比较和负面看法。 （根据故事文本的 56% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/90927</guid>
+      <pubDate>Wed, 22 May 2024 17:31:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]欧洲即将到来的火星任务将利用突破性的核动力装置 [...]</title>
-      <link>https://t.me/hn_summary/90904</link>
-      <description><![CDATA[火星探测器任务将使用开创性的核动力源&lt; br/&gt;
-欧洲即将到来的火星任务将利用一种突破性的核动力装置，该装置利用镅的放射性衰变来为其部件保温，这在航天器领域尚属首次。欧洲航天局 (ESA) 于 5 月 16 日透露了这一消息，同时还与 NASA 达成了一项协议，该协议将为欧洲首个火星探测器罗莎琳德·富兰克林号的交付任务做出贡献，该任务已被推迟已久。欧空局最初与俄罗斯航天局合作，但由于俄罗斯入侵乌克兰，合作关系被取消，欧空局不得不调整方向。欧洲设计的新着陆器将使用带有镅241的放射性同位素加热器装置（RHU），镅241是钚238的更便宜、更丰富的替代品。这项创新是欧洲放射性同位素能源设备 (ENDURE) 项目的一部分，旨在为欧洲航天局未来的月球任务开发镅电池。这项任务目前定于 2028 年进行，NASA 将提供发射能力和制动发动机。镅241的使用是独特且具有成本效益的，尽管它每克的功率比钚238低，这使其成为太空探索技术的显着转变。]]></description>
-      <guid>https://t.me/hn_summary/90904</guid>
-      <pubDate>Wed, 22 May 2024 14:39:19 GMT</pubDate>
+      <title>[媒体] 看来您提供的内容是来自彭博社网站的安全提示[...]</title>
+      <link>https://t.me/hn_summary/90926</link>
+      <description><![CDATA[花旗错过了一个大手指
+您提供的内容似乎是彭博网站的安全提示，要求用户验证他们不是机器人，因为从他们的网络检测到异常活动。遗憾的是，没有具体的文章内容可以总结。如果您可以访问彭博社上题为“花旗错过了一个肥手指”的完整文章，请提供正文或要点，我很乐意帮助您总结。]]></description>
+      <guid>https://t.me/hn_summary/90926</guid>
+      <pubDate>Wed, 22 May 2024 17:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]当 GPT-4o 上周推出时，它以其逼真的交互让全世界的人们惊叹不已 [...]</title>
-      <link>https://t.me/hn_summary/90903</link>
-      <description><![CDATA[萨尔·汗再次引领教育创新
-上周，GPT-4o 推出后，其逼真的交互和无限的应用让全世界惊叹不已。教育领域具有巨大的潜力，人工智能可以充当每个学生的私人导师。可汗学院创始人、《美丽新世界》一书的作者萨尔·汗在他的新书中探讨了这一点。他认为，人工智能可以通过提供个性化的学习和支持来彻底改变教育，而这在历史上是无法实现的。尽管人们对过去的教育科技承诺持怀疑态度，但可汗在人工智能导师 Khanmigo 方面的经验表明，人工智能确实可以提高学生的成绩和教师的体验。然而，学生隐私和技术获取等挑战仍然存在。 Sal 强调，人工智能应该支持教师，而不是取代教师，让他们专注于激励和支持学生。]]></description>
-      <guid>https://t.me/hn_summary/90903</guid>
-      <pubDate>Wed, 22 May 2024 14:29:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网址：bigthink.com</title>
-      <link>https://t.me/hn_summary/90902</link>
-      <description><![CDATA[为什么物理学家现在质疑宇宙的命运&lt; br/&gt;
-标题：为什么物理学家现在质疑宇宙的命运
-网站：bigthink.com
+      <title>[媒体] 我们很高兴推出 VUSE，我们的第一个多模式嵌入模型 vuse-generic-v1。</title>
+      <link>https://t.me/hn_summary/90925</link>
+      <description><![CDATA[展示 HN：VUSE – 视频理解、语义嵌入 
+我们很高兴推出 VUSE，我们的第一个多模式嵌入模型 vuse-generic-v1。该模型允许文本和视频帧共享相同的嵌入空间，并由可扩展、安全的 API 和本机 SDK 提供支持。 VUSE 与源对象存储和目标 KNN 存储集成，可实现上下文视频搜索，克服图像/帧和音频嵌入的限制。 VUSE 可通过 Mixpeek API 用于生产工作负载，提供 1GB 的免费视频嵌入和满足更大需求的企业包。
 
-自从发现宇宙的膨胀以来，物理学家就一直在思考它的最终命运。最初，热大爆炸模型解释了宇宙的演化，包括暗物质和暗能量的作用。到了 20 世纪 90 年代，人们相信暗能量（一种恒定的能量密度）会导致宇宙永远膨胀，导致“大冻结”。然而，DESI 合作的新数据表明，暗能量的强度随着时间的推移而减弱，挑战了这一观点。这一令人惊讶的发现可能会打破宇宙学的标准模型，表明我们对宇宙命运的理解还远未确定。 （根据故事文本的 71% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/90902</guid>
-      <pubDate>Wed, 22 May 2024 14:20:02 GMT</pubDate>
+VUSE 利用先进的视频基础模型，使用屏蔽视频建模和视频语言对比学习来增强视频理解。它经过超过 2.5 亿个视频剪辑和 50 亿个单词的训练，包括旋转位置嵌入和 SwiGLU 激活等创新。我们的评估显示，VUSE 的性能与其他视频搜索服务相当，并具有拥有您的嵌入的额外优势。
+
+将 VUSE 集成到您的 S3 和矢量数据库架构中，以释放卓越的视频动作识别和可扩展性。我们的 API 可确保无缝集成，让您能够高效地嵌入、存储和查询视频数据。立即开始使用 VUSE 转变您的视频数据工作流程。
+
+令人惊讶/聪明：VUSE 将文本和视频帧集成到共享嵌入空间的能力是一项独特的进步，可实现更复杂的视频搜索功能。]]></description>
+      <guid>https://t.me/hn_summary/90925</guid>
+      <pubDate>Wed, 22 May 2024 17:27:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 英格兰的“漫游权”运动旨在恢复公众对私人空间的访问权[...]</title>
-      <link>https://t.me/hn_summary/90901</link>
-      <description><![CDATA[“漫游权”运动为将公地归还给公开
-英国的“漫游权”运动旨在恢复公众对私人和公共土地的使用权，因为目前只有 8% 的土地可供公民使用。活动家乔恩·摩西讨论了土地所有权的历史变迁，以及重新建立漫游自由以重新连接人与自然和修复景观的必要性。摩西强调，有 2,500 个景观是未经侵入就无法进入的。该运动举办创意活动，例如在私人土地上集体行走，以展示公共访问的好处。摩西认为，工业化农业推动了土地私有制，抑制了地方自治和工资增长。这项运动的灵感来自于捷克共和国和挪威等国家，这些国家承认此类权利。该活动在摩西和尼克·海耶斯共同编辑的《野生服务：为什么大自然需要你》一书中有详细介绍。 
-
-争议：该运动挑战了长期存在的私有土地所有权规范及其对公共准入和地方自治的影响。
-
-独特/聪明的方面：利用创意活动，例如在私人土地上集体散步，来强调公共访问的好处。]]></description>
-      <guid>https://t.me/hn_summary/90901</guid>
-      <pubDate>Wed, 22 May 2024 14:04:49 GMT</pubDate>
+      <title>[媒体]法国H公司已成功筹集2.2亿美元，用于推进其“A [...]</title>
+      <link>https://t.me/hn_summary/90924</link>
+      <description><![CDATA[法国 H 公司融资 2.2 亿美元用于开发“行动导向”人工智能
+法国H公司已成功融资2.2亿美元，用于推进“行动导向”人工智能技术的开发。这种创新方法旨在创建能够自主决策和采取行动的人工智能系统，使其有别于主要侧重于数据分析和预测的传统人工智能。大量资金将加速研发，使H公司成为这一新兴领域的领导者。这一突破有可能通过提高效率和决策流程来彻底改变行业。这项投资突显了人们对人工智能变革潜力的信心不断增强，但也引发了人们对自主决策系统的道德影响的质疑。]]></description>
+      <guid>https://t.me/hn_summary/90924</guid>
+      <pubDate>Wed, 22 May 2024 17:27:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
