@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Tue, 21 May 2024 21:04:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 00:16:54 GMT</lastBuildDate>
+    <item>
+      <title>推出 Spaces 开发模式以提供无缝的开发人员体验</title>
+      <link>https://huggingface.co/blog/spaces-dev-mode</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/spaces-dev-mode</guid>
+      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Dell Enterprise Hub 构建本地 AI</title>
       <link>https://huggingface.co/blog/dell-enterprise-hub</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/sc2-instruct</guid>
       <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开放思想排行榜链简介</title>
-      <link>https://huggingface.co/blog/leaderboard-cot</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/leaderboard-cot</guid>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
