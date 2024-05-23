@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 22 May 2024 21:07:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 00:18:09 GMT</lastBuildDate>
+    <item>
+      <title>所以我最终把我的js脚本变成了一个chrome扩展，可以让你以15倍的速度观看精彩的Youtube广告。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyfjdh/so_i_finally_turned_my_js_script_into_a_chrome/</link>
+      <description><![CDATA[所以我想在尽可能短的时间内观看尽可能多的广告，我想出了这个想法。  您可以从我的 github 存储库下载扩展文件，然后拖放到您的扩展选项卡中。  https://github.com/Longshoez/skip-ad    由   提交/u/Longshoez  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyfjdh/so_i_finally_turned_my_js_script_into_a_chrome/</guid>
+      <pubDate>Thu, 23 May 2024 00:15:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>维基百科适合我吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cydogg/would_a_wiki_be_right_for_me/</link>
+      <description><![CDATA[我目前正在使用 OneNote 和 Onedrive 来存储一堆基于特定主题的文本、图片、pdf、excel 文件等。我想要一些更加基于网络和统一的东西。 基本上是历史文档、演讲、图片等。如果可能的话，我希望能够引用一堆不同的文件到特定的人、地点、事件或任何。还有其他更好的东西吗？  谢谢。    由   提交/u/GrayManTech  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cydogg/would_a_wiki_be_right_for_me/</guid>
+      <pubDate>Wed, 22 May 2024 22:46:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何购买活跃域名？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyd6i0/how_to_buy_an_active_domain/</link>
+      <description><![CDATA[有人有关于如何申请一个已经注册的域名的资源吗？例如，我想要 abc.com，但它已经注册了...我该如何联系它来购买它？    提交人    /u/LosoTheRed   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyd6i0/how_to_buy_an_active_domain/</guid>
+      <pubDate>Wed, 22 May 2024 22:24:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何建立一个这样的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cybykp/how_to_build_a_site_like_this/</link>
+      <description><![CDATA[大家好！第一篇文章在这里... 我对为自己建立一个网站作为博客非常感兴趣，也许还可以为我可能想要为其创建网站的其他副项目创建一些其他网站。我对块构建器等非常熟悉，但我一直很想知道这些其他网站到底是如何构建的...那些没有明确说明正在使用 Wordpress 的网站。 例如，这样做吗页面使用Wordpress？ https://eunoia.world/ 如果没有，如何在 WordPress 之外构建网站？我见过一些人谈论框架和其他事情，但这对我来说都是新的。  我是一名数字营销人员，对 Html/Css/JS 有非常基本的了解，过去曾使用这些知识为客户调整登陆页面，但除此之外，还有 WordPress 和托管，对我来说一切都是新的。  p&gt; 我使用 wappalizer chrome 扩展来构建一些网站以及builtwith网站，但我看到的只是框架和编程语言。 这样的页面是如何构建的？这是从头开始构建的还是有模板？这样的事情是如何完成的？我习惯于付费托管，然后在 WordPress 上进行构建。   由   提交 /u/Para-Mount   /u/Para-Mount  reddit.com/r/webdev/comments/1cybykp/how_to_build_a_site_like_this/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cybykp/how_to_build_a_site_like_this/</guid>
+      <pubDate>Wed, 22 May 2024 21:32:40 GMT</pubDate>
+    </item>
     <item>
       <title>关于如何构建某些东西的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1cyadif/recommendations_on_how_to_build_something/</link>
@@ -13,30 +41,16 @@
       <pubDate>Wed, 22 May 2024 20:25:34 GMT</pubDate>
     </item>
     <item>
-      <title>寻找 saas 套件前端重量级合作伙伴</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cya7xx/looking_for_frontend_heavy_partner_for_saas_kit/</link>
-      <description><![CDATA[我目前在 breakneck.dev 运行 saas 样板工具包 它与通常的 nextjs/laravel 全栈有点不同，因为它只是 c# / aspnetcore 中的后端部分，因此人们可以构建 api 产品、Web 项目或移动应用程序。 &lt;我正在考虑添加所有其他样板所具有的更多可视化部分和功能，但我不想自己编写代码。我的反应还好，但仅此而已。我也不是特别喜欢构建前端。 我正在寻找真正喜欢前端并且可能喜欢设计的人。我认为这会带来更好的产品，也会让我承担更多责任，而且会更有趣。 也许会把它变成更优质的样板产品。后端功能更加丰富，并且由真正了解后端的人构建。而且正面看起来更好看，而且是由真正了解设计的人制作的。  卖点不是“3天内构建你的SaaS”，而是“构建高质量的产品”。反而。我认为无论如何，船舶快速方法都被夸大了。 如果您有兴趣，请通过私信联系我。我已经在做销售了。虽然时间不多，但仍然如此。   由   提交 /u/Venisol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cya7xx/looking_for_frontend_heavy_partner_for_saas_kit/</guid>
-      <pubDate>Wed, 22 May 2024 20:19:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我很紧张。请烤我的网站 v1.0。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cya64l/im_nervous_please_roast_v10_of_my_site/</link>
-      <description><![CDATA[我需要反馈。我知道一些小事情，但总体印象将不胜感激。  决定​​网络和软件开发   由   提交 /u/Rexcovering   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cya64l/im_nervous_please_roast_v10_of_my_site/</guid>
-      <pubDate>Wed, 22 May 2024 20:16:55 GMT</pubDate>
-    </item>
-    <item>
       <title>如何整理作品集</title>
       <link>https://www.reddit.com/r/webdev/comments/1cya0cl/how_to_put_together_a_portfolio/</link>
-      <description><![CDATA[我目前正在努力完成在线前端开发认证，并且很好奇我应该在我的作品集中添加什么，因为我真的没有经验？    由   提交 /u/komodocommand   [链接] [评论]]]></description>
+      <description><![CDATA[我目前正在努力完成我的在线前端开发认证，并且很好奇我应该在我的投资组合中放些什么，因为我真的没有经验？    提交人    /u/komodocommand   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cya0cl/how_to_put_together_a_portfolio/</guid>
       <pubDate>Wed, 22 May 2024 20:10:11 GMT</pubDate>
     </item>
     <item>
       <title>收集客户个人数据的最佳方式</title>
       <link>https://www.reddit.com/r/webdev/comments/1cy9djd/best_way_to_collect_client_personal_data/</link>
-      <description><![CDATA[大家好。您如何收集客户的个人数据，例如，如果您需要银行信息来设置电子商务商店，该怎么办？或者你只是让他们在你移交网站时这样做。或者，如果您需要 paypal、stripe 或 clover 信息与他们的 POS 系统同步怎么办？无需亲自进行此操作最安全的方法是什么？提前致谢。   由   提交/u/DanCruzNyc   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。您如何收集客户的个人数据，例如，如果您需要银行信息来设置电子商务商店，该怎么办？或者您只是让他们在您转入网站时这样做。或者，如果您需要 paypal、stripe 或 clover 信息来与他们的 POS 系统同步，该怎么办？不亲自到场的情况下，最安全的方法是什么？提前致谢。    提交人    /u/DanCruzNyc   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cy9djd/best_way_to_collect_client_personal_data/</guid>
       <pubDate>Wed, 22 May 2024 19:44:45 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>检查客户端是否在 SPA 后端进行身份验证的最佳实践是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cy5d2q/what_are_the_best_practices_for_checking_if/</link>
-      <description><![CDATA[我是一名自学成才的开发人员，正在构建我的第一个全栈项目。  我使用 Vue 作为前端，使用 NestJs 作为后端。 我的前端应该有受限的操作，具体取决于它是否被随机人员访问，而不是当某人实际上是我的网站用户并拥有帐户且当前已登录时。我正在使用 Passport.js 进行用户会话策略身份验证。所有必需的端点也在服务器端受到身份验证保护。  我现在基本上打算做的是在安装页面或路由到其他页面时，向端点上的后端发出 HTTP 请求，专门用于检查客户端是否在服务器会话中通过身份验证，如果通过身份验证则返回 200 状态，否则返回 401 并将其保存在全局状态中。 我个人认为它会起作用，但这真的是最好的方法吗？ 此外，如果您有一些值得研究的开源项目以了解如何以正确的方式完成事情，请在评论中分享它们。    提交人    /u/peculiar_sheikh   [链接] [评论]]]></description>
+      <description><![CDATA[我，一名自学成才的开发人员，正在构建我的第一个全栈项目。  我使用 Vue 作为前端，使用 NestJs 作为后端。 我的前端应该具有受限的操作，具体取决于它是否被随机人访问，而不是当某人访问时实际上是我网站的用户，拥有帐户并且当前已登录。我正在使用 Passport.js 通过用户会话策略进行身份验证。所有必需的端点也在服务器端受到身份验证保护。  我现在基本上计划做的是安装一个页面或路由到另一个页面，在端点上向我的后端发出 HTTP 请求，专门用于检查客户端是否在服务器会话中经过身份验证如果通过身份验证，则返回 200 状态；如果未通过身份验证，则返回 401 并将其保存在全局状态中。 我个人认为它会起作用，但这真的是最好的方法吗？ 另外，如果您有一些值得研究的开源项目，以了解如何以正确的方式完成工作，请在评论中分享它们。  &amp; #32；由   提交 /u/peculiar_sheikh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cy5d2q/what_are_the_best_practices_for_checking_if/</guid>
       <pubDate>Wed, 22 May 2024 17:02:52 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[     &lt;。 /td&gt;  由   提交 /u/oxparadoxpa   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cy50l0/font_not_displaying_correctly_on_browser_it_is/</guid>
       <pubDate>Wed, 22 May 2024 16:49:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>编码还是不编码（我自己）？关于UI套件的一个问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cy3bbm/to_code_or_not_to_code_by_myself_a_question_about/</link>
-      <description><![CDATA[抱歉这是一个菜鸟问题，但我自学 webdev 有一段时间了，进入了中级水平，我有一个问题，简单的谷歌搜索...提供的大多是在线论据，而不是明确的答案。 问题：我的一个朋友需要一个基本的登陆页面网站。我想为他们创建它，作为新技术的练习。我选择了 tailwind 来检查复制粘贴的 UI 块，然后对其进行调整。由于某种奇怪的原因，Tailwind 几次在我面前崩溃了。上次我几乎完成了一个页面，但它编译得很糟糕，破坏​​了整个网站。就像所有的 css 都被破坏了，恢复更改不起作用，重新安装节点也不起作用。在烦恼中浪费了几个小时。 问题：我是否应该使用 tailwindcss 和 bootstrap 之类的工具？我知道我在自定义 CSS 和响应性方面遇到了问题 - 我从头开始编写了几个页面，这需要大量工作，结果我错过了几个屏幕，而且有些设备无法使用我的网站。我觉得 Bootstrap 至少让我可以用它们的响应式弹性容器覆盖一些基础，但我还是自己编写了大部分 CSS，并覆盖了大部分内容。 现在，我喜欢 TailwindCSS 开源组件的想法，但我觉得我可以为自己创建这样的组件，然后从我自己的基础中复制粘贴它们，而不必冒着外来代码弄乱我工作的风险。我知道这是一个漫长的争论，但到目前为止，在我进入更复杂的领域之前，我只有足够的信心制作登陆页面。 你有什么建议？ 我希望这不是一个糟糕的子版块，版主不会立即删除它。 编辑：附加背景 - 我是一名受过培训的平面设计师，我有一些预算充足的客户，他们可以定制所有东西，但我也遇到过一些需求简单的客户（比如说只有登陆页面的网站，有点像在线传单）。我想帮助初创公司和低预算的客户，但重新发明轮子的成本很高，而且由于我还没有为自己创建库，我想知道 Tailwind/Bootstrap/等是否是可行的方法。    提交人    /u/Rare-Insurance5405   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cy3bbm/to_code_or_not_to_code_by_myself_a_question_about/</guid>
-      <pubDate>Wed, 22 May 2024 15:40:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在构建时重命名 tailwindcss 类名？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cy300h/how_to_rename_tailwindcss_classnames_on_build/</link>
-      <description><![CDATA[我有一个 React 项目，它是一个可重复使用的 Web 组件，将插入到 ecom 商店中。像平常一样构建顺风的问题是导致与电子商务商店现有的类名发生冲突，并且弄乱了商店的整个布局。所以我想知道是否有一种方法可以使用 postcss 插件或 webpack 插件重命名构建上的 tailwind 类，可以做到这一点？ 另外，如果不存在这样的插件，我想构建这样，如果您有任何可以提取项目中使用的所有 tailwindcss 类及其相应 css 的插件的信息，那就更好了。 非常感谢任何帮助。 &lt; /div&gt;  由   提交 /u/HelloPipl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cy300h/how_to_rename_tailwindcss_classnames_on_build/</guid>
-      <pubDate>Wed, 22 May 2024 15:27:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
