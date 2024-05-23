@@ -4,13 +4,13 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 23 May 2024 03:06:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 06:06:45 GMT</lastBuildDate>
     <item>
-      <title>需要让视频变得模糊</title>
-      <link>https://www.reddit.com/r/editors/comments/1cyihln/need_to_make_video_blurry/</link>
-      <description><![CDATA[有人知道 iPhone 上有一款可以模糊视频的视频编辑应用吗？我下载的每个视频编辑应用程序都有相同的亮度、对比度、锐度等调整选项，但从不模糊。我不是编辑，认为这很简单，但不知何故我找不到任何具有此功能的应用程序。因此，您能为此推荐的任何内容都将不胜感激。 （免费应用程序）   由   提交 /u/Guywhoasksthing   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cyihln/need_to_make_video_blurry/</guid>
-      <pubDate>Thu, 23 May 2024 02:48:05 GMT</pubDate>
+      <title>远程编辑 (HP Zcentral Remote Boost) 问题 (Avid 2024)</title>
+      <link>https://www.reddit.com/r/editors/comments/1cylq3s/remote_editing_hp_zcentral_remote_boost_issues/</link>
+      <description><![CDATA[不知怎的，现在是 2024 年，我发现自己第一次进行远程编辑。我正在使用惠普解决方案，但根本无法应对。尝试过排除故障，但我并没有真正取得任何进展……开始怀疑我是否没有像大多数人那样能够接受固有的问题。  两个主要问题。首先是播放栏开始移动后，音频中断或需要一两秒才能开始。二是普遍滞后。我对此有一点预期，但实际上我对其进行了计时，结果记录击键时出现了 0.9 秒的延迟。  这正常吗？这是每个人都在忍受的吗？ 编辑：通过 HP Elitebook 笔记本电脑远程连接到 z4s 或 z8s。    由   提交 /u/Y3ffoc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cylq3s/remote_editing_hp_zcentral_remote_boost_issues/</guid>
+      <pubDate>Thu, 23 May 2024 05:58:44 GMT</pubDate>
     </item>
     <item>
       <title>Avid 如何验证 Media Composer 教育永久许可证？</title>
@@ -27,7 +27,7 @@
       <pubDate>Wed, 22 May 2024 22:39:58 GMT</pubDate>
     </item>
     <item>
-      <title>Premiere Pro：同时滚动编辑多个剪辑</title>
+      <title>Premiere Pro：同时对多个剪辑进行滚动编辑</title>
       <link>https://www.reddit.com/r/editors/comments/1cyd2x5/premiere_pro_rolling_edit_on_multiple_clips_at/</link>
       <description><![CDATA[大家好！ 有没有办法同时对多个剪辑执行滚动编辑（N 键）？我需要将时间轴中的所有内容调整 9 帧。当我单击并拖动以选择多个剪辑时，滚动编辑仅适用于我正在触摸的一个剪辑。 Premiere Pro 24.3、Windows 10   由   提交 /u/Powerful-Bread5543    reddit.com/r/editors/comments/1cyd2x5/premiere_pro_rolling_edit_on_multiple_clips_at/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cyd2x5/premiere_pro_rolling_edit_on_multiple_clips_at/</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>Mac Studio 用户，您发现哪些规格/设置最适合性能？</title>
       <link>https://www.reddit.com/r/editors/comments/1cy2xwz/mac_studio_users_what_specssetup_have_you_found/</link>
-      <description><![CDATA[想要从旧 iMac 升级到 Mac Studio，想看看你们是否有人可以推荐一个优先考虑性能的良好规格设置。我有预算限制，但想在考虑花钱之前先看看什么最有效。     提交人    /u/8CTOPUSPRIME   [link] [评论]]]></description>
+      <description><![CDATA[希望从旧的 iMac 升级到 Mac Studio，并想看看你们中是否有人可以推荐一个优先考虑性能的良好规格设置。我有预算限制，但想在考虑支出之前看看什么最有效。    由   提交 /u/8CTOPUSPRIME   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cy2xwz/mac_studio_users_what_specssetup_have_you_found/</guid>
       <pubDate>Wed, 22 May 2024 15:24:46 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Wed, 22 May 2024 14:15:03 GMT</pubDate>
     </item>
     <item>
-      <title>iPhone 到 Avid Media Composer</title>
+      <title>iPhone 至 Avid Media Composer</title>
       <link>https://www.reddit.com/r/editors/comments/1cxyzj5/iphone_to_avid_media_composer/</link>
       <description><![CDATA[我们是一家英国广播公司。我们有一些 iPhone 15 Pro，并在 Avid Media Composer (1080 50i) 上进行编辑（具有交互/制作管理） 我们将设备设置为以 1080 25fps 录制。对于“电影模式”（内容创作者喜欢的）1080 25fps 不可用，因此请选择以 4K 25FPS 录制电影模式。 以 25fps 拍摄的媒体通过 MOG 技术 Media Composer 工作流程将其纳入我们的服务器。 对于任何不是 25fps 的内容，我们将其交给 Shutter Encoder，该编码器会转换为强制隔行扫描的 XDCAM，然后转换为 25fps。 问题是我们能做得更好，这样 iPhone 的镜头就不会出现问题。是不是生涩/锯齿/带状？   由   提交/u/turnby  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cxyzj5/iphone_to_avid_media_composer/</guid>
