@@ -4,20 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 24 May 2024 15:06:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 18:07:03 GMT</lastBuildDate>
     <item>
-      <title>Android MDM 解决方案 |安卓移动设备管理</title>
-      <link>https://www.reddit.com/r/programming/comments/1czmanh/android_mdm_solution_android_mobile_device/</link>
-      <description><![CDATA[ 由   提交/u/dheerajgujar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czmanh/android_mdm_solution_android_mobile_device/</guid>
-      <pubDate>Fri, 24 May 2024 14:38:02 GMT</pubDate>
+      <title>API 网关：对 API 管理和安全的影响</title>
+      <link>https://www.reddit.com/r/programming/comments/1czo9xa/api_gateways_the_impact_on_api_management_and/</link>
+      <description><![CDATA[ 由   提交/u/itsrorymurphy  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1czo9xa/api_gateways_the_impact_on_api_management_and/</guid>
+      <pubDate>Fri, 24 May 2024 16:03:46 GMT</pubDate>
     </item>
     <item>
-      <title>这是什么意思以及如何修复它？（它说：“LedSprite”类型的参数不能分配给“number”类型的参数</title>
-      <link>https://www.reddit.com/r/programming/comments/1czm6hx/what_does_this_mean_and_how_do_i_fix_itits_says/</link>
-      <description><![CDATA[ 由   提交/u/Solnakid  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czm6hx/what_does_this_mean_and_how_do_i_fix_itits_says/</guid>
-      <pubDate>Fri, 24 May 2024 14:32:58 GMT</pubDate>
+      <title>5 x 为什么？ — 根本原因之旅，第一原理心智模型</title>
+      <link>https://www.reddit.com/r/programming/comments/1czo4w8/5_x_why_journey_to_the_root_cause_firstprinciples/</link>
+      <description><![CDATA[ 由   提交/u/dmp0x7c5  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1czo4w8/5_x_why_journey_to_the_root_cause_firstprinciples/</guid>
+      <pubDate>Fri, 24 May 2024 15:58:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>syncfg：用于自动 JSON 持久化的 npm 包</title>
+      <link>https://www.reddit.com/r/programming/comments/1cznq49/syncfg_an_npm_package_for_automatic_json/</link>
+      <description><![CDATA[ 由   提交 /u/torchkoff   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cznq49/syncfg_an_npm_package_for_automatic_json/</guid>
+      <pubDate>Fri, 24 May 2024 15:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索与新语言无缝兼容的 Rust 互操作，第一部分</title>
+      <link>https://www.reddit.com/r/programming/comments/1cznid8/exploring_seamless_rust_interop_for_newer/</link>
+      <description><![CDATA[ 由   提交/u/verdagon  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cznid8/exploring_seamless_rust_interop_for_newer/</guid>
+      <pubDate>Fri, 24 May 2024 15:31:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看本教程，了解如何使用 Taipy 库和 ctransformers 库中的 Mistral-7B-Instruct-v0.1-GGUF 语言模型构建简单的聊天机器人。</title>
+      <link>https://www.reddit.com/r/programming/comments/1czmyn2/check_out_this_tutorial_on_how_to_build_a_simple/</link>
+      <description><![CDATA[ 由   提交 /u/amimiath   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1czmyn2/check_out_this_tutorial_on_how_to_build_a_simple/</guid>
+      <pubDate>Fri, 24 May 2024 15:07:12 GMT</pubDate>
     </item>
     <item>
       <title>中止栏：对进度栏的建议改进</title>
@@ -41,18 +62,11 @@
       <pubDate>Fri, 24 May 2024 13:04:18 GMT</pubDate>
     </item>
     <item>
-      <title>使用浏览器中的约束非线性优化来最佳地分配扑克筹码</title>
+      <title>在浏览器中使用约束非线性优化来优化分配扑克筹码</title>
       <link>https://www.reddit.com/r/programming/comments/1czk7fh/optimally_allocate_poker_chips_using_constrained/</link>
       <description><![CDATA[ 由   提交/u/js4845  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czk7fh/optimally_allocate_poker_chips_using_constrained/</guid>
       <pubDate>Fri, 24 May 2024 13:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>DORA 指标如何提高人才保留率、增强员工福利和提高可靠性</title>
-      <link>https://www.reddit.com/r/programming/comments/1czjj3b/how_dora_metrics_improve_talent_retention_enhance/</link>
-      <description><![CDATA[ 由   提交/u/jameslaney  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czjj3b/how_dora_metrics_improve_talent_retention_enhance/</guid>
-      <pubDate>Fri, 24 May 2024 12:26:52 GMT</pubDate>
     </item>
     <item>
       <title>Facebook 如何将直播视频扩展到十亿用户</title>
@@ -64,30 +78,9 @@
     <item>
       <title>告别 GraphQL 中的 N+1</title>
       <link>https://www.reddit.com/r/programming/comments/1cziakk/say_goodbye_to_n_1_in_graphql/</link>
-      <description><![CDATA[ 由   提交 /u/West-Chocolate2977   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/West-Chocolate2977  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cziakk/say_goodbye_to_n_1_in_graphql/</guid>
       <pubDate>Fri, 24 May 2024 11:15:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件开发中的角色识别和分配调查——大学项目需要帮助！</title>
-      <link>https://www.reddit.com/r/programming/comments/1czhrj1/survey_on_role_recognition_and_allocation_in/</link>
-      <description><![CDATA[ 由   提交 /u/LordDule   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czhrj1/survey_on_role_recognition_and_allocation_in/</guid>
-      <pubDate>Fri, 24 May 2024 10:41:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>遇到这个错误：</title>
-      <link>https://www.reddit.com/r/programming/comments/1czh9dc/encountering_this_error/</link>
-      <description><![CDATA[ 由   提交/u/Agitated_Chard7231   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czh9dc/encountering_this_error/</guid>
-      <pubDate>Fri, 24 May 2024 10:06:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一个可以预览图书的 API</title>
-      <link>https://www.reddit.com/r/programming/comments/1czh060/i_need_an_api_that_gives_me_book_preview/</link>
-      <description><![CDATA[我正在开发一个 iOS 项目图书馆管理系统，我需要制作一个功能，当图书管理员扫描图书的 ISBN 条形码时，它应该给我基本的描述名称和供用户阅读的预览 Ps：请忽略链接    提交人    /u/Utsav44   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czh060/i_need_an_api_that_gives_me_book_preview/</guid>
-      <pubDate>Fri, 24 May 2024 09:48:29 GMT</pubDate>
     </item>
     <item>
       <title>不要微服务，要做模块</title>
@@ -104,11 +97,18 @@
       <pubDate>Fri, 24 May 2024 08:56:35 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 Tailwind CSS 和 JavaScript 创建垂直选项卡</title>
-      <link>https://www.reddit.com/r/programming/comments/1czg5tv/how_to_create_vertical_tabs_with_tailwind_css_and/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czg5tv/how_to_create_vertical_tabs_with_tailwind_css_and/</guid>
-      <pubDate>Fri, 24 May 2024 08:45:41 GMT</pubDate>
+      <title>Phoenix LiveView 如何通过流优化实时 Web 应用程序 • Sophie DeBenedetto</title>
+      <link>https://www.reddit.com/r/programming/comments/1czg1v2/how_phoenix_liveview_optimizes_realtime_web_apps/</link>
+      <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1czg1v2/how_phoenix_liveview_optimizes_realtime_web_apps/</guid>
+      <pubDate>Fri, 24 May 2024 08:37:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>CodiumAI：良好的副驾驶替代品</title>
+      <link>https://www.reddit.com/r/programming/comments/1czfp09/codiumai_good_copilot_alternative/</link>
+      <description><![CDATA[ 由   提交/u/UpvoteBeast  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1czfp09/codiumai_good_copilot_alternative/</guid>
+      <pubDate>Fri, 24 May 2024 08:09:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
