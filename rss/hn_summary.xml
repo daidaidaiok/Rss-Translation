@@ -4,91 +4,103 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 23 May 2024 21:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 23:35:04 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Checkr，一家通过提供公平和高效的j [...]彻底改变工作未来的公司</title>
-      <link>https://t.me/hn_summary/91169</link>
-      <description><![CDATA[Checkr (YC S14) 正在为其新产品招聘一名软件工程师下注，Checkr Pay
-Checkr 是一家通过提供公平、高效的职位筛选彻底改变未来工作方式的公司，正在为其新企业 Checkr Pay 招聘一名软件工程师。这个创新平台旨在为零工工人提供即时、免费的付款，增强无银行账户和银行服务不足人群的金融包容性。该角色涉及开发新的网络和移动应用程序、构建 API 以及与客户和领导层密切合作。理想的候选人拥有丰富的全栈开发经验、产品优先的心态以及快节奏初创公司的历史。 Checkr 重视多样性和包容性，欢迎具有不同背景的申请人，包括有犯罪记录的申请人。旧金山该职位的基本工资范围为 204,138 美元至 276,186 美元。]]></description>
-      <guid>https://t.me/hn_summary/91169</guid>
-      <pubDate>Thu, 23 May 2024 21:01:23 GMT</pubDate>
+      <title>[媒体] 零售商伦敦药品公司 (London Drugs) 已证实，网络犯罪分子从其公司窃取了文件 [...]</title>
+      <link>https://t.me/hn_summary/91193</link>
+      <description><![CDATA[黑客公布从 London Drugs 窃取的公司数据
+零售商 London Drugs 证实，上个月从其公司总部窃取文件的网络犯罪分子在该公司拒绝支付赎金后公布了部分数据。被盗的文件可能包含员工信息，伦敦药品公司将其描述为“令人深感痛苦”的情况。该公司表示，它“不愿意也无法”满足其所谓的“复杂的全球网络犯罪集团”的赎金要求。 London Drugs 正在通知受影响的员工，并向他们提供信用监控和身份盗窃保护服务。重要的是，没有证据表明患者或客户数据库受到损害。此次泄露导致加拿大西部地区的所有 79 家商店暂时关闭，这些商店于 5 月 7 日重新开业。此次攻击恰逢 BC 省遭受“复杂”网络攻击。政府网络，疑似由国家资助。]]></description>
+      <guid>https://t.me/hn_summary/91193</guid>
+      <pubDate>Thu, 23 May 2024 23:35:04 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】FTX破产审查员报告，作者：Robert J.</title>
-      <link>https://t.me/hn_summary/91168</link>
-      <description><![CDATA[FTX 破产审查员报告 [pdf](https://news.ycombinator.com/item?id=40458964)
-FTX 破产审查员报告由 Robert J. Cleary 撰写，对 FTX Trading Ltd. 及其附属实体的倒闭进行了广泛的分析。报告分为几个部分，涵盖了审查员的任命、方法以及对破产各个方面的详细调查。重点关注的领域包括 Sullivan &amp; Cromwell (S&amp;C) 的雇佣和潜在的利益冲突、现任和前任员工的欺诈行为、对 FTT 和其他代币的操纵以及 FTX 集团聘请的专业人员的不当行为。值得注意的是，该报告重点指出了涉及 S&amp;C 的未披露冲突以及导致该公司倒闭的代币操纵事件的重要指控。（基于 2% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/91168</guid>
-      <pubDate>Thu, 23 May 2024 20:54:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站：getindexify.ai</title>
-      <link>https://t.me/hn_summary/91167</link>
-      <description><![CDATA[展示 HN：LLM 应用程序的开源实时数据框架&lt; /a&gt;
-标题：Show HN：LLM 应用程序的开源实时数据框架
-网站：getindexify.ai
+      <title>[媒体] 海藻包括数千种红色、绿色和棕色的海藻，对人类健康至关重要[...]</title>
+      <link>https://t.me/hn_summary/91192</link>
+      <description><![CDATA[海藻、时尚和美人鱼
+海藻含有数千种红色、绿色和棕色海洋藻类，对水下生态系统至关重要，并且作为食物来源在人类历史上发挥了重要作用。除了烹饪用途之外，海藻还成为一种可持续的织物生产材料，这种做法在第一次世界大战期间受到关注。海藻织物通常由 Knotted Wrack 等褐藻制成，涉及复杂的制造过程，将海藻与木浆或木浆混合在一起。纤维素。海藻还通过吸收二氧化碳、帮助缓解气候变化以及为沿海物种提供栖息地，在海洋生态中发挥着至关重要的作用。
 
-隆重推出 Indexify，这是一个专为实时数据提取和转换而设计的开源框架，专为大型语言模型 (LLM) 应用程序量身定制。用户可以利用预构建的提取器或创建自定义提取器来有效处理非结构化数据源。提供的代码片段演示了如何使用 Indexify 的客户端和 YAML 规范设置提取图。该框架支持高级提取策略，例如使用 MiniLM 等模型进行递归文本分割和嵌入生成。 Indexify 旨在简化数据准备流程，让与法学硕士合作的开发人员更容易访问、更高效。]]></description>
-      <guid>https://t.me/hn_summary/91167</guid>
-      <pubDate>Thu, 23 May 2024 20:49:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]周二，我们发布了一篇关于解释大语言的开创性研究论文[...]</title>
-      <link>https://t.me/hn_summary/91166</link>
-      <description><![CDATA[金门克劳德
-周二，我们发布了一篇关于解释大型语言模型的开创性研究论文，特别是我们的 AI 模型 Claude 3 Sonnet。我们在克劳德的神经网络中发现了数百万个“特征”，这些特征会响应相关文本或图像而激活。一个显着的特征是金门大桥的概念，它触发特定的神经元组合。通过调整该功能的激活强度，我们观察到克劳德行为的显着变化。例如，当“金门大桥”特征被放大时，克劳德的反应变得主要集中在这座桥上，即使在不相关的上下文中也是如此。这种对内部激活的精确操纵不是传统的微调，而是外科手术式的改变，为人工智能的可解释性提供了见解。在有限的时间内，您可以在 claude.ai 上与“Golden Gate Claude”互动。这项研究可以让我们调整与安全相关的功能，从而为更安全的人工智能模型铺平道路。]]></description>
-      <guid>https://t.me/hn_summary/91166</guid>
-      <pubDate>Thu, 23 May 2024 20:36:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]谷歌每年向 Reddit 支付 6000 万美元，用于将用户生成的内容整合到 [...]</title>
-      <link>https://t.me/hn_summary/91165</link>
-      <description><![CDATA[Google 向 Reddit 支付 6000 万美元，让 Fucksmith 告诉用户吃饭胶水
-谷歌每年向 Reddit 支付 6000 万美元，将用户生成的内容纳入其人工智能搜索结果中，从而导致一些奇怪和误导性的建议。一个著名的例子是一位名为“Fucksmith”的 Reddit 用户建议在披萨酱中添加无毒胶水来制作奶酪棒，这是 11 年前的帖子，谷歌的人工智能将其视为合法建议。这一事件凸显了谷歌人工智能的缺陷，它经常重复从互联网上不加区别地抓取旧内容，而不是产生新知识。批评者认为这种方法降低了搜索结果的质量并损害了内容创作者的生计。]]></description>
-      <guid>https://t.me/hn_summary/91165</guid>
-      <pubDate>Thu, 23 May 2024 20:30:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Ruby 的“读取命名空间”常见问题解答</title>
-      <link>https://t.me/hn_summary/91164</link>
-      <description><![CDATA[Ruby 的“读取命名空间”常见问题解答&lt; br/&gt;
-Ruby 的“读取命名空间”常见问题解答
+在印度南部沿海地区，一群被称为“海藻美人鱼”的妇女使用传统技术收获海藻，体现了韧性和可持续性。然而，入侵物种对海洋生物多样性构成重大威胁，超越本地物种并破坏生态系统。创新举措将入侵海藻重新利用为时尚，应对环境挑战并强调需要采取集体行动来保护海洋生态系统。
 
-此常见问题解答由 tagomoris 撰写，解决了有关 RubyKaigi 2024 上推出的拟议“读取命名空间”功能的常见问题。“命名空间”名称尚未固定，欢迎提出建议。该功能不仅旨在分离名称，还旨在分离类/模块定义，尽管它面临着库中现有名称的挑战。合并到 Ruby 的时间表尚不确定，虽然 Matz 暗示这可能会导致 Ruby 4.0，但这是一种误解；高级 Package API 是 Ruby 4.0 的关键，而不是读取时的命名空间。短期目标是将命名空间实现为实验性功能，长期目标包括支持 Ruby on Rails 和其他应用程序。命名空间不会取代Refinements。合并后，社区支持对于测试和修补至关重要。]]></description>
-      <guid>https://t.me/hn_summary/91164</guid>
-      <pubDate>Thu, 23 May 2024 20:18:24 GMT</pubDate>
+Runa Ray 是一位可持续时装设计师和活动家，她在创作中使用藻类面料，并与联合国合作推广可持续时尚。关注她 @runaray 并访问 http: //www.runaray.com。给她发电子邮件 contact@runaray.com。
+
+资料来源：IPCC、Ecoworldline 和《科学美国人》。]]></description>
+      <guid>https://t.me/hn_summary/91192</guid>
+      <pubDate>Thu, 23 May 2024 23:22:54 GMT</pubDate>
     </item>
     <item>
-      <title>昨晚 9:04pm-9:06pm +/- 1 分钟，旧金山湾区有人看到这个吗？</title>
-      <link>https://t.me/hn_summary/91163</link>
-      <description><![CDATA[旧金山湾区的任何人昨晚 9:04 都会看到这个 -晚上 9:06 +/- 1 分钟？
-昨晚，晚上 9:04 至 9:06 之间，观察到一个快速移动的物体在马林县上空从西向东移动，似乎源自塔姆山，向蒂伯龙方向移动。经 FlightAware 核实，确认它不是国际空间站或飞机。天空晴朗，其他天体都清晰可见，但这个物体却发出模糊的、朦胧的光芒。最初被认为是一颗彗星，它没有尾巴，很快就消失在地球的阴影中。一位火箭科学家朋友建议它可能是 X-37，但自 2022 年 11 月 OTV-6 以来没有最近的返回记录。有什么想法吗？]]></description>
-      <guid>https://t.me/hn_summary/91163</guid>
-      <pubDate>Thu, 23 May 2024 20:07:03 GMT</pubDate>
+      <title>[媒体] 标题：社区对 Framework 笔记本电脑上的 Bluefin/Bazzite 的支持</title>
+      <link>https://t.me/hn_summary/91191</link>
+      <description><![CDATA[框架笔记本电脑上对 Bluefin/Bazzite 的社区支持&lt; br /&gt;
+标题：框架笔记本电脑上 Bluefin/Bazzite 的社区支持
+
+Bluefin 和 Bazzite 现在是 Framework 笔记本电脑（特别是 Framework 13 和 16 型号）社区支持的选项。如果您在屏幕上看到 Framework 图标，则表示您的笔记本电脑已准备就绪！ Fedora 得到官方支持，Universal Blue 镜像扩展了这种支持，提供了坚实的基础。在过去的一年里，我们与 Framework 的 Matt Hartley 合作，致力于实现尽可能多的功能自动化。结果是用户友好的图像，具有许多增强功能，包括自动 dGPU 使用、电源配置文件切换、分数缩放和指纹服务。未来的工作包括改进 GNOME 中的 XWayland 分数缩放。在社区支持的同时，我们努力不断改进并欢迎贡献。特别感谢 Matt Hartley 和 Mario Limonciello 的宝贵支持。在您的 Framework 笔记本电脑上享受这种无缝的 Linux 体验！]]></description>
+      <guid>https://t.me/hn_summary/91191</guid>
+      <pubDate>Thu, 23 May 2024 23:10:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]三星与独立维修店的合同要求这些商店报告外部情况[...]</title>
-      <link>https://t.me/hn_summary/91162</link>
-      <description><![CDATA[三星：独立维修店必须报告客户数据、售后零件
-三星与独立维修店的合同要求这些店向三星报告大量的客户数据和每次维修的详细信息。这包括客户的姓名、联系信息、电话号码和投诉详细信息。此外，合同要求商店拆解之前使用第三方零件维修过的所有手机，并通知三星。这一有争议的条款被视为侵犯了消费者隐私，并侵犯了受《马格努森·莫斯保修法》保护的售后零件使用权。专家认为，这份合同破坏了维修店的独立性，并凸显了维修权立法的必要性。该合同还限制了允许的维修类型，并迫使商店资助一个反对他们利益的游说组织。三星未对此事发表评论。]]></description>
-      <guid>https://t.me/hn_summary/91162</guid>
-      <pubDate>Thu, 23 May 2024 19:59:57 GMT</pubDate>
+      <title>[媒体]“不可接受”：Spotify 于 12 月屏蔽了 Car Thing 设备</title>
+      <link>https://t.me/hn_summary/91190</link>
+      <description><![CDATA[“不可接受”：Spotify 于 12 月对 Car Thing 设备进行变砖，且不予退款
+Spotify 决定于 12 月 9 日将其 Car Thing 设备变砖，且不提供退款或以旧换新选项，这一决定引发了用户的强烈反对。该设备最初是为了增强车载 Spotify 导航而设计的，但很快就会变得无用，促使车主恳求开源硬件，以避免造成电子垃圾。尽管有这些呼吁，Spotify 对此事保持沉默，建议用户仅按照当地电子废物指南处理这些设备。 Car Thing 需要 Spotify Premium 订阅和联网手机，许多人已经认为它是多余的。突然停止服务让用户感到被背叛，并质疑 Spotify 硬件业务的未来投资。]]></description>
+      <guid>https://t.me/hn_summary/91190</guid>
+      <pubDate>Thu, 23 May 2024 23:10:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 2024 年春天，地球将见证全球最活跃的极光表演 [...]</title>
-      <link>https://t.me/hn_summary/91161</link>
-      <description><![CDATA[北极光与哈勃之死之间的意外联系 
-2024 年春天，由于太阳活动加剧（包括太阳黑子增加和强大的太阳耀斑），地球将见证二十多年来最活跃的极光现象。虽然这些现象不会对人类造成直接威胁，但它们对电子、电网和卫星构成重大风险。值得注意的是，由于太阳活动引起的轨道衰变加剧，美国宇航局的哈勃太空望远镜特别容易受到影响。自 1990 年发射以来，哈勃的高度一直在稳步下降，在太阳活动极大期期间加剧。随着当前太阳周期在 2025 年至 2026 年左右达到顶峰，哈勃的轨道衰变正在加速，如果不采取纠正措施，可能会导致其消亡。太阳活动与哈勃的命运之间的这种意想不到的联系强调了太空天气对我们技术基础设施的更广泛影响。 （根据 82% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/91161</guid>
-      <pubDate>Thu, 23 May 2024 19:48:16 GMT</pubDate>
+      <title>[媒体] MusicGPT 是一款开源应用程序，旨在从自然语言生成音乐 [...]</title>
+      <link>https://t.me/hn_summary/91189</link>
+      <description><![CDATA[展示 HN：MusicGPT – 用于使用本地生成音乐的开源应用程序法学硕士
+MusicGPT 是一款开源应用程序，旨在使用本地运行的大语言模型 (LLM) 根据自然语言提示生成音乐。它目前支持 Meta 的 MusicGen 模型，并计划在未来包含更多模型。该项目的独特之处在于，它能够在本地执行，而无需像 Python 或机器学习框架这样的严重依赖，从而可以跨各种平台进行访问。用户可以通过基于 Web 的 UI 或命令行界面 (CLI) 与 MusicGPT 进行交互。安装选项包括使用 Mac/Linux 的brew、下载 Windows 的可执行文件或通过 Docker 运行支持 CUDA 的 GPU。该项目已获得 MIT 许可，模型权重遵循 CC-BY-NC-4.0。]]></description>
+      <guid>https://t.me/hn_summary/91189</guid>
+      <pubDate>Thu, 23 May 2024 23:08:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]自 2025 年 1 月 1 日起，明尼苏达州将强制拥有 30 名或以上雇员的雇主 [...]</title>
-      <link>https://t.me/hn_summary/91160</link>
-      <description><![CDATA[明尼苏达州现在要求职位发布中的薪酬透明度
-自 2025 年 1 月 1 日起，明尼苏达州将强制拥有 30 名或以上员工的雇主在所有职位发布中包含薪资范围和福利信息。这项新要求是州长 Tim Walz 签署的 2024 年综合劳工和工业政策法案的一部分，旨在提高薪酬透明度。该法律规定，薪酬范围必须是“善意估计”，并且不能是开放式的，解决了其他州常见的合规问题。然而，模糊性仍然存在，例如奖金和远程工作职位的待遇。此举遵循了明尼苏达州其他有利于员工的法律，包括限制薪资历史查询和竞业禁止，以及建立带薪病假和安全时间。雇主应为国家进一步的监管变化做好准备。]]></description>
-      <guid>https://t.me/hn_summary/91160</guid>
-      <pubDate>Thu, 23 May 2024 19:47:11 GMT</pubDate>
+      <title>“黑客非计算机系统”可以是增长黑客吗？</title>
+      <link>https://t.me/hn_summary/91188</link>
+      <description><![CDATA[“攻击非计算机系统”可以是增长黑客吗？&lt; /a&gt;
+标题：“黑客非计算机系统”可以是增长黑客吗？
+网站：news.ycombinator.com
+
+文章探讨了 Y Combinator 关于黑客非计算机系统的应用问题是否可以包括涉及计算机但不涉及编码的增长黑客方法。作者表示，他们为自己的产品发现了一种独特的增长黑客策略，并相信在他们的申请中提及它会有所帮助。这篇文章提出了一个有趣的观点，即“黑客”一词的灵活性及其超越传统编码的应用，强调了初创公司实现增长的创新方式。没有明显的争议，但巧妙之处在于扩大了黑客的定义，将创造性的、非技术性的策略包括在内。]]></description>
+      <guid>https://t.me/hn_summary/91188</guid>
+      <pubDate>Thu, 23 May 2024 22:44:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>问 HN：是什么让 Windows 11 的性能比 Windows XP 差很多？</title>
+      <link>https://t.me/hn_summary/91187</link>
+      <description><![CDATA[问 HN：是什么让 Windows 11 的性能比 Windows XP 差很多？ 
+标题：问 HN：是什么让 Windows 11 的性能比 Windows XP 差很多？
+网站：news.ycombinator.com
+
+在本次讨论中，用户探讨了为什么尽管技术有所进步，Windows 11 的性能似乎仍比 Windows XP 差。关键点包括现代操作系统的复杂性增加，它现在可以处理更多任务并提供更多功能，从而导致更高的资源消耗。此外，现代安全措施以及对更广泛的硬件和软件的支持也导致了性能差距。一些用户认为，Windows 11 中对美观和用户界面增强的关注也可能会降低性能。这次谈话凸显了一个有争议的观点：就效率和速度而言，更新并不总是更好。]]></description>
+      <guid>https://t.me/hn_summary/91187</guid>
+      <pubDate>Thu, 23 May 2024 22:42:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]SpaceX 正在考虑一项出售股票的计划，这将使该公司的估值令人印象深刻 [...]</title>
+      <link>https://t.me/hn_summary/91186</link>
+      <description><![CDATA[SpaceX 考虑以 200B 美元出售公司股票的计划
+SpaceX 正在考虑一项出售股票的计划，这将使该公司的估值达到令人印象深刻的 2000 亿美元。此举突显了投资者对 SpaceX 雄心勃勃的项目（包括其星链卫星互联网服务和未来的火星任务）的信心不断增强。这一估值将使 SpaceX 成为全球最有价值的私营公司之一。然而，以如此高的估值出售股票的决定可能会引发投资者关于如此高市值的可持续性的争论。此外，彭博网站上检测到的异常活动给访问此信息带来了意想不到的麻烦。]]></description>
+      <guid>https://t.me/hn_summary/91186</guid>
+      <pubDate>Thu, 23 May 2024 22:38:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 政治顾问 Steven Kramer 面临 600 万美元罚款和超过 20 起犯罪 [...]</title>
+      <link>https://t.me/hn_summary/91185</link>
+      <description><![CDATA[伪造拜登自动拨号电话的顾问面临 600 万美元罚款和刑事指控
+政治顾问 Steven Kramer 因在初选前向新罕布什尔州选民发送模仿总统乔·拜登声音的人工智能自动拨号电话而面临 600 万美元罚款和 20 多项刑事指控。联邦通信委员会 (FCC) 表示，这是其第一起涉及生成人工智能技术的案件。Kramer 承认策划了这些误导性电话，这些电话错误地暗示初选投票将阻止选民参加 11 月的选举。被指控传输这些电话的公司 Lingo Telecom 面临 200 万美元罚款，但否认参与制作这些电话。新罕布什尔州总检察长强调该州对选举诚信的承诺。克莱默声称他的行为是对人工智能危险的警示，他将面临严重的法律后果，包括可能入狱。联邦通信委员会目前正在推动制定新规则，要求政治广告商披露人工智能生成的内容，以防止选民误报。]]></description>
+      <guid>https://t.me/hn_summary/91185</guid>
+      <pubDate>Thu, 23 May 2024 22:36:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网址：www.theverge.com</title>
+      <link>https://t.me/hn_summary/91184</link>
+      <description><![CDATA[Google 承诺提供更好的搜索 - 现在它告诉我们在披萨上涂胶水
+标题：谷歌承诺提供更好的搜索 - 现在它告诉我们在披萨上涂胶水
+网站：www.theverge.com
+
+想象一下自制披萨，却发现奶酪掉下来了。你向谷歌寻求帮助，它建议在你的酱汁中添加埃尔默胶水。这个奇怪的建议来自谷歌新的人工智能概述功能，该功能从网络上提取信息，包括十年前的 Reddit 笑话。此功能还犯了其他错误，例如声称詹姆斯·麦迪逊 (James Madison) 曾 21 次毕业于威斯康星大学 (University of Wisconsin)，以及声称一只狗参加了主要体育联盟。谷歌承认这些错误，但表示这些错误很少见，是改进产品的一部分。尽管人工智能具有潜力，但这些错误凸显了当前的重大问题，引发了人们对人工智能是否准备好进行准确的大规模信息传递的质疑。]]></description>
+      <guid>https://t.me/hn_summary/91184</guid>
+      <pubDate>Thu, 23 May 2024 22:29:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
