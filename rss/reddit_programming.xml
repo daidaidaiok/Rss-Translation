@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 24 May 2024 09:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 12:07:43 GMT</lastBuildDate>
+    <item>
+      <title>GitHub - Jailer：数据库子集和关系数据浏览工具。</title>
+      <link>https://www.reddit.com/r/programming/comments/1czitrp/github_jailer_database_subsetting_and_relational/</link>
+      <description><![CDATA[ 由   提交 /u/Plane-Discussion    com/Wisser/Jailer&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1czitrp/github_jailer_database_subsetting_and_relational/</guid>
+      <pubDate>Fri, 24 May 2024 11:47:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>告别 GraphQL 中的 N+1</title>
+      <link>https://www.reddit.com/r/programming/comments/1cziakk/say_goodbye_to_n_1_in_graphql/</link>
+      <description><![CDATA[ 由   提交 /u/West-Chocolate2977   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cziakk/say_goodbye_to_n_1_in_graphql/</guid>
+      <pubDate>Fri, 24 May 2024 11:15:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件开发中的角色识别和分配调查——大学项目需要帮助！</title>
+      <link>https://www.reddit.com/r/programming/comments/1czhrj1/survey_on_role_recognition_and_allocation_in/</link>
+      <description><![CDATA[ 由   提交 /u/LordDule   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1czhrj1/survey_on_role_recognition_and_allocation_in/</guid>
+      <pubDate>Fri, 24 May 2024 10:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>遇到这个错误：</title>
+      <link>https://www.reddit.com/r/programming/comments/1czh9dc/encountering_this_error/</link>
+      <description><![CDATA[  由    /u/Agitated_Chard7231  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1czh9dc/encountering_this_error/</guid>
+      <pubDate>Fri, 24 May 2024 10:06:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要一个可以预览图书的 API</title>
+      <link>https://www.reddit.com/r/programming/comments/1czh060/i_need_an_api_that_gives_me_book_preview/</link>
+      <description><![CDATA[我正在开发一个 iOS 项目图书馆管理系统，我需要创建一个功能，当图书管理员扫描一本书的 ISBN 条形码时，它应该给我一个功能基本描述名称和供用户阅读的预览 Ps: 请忽略链接   由   提交/u/Utsav44  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1czh060/i_need_an_api_that_gives_me_book_preview/</guid>
+      <pubDate>Fri, 24 May 2024 09:48:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要微服务，要做模块</title>
+      <link>https://www.reddit.com/r/programming/comments/1czgqi1/dont_microservice_do_module/</link>
+      <description><![CDATA[ 由   提交/u/yektadev  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1czgqi1/dont_microservice_do_module/</guid>
+      <pubDate>Fri, 24 May 2024 09:28:50 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 VSCode 设置 React Native for Android | Mac 苹果芯片 & Intel 芯片</title>
       <link>https://www.reddit.com/r/programming/comments/1czgavd/how_to_setup_react_native_for_android_using/</link>
@@ -13,14 +55,14 @@
       <pubDate>Fri, 24 May 2024 08:56:35 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 Tailwind CSS 和 JavaScript 创建垂直标签</title>
+      <title>如何使用 Tailwind CSS 和 JavaScript 创建垂直选项卡</title>
       <link>https://www.reddit.com/r/programming/comments/1czg5tv/how_to_create_vertical_tabs_with_tailwind_css_and/</link>
       <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czg5tv/how_to_create_vertical_tabs_with_tailwind_css_and/</guid>
       <pubDate>Fri, 24 May 2024 08:45:41 GMT</pubDate>
     </item>
     <item>
-      <title>Phoenix LiveView 如何通过流优化实时 Web 应用程序 • Sophie DeBenedetto</title>
+      <title>Phoenix LiveView 如何利用 Streams 优化实时 Web 应用程序 • Sophie DeBenedetto</title>
       <link>https://www.reddit.com/r/programming/comments/1czg1v2/how_phoenix_liveview_optimizes_realtime_web_apps/</link>
       <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czg1v2/how_phoenix_liveview_optimizes_realtime_web_apps/</guid>
@@ -36,7 +78,7 @@
     <item>
       <title>在 12 个月内成为伟大的工程领导者</title>
       <link>https://www.reddit.com/r/programming/comments/1czfjnv/become_a_great_engineering_leader_in_12_months/</link>
-      <description><![CDATA[  由    /u/nicolaballotta  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/nicolaballotta  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czfjnv/become_a_great_engineering_leader_in_12_months/</guid>
       <pubDate>Fri, 24 May 2024 07:58:55 GMT</pubDate>
     </item>
@@ -46,13 +88,6 @@
       <description><![CDATA[ 由   提交/u/TheDeveloper12345   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czfbp0/how_to_not_be_replaced_by_ai_as_a_software/</guid>
       <pubDate>Fri, 24 May 2024 07:41:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - Jailer：数据库子集和关系数据浏览工具。</title>
-      <link>https://www.reddit.com/r/programming/comments/1czew33/github_jailer_database_subsetting_and_relational/</link>
-      <description><![CDATA[ 由   提交 /u/Plane-Discussion    com/Wisser/Jailer&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czew33/github_jailer_database_subsetting_and_relational/</guid>
-      <pubDate>Fri, 24 May 2024 07:10:11 GMT</pubDate>
     </item>
     <item>
       <title>JAVS 软件在供应链攻击中受损</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Feitgemel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czdg8m/skin_melanoma_classification_stepbystep_guide/</guid>
       <pubDate>Fri, 24 May 2024 05:32:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解 JavaScript 中的数组归约</title>
-      <link>https://www.reddit.com/r/programming/comments/1czcolz/understanding_array_reduce_in_javascript/</link>
-      <description><![CDATA[ 由   提交/u/guleriashubham63   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czcolz/understanding_array_reduce_in_javascript/</guid>
-      <pubDate>Fri, 24 May 2024 04:42:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>TypeScript 库旨在解决尚未解决的 TS 问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1cza62x/typescript_library_aimed_at_resolving_unresolved/</link>
-      <description><![CDATA[ 由   提交/u/AshR75  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cza62x/typescript_library_aimed_at_resolving_unresolved/</guid>
-      <pubDate>Fri, 24 May 2024 02:19:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python LiveStream：通过视频游戏主题课程了解 OOP 基础知识</title>
-      <link>https://www.reddit.com/r/programming/comments/1cz92uf/python_livestream_basics_of_oop_through_video/</link>
-      <description><![CDATA[20-30 分钟：回答并演示 Python 基础知识 30-1:30：新生物的类创建 1:30–2:30：实现 multi - 线程文本 PvP 游戏/构建 GUI   由   提交/u/whitechoc6  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cz92uf/python_livestream_basics_of_oop_through_video/</guid>
-      <pubDate>Fri, 24 May 2024 01:20:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>BitKeeper、Linux 和许可纠纷：Linus 如何在 14 天内编写 Git</title>
-      <link>https://www.reddit.com/r/programming/comments/1cz6i6h/bitkeeper_linux_and_licensing_disputes_how_linus/</link>
-      <description><![CDATA[ 由   提交/u/kendumez  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cz6i6h/bitkeeper_linux_and_licensing_disputes_how_linus/</guid>
-      <pubDate>Thu, 23 May 2024 23:10:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>忘记编程，学习 Ruby</title>
-      <link>https://www.reddit.com/r/programming/comments/1cz369h/unlearn_programming_to_learn_ruby/</link>
-      <description><![CDATA[ 由   提交 /u/mehdifarsi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cz369h/unlearn_programming_to_learn_ruby/</guid>
-      <pubDate>Thu, 23 May 2024 20:43:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
