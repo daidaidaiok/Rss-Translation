@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 25 May 2024 06:08:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 09:06:45 GMT</lastBuildDate>
     <item>
       <title>关于是否包含原始开源许可文本的问题。</title>
       <link>https://www.reddit.com/r/opensource/comments/1d051m7/question_about_whether_to_include_original/</link>
@@ -83,14 +83,14 @@
       <pubDate>Fri, 24 May 2024 10:13:39 GMT</pubDate>
     </item>
     <item>
-      <title>TypeScript 库旨在解决未解决的 TS 问题</title>
+      <title>TypeScript 库旨在解决尚未解决的 TS 问题</title>
       <link>https://www.reddit.com/r/opensource/comments/1cza8mj/typescript_library_aimed_at_resolving_unresolved/</link>
       <description><![CDATA[       由   提交/u/AshR75  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cza8mj/typescript_library_aimed_at_resolving_unresolved/</guid>
       <pubDate>Fri, 24 May 2024 02:23:01 GMT</pubDate>
     </item>
     <item>
-      <title>圣诞老人正在观看：ZFS 感知家庭实验室监控</title>
+      <title>圣诞老人在看：ZFS 感知家庭实验室监控</title>
       <link>https://www.reddit.com/r/opensource/comments/1cz9nj5/santa_is_watching_zfs_aware_homelab_monitoring/</link>
       <description><![CDATA[“圣诞老人正在观看” （又名 Santa_IW）是一种新的开源网络监控工具，重点关注家庭实验室环境中的 ZFS 和网络附加存储。 Santa_IW 可以自动发现您的 Intranet 上的硬件并建立适当的测试列表，然后定期运行以监控您的网络。 Santa_IW 使用密钥 ssh 与受监控节点进行通信，无需安装额外的代理。 文档和安装说明位于 GitLab wiki 上，网址为 https://gitlab.com/SRG_gitlab/santa-is-watching/-/wikis/home Reddit 群组已建立对于 Beta 测试参与者，请访问 https://www.reddit.com/r/Santa_IW/ 可在 https://youtu.be/rpAv15fCVu0 上观看简短的试驾视频。   由   提交 /u/sgoncalo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cz9nj5/santa_is_watching_zfs_aware_homelab_monitoring/</guid>
