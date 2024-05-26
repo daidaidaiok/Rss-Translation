@@ -3,100 +3,99 @@
   <channel>
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
-    <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 26 May 2024 11:27:57 GMT</lastBuildDate>
+    <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
+    <lastBuildDate>Sun, 26 May 2024 15:06:56 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 网址：medium.com</title>
-      <link>https://t.me/hn_summary/91573</link>
-      <description><![CDATA[每个开发者都应该知道的大 (O) 表示法&lt; br/&gt;
-标题：每个开发人员都应该知道的大 (O) 符号
-网站：medium.com
+      <title>[媒体] elements.wlonk.com 上的“元素周期表，图文并茂” [...]</title>
+      <link>https://t.me/hn_summary/91586</link>
+      <description><![CDATA[元素周期表，图文并茂
+elements.wlonk.com 上的“元素周期表，图文并茂”，为宇宙中的基本粒子提供了全面的视觉和文字指南。该图表详细说明了粒子物理学的标准模型 (SM)，包括基本费米子（夸克、轻子、电子、中微子）、基本玻色子（胶子、光子、W 和 Z 玻色子、希格斯和预测的引力子）和复合粒子（强子、重子、质子、中子、介子）及其反粒子。此外，它还涵盖了预测的超对称 (SUSY) 粒子，这是物理学家争论的话题。大型强子对撞机 (LHC) 等实验的未来发现可能会进一步完善或扩展此模型。]]></description>
+      <guid>https://t.me/hn_summary/91586</guid>
+      <pubDate>Sun, 26 May 2024 15:06:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在 Marginalia.nu 的“Feynman's Garden”中，作者将 Feynman 算法作为 [...]</title>
+      <link>https://t.me/hn_summary/91585</link>
+      <description><![CDATA[费曼花园
+在 Marginalia.nu 上的“费曼花园”中，作者探讨了费曼算法是解决问题的真正方法，而不仅仅是一个笑话。该算法“写下问题，认真思考，写下解决方案”，清晰地描述了深度思考的工作原理，尤其是对于复杂的问题。作者强调，思维是一个后台过程，大脑将输入的数据点连接起来。为了解决问题，人们应该收集相关信息，明确定义问题，然后放弃进一步的输入，让大脑进行处理。作者分享了 2021 年的个人轶事，强调了远离工作如何带来洞察力的爆发。园艺比喻用来说明如何通过阅读和思考来培养思想，强调修剪不相关信息和培养有洞察力的想法的重要性。]]></description>
+      <guid>https://t.me/hn_summary/91585</guid>
+      <pubDate>Sun, 26 May 2024 14:47:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在《医学冥界之旅》中，作者讲述了一段悲惨的经历 [...]</title>
+      <link>https://t.me/hn_summary/91584</link>
+      <description><![CDATA[医学地狱之旅 (2016)
+在《医学地狱之旅》中，作者讲述了他们九岁女儿的一次痛苦经历，她突然患上严重的疾病，无法轻易诊断和治疗。起初，红脸和耳痛似乎可以通过抗生素得到缓解，但不久之后，孩子出现了严重的焦虑和行为变化，导致她无法上学，甚至无法离开家。尽管向各种医疗和心理专业人士寻求帮助，但这个家庭仍面临漫长的等待时间和有限的资源。故事强调了在医疗保健系统中寻找一种不太了解的突发精神疾病的挑战和挫折。这个故事强调了家庭的情感和身体负担，以及心理健康护理的可及性和支持的不足。 
 
-摘要：
-大家好，如果您正在准备参加编码面试，那么掌握 Big(O) 表示法是必须的。在计算机科学和软件开发领域，效率至上。本文概述了每个软件工程师和开发人员都应该熟悉的 8 个基本 Big(O) 符号。理解这些符号对于评估算法的性能和可扩展性至关重要。内容简单明了且具有教育意义，旨在为开发人员提供在技术面试中脱颖而出并有效优化代码所需的知识。这里没有争议，只是为有抱负和经验丰富的开发人员提供可靠、实用的建议。]]></description>
-      <guid>https://t.me/hn_summary/91573</guid>
-      <pubDate>Sun, 26 May 2024 11:27:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Electrified Thermal Solutions 由 Joey Kabel 和 Daniel Stack 共同创立，是 [...]</title>
-      <link>https://t.me/hn_summary/91572</link>
-      <description><![CDATA[导电砖可以替代工业过程中的化石燃料 
-Electrified Thermal Solutions 由 Joey Kabel 和 Daniel Stack 共同创立，致力于开发导电砖来替代工业过程中的化石燃料。这些砖块旨在将可再生电力转化为高温热量，用于钢铁和水泥生产等传统上依赖煤炭的行业。该技术由麻省理工学院开发，使用改性耐火砖来导电并产生热量，为钼等昂贵材料提供了耐用且经济高效的替代品。在政府大量资金（包括美国能源部 3500 万美元拨款）的支持下，该公司将大幅减少温室气体排放。其独特之处在于砖块能够储存数天的热量，确保可再生能源不活跃时的能源可用性。然而，人们担心该技术是否会在美国取得商业成功或被中国超越。]]></description>
-      <guid>https://t.me/hn_summary/91572</guid>
-      <pubDate>Sun, 26 May 2024 10:44:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]了解大脑如何阅读代码与语言</title>
-      <link>https://t.me/hn_summary/91571</link>
-      <description><![CDATA[了解大脑如何读取代码与语言
-了解大脑如何阅读代码与语言
+争议点：作者批评加拿大医疗体系效率低下，缺乏即时心理健康护理，这可能会引发关于该体系优缺点的争论。
 
-麻省理工学院神经科学家的最新研究表明，大脑处理计算机代码的方式与处理自然语言的方式不同。虽然两者都涉及破译符号和指令，但编码会激活大脑的多重需求网络，负责解决数学问题等复杂的认知任务，而不是语言中心。这种区别表明编码是一种独特的认知活动，独立于语言理解。研究结果挑战了传统的教育方法，提倡结合语言和数学元素的混合教学策略。这可以更好地满足编程的独特认知需求，帮助学生在计算机科学方面取得优异成绩。如需更详细的见解，您可以在此处阅读完整的研究。]]></description>
-      <guid>https://t.me/hn_summary/91571</guid>
-      <pubDate>Sun, 26 May 2024 10:31:34 GMT</pubDate>
+独特/巧妙的元素：对孩子行为的生动、近乎发自内心的描述以及家人为控制局面所做出的绝望努力，为读者提供了令人信服、富有同情心的洞察。（基于 26% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/91584</guid>
+      <pubDate>Sun, 26 May 2024 14:31:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：futurism.com</title>
-      <link>https://t.me/hn_summary/91570</link>
-      <description><![CDATA[谷歌首席执行官表示，其人工智能提供错误信息没有解决方案
-标题：谷歌首席执行官表示，其人工智能提供错误信息没有解决方案
-网站：futurism.com
+      <title>[媒体] 在此演示中，我们展示了 Solvent-Lowcodr 如何与 AI 代码生成、规范 [...]</title>
+      <link>https://t.me/hn_summary/91583</link>
+      <description><![CDATA[将 AI CodeGen 与低代码应用程序开发集成
+在此演示中，我们展示了 Solvent-Lowcodr 如何与 AI 代码生成集成，特别是使用 ChatGPT，以简化低代码环境中 Web 应用程序的创建。利用 Vuetify 组件库，此演示标志着一系列演示的开始，该系列演示将探索在 Solvent-Lowcodr 中结合 AI CodeGen 和低代码的各种方法，从而显著加快 Web 应用程序的开发速度。未来的帖子将深入探讨使用 AI CodeGen 创建低代码构建块，并将包括 React 的演示。这种创新方法有望彻底改变开发人员进行 Web 应用程序开发的方式。]]></description>
+      <guid>https://t.me/hn_summary/91583</guid>
+      <pubDate>Sun, 26 May 2024 14:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 当尼康宣布推出 Z 28-400mm f/4-8 VR 镜头时，我对此表示怀疑，因为它的共同特点是 [...]</title>
+      <link>https://t.me/hn_summary/91582</link>
+      <description><![CDATA[尼康 Z 28-400mm f/4-8 VR：最好的我用过的万能镜头
+当尼康推出 Z 28-400mm f/4-8 VR 镜头时，我对“一体化”镜头的常见问题（例如失真和清晰度损失）表示怀疑。然而，尼康更大的 Z 卡口具有令人印象深刻的光学性能，正如他们之前的镜​​头所证明的那样。在为期两周的欧洲旅行中使用 28-400mm 后，我可以自信地说这是我用过的最好的全能镜头。尽管其尺寸、重量和可变光圈，该镜头在整个范围内（即使在 400 毫米）也能提供卓越的清晰度。我的尼康 Z 8 和 Z 9 相机的内置图像稳定功能和高 ISO 性能进一步增强了其可用性。这款镜头大大减少了我更换镜头的需要，使其成为旅行摄影的游戏规则改变者。 
 
-哎哟。谷歌的新人工智能概述功能因生成极其错误的答案而臭名昭著，例如建议用户在披萨上使用胶水以防止奶酪滑落。在最近接受 The Verge 采访时，谷歌首席执行官桑达尔·皮查伊 (Sundar Pichai) 承认，这些“幻觉”是人工智能大语言模型 (LLM) 的固有问题，并且仍然是一个尚未解决的问题。尽管努力提高准确性，但错误仍然存​​在，例如错误地声称 13 位美国总统毕业于威斯康星大学麦迪逊分校。皮查伊淡化了这些错误，强调了人工智能概述的整体有用性。然而，这些错误引发了网上批评，损害了谷歌搜索的声誉。 AI 顾问 Britney Muller 警告称，谷歌专注于在搜索领域与 Perplexity 和 OpenAI 竞争可能会被误导，建议他们应该探索更有价值的 AI 应用。皮查伊的评论表明，谷歌的人工智能事业面临着充满挑战的道路。]]></description>
-      <guid>https://t.me/hn_summary/91570</guid>
-      <pubDate>Sun, 26 May 2024 10:09:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在“如何更改您的 IP 地址、为什么要更改以及何时应该更改”一文中 [...]</title>
-      <link>https://t.me/hn_summary/91569</link>
-      <description><![CDATA[如何更改您的 IP 地址，为什么您想要 –当你不应该这样做的时候
-在 ZDNET 上的文章“如何更改您的 IP 地址、为什么要更改以及何时不应该更改”中，Jack Wallen 深入探讨了 IP 地址对于在线隐私和安全的重要性。他解释说，IP 地址类似于家庭地址，用于标识网络上的设备，可以是动态的也可以是静态的。 Wallen 强调了内部 IP 地址和外部 IP 地址之间的区别，强调更改外部 IP 地址可以帮助防止跟踪。他提供了在各种操作系统上更改内部 IP 地址的详细步骤，并讨论了三种混淆外部 IP 地址的方法：使用 VPN、Tor 浏览器或代理服务器。 Wallen 建议更改内部 IP 地址时要小心，以避免冲突，并建议使用 VPN 或 Tor 浏览器进行外部 IP 混淆，因为它们简单且安全性更高。 
+令人惊讶/聪明：即使在最大光圈和焦距下，镜头也能保持清晰度，这对于超级变焦来说是罕见的。 
 
-争议点：文章认为更改 IP 地址可以增强隐私，安全专家可能会就其针对复杂跟踪方法的有效性进行争论。
+有争议：镜头的尺寸和重量对某些人来说可能是一个缺点，但其性能证明了这些方面的合理性。]]></description>
+      <guid>https://t.me/hn_summary/91582</guid>
+      <pubDate>Sun, 26 May 2024 14:25:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 麻省理工学院的神经科学家发现，阅读计算机代码可以激活不同的 p [...]</title>
+      <link>https://t.me/hn_summary/91581</link>
+      <description><![CDATA[对于大脑来说，阅读计算机代码与阅读语言不同
+麻省理工学院的神经科学家发现，阅读计算机代码与阅读语言所激活的大脑区域不同。虽然学习编程与学习新语言有相似之处，例如理解新符号和术语，但大脑处理这些任务的方式不同。编码不是参与语言处理区域，而是激活多需求网络，该网络也用于解决数学问题等复杂的认知任务。有趣的是，与数学或逻辑问题相比，编码依赖于该网络的不同部分，这表明它是一种独特的认知活动。这一发现挑战了编码应严格作为数学或语言技能来教授的观念，表明需要专门的教育方法。这项研究由 Anna Ivanova 和 Evelina Fedorenko 领导，发表在 eLife 上，并由美国国家科学基金会和麻省理工学院资助。]]></description>
+      <guid>https://t.me/hn_summary/91581</guid>
+      <pubDate>Sun, 26 May 2024 14:23:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]微软正在逐步淘汰 VBScript，转而采用更高级的脚本语言，例如 J [...]</title>
+      <link>https://t.me/hn_summary/91580</link>
+      <description><![CDATA[微软将弃用 VBScript
+Microsoft 正在逐步淘汰 VBScript，转而使用 JavaScript 和 PowerShell 等更高级的脚本语言。 VBScript 于 1996 年推出，已广泛用于 Windows 环境中的任务自动化和 Web 开发。然而，随着技术的进步，现在可以使用更强大的替代品。弃用将分三个阶段进行，首先是在新操作系统版本中将 VBScript 作为按需功能 (FOD) 提供。到 2027 年，默认情况下将不再启用 VBScript FOD，最终，VBScript 将从未来的 Windows 版本中完全删除。我们鼓励用户迁移到 PowerShell 或 JavaScript 以避免中断。 
 
-独特/聪明的见解：Wallen 将 IP 地址比作家庭地址，为读者简化了概念，使技术细节更容易理解。]]></description>
-      <guid>https://t.me/hn_summary/91569</guid>
-      <pubDate>Sun, 26 May 2024 10:02:17 GMT</pubDate>
+争议：弃用可能会破坏依赖 VBScript 的遗留系统和应用程序，从而需要大量的迁移工作。
+
+独特/聪明：分阶段的方法可确保最小的干扰，为用户提供充足的时间过渡到现代脚本语言。]]></description>
+      <guid>https://t.me/hn_summary/91580</guid>
+      <pubDate>Sun, 26 May 2024 14:05:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在他们的研究“9 美元价格收尾对零售销售的影响：来自现场专家的证据 [...]</title>
-      <link>https://t.me/hn_summary/91568</link>
-      <description><![CDATA[9 美元价格结尾对零售业的影响：现场实验的证据 [pdf](https://news.ycombinator.com/item?id=40480209)
-Eric T. Anderson 和 Duncan I. Simester 在他们的研究“9 美元价格结尾对零售销售的影响：现场实验的证据”中探讨了以 9 美元结尾的商品定价对零售销售的影响。该研究发表于 2003 年 3 月《定量营销与经济学》杂志上，通过现场实验证明，与其他价位的产品相比，定价为 9 美元的产品（例如 39 美元、49 美元）可显着提高销量。这种现象通常归因于消费者心理，表明购物者认为 9 美元的结尾是更划算的交易。该研究的结果十分有力，并强调了零售商可以利用巧妙的定价策略来提高销售业绩。]]></description>
-      <guid>https://t.me/hn_summary/91568</guid>
-      <pubDate>Sun, 26 May 2024 09:36:04 GMT</pubDate>
+      <title>[媒体]LuaX 是基于 Lua 5.4 的增强型 Lua 解释器和 REPL，旨在促进 [...]</title>
+      <link>https://t.me/hn_summary/91579</link>
+      <description><![CDATA[LuaX – Lua 解释器、REPL 和有用的包 
+LuaX 是基于 Lua 5.4 的增强型 Lua 解释器和 REPL，旨在促进跨多个平台（Linux、MacOS、Windows）的脚本编译和执行。它允许用户从 Lua 脚本生成独立的可执行文件，使其适用于跨平台开发。 LuaX 的独特之处在于使用 Ninja 和 Zig 提供无缝编译过程，并支持用于优化和调试的各种编译选项。该项目包括用于扩展功能的内置模块，并提供预编译的二进制文件以方便使用。 LuaX 为不同平台编译脚本的能力及其丰富的 REPL 环境使其有别于标准 Lua 解释器。 （根据 77% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/91579</guid>
+      <pubDate>Sun, 26 May 2024 13:25:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 2024 年 Linux 存储、文件系统、内存管理和 BPF Summ 的两场会议中 [...]</title>
-      <link>https://t.me/hn_summary/91567</link>
-      <description><![CDATA[关于 Linux 中多尺寸透明页面性能的两场讲座
-在 2024 年 Linux 存储、文件系统、内存管理和 BPF 峰会的两场会议上，开发人员探讨了 Linux 中多尺寸透明大页 (mTHP) 的性能和可靠性。 Oppo 的 Barry Song 讨论了在 Android 设备上分配 mTHP 的挑战，并指出随着时间的推移，内存碎片会显着降低分配成功率。他提出了一种双最近最少使用（LRU）系统来提高 mTHP 可用性。 Yang Shi 展示了 64 位 Arm 系统的基准测试结果，展示了 mTHP 在特定场景下的性能提升。然而，对于自动 mTHP 分配与特定于应用程序的控制的实用性存在争议，突出了对内存管理策略的不同看法。]]></description>
-      <guid>https://t.me/hn_summary/91567</guid>
-      <pubDate>Sun, 26 May 2024 09:22:56 GMT</pubDate>
+      <title>[媒体] 自 2018 年以来，我们一直是忠实的 Cloudflare Business 计划客户，每月支付 250 美元 [...]</title>
+      <link>https://t.me/hn_summary/91578</link>
+      <description><![CDATA[Cloudflare 在试图迫使我们支付 12 万美元后关闭了我们的网站24小时内
+自 2018 年以来，我们一直是 Cloudflare Business 计划的忠实客户，每月支付 250 美元即可获得无限流量。最近，Cloudflare 要求我们在 24 小时内支付 12 万美元的预付款升级到他们的企业计划，否则他们将删除我们的域名。尽管多次进行销售电话并尝试进行谈判，但当我们提到探索 Fastly 的替代方案时，Cloudflare 清除了我们的所有域名。这导致了严重的停机、客户信任的丧失以及持续的内部混乱。 Cloudflare 的激进策略以及定价和政策缺乏透明度让我们质疑其可靠性。我们建议其他人保持谨慎，并为 Cloudflare 突然提出的不合理要求做好准备。]]></description>
+      <guid>https://t.me/hn_summary/91578</guid>
+      <pubDate>Sun, 26 May 2024 13:13:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] uxdesign.cc 上的文章“用户界面的意外暴政”认为 [...]</title>
-      <link>https://t.me/hn_summary/91566</link>
-      <description><![CDATA[用户界面的意外暴政
-uxdesign.cc 上的文章“用户界面的意外暴政”认为，对简单直观的用户界面的追求导致了一种“软暴政”，用户受到越来越多的限制和操纵。作者不是经过培训的 UI 设计师，而是一名关心用户，他强调了 YouTube 和 WhatsApp 等现代界面与前代相比，功能性下降，控制性增强。文章批评 YouTube 除非用户升级到 Premium，否则会删除后台播放，并批评 WhatsApp 限制文本选择。作者还对非描述性加载栏和隐藏系统操作的过于简单的设计趋势表示遗憾，认为这些变化使用户变得幼稚并侵蚀了他们的自由。这篇文章建议软件创建者应该在易用性与用户自主性和透明度之间取得平衡，或许可以重新考虑广告资助模式，转而采用更尊重用户的替代方案。]]></description>
-      <guid>https://t.me/hn_summary/91566</guid>
-      <pubDate>Sun, 26 May 2024 09:20:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在这篇文章中，我将指导您使用 [...] 将您的 iPhone 变成“哑巴手机”</title>
-      <link>https://t.me/hn_summary/91565</link>
-      <description><![CDATA[将你的 iPhone 变成哑巴手机
-在本文中，我将指导您使用简单的应用程序和设置将 iPhone 变成“哑巴手机”，让您无需购买新设备即可减少屏幕使用时间。通过使用 Dumbify 等最小化主屏幕启动器、使用普通壁纸、启用灰度模式并禁用通知来调整 iPhone，您可以让手机变得不那么吸引人。最后一步是删除令人上瘾的应用程序，这会显着减少您的屏幕时间。虽然这些变化并不能完全消除智能手机成瘾，但它们可以帮助您拥抱更加数字化的简约生活方式。尝试实施至少一个技巧来开始减少屏幕时间的旅程。]]></description>
-      <guid>https://t.me/hn_summary/91565</guid>
-      <pubDate>Sun, 26 May 2024 08:44:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]前总统唐纳德·特朗普承诺支持罗斯·乌布利希，[...]</title>
-      <link>https://t.me/hn_summary/91564</link>
-      <description><![CDATA[特朗普誓言协助被定罪的“丝绸之路”创始人提起加密货币诉讼
-前总统唐纳德·特朗普承诺支持臭名昭著的丝绸之路在线市场创始人罗斯·乌布利希特，支持他正在进行的与加密货币指控相关的上诉。乌布利希特正在服无期徒刑，不得假释，他已成为某些自由主义者和加密货币社区的焦点人物。鉴于特朗普之前对加密货币的矛盾态度，他的参与给此案增添了令人惊讶的转折。此举可能会引发争议，因为乌布利希特的平台促进了非法活动，包括贩毒。特朗普的支持可能会重新引发关于正义与数字时代康复潜力之间平衡的争论。]]></description>
-      <guid>https://t.me/hn_summary/91564</guid>
-      <pubDate>Sun, 26 May 2024 08:20:26 GMT</pubDate>
+      <title>[媒体] 隆重推出 getuniversal.link，这是一款旨在简化测试和 [...]</title>
+      <link>https://t.me/hn_summary/91577</link>
+      <description><![CDATA[显示 HN：getuniversal.link：测试 Apple App 网站的工具关联文件
+隆重推出 getuniversal.link，这是一款旨在简化测试和Apple App Site Association (AASA) 文件的管理。只需输入您的域名，我们的服务就会处理剩下的事情，确保您的 AASA 文件配置正确且功能正常。这一创新解决方案消除了传统上与 AASA 文件验证相关的麻烦和复杂性，使其成为开发人员的必备工具。 getuniversal.link 提供的易用性和效率是一款游戏-应用程序开发和部署领域的变革者。]]></description>
+      <guid>https://t.me/hn_summary/91577</guid>
+      <pubDate>Sun, 26 May 2024 12:47:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
