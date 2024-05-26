@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 26 May 2024 06:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 09:06:08 GMT</lastBuildDate>
+    <item>
+      <title>对于大脑来说，阅读计算机代码与阅读语言不同</title>
+      <link>https://www.reddit.com/r/programming/comments/1d0wqmm/to_the_brain_reading_computer_code_is_not_the/</link>
+      <description><![CDATA[ 由   提交/u/pinkpen_net  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d0wqmm/to_the_brain_reading_computer_code_is_not_the/</guid>
+      <pubDate>Sun, 26 May 2024 08:15:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>由专人领导项目的 5 个理由</title>
+      <link>https://www.reddit.com/r/programming/comments/1d0wdx9/the_5_reasons_to_have_someone_leading_a_project/</link>
+      <description><![CDATA[ 由   提交 /u/strategizeyourcareer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d0wdx9/the_5_reasons_to_have_someone_leading_a_project/</guid>
+      <pubDate>Sun, 26 May 2024 07:49:32 GMT</pubDate>
+    </item>
     <item>
       <title>VS Code 问题，在 Google 和 Youtube 中找不到解决方案</title>
       <link>https://www.reddit.com/r/programming/comments/1d0ujvj/vs_code_problem_cant_find_soln_in_google_youtube/</link>
@@ -22,14 +36,14 @@
     <item>
       <title>.NES——用于 NES 游戏机的 .NET</title>
       <link>https://www.reddit.com/r/programming/comments/1d0qalm/nes_net_for_the_nes_game_console/</link>
-      <description><![CDATA[ 由   提交/u/r_retrohacking_mod2   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/r_retrohacking_mod2  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0qalm/nes_net_for_the_nes_game_console/</guid>
       <pubDate>Sun, 26 May 2024 01:12:38 GMT</pubDate>
     </item>
     <item>
       <title>我们可以从编程语言的版本号中了解到什么？</title>
       <link>https://www.reddit.com/r/programming/comments/1d0q1sz/what_can_we_learn_from_programming_language/</link>
-      <description><![CDATA[  由    /u/breck  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/breck  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0q1sz/what_can_we_learn_from_programming_language/</guid>
       <pubDate>Sun, 26 May 2024 00:58:49 GMT</pubDate>
     </item>
@@ -48,16 +62,16 @@
       <pubDate>Sat, 25 May 2024 21:16:01 GMT</pubDate>
     </item>
     <item>
-      <title>为什么我们切换到记录重放进行一次性 API 测试</title>
+      <title>为什么我们改用记录重放进行一次性 API 测试</title>
       <link>https://www.reddit.com/r/programming/comments/1d0jv12/why_we_switched_to_recordreplay_for_disposable/</link>
       <description><![CDATA[ 由   提交/u/neha_gup   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0jv12/why_we_switched_to_recordreplay_for_disposable/</guid>
       <pubDate>Sat, 25 May 2024 19:43:29 GMT</pubDate>
     </item>
     <item>
-      <title>驯服浮点和</title>
+      <title>驯服浮点数和</title>
       <link>https://www.reddit.com/r/programming/comments/1d0jryw/taming_floatingpoint_sums/</link>
-      <description><![CDATA[  由    /u/nightcracker  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/nightcracker  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0jryw/taming_floatingpoint_sums/</guid>
       <pubDate>Sat, 25 May 2024 19:39:30 GMT</pubDate>
     </item>
@@ -83,9 +97,9 @@
       <pubDate>Sat, 25 May 2024 17:42:54 GMT</pubDate>
     </item>
     <item>
-      <title>MercadoLibre 开发人员 API 的分步指南</title>
+      <title>MercadoLibre 开发者 API 分步指南</title>
       <link>https://www.reddit.com/r/programming/comments/1d0gfw8/a_stepbystep_guide_to_the_mercadolibre_developers/</link>
-      <description><![CDATA[  由    /u/API2Cart  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/API2Cart   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0gfw8/a_stepbystep_guide_to_the_mercadolibre_developers/</guid>
       <pubDate>Sat, 25 May 2024 17:02:27 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0g01b/engineering_with_java_digest_21/</guid>
       <pubDate>Sat, 25 May 2024 16:41:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何将 DuckDB 融合到 Postgres 中</title>
-      <link>https://www.reddit.com/r/programming/comments/1d0ftso/how_we_fused_duckdb_into_postgres/</link>
-      <description><![CDATA[  由    /u/craig081785  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d0ftso/how_we_fused_duckdb_into_postgres/</guid>
-      <pubDate>Sat, 25 May 2024 16:33:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 中的函数式编程和尾递归 | Medium 文章 | 欢迎反馈</title>
-      <link>https://www.reddit.com/r/programming/comments/1d0f4je/functional_programming_and_tail_recursion_in/</link>
-      <description><![CDATA[ 由   提交/u/Traditional_Hat861   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d0f4je/functional_programming_and_tail_recursion_in/</guid>
-      <pubDate>Sat, 25 May 2024 16:00:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
