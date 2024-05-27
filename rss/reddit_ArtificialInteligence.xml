@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 27 May 2024 12:07:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 15:05:56 GMT</lastBuildDate>
+    <item>
+      <title>我们可以在 LLM 申请中同时使用 LangChain 和 LlamaIndex 吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1qglm/can_we_use_both_langchain_llamaindex_together_for/</link>
+      <description><![CDATA[我认为，我们可以战略性地将这两者集成到检索增强生成（RAG）管道中。  在 RAG 管道的前半部分，您可以利用 LlamaIndex 进行高效的数据摄取、索引和检索。  LlamaIndex 提供了从各种来源（例如文本文档、PDF 和网页）提取和构建大量数据的工具。它支持不同的索引策略，包括向量嵌入和基于树的索引，使您可以为您的数据和用例选择最合适的方法。  数据建立索引后，LlamaIndex 高效的检索机制可以根据用户查询或提示快速检索相关信息。 在 RAG 管道的后半部分，您可以利用 LangChain 强大的功能快速工程、链接和任务分解的能力。  LangChain 的提示工程实用程序可用于制作有效的提示，其中包含从 LlamaIndex 索引源检索的相关数据。这可以带来更多上下文感知和数据驱动的提示，从而提高语言模型输出的质量。  此外，LangChain的链接和任务分解功能可用于将复杂的查询分解为子任务，LlamaIndex为每个子任务提供相关数据。通过结合多个来源的信息，可以实现更准确、更全面的响应。  此外，LangChain的代理和工具概念可用于将子任务委托给不同的工具或服务，包括LlamaIndex的数据检索机制，从而实现构建RAG应用程序的模块化和可扩展的方法。 所以，重点是，这并不总是LangChain vs. LlamaIndex的故事，也可以是LangChain &amp; LlamaIndex的故事。 LlamaIndex 故事。  但最后，我只有一个疑问，这将是一个很好的工作流程，还是同时使用两者会是一种矫枉过正？请在评论中告诉我您的想法。   由   提交 /u/PavanBelagatti   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1qglm/can_we_use_both_langchain_llamaindex_together_for/</guid>
+      <pubDate>Mon, 27 May 2024 12:32:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Character.AI 用户调查 - 与人工智能的情感互动</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1qfj7/survey_of_characterai_users_emotional/</link>
+      <description><![CDATA[大家好！ 我叫Artemii，我是AGH科技大学的学生，目前在寻找用户来调查我的学士学位。我的研究主题如标题所示，因为我想更多地了解人类感知以及与人工智能的交互。我非常感谢您参与我的调查。 调查的内容是什么？ 该调查旨在探索用户如何与Character.AI 等人工智能技术。  谁可以参加？ 任何使用过角色的成年人（18 岁以上）。人工智能在任何时候。无论您每天使用还是只使用过几次，您的意见都很有价值。 为什么参加？  为学术研究做出贡献 帮助提高对人工智能对用户情感影响的理解 分享您的独特经验，以了解人类感知在这种新的沟通方式中的内部运作  调查详情：  预计时间：10-15 分钟 所有回复均保密且匿名。 自愿参与：您可以随时退出调查。  调查链接： https://forms.gle/VpwN8X7Q9sGBn5xg9 另外，我会进行一对一的深度采访，所以如果你愿意参与，多谈谈你的个人情况如果您有任何疑问或需要更多信息，请随时问我，我会尽力回复这篇文章中的每一条评论。  谢谢！   由   提交 /u/TheRavenOfLenore   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1qfj7/survey_of_characterai_users_emotional/</guid>
+      <pubDate>Mon, 27 May 2024 12:31:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>接下来介绍华尔街</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1qaio/introducing_wall_street_next/</link>
+      <description><![CDATA[《华尔街日报》简介 人工智能驱动的金融新闻来源 Wall Street Next (wsnext.com) 是一个创新的人工智能平台，彻底改变了实时财经新闻传递。这个最先进的网站由 Media 52 BV 发布，利用先进的人工智能技术自主收集和策划对市场趋势和经济发展的全面报道。 Wall Street Next 不仅是 Laio 人工智能工具的首要展示，而且还展示了人工智能在新闻业中的变革潜力。 是什么让 Wall Street Next 与众不同？ 《华尔街日报》不仅仅是另一个财经新闻网站。它证明了人工智能重塑新闻业格局的力量。我们的使命是及时提供有关华尔街和全球金融市场的准确且富有洞察力的新闻，为读者提供可靠的金融信息来源。 华尔街下一步如何运作 我们的平台利用 Laio Feed，这是一种先进的人工智能工具，可以自主收集和整理特定金融领域的新闻。这确保了我们的内容始终相关且最新。每篇文章都包含正确的来源归属，保持最高标准的透明度和可信度。借助 Laio Feed 的自主功能，Wall Street Next 提供金融领域的整体视图，涵盖从市场趋势到重大经济事件的所有内容。 拥抱新闻业的未来 华尔街股市等人工智能驱动平台的出现标志着新闻业的新时代。通过利用人工智能，Media 52 BV 展示了技术如何提高新闻传递的生产力和质量。 Just News BV 开发的 Laio Feed 和其他人工智能工具凸显了该领域创新的巨大潜力。随着人工智能技术的不断发展，像《华尔街日报》这样的平台将变得越来越流行，为读者提供更快、更准确的新闻报道。立即探索 Wall Street Next，并在 wsnext.com 上发现金融新闻的未来。   由   提交/u/justnews_app   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1qaio/introducing_wall_street_next/</guid>
+      <pubDate>Mon, 27 May 2024 12:23:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于评估新闻文章整体情绪的人工智能工具？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1q0ij/ai_tool_for_evaluating_news_article_for_overall/</link>
+      <description><![CDATA[谁能推荐一个人工智能工具来评估文章及其整体情绪？它将有 5 个不同的类别供其回答和收集信息。因此，它需要接收下面的 5 个具体输入，然后扫描文章以完成它 1 合法性：裸盖菇素是否仅仅被视为非法物质（负面），还是应该被视为合法的物质？医疗（正面）？ 2 作用方式：裸盖菇素是否被视为对使用者有身体损害（负面）或身体有益（正面）？ 3 个人影响：裸盖菇素是否被视为对使用者有身体伤害（负面）或身体有益（正面）？被视为对用户心理上有害（负面）还是心理上有益（正面）？ 4 科学诚信：裸盖菇素研究是否被视为伪科学（负面）或严谨严肃（正面）？ &lt; p&gt;5 社会影响：除了使用者之外，裸盖菇素是否被视为对社会有害（负面）或有益（正面）？    由   提交 /u/Aikooooooooooo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1q0ij/ai_tool_for_evaluating_news_article_for_overall/</guid>
+      <pubDate>Mon, 27 May 2024 12:08:11 GMT</pubDate>
+    </item>
     <item>
       <title>作为云开发人员从哪里开始学习人工智能？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1ojn0/where_to_start_learning_about_ai_as_an_cloud/</link>
@@ -27,18 +55,11 @@
       <pubDate>Mon, 27 May 2024 09:05:31 GMT</pubDate>
     </item>
     <item>
-      <title>AI耳机让你只听人群中一个人的声音</title>
+      <title>人工智能耳机让你在人群中只听到一个人的声音</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1mt6s/ai_headphones_let_you_listen_to_only_a_single/</link>
       <description><![CDATA[华盛顿大学的一个团队开发了一种人工智能系统，可以让戴着耳机的用户看着正在说话的人三到五秒钟，然后只听然后，他们的“目标语音听力”应用程序会取消环境中的所有其他声音，并仅实时播放已注册说话者的声音，即使听者在嘈杂的环境中走动也是如此位置并且不再面向扬声器。 在此处阅读更多信息：https://magazine.mindplex.ai/mp_news/ai-headphones-let-you-listen-to-only-a-single-person-in-a-crowd/&lt; /a&gt;    由   提交 /u/ChikyChikyBoom   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1mt6s/ai_headphones_let_you_listen_to_only_a_single/</guid>
       <pubDate>Mon, 27 May 2024 08:25:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>穿越 NLP 丛林：Google、AWS、IBM、Azure</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1lv3f/navigating_the_nlp_jungle_google_vs_aws_vs_ibm_vs/</link>
-      <description><![CDATA[选择正确的自然语言处理 (NLP) 平台就像冒险进入数字荒野。别担心，我们有你的砍刀！本快速指南对四大云提供商（Google、AWS、IBM 和 Azure）进行了比较，以帮助您发现最适合您需求的 NLP 解决方案。 https://www.seaflux.tech/blogs/where-to-build-your-own-AI-assistant    由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1lv3f/navigating_the_nlp_jungle_google_vs_aws_vs_ibm_vs/</guid>
-      <pubDate>Mon, 27 May 2024 07:15:15 GMT</pubDate>
     </item>
     <item>
       <title>超越规则：生成式人工智能与传统人工智能</title>
@@ -48,14 +69,7 @@
       <pubDate>Mon, 27 May 2024 07:06:37 GMT</pubDate>
     </item>
     <item>
-      <title>通过 API 根据提示生成线框</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1ko7k/generate_wireframes_from_a_prompt_via_api/</link>
-      <description><![CDATA[我有一个简单的问题要问你们。 是否有 AI 工具可以通过 API 根据提示生成线框？  理想情况下我想做的是：提示 -&gt; make.com -&gt;线框（图像）   由   提交 /u/IntellectualAINC   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1ko7k/generate_wireframes_from_a_prompt_via_api/</guid>
-      <pubDate>Mon, 27 May 2024 05:53:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技公司已同意使用人工智能“终止开关”来防止“终结者”式的风险</title>
+      <title>科技公司已同意采用人工智能“终止开关”来防止终结者式的风险</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1ilor/tech_companies_have_agreed_to_an_ai_kill_switch/</link>
       <description><![CDATA[《财富》：“潘多拉盒子里没有填充人工智能——但世界上最大的人工智能公司正在自愿与政府合作，以解决围绕该技术的最大担忧，并平息对不受控制的人工智能的担忧开发可能会导致科幻场景中人工智能与其创造者对抗。然而，如果没有严格的法律规定来加强政府对人工智能的承诺，对话就只能走到这一步。” “首先是在科幻小说中，现在是在现实生活中，作家和研究人员都警告了这些风险。几十年来强大的人工智能。最受认可的参考文献之一是“终结者场景”，该理论如果不加以控制，人工智能可能会变得比人类创造者更强大，并攻击他们。该理论得名于 1984 年的阿诺德·施瓦辛格电影，影片中，一个机器人回到过去杀死了一名妇女，她未出生的儿子将与人工智能系统作战，该系统将引发一场核浩劫。” ”今天上午，包括 Anthropic、微软、OpenAI 在内的 16 家有影响力的人工智能公司、10 个国家和欧盟在首尔举行峰会，围绕负责任的人工智能开发制定指导方针。昨天峰会的重大成果之一是人工智能公司出席 同意所谓的终止开关，或者一项政策，如果认为最先进的人工智能模型已经超过了某些风险阈值，他们将停止开发它们。然而，目前尚不清楚该政策实际上有多有效，因为它没有为协议赋予任何实际的法律效力，也没有定义具体的风险阈值。” “一群参与者写了一封公开信批评该论坛缺乏正式的规则制定，而人工智能公司在推动自身行业监管方面发挥着巨大作用。 “经验表明，解决这些危害的最佳方法是强制执行监管指令，而不是自我监管或自愿措施，”这封信。    ;由   提交/u/Maxie445  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1ilor/tech_companies_have_agreed_to_an_ai_kill_switch/</guid>
@@ -69,13 +83,6 @@
       <pubDate>Mon, 27 May 2024 02:07:24 GMT</pubDate>
     </item>
     <item>
-      <title>艾未未能否解决师资短缺问题？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1f1mu/could_ai_help_the_teacher_shortage/</link>
-      <description><![CDATA[我记得 90 年代的互联网非常专业化；显然，从那时起它已经走了这么远。在学习方面，这很棘手。就像有人可能用它来学习如何烹饪冰毒一样；就像人工智能的教学能力——无论它们是什么——如何占据一个最终不会让它走上这条路的位置？   由   提交 /u/heavensdumptruck   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1f1mu/could_ai_help_the_teacher_shortage/</guid>
-      <pubDate>Mon, 27 May 2024 00:16:50 GMT</pubDate>
-    </item>
-    <item>
       <title>评论：最佳人工智能文章摘要器</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1af9m/review_best_ai_article_summarizers/</link>
       <description><![CDATA[有很多人工智能文章摘要器，每个摘要器在功能、准确性和详细程度方面都提供了不同的东西。我测试了大约 30 个，以找出最适合不同用例的方法。以下是我的前 7 条：  Recall 在广泛的范围内生成了最佳质量的摘要多种格式（新闻、博客、视频）。它有一个浏览器扩展，使用起来很方便，它还有一个知识库，如果您想稍后再回来看的话，您可以保存摘要。 Glasp 是一个非常简洁的工具 - 它还有一个浏览器扩展，可以创建各种网页的摘要。它的与众不同之处在于它的社交功能，您可以与其他用户分享任何网页上的网络亮点和注释。 Jasper 创建了高质量的摘要，并拥有大量针对营销人员的功能。具有良好的用户友好界面，多种语言选择，并与其他书写工具集成。缺点是它作为 B2B 工具定价，因此相当昂贵。 QuillBot 使用简单，而且最好的部分是它是免费的。如果我很快需要解释某些内容，但它对于较长形式的内容来说不是最好的，我会使用它。 TLDR This 是另一个浏览器扩展，只需单击一下即可自动摘要。我本来会排名更高，因为它的用户界面简单，但在多个页面上它对我来说不起作用。 Wordtune 是一款非常精致的产品，其浏览器扩展提供了编写内容和总结内容的功能。它专注于帮助专业人士更快地完成更多工作。 Gemini 做得很好作为人工智能文章摘要器 - 完全控制提示可以让您更好地控制摘要。我发现 Gemini 的摘要比 ChatGPT 和 claude 快得多，这就是我选择 Gemini 而不是它们的原因。主要缺点是没有像大多数其他工具一样的浏览器扩展，因此您每次都必须复制、粘贴并编写提示。   &amp; #32；由   提交/u/paulrchds6   [链接] [评论]]]></description>
@@ -83,18 +90,11 @@
       <pubDate>Sun, 26 May 2024 20:30:07 GMT</pubDate>
     </item>
     <item>
-      <title>“人工智能小姐”：世界上第一个由计算机生成女性参加的选美比赛</title>
+      <title>“AI小姐”：世界上首届由计算机生成的女性参加的选美比赛</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d16cxl/miss_ai_worlds_first_beauty_contest_with_computer/</link>
       <description><![CDATA[世界的基于机器学习的时事通讯，总结了来自 50 多家媒体的最佳人工智能/科技新闻。来自 OpenAI、Google、Meta…    的 1000 多名专业人士正在阅读它。由   提交/u/Rare_Adhesiveness518   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d16cxl/miss_ai_worlds_first_beauty_contest_with_computer/</guid>
       <pubDate>Sun, 26 May 2024 17:25:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能热潮带来巨大收益后，英伟达将进行 10 股拆股</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d10cm8/nvidia_to_split_stock_10for1_after_big_gains_from/</link>
-      <description><![CDATA[当一家公司分割股票时，它赚多少钱并不会改变，但每股会变得更便宜，这可以让小投资者感觉更好。英伟达在一份新闻稿中表示，股票分割将使“员工和投资者”更有可能拥有所有权。在此处阅读更多信息   由   提交/u/Key_Jellyfish_5881   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d10cm8/nvidia_to_split_stock_10for1_after_big_gains_from/</guid>
-      <pubDate>Sun, 26 May 2024 12:32:15 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
