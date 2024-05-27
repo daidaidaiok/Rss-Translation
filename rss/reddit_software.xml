@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 27 May 2024 06:07:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:06:08 GMT</lastBuildDate>
+    <item>
+      <title>导出已保存的 Reddit 帖子</title>
+      <link>https://www.reddit.com/r/software/comments/1d1m6rl/exporting_saved_reddit_posts/</link>
+      <description><![CDATA[有没有工具或软件可以导出已保存的 Reddit 帖子和评论的内容？那真是太棒了。   由   提交 /u/DirectorsObject   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1d1m6rl/exporting_saved_reddit_posts/</guid>
+      <pubDate>Mon, 27 May 2024 07:39:09 GMT</pubDate>
+    </item>
     <item>
       <title>关于CapCut视频编辑器的问题</title>
       <link>https://www.reddit.com/r/software/comments/1d1ke7k/question_about_capcut_video_editor/</link>
@@ -13,7 +20,7 @@
       <pubDate>Mon, 27 May 2024 05:34:15 GMT</pubDate>
     </item>
     <item>
-      <title>有没有什么软件可以让我下载 YouTube 播放列表中的音频到我的电脑上？</title>
+      <title>有没有什么软件可以在我的电脑上下载 YouTube 播放列表中的音频？</title>
       <link>https://www.reddit.com/r/software/comments/1d1hjf5/is_there_any_software_i_could_download_a_youtube/</link>
       <description><![CDATA[任何与 Windows 10/11 兼容的软件   由   提交/u/n00kland  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d1hjf5/is_there_any_software_i_could_download_a_youtube/</guid>
@@ -78,14 +85,14 @@
     <item>
       <title>像Win32 Disk Imager这样的软件支持图像压缩吗？</title>
       <link>https://www.reddit.com/r/software/comments/1d17ctl/software_like_win32_disk_imager_that_supports/</link>
-      <description><![CDATA[是否有类似适用于 Windows 的 Win32 Disk Imager 的软件，可以对 SD 卡进行完整映像备份（包括所有分区），但另外会压缩映像？遗憾的是，Win32 Disk Imager 不会压缩映像，因此映像可能会变得非常大。我可以在事后使用 7-Zip 进行压缩，但这不太方便，并且并不总是能提供我期望的压缩率。    提交人    /u/j123456t   [链接] [评论]]]></description>
+      <description><![CDATA[是否有像 Win32 Disk Imager for Windows 这样的软件可以对 SD 卡进行完整映像备份（包括所有分区），但另外 压缩图像？不幸的是，Win32 Disk Imager 不会压缩它们，因此图像可能会变得相当大。我可以在事后使用 7-Zip 进行压缩，但这不太方便，并且并不总能提供我期望的压缩率。   由   提交/u/j123456t   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d17ctl/software_like_win32_disk_imager_that_supports/</guid>
       <pubDate>Sun, 26 May 2024 18:11:17 GMT</pubDate>
     </item>
     <item>
       <title>请推荐一个剪切视频的程序（带有“剪切”按钮，适合像我这样的低智商人士）</title>
       <link>https://www.reddit.com/r/software/comments/1d172s4/please_suggest_a_program_to_cut_a_video_with/</link>
-      <description><![CDATA[我试过 AvideMux 和 LosslessCut，它们毫无用处，我不知道我在看什么，已经试了好几个小时了。试过 VideoPad - 无法加载视频。试过 VidCutter-6.0.5.1 - 无法启动。Windows Photos - 无法安装。VLC - 太混乱了。真是一团糟。有没有一个程序可以从视频中剪切出几个片段？还是说这些都只适合超级高级用户？    提交人    /u/Adunaiii   [链接] [评论]]]></description>
+      <description><![CDATA[我尝试过 AvideMux 和 LosslessCut，它们没用，我不知道我在看什么，已经尝试了几个小时了。尝试了 VideoPad - 无法加载视频。尝试了 VidCutter-6.0.5.1 - 无法启动。 Windows 照片 - 未安装。 VLC - 太混乱了。一团糟。有没有一个程序可以从视频中剪切一些片段？或者这一切都是为了超级高级的人？   由   提交 /u/Adunaiii   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d172s4/please_suggest_a_program_to_cut_a_video_with/</guid>
       <pubDate>Sun, 26 May 2024 17:58:45 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我的工作需要一个有点不寻常的轮班时间表，尽管它确实遵循一定的模式。他们只向我们提供今年的日历，我之前已经自己预测了明年的日历，但想知道是否有软件或网站可以更快地为我做到这一点。 iOS 或 Mac 首选    由   提交 /u/shauniscrazy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d12cde/is_there_a_website_or_software_that_can_project/</guid>
       <pubDate>Sun, 26 May 2024 14:17:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>愚蠢的问题 Bit 有人能告诉我 chris 使用的是什么字体以及如何在 Windows 上使用它们吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1d11qaj/dumb_question_bit_can_someone_tell_what_font/</link>
-      <description><![CDATA[https://preview.redd.it/ll75jd59zr2d1.png?width=1522&amp;format=png&amp;auto=webp&amp;s=fc209315117ad8e438b2400f144ed15cd 6281b6f   由   提交/u/johnnydipp69  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1d11qaj/dumb_question_bit_can_someone_tell_what_font/</guid>
-      <pubDate>Sun, 26 May 2024 13:46:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
