@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 28 May 2024 12:08:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 15:07:09 GMT</lastBuildDate>
+    <item>
+      <title>从 CLI 合并文件夹</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d2l5jk/merge_folders_from_cli/</link>
+      <description><![CDATA[每当移动具有相同名称的文件夹时，当看到“目录不为空”时，我总是会皱起眉头。或“目的地已存在”然后立即放弃并使用 GUI 文件管理器。 现有的解决方案都有警告： mv ./src/* ./dest/   哎呀没有点文件？！ rsync --remove-sent-files rclone move  rsync 和 rclone 将复制文件移动它们，当需要重命名时，这可能会非常慢 所以我创建了自己的，它使用 BSD 语法： pip install xklb 库合并- mvfolder1folder2/#folder1将进入folder2库merge-mvfolder1/folder2/#folder1将与folder2合并nb.继续微妙警告的传统：我的程序不会移动/复制空目录，因为它只担心文件... 代码：https://github.com/chapmanjacobd/library/blob/main/xklb/folders/merge_mv.py    由   提交 /u/BuonaparteII   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d2l5jk/merge_folders_from_cli/</guid>
+      <pubDate>Tue, 28 May 2024 14:43:16 GMT</pubDate>
+    </item>
     <item>
       <title>一个开源演示仪表板，显示美国选举新闻中的情绪趋势。由于它是用 JavaScript 和 React 构建的，任何人都可以在 GitHub 上分叉并修改它以比较其他主题的情绪，例如比特币与以太坊或 iPhone 与 Android。</title>
       <link>https://www.reddit.com/r/opensource/comments/1d2hhm2/an_opensource_demo_dashboard_that_presents/</link>
@@ -41,7 +48,7 @@
       <pubDate>Tue, 28 May 2024 05:05:28 GMT</pubDate>
     </item>
     <item>
-      <title>有人有兴趣制作开源 RTOS 吗？</title>
+      <title>有人对制作开源 RTOS 感兴趣吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d29p8e/would_anybody_be_interested_in_making_an_open/</link>
       <description><![CDATA[标题，我可能最终会自己做，但一路上有其他人提供帮助会更容易。如果人们感兴趣，我会制作一个不和谐服务器，我们可以讨论它！   由   提交/u/catpetter777  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d29p8e/would_anybody_be_interested_in_making_an_open/</guid>
@@ -57,21 +64,21 @@
     <item>
       <title>发布：Git 用户管理器</title>
       <link>https://www.reddit.com/r/opensource/comments/1d22rt4/release_git_user_manager/</link>
-      <description><![CDATA[r/opensource 社区大家好！ 👋 我刚刚发布了一个名为 Git Credential Manager 的新工具，旨在帮助轻松管理 Git 凭证和存储库。这个项目是出于我自己的需要而诞生的，我希望它对你们中的一些人也有用。 如果您能测试它并提供任何反馈或建议，我将不胜感激。  您可以在这里查看：GitHub 存储库 干杯🎩   由   提交 /u/tilltmk   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，r/opensource 社区！👋 我刚刚发布了一个名为 Git Credential Manager 的新工具，旨在帮助轻松管理 Git 凭据和存储库。这个项目源于我自己的需要，我希望它也能对你们中的一些人有用。 如果您能测试它并提供任何反馈或建议，我将不胜感激。 您可以在这里查看：GitHub 存储库 干杯 🎩    提交人    /u/tilltmk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d22rt4/release_git_user_manager/</guid>
       <pubDate>Mon, 27 May 2024 21:26:09 GMT</pubDate>
     </item>
     <item>
       <title>我尝试改进开源防病毒社区，结果如下：</title>
       <link>https://www.reddit.com/r/opensource/comments/1d20ghg/i_tried_to_improve_the_open_source_antivirus/</link>
-      <description><![CDATA[虽然他有 45-55% 的检测率（我猜我没有减少 ELF 文件误报规则，但仍然有很高的检测率，否则它是 45 ％或更少）反对零日恶意软件，并且很少有误报 DrWeb有65％（Emisoft在一项测试中令人惊讶地得到了35％） Norton 89-90％ Kaspersky 90-91％ 官方ClamAV通常有8-10％的检测我用 Malwarebazaar 样本进行了测试，非官方签名的比率为 16-20%。如果 ClamAV 的检测率达到 60%，我认为该 AV 的检测率可能达到 85% 或更高。网站签名约为 2160 万个，其中有 1000 万个重复或误报或相同域名但删除了子域名。它仅支持 6 个 YARA 模块，并且仅支持机器学习 aganist PE 文件。有 MBR 保护，但仅适用于 Windows。编译这个防病毒软件也是一项复杂的任务。这是 github 存储库： HydraDragonAntivirus/XylentOptionalScanner：ClamAV、YARA 的跨平台防病毒 GUI 和我的机器学习 AI 模块也 Snort (github.com)&lt; /a&gt; 这对于开源防病毒社区来说是一个很好的进步。   由   提交 /u/HydraDragonAntivirus   [链接] [评论]]]></description>
+      <description><![CDATA[虽然他有 45-55% 的检测率（我猜我没有减少 ELF 文件误报规则，但仍然有很高的检测率，否则它是 45 ％或更少）反对零日恶意软件，并且很少有误报 DrWeb有65％（Emisoft在一项测试中令人惊讶地得到了35％） Norton 89-90％ Kaspersky 90-91％ 官方ClamAV通常有8-10％的检测我用 Malwarebazaar 样本进行了测试，非官方签名的比率为 16-20%。如果 ClamAV 的检测率达到 60%，我认为该 AV 的检测率可能达到 85% 或更高。网站签名约为 2160 万个，其中有 1000 万个重复或误报或相同域但删除了子域。它仅支持 6 个 YARA 模块，并且仅支持机器学习 aganist PE 文件。有 MBR 保护，但仅适用于 Windows。编译这个防病毒软件也是一项复杂的任务。这是 github 存储库： HydraDragonAntivirus/XylentOptionalScanner：ClamAV、YARA 的跨平台防病毒 GUI 和我的机器学习 AI 模块也 Snort (github.com)&lt; /a&gt; 这对于开源防病毒社区来说是一个很好的进步。   由   提交 /u/HydraDragonAntivirus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d20ghg/i_tried_to_improve_the_open_source_antivirus/</guid>
       <pubDate>Mon, 27 May 2024 19:51:58 GMT</pubDate>
     </item>
     <item>
       <title>Linux 实习：为本地 LLM 创建支持搜索的 API 服务器</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1tc6f/linux_internship_create_a_searchenabled_api/</link>
-      <description><![CDATA[  由    /u/smileymileycoin  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/smileymileycoin  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1tc6f/linux_internship_create_a_searchenabled_api/</guid>
       <pubDate>Mon, 27 May 2024 14:53:14 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>移除.bg API 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1idyp/removebg_api_alternatives/</link>
-      <description><![CDATA[有没有更便宜的可靠的 remove.bg 级别替代品？remove.bg 成本非常高，最好是删除 png/svg 背景并且具有成本效益的东西。    提交人    /u/Agreeable_Ad6424   [link] [comments]]]></description>
+      <description><![CDATA[是否有可靠且更便宜的remove.bg级别替代品？ remove.bg 的成本非常高，任何最好删除 png/svg 背景并且具有成本效益的东西。   由   提交 /u/Agreeable_Ad6424   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1idyp/removebg_api_alternatives/</guid>
       <pubDate>Mon, 27 May 2024 03:28:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为扎克伯格转向开源人工智能的举措很棒吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d1gd5e/do_you_think_zuckerbergs_move_to_open_source_ai/</link>
-      <description><![CDATA[马克·扎克伯格将 LLaMA 开源，允许任何人免费使用、修改和分发它。您认为这就是开源人工智能的未来吗？你有什么想法？   由   提交 /u/conventionseeker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d1gd5e/do_you_think_zuckerbergs_move_to_open_source_ai/</guid>
-      <pubDate>Mon, 27 May 2024 01:30:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
