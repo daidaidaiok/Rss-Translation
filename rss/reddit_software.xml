@@ -4,18 +4,18 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 28 May 2024 21:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 00:18:48 GMT</lastBuildDate>
     <item>
-      <title>如何在 TeraBox 上传文档？2024 年快速又安全</title>
-      <link>https://www.reddit.com/r/software/comments/1d2sl2x/how_to_upload_documents_on_terabox_fast_and/</link>
-      <description><![CDATA[  由    /u/AggressiveRepublic20  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1d2sl2x/how_to_upload_documents_on_terabox_fast_and/</guid>
-      <pubDate>Tue, 28 May 2024 19:48:45 GMT</pubDate>
+      <title>在未 root 的智能手机上使用 Termux、termux-usb、usbredirect 和 QEMU 读写连接到 Linux 服务器的 USB 驱动器 [Alpine Linux 操作系统、Android 操作系统]</title>
+      <link>https://www.reddit.com/r/software/comments/1d2yx2x/reading_and_writing_a_usb_drive_connected_to_a/</link>
+      <description><![CDATA[  由   提交  /u/throwaway16830261   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1d2yx2x/reading_and_writing_a_usb_drive_connected_to_a/</guid>
+      <pubDate>Wed, 29 May 2024 00:15:50 GMT</pubDate>
     </item>
     <item>
       <title>使用 OBS 录制时声音很奇怪</title>
       <link>https://www.reddit.com/r/software/comments/1d2rs1w/the_sound_is_weird_when_recording_with_obs/</link>
-      <description><![CDATA[嗨。 当我尝试使用 OBS 录制某些内容（例如游戏）时，录制的声音有点低音，有回声，感觉更“扩散”，因为有些声音非常响亮。 我有一个外部 USB 声卡 - Creative Sound Blaster X-Fi Surround 5.1 Pro。 我已经在音频设置中对其进行了调整。 我认为声卡与录制的声音有关。 有没有办法强制 OBS 捕获“原始”音频？    提交人    /u/Gibon378   [链接] [评论]]]></description>
+      <description><![CDATA[嗨。 当我尝试使用 OBS 录制某些内容（例如游戏）时，录制的声音有点低音，有回声，感觉更“扩散”，有些声音非常响亮。 我有一个外部 USB 声卡 - Creative Sound Blaster X-Fi Surround 5.1 Pro。 我已经在音频设置中对其进行了调整。 我认为声卡与录制的声音有关。 有没有办法强制 OBS 捕获“原始”音频？    提交人    /u/Gibon378   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d2rs1w/the_sound_is_weird_when_recording_with_obs/</guid>
       <pubDate>Tue, 28 May 2024 19:16:43 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Tue, 28 May 2024 13:14:30 GMT</pubDate>
     </item>
     <item>
-      <title>让你在图片和 PDF 格式之间转换的软件</title>
+      <title>让你在图片和 PDF 格式之间进行转换的软件</title>
       <link>https://www.reddit.com/r/software/comments/1d2j4hu/software_that_lets_you_convert_between_picture/</link>
       <description><![CDATA[嗨， 我使用的是 Windows 10，需要了解任何允许用户在图片和 pdf 格式之间进行转换的软件（最好是免费和开源的）。我已经知道一个名为 PDF24 的软件。 谢谢。    提交人    /u/Zolo89   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d2j4hu/software_that_lets_you_convert_between_picture/</guid>
