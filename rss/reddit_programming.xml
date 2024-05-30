@@ -4,7 +4,7 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 29 May 2024 21:06:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 00:19:15 GMT</lastBuildDate>
     <item>
       <title>JSON:API — 使用 JSON 构建 API 的规范</title>
       <link>https://www.reddit.com/r/programming/comments/1d3mcr5/jsonapi_a_specification_for_building_apis_in_json/</link>
@@ -32,13 +32,6 @@
       <description><![CDATA[  由    /u/nate4t  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d3k5jc/qa_bot_for_your_documentation_with_langchain/</guid>
       <pubDate>Wed, 29 May 2024 19:09:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>你如何每年也能贡献 7000 - 9000 笔提交</title>
-      <link>https://www.reddit.com/r/programming/comments/1d3j40z/how_you_too_can_contribute_7000_9000_commits_per/</link>
-      <description><![CDATA[  由    /u/razroo_chief  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d3j40z/how_you_too_can_contribute_7000_9000_commits_per/</guid>
-      <pubDate>Wed, 29 May 2024 18:24:22 GMT</pubDate>
     </item>
     <item>
       <title>使用 Docker Scout 识别容器镜像漏洞</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[我的创业故事：从老婆看完视频后坚持不下来，到我达到日收入3000美金的那一刻    提交人    /u/seraleev_viktor   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d3cm3r/how_i_sold_a_singlefeature_app_for_410k_and_got/</guid>
       <pubDate>Wed, 29 May 2024 13:47:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub LOC - 方便而优雅的 Chrome 扩展程序，可准确查看任何 GitHub 存储库的代码行</title>
+      <link>https://www.reddit.com/r/programming/comments/1d3bg8u/github_loc_handy_and_elegant_chrome_extension_to/</link>
+      <description><![CDATA[  由    /u/DervexHero  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d3bg8u/github_loc_handy_and_elegant_chrome_extension_to/</guid>
+      <pubDate>Wed, 29 May 2024 12:51:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
