@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 31 May 2024 06:07:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 09:07:53 GMT</lastBuildDate>
+    <item>
+      <title>有任何开源 GPS（蜂窝网络三角测量）设备吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d4pcft/are_there_any_open_source_gps_cell_network/</link>
+      <description><![CDATA[首先。你好。 我正在做一个个人项目，为我的家人创建一个 GPS 追踪器加密狗、可穿戴设备、夹子等，以追踪我患有痴呆症的奶奶。她经常走失，我们真的害怕会失去她。 我已经构建了一个移动和 iWatch 应用程序来跟踪位置、地理围栏和使用推送通知...手表电池电量很低，很快就变得不切实际了。 我正在寻找一个开源硬件（或者自己制作），可以链接到我现有的应用程序（类似于 AngelSense.com）。  GPS / 定位服务——目前市场上的选项是蜂窝三角测量 GPS 设备，它带有每月的服务费，我猜是为了支付蜂窝塔费用。 电池寿命长——电池必须持续很长时间，因为让 80 多岁的老人记得给设备充电的可能性不大。市场上的一些选择，以 3 个月以上的电池寿命进行营销。  欢迎随时提供注释、反馈和建议！我需要一些帮助来浏览实体产品空间。我在数字领域 15 年的经验让我在寻找可用于我的应用程序的硬件时遇到了障碍。 提前谢谢您！    提交人    /u/0besius   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d4pcft/are_there_any_open_source_gps_cell_network/</guid>
+      <pubDate>Fri, 31 May 2024 06:47:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该如何开始贡献开源项目？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d4ou76/how_should_i_start_contributing_open_source/</link>
+      <description><![CDATA[我是一名初级开发人员，我很乐意为开源软件项目做出贡献。但我不知道如何开始。 感谢您的阅读！    由   提交  /u/bbanndditt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d4ou76/how_should_i_start_contributing_open_source/</guid>
+      <pubDate>Fri, 31 May 2024 06:11:59 GMT</pubDate>
+    </item>
     <item>
       <title>对 BSD0 或 MIT 许可下的开源劳动力管理和调度以及资产管理软件有什么建议？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d4nyzh/suggestions_for_open_source_workforce_management/</link>
@@ -78,7 +92,7 @@
     <item>
       <title>开源项目中的代码抄袭</title>
       <link>https://www.reddit.com/r/opensource/comments/1d3nluv/code_plagiarism_in_open_source_projects/</link>
-      <description><![CDATA[我现在感觉很沮丧。我最近开始为一个开源项目做贡献，我对我的 PR 感到非常兴奋。我花了很多时间和精力来做它，做了几个通宵的工作，却发现有人抄袭了我的代码并用它来提出 PR。更糟糕的是，维护者接受了他们的 PR 而不是我的。 我一直相信开源的协作精神，但这次经历让我感到很不爽。 我贡献的越多，我注意到这已经成为非常普遍的事情。你如何处理它？有什么建议吗？ 更新：我联系了维护者，他审查了 PR 并等待回复。    提交者    /u/gamunu   [链接] [评论]]]></description>
+      <description><![CDATA[我现在感觉很沮丧。我最近开始为一个开源项目做贡献，我对我的 PR 感到非常兴奋。我花了很多时间和精力来做这件事，连夜工作了好几次，却发现有人抄袭了我的代码并提出了 PR。更糟糕的是，维护者接受了他们的 PR 而不是我的。 我一直相信开源的协作精神，但这次经历让我感到很不爽。 我贡献的越多，我注意到这已经成为一种很常见的事情。你如何处理它？有什么建议吗？ 更新：我联系了维护者，他审查了 PR 并等待回复。 31 日更新：维护者同意在下一个版本中将我的改进纳入当前 PR 中，但不幸的是，他们无法撤销更改。    提交人    /u/gamunu   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d3nluv/code_plagiarism_in_open_source_projects/</guid>
       <pubDate>Wed, 29 May 2024 21:47:07 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[      伙计们！检查一下这个项目    由   提交  /u/Willing-Winter7879   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d3ia6a/github_malwarizewebpalm_crawl_in_the_web_network/</guid>
       <pubDate>Wed, 29 May 2024 17:50:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linkhub 建议更加现代化和简化</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d3hmyi/linkhub_suggestions_to_be_modern_and_more/</link>
-      <description><![CDATA[大家好，2021 年我创建了 Linkhub，这是一个开源的简单、快速、智能的链接管理应用程序，没有广告，我从谷歌游戏、f droid 和其他游戏商店获得了大量下载 现在是时候做一些重新设计了，目标是更简单（受 Apple 风格启发），以具有简单的 UI/UX 所需的功能 那么你需要什么功能用于这类应用，什么情况下可以让它易于使用，如果你有帐户，请随意写它或在 github 上打开功能请求 Github：https://github.com/AmrDeveloper/LinkHub    提交人    /u/AmrDeveloper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d3hmyi/linkhub_suggestions_to_be_modern_and_more/</guid>
-      <pubDate>Wed, 29 May 2024 17:23:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是 Pomerium 的维护者之一，Pomerium 是一个开源的身份感知访问代理。AMA！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d3fse6/i_am_one_of_the_maintainers_of_pomerium_an/</link>
-      <description><![CDATA[  由    /u/PeopleCallMeBob  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d3fse6/i_am_one_of_the_maintainers_of_pomerium_an/</guid>
-      <pubDate>Wed, 29 May 2024 16:04:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
