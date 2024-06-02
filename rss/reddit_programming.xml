@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 01 Jun 2024 18:06:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 00:20:19 GMT</lastBuildDate>
+    <item>
+      <title>Zen Mind，谷歌实习生的心得：关于 Go 的笔记</title>
+      <link>https://www.reddit.com/r/programming/comments/1d5zen7/zen_mind_google_interns_mind_notes_about_go/</link>
+      <description><![CDATA[  由    /u/facundoolano  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d5zen7/zen_mind_google_interns_mind_notes_about_go/</guid>
+      <pubDate>Sat, 01 Jun 2024 23:06:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果你想在应用程序中添加动画，Flutter 可以轻松实现</title>
+      <link>https://www.reddit.com/r/programming/comments/1d5yxog/if_you_want_to_include_animations_in_your/</link>
+      <description><![CDATA[  由    /u/MufungoGeeks  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d5yxog/if_you_want_to_include_animations_in_your/</guid>
+      <pubDate>Sat, 01 Jun 2024 22:43:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用本地 LLM 调用代码是一个骗局</title>
+      <link>https://www.reddit.com/r/programming/comments/1d5yli0/calling_code_with_local_llm_is_a_hoax/</link>
+      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d5yli0/calling_code_with_local_llm_is_a_hoax/</guid>
+      <pubDate>Sat, 01 Jun 2024 22:27:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 VIM 进行数据探索</title>
+      <link>https://www.reddit.com/r/programming/comments/1d5xcsf/data_exploration_using_vim/</link>
+      <description><![CDATA[  由    /u/micvbang  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d5xcsf/data_exploration_using_vim/</guid>
+      <pubDate>Sat, 01 Jun 2024 21:29:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>React-Bootstrap 表单-指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1d5wu35/reactbootstrap_forms_guide/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d5wu35/reactbootstrap_forms_guide/</guid>
+      <pubDate>Sat, 01 Jun 2024 21:04:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>您需要的日志级别只有两个：信息和错误</title>
+      <link>https://www.reddit.com/r/programming/comments/1d5wrcy/the_only_two_log_levels_you_need_are_info_and/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d5wrcy/the_only_two_log_levels_you_need_are_info_and/</guid>
+      <pubDate>Sat, 01 Jun 2024 21:01:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 ProtonDB 搜索/检查游戏的 CLI 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1d5uhq7/cli_application_for_searchingchecking_game/</link>
+      <description><![CDATA[  由    /u/octo8eight  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d5uhq7/cli_application_for_searchingchecking_game/</guid>
+      <pubDate>Sat, 01 Jun 2024 19:16:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>计算机科学中的好主意</title>
+      <link>https://www.reddit.com/r/programming/comments/1d5u8ue/good_ideas_in_cs/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d5u8ue/good_ideas_in_cs/</guid>
+      <pubDate>Sat, 01 Jun 2024 19:05:14 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Megaparsec 在 Haskell 中构建 Markdown 解析器 | 完整教程</title>
       <link>https://www.reddit.com/r/programming/comments/1d5smln/build_a_markdown_parser_in_haskell_with/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[  由    /u/vehiclestars  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d5msv5/integrating_ai_into_your_development_workflow/</guid>
       <pubDate>Sat, 01 Jun 2024 13:18:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>编译器的工作原理⚙️以及如何从头开始编写编译器📝</title>
-      <link>https://www.reddit.com/r/programming/comments/1d5mfrj/compilers_how_they_work_and_writing_them_from/</link>
-      <description><![CDATA[你好， 我制作了一个视频，探索我的编译器，该编译器针对基于 brainfuck 的 VM：https://github.com/adam-mcdaniel/sage 我使用该语言和 VM 为自定义操作系统构建用户空间，编写了一个 shell 和一个 PowerPoint 应用程序。 https://github.com/adam-mcdaniel/sage-os 我还构建了一个 Web 游乐场，以便您可以在浏览器中编译和运行该语言，并进行 JavaScript 互操作！ https://adam-mcdaniel.net/sage   由    /u/adamthekiwi  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d5mfrj/compilers_how_they_work_and_writing_them_from/</guid>
-      <pubDate>Sat, 01 Jun 2024 12:59:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitQL SDK 0.20.0 现在允许可变和动态 std</title>
-      <link>https://www.reddit.com/r/programming/comments/1d5ikzd/gitql_sdk_0200_now_allow_mutable_and_dynamic_std/</link>
-      <description><![CDATA[  由    /u/AmrDeveloper  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d5ikzd/gitql_sdk_0200_now_allow_mutable_and_dynamic_std/</guid>
-      <pubDate>Sat, 01 Jun 2024 08:41:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过诱使 iOS 生成动画图标来解释逆向工程</title>
-      <link>https://www.reddit.com/r/programming/comments/1d5hwxw/reverse_engineering_explained_by_tricking_ios/</link>
-      <description><![CDATA[  由    /u/mac_cain13  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d5hwxw/reverse_engineering_explained_by_tricking_ios/</guid>
-      <pubDate>Sat, 01 Jun 2024 07:53:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>ServiceWorker 验证 · 问题 #1720 · w3c/ServiceWorker</title>
-      <link>https://www.reddit.com/r/programming/comments/1d5feon/serviceworker_verification_issue_1720/</link>
-      <description><![CDATA[  由    /u/Turbulent_Zone157  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d5feon/serviceworker_verification_issue_1720/</guid>
-      <pubDate>Sat, 01 Jun 2024 05:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Blazor 和 CQRS 构建全栈应用程序：后端开发</title>
-      <link>https://www.reddit.com/r/programming/comments/1d589tu/building_a_fullstack_application_with_blazor_and/</link>
-      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d589tu/building_a_fullstack_application_with_blazor_and/</guid>
-      <pubDate>Fri, 31 May 2024 22:39:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>傻瓜版 Lambda 演算：什么是 Lambda 表达式</title>
-      <link>https://www.reddit.com/r/programming/comments/1d582zh/lambda_calculus_for_dummies_what_is_a_lambda/</link>
-      <description><![CDATA[  由    /u/hsnborn  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d582zh/lambda_calculus_for_dummies_what_is_a_lambda/</guid>
-      <pubDate>Fri, 31 May 2024 22:30:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我以为我不是“程序员类型”</title>
-      <link>https://www.reddit.com/r/programming/comments/1d57sga/i_thought_i_wasnt_the_programmer_type/</link>
-      <description><![CDATA[  由    /u/big_dumpling  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d57sga/i_thought_i_wasnt_the_programmer_type/</guid>
-      <pubDate>Fri, 31 May 2024 22:16:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>bithop - 比特币网络蜘蛛</title>
-      <link>https://www.reddit.com/r/programming/comments/1d54d8b/bithop_spider_the_bitcoin_network/</link>
-      <description><![CDATA[  由    /u/nantucket  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d54d8b/bithop_spider_the_bitcoin_network/</guid>
-      <pubDate>Fri, 31 May 2024 19:45:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
