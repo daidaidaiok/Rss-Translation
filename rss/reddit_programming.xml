@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 03 Jun 2024 18:07:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 21:06:05 GMT</lastBuildDate>
+    <item>
+      <title>JsTxt - 类似 PHP 的模板</title>
+      <link>https://www.reddit.com/r/programming/comments/1d7bo9k/jstxt_php_like_templating/</link>
+      <description><![CDATA[  由    /u/djape007  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d7bo9k/jstxt_php_like_templating/</guid>
+      <pubDate>Mon, 03 Jun 2024 18:30:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>为 Alpine Linux 打包 Swift 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1d7b70p/packaging_swift_apps_for_alpine_linux/</link>
+      <description><![CDATA[  由    /u/remko  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d7b70p/packaging_swift_apps_for_alpine_linux/</guid>
+      <pubDate>Mon, 03 Jun 2024 18:11:36 GMT</pubDate>
+    </item>
     <item>
       <title>simdjson 库</title>
       <link>https://www.reddit.com/r/programming/comments/1d7av3g/the_simdjson_library/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/Ok-Click1329  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d75cx1/crossbrowser_local_llm_inference_using_webassembly/</guid>
       <pubDate>Mon, 03 Jun 2024 14:09:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 月份新增网页平台</title>
-      <link>https://www.reddit.com/r/programming/comments/1d74hsa/new_to_the_web_platform_in_may/</link>
-      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d74hsa/new_to_the_web_platform_in_may/</guid>
-      <pubDate>Mon, 03 Jun 2024 13:31:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>hmpl - 用于处理服务器端 HTML 的模板语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1d74chh/hmpl_template_language_for_working_with/</link>
-      <description><![CDATA[  由    /u/antonmak1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d74chh/hmpl_template_language_for_working_with/</guid>
-      <pubDate>Mon, 03 Jun 2024 13:24:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
