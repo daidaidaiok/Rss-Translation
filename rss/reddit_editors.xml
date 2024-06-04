@@ -4,11 +4,18 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Mon, 03 Jun 2024 21:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 00:18:13 GMT</lastBuildDate>
+    <item>
+      <title>奇怪的首映问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1d7g7p8/weird_premiere_issue/</link>
+      <description><![CDATA[大家好，这个问题我已经遇到一段时间了，我真的不知道问题是什么，这只是原始素材，没什么特别的，或者是一些疯狂的编解码器。我已经用这个好几年了，但直到最近才开始出现这种情况。  就像时间线完全冻结并使我的整个首映滞后 3-4 秒然后再次修复，这主要发生在我导航时间线（放大/缩小等）时，并且当它这样做时它也会持续使我的 CPU 最大化几秒钟。 有人知道这里可能是什么问题吗？ 规格：3060 TI，i9 13900KS，32gb ram 首映版本：24.4.1  我尝试过：重新启动电脑，重新安装首映，使用不同的首映版本，在 CPU 上涂抹新的导热膏，删除媒体缓存，重置首选项，打开 gpu 渲染（CUDA）（已编辑）    提交人    /u/dylanhalder   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1d7g7p8/weird_premiere_issue/</guid>
+      <pubDate>Mon, 03 Jun 2024 21:31:52 GMT</pubDate>
+    </item>
     <item>
       <title>寻找短片中特定场景的剪辑师</title>
       <link>https://www.reddit.com/r/editors/comments/1d7duvz/looking_for_an_editor_for_a_specific_scene_in_a/</link>
-      <description><![CDATA[嗨， 正在寻找短片的编辑，但更具体地说，在编辑整个短片之前，我正在寻找可以编辑短片中对话的人。 对话的总镜头约为 20 分钟。 50 美元/小时，很想看看以前的作品，谢谢    由   提交  /u/Glad-Eggplant3829   [link] [评论]]]></description>
+      <description><![CDATA[嗨， 正在寻找短片的编辑，但更具体地说，在编辑整个短片之前，我正在寻找可以编辑短片中对话的人。 对话的总镜头长度约为 20 分钟。 80 美元/小时，很想看看以前的作品，谢谢    由   提交  /u/Glad-Eggplant3829   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d7duvz/looking_for_an_editor_for_a_specific_scene_in_a/</guid>
       <pubDate>Mon, 03 Jun 2024 19:57:14 GMT</pubDate>
     </item>
@@ -48,13 +55,6 @@
       <pubDate>Mon, 03 Jun 2024 16:00:17 GMT</pubDate>
     </item>
     <item>
-      <title>达拉斯与安克雷奇快船队建立合作伙伴关系。</title>
-      <link>https://www.reddit.com/r/editors/comments/1d77sig/dallas_to_anchorage_clips_for_partnership/</link>
-      <description><![CDATA[我和妻子 (F40) (M43) 已经全职旅行了 16 个月。在我们横跨美国本土 48 个州的 70K 英里旅行中，我们数百次目睹了美国的奇观。每次看到令人惊叹的景色时，我们都希望我们的挡风玻璃下有一台 GoPro。 我们的儿子 (M21) 在阿拉斯加的安克雷奇，我们打算从德克萨斯州的达拉斯去看他。我想找个人来拍摄我们从这里到那里的旅行。我们将前往圣路易斯、芝加哥、绿湾，穿过蒙大拿州，进入冰川国家公园，然后到达安克雷奇。回程是从安克雷奇到西雅图，然后到洛杉矶，再到锡安（或绕行这条路线）。整个旅程大约需要 4-5 个月，所以有足够的时间去游览所有景点。我想打开任何你需要的视频设备来制作精彩的视频，并在开车时全天播放。 100% 我会发送带有精彩片段时间戳的视频，但您可以自由地在任何平台上对视频进行创作。我没有任何 SM 存在感，我的妻子只在 FB 上有家人，所以创造空间是你的。有什么想法吗？    提交人    /u/Informal_Divide_6806   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1d77sig/dallas_to_anchorage_clips_for_partnership/</guid>
-      <pubDate>Mon, 03 Jun 2024 15:53:14 GMT</pubDate>
-    </item>
-    <item>
       <title>有什么工具可以创造性地分析你的视频吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1d77dvu/any_tools_that_will_analyze_your_video_creatively/</link>
       <description><![CDATA[现在有一堆新的垃圾 AI 视频编辑工具，我对它们不感兴趣。但有时我正在制作视频，需要额外的眼睛来查看。您是否熟悉任何可以提取 MP4 并吐出注释以改进剪辑的工具？    提交人    /u/cy_cy   [link] [评论]]]></description>
@@ -62,16 +62,9 @@
       <pubDate>Mon, 03 Jun 2024 15:36:07 GMT</pubDate>
     </item>
     <item>
-      <title>从手持拍摄的镜头中移除物体</title>
-      <link>https://www.reddit.com/r/editors/comments/1d76qqi/removing_objects_from_handheld_footage/</link>
-      <description><![CDATA[我拍摄了两个女演员在水中交谈的场景（我在沙滩上）。有没有办法在后期使用 Adob​​e Premiere 或 AI 工具去除背景中的船只？ https://youtu.be/EfRhOYFqyKU    提交人    /u/EtherealWanderlust   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1d76qqi/removing_objects_from_handheld_footage/</guid>
-      <pubDate>Mon, 03 Jun 2024 15:08:57 GMT</pubDate>
-    </item>
-    <item>
       <title>客户端硬盘</title>
       <link>https://www.reddit.com/r/editors/comments/1d75oc9/clients_hard_drive/</link>
-      <description><![CDATA[什么时候可以要求客户的硬盘并将其擦除以供个人使用？在过去的一年中，我一直在为一个提供硬盘的客户工作，而我在完成项目时从未要求归还硬盘，至今仍未付款给我。此时，我拥有自去年六月以来一直持有的硬盘。我很抱歉擦除了它们，因为硬盘上的信息不属于我，但如果我全年都在努力归还它们却没有成功，那么现在它们就只能归我所有了吗？如果硬盘上的内容很重要，他们会更努力地找回它，对吗？ 更新：去年 11 月，我通过 Google Drive 提交了最终版本，但没有收到客户的回复。我多次发消息询问我什么时候能拿到工资，他们什么时候想拿到存有镜头的硬盘等等。后来发现客户参军了，直到三月份才可以做任何事情。三月来临，我给他们发了信息，他们说，哦，你能给我到六月份我回城的时间吗...六月到了，客户联系我，说他们会在城里待到星期一，然后再出发。我要求他们找个合适的时间见面...没有回应。现在是星期一，还是没有消息...所以我觉得我现在已经很包容了。    提交人    /u/Professional_Cup9094   [link] [评论]]]></description>
+      <description><![CDATA[什么时候可以要求客户的硬盘并将其擦除以供个人使用？在过去的一年中，我一直在为一个提供硬盘的客户工作，而我在完成项目时从未要求归还硬盘，至今仍未付款。此时，我拥有自去年六月以来一直持有的硬盘。我很抱歉擦除了它们，因为硬盘上的信息不属于我，但如果我全年都在努力归还它们却没有成功，那么现在它们就只能归我所有了吗？如果硬盘上的内容很重要，他们会更努力地找回它，对吗？ 更新：去年 11 月，我通过 Google Drive 提交了最终版本，但没有收到客户的回复。我多次发消息询问我什么时候能拿到工资，他们什么时候想拿到存有镜头的硬盘等等。后来发现客户参军了，直到三月份才可以做任何事情。三月来临，我给他们发了信息，他们说，哦，你能给我到六月份我回城的时间吗...六月到了，客户联系我，说他们会在城里待到星期一，然后再出发。我要求他们找个合适的时间见面...没有回应。现在是星期一，还是没有消息...所以我觉得我现在已经很包容了。    提交人    /u/Professional_Cup9094   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d75oc9/clients_hard_drive/</guid>
       <pubDate>Mon, 03 Jun 2024 14:23:34 GMT</pubDate>
     </item>
@@ -85,7 +78,7 @@
     <item>
       <title>您使用什么媒体播放器来观看前/后镜头？</title>
       <link>https://www.reddit.com/r/editors/comments/1d72c27/what_media_player_are_you_using_the_view_prepost/</link>
-      <description><![CDATA[我正在使用 Mac Pro 2019，并且注意到 Quicktime 现在在某些 .MOV 文件上内核崩溃，并且 Apple 不再真正支持它，所以我要和它告别了。 尝试过 IINA 播放器，它在查看原始 4K 素材时很滞后，即使在读取速度接近 3Gbps 的 NVME 上也是如此。另外，我发现颜色很模糊。 那么大家都在用什么？值得为 Movist Pro、Infuse 和 Optimus 等产品付费吗？ 我很好奇大家都在使用什么以及任何建议。    提交人    /u/sbuswell   [链接] [评论]]]></description>
+      <description><![CDATA[我正在使用 Mac Pro 2019，并且注意到 Quicktime 现在在某些 .MOV 文件上内核崩溃，并且 Apple 不再真正支持它，所以我要和它告别了。 尝试过 IINA 播放器，它在查看原始 4K 素材时很滞后，即使在读取速度接近 3Gbps 的 NVME 上也是如此。另外，我发现颜色很模糊。 那么大家都在使用什么？值得为 Movist Pro、Infuse 和 Optimus 等产品付费吗？ 我很好奇大家都在使用什么以及任何建议。    提交人    /u/sbuswell   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d72c27/what_media_player_are_you_using_the_view_prepost/</guid>
       <pubDate>Mon, 03 Jun 2024 11:40:56 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[我目前在洛杉矶的后期制作公司找工作。我最近在一家后期制作公司的数据 I/O 部门工作了一年多，直到二月份我被解雇。从那时起，我一直在努力找工作。 我看到公司 3 招聘数据 I/O 技术员（与我前雇主的职位几乎完全相同），所以我申请了。我有一个内部联系人，他告诉我，他把我的名字给了他数据部门的一个朋友，大约一周前，那个朋友又把我的名字告诉了他。我应该如何跟进？ 我曾想过明天带着我的简历和推荐人名单过来，但我怕吓跑他们。我应该再等一段时间再做这件事吗？我是不是应该根本不这样做？ 我一直听到一般的职业/求职建议，坚持是关键，但现在市场竞争激烈，在这种情况下，一些一般性建议可能会被抛到九霄云外。 一些行业资深人士可以提供一些意见吗？    提交人    /u/Elite_PS1-Hagrid   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d6zx4u/post_house_hiring_etiquette_questions_from_a/</guid>
       <pubDate>Mon, 03 Jun 2024 08:56:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>企业视频的盒装音乐</title>
+      <link>https://www.reddit.com/r/editors/comments/1d6ytbm/box_music_for_corporate_videos/</link>
+      <description><![CDATA[嘿！ 我为工业品牌制作信息/案例影片。 这类视频最好的音乐网站是什么？ 我觉得我尝试过的所有音乐网站都只提供“史诗奇幻预告片音乐/YouTube教程陈词滥调”。 我想要一些类似于通用库的东西。 我试过：Epidemic Envato YouTube 音乐 Artlist     提交人    /u/Clueless-Editor   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1d6ytbm/box_music_for_corporate_videos/</guid>
+      <pubDate>Mon, 03 Jun 2024 07:32:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

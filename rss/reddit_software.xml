@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 03 Jun 2024 21:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 00:18:19 GMT</lastBuildDate>
+    <item>
+      <title>采用 C4 模型的软件架构图</title>
+      <link>https://www.reddit.com/r/software/comments/1d7fmuc/software_architecture_diagrams_with_c4_model/</link>
+      <description><![CDATA[  由    /u/pliutau  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1d7fmuc/software_architecture_diagrams_with_c4_model/</guid>
+      <pubDate>Mon, 03 Jun 2024 21:07:54 GMT</pubDate>
+    </item>
     <item>
       <title>适用于 RDP/远程共享单个应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1d7eu5g/application_to_rdpremote_share_single_application/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>有没有办法将手机变成笔记本电脑的触控笔板并同时查看相同的文档？</title>
       <link>https://www.reddit.com/r/software/comments/1d7aplk/is_there_a_way_of_making_a_phone_into_a_stylus/</link>
-      <description><![CDATA[我一直使用 Samsung S23 Ultra 做作业和编辑文档。我主要在 Samsung Notes 上编辑它们，因为它的延迟最低，并且可以使用 S Pen 的所有功能。当我做题时，我必须不断滚动到题目，然后再回到我的工作中。为了解决这个问题，我最终把作业放在笔记本电脑上，然后就使用它。然而，这导致了滚动浏览我的工作的问题，有时甚至会忘记我在做什么， 然后我在笔记本电脑上尝试了 Samsung DeX，但你无法在两个设备上都打开应用程序。当在一台设备上打开笔记应用程序时，它会关闭另一台设备上已经打开的笔记应用程序。我知道这看起来很琐碎，但我只是想让我的笔记本电脑能够查看我正在写的同一篇文档，并能够滚动浏览两个文档。我曾考虑过屏幕共享，但这只会将我最初的问题放到更大的屏幕上。 谢谢    提交人    /u/no_u134   [链接] [评论]]]></description>
+      <description><![CDATA[我一直使用 Samsung S23 Ultra 做作业和编辑文档。我主要在 Samsung Notes 上编辑它们，因为它的延迟最低，并且可以使用 S Pen 的所有功能。当我做题时，我必须不断滚动到题目，然后再回到我的工作中。为了解决这个问题，我最终将作业放在笔记本电脑上，然后只使用它。然而，这导致了滚动浏览我的工作的问题，有时甚至会忘记我在做什么， 然后我在笔记本电脑上尝试了 Samsung DeX，但你无法在两个设备上都打开应用程序。当在一台设备上打开笔记应用程序时，它会关闭另一台设备上已经打开的笔记应用程序。我知道这看起来很琐碎，但我只是想让我的笔记本电脑能够查看我正在写的同一篇文档，并能够滚动浏览两者。我曾考虑过屏幕共享，但这只会将我最初的问题放到更大的屏幕上。 谢谢    提交人    /u/no_u134   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d7aplk/is_there_a_way_of_making_a_phone_into_a_stylus/</guid>
       <pubDate>Mon, 03 Jun 2024 17:52:15 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[https://preview.redd.it/aif32x978d4d1.jpg?width=292&amp;format=pjpg&amp;auto=webp&amp;s=83bdb2c07bc076d6c77c6349263a5c2acdf7a99e 有没有办法读取这张照片中的车牌号？    提交人    /u/mersaddi1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d75np5/blurry_license_plate/</guid>
       <pubDate>Mon, 03 Jun 2024 14:22:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有（免费）软件可以在 Windows 中搜索特定文件？（比本机搜索更好）</title>
-      <link>https://www.reddit.com/r/software/comments/1d758i3/is_there_a_free_software_to_search_specific_files/</link>
-      <description><![CDATA[好的，我会尽量简短明了。但我有几个 USB 硬盘。总共 4 个，备份材料相同。  我正在运行 Win7。  我试图在我的任何硬盘中挖掘一个 .xml 文件，但它需要能够在该文件中找到特定的文本。我已经在 Windows 的原生搜索中搜索了 .xml，这还不错，但并不完美，而且通常没有什么帮助或太慢。 有没有真正稳定、可靠的软件可以真正正确搜索特定参数？如果我希望它以 .xml 格式搜索“SpecificWord”。或者至少是“SpecificWord”并且它应该能够真正检索它而不会花费很长时间、超时等（它应该能够在该文件内查看，而不是搜索文件名，如果有意义的话）    提交人    /u/piangero   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1d758i3/is_there_a_free_software_to_search_specific_files/</guid>
-      <pubDate>Mon, 03 Jun 2024 14:04:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
