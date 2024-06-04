@@ -4,7 +4,73 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Tue, 04 Jun 2024 06:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 08:55:30 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] 大纪元时报首席财务官关志平因涉嫌违反《1989年国际新闻法》和《2019年国际新闻法》被捕。 [...]</title>
+      <link>https://t.me/hn_summary/93034</link>
+      <description><![CDATA[大纪元时报首席财务官因涉嫌参与 6700 万美元加密货币洗钱计划而被起诉
+大纪元时报首席财务官比尔·关因涉嫌参与一项 6700 万美元的全球洗钱计划而被捕。联邦检察官声称关领导了“在线赚钱”团队，使用加密货币洗钱犯罪所得。如果罪名成立，他将面临 30 多年的监禁。大纪元时报表示将配合调查，并已暂停关的职务。起诉书详细描述了一项始于 2020 年左右的计划，涉及复杂的交易，以将非法资金汇入报纸的账户。值得注意的是，大纪元时报的收入在此期间飙升了 410%。这些指控与该媒体的新闻采访活动无关。 《大纪元时报》由与“法轮功”有关的美籍华人创办，现已发展成为一个著名的保守派新闻机构，以阴谋论和反对中国共产党而闻名。]]></description>
+      <guid>https://t.me/hn_summary/93034</guid>
+      <pubDate>Tue, 04 Jun 2024 08:55:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>问 HN：进入低级阶段——下一步该学什么？</title>
+      <link>https://t.me/hn_summary/93033</link>
+      <description><![CDATA[问 HN：进入底层——下一步该学什么？
+我对底层编程着迷了一段时间。我对 C 语言有很好的理解，可以读懂汇编语言（虽然写汇编语言是另一回事），并且了解 CPU 架构的基础知识，包括寄存器、缓存和堆栈。我正在寻找关于下一步该学习什么的建议，以便更好地理解 C 程序中的缓存使用情况和潜在的底层微优化。这对我来说纯粹是一种爱好，所以我并不想过早地优化生产代码——我只是对这些系统的内部工作原理感到好奇。]]></description>
+      <guid>https://t.me/hn_summary/93033</guid>
+      <pubDate>Tue, 04 Jun 2024 07:24:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在我最近对用 Fennel 编写的 IRC 服务器 Taverner 进行的研究工作中，我探索了不同的 [...]</title>
+      <link>https://t.me/hn_summary/93032</link>
+      <description><![CDATA[其中五种不同的路径通向方法
+在我最近对用 Fennel 编写的 IRC 服务器 Taverner 的研究工作中，我探索了对频道（聊天室）进行建模的不同方法。Fennel 缺少类，因此我尝试了几种方法：
+
+1. 基于模块的方法：函数从模块导出，作用类似于方法。这种方法很简单，但缺乏封装，随着代码库的增长，代码库更难管理。
+
+2. 基于闭包的方法：函数封闭在作用域内，以保持内部数据的私密性。这提供了封装，但使代码重新加载变得复杂，这对于 IRC 等长期运行的服务器至关重要。
+
+3. 基于元表的方法：使用 Lua 的元表来分离公共和私有数据，允许通过 __index 进行方法查找。但是，这可能导致不可预测的行为并且缺乏透明度。
+
+4. 基于类的方法：使用 middleclass 库，这种方法模仿传统的类系统，提供熟悉的语法和封装。但是，对可重新加载性和封装的全部影响仍在考虑中。
+
+每种方法都有其权衡，需要在简单性、封装性和可重新加载性之间取得平衡。挑战在于找到可维护和灵活的代码库的正确平衡。（基于 53% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/93032</guid>
+      <pubDate>Tue, 04 Jun 2024 07:11:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 我因健康原因于 2023 年 11 月下旬辞去了 Robinhood 的工作，并且一直 [...]</title>
+      <link>https://t.me/hn_summary/93031</link>
+      <description><![CDATA[我厌倦了 Leetcode 风格的面试
+由于健康原因，我于 2023 年 11 月下旬辞去了 Robinhood 的工作，从那时起就一直在面试。然而，我对 Leetcode 风格的面试越来越感到沮丧。这些测试并没有反映出软件工程工作的实际职责，而且似乎只是因为谷歌、Facebook 和亚马逊等大公司会这样做而被使用。对那些可以很容易地在谷歌上搜索到的东西进行测试是荒谬的，尤其是当经验丰富的工程师建议不要记住这些信息时。虽然我没有解决方案，但我厌倦了这个有缺陷的系统。如果您需要具有 AWS、Kubernetes 和 Ruby on Rails 经验的软件工程师，并且不使用这些愚蠢的测验，请随时联系我们！]]></description>
+      <guid>https://t.me/hn_summary/93031</guid>
+      <pubDate>Tue, 04 Jun 2024 07:04:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在 Nvidia 的 Computex 2024 主题演讲中，首席执行官黄仁勋推出了 Nvidia Blackwell，这是一款 [...]</title>
+      <link>https://t.me/hn_summary/93030</link>
+      <description><![CDATA[我看了 Nvidia 的 Computex 2024 主题演讲，它让我不寒而栗
+在 Nvidia 的 Computex 2024 主题演讲中，首席执行官黄仁勋推出了功能强大的数据中心处理器 Nvidia Blackwell 以及其他 AI 技术。虽然这些进步有望为 Nvidia 及其股东带来可观的利润，但作者对其更广泛的影响表示深切担忧。主题演讲强调了由于 Blackwell GPU 的高能耗，可能对环境造成巨大影响，这被比作“世界末日设备”。此外，由 Nvidia ACE 驱动的“数字人类”的崛起可能导致广泛的失业，加剧社会和经济不平等。作者批评科技行业专注于技术进步，却以牺牲人类福祉和环境可持续性为代价。]]></description>
+      <guid>https://t.me/hn_summary/93030</guid>
+      <pubDate>Tue, 04 Jun 2024 06:47:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在接受 The Verge 的 Nilay Patel 采访时，Zoom 首席执行官袁征讨论了 [...]</title>
+      <link>https://t.me/hn_summary/93029</link>
+      <description><![CDATA[Zoom 首席执行官希望在会议中使用 AI 克隆
+在接受 The Verge 的 Nilay Patel 的精彩采访时，Zoom 首席执行官 Eric Yuan 讨论了他对 Zoom 未来的雄心勃勃的愿景，其中包括利用 AI 创建“数字孪生”——可以参加会议并代表用户做出决策的深度伪造化身。袁志伟设想未来 AI 将处理高达 90% 的工作场所任务，可能导致每周工作四天。这个大胆的想法引发了关于信任、同步和工作本身性质的问题。袁志伟的目标是将 Zoom 从视频会议工具转变为一个全面的企业软件平台，与微软和谷歌等巨头竞争。（基于 24% 的故事文本摘要。）]]></description>
+      <guid>https://t.me/hn_summary/93029</guid>
+      <pubDate>Tue, 04 Jun 2024 06:45:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Ganjifa，也称为 Ganjapa 或 Gânjaphâ，是一种传统纸牌游戏，起源于 [...]</title>
+      <link>https://t.me/hn_summary/93028</link>
+      <description><![CDATA[Ganjifa
+Ganjifa，也称为 Ganjapa 或 Gânjaphâ，是一种传统纸牌游戏，起源于波斯，后来在印度，尤其是奥里萨邦流行起来。纸牌通常是圆形或矩形，由工匠手绘。Ganjifa 纸牌最初在莫卧儿宫廷流行，由象牙和玳瑁等奢华材料制成，但后来面向公众的版本使用了木材、棕榈叶和纸板。该游戏有各种花色，每种花色都有不同的颜色，每花色包括十张点数牌和两张宫廷牌。Ganjifa 的起源尚不确定，但据信它源于波斯，其中“ganj”一词的意思是“宝藏”。该游戏于 16 世纪在莫卧儿皇帝统治下传到印度，并在中东和西亚各国都有历史记载。尽管 Ganjifa 牌历史悠久，但由于 20 世纪西式印刷牌的兴起，Ganjifa 牌已不再受欢迎。（基于 22% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/93028</guid>
+      <pubDate>Tue, 04 Jun 2024 06:09:26 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体] 新研究表明，大脑中的神经元不仅会在记忆过程中重播过去的经历[...]</title>
       <link>https://t.me/hn_summary/93027</link>
@@ -29,73 +95,6 @@
 Koheesio 是 Nike 开发的用于构建高级数据管道的 Python 框架。它强调模块化和协作，允许用户从简单、可重复使用的组件创建复杂的管道。该框架支持各种数据处理库和框架，确保多功能性和可扩展性。Koheesio 使用 Pydantic 进行强类型、数据验证和设置管理，促进类型安全和结构化配置。它因与 PySpark 的集成以及针对数据转换、ETL 作业和大规模数据处理等任务的设计而脱颖而出。该项目鼓励社区贡献并提供广泛的功能，包括 Spark Expectations、Box 集成和 SFTP 支持。通过 pip、Hatch 或 Poetry 即可轻松安装。]]></description>
       <guid>https://t.me/hn_summary/93025</guid>
       <pubDate>Tue, 04 Jun 2024 05:48:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国嫦娥六号月球着陆器于周日成功着陆月球背面[...]</title>
-      <link>https://t.me/hn_summary/93024</link>
-      <description><![CDATA[中国嫦娥六号探测器成功着陆月球背面
-中国嫦娥六号月球着陆器于北京时间周日上午成功着陆月球背面，标志着中国太空探索工作的一个重要里程碑。探测器降落在南极-艾特肯盆地，旨在收集并返回地球样本，这是首次在月球背面进行采样。此次任务是中国迄今为止最复杂的机器人月球探测任务，是朝着中国在 2030 年前将宇航员送上月球并在月球南极建立研究基地的目标迈出的重要一步。在全球月球探测竞争日益激烈的背景下，此次任务的成功可能会巩固中国作为主导太空大国的地位。由于月球背面与外界隔绝，这项技术难度很大的任务需要依靠鹊桥二号卫星进行通信。嫦娥六号任务是更广泛的月球计划的一部分，随着中国探月计划的推进，计划进行更多任务。]]></description>
-      <guid>https://t.me/hn_summary/93024</guid>
-      <pubDate>Tue, 04 Jun 2024 05:07:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出 Poto.ai，一个创新的 AI 摄影平台，旨在超越传统的照片 [...]</title>
-      <link>https://t.me/hn_summary/93023</link>
-      <description><![CDATA[向 HN 展示：AI 摄影平台，比传统摄影提供更好的选择
-推出 Poto.ai，这是一款旨在超越传统摄影的创新 AI 摄影平台。我们对隐私的承诺至关重要：我们保证您的数据安全，并承诺绝不会将其出售给第三方。此外，我们向您保证，您的照片不会用于训练新的 AI 模型。信任和隐私是我们服务的基石，确保您可以享受先进的 AI 摄影带来的好处，而不会泄露您的个人信息。]]></description>
-      <guid>https://t.me/hn_summary/93023</guid>
-      <pubDate>Tue, 04 Jun 2024 04:58:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 人工智能抵押贷款初创公司 LoanSnap 正面临严重的财务和法律困境 [...]</title>
-      <link>https://t.me/hn_summary/93022</link>
-      <description><![CDATA[筹集 1 亿美元后，人工智能金融科技公司 LoanSnap 被起诉、罚款、驱逐
-尽管筹集了约 1 亿美元的资金，人工智能抵押贷款初创公司 LoanSnap 仍面临严重的财务和法律问题。该公司由 Karl Jacob 和 Allan Carroll 创立，面临至少七名债权人的诉讼、州和联邦机构的罚款以及南加州总部的驱逐。员工报告称，由于公司未能支付工资并大幅裁员，气氛紧张。尽管存在这些问题，LoanSnap 仍继续吸引风险投资，并于 2023 年筹集了 1900 万美元。该公司的领导层和支出做法受到批评，其未来仍不确定。值得注意的是，LoanSnap 仍然获得公众赞誉，并加入了 Visa 的金融科技计划和 Nvidia 的 Inception 计划，这引发了人们对其持续可信度的质疑。]]></description>
-      <guid>https://t.me/hn_summary/93022</guid>
-      <pubDate>Tue, 04 Jun 2024 04:56:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ndindex 是一个 Python 库，旨在方便操作 ndarrays 的索引。</title>
-      <link>https://t.me/hn_summary/93021</link>
-      <description><![CDATA[Ndindex：用于操作 ndarray 索引的 Python 库
-Ndindex 是一个 Python 库，旨在方便操作 ndarray 的索引。该库提供各种功能，包括计算给定形状的块数和确定指定切片的包含块。例如，使用 ChunkSize((100, 200)) 和形状 (10000, 10001)，该库计算 5100 个块。它还可以识别切片的包含块，例如 (slice(450, 1050),slice(100, 200))，从而得到 Tuple(slice(400, 1100, 1),slice(0, 200, 1))。此外，该库可以迭代子块，为每个子块提供详细的切片元组。此工具对于处理大型多维数组的数据科学家和工程师特别有用。]]></description>
-      <guid>https://t.me/hn_summary/93021</guid>
-      <pubDate>Tue, 04 Jun 2024 04:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 英特尔的 Lion Cove 架构标志着英特尔产品线的重大演变 [...]</title>
-      <link>https://t.me/hn_summary/93020</link>
-      <description><![CDATA[英特尔 Lion Cove 架构预览
-英特尔 Lion Cove 架构标志着英特尔 P-Cores 谱系的重大演变，可追溯到 Pentium Pro 的 P6 架构。最显著的变化是将统一数学调度程序拆分为单独的整数和矢量调度程序，从而提高了能效并简化了设计。这种拆分允许更好的时钟门控并降低处理多个操作数指令的复杂性。此外，英特尔还改进了缓存层次结构，引入了一个新的中间缓存，标记为 L1，它充当更快的 L0 和更大的 L2 缓存之间的缓冲区。令人惊讶的是，Lunar Lake 中的 Lion Cove 已经删除了超线程，简化了线程控制器的任务并减小了芯片尺寸。但是，这种删除可能并不适用于所有使用 Lion Cove 的未来产品。其他增强功能包括提高提取率、改进分支预测和扩展执行资源。这些变化总共将每时钟性能提高了 14%，但真正的亮点是英特尔转向更可定制的设计，从而可以更好地优化特定应用程序。]]></description>
-      <guid>https://t.me/hn_summary/93020</guid>
-      <pubDate>Tue, 04 Jun 2024 04:26:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 英特尔公布了即将推出的 Lunar Lake 的架构和技术细节 [...]</title>
-      <link>https://t.me/hn_summary/93019</link>
-      <description><![CDATA[英特尔发布 Lunar Lake 架构：全新 P 和 E 核心、Xe2-LPG GPU、NPU 4
-英特尔公布了即将推出的 Lunar Lake SoC（下一代 Core Ultra 移动处理器）的架构和技术细节。在台北的 Tech Tour 活动中，英特尔推出了新的 P-Core（Lion Cove）和 E-Core（Skymont）设计，以及 NPU 4，可提供高达 48 TOPS 的性能，超越了微软 Copilot+ AI PC 的要求。值得注意的是，Lunar Lake 由台积电制造，标志着英特尔摆脱了传统的内部生产模式。该 SoC 具有先进的电源管理和调度机制，利用英特尔线程控制器和 Windows 11 实现最佳性能和效率。此外，Lunar Lake 集成了高达 32 GB 的 LPDDR5X 内存和 Arc Xe2-LPG GPU，使平台总性能达到 120 TOPS。这一战略演进旨在提高能效和性能，使英特尔在移动 CPU 市场上与苹果和高通等竞争对手抗衡。]]></description>
-      <guid>https://t.me/hn_summary/93019</guid>
-      <pubDate>Tue, 04 Jun 2024 03:55:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 标题：罕见而有趣的侮辱，第 2 卷</title>
-      <link>https://t.me/hn_summary/93018</link>
-      <description><![CDATA[罕见而有趣的侮辱，第 2 卷
-标题：罕见而有趣的侮辱，第 2 卷
-
-网站：www.merriam-webster.com
-
-定义：
-大摇大摆的吹牛大王或自吹自擂的人。
-
-关于这个词：
-“Cacafuego”一词源于 1579 年英国海军上将弗朗西斯·德雷克爵士捕获的一艘西班牙船。这个词很可能是因为失败或获胜的水手过度吹嘘而获得了侮辱性的含义。“Cacafuego”结合了西班牙语“fuego”（火）和拉丁语“cacare”（排泄物），可能指的是船上的炮火。摘自英国民族的主要航行、航行、交通和发现（1600 年）的一段话说明了它的历史用法：“我们从这里出发，仍然跟着 Cacafuego，我们的将军向我们的公司承诺，无论谁能先描述她，都将获得一条金链作为他的好消息。”
-
-令人惊讶/巧妙的元素：
-巧妙地将“火”和“排泄物”结合起来描述一个自吹自擂的人既有趣又独特，反映了那个时代丰富多彩的语言。]]></description>
-      <guid>https://t.me/hn_summary/93018</guid>
-      <pubDate>Tue, 04 Jun 2024 03:53:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
