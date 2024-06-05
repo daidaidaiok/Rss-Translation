@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 05 Jun 2024 15:06:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 18:07:20 GMT</lastBuildDate>
     <item>
       <title>每日人群</title>
       <link>https://www.producthunt.com/posts/dailycrowds</link>
@@ -48,8 +48,8 @@
       <pubDate>Wed, 05 Jun 2024 07:10:38 GMT</pubDate>
     </item>
     <item>
-      <title>Amplitude 的 Snowflake Native</title>
-      <link>https://www.producthunt.com/posts/snowflake-native-by-amplitude</link>
+      <title>雪花原生振幅</title>
+      <link>https://www.producthunt.com/posts/snowflake-native-amplitude</link>
       <description><![CDATA[
 为数据云构建的自助产品分析
 
@@ -58,7 +58,7 @@
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/snowflake-native-by-amplitude</guid>
+      <guid>https://www.producthunt.com/posts/snowflake-native-amplitude</guid>
       <pubDate>Wed, 05 Jun 2024 05:24:51 GMT</pubDate>
     </item>
     <item>
@@ -74,6 +74,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/chatflow-4</guid>
       <pubDate>Tue, 04 Jun 2024 19:25:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>健身计算器</title>
+      <link>https://www.producthunt.com/posts/fitness-calculator</link>
+      <description><![CDATA[
+您的即时健康洞察伴侣，无需大惊小怪
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/fitness-calculator</guid>
+      <pubDate>Tue, 04 Jun 2024 19:21:08 GMT</pubDate>
     </item>
     <item>
       <title>RikiGPT</title>
@@ -130,20 +144,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/hillda</guid>
       <pubDate>Tue, 04 Jun 2024 11:59:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Huly.io</title>
-      <link>https://www.producthunt.com/posts/huly-io</link>
-      <description><![CDATA[
-开源一体化项目管理平台
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/huly-io</guid>
-      <pubDate>Tue, 04 Jun 2024 10:48:52 GMT</pubDate>
     </item>
     <item>
       <title>比雷德</title>
