@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 07 Jun 2024 00:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 03:06:32 GMT</lastBuildDate>
+    <item>
+      <title>有人知道有这样的软件吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1d9ytsv/anyone_know_of_a_software_for_this/</link>
+      <description><![CDATA[这是一个声学项目。 我需要找到一个使用某种物理模拟（流体或其他）的程序，这样我就可以模拟空袭警报的声音。 我目前正在使用 Blender 来可视化气流，但它无法记录任何可以作为音频播放的压力差。 基本上是一种可以保存虚拟“麦克风”压力差的流体模拟。    提交人    /u/EASguy98   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1d9ytsv/anyone_know_of_a_software_for_this/</guid>
+      <pubDate>Fri, 07 Jun 2024 01:28:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以发送大量 MMS 短信的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1d9xjkl/software_that_can_send_mass_mms_texts/</link>
+      <description><![CDATA[我正在寻找能够向大约 2500 名客户/客户群发大量 SMS 和 MMS 消息的应用程序。我理想情况下希望能够使用自己的电话号码发送消息（因此看起来像是来自我），但主要是我可以使用它一次向所有人发送消息。有这样的事情吗？    提交人    /u/devinyoo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1d9xjkl/software_that_can_send_mass_mms_texts/</guid>
+      <pubDate>Fri, 07 Jun 2024 00:22:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一款图像抖动软件</title>
+      <link>https://www.reddit.com/r/software/comments/1d9xhhw/looking_for_an_image_dithering_software/</link>
+      <description><![CDATA[我正在寻找类似于 https://doodad.dev/dither-me-this/ 但却是独立软件的东西，能够保存颜色预设。     提交人    /u/fizunboii   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1d9xhhw/looking_for_an_image_dithering_software/</guid>
+      <pubDate>Fri, 07 Jun 2024 00:19:43 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 8 中的旧照片编辑器</title>
       <link>https://www.reddit.com/r/software/comments/1d9wmol/old_photo_editor_from_windows_8/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[大家好！ 我的问题是最好的下载管理器 FDM 还是 Jdownloader？ 实际上，我正在使用免费下载器管理器，它一直运行良好且快速。 我以前使用过 IDM，但不想购买一个许可证。    提交人    /u/BrunimHenriq   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d9ll0l/whats_best_downoad_manager_fdm_vs_jdownloader/</guid>
       <pubDate>Thu, 06 Jun 2024 15:55:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳屏幕翻译</title>
-      <link>https://www.reddit.com/r/software/comments/1d9kmau/best_screen_translator/</link>
-      <description><![CDATA[嗨，我正在寻找一个不需要不断截图的屏幕翻译器。我正在寻找一个可以自动翻译出现在选定区域中的任何文本的程序。我厌倦了每隔几秒钟就必须截图来翻译文本。任何帮助都将不胜感激。    提交人    /u/OutrageousTomorrow41   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1d9kmau/best_screen_translator/</guid>
-      <pubDate>Thu, 06 Jun 2024 15:14:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是什么软件👀？我和我丈夫合并了我们的 Google Photos，然后我发现了这个。只是想知道🤔💭这是否是一个应用程序？</title>
-      <link>https://www.reddit.com/r/software/comments/1d9jark/what_software_is_this_my_husband_and_i_merged_our/</link>
-      <description><![CDATA[  由    /u/Jimmilyn  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1d9jark/what_software_is_this_my_husband_and_i_merged_our/</guid>
-      <pubDate>Thu, 06 Jun 2024 14:18:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于在线教科书转换为 .pdf 的截图软件</title>
-      <link>https://www.reddit.com/r/software/comments/1d9j0it/screenshot_software_for_online_textbooks_to/</link>
-      <description><![CDATA[我有一本只能浏览的在线教科书。我无法突出显示或选择页面上的任何内容。我想在我的其中一个侧面显示器上获取此工作簿，截取每个页面的屏幕截图并将它们全部转换为单个 .pdf。  这本书大约有 900 页。手动执行此操作会让我发疯。有没有软件可以让选定区域每 2 秒截取多个屏幕截图或屏幕截图并将它们保存到计算机上的文件夹中？我可能需要使用单独的软件来进行转换。适用于 Windows 10  谢谢。     提交人    /u/DecadentHam   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1d9j0it/screenshot_software_for_online_textbooks_to/</guid>
-      <pubDate>Thu, 06 Jun 2024 14:06:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
