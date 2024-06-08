@@ -4,93 +4,107 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Fri, 07 Jun 2024 20:59:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 00:16:35 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 任何第一次使用 Winamp 在计算机上体验音乐的人可能都有过这样的记忆[...]</title>
-      <link>https://t.me/hn_summary/93743</link>
-      <description><![CDATA[Linamp，现实生活中的 Winamp
-任何第一次使用 Winamp 在计算机上体验音乐的人可能都会有第一次看到经典 UI 的记忆。它的一切都比我们习惯的笨重、厚重的界面领先一步，尽管它本应不引人注目，但很难将你的目光从那个丝般顺滑的频谱分析仪上移开，它会弹出你最喜欢的 MP3。重新捕捉一点 Winamp 的魔力是 Linamp 的目标，它是经典媒体播放器的物理版本。它在触摸屏 LCD 上重现了 Winamp UI，其宽高比几乎与原始布局完美匹配。显示屏后面是一台带有 32 GB SD 卡的 Raspberry Pi 4，所有重要的连接都引出了机箱背面的一块电路板。机箱本身就是一种享受，因为它借鉴了另一种复古装备的设计元素，即 20 世纪 80 年代装在很多书架上的迷你机架音响系统——如果我没记错的话，它也曾是许多高中派对的必备设备。为了重现这个机箱，Rodmg 设计了一个金属板机箱，并让 PCBWay 用阳极氧化铝定制。他还打印了一个与 Winamp 窗口边框非常相似的显示屏边框，并带有控制图标。不过，这款产品真正出彩的地方在于 Rodmg 在软件上投入的工作。他在布局和性能方面都非常接近原始 Winamp 用户界面。他为了让频谱分析仪正常工作而付出的努力，包括深入研究 FFT，令人印象深刻。结果不言而喻，向 Rodmg 的努力和怀旧之旅致敬。我们不知道最近宣布的 Winamp 即将开源是否会对这个项目产生很大影响，但它可能会导致大量新的 Winamp 版本。]]></description>
-      <guid>https://t.me/hn_summary/93743</guid>
-      <pubDate>Fri, 07 Jun 2024 20:59:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：nicole.express</title>
-      <link>https://t.me/hn_summary/93742</link>
-      <description><![CDATA[是的，你可以在没有电视的情况下玩 Duck Hunt（但我不能）
-标题：是的，你可以在没有电视的情况下玩 Duck Hunt（但我不能）
-网站：nicole.express
+      <title>[媒体] 网站：www.ps2filterai.net</title>
+      <link>https://t.me/hn_summary/93781</link>
+      <description><![CDATA[显示 HN：PS2 滤镜 AI
+标题：显示 HN：PS2 滤镜 AI
+网站：www.ps2filterai.net
 
-Duck Hunt 是任天堂娱乐系统中深受喜爱的经典游戏，但游戏中的鸭子狩猎概念可以追溯到更早。令人惊讶的是，世嘉早在 1968 年就推出了 Duck Hunt 的一个版本，这是一款带有物理移动目标的机电游戏。任天堂后来将这一概念推广到家庭使用。日语中“射线枪”一词“kousenjuu”用于一系列光枪玩具，包括“打鸭子”。20 世纪 70 年代的机械“打鸭子”投影仪是一款迷人的设备，但不幸的是，由于枪中的灯泡坏了，我无法让它工作。如果有人知道在哪里可以找到替代品，请告诉我。现在，鸭子仍然永生不朽，嘲笑我。]]></description>
-      <guid>https://t.me/hn_summary/93742</guid>
-      <pubDate>Fri, 07 Jun 2024 20:28:34 GMT</pubDate>
+使用 PS2 滤镜 AI，轻松将您的照片转换为怀旧的 PS2 滤镜风格图像。只需上传您的照片，让 AI 发挥其魔力。使用提示字段引导 AI 捕捉您的创意愿景，而负面提示部分允许您指定要避免的元素。自定义输出图像大小并探索高级选项以进行更详细的调整。在输出区域中查看您最终的 PS2 滤镜 AI 创作。该工具将简单性和定制性完美地融合在一起，适合普通用户和高级创作者使用。]]></description>
+      <guid>https://t.me/hn_summary/93781</guid>
+      <pubDate>Sat, 08 Jun 2024 00:16:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 处女作为什么无法出版？</title>
-      <link>https://t.me/hn_summary/93741</link>
-      <description><![CDATA[处女作为何无法推出？
-处女作在当今碎片化的媒体环境中难以获得关注，但杰克·凯鲁亚克的《在路上》却不同，后者的成功得益于其经纪人斯特林·洛德在出版前的战略性炒作。在 20 世纪 50 年代，利用杂志摘录来树立作者的名声是一种创新，但现在，处女作作者面临着市场饱和、集中媒体渠道减少的问题。公关人员必须持续数月的努力，作者通常需要成为社交媒体影响者才能吸引注意力。尽管图书整体销量有所增加，但大多数处女作的销量都不足 5,000 册。这一挑战因需要重大的宣传里程碑（例如大型读书俱乐部代言和高调的媒体报道）才能取得突破而加剧。这种环境限制了新声音的曝光，通常青睐那些已有名气或有重大营销支持的人。（基于 72% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/93741</guid>
-      <pubDate>Fri, 07 Jun 2024 20:26:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Shopify 已收购由红杉资本支持的 Slack 替代品 Threads.com，该消息于 [...]</title>
-      <link>https://t.me/hn_summary/93740</link>
-      <description><![CDATA[Shopify 收购 Threads（不是那个）
-Shopify 已收购由 Sequoia 支持的 Slack 替代品 Threads.com，Threads 网站上已宣布收购。财务条款尚未披露，但 Threads.com 团队将加入 Shopify。此次收购是在 Meta 推出社交网络（也称为 Threads）之后进行的，这给 Threads.com 带来了混乱，也提高了知名度。尽管最初拒绝了收购要约，Threads.com 还是选择了 Shopify，以利用大规模创新的机会。值得注意的是，由于 Threads.com 拥有 .com 域名，因此 Meta 必须使用 Threads.net，而该域名在 Meta 发布后下载量激增。Shopify 首席执行官 Tobi Lutke 对团队表示欢迎，但并未详细说明整合计划。]]></description>
-      <guid>https://t.me/hn_summary/93740</guid>
-      <pubDate>Fri, 07 Jun 2024 20:18:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 乔治·马洛里 (George Mallory) 在 20 世纪 20 年代尝试攀登珠穆朗玛峰，标志着这座山峰的 [...]</title>
-      <link>https://t.me/hn_summary/93739</link>
-      <description><![CDATA[珠穆朗玛峰如何杀死乔治·马洛里
-乔治·马洛里在 20 世纪 20 年代试图攀登珠穆朗玛峰，这标志着这座山峰在 20 世纪的历史的结束，最终在 1999 年发现了他的尸体。他那句著名的俏皮话“因为珠穆朗玛峰就在那里”，掩盖了更深层次、不那么高尚的动机。著名的喜马拉雅探险历史学家米克·康弗雷 (Mick Conefrey) 探究了马洛里是否在死前登顶，并质疑他冒险的道德性，尤其是考虑到他的年轻同伴桑迪·欧文 (Sandy Irvine)。马洛里的鲁莽行为，出于对最后机会的渴望，加上人际冲突，最终导致了他的死亡。他的实际缺陷，尤其是氧气设备方面的缺陷，与更熟练的乔治·芬奇形成了鲜明的对比，而马洛里实际上已经将乔治·芬奇排除在外。新手登山者欧文的悲惨命运凸显了推动这次探险的帝国主义野心。本文还谈到了备受争议的人物弗朗西斯·杨哈斯班德，他的殖民功绩给这次探险蒙上了一层阴影。]]></description>
-      <guid>https://t.me/hn_summary/93739</guid>
-      <pubDate>Fri, 07 Jun 2024 20:14:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 五万年前，北美洲充满了猛犸象、桅杆象等巨型动物[...]</title>
-      <link>https://t.me/hn_summary/93738</link>
-      <description><![CDATA[5 万年前北美大型哺乳动物消失的线索
-五万年前，北美到处都是猛犸象、乳齿象和剑齿虎等巨型动物。然而，到上一个冰河时代结束时，这些大型哺乳动物大部分都消失了。这场大规模灭绝背后的原因仍存在激烈争论，各种理论从人类影响到气候变化不一而足。最近发表在《哺乳动物科学前沿》上的一项研究利用一种名为 ZooMS（质谱动物考古学）的新技术来分析史密森尼博物馆藏品中的碎骨。令人惊讶的是，80% 的样本产生了足够的胶原蛋白以供鉴定，为灭绝之谜提供了新的见解。这种方法凸显了博物馆藏品尚未开发的潜力，并强调了保护考古文物的重要性。]]></description>
-      <guid>https://t.me/hn_summary/93738</guid>
-      <pubDate>Fri, 07 Jun 2024 20:10:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在《重塑猫的人》一书中，凯瑟琳·休斯探索了猫的转变[...]</title>
-      <link>https://t.me/hn_summary/93737</link>
-      <description><![CDATA[重塑猫的人
-在《重塑猫的人》中，凯瑟琳·休斯探讨了家猫在维多利亚时代和爱德华时代的伦敦从一种受人鄙视的害虫到深受喜爱的家养宠物的转变，重点关注艺术家路易斯·韦恩的生活和作品。韦恩异想天开的拟人化猫插图大受欢迎，在这种文化转变中发挥了重要作用。休斯将韦恩的传记与更广泛的社会历史交织在一起，强调了猫如何象征现代主义和社会变革的各个方面。这本书还深入探讨了韦恩的个人挣扎，包括他的心理健康问题，并批评了经常强加于他的生活和工作的简单叙述。休斯的分析既学术性又引人入胜，为猫科动物历史上的一个关键时期提供了新的视角。
+      <title>标题：MXM格式的3dfx Voodoo 4显卡</title>
+      <link>https://t.me/hn_summary/93780</link>
+      <description><![CDATA[MXM 格式的 3dfx Voodoo 4 显卡
+标题：MXM 格式的 3dfx Voodoo 4 显卡
 
-争议：休斯挑战了之前对韦恩生平的传记解读，尤其是那些将他的怪癖归结为精神疾病症状的解读。
+网站：www.vogons.org
 
-令人惊讶/聪明：休斯探索了猫在维多利亚文化中的性和社会象征意义，包括“猫娘们单身汉”一词和猫在音乐厅表演中的使用，为叙事增添了独特的维度。（基于 82% 的故事文本的总结。）]]></description>
-      <guid>https://t.me/hn_summary/93737</guid>
-      <pubDate>Fri, 07 Jun 2024 19:54:57 GMT</pubDate>
+@supercordo 表示有兴趣开发 MXM 格式的 3dfx Voodoo 4 显卡。@DrAnthony 分享了他的最新进展，并指出另一块主板即将问世。他讨论了通过 Thunderbolt 使用该卡的挑战，包括英特尔严格的文档访问以及在没有外部显示器的情况下在笔记本电脑屏幕上显示图像的不切实际。
+
+DrAnthony 成功地让 HDMI 通过 FPGA 工作，支持高达 1600x1024 60Hz 的各种分辨率。然而，由于驱动程序/VSA 问题，1280x960 显示黑屏，1920x1080 存在时序问题。他计划解决这些问题，特别是专注于缩放器。
+
+他分享了该卡的基准测试结果，强调了不同 RAM 配置和时钟速度的性能改进。该项目进展顺利，缩放器是最后一道障碍。]]></description>
+      <guid>https://t.me/hn_summary/93780</guid>
+      <pubDate>Sat, 08 Jun 2024 00:12:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 周二，美国</title>
-      <link>https://t.me/hn_summary/93736</link>
-      <description><![CDATA[美国官员再次违反国际人权法
-周二，美国众议院投票批准对国际刑事法院 (ICC) 进行制裁，此前该法院宣布对以色列总统本雅明内塔尼亚胡和其他官员以及三名哈马斯高级领导人发出逮捕令。该法案以 247 票对 155 票通过，将限制 ICC 成员使用美国银行网络或进入该国。此举不太可能在民主党控制的参议院获得通过，凸显了美国与国际管理机构之间持续存在的紧张关系，尤其是在以色列入侵加沙的情况下。从历史上看，美国选择不参与 ICC 的裁决，尽管它参与了它的制定。这一政策反映了美国将法律强加于他人而自己免于法律的更广泛趋势。值得注意的是，美国参议员警告国际刑事法院不要将以色列作为目标，称其对美国主权构成威胁。争议在于美国选择性遵守国际法，特别是在保护其盟友方面。]]></description>
-      <guid>https://t.me/hn_summary/93736</guid>
-      <pubDate>Fri, 07 Jun 2024 19:43:48 GMT</pubDate>
+      <title>[媒体] 标题：Arm 对 AI 加速器单元的狂热已经结束</title>
+      <link>https://t.me/hn_summary/93779</link>
+      <description><![CDATA[Arm 已经完全停止了 AI 加速器单元的狂热
+标题：Arm 已经完全停止了 AI 加速器单元的狂热
+
+网站：www.theregister.com
+
+摘要：
+Arm 发布了其最新的 CPU 和 GPU 设计，即 64 位 Armv9.2 Cortex-A925 CPU 和 Immortalis-G925 GPU，旨在到 2024 年底提高下一代 Android 手机和其他个人电子产品的性能和效率。Cortex-A925 有望将性能提高 36%与上一代产品相比，单核峰值性能有所提升，而 Immortalis-G925 GPU 的性能提升了 30%。Arm 还提供这些内核的预优化物理实现，以帮助芯片设计人员应对缩小到 3nm 节点的挑战。有趣的是，Arm 正在抵制定制 AI 加速器的趋势，主张使用 SME2 和 SVE2 等扩展在其 CPU 内核上主要运行 AI 推理。这一立场凸显了与高通等更喜欢定制 NPU 的公司之间的微妙紧张关系。Arm 的新开源库 KleidiAI 旨在简化其 CPU 上的 AI 操作，进一步强调了这种转变。]]></description>
+      <guid>https://t.me/hn_summary/93779</guid>
+      <pubDate>Sat, 08 Jun 2024 00:10:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]archive.org 上提供的“系统思维手册”是……的重要资源。</title>
-      <link>https://t.me/hn_summary/93735</link>
-      <description><![CDATA[系统思维手册
-archive.org 上提供的“系统思维手册”是任何有兴趣了解和应用系统思维原则的人的必备资源。Internet Archive 网站上的 bookreader 功能需要启用 JavaScript，因此请确保相应地调整浏览器设置。这本手册提供了系统思维的全面指南，提供实用练习和见解，帮助读者掌握复杂系统及其相互依赖关系。无论您是新手还是专家，这本手册都旨在提高您的解决问题的能力和战略思维。]]></description>
-      <guid>https://t.me/hn_summary/93735</guid>
-      <pubDate>Fri, 07 Jun 2024 19:37:40 GMT</pubDate>
+      <title>[媒体]《纽约时报》的文章《俄罗斯入侵期间乌克兰失去了什么》提供了[...]</title>
+      <link>https://t.me/hn_summary/93778</link>
+      <description><![CDATA[俄罗斯入侵期间乌克兰失去了什么
+《纽约时报》文章《俄罗斯入侵期间乌克兰失去了什么》全面概述了持续冲突造成的广泛破坏。该报告利用卫星数据和专家分析，揭示了乌克兰的破坏程度超过了许多二战后冲突。破坏如此巨大，以至于被摧毁的建筑物比曼哈顿被夷为平地四次还要多。文章重点介绍了乌克兰东部小镇马林卡的毁灭，说明了当地居民遭受的个人和社区损失。冲突破坏了 900 多个受保护地点，包括学校和医院，违反了《日内瓦公约》。由于一些地区缺乏准确的数据，损失的真实程度可能比报道的还要大。这篇文章强调了流离失所的乌克兰人所遭受的情感创伤，他们中的许多人都深感思乡之情，对未来感到迷茫。克里姆林宫没有回应有关破坏的询问，这给叙述增添了一层争议。（根据 78% 的故事文本总结。）]]></description>
+      <guid>https://t.me/hn_summary/93778</guid>
+      <pubDate>Fri, 07 Jun 2024 23:56:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 Lorenzo Sci 提交给 arXiv 的论文“图卷积分支定界”中 [...]</title>
-      <link>https://t.me/hn_summary/93734</link>
-      <description><![CDATA[图卷积分支定界
-在 Lorenzo Sciandra 及其同事提交给 arXiv 的论文“图卷积分支定界”中，作者探讨了将深度学习模型集成到 NP 问题的优化算法中。他们专注于旅行商问题 (TSP)，并描述了一种解决该问题的传统分支定界方法。创新之处在于他们的混合方法，称为“图卷积分支定界”，它将经典算法与图卷积神经网络 (GCNN) 相结合。这种集成可以更快、更有效地识别最佳解决方案。实证结果证明了这种方法的有效性，为未来的研究指明了有希望的途径。这里的独特之处在于巧妙地使用 GCNN 来增强经典优化技术。]]></description>
-      <guid>https://t.me/hn_summary/93734</guid>
-      <pubDate>Fri, 07 Jun 2024 19:31:32 GMT</pubDate>
+      <title>[媒体] Batfish 是一个开源网络验证工具，旨在确保 [...] 的正确性。</title>
+      <link>https://t.me/hn_summary/93777</link>
+      <description><![CDATA[Batfish：OSS 网络配置静态分析、查找错误、测试正确性
+Batfish 是一种开源网络验证工具，旨在确保网络配置的正确性，以实现安全性、可靠性和合规性。它根据设备配置创建全面的网络行为模型，以识别策略违规行为。Batfish 特别适用于在部署之前验证配置更改，从而解决网络自动化工作流程中的一个关键差距。与其他工具不同，Batfish 不需要直接访问网络设备，而是依赖于配置文件和可选的网络信息，如 BGP 路由和拓扑数据。它支持各种网络设备并提供广泛的正确性检查。用户可以轻松使用 Docker 和 Python SDK Pybatfish 开始使用。]]></description>
+      <guid>https://t.me/hn_summary/93777</guid>
+      <pubDate>Fri, 07 Jun 2024 23:56:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在最新的 Obsidian 1.6 桌面更新中，我们解决了几个长期存在的问题 [...]</title>
+      <link>https://t.me/hn_summary/93776</link>
+      <description><![CDATA[Obsidian 1.6 桌面版（公开）
+在最新的 Obsidian 1.6 桌面版更新中，我们解决了几个长期存在的问题并引入了重大改进。值得注意的是，我们增强了对从右到左 (RTL) 语言的支持，编辑器现在会自动检测每行语言方向，并在设置为 RTL 语言时镜像界面。我们还改进了脚注的编辑和阅读体验，添加了大量错误修复，并提高了性能以加快加载和编辑速度。主要亮点包括隐藏应用程序功能区、实时字符和字数更新以及改进的工作区加载。此外，Obsidian Sync 已针对更好的性能和用户体验进行了优化。此更新包含许多小而有影响力的改进，可确保更流畅、更高效的用户体验。]]></description>
+      <guid>https://t.me/hn_summary/93776</guid>
+      <pubDate>Fri, 07 Jun 2024 23:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] CodeAid：基于法学硕士的编码助手的课堂部署</title>
+      <link>https://t.me/hn_summary/93775</link>
+      <description><![CDATA[CodeAid：基于 LLM 的编码助手的课堂部署
+CodeAid：基于 LLM 的编码助手的课堂部署
+
+Austin Z. Henley 和 Majeed Kazemitabaar 总结了他们关于 CodeAid 的 CHI&#39;24 论文，CodeAid 是一款专为教育环境设计的 LLM 驱动的编码助手。CodeAid 通过解释代码、生成伪代码和建议改进来帮助学生，而无需透露直接解决方案。CodeAid 在 700 名学生的 C 编程课程中部署，有 372 名用户和 8000 个查询。研究显示使用模式多样，响应质量普遍较高，但一些学生更喜欢不那么直接的帮助。教育工作者欣赏结构化的帮助，但担心伪代码会透露太多信息。这项研究强调了教育领域对平衡、透明的人工智能工具的需求。值得注意的是，尽管存在限制，但学生仍然更多地使用 ChatGPT，而不是 CodeAid，因为它易于使用。]]></description>
+      <guid>https://t.me/hn_summary/93775</guid>
+      <pubDate>Fri, 07 Jun 2024 23:42:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 www.filfre.net 上的“Zork 的最后日子”中，作者反思了 [...] 令人惊讶的遗产。</title>
+      <link>https://t.me/hn_summary/93774</link>
+      <description><![CDATA[Zork 的最后日子
+在www.filfre.net上的“Zork 的最后日子”中，作者回顾了 Infocom 的惊人遗产，Infocom 是一家 20 世纪 80 年代的小型文字冒险游戏公司，它拯救了 Activision 免于破产。1991 年 Bobby Kotick 恶意收购 Activision 后，他发现了 Infocom 的旧文字冒险游戏，并将它们重新包装为“Infocom 的失落宝藏”，销量非常好。这一成功让 Activision 有时间开发“重返 Zork”，这是一款图形先进但设计不佳的游戏，尽管如此，它还是卖出了数十万份。文章将其与“Zork Nemesis”进行了对比，这是一款受“Myst”启发的更黑暗、更复杂的游戏，尽管质量很高，但感觉与传统的“Zork”系列脱节。争议在于“Zork Nemesis”被宣传为“Zork”游戏，尽管它与该系列的基调和主题截然不同。独特的转折是作者的理论，后来被揭穿，即“Zork Nemesis”最初是一款非 Zork 游戏，为了销售而重新命名。（基于 36% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/93774</guid>
+      <pubDate>Fri, 07 Jun 2024 23:41:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：obsidian.md</title>
+      <link>https://t.me/hn_summary/93773</link>
+      <description><![CDATA[Obsidian 1.6
+标题：Obsidian 1.6 
+网站：obsidian.md
+
+在《第一哲学沉思录》中，哲学家勒内·笛卡尔探讨了对现实本质的深刻怀疑，最终得出了他标志性的断言：“我思故我在”。笛卡尔认为，怀疑本身就需要思考，因此，思考本身就是一个人存在的证明。这一哲学基石强调了认知与存在之间的内在联系，这一概念对西方思想产生了深远影响。内容有趣地将笛卡尔的冥想与“思考，快与慢”和“事物”等现代参考文献并列，提供了古典哲学与当代文化的独特融合。]]></description>
+      <guid>https://t.me/hn_summary/93773</guid>
+      <pubDate>Fri, 07 Jun 2024 23:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 彭博社报道称，苹果即将推出一款名为“密码”的新应用，旨在[...]</title>
+      <link>https://t.me/hn_summary/93772</link>
+      <description><![CDATA[苹果将推出“密码”应用，与 1Password 和 LastPass 竞争
+彭博社报道称，苹果即将推出一款名为“密码”的新应用，旨在与 1Password 和 LastPass 等知名密码管理器直接竞争。此举标志着苹果在网络安全和个人数据管理领域进一步深入，利用其生态系统为用户提供无缝体验。推出“密码”可能会扰乱当前市场，引发人们对现有参与者将如何应对的疑问。值得注意的是，苹果对隐私和安全的关注可能会给它带来优势，但也引发了人们对垄断行为和扼杀竞争可能性的担忧。]]></description>
+      <guid>https://t.me/hn_summary/93772</guid>
+      <pubDate>Fri, 07 Jun 2024 23:39:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
