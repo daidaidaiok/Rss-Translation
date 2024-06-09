@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 09 Jun 2024 09:06:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 12:09:01 GMT</lastBuildDate>
     <item>
       <title>易填充 2</title>
       <link>https://www.producthunt.com/posts/easyfiller-2</link>
@@ -23,7 +23,7 @@
       <title>YClipper</title>
       <link>https://www.producthunt.com/posts/yclipper</link>
       <description><![CDATA[
-免费的极简主义 YouTube Reels 制作器
+免费的极简主义 YouTube 卷轴制作器
 
 
 讨论
@@ -93,7 +93,7 @@ AI 时尚辅助
       <title>吉特兔</title>
       <link>https://www.producthunt.com/posts/gitrabbit</link>
       <description><![CDATA[
-使用 GitRabbits 洞察提升 GitHub 上的一致性！
+使用 GitRabbits 洞察提高 GitHub 上的一致性
 
 
 讨论
@@ -132,6 +132,20 @@ AI 时尚辅助
       <pubDate>Wed, 05 Jun 2024 13:21:50 GMT</pubDate>
     </item>
     <item>
+      <title>简单正常运行时间</title>
+      <link>https://www.producthunt.com/posts/simple-uptime</link>
+      <description><![CDATA[
+在 Slack 中监控网站和服务器的运行状况
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/simple-uptime</guid>
+      <pubDate>Wed, 05 Jun 2024 09:58:06 GMT</pubDate>
+    </item>
+    <item>
       <title>兹诺特</title>
       <link>https://www.producthunt.com/posts/znote-4</link>
       <description><![CDATA[
@@ -144,20 +158,6 @@ AI 时尚辅助
 ]]></description>
       <guid>https://www.producthunt.com/posts/znote-4</guid>
       <pubDate>Tue, 04 Jun 2024 14:53:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费博客文章 CTA 生成器</title>
-      <link>https://www.producthunt.com/posts/free-blog-post-cta-generator</link>
-      <description><![CDATA[
-通过激发读者采取行动来获取更多潜在客户
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/free-blog-post-cta-generator</guid>
-      <pubDate>Mon, 03 Jun 2024 01:49:52 GMT</pubDate>
     </item>
     <item>
       <title>Kit.域</title>
@@ -177,7 +177,7 @@ AI 时尚辅助
       <title>牧师</title>
       <link>https://www.producthunt.com/posts/reliv</link>
       <description><![CDATA[
-适用于初创企业的最快 QA 自动化
+适用于初创公司的最快 QA 自动化
 
 
 讨论
