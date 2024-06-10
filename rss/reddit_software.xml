@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 10 Jun 2024 12:08:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 15:06:17 GMT</lastBuildDate>
+    <item>
+      <title>是否有一个应用程序可以追踪活动费用，例如健身房课程费用？</title>
+      <link>https://www.reddit.com/r/software/comments/1dcmu8q/is_there_an_app_to_track_event_cost_like_gym/</link>
+      <description><![CDATA[我正在寻找一款可以在 Android 上运行的应用，如果不是，那么可以在 Windows 上运行  我每周一、周三和周五支付健身房会员费，聘请私人教练  我每月支付 W 金额的健身房会员费 我支付 X 金额，参加 12 次 PT 课程（我提前支付了 12 次课程）  我支付 Y 金额，参加每周 3 次物理治疗课程（我提前支付了 5 次课程） 我支付 Z 金额，参加每周 1 次水疗课程（我提前支付了 5 次课程）  如您所见，我有很多付款需要跟踪，而且大多数都是提前支付的，我想从我这边跟踪以了解下一次付款的时间。 我正在寻找一款类似日历的应用，可以在其中指定每周重复的事件，但不同之处在于，如果我执行该事件，它会跟踪成本，并可以告诉我还剩下 2 个课程。 我想指定课程数量的预算，如果我不能去，可以关闭事件，接收通知，如果可能的话，连接到 Google 日历。 如果价格合理，我不介意为该应用付费，但我不想按月订阅，我愿意一次性付款。    提交人    /u/lynob   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1dcmu8q/is_there_an_app_to_track_event_cost_like_gym/</guid>
+      <pubDate>Mon, 10 Jun 2024 14:27:44 GMT</pubDate>
+    </item>
     <item>
       <title>微软办公软件</title>
       <link>https://www.reddit.com/r/software/comments/1dcjmin/microsoft_office/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>寻找有轨电车工作站局域网调节软件的建议。</title>
       <link>https://www.reddit.com/r/software/comments/1dcd7ci/looking_for_a_tram_workstation_lan_moderation/</link>
-      <description><![CDATA[寻找 3-4 个适用于 Windows 工作站管理、监控和访问控制软件的建议。 1) 限制/取消限制 usb/dvd 驱动器访问。 2) 通过远程更改 tcp/ip 来阻止任何互联网访问 &amp;网络上的远程系统上的调制解调器驱动程序。 3）如果需要，未经他们的同意定期对工作站进行屏幕截图 4）远程阻止取消阻止 Windows 上的多媒体驱动程序。 5）远程发送 Windows 更新并激活它们。 6）远程将用户从 LAN 和 Windows 系统中注销 7）远程控制对网络打印机的访问权限 8）能够根据组织结构远程删除对驱动器分区的访问权限。 9）根据组织结构远程禁用网络摄像头、麦克风和扬声器。    提交人    /u/usmannaeem   [链接] [评论]]]></description>
+      <description><![CDATA[寻找 3-4 个适用于 Windows 工作站管理、监控和访问控制软件的建议。 1) 限制/取消限制 usb/dvd 驱动器访问。 2) 通过远程更改 tcp/ip 来阻止任何互联网访问 &amp;网络上的远程系统上的调制解调器驱动程序。 3）如果需要，无需征得他们的同意，定期对工作站进行屏幕截图 4）远程阻止取消阻止 Windows 上的多媒体驱动程序。 5）远程发送 Windows 更新并激活它们。 6）远程将用户从 LAN 和 Windows 系统中注销 7）远程控制对网络打印机的访问权限 8）能够根据组织结构远程删除对驱动器分区的访问权限。 9）根据组织结构远程禁用网络摄像头、麦克风和扬声器。    提交人    /u/usmannaeem   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1dcd7ci/looking_for_a_tram_workstation_lan_moderation/</guid>
       <pubDate>Mon, 10 Jun 2024 04:34:40 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在使用 DIGITNOW 的一款相当便宜的采集卡，几年前在亚马逊上买的。 我已经检查过了，似乎没有专门为这张卡制作的软件。 输出通过 USB 作为网络摄像头输出发送，但如果我想将其流式传输到 discord，它会以镜像形式出现，这是由于 discord 的自动摄像头“镜像”。  我正在寻找一种软件，它允许我镜像原始素材，而不必通过 OBS/Streamlabs 运行它，这样我就可以直接将其流式传输到 discord。 不幸的是，到目前为止，我还没有真正在网上找到我要找的东西。     提交人    /u/Dragonrasa   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1dc8zis/open_source_software_to_mirror_capture_card/</guid>
       <pubDate>Mon, 10 Jun 2024 00:46:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>“实时”文本文件的文本转语音。</title>
-      <link>https://www.reddit.com/r/software/comments/1dc7yzg/text_to_speech_of_a_live_text_file/</link>
-      <description><![CDATA[我正在寻找一个可以读取不断更新的文本文件的程序。  我想知道人工智能工具“Lovo”是否有能力做到这一点，这样我就可以添加自定义声音。    提交人    /u/TheRedNeo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dc7yzg/text_to_speech_of_a_live_text_file/</guid>
-      <pubDate>Sun, 09 Jun 2024 23:54:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
