@@ -3,8 +3,78 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 10 Jun 2024 03:06:32 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Mon, 10 Jun 2024 09:07:43 GMT</lastBuildDate>
+    <item>
+      <title>有人后悔使用 Valtio 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dcgytm/anyone_regret_using_valtio/</link>
+      <description><![CDATA[如果我需要状态管理库，一段时间以来我的首选是 Zustand 和 Valtio（我个人将 TanStack Query 和 Apollo Client 等数据获取库放在不同的类别中）。  作者讨论了每个库的优缺点：   https://x.com/dai_shi/status/1343694177884721152 https://github.com/pmndrs/zustand/issues/483   我的方法是在状态不是那么复杂时使用 Zustand，因为它易于使用且可预测。如果我有复杂的（例如深度嵌套的）状态，我会选择 Valtio，因为我发现可变更新更简单，需要编写的代码更少。 但是我过去遇到过 Valtio 的问题。如果您订阅的是对象状态的一部分，并且删除/替换了该对象（而不是修改它的一个键），那么订阅将不起作用。Zustand 没有这个怪癖。 我喜欢将 Valtio 用于个人项目，尤其是当我在做一些比“常规”网络应用程序更复杂的事情时，但我从未在大型公司使用过它。 有人遇到过 Valtio 的重大问题吗？我不会放弃使用它，只是好奇我还应该注意什么。    提交人    /u/james_codes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dcgytm/anyone_regret_using_valtio/</guid>
+      <pubDate>Mon, 10 Jun 2024 08:54:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Auth0 表单注册</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dcg7mf/auth0_forms_signup/</link>
+      <description><![CDATA[我的目标是使用 auth0 表单系统，以便在注册过程发生时显示表单，但在登录时不显示。这是我现在的代码  exports.onExecutePostLogin = async (event, api) =&gt; { const FORM_ID = &#39;ap_jfFPNFaDBS52tUT5uTE8Te&#39;; api.prompt.render(FORM_ID); } exports.onContinuePostLogin = async (event, api) =&gt; {}     提交人    /u/lordnimnim   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dcg7mf/auth0_forms_signup/</guid>
+      <pubDate>Mon, 10 Jun 2024 07:57:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何确保脚本是第一个被执行的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dcfv2u/how_to_ensure_a_script_is_the_first_to_be_executed/</link>
+      <description><![CDATA[是否可以确保通过带有 src 属性的脚本标记添加到 DOM 的 JavaScript 函数首先由浏览器执行？如果是这样，考虑到页面的功能不依赖于此脚本，如何实现？ 编辑：该脚本不需要 DOM，因为它只会监视指标并跟踪其他留下的脚本。基本上是一个多功能观察员。    提交人    /u/roptesambir   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dcfv2u/how_to_ensure_a_script_is_the_first_to_be_executed/</guid>
+      <pubDate>Mon, 10 Jun 2024 07:31:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>被骗了，网络是我唯一的希望</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dcfesi/defrauded_and_web_is_my_only_hope/</link>
+      <description><![CDATA[和许多人一样，在疫情期间，我搬到了美国气候更温暖的地方。当时房地产市场非常火爆，库存非常低，我找不到适合我不断壮大的家庭购买的东西。我们在一家酒店住了两个月，试图购买被全现金买家抢购一空的房子，直到我最终不得不放弃，在一个很棒的学区租了一套房子，但对于我不断壮大的家庭来说，这套房子太小了。 长话短说，我家的房主（房东）使用的物业管理公司（代理人）已在州政府正式注册。此外，物业管理公司（代理人）由拥有经纪人执照的个人所有，这是州政府的要求。但是，管理我租住房屋的物业经理 1) 未获得法律要求的州政府许可，并且 2) 根据互联网搜索，他并不存在。 与我打交道的个人（化名）通过电子邮件和短信说了并做了如此令人震惊的事情，我向州政府机构（包括许可机构）和互联网上的所有地方进行了核实。在询问了他的身份和执照状态后，他消失了。他不再回复短信、语音邮件，物业管理公司的主号码也不会接听我的电话。此外，他在公司网站上的照片和个人资料已被删除……但我需要你的帮助……在我与他对质之前，我可以在网上档案中找到他的照片和头衔。我甚至将照片下载到了我的手机上。但是，现在，在那些档案网站上找不到他了。 有人怎么可能从主要的网络档案网站中删除这些内容？我如何向当局展示最初发布到网络上的内容？谢谢。    由    /u/GradyWhiteTech 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dcfesi/defrauded_and_web_is_my_only_hope/</guid>
+      <pubDate>Mon, 10 Jun 2024 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否可以使用纯 React 或 NextJS 构建 Shopify 应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dcesfl/is_it_possible_to_build_a_shopify_app_with_plain/</link>
+      <description><![CDATA[我正在使用 shopify 构建应用程序，但我找不到任何专注于纯 React 的文档，每篇文档都充斥着“他是 Remix 模板”，并且没有任何使用纯 React 的指南。我确实对 nextjs 有所了解，但为什么他们如此痴迷于让开发人员使用像 Remix 这样的东西？    提交人    /u/DragonDev24   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dcesfl/is_it_possible_to_build_a_shopify_app_with_plain/</guid>
+      <pubDate>Mon, 10 Jun 2024 06:16:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个站点正遭受攻击？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dceg6c/which_site_is_under_attack/</link>
+      <description><![CDATA[我有一个 VPS，使用 WHM / cPanel 和 CentOS 7。 我的服务器负载一整天都有点高（凌晨 2 点为 3.2），我在 Apache 日志中看到某个部分正在受到重击！ 不过，我在主域名上停放了大约 100 个域名，每个域名都在 Cloudflare 中单独设置。 关于如何找到 ping 所针对的域名，有什么建议吗？我宁愿在 CF 中专门为该域名设置一个临时规则，而不是让所有域名都下线。    提交人    /u/csdude5   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dceg6c/which_site_is_under_attack/</guid>
+      <pubDate>Mon, 10 Jun 2024 05:54:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件开发的演变：塑造未来的趋势</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dcdv24/the_evolution_of_software_development_trends/</link>
+      <description><![CDATA[        提交人    /u/anujtomar_17   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dcdv24/the_evolution_of_software_development_trends/</guid>
+      <pubDate>Mon, 10 Jun 2024 05:15:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何确保应用程序正常运行？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dcds0n/how_to_make_sure_app_works_correctly/</link>
+      <description><![CDATA[我是编程新手，正在开发一个 SaaS 网络应用。代码很乱，有很多错误。我的噩梦尤其与 Stripe 订阅有关 - 如果我将其投入生产并且出现问题，用户将无法获得他们所支付的内容并进行退款。 我应该如何继续？    由   提交  /u/ProLessSkill   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dcds0n/how_to_make_sure_app_works_correctly/</guid>
+      <pubDate>Mon, 10 Jun 2024 05:09:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁付钱给你？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dcdpjb/who_pays_you/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dcdpjb/who_pays_you/</guid>
+      <pubDate>Mon, 10 Jun 2024 05:05:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>处理多语言支持的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dccjg4/whats_the_best_way_to_handle_multilanguage_support/</link>
+      <description><![CDATA[基本上是标题。 我们将开发一个 Web 应用程序，并升级现有的 Web 应用程序，以获得多语言支持。 目前，我们正在考虑支持：  英语 西班牙语 土耳其语 荷兰语 - 潜在  根据我们所见以及在线文章，我们能想到的最佳方法是创建一个键值对对象数组，并在运行时/预加载时“热交换”关键字。 但是，这意味着对于每次内容更新，我们都需要四处走动并更新所有语言文件以添加新关键字。  这引出了第二个问题，我们如何有效地管理从英语到 X 的转换？ 在此阶段，我们将把英语键值语言列表（原样或 csv/xlsx）发送给供应商/经销商/客户，以便他们转换为他们的语言并返回给我们实施……  我不禁觉得有更好的方法？欢迎提出任何建议和想法。    提交人    /u/WG_Odious   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dccjg4/whats_the_best_way_to_handle_multilanguage_support/</guid>
+      <pubDate>Mon, 10 Jun 2024 03:57:09 GMT</pubDate>
+    </item>
     <item>
       <title>在工作中向其他开发人员提问？？？</title>
       <link>https://www.reddit.com/r/webdev/comments/1dcaur6/asking_other_developers_questions_at_work/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[      大家好！在 VS Code 的 Live Server 上，我点击了位于文件夹根目录的 index.html 上的“上线”。使用下面的“a”标签，我导航到位于项目目录子文件夹中的 plot.html。当我导航到 plot.html 时，我的导航栏具有与 index.html 导航栏完全相同的 HTML（这正是我想要的）。但是，当我尝试转到“主页”时，当我通过 Live Server 在 Chrome 上访问我的 plot.html 时，我单击导航栏上的“主页”按钮，系统会显示“无法获取 /other-pages/index.html。这不是我的索引的路径。索引位于根目录。有人遇到过这种情况吗？ https://preview.redd.it/mc4qz4j1rm5d1.png?width=793&amp;format=png&amp;auto=webp&amp;s=4900197e141613f33249fb676e7ef765aabb0e80    提交人    /u/orangeswirlguy   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dc7hux/vs_code_live_server_cannot_get_xyz_error/</guid>
       <pubDate>Sun, 09 Jun 2024 23:31:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为初学者制作了一份“基本 Web 开发概念”清单</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dc6uby/i_made_a_basic_web_dev_concepts_checklist_for/</link>
-      <description><![CDATA[我制作了一个针对完全初学者的概念清单（最初是为朋友准备的，但我想在这里分享），这些初学者刚刚开始尝试进入Web 开发，或者对于那些想要简要了解 Web 开发所包含的内容的人（例如，我是一名希望开始进行后端开发的前端开发人员）。希望这会有所帮助！ https://tickables.com/checklist/01cb6494-59c6-4245-ac89-609f5987b1c4   由    /u/WoodRawr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dc6uby/i_made_a_basic_web_dev_concepts_checklist_for/</guid>
-      <pubDate>Sun, 09 Jun 2024 23:00:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解如何为技能树制作动画的资源</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dc5kpn/resources_to_figure_out_how_to_animate_skill_tree/</link>
-      <description><![CDATA[我正在创建这个 Web 应用程序，它有一个技能树组件。我正在考虑使用 Framer Motion 为其制作动画。我不确定如何设想我希望这棵树如何制作动画（我想象它会像花朵盛开或类似的东西）。我如何才能弄清楚 Framer Motion 有什么可以用于这项任务，以及如何获得关于如何为树制作动画的灵感？    提交者    /u/PCWeekjeff   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dc5kpn/resources_to_figure_out_how_to_animate_skill_tree/</guid>
-      <pubDate>Sun, 09 Jun 2024 22:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪个前端 + 无头 CMS 堆栈拥有最多的用户和最多的社区支持？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dc53rz/what_frontend_headless_cms_stack_has_the_most/</link>
-      <description><![CDATA[我在想也许是 Next.js 和 Strapi？我将作为一个小业余项目来启动这样一个项目，并希望确保我使用最流行和支持最多的堆栈，以便于寻求帮助。    提交人    /u/---_____----_____   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dc53rz/what_frontend_headless_cms_stack_has_the_most/</guid>
-      <pubDate>Sun, 09 Jun 2024 21:42:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于如何建立股票列表网站的想法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dc4qps/ideas_on_how_to_build_a_stock_listing_website/</link>
-      <description><![CDATA[嗨， 我正在寻找构建股票列表网站的想法。股票列表已在 Google 表格中维护。我想要  只有注册的授权成员才能查看 通过某些 API 自动提取股票最新价格进行实时更新 我应该能够每天添加注释和活动，并且应该将它们存档 如果我在注释中标记股票，它应该自动与该股票链接 用户应该能够根据股票代码搜索任何股票和注释 在一天结束时更新投资组合规模 股票仪表板 根据平仓更新回报  我是一名软件开发人员，但不确定是否可以从头开始构建并托管在 aws 或 azure 上。我一直想在泡沫中构建，但后来我看到了褒贬不一的评论，也有人抱怨成本可能非常高。 由于我是一名开发人员，我将采取的默认路线是使用一些反应主题从头开始编写代码，但我有点倾向于低代码解决方案。 因此，我正在寻找经验丰富的开发人员，了解您在 2024 年解决这个问题的方法是什么？    提交人    /u/skillguru   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dc4qps/ideas_on_how_to_build_a_stock_listing_website/</guid>
-      <pubDate>Sun, 09 Jun 2024 21:26:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一些职业建议（重返 Webdev！）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dc3pmn/need_some_career_advice_returning_to_webdev/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dc3pmn/need_some_career_advice_returning_to_webdev/</guid>
-      <pubDate>Sun, 09 Jun 2024 20:43:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>深入研究 TypeScript 5.5 候选版本</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dc3jun/dive_into_typescript_version_55_release_candidate/</link>
-      <description><![CDATA[        提交人    /u/Puzzleheaded_Ad4030   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dc3jun/dive_into_typescript_version_55_release_candidate/</guid>
-      <pubDate>Sun, 09 Jun 2024 20:36:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是不是唯一一个不愿意从无名项目学习新 API 而只为客户的亲密项目的人？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dc3a1w/am_i_alone_who_hate_to_learn_new_api_from_noname/</link>
-      <description><![CDATA[你有什么想法？    提交人    /u/Direct-Lengthiness-8   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dc3a1w/am_i_alone_who_hate_to_learn_new_api_from_noname/</guid>
-      <pubDate>Sun, 09 Jun 2024 20:24:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们使用 css/tailwind 或 ui 框架吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dc1sa4/do_you_guys_use_csstailwind_or_ui_framework/</link>
-      <description><![CDATA[如果您正在为客户或您的附带项目构建，那么您基本上使用什么 - ui 框架或 css/tailwind？    提交人    /u/shesparkzz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dc1sa4/do_you_guys_use_csstailwind_or_ui_framework/</guid>
-      <pubDate>Sun, 09 Jun 2024 19:22:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名 Web 开发人员，如何获得第一份自由职业？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dc1q6f/how_to_get_first_freelancing_gig_as_a_web/</link>
-      <description><![CDATA[如果你是自由职业者..那么你是如何获得第一份自由职业工作的？我是一名全栈开发人员..希望获得一份自由职业工作，但不确定如何赢得一份工作？选择哪个平台，因为它们很拥挤..？    提交人    /u/shesparkzz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dc1q6f/how_to_get_first_freelancing_gig_as_a_web/</guid>
-      <pubDate>Sun, 09 Jun 2024 19:19:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Postgres 的应用程序的通知程序模式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dc1duk/the_notifier_pattern_for_applications_that_use/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dc1duk/the_notifier_pattern_for_applications_that_use/</guid>
-      <pubDate>Sun, 09 Jun 2024 19:04:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

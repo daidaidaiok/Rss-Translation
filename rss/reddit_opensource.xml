@@ -4,13 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 10 Jun 2024 06:07:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 09:07:49 GMT</lastBuildDate>
     <item>
-      <title>软件开发的演变：塑造未来的趋势</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dcdvb1/the_evolution_of_software_development_trends/</link>
-      <description><![CDATA[        提交人    /u/anujtomar_17   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dcdvb1/the_evolution_of_software_development_trends/</guid>
-      <pubDate>Mon, 10 Jun 2024 05:15:46 GMT</pubDate>
+      <title>开源新手</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dceq2w/new_to_open_source/</link>
+      <description><![CDATA[嗨，我是一名新手开发者，我遇到过很多开发者求助于开源软件而不是闭源软件。例如，使用 coolify 而不是 vercel。我的问题是，coolify 也是付费的，是什么让它成为比 vercel 更好的选择？    提交人    /u/FullEntrepreneur7054   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dceq2w/new_to_open_source/</guid>
+      <pubDate>Mon, 10 Jun 2024 06:12:26 GMT</pubDate>
     </item>
     <item>
       <title>#OpenSourceDiscovery 89 - 证据，使用 Markdown 中的 SQL 进行数据可视化</title>
@@ -78,7 +78,7 @@
     <item>
       <title>你们的开源项目有网站吗？你们用什么网站？</title>
       <link>https://www.reddit.com/r/opensource/comments/1dbtb2c/do_you_have_website_for_your_opensource_what_do/</link>
-      <description><![CDATA[大家好， 我不是 webdev（但我可以管理后端和前端 - 成功完成过几次），并且我正在运行这个副项目。我想为它设置一些无忧的网站。我有一个数字海洋服务器，非常适合所有自定义后端，但我想拥有一些我不必担心的东西。我已经有域名了。 所以我想知道您在项目网站上使用了什么？您推荐任何工具来制作布局等。 也分享您的项目和网站！ 编辑：显然，GitHub 很棒，但技术水平较低或非技术水平的人多次问我是否有一个用于该项目的普通网站。    提交人    /u/TraditionalDistrict9   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我不是 webdev（但我可以管理后端和前端 - 成功完成过几次），并且我正在运行这个副项目。我想为它设置一些无忧的网站。我有一个数字海洋服务器，它非常适合所有自定义后端，但我想拥有一些我不必担心的东西。我已经有域名了。 所以我想知道您在项目网站上使用了什么？您推荐任何工具来制作布局等。 也分享您的项目和网站！ 编辑：显然，GitHub 很棒，但技术水平较低或非技术水平的人多次问我是否有一个用于该项目的普通网站。    提交人    /u/TraditionalDistrict9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dbtb2c/do_you_have_website_for_your_opensource_what_do/</guid>
       <pubDate>Sun, 09 Jun 2024 13:06:26 GMT</pubDate>
     </item>
