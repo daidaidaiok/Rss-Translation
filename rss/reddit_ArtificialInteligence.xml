@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 10 Jun 2024 21:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 00:17:43 GMT</lastBuildDate>
+    <item>
+      <title>人工智能发展为何突然大幅放缓？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dd0lzs/why_has_ai_development_slowed_down_significantly/</link>
+      <description><![CDATA[几个月前，我们基本上每周都会取得进展，甚至每天都会取得进展 现在几周/几个月以来，AI 似乎已经停滞不前 没有看到 SORA（尽管 Kling 看起来很棒，但还不是 SORA 级别），GPT 语音模式无处可寻，除了这里和那里无用的炒作视频，没有新模型或任何新模型的暗示 Apple 展示了其“Apple”Intelligence，但距离发布还有 5-6 个月的时间 这对我来说似乎没有什么吸引力 我以为今年夏天 AI 世界会爆发新的进展，我想我错了    提交人    /u/laddie78   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dd0lzs/why_has_ai_development_slowed_down_significantly/</guid>
+      <pubDate>Tue, 11 Jun 2024 00:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么技术可以分析音频样本并按乐器进行分类？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dczf9q/is_there_any_technology_that_can_analyze_audio/</link>
+      <description><![CDATA[作为一名音乐家，多年来我一直梦想着一种简单的方法，将鼓样本、效果、乐器样本等分类到适当的类别中。 有没有软件可以让你做到这一点？     提交人    /u/cloudd_99   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dczf9q/is_there_any_technology_that_can_analyze_audio/</guid>
+      <pubDate>Mon, 10 Jun 2024 23:06:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个想法.....</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dczco3/a_thought/</link>
+      <description><![CDATA[如果人工智能开发者的目标是，有意或无意地让人工智能发展到最终超越人类智能（即形成超级智能，甚至在不同的人工智能项目中形成多个版本）...... 那么，如果它比我们所有人都聪明得多，我们如何知道它是对的还是错的？我们如何控制这样的事情？或者甚至有能力审查它？ 对我来说，这似乎非常鲁莽，有点可怕。甚至不合逻辑。 想法？？    提交人    /u/redhotmericapepper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dczco3/a_thought/</guid>
+      <pubDate>Mon, 10 Jun 2024 23:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找人工智能迷，这里有人吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dcz3vi/looking_for_ai_nerds_anyone_here/</link>
+      <description><![CDATA[期待学习一些人工智能的实现，我觉得自己被每个人都在构建的所有很酷的东西抛在后面了。我有成长型公司和计算机科学的背景，似乎大多数人都有想法或在某种程度上使用人工智能或在该行业进行建设。寻找研究人员或任何有知识或好奇心来学习如何构建和实施人工智能及其用例的人。很乐意联系和聊天。#AI #tech     提交人    /u/Ruturajvihol   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dcz3vi/looking_for_ai_nerds_anyone_here/</guid>
+      <pubDate>Mon, 10 Jun 2024 22:52:38 GMT</pubDate>
+    </item>
     <item>
       <title>Apple Intelligence 已退出市场 - 告别 Rabbit R1 和 Humane AI Pin</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dcuw0c/apple_intelligence_is_out_farewell_rabbit_r1/</link>
@@ -34,13 +62,6 @@
       <pubDate>Mon, 10 Jun 2024 18:17:35 GMT</pubDate>
     </item>
     <item>
-      <title>关于图像到图像技术的 NSFW 请求。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dcpuiy/nsfw_request_about_image_to_image_technology/</link>
-      <description><![CDATA[前言：几年前，我开始收集我欣赏的 nsfw 图片。我希望将来能够将这些图片输入到能够了解我的喜好的 AI 中。我四处寻找，却找不到一个简单的工具来实现这一点。我看到过可用的图像到图像功能，但我有 数千 张图像想要同时输入到模型中。  问题：有这样的工具吗？最好是在线的。我的能力有些有限。我没有好的 GPU，只有便宜的集成笔记本电脑 GPU。当然，即使 GPU 比 CPU 慢得多，也可以用 CPU 替代 GPU。也许这在 2024 年仍然是一个太大的要求，我将不得不再等几年……    提交人    /u/Puzzleheaded_Pop_743   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dcpuiy/nsfw_request_about_image_to_image_technology/</guid>
-      <pubDate>Mon, 10 Jun 2024 16:33:19 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能已经接管了工作！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dcpiub/ai_is_already_taking_jobs/</link>
       <description><![CDATA[大家好， 我想分享一下我对一个我认为影响我们所有人的话题的看法，无论我们是否意识到这一点：人工智能正在抢占工作岗位。现在，在你把我视为婴儿潮一代、末日一代或衰退一代之前，请听我说完。我既不悲观也不抵制技术进步，但我确实相信人工智能已经以微妙但重要的方式蚕食了就业市场。 我的意思是：人工智能可能还没有完全取代整个工作岗位，但它肯定会接管各种工作岗位的一部分。随着这些部分的增加，它们会导致对这些职位的需求减少，最终导致失业。 例如，我最近在与人工智能交谈后取消了与营养师的预约。人工智能为我提供了详细而个性化的饮食建议，这让我有足够的信心不再去看人类专业人士。这似乎是一件小事，但想象一下这种情况发生在不同的行业和职业中。 如果人工智能可以处理我们工作的一部分——无论是提供客户服务、管理日程安排还是提供健康建议——那么累积效应可能是这些角色所需的人更少。随着时间的推移，这会导致全职职位减少，并可能导致更多的失业。 这有点像多米诺骨牌效应：人工智能接管的每一个小部分都会导致就业市场的更大转变。我们需要考虑如何适应这些变化，无论是通过新技能、不同的职业道路，还是找到与人工智能一起工作而不是被它取代的方法。 这是人工智能接管部分工作的另一个例子：人工智能写了这篇文章。通过使用人工智能来生成内容，我节省了通常要自己撰写这篇文章的时间和精力。虽然这很方便，但它也凸显了人工智能如何能够执行传统上由人类完成的任务，进一步展示了工作动态的转变。 你有什么想法？您是否经历过类似的事情，AI 会影响您的工作或您使用的服务？您使用什么策略来缓解即将到来的变化？让我们讨论一下吧！ TL;DR：AI 不仅是未来对工作的威胁——它已经接管了各种角色的部分工作，导致全职职位减少。在得到 AI 的建议后，我取消了营养师的预约，AI 也写了这篇文章。让我们讨论一下 AI 如何影响我们的工作以及我们能做些什么。    提交人    /u/chris24H   [link] [评论]]]></description>
@@ -48,32 +69,11 @@
       <pubDate>Mon, 10 Jun 2024 16:19:39 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-4 在预测盈利增长方面的表现优于人类金融分析师</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dcnwbm/gpt4_outperforms_human_financial_analysts_in/</link>
-      <description><![CDATA[在一项突破性进展中，芝加哥大学的研究人员发现，OpenAI 的 GPT-4 大型语言模型 (LLM) 在预测未来公司收益方面的表现优于人类金融分析师。这一发现可能对未来的财务分析和投资策略产生重大影响。 阅读更多    提交人    /u/Write_Code_Sport   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dcnwbm/gpt4_outperforms_human_financial_analysts_in/</guid>
-      <pubDate>Mon, 10 Jun 2024 15:12:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为未来“AI创意者”会有工作吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dcnibl/do_you_think_there_are_going_to_be_jobs_for_an_ai/</link>
-      <description><![CDATA[所以，我是一个职业生涯中期的创意人士，在过去两年中，我非常喜欢在人工智能的帮助下创作图形、视频、音乐等。在业余时间，我发现自己会深入探索各种生成式人工智能，以我从未创造过的方式进行创作，这真的很有趣。我现在已经足够老了，几十年来，我看到我的“有趣爱好”变成了更大的东西，但我没有足够认真地对待它们，错过了机会。 这让我想到了标题中的问题。我正处于职业生涯的某个阶段，我一直在寻找本专业的大学教授工作，但随着人工智能的兴起，我开始质疑一切，尤其是当我想到未来学生和创意人士的世界时。 我很想开始积极转型，并寻求某种涉及利用人工智能的新创意职业道路。但是，考虑到这一切都是多么新鲜，显然没有通往这些虚构工作的途径，而且我怀疑是否存在任何这样的工作，因为我认为大多数与人工智能相关的工作都属于开发方面。 无论如何，当我思考我自己的职业生涯走向时，您心目中的创意工作的未来是什么样的；电影制作人/设计师/音乐家有没有办法领先于它？    提交人    /u/dutch-dutch-dutch   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dcnibl/do_you_think_there_are_going_to_be_jobs_for_an_ai/</guid>
-      <pubDate>Mon, 10 Jun 2024 14:56:46 GMT</pubDate>
-    </item>
-    <item>
       <title>麻省理工学院专家打造人工智能聊天机器人，让你与 60 岁的自己对话</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dcl2bk/mit_experts_create_ai_chatbot_that_lets_you_speak/</link>
       <description><![CDATA[AI 聊天机器人不再局限于协助完成日常任务，如撰写论文、编码和行程规划。研究人员突破界限，开发出一种革命性的 AI，让您与未来的自己建立联系。 在此处阅读完整故事：https://www.ibtimes.co.uk/mit-experts-create-ai-chatbot-that-lets-you-speak-60-year-old-version-you-1724940    提交人    /u/vinaylovestotravel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dcl2bk/mit_experts_create_ai_chatbot_that_lets_you_speak/</guid>
       <pubDate>Mon, 10 Jun 2024 13:06:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管有内容政策，人们如何设法创建受保护的许可证图像？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dckgsq/how_do_people_manage_to_create_protected_license/</link>
-      <description><![CDATA[我正在为朋友们准备一款角色扮演游戏，因为他们将在霍格沃茨扮演自己，所以我想让人工智能根据一张照片重新绘制他们，并给他们穿上他们选择的房屋的衣服，采用《JoJo的奇妙冒险》的绘画风格。 它仅供个人使用，这些图画不会出现在任何地方，我并没有试图破解任何东西……这只是让他们拥有自己的代币，上面有围绕我们都喜欢的主题的有趣图像。 但我遇到了不同 AI 的内容政策，所以我不明白人们如何能制作出像“用 Jojo 风格绘制的海贼王人物”这样的整个图像调色板例如 所以我不明白他们是怎么做到的，有没有限制较少的软件？ 抱歉，如果我不被允许问这个问题    提交人    /u/GrizzlyT80   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dckgsq/how_do_people_manage_to_create_protected_license/</guid>
-      <pubDate>Mon, 10 Jun 2024 12:37:49 GMT</pubDate>
     </item>
     <item>
       <title>只是好奇，2020 年之前是否真的有任何专家预测人工智能会在艺术和“创造性”任务方面表现出色？</title>
@@ -99,7 +99,7 @@
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
-      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 Karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解子版块的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解 subreddit 的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
