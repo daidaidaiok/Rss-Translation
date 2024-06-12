@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 12 Jun 2024 09:06:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 12:09:20 GMT</lastBuildDate>
+    <item>
+      <title>在 Windows 上搜索文件和内容的最佳软件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1de3eh8/best_software_to_search_files_and_content_on/</link>
+      <description><![CDATA[大家好， 我正在寻找一个 Windows 上的开源软件，它可以让我搜索文件的名称，或者整个硬盘上的文件内的内容。 我已经禁用了 Windows 搜索，所以我正在寻找一个轻便、快速且高效的解决方案。 你有什么建议吗？    提交人    /u/clara59000   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1de3eh8/best_software_to_search_files_and_content_on/</guid>
+      <pubDate>Wed, 12 Jun 2024 10:30:51 GMT</pubDate>
+    </item>
     <item>
       <title>我开发了 Relaxer：呼吸练习 CLI 工具 🎈</title>
       <link>https://www.reddit.com/r/opensource/comments/1de14v9/i_built_relaxer_breathing_exercises_cli_tool/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正准备拍摄视频，用我的 iPhone 捕捉动作，同时用一台运行 QPrompt 的布满灰尘的旧 Linux 平板电脑背诵台词。在我假装自己是一名演员之后，我想使用人工智能调整我的目光，这样看起来就像我真的在与相机互动，而不仅仅是盯着一旁的提词器。我有一台运行 Ubuntu Linux 的具有人工智能的 Razer Blade 16，但我找不到用于进行目光校正的 Linux 兼容离线人工智能解决方案。你能相信吗？我开始觉得宇宙在这里错过了一个备忘录；我的直觉告诉我这个轮子早就应该被发明出来了。有谁知道一个我可能错过的离线免费开源 Linux 兼容解决方案吗？    提交人    /u/LoganTI99   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dcog1v/linux_based_offline_ai_eye_gaze_correction_for/</guid>
       <pubDate>Mon, 10 Jun 2024 15:35:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有快照功能的开源 PDF 阅读器？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dcnrzh/open_source_pdf_reader_with_snapshot_function/</link>
-      <description><![CDATA[嘿！ 我不想再使用 Adob​​e 了，但我真的需要运输标签的快照功能（我可以选择标签并直接打印） 有谁知道是否有一个开源程序也可以做到这一点？甚至可以编辑 PDF？    提交人    /u/Nathural   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dcnrzh/open_source_pdf_reader_with_snapshot_function/</guid>
-      <pubDate>Mon, 10 Jun 2024 15:07:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
