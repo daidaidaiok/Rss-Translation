@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 12 Jun 2024 06:07:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 09:06:52 GMT</lastBuildDate>
+    <item>
+      <title>我开发了 Relaxer：呼吸练习 CLI 工具 🎈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1de14v9/i_built_relaxer_breathing_exercises_cli_tool/</link>
+      <description><![CDATA[       由    /u/remvze  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1de14v9/i_built_relaxer_breathing_exercises_cli_tool/</guid>
+      <pubDate>Wed, 12 Jun 2024 07:49:50 GMT</pubDate>
+    </item>
     <item>
       <title>我用 C++ 制作了一款多人射击游戏，没有使用游戏引擎 - 而且它可以在浏览器中运行！我的代码被重新用于《刺客信条：英灵殿》和 Skydio 无人机。它就像《迈阿密热线》，但更具竞争性 - 你需要战斗才能获得排名。网络代码基于完全模拟确定性，包括 Box2D 物理。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ddz9iy/i_made_a_multiplayer_shooter_in_c_without_a_game/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿！ 我不想再使用 Adob​​e 了，但我真的需要运输标签的快照功能（我可以选择标签并直接打印） 有谁知道是否有一个开源程序也可以做到这一点？甚至可以编辑 PDF？    提交人    /u/Nathural   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dcnrzh/open_source_pdf_reader_with_snapshot_function/</guid>
       <pubDate>Mon, 10 Jun 2024 15:07:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>goManageDocker——管理docker对象的权威方法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dcjpw4/gomanagedocker_the_definitive_way_to_manage/</link>
-      <description><![CDATA[  由    /u/Krunchy_Almond  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dcjpw4/gomanagedocker_the_definitive_way_to_manage/</guid>
-      <pubDate>Mon, 10 Jun 2024 11:57:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
