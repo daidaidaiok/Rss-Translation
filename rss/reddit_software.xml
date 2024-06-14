@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 14 Jun 2024 09:05:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 12:08:02 GMT</lastBuildDate>
+    <item>
+      <title>（问）（FLAMESHOT）如何更改“捕获屏幕”按键绑定？</title>
+      <link>https://www.reddit.com/r/software/comments/1dfn66g/q_flameshot_how_to_change_capture_screen_keybind/</link>
+      <description><![CDATA[我想更改这个名为 Flameshot 的截图工具上的截屏键绑定，默认为 prntscreen 键，我该怎么做？ https://preview.redd.it/ce9qvxnafi6d1.png?width=387&amp;format=png&amp;auto=webp&amp;s=1672646e89307e803001281512cd92efde50df23 键是灰色，不允许我更改它。    提交人    /u/Schuhhhh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1dfn66g/q_flameshot_how_to_change_capture_screen_keybind/</guid>
+      <pubDate>Fri, 14 Jun 2024 09:55:37 GMT</pubDate>
+    </item>
     <item>
       <title>调光软件帮助 - Nelson Pires 调光器</title>
       <link>https://www.reddit.com/r/software/comments/1dfm77y/help_with_dimming_software_dimmer_by_nelson_pires/</link>
@@ -99,16 +106,9 @@
     <item>
       <title>如何将.mov文件批量转换为.jpg/.png？</title>
       <link>https://www.reddit.com/r/software/comments/1df16to/how_to_batch_convert_mov_files_to_jpgpng/</link>
-      <description><![CDATA[为了工作，我必须将大约 300 多个 .mov 文件（iOS 动态照片，本质上是视频）转换为照片（.jpg、.png，除了 HEIC 或视频之外的任何文件）。 我有 VLC 媒体播放器，可以通过逐个截屏来完成这项任务，但我没有时间这样做 300 多次。 有没有免费、值得信赖、无病毒的网站或软件可以帮助我在 Windows 中完成此操作？ 附言 - 不，我没有存储 .mov 文件的 Apple 设备     提交人    /u/BohemianBoxer   [链接] [评论]]]></description>
+      <description><![CDATA[为了工作，我必须将大约 300 多个 .mov 文件（iOS 移动照片，本质上是视频）转换为照片（.jpg、.png，除了 HEIC 或视频之外的任何文件）。 我有 VLC 媒体播放器，可以通过逐个截屏来完成这项任务，但我没有时间这样做 300 多次。 有没有免费、值得信赖、无病毒的网站或软件可以帮助我在 Windows 中完成此操作？ 附言 - 不，我没有存储 .mov 文件的 Apple 设备     提交人    /u/BohemianBoxer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1df16to/how_to_batch_convert_mov_files_to_jpgpng/</guid>
       <pubDate>Thu, 13 Jun 2024 15:04:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>从平面图到高分辨率 360 度渲染图</title>
-      <link>https://www.reddit.com/r/software/comments/1deynw0/floorplan_to_highresolution_360degree_renderings/</link>
-      <description><![CDATA[大家好， 有人用过可以生成平面图和 360 度渲染图的软件吗？这些软件可以用于虚拟房间参观。我们目前正在开发一套待售的多户住宅，我想在销售过程中为潜在买家提供互动式房间参观服务。任何建议或意见都将不胜感激！ 谢谢！    提交人    /u/ogisgame   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1deynw0/floorplan_to_highresolution_360degree_renderings/</guid>
-      <pubDate>Thu, 13 Jun 2024 13:11:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
