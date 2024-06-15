@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 15 Jun 2024 00:19:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 03:06:54 GMT</lastBuildDate>
+    <item>
+      <title>介绍 DataOptimizer：创建文件夹、删除重复项等等！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dg7dx8/introducing_dataoptimizer_create_folders_remove/</link>
+      <description><![CDATA[大家好！👋 我刚刚发布了DataOptimizer，这是一个旨在帮助管理和优化文件系统的工具。以下是一些主要功能：  创建文件夹：从列表快速生成文件夹结构。 删除重复项：使用多种方法（哈希、大小、名称、日期）识别和删除重复文件。 分析文件大小：扫描目录以分析和可视化文件大小。 合并类似文件夹：自动查找并合并具有类似结构的文件夹。  我正在寻求反馈，希望您能查看一下！ GitHub：DataOptimizer 欢迎您的建议和贡献。提前致谢！🙏    提交人    /u/tilltmk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dg7dx8/introducing_dataoptimizer_create_folders_remove/</guid>
+      <pubDate>Sat, 15 Jun 2024 02:06:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 GPT-4o 创建了 Apple 的《数学笔记》的开源版本！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dg7339/created_an_open_source_version_of_math_notes_from/</link>
+      <description><![CDATA[        由    /u/_ayushp_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dg7339/created_an_open_source_version_of_math_notes_from/</guid>
+      <pubDate>Sat, 15 Jun 2024 01:50:37 GMT</pubDate>
+    </item>
     <item>
       <title>Typescript 复杂性追踪器 VSCode 插件</title>
       <link>https://www.reddit.com/r/opensource/comments/1dfz35r/typescript_complexity_tracer_vscode_plugin/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[所以我最近对开源的东西很感兴趣（我的意思是谁不喜欢呢），并尝试熟悉那些应用程序。当前的机器严重依赖 Windows，我主要使用的应用程序之一是 WinScp。所以，我可能在一两周内换成 LinuxMint，所以我浏览 FileZilla 来了解一些关于它的事情。直到我打开 filezilla 的 wiki 部分。哈哈。（不要在工作时打开，nsfw）    提交人    /u/hariz_marzuki   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1df3ceq/filezilla_wiki/</guid>
       <pubDate>Thu, 13 Jun 2024 16:36:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Velox Reader - 一款无需账户的开源 RSS 阅读器。订阅源保存在本地，可离线使用！它也是 PWA，因此您可以通过点击分享按钮，然后点击“添加到主屏幕”将其安装在手机上</title>
-      <link>https://www.reddit.com/r/opensource/comments/1df2u7q/velox_reader_an_open_source_rss_reader_with_no/</link>
-      <description><![CDATA[  由    /u/Spirited-Pause  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1df2u7q/velox_reader_an_open_source_rss_reader_with_no/</guid>
-      <pubDate>Thu, 13 Jun 2024 16:14:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>搜索具有出席功能的团体活动日历。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1df1ymw/searching_for_group_event_calendar_with/</link>
-      <description><![CDATA[您好，我运营一个游戏社区，人们可以在这里报名参加他们想参加的活动。我们的旧系统正在走向我们无法跟进的方向，所以我正在寻找一个开源替代方案，可以托管在我的 inmotionhosting 网络服务器上。 本质上，我希望有一个系统，每个人都有自己的用户帐户，并且该帐户允许他们： 查看日历 创建活动 将活动回复为“进行”、“不进行”或“可能” 我觉得这是一件非常简单的事情，但我很难找到这样的东西。 如果它有其他功能，如待办事项列表、论坛和其他一些简单的功能，那就太好了。但我并不是在寻找一个功能齐全的商业套件，只是一个帮助组织社区的小工具。看起来更现代、更简单的东西也会是一个加分项。 有人有什么建议吗？谢谢。    提交人    /u/Trekker007   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1df1ymw/searching_for_group_event_calendar_with/</guid>
-      <pubDate>Thu, 13 Jun 2024 15:38:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
