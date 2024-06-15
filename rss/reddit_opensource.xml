@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 14 Jun 2024 21:06:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 00:19:10 GMT</lastBuildDate>
     <item>
       <title>Typescript 复杂性追踪器 VSCode 插件</title>
       <link>https://www.reddit.com/r/opensource/comments/1dfz35r/typescript_complexity_tracer_vscode_plugin/</link>
@@ -83,13 +83,6 @@
       <pubDate>Thu, 13 Jun 2024 23:19:16 GMT</pubDate>
     </item>
     <item>
-      <title>是否有一个应用程序只能将音频从我的手机投射到平板电脑？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1df8v31/is_thete_an_app_to_cast_audio_only_from_my_phone/</link>
-      <description><![CDATA[编辑：我主要想播放音乐和播客。    提交人    /u/JPXTUY-RETRO   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1df8v31/is_thete_an_app_to_cast_audio_only_from_my_phone/</guid>
-      <pubDate>Thu, 13 Jun 2024 20:28:59 GMT</pubDate>
-    </item>
-    <item>
       <title>现实一点，我们一群人能做一个售票平台吗</title>
       <link>https://www.reddit.com/r/opensource/comments/1df50fv/realistically_could_a_crowd_of_us_make_a_ticket/</link>
       <description><![CDATA[由于费用（SeatGeek），我刚刚被加价 49% 买了一场体育赛事的门票。 我们是美国人，所以监管永远也救不了我们，但是如果有一群足够大/聪明/有动力的程序员，我们能否创造出一种替代方案并打败大佬？ 我承认我对区块链了解不多，但在将权力交给人民的开源过程中，这似乎是一个自然的选择。    提交人    /u/bunsai   [链接] [评论]]]></description>
@@ -109,6 +102,13 @@
       <description><![CDATA[  由    /u/Spirited-Pause  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1df2u7q/velox_reader_an_open_source_rss_reader_with_no/</guid>
       <pubDate>Thu, 13 Jun 2024 16:14:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>搜索具有出席功能的团体活动日历。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1df1ymw/searching_for_group_event_calendar_with/</link>
+      <description><![CDATA[您好，我运营一个游戏社区，人们可以在这里报名参加他们想参加的活动。我们的旧系统正在走向我们无法跟进的方向，所以我正在寻找一个开源替代方案，可以托管在我的 inmotionhosting 网络服务器上。 本质上，我希望有一个系统，每个人都有自己的用户帐户，并且该帐户允许他们： 查看日历 创建活动 将活动回复为“进行”、“不进行”或“可能” 我觉得这是一件非常简单的事情，但我很难找到这样的东西。 如果它有其他功能，如待办事项列表、论坛和其他一些简单的功能，那就太好了。但我并不是在寻找一个功能齐全的商业套件，只是一个帮助组织社区的小工具。看起来更现代、更简单的东西也会是一个加分项。 有人有什么建议吗？谢谢。    提交人    /u/Trekker007   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1df1ymw/searching_for_group_event_calendar_with/</guid>
+      <pubDate>Thu, 13 Jun 2024 15:38:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
