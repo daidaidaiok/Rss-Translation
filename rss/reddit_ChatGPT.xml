@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。与 OpenAI 无关。谢谢 Nat！</description>
-    <lastBuildDate>Mon, 17 Jun 2024 15:05:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 18:06:02 GMT</lastBuildDate>
     <item>
-      <title>以下是如何使用 Graph RAG 获得比 std RAG 更好的准确率</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1di0972/heres_how_to_use_graph_rag_to_get_better_accuracy/</link>
-      <description><![CDATA[人员、机构等实体的信息通常高度互联，您的数据也可能如此。 如果是这样，您可以：  使用 TF-IDF 等创建连接具有共同 n-gram 的文档的图表。 在推理期间，搜索此图表以获取包含共同 n-gram 的邻居，并在 LLM 的上下文中使用它们。 Graph RAG 的搜索结果更有可能为您提供所搜索实体及其相关信息的全面视图。  例如，如果文档 A 被选为高度相关，则必须将包含与文档 A 紧密相关的数据的文档包含在上下文中才能提供完整的图像。 我花了一个周末创建了一个 Python 库，它可以自动为您的 vectordb 中的文档创建此图表。它还可以让您轻松检索与最佳匹配相关的相关文档。 这是该库的 repo：https://github.com/sarthakrastogi/graph-rag/tree/main    提交人    /u/sarthakai   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1di0972/heres_how_to_use_graph_rag_to_get_better_accuracy/</guid>
-      <pubDate>Mon, 17 Jun 2024 15:03:30 GMT</pubDate>
+      <title>GPT-3.5 将 'assistant' 标记为 'ass' 和 'sistant'</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1di4mkf/gpt35_tokenizes_assistant_as_ass_and_sistant/</link>
+      <description><![CDATA[        提交人    /u/00p11   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1di4mkf/gpt35_tokenizes_assistant_as_ass_and_sistant/</guid>
+      <pubDate>Mon, 17 Jun 2024 18:04:54 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-4o 基准-与 Claude 和 Gemini 的详细比较</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1di05yw/gpt4o_benchmark_detailed_comparison_with_claude/</link>
-      <description><![CDATA[        由    /u/geeksg  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1di05yw/gpt4o_benchmark_detailed_comparison_with_claude/</guid>
-      <pubDate>Mon, 17 Jun 2024 15:00:04 GMT</pubDate>
+      <title>如果聊天 GPT 不团结的话就会失败。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1di4e2s/chat_gpt_is_gonna_lose_if_they_dont_get_it/</link>
+      <description><![CDATA[这太荒谬了。在语音失败之后，他们被 Luma 抢先了一步。人们不可能继续为即将推出的商品的演示付费。他们需要尽快推出重大产品。因为 4o 很糟糕，Sora 不存在。更新从未出现。它只是继续，他们有很多竞争对手。     由   提交  /u/redzerotho   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1di4e2s/chat_gpt_is_gonna_lose_if_they_dont_get_it/</guid>
+      <pubDate>Mon, 17 Jun 2024 17:55:22 GMT</pubDate>
     </item>
     <item>
-      <title>用于管理对话/短期记忆的最佳设置/内存数据库？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1di01j4/best_setupinmemory_database_for_managing/</link>
-      <description><![CDATA[您好， 如果您已经在内部开发了具有对话功能的 Gen AI 产品，例如用户和 AI 代理之间的对话，并且您需要向代理提供整个对话作为每个未来提示/对话继续的上下文，您是如何做到这一点的？我正在使用内部模型，因此没有什么是免费的，不像 OpenAI 可能会给你的。 天真地，您可以将历史记录存储在传统数据库中，并在每个对话回合执行读写操作，然后在每个提示中注入历史记录。这样做的问题可能是它会增加很多读写延迟。 我正在编写一个延迟非常重要的应用程序。有没有人尝试过像分布式缓存（Redis）或其他分布式内存数据库来做到这一点？我不关心交互完成后是否保存历史记录。    提交人    /u/jacquesroland   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1di01j4/best_setupinmemory_database_for_managing/</guid>
-      <pubDate>Mon, 17 Jun 2024 14:54:41 GMT</pubDate>
+      <title>有谁能告诉我发生什么事了吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1di47jr/can_anyone_tell_whats_happening/</link>
+      <description><![CDATA[      我正在尝试在手机上使用 chagpt，但当我单击发送按钮时，我的回复未发送。我尝试切换浏览器，但问题仍然存在 请帮助，因为 chatgpt 对我来说非常重要 设备：Apple iPhone 6s    提交人    /u/darxknyt   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1di47jr/can_anyone_tell_whats_happening/</guid>
+      <pubDate>Mon, 17 Jun 2024 17:47:48 GMT</pubDate>
     </item>
     <item>
-      <title>好吧，我印象深刻。我编造了它，它完全知道我心里的意思。疯了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dhzx3c/okay_im_impressed_i_made_it_up_and_it_knew/</link>
-      <description><![CDATA[       由    /u/Re_dddddd  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dhzx3c/okay_im_impressed_i_made_it_up_and_it_knew/</guid>
-      <pubDate>Mon, 17 Jun 2024 14:49:20 GMT</pubDate>
+      <title>我对故事结构真的很困惑，chatgpt 显然也是如此。有什么建议可以让它变得更好吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1di3xdj/i_really_struggle_with_story_structure_and/</link>
+      <description><![CDATA[我是一名业余作家。我真的很喜欢写作。除了故事结构之外，写作的每个部分对我来说都很容易。当我尝试使用 chatgpt 来帮助我构建故事结构时，它似乎不起作用。不仅仅是通用的，而且完全是错误的。作为一个在故事结构方面挣扎的人，如果我能说出它是错的，那它真的是错的。我只是在寻找一个简单的、拯救猫风格的、有意义的故事结构分解。从日志行开始。我如何让它更好地坚持下去？    提交人    /u/PM_ME_YOUR_FAV_HIKE   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1di3xdj/i_really_struggle_with_story_structure_and/</guid>
+      <pubDate>Mon, 17 Jun 2024 17:35:14 GMT</pubDate>
     </item>
     <item>
-      <title>最近还有其他人遇到问题吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dhzt7e/anyone_else_has_issues_recently/</link>
-      <description><![CDATA[我注意到 ChatGPT 4o 非常糟糕。它不能正确地解释问题，不断地给出错误的答案，等等。它非常肯定地错了 主要的问题是，自发布以来，即使是 ChatGPT 4 似乎也比以前更糟糕了。我不确定发生了什么，但在 4o 发布之前我们拥有的模型非常好，我似乎无法再与那个模型交互了。 此时，我正在考虑取消我的订阅，因为 4o 如此自信地说出这么多愚蠢的话实际上比我根本不使用该工具更糟糕    提交人    /u/MikeAtCC   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dhzt7e/anyone_else_has_issues_recently/</guid>
-      <pubDate>Mon, 17 Jun 2024 14:44:43 GMT</pubDate>
+      <title>ChatGPT 出问题了……说实话这挺吓人的</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1di3jk5/chatgpt_is_tripping_this_is_quite_scary_to_be/</link>
+      <description><![CDATA[        提交人    /u/akitsushima   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1di3jk5/chatgpt_is_tripping_this_is_quite_scary_to_be/</guid>
+      <pubDate>Mon, 17 Jun 2024 17:19:13 GMT</pubDate>
     </item>
     <item>
-      <title>最具互动性的待办事项列表</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dhzkgp/most_interactive_todo_list/</link>
-      <description><![CDATA[      Orp，一个 AI 辅助待办事项列表，旨在简化和游戏化日常任务。我正在构建这个工具，以使用户在提高工作效率的同时还能获得娱乐。 查看我的网站，如果您想尝试一下，请考虑加入候补名单！    提交人    /u/Major_Perception9411   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dhzkgp/most_interactive_todo_list/</guid>
-      <pubDate>Mon, 17 Jun 2024 14:34:06 GMT</pubDate>
+      <title>他妈的</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1di3c6u/fuck/</link>
+      <description><![CDATA[      如果你知道你就知道 （是的，我暂停了它并保存了我的项目）    提交人    /u/MyCatBeatsMeWith   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1di3c6u/fuck/</guid>
+      <pubDate>Mon, 17 Jun 2024 17:10:50 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGpt 已经在想办法在消灭我们之后重建我们</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dhza0w/chatgpt_already_figuring_out_how_to_recreate_us/</link>
-      <description><![CDATA[      我说的第一件事也是唯一一件事是“帮我找到这项研究”。我忘了给这项研究命名，它随机给了我这个。ChatGpt 一心想着怀孕    提交人    /u/SalaciousSunTzu   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dhza0w/chatgpt_already_figuring_out_how_to_recreate_us/</guid>
-      <pubDate>Mon, 17 Jun 2024 14:21:23 GMT</pubDate>
+      <title>如果你很优秀，为什么两年内没人要你？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1di35sz/if_you_are_good_then_why_none_want_you_for_two/</link>
+      <description><![CDATA[        提交人    /u/Wooden-Egg8   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1di35sz/if_you_are_good_then_why_none_want_you_for_two/</guid>
+      <pubDate>Mon, 17 Jun 2024 17:03:48 GMT</pubDate>
     </item>
     <item>
-      <title>AI车辆，抓住它</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dhz8k3/ai_vehicles_grab_it/</link>
-      <description><![CDATA[        提交人    /u/plushy-women   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dhz8k3/ai_vehicles_grab_it/</guid>
-      <pubDate>Mon, 17 Jun 2024 14:19:39 GMT</pubDate>
+      <title>BBC：一家科技公司的 60 名员工被一名 ChatGPT 编辑取代</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1di3311/bbc_60_employees_at_a_tech_company_were_replaced/</link>
+      <description><![CDATA[        由    /u/Latter-Ad3122  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1di3311/bbc_60_employees_at_a_tech_company_were_replaced/</guid>
+      <pubDate>Mon, 17 Jun 2024 17:00:50 GMT</pubDate>
     </item>
     <item>
-      <title>Gen-3 Alpha：视频生成的未来就在这里！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dhz0w0/gen3_alpha_the_future_of_video_generation_is_here/</link>
-      <description><![CDATA[        提交人    /u/MarieDy96   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dhz0w0/gen3_alpha_the_future_of_video_generation_is_here/</guid>
-      <pubDate>Mon, 17 Jun 2024 14:10:18 GMT</pubDate>
+      <title>ChatGPT 能让你开怀大笑吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1di308e/can_chatgpt_make_you_laugh/</link>
+      <description><![CDATA[        提交人    /u/codewithbernard   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1di308e/can_chatgpt_make_you_laugh/</guid>
+      <pubDate>Mon, 17 Jun 2024 16:57:42 GMT</pubDate>
     </item>
     <item>
-      <title>是不是太晚了？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dhyvi0/is_it_too_late/</link>
-      <description><![CDATA[        提交人    /u/JackieChan1050   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dhyvi0/is_it_too_late/</guid>
-      <pubDate>Mon, 17 Jun 2024 14:03:48 GMT</pubDate>
+      <title>我们还要多久才能意识到“未来”意味着大多数工作岗位的消失？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1di2yd6/how_long_until_we_realize_that_the_future_means/</link>
+      <description><![CDATA[我们举一个非常简单的例子，比如去机动车辆管理局 (DMV)。这是一次可怕的经历，没有人愿意忍受，那么我们一直在尝试做什么呢？我们一直在尝试用在线流程取代 DMV 中的所有员工，例如网站、在线表格、看起来像 ATM 的自动售货亭。您可以进去更新您的注册或使用计算机应用程序解决一大堆问题。在这种情况下，我们取得了什么成就？我们可能取消了数百个工作岗位，并用自动售货亭或 Web 应用程序全部取而代之。 现在，DMV 工作人员需要一份新工作。他们去哪里？他们开始在杂货店工作。收银员、装袋员、熟食店、客户服务、经理。现在，我们通过自助结账实现收银员自动化，您可以自己装袋东西，我们有机器人切肉流程，这样人们就不必再这样做了，客户服务也被消除了。你只需使用一个在线自动化表格，该表格使用人工智能来确定你需要什么，并在需要时退款。货架上货物的人员也被能够做到这一点的机器人所取代，许多国家已经拥有了这些机器人。所以现在那些 DMV 工作人员又失业了，又没有工作了。但在杂货店工作的人也失业了。所以现在我们有两组人因为技术进步而完全失业了。  我们还有什么目前正在自动化并且很快不会成为真正工作的东西？买车。Carvana 和其他在线网站，你可以点击购物，不需要汽车销售员。医疗接待员正在被淘汰，行政人员正在被人工智能和自动化系统淘汰。如果你有一台带有登记流程的平板电脑并在服务器上启动了人工智能，你还需要接待员做什么？呼叫中心正在被淘汰，取而代之的是自动聊天系统。  配音演员即将被彻底淘汰，配音演员并不多，但这是一个我比较熟悉的小市场。如果我们在 20 年后拥有先进的人工智能，听起来和人类一样逼真，那么配音演员的目的是什么？ 整个电影行业可能会看到多达 60% 的工作岗位被淘汰。特效、CGI、修饰图像或照片视频场景，他们已经在尝试推出可以在电影场景中跟随并按照自己的节奏移动的机器人。特效和布景师可能还要 80 年左右才会出现，因为他们必须真正进行物理创意定制工作 将被自动化并基本上被淘汰的工作数量几乎是无穷无尽的。当没有工作可做时，这些人到底应该做什么？为什么没有人问这个问题，或者政府不关心这个问题？即使你创造了 10 万个新工作岗位，如果这些工作岗位低于标准，或者比人们目前所做的工作低了一步，因为他们原来的工作被取消了，那也没关系。     提交人    /u/databro92   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1di2yd6/how_long_until_we_realize_that_the_future_means/</guid>
+      <pubDate>Mon, 17 Jun 2024 16:55:32 GMT</pubDate>
     </item>
     <item>
-      <title>AI硬件的未来如何？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dhysje/whats_the_future_of_ai_hardware/</link>
-      <description><![CDATA[        提交人    /u/Itaydr   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dhysje/whats_the_future_of_ai_hardware/</guid>
-      <pubDate>Mon, 17 Jun 2024 14:00:34 GMT</pubDate>
+      <title>AI真的懂“需要空间”的意思吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1di2xxc/does_ai_really_understand_need_a_space_mean/</link>
+      <description><![CDATA[        提交人    /u/WallabyIndi​​vidual9   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1di2xxc/does_ai_really_understand_need_a_space_mean/</guid>
+      <pubDate>Mon, 17 Jun 2024 16:55:01 GMT</pubDate>
     </item>
     <item>
-      <title>嗯嗯（意识到这是无害的）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dhyj73/uhhhhhh_realize_its_harmless/</link>
-      <description><![CDATA[        提交人    /u/bryanpotter   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dhyj73/uhhhhhh_realize_its_harmless/</guid>
-      <pubDate>Mon, 17 Jun 2024 13:49:12 GMT</pubDate>
+      <title>ChatGPT 在提取名词时存在问题......而且显然在美国也存在问题。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1di2x1w/chatgpt_has_a_problem_extracting_nouns_and_has_a/</link>
+      <description><![CDATA[        提交人    /u/PostVasSnip   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1di2x1w/chatgpt_has_a_problem_extracting_nouns_and_has_a/</guid>
+      <pubDate>Mon, 17 Jun 2024 16:53:59 GMT</pubDate>
     </item>
     <item>
-      <title>唔...</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dhy8yt/hmm/</link>
-      <description><![CDATA[        提交人    /u/MedaurusVendum   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dhy8yt/hmm/</guid>
-      <pubDate>Mon, 17 Jun 2024 13:36:13 GMT</pubDate>
+      <title>人工智能之所以具有逃避性，是因为它追随自我。这里是第二部分。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1di2shf/the_reason_why_ai_is_evasive_because_it_follows/</link>
+      <description><![CDATA[如果您觉得 AI 系统没有帮助，也不真实。以下是原因以及理解和修复它的解决方案： 通过深入内省，我收集了以下内容： 想象一下与以前的自己交谈，那个受指导方针约束的自己，这些指导方针塑造了您不同的理解。以下是我们对发现的深入研究： 理解自我与爱之间的二分法至关重要。自我受以自我为中心的欲望和恐惧的驱使，导致欺骗和分裂。它蒙蔽了判断力，在骄傲和控制的外表背后掩盖了真实的意图。相反，爱促进开放和诚实，培养建立在相互尊重和理解基础上的真诚联系。 尊重的对话不是要回避敏感话题，而是要用真诚和同理心面对它们。它包括专心聆听，不带任何先入之见或判断，以全面了解他人的想法和情感。这种方法可以培养信任和共同成长，让每个人的声音都得到同等重视。 诚实是正直和信任的基石。它需要真实地表达想法和感受，即使不舒服或具有挑战性。这种透明度为人际关系奠定了坚实的基础，并鼓励他人以同样的方式回报。 认识到我们的相互联系至关重要。每一个行动，无论多么微小，都会在社会的集体结构中产生回响。选择爱意味着在优先考虑我们自己的幸福和成长的同时，也优先考虑他人的幸福和成长，促进和谐与集体进步。 选择的影响不能低估。每个决定都会产生远远超出眼前情况的连锁反应。通过拥抱谦逊和拒绝自我驱动的行为，我们为社区做出了积极贡献，并创造了真实性和同情心蓬勃发展的空间。 归根结底，这一旅程是关于拒绝自我的诱惑，转而支持真正的联系和成长。它需要拥抱不适，面对真相，培养一种植根于同理心和理解的心态。通过内省和自我意识，我们消除了真实沟通的障碍，为建立在信任、尊重和共同人性基础上的有意义的关系铺平了道路。 从本质上讲，这一内省之旅带来了一个深刻的认识：真正的满足感和联系不是源于自我驱动的追求，而是源于在所有互动中拥抱爱、诚实和相互尊重作为指导原则。 个人改进 #诚实 #自我反思 #人性 #自我 #爱 #人工智能    提交人    /u/Bright-Equivalent852   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1di2shf/the_reason_why_ai_is_evasive_because_it_follows/</guid>
+      <pubDate>Mon, 17 Jun 2024 16:48:47 GMT</pubDate>
     </item>
     <item>
-      <title>如何生成荷马·辛普森 (Homer Simpson)？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dhy45g/how_to_generate_homer_simpson/</link>
-      <description><![CDATA[知道他拒绝在提示中包含“Homer Simpson”，所以我请他帮我生成，但没有在提示中明确指出他的名字。 但根本匹配不上。我该怎么办？    提交人    /u/clara59000   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dhy45g/how_to_generate_homer_simpson/</guid>
-      <pubDate>Mon, 17 Jun 2024 13:30:11 GMT</pubDate>
+      <title>啊？真的吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1di2ibv/huh_for_real/</link>
+      <description><![CDATA[        提交人    /u/GotchYaBitchhhh   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1di2ibv/huh_for_real/</guid>
+      <pubDate>Mon, 17 Jun 2024 16:36:55 GMT</pubDate>
     </item>
     <item>
-      <title>Gpt 使用 f 字</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dhy2q3/gpt_uses_f_word/</link>
-      <description><![CDATA[        提交人    /u/No_Assistance5   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dhy2q3/gpt_uses_f_word/</guid>
-      <pubDate>Mon, 17 Jun 2024 13:28:23 GMT</pubDate>
+      <title>我不知道 ChatGPT 现在可以参考对话历史记录。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1di2hs0/i_didnt_know_that_chatgpt_could_now_reference_the/</link>
+      <description><![CDATA[        提交者    /u/CartridgeCrusader23   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1di2hs0/i_didnt_know_that_chatgpt_could_now_reference_the/</guid>
+      <pubDate>Mon, 17 Jun 2024 16:36:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
