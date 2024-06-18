@@ -4,7 +4,27 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Tue, 18 Jun 2024 12:09:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 15:06:45 GMT</lastBuildDate>
+    <item>
+      <title>如何从黑名单中删除电子邮件：分步指南</title>
+      <link>https://feed.indiehackers.world/post/96349a756b</link>
+      <description><![CDATA[🛠️ 检查状态：使用 Unspam 或 MXToolBox 等工具查看您是否被列入黑名单。
+🔍 查找原因：常见原因包括服务器配置错误或共享 IP 问题。
+📩 请求除名：按照每个黑名单的除名流程操作。
+✅ 预防未来问题：确保正确
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/96349a756b</guid>
+      <pubDate>Tue, 18 Jun 2024 12:23:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么选择 Vue.js 作为您的下一个 Web 项目？</title>
+      <link>https://feed.indiehackers.world/post/3b37556426</link>
+      <description><![CDATA[结论
+Vue.js 是您下一个网站的绝佳选择，因为它易于使用、灵活、快速且拥有大量支持。它的工具、可扩展性和现代设计使其成为构建优质 Web 应用程序的完美选择。无论您是新手还是经验丰富的用户，Vue.js 都能帮助您轻松创建一流的网站。
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/3b37556426</guid>
+      <pubDate>Tue, 18 Jun 2024 12:11:09 GMT</pubDate>
+    </item>
     <item>
       <title>使用现成的 Microtica 模板增强您的开发能力！🚀</title>
       <link>https://feed.indiehackers.world/post/4edf2c6242</link>
@@ -165,26 +185,6 @@ Discord Indiehackers Chat广告此处]]></description>
 Discord Indiehackers Chat广告 此处]]></description>
       <guid>https://feed.indiehackers.world/post/4c937999c7</guid>
       <pubDate>Tue, 18 Jun 2024 02:09:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何称呼重新设计的第一阶段？</title>
-      <link>https://feed.indiehackers.world/post/a6426ba981</link>
-      <description><![CDATA[准备我的堆栈并在 pavleur.com 上开始一个小的重构
-开始将一些项目部分从 scss 移到 daisy.ui 以提高速度
-现在事情变得糟糕了。
-就像一部戏剧电影。
-你最喜欢什么？
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a6426ba981</guid>
-      <pubDate>Mon, 17 Jun 2024 20:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>产品验证的替代方法。问自己这个问题。</title>
-      <link>https://feed.indiehackers.world/post/15172bd6bd</link>
-      <description><![CDATA[与往常一样，我很想听听我的 Indie Hackers 同事对这种验证方法以及 B2BHive.io 的看法。在发布前注册的每个人都可以免费订阅。如果您认为该产品可以为您的业务增加价值，请在 www.b2bhive.io/pricing 注册，我们将在本月晚些时候的发布日通知您。谢谢！
-Discord Indiehackers Chat广告 此处]]></description>
-      <guid>https://feed.indiehackers.world/post/15172bd6bd</guid>
-      <pubDate>Mon, 17 Jun 2024 19:31:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
