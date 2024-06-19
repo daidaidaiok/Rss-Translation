@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 19 Jun 2024 00:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 03:06:08 GMT</lastBuildDate>
+    <item>
+      <title>替换 Windows 10 搜索栏？</title>
+      <link>https://www.reddit.com/r/software/comments/1dj66p6/replace_windows_10_search_bar/</link>
+      <description><![CDATA[Windows 10 中的搜索栏太糟糕了。我发现了一个名为 Listary 的程序，它在各方面都更好。有没有可能用 Listary 替换屏幕左下角的 Windows 搜索栏？    提交人    /u/SolidIcecube   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1dj66p6/replace_windows_10_search_bar/</guid>
+      <pubDate>Wed, 19 Jun 2024 00:36:42 GMT</pubDate>
+    </item>
     <item>
       <title>寻找应用程序（图片）</title>
       <link>https://www.reddit.com/r/software/comments/1dj57mg/looking_for_the_apps_image/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/JRepin  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1dithgx/kde_plasma_61_is_here/</guid>
       <pubDate>Tue, 18 Jun 2024 15:29:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>重复文件邮件附件 - 计算机</title>
-      <link>https://www.reddit.com/r/software/comments/1dism5x/duplicate_files_mail_attachment_computer/</link>
-      <description><![CDATA[嗨，我想知道是否有可能识别邮件（gmail 附件）中已保存在计算机（windows 10）中的重复文件？我的想法是，我可以安全地删除这些邮件并在我的谷歌帐户中腾出一些空间。 感谢您的任何建议！    提交人    /u/DifficultEase9838   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dism5x/duplicate_files_mail_attachment_computer/</guid>
-      <pubDate>Tue, 18 Jun 2024 14:53:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
