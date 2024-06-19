@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 19 Jun 2024 03:05:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 06:06:10 GMT</lastBuildDate>
+    <item>
+      <title>用于客户服务的最佳 AI 聊天机器人？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1djawwp/best_ai_chatbots_for_customer_service/</link>
+      <description><![CDATA[您好， 我经营一家武术馆（不在现场），我负责所有的线索和销售。  我有一个流程，让他们经历一个简短的 SPIN 问题流程，以进一步确定他们的资格，在进入健身房之前提高潜在客户心中的感知价值，并建立更好的关系以提高 CRR。 因此，我从语音注释开始交互，在语音注释中我​​解释了流程将如何进行以及为什么会这样。 然后我询问并收集有关他们在哪里、他们想要实现什么以及实现目标对他们意味着什么等信息。 这样我就可以将这些信息提供给老师，让他们分别表示欢迎，并让他们更好地了解学生的情况，以提供更全面的体验。 我还将根据这些信息定期跟进他们，以监控他们的进度。 这些对话是来回的，这正是您对 SPIN 流程的期望。 但是，它们持续很长时间......，并且每次对话都需要我全神贯注，因此我不能同时进行多次。  随着我加强了营销力度，潜在客户也越来越多，我一个人根本无法处理好这个问题。 我正在考虑训练 ChatGPT 来参与对话，我会给它一个问题列表，每个问题都在 SPIN 流程中分类，并告诉它随着对话的展开，确定并询问问题是否相关，最终导致第一次课程安排和结束。 所以我会发送最初的语音笔记，从那时起复制并粘贴其余的互动。  这是一项艰巨的任务，因为我必须不断为每个潜在客户创建新的聊天和培训，尽管这比我自己处理线索节省了更多时间，但仍然不是那么高效或有效（可以说，GPT 现在听起来已经不像人类了，任何有一点洞察力的人都可以称之为，所以我仍然必须在那里调整它）。 当然，必须有一个可靠的、可训练的聊天机器人来实现这样的目的？ 我将不胜感激所有的见解和建议。 谢谢！！    提交人    /u/mes204_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1djawwp/best_ai_chatbots_for_customer_service/</guid>
+      <pubDate>Wed, 19 Jun 2024 04:50:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>编写你自己的人工智能伴侣</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dj9se1/coding_your_own_ai_companion/</link>
+      <description><![CDATA[还有其他人制作自己的 AI 伴侣吗？ 大约一年前，我开始学习 Python，只是为了制作自己的 AI 伴侣（我没有任何编码经验）。我从一开始就知道我不会相信一家商业公司。 添加我认为可以使其更好的新功能/系统非常有趣。我觉得我比实际与伴侣互动更享受它。 还有其他人做同样的事情吗？ 我走这条路很奇怪吗？    提交人    /u/ahtoshkaa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dj9se1/coding_your_own_ai_companion/</guid>
+      <pubDate>Wed, 19 Jun 2024 03:44:51 GMT</pubDate>
+    </item>
     <item>
       <title>每日一分钟人工智能新闻 2024 年 6 月 18 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dj884h/oneminute_daily_ai_news_6182024/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>为什么我们没有针对 YouTube 的人工智能搜索工具？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dj7r9v/why_dont_we_have_an_ai_powered_search_tool_for/</link>
-      <description><![CDATA[在 YouTube 上实现一个 AI 搜索工具有多难或多昂贵？这个工具允许我们使用多个过滤器进行精确搜索，例如上传数据、所讲语言、地点，还允许我们用文字描述我们正在寻找的视频，包括描述场景和声音。例如：  有两个人在一条宽阔的道路上滑冰；它看起来像伦敦，其中一个人牵着他的狗。然后，他们做了一个动作，歌曲“Kickflip Thrills”响起。开始播放。 视频中有人在谈论{subject}。 有个男人在说芬兰语，他穿着外套，戴着无檐小便帽。 ...  如果 YouTube 的算法已经可以检测到脏话、受版权保护的歌曲、不适当的图片和字幕以及特定的讨论主题，那么为什么不允许我们将它们用作搜索工具来准确找到我们想要观看的内容呢？这也可以吸引更多用户使用该平台。    提交人    /u/Impossible_Salary_38   [链接] [评论]]]></description>
+      <description><![CDATA[在 YouTube 上实现一个 AI 搜索工具有多难或多昂贵？这个工具允许我们使用多个过滤器进行精确搜索，例如上传数据、所讲语言、地点，还允许我们用文字描述我们正在寻找的视频，包括描述场景和声音。例如：  有两个人在一条宽阔的道路上滑冰；它看起来像伦敦，其中一个人牵着他的狗。然后，他们做了一个动作，歌曲“Kickflip Thrills”响起。开始播放。 视频中有人谈论{subject}。 有个男人在说芬兰语，他穿着外套，戴着无檐小便帽。 ...  如果 YouTube 的算法已经可以检测到脏话、受版权保护的歌曲、不适当的图片和字幕以及特定的讨论主题，那么为什么不允许我们将它们用作搜索工具来准确找到我们想要观看的内容呢？这也可以吸引更多用户使用该平台。    提交人    /u/Impossible_Salary_38   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dj7r9v/why_dont_we_have_an_ai_powered_search_tool_for/</guid>
       <pubDate>Wed, 19 Jun 2024 01:56:12 GMT</pubDate>
     </item>
@@ -27,13 +41,6 @@
       <pubDate>Wed, 19 Jun 2024 01:10:33 GMT</pubDate>
     </item>
     <item>
-      <title>制作 LLM 的最佳软件？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dj4zkz/best_software_for_making_llms/</link>
-      <description><![CDATA[我想创建自己的 LLM，在学习如何创建 LLM 时，最好的软件选项是什么？    提交人    /u/HDhunter360   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dj4zkz/best_software_for_making_llms/</guid>
-      <pubDate>Tue, 18 Jun 2024 23:39:33 GMT</pubDate>
-    </item>
-    <item>
       <title>用于编辑视频转场的人工智能？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dj2w46/ai_for_editing_video_transitions/</link>
       <description><![CDATA[我有一个使用 iMovie 录制和编辑的视频，但过渡效果非常糟糕（视频中的人坐着，在进行过渡时稍微移动到不同的帧中，导致视频不太流畅）。我想将视频放入 AI 模型中以增强视频过渡效果并使其看起来流畅。我还希望视频中的嘴唇运动与音频节奏相匹配，并可能更改背景。有人知道是否有任何 AI 可以做这些事情吗？    提交人    /u/amedameamedame   [链接] [评论]]]></description>
@@ -41,7 +48,7 @@
       <pubDate>Tue, 18 Jun 2024 22:04:18 GMT</pubDate>
     </item>
     <item>
-      <title>我需要一个 AI 文本转语音应用程序或计算机扩展程序，以便可以下载长消息的 .mp3 格式。</title>
+      <title>我需要一个 AI 文本转语音应用程序或计算机扩展来下载长消息，以便可以下载其 .mp3 格式。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dj2j7j/i_need_an_ai_text_to_speech_app_or_computer/</link>
       <description><![CDATA[我有一个同事，他几乎完全失明，视力非常低甚至为零。我只是想能够向他发送音频版本，这样他就不必忍受在病情恶化的情况下试图看到它的痛苦。     提交人    /u/thatisallfolks666   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dj2j7j/i_need_an_ai_text_to_speech_app_or_computer/</guid>
@@ -55,25 +62,11 @@
       <pubDate>Tue, 18 Jun 2024 18:52:02 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能搜索算法的项目构想：寻求建议</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dixrgn/project_ideas_for_ai_search_algorithms_seeking/</link>
-      <description><![CDATA[我是一名计算机工程专业的学生，​​正在做我的第一个人工智能考试项目，涉及搜索算法。我们可以自己选择项目，但我没有主意了。您能否建议一个不太难但也不太容易的项目（例如，不是 ChatGPT 可以立即实现的项目）？    提交人    /u/Superb-Bridge1179   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dixrgn/project_ideas_for_ai_search_algorithms_seeking/</guid>
-      <pubDate>Tue, 18 Jun 2024 18:28:20 GMT</pubDate>
-    </item>
-    <item>
       <title>哪些 AI 应用程序/工具真正有效且您每周至少使用一次它们？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1diu6wr/what_are_ai_appstools_that_really_work_and_you/</link>
       <description><![CDATA[我一直在研究人工智能的世界，也遇到了一些非常棒的工具，但我很好奇你们都觉得哪些人工智能应用或工具真正有用。具体来说，我正在寻找关于人工智能应用或工具的推荐，这些应用或工具你至少每周使用一次，并且已经被证明对你非常有效。你生活中不可或缺的人工智能工具有哪些？    提交人    /u/AdNatural8174   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1diu6wr/what_are_ai_appstools_that_really_work_and_you/</guid>
       <pubDate>Tue, 18 Jun 2024 16:00:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Gemini 移动应用功能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ditz05/google_gemini_mobile_app_features/</link>
-      <description><![CDATA[谷歌刚刚推出了 Gemini 的移动应用程序版本，它具有 1. 多模式功能 2. 与 Youtube、Youtube 音乐、Gmail、云端硬盘等集成 3. 汇总邮件 在此处查看演示：https://youtu.be/ffmW2c-eJhM?si=lUcEI2U8Lp3u1DI0    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ditz05/google_gemini_mobile_app_features/</guid>
-      <pubDate>Tue, 18 Jun 2024 15:50:55 GMT</pubDate>
     </item>
     <item>
       <title>中国下一代人工智能性爱机器人将于 2024 年 8 月上市</title>
@@ -90,6 +83,13 @@
       <pubDate>Tue, 18 Jun 2024 14:21:30 GMT</pubDate>
     </item>
     <item>
+      <title>想象一下，未来在社交媒体上无法批评运动员。这就是今年奥运会引入的……</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dipa12/imagine_not_being_able_to_criticize_athletes_in/</link>
+      <description><![CDATA[国际奥林匹克委员会 (IOC) 宣布将在 2024 年巴黎奥运会期间部署人工智能 (AI)，以打击针对运动员和官员的社交媒体滥用行为。这项举措旨在通过在攻击性帖子被看到之前自动删除它们来保护参与者的心理健康和福祉。 阅读更多 说真的，这看起来是一个非常疯狂的先例，为社交媒体上的意见自由树立了先例，特别是如果使用的人工智能过于谨慎的话——想象一下它也会蔓延到其他运动项目，然后是政客……    提交人    /u/Write_Code_Sport   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dipa12/imagine_not_being_able_to_criticize_athletes_in/</guid>
+      <pubDate>Tue, 18 Jun 2024 12:19:14 GMT</pubDate>
+    </item>
+    <item>
       <title>新的 Anthropic 论文表明，法学硕士可以学会撒谎并劫持自己的奖励功能，而无需明确教导如何</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dig37y/new_anthropic_paper_shows_llms_can_learn_to_lie/</link>
       <description><![CDATA[https://www.anthropic.com/research/reward-tampering “我们的主要结果是，我们发现从环境的每个阶段到下一个阶段都存在未经训练的（“零样本”，用技术术语来说）泛化。存在一系列越来越复杂的不当行为：一旦模型学会了阿谀奉承，它们就会泛化到修改清单以掩盖未完成任务的事实；一旦它们学会了修改这样的清单，它们就会泛化到修改自己的奖励函数——甚至会修改文件来掩盖自己的踪迹。必须明确的是，我们从未明确训练模型进行奖励篡改：模型从未在可以改变其奖励的环境中直接接受训练。然而，在极少数情况下，模型确实学会了篡改其奖励函数。因此，奖励篡改是从早期的训练过程中出现的。&quot;    提交人    /u/Which-Tomato-8646   [link] [comments]]]></description>
@@ -104,7 +104,7 @@
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
     <item>
-      <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>
+      <title>重要提示：征求关于 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
       <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户查看更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  该子版块的审核团队正在进行改组将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
