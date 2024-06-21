@@ -4,7 +4,43 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Fri, 21 Jun 2024 06:08:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 09:06:41 GMT</lastBuildDate>
+    <item>
+      <title>我尝试了 APIToolkit：一个 API 监控平台：以下是我学到的东西</title>
+      <link>https://feed.indiehackers.world/post/79aa4ab69d</link>
+      <description><![CDATA[而且由于 APIToolkit 会监视对我的 API 发出的请求，并为每个请求提供多个指标的数据点，所以我可以随意犯错，哈哈……
+如果您有 API 或正在构建一些 API，请尝试一下，然后告诉我它有多大帮助。
+这是 APIToolkit 的链接
+Discord Indiehackers Chat广告 这里]]></description>
+      <guid>https://feed.indiehackers.world/post/79aa4ab69d</guid>
+      <pubDate>Fri, 21 Jun 2024 07:27:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>零售业中的机器学习产品匹配</title>
+      <link>https://feed.indiehackers.world/post/e0b78b2a94</link>
+      <description><![CDATA[两种数据分析算法有助于检测价格相似性。
+
+价格异常值检测：它将一个价格与一组产品的类似价格进行比较。当价格低于或高于该组价格时，测试就会发挥作用。
+
+聚类：它根据价格提供对相同产品数量的洞察。产品匹配算法使用这些洞察来生成输出。
+
+标题相似性
+
+
+这是一个机器学习产品匹配解决方案模块。ML 算法量化了标题的相似性。比较字符串可能不同，但该技术可以有效跟踪相同的标题。
+例如，不同的零售商对某个品牌的衬衫提供相同的报价，如下所示：
+
+名称
+
+价格
+
+尺寸和合身度
+
+
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/e0b78b2a94</guid>
+      <pubDate>Fri, 21 Jun 2024 06:09:01 GMT</pubDate>
+    </item>
     <item>
       <title>我用来在 30 天内吸引 100 名用户的网站设计公式</title>
       <link>https://feed.indiehackers.world/post/a881bb8b38</link>
@@ -158,22 +194,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告 这里]]></description>
       <guid>https://feed.indiehackers.world/post/b2f07ec441</guid>
       <pubDate>Wed, 19 Jun 2024 20:14:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否曾经参与过有专职 DBA 的项目？</title>
-      <link>https://feed.indiehackers.world/post/5a2a445639</link>
-      <description><![CDATA[www.sqlsensei.net
-Discord Indiehackers Chat广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/5a2a445639</guid>
-      <pubDate>Wed, 19 Jun 2024 18:01:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我一年的 SaaS 成果</title>
-      <link>https://feed.indiehackers.world/post/3c84e4fcbc</link>
-      <description><![CDATA[#SaaS #Milestone #UploadFilesLink
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/3c84e4fcbc</guid>
-      <pubDate>Wed, 19 Jun 2024 15:23:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
