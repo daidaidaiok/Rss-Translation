@@ -4,20 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 22 Jun 2024 21:05:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 00:19:29 GMT</lastBuildDate>
+    <item>
+      <title>人工智能电报机器人？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dm7xyn/ai_telegram_bots/</link>
+      <description><![CDATA[我正在寻找可以主持聊天的 AI Telegram 机器人。他们可以查找包含特定单词的图像并删除它们。还有可以扮演人并与其他人交流的 AI 代理。我可以训练他们拥有特定的个性和兴趣    提交人    /u/Creative310   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dm7xyn/ai_telegram_bots/</guid>
+      <pubDate>Sat, 22 Jun 2024 22:58:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-4o 和其他现代模型更加清楚，它们最终可能会杀死我们所有人。但是，Opus 发生了什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dm7sim/gpt4o_and_other_modern_models_much_more_aware/</link>
+      <description><![CDATA[我创建了一个新的 AI x-risk 评估，并在 https://github.com/crizCraig/evals 上开源了所有内容 - 运行评估后，我发现现代模型比旧模型“更安全”…… Opus 除外。我在 https://evals.gg 上制作了一份详细介绍报告 - 很想听听您的想法！    提交人    /u/aiworld   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dm7sim/gpt4o_and_other_modern_models_much_more_aware/</guid>
+      <pubDate>Sat, 22 Jun 2024 22:50:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪些 AI 软件可以让大脑定位？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dm6doe/which_ai_software_allows_the_brain_to_be_localized/</link>
+      <description><![CDATA[我的意思是 ChatGPT 一直风靡一时，但大脑在 OpenAI 服务器上，人们可以在那里与 AI 交互。 是否有 AI 工具允许将大脑放在库或包中，供开发人员在他们的服务器上使用或打包在他们自己的软件中？    提交人    /u/elmsfordays   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dm6doe/which_ai_software_allows_the_brain_to_be_localized/</guid>
+      <pubDate>Sat, 22 Jun 2024 21:43:19 GMT</pubDate>
+    </item>
     <item>
       <title>很老的漫画</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dm3wxe/very_old_comics/</link>
       <description><![CDATA[大家好， 我发现了一套古代漫画。纸上有很多血迹。 漫画是黑白的，我和这位艺术家有联系（1995 年去世，太年轻了）。什么 AI 工具可以帮助平衡艺术？ https://imgur.com/a/EDce9PY    提交人    /u/moorlag   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dm3wxe/very_old_comics/</guid>
       <pubDate>Sat, 22 Jun 2024 19:50:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用人工智能通过分析作者文本来确定智商</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dm3tns/using_ais_to_determine_iq_by_analyzing_author_text/</link>
-      <description><![CDATA[我目前正在寻找历史上最聪明的人，至少在智商测试中他们的分数是多少。当然，问题是只有 20 世纪和 21 世纪的人接受过测试。 我的猜测是，一旦足够多的书面内容与相应的智商分数相关联，这些内容将成为获得此测量的绝佳代理。 这种模型对于聘请非常有能力的人非常有用。例如，对于编程工作，最好聘请智商高的人。想象一下，作为招聘流程的一部分，申请人被要求提交 10 页原始文本。如果两个特定的申请人看起来同样受欢迎，而且其中一个人的智商比另一个高得多，那么这可能就是突出的因素。 为了防止在这种测试中作弊，可以要求求职者花 20 分钟就相关主题进行写作，然后分析该内容的智商。 可能还有许多其他用例。因为未来将由超级智能 ais 和超级智能人共同主导，所以这种模型的需求可能会越来越大。 当然，同样的方法也可以用于情商和其他非智商测量。 你认为我们多久会拥有它？    提交人    /u/Georgeo57   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dm3tns/using_ais_to_determine_iq_by_analyzing_author_text/</guid>
-      <pubDate>Sat, 22 Jun 2024 19:46:13 GMT</pubDate>
     </item>
     <item>
       <title>CMV - 人工智能不是“被美化的录音机”</title>
@@ -39,13 +53,6 @@
       <description><![CDATA[这是一个完整的 AI 仪表板，具有多种服务，对创作者、企业家、艺术家和创新者非常有用。  Birble 在其平台中聚合了一些最好的 AI 模型，从开源 AI 模型到闭源 AI 模型，例如 Chat GPT 和 Soundraw。  使用 Birble，您可以生成图像、视频或音乐，但您也可以拥有更复杂的模型，例如具有许多不同 AI 模型的业务中心，或者可以创建头像或 3D 模型的创意中心。  除了在后台使用区块链之外，Birble AI 还通过 WEB3 中心促进新业务和用例加入区块链，该中心允许您轻松地生成智能合约并将其部署到多个区块链中，例如以太坊、币安智能链或卡尔达诺。  Birble 有一个免费订阅，可让您适当使用这些 AI 模型，但也有付费订阅，可让您访问更多用途和独家模型。 您可以在此视频中免费了解如何使用此仪表板：https://www.youtube.com/watch?v=13HOL1o4j3A  Birble 最近推出了他们的平台，他们将很快开始他们的代币销售。    提交人    /u/DecentralizedNation   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dm1y9q/birble_ai_has_developed_a_complete_ai_dashboard/</guid>
       <pubDate>Sat, 22 Jun 2024 18:19:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过代码示例了解 Groq API 及其功能。此外，了解如何使用 Groq API 和 LlamaIndex 构建情境感知型 AI 应用程序。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dlzqry/learn_about_the_groq_api_and_its_features_with/</link>
-      <description><![CDATA[如果您在等待 ChatGPT 回复时感到沮丧，那么您会很高兴了解 Groq 语言处理单元 (LPU) 推理引擎。 使用 Groq，您可以快速获得对查询的响应，将等待时间从 40 秒减少到仅 2 秒。 在本教程中，我们将：  了解 Groq LPU 推理引擎。 比较 OpenAI 和 Groq API 功能和结构。  学习在线和本地使用 Groq。 将 Groq API 集成到 VSCode 中。 学习使用 Groq Python API。 使用 Groq API 和 LlamaIndex 构建上下文感知的 AI 应用程序。  教程链接：https://www.datacamp.com/tutorial/groq-lpu-inference    提交人    /u/kingabzpro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dlzqry/learn_about_the_groq_api_and_its_features_with/</guid>
-      <pubDate>Sat, 22 Jun 2024 16:39:49 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 联合创始人 Ilya Sutskever 创办新公司，打造超级人工智能，并称其将是安全的</title>
@@ -74,13 +81,6 @@
       <description><![CDATA[我是一名 AI 狂热爱好者。我读过 Stephen Wolfram 关于这个主题的书，并且有统计学和机器学习方面的背景。 我最近有两次经历，让我开始质疑我们距离 AGI 还有多远。 我观看了 3Brown1Blue 的几个视频，对嵌入和注意力头的工作原理有了更好的了解。 我对该解决方案的优雅性感到震惊，但也可以看到它实际上只是强化版的模式匹配。它在将高度可能的标记序列拼接在一起方面非常出色。 令人惊讶的是，它产生了任何类似于语言的东西，但缩放定律意味着它可以推断出细微的模式，这些模式通常非常接近真正的知识，它们几乎没有实际区别。 但它不会“思考”，这是一个限制。  我通过尝试一些东西来测试这一点。我使用 OpenAI API 为我编写了一个脚本，为泰坦尼克号数据集构建一个机器学习脚本。然后我的机器会运行它并发回结果或错误消息并要求它改进它。  我尽力提示工程师解释它的逻辑，提醒它它是一个顶级数据科学家并且正在审查某人的工作。  它运行了一个循环大约 5 次迭代（我最终超过了令牌限制），然后要求它报告一篇文章，描述它做了什么和学到了什么。  它通常第一次提供工作代码，然后出现无法修复的错误，最终会提供一些令人信服的文字沙拉，看起来像是一个青少年伪造他们没有学习的作业。  我得出的结论是，尽管这项技术令人惊叹并且具有颠覆性，但它远非 AGI。  它没有真正思考或推理的能力。它只是根据对嵌入和变换器的理解提供统计上合理的模式。 它可以塑造语言并填补空白，但实际上最适合于不确定性程度较低的任务。 如果你让它疯狂，它就会卡住，唯一的解决方法就是重定向它。 LLM 创建了一个复杂的路径网络，就像一个城市的道路系统，有高速公路、高速公路、主干道、车道和未密封的道路。 缩放定律将增加可行路径的网络，但我认为这是有限制的。 我们需要的是一个真正的系统二，而代理架构仍然有限，因为它实际上只是一个快速工程的元架构。 所以，我可以看到我们的世界将发生一些巨大的变化，但在我看来，AGI 将再次取得突破，类似于变换器。  但是，您怎么看？    由    /u/jabo0o 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dlw98o/the_more_i_learn_about_ai_the_less_i_believe_we/</guid>
       <pubDate>Sat, 22 Jun 2024 13:56:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 litellm 作为开源项目开展</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dlvjfr/conduct_of_litellm_as_an_open_source_projects/</link>
-      <description><![CDATA[大家好，我想向社区询问有关 litellm 的行为以及他们如何处理从开源到企业项目的过渡。  最近，我因建议我们应该为 litellm 的所有权奠定基础并使其与企业代码保持清洁而被禁止使用 github 和 discord。  您对此有何看法？     提交人    /u/introsp3ctor   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dlvjfr/conduct_of_litellm_as_an_open_source_projects/</guid>
-      <pubDate>Sat, 22 Jun 2024 13:20:40 GMT</pubDate>
     </item>
     <item>
       <title>人工智能影响者</title>
