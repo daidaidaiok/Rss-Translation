@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 23 Jun 2024 09:07:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 12:07:49 GMT</lastBuildDate>
+    <item>
+      <title>如何检测使用 Selenium 检测的（已修改 | 无头）Chrome（2024 版）</title>
+      <link>https://www.reddit.com/r/programming/comments/1dmjm74/how_to_detect_modifiedheadless_chrome/</link>
+      <description><![CDATA[  由    /u/antvas  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dmjm74/how_to_detect_modifiedheadless_chrome/</guid>
+      <pubDate>Sun, 23 Jun 2024 10:58:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Jib 快速轻松地创建 Docker 镜像</title>
+      <link>https://www.reddit.com/r/programming/comments/1dmja9k/create_fast_and_easy_docker_images_with_jib/</link>
+      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dmja9k/create_fast_and_easy_docker_images_with_jib/</guid>
+      <pubDate>Sun, 23 Jun 2024 10:34:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>你可能不需要微服务</title>
+      <link>https://www.reddit.com/r/programming/comments/1dmi48v/you_probably_dont_need_microservices/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dmi48v/you_probably_dont_need_microservices/</guid>
+      <pubDate>Sun, 23 Jun 2024 09:08:59 GMT</pubDate>
+    </item>
     <item>
       <title>刚刚开源 E25DX：一个用于技术文档的现代 Hugo 主题</title>
       <link>https://www.reddit.com/r/programming/comments/1dmi01u/just_opensourced_e25dx_a_modern_hugo_theme_for/</link>
@@ -48,20 +69,6 @@
       <pubDate>Sun, 23 Jun 2024 08:07:01 GMT</pubDate>
     </item>
     <item>
-      <title>Signal - Angular 18 - 面试问题 - 新功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1dmgfe0/signal_angular_18_interview_questions_new_feature/</link>
-      <description><![CDATA[  由    /u/kyprogramming  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dmgfe0/signal_angular_18_interview_questions_new_feature/</guid>
-      <pubDate>Sun, 23 Jun 2024 07:06:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Signal - Angular 18 - 面试问题 - 新功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1dmgahf/signal_angular_18_interview_questions_new_feature/</link>
-      <description><![CDATA[  由    /u/kyprogramming  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dmgahf/signal_angular_18_interview_questions_new_feature/</guid>
-      <pubDate>Sun, 23 Jun 2024 06:57:17 GMT</pubDate>
-    </item>
-    <item>
       <title>创建 NodeJS 预算工具</title>
       <link>https://www.reddit.com/r/programming/comments/1dmcvhi/creating_a_nodejs_budgeting_tool/</link>
       <description><![CDATA[  由    /u/javascript-today  提交  [链接] [评论]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/bertie-wooster-17  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1dm54wx/the_hidden_secrets_of_design_patterns_what_no_one/</guid>
       <pubDate>Sat, 22 Jun 2024 20:46:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>扩展方法实际上使代码更难阅读</title>
-      <link>https://www.reddit.com/r/programming/comments/1dm3atm/extension_methods_make_code_harder_to_read/</link>
-      <description><![CDATA[  由    /u/bowbahdoe  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dm3atm/extension_methods_make_code_harder_to_read/</guid>
-      <pubDate>Sat, 22 Jun 2024 19:21:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
