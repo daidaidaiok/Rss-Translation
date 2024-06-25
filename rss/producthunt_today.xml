@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Jun 2024 18:08:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 21:06:28 GMT</lastBuildDate>
     <item>
       <title>下班后</title>
       <link>https://www.producthunt.com/posts/afterhour</link>
@@ -104,6 +104,20 @@
       <pubDate>Mon, 24 Jun 2024 14:12:21 GMT</pubDate>
     </item>
     <item>
+      <title>Vanilla 的收件箱</title>
+      <link>https://www.producthunt.com/posts/inbox-by-vanilla</link>
+      <description><![CDATA[
+免费客户支持软件
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/inbox-by-vanilla</guid>
+      <pubDate>Mon, 24 Jun 2024 12:58:06 GMT</pubDate>
+    </item>
+    <item>
       <title>浏览菜单栏</title>
       <link>https://www.producthunt.com/posts/surf-menubar</link>
       <description><![CDATA[
@@ -118,32 +132,32 @@
       <pubDate>Mon, 24 Jun 2024 10:17:03 GMT</pubDate>
     </item>
     <item>
-      <title>代码菜单</title>
-      <link>https://www.producthunt.com/posts/codemenu</link>
+      <title>演示Dazzle</title>
+      <link>https://www.producthunt.com/posts/demodazzle</link>
       <description><![CDATA[
-片段管理器重新发明
+AI 驱动的演示，类似人类的交互
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/codemenu</guid>
-      <pubDate>Fri, 21 Jun 2024 11:08:23 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/demodazzle</guid>
+      <pubDate>Mon, 24 Jun 2024 10:12:03 GMT</pubDate>
     </item>
     <item>
-      <title>臭氧</title>
-      <link>https://www.producthunt.com/posts/ozone-3</link>
+      <title>拖拉机镜</title>
+      <link>https://www.producthunt.com/posts/tractorscope</link>
       <description><![CDATA[
-使用 AI 在几秒钟内编辑视频
+开发人员的数据可视化平台
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/ozone-3</guid>
-      <pubDate>Wed, 19 Jun 2024 00:47:36 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/tractorscope</guid>
+      <pubDate>Fri, 21 Jun 2024 01:34:43 GMT</pubDate>
     </item>
     <item>
       <title>Pixelmost - 使用 AI 制作应用程序模型</title>
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/zebracat</guid>
       <pubDate>Thu, 23 May 2024 15:32:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>中继应用</title>
-      <link>https://www.producthunt.com/posts/relay-app-2</link>
-      <description><![CDATA[
-AI 驱动的自动化
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/relay-app-2</guid>
-      <pubDate>Mon, 13 May 2024 15:14:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
