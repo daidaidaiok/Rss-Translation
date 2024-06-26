@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 26 Jun 2024 03:06:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 06:06:17 GMT</lastBuildDate>
+    <item>
+      <title>获得人工智能和数据科学职位的简历技巧</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1doqx2u/resume_tips_for_landing_ai_and_data_science_jobs/</link>
+      <description><![CDATA[在看过很多简历评论和与工作相关的帖子后，我介绍了一些简历技巧，可帮助您获得 ML 工程师、数据科学家或其他相关职位。AIQ 第 2 集通过回答一些重要问题讨论了如何为 AI 和 ML 工作准备简历（技巧和窍门），例如 1. 简历的重要部分。 2. 应届毕业生简历技巧 3. 认证与项目 4. 要避免的错误 5. 1 页简历是强制性的吗？ 6. 您是否应该包括过去的非技术经验？ 7. 免费 ATS 用于简历审查。 8. 可供选择哪些项目？ 9.我可以包括泰坦尼克号分类吗？......以及许多其他问题 在此处查看播客：https://youtu.be/vl0zNSE9Zws?si=IQwi9srpomnUmUE8    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1doqx2u/resume_tips_for_landing_ai_and_data_science_jobs/</guid>
+      <pubDate>Wed, 26 Jun 2024 05:25:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我们对人类智能没有全面的了解，我们如何才能拥有通用人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dop3dn/how_will_we_ever_have_generalized_ai_if_we_dont/</link>
+      <description><![CDATA[每个人都表现得好像我们即将拥有一种通用人工智能，它可以像人脑一样学习和解决问题，或者至少能够很好地执行不需要人类水平智能的任务，比如驾驶（老实说，如果你看看特斯拉的 FSD，你会发现这似乎并不属实，他们已经投入了数十亿美元，但仍然运行不佳）。我对此非常怀疑，因为据我所知，没有人真正知道生物智能是如何工作的，至少还不够好，无法在计算机程序中对其进行建模。目前的人工智能技术充其量只是受到大脑的松散启发，与数学/计算机科学/统计学的共同点比与生物学的共同点多得多。我不相信我们很快就会拥有一种可以完全取代任何东西的人工智能，除了最低级和最无脑的工作。最多它将是一种自动化工具，仍然需要人类的 SME 才能正确使用。    由    /u/KaleidoscopeOk378  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dop3dn/how_will_we_ever_have_generalized_ai_if_we_dont/</guid>
+      <pubDate>Wed, 26 Jun 2024 03:38:28 GMT</pubDate>
+    </item>
     <item>
       <title>每日一分钟人工智能新闻 2024 年 6 月 25 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dongqy/oneminute_daily_ai_news_6252024/</link>
@@ -62,25 +76,11 @@
       <pubDate>Tue, 25 Jun 2024 18:53:43 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能入门指南；简化关注点</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dode8o/ai_for_dummies_simplified_concerns/</link>
-      <description><![CDATA[这个 subreddit 是关于人工智能的内容，从我在网上读到的内容来看，似乎写人工智能的人经常想知道如何有效地传达我们为什么担心人工智能。我是一位全职妈妈，已经阅读有关人工智能的文章一年多了，这是我帮助向非技术人员解释人工智能的尝试。  这是我对如何提供帮助的看法，尽管我缺乏技术知识。以下是我试图将人工智能的复杂性分解为适合普通受众的格式。 我希望你们中的一些人发现这对与他人分享有帮助。  像我这样的傻瓜的人工智能    提交人    /u/Isha-Yiras-Hashem   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dode8o/ai_for_dummies_simplified_concerns/</guid>
-      <pubDate>Tue, 25 Jun 2024 18:43:10 GMT</pubDate>
-    </item>
-    <item>
       <title>谷歌进军模仿名人和网红的人工智能聊天机器人</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1doab3e/google_ventures_into_ai_chatbots_modeled_after/</link>
       <description><![CDATA[据报道，谷歌正在开发基于名人和 YouTube 影响者的 AI 聊天机器人。该计划旨在利用该公司的 Gemini 系列大型语言模型，创建模仿名人反应风格的个性化聊天机器人。用户可以通过描述自己的个性和外表来创建自己的聊天机器人。 阅读更多    提交人    /u/Write_Code_Sport   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1doab3e/google_ventures_into_ai_chatbots_modeled_after/</guid>
       <pubDate>Tue, 25 Jun 2024 16:33:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能技术概念提议将“受害者经历”记忆植入罪犯体内</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1do6mlg/ai_tech_concept_proposes_implanting_victims/</link>
-      <description><![CDATA[科学家 Hashem Al-Ghaili 提出了一项概念，旨在彻底改变刑事司法系统。这个想法包括将人工智能生成的合成犯罪记忆植入囚犯的大脑，但是从受害者的角度来看。 这种名为 Cognify 的创新方法可以将监禁时间从数年缩短到几分钟，同时培养罪犯的真诚悔意和理解。 这个前提与斯坦利·库布里克的《发条橙》电影的主题惊人地相似...... 阅读更多    提交人    /u/Write_Code_Sport   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1do6mlg/ai_tech_concept_proposes_implanting_victims/</guid>
-      <pubDate>Tue, 25 Jun 2024 13:56:38 GMT</pubDate>
     </item>
     <item>
       <title>了解 AI 最新动态的最佳资源</title>
