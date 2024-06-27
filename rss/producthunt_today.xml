@@ -2,9 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 27 Jun 2024 09:07:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 12:08:30 GMT</lastBuildDate>
+    <item>
+      <title>Fastly 免费账户</title>
+      <link>https://www.producthunt.com/posts/fastly-free-accounts</link>
+      <description><![CDATA[
+构建一些令人惊叹的东西！CDN、可观察性、KV Store 等
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/fastly-free-accounts</guid>
+      <pubDate>Thu, 27 Jun 2024 10:47:59 GMT</pubDate>
+    </item>
     <item>
       <title>Figma 幻灯片</title>
       <link>https://www.producthunt.com/posts/figma-slides</link>
@@ -46,6 +60,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/thisorthis-ai</guid>
       <pubDate>Wed, 26 Jun 2024 14:30:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>SheetsDB：Google Sheets 到 JSON API</title>
+      <link>https://www.producthunt.com/posts/sheetsdb-google-sheets-to-json-api</link>
+      <description><![CDATA[
+将 Google 表格转换为即时、免费的 JSON API
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/sheetsdb-google-sheets-to-json-api</guid>
+      <pubDate>Wed, 26 Jun 2024 08:11:53 GMT</pubDate>
     </item>
     <item>
       <title>语言学家翻译</title>
@@ -104,34 +132,6 @@
       <pubDate>Mon, 24 Jun 2024 15:53:46 GMT</pubDate>
     </item>
     <item>
-      <title>纸张移位器</title>
-      <link>https://www.producthunt.com/posts/sheet-shifter</link>
-      <description><![CDATA[
-无需打开单个文件即可迁移 CSV 数据
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/sheet-shifter</guid>
-      <pubDate>Sun, 23 Jun 2024 22:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>冲洗</title>
-      <link>https://www.producthunt.com/posts/siram</link>
-      <description><![CDATA[
-自动给室内植物浇水
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/siram</guid>
-      <pubDate>Sun, 23 Jun 2024 13:55:34 GMT</pubDate>
-    </item>
-    <item>
       <title>问题库</title>
       <link>https://www.producthunt.com/posts/question-base-2</link>
       <description><![CDATA[
@@ -146,24 +146,24 @@
       <pubDate>Sun, 23 Jun 2024 11:14:33 GMT</pubDate>
     </item>
     <item>
-      <title>MOFT Snap Note 支架</title>
-      <link>https://www.producthunt.com/posts/moft-snap-note-stand</link>
+      <title>语义流</title>
+      <link>https://www.producthunt.com/posts/semflow</link>
       <description><![CDATA[
-第一个便携式日常专注系统
+Webflow 的 SEO 应用
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/moft-snap-note-stand</guid>
-      <pubDate>Sat, 22 Jun 2024 12:20:51 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/semflow</guid>
+      <pubDate>Sun, 23 Jun 2024 02:30:01 GMT</pubDate>
     </item>
     <item>
       <title>ScoreMyDeck网站</title>
       <link>https://www.producthunt.com/posts/scoremydeck-com</link>
       <description><![CDATA[
-90 秒内从 100 位风险投资家处获取 Pitch Deck 建议
+90 秒内从 100 位风险投资家那里获得 Pitch Deck 建议
 
 
 讨论
@@ -202,8 +202,8 @@
       <pubDate>Mon, 10 Jun 2024 17:57:57 GMT</pubDate>
     </item>
     <item>
-      <title>ChatScreen: iOS 2.0 版 Sider</title>
-      <link>https://www.producthunt.com/posts/chatscreen-sider-for-ios-2-0</link>
+      <title>ChatScreen: Sider 2.0 适用于 iOS</title>
+      <link>https://www.producthunt.com/posts/chatscreen-sider-2-0-for-ios</link>
       <description><![CDATA[
 无需切换应用，即可与屏幕上的任何内容进行 AI 聊天
 
@@ -212,7 +212,7 @@
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/chatscreen-sider-for-ios-2-0</guid>
+      <guid>https://www.producthunt.com/posts/chatscreen-sider-2-0-for-ios</guid>
       <pubDate>Wed, 05 Jun 2024 10:58:12 GMT</pubDate>
     </item>
     </channel>
