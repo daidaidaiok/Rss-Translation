@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 27 Jun 2024 21:06:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 00:19:38 GMT</lastBuildDate>
+    <item>
+      <title>开源 Twitter</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dq3fav/open_source_twitter/</link>
+      <description><![CDATA[我想创建一个集成所有其他社交媒体的开源数据中心社交媒体平台。X、IG、Rumble、Youtube、GTTR、Truth。 一个自由的言论平台，没有游戏，由所有人拥有，但又不属于任何人。 人们可以在他们选择的媒体上在他们选择的平台上发帖，并将其整合到他们的 feed 中。    提交人    /u/Truss120   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dq3fav/open_source_twitter/</guid>
+      <pubDate>Thu, 27 Jun 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何根据国家/地区查找 GitHub 开源仓库</title>
       <link>https://www.reddit.com/r/opensource/comments/1dq0808/how_to_find_github_opensource_repo_based_on/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好！ 我很高兴地宣布发布我的 AutoCAD Points Import 插件！🎉 此插件简化了将点数据从文本文件导入 AutoCAD 图形的过程，简化了您的工作流程并提高了工作效率。 主要特点：  轻松导入：直接从结构化文本文件导入点。 灵活配置：自定义坐标设置以实现无缝集成。 错误处理：强大的错误管理确保平稳运行。  我正在寻找测试人员和审阅者来尝试并提供反馈。您的见解对于塑造此插件的未来至关重要！ 如何开始：  📥 从 GitHub 存储库下载插件。 🛠️ 安装并将其集成到您的 AutoCAD 环境中。 🚀 探索其特性和功能。 📝 分享您的反馈、改进建议或您遇到的任何错误。  您的反馈将帮助我进一步增强插件并确定新功能的优先级。让我们一起让这个工具更加强大！ 存储库链接：TEXT-TO-AUTOCAD 如有任何问题或建议，请随时与我们联系。期待您的回复！ 干杯，[Taha Mk]    由    /u/taha-mokaddem 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dp8tl4/invitation_to_test_and_review_autocad_points/</guid>
       <pubDate>Wed, 26 Jun 2024 20:35:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求翻译开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dp6p65/looking_to_translate_open_source_projects/</link>
-      <description><![CDATA[您好， 我学习翻译和口译（英语）大约五年了，明年将毕业。我相信我有足够的资格将项目翻译和本地化为我的母语土耳其语。 我目前正在寻找需要从英语翻译成土耳其语的项目，特别是在开源社区。我每天都使用开源软件，并热衷于为这些项目做出贡献。 您能指导我在哪里可以找到这样的翻译项目吗？我如何申请并开始？ 抱歉，如果这与本 subreddit 的主题无关。我很感激您能提供的任何建议或指示。 提前谢谢您！    提交人    /u/Haorelian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dp6p65/looking_to_translate_open_source_projects/</guid>
-      <pubDate>Wed, 26 Jun 2024 19:06:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
