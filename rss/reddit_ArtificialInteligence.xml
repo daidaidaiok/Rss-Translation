@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 29 Jun 2024 21:05:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 00:19:57 GMT</lastBuildDate>
+    <item>
+      <title>将人工智能纳入课堂的建议和想法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1drojmy/suggestions_and_ideas_for_incorporating_ai_into/</link>
+      <description><![CDATA[我想知道这个社区是否已经建立了一套想法，或者是否想集思广益，想出一些关于教师如何开始将人工智能融入课堂的想法，而不是试图检测学生何时使用人工智能。 例如，如果你正在教授一堂英国历史课，那么选择一些你希望他们了解的困难的历史事件。也许是一些没有最终答案的事情，比如“谁杀死了塔中的王子？”让他们花 5-10 分钟使用他们想要的任何工具，然后回来解释发生了什么。我相信这会引发一场精彩的讨论。 我认为许多教师并不那么熟悉人工智能。我想很多人只是感到害怕。他们听说不应该使用它，仅此而已。也许这个社区可以提出一些想法。也许甚至可以有一个关于教育人工智能的 subreddit，它不是关于如何检测它，而是关于如何使用它的想法的建议和反馈。    提交人    /u/rickny0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1drojmy/suggestions_and_ideas_for_incorporating_ai_into/</guid>
+      <pubDate>Sat, 29 Jun 2024 23:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我担心人工智能机器人充斥网络空间，进一步加剧社会两极分化和回音壁效应，从而加剧意义危机</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1drn6kw/im_worried_about_ai_bots_flooding_online_spaces/</link>
+      <description><![CDATA[（我向 chat gpt 3.5 和 Perplexity 提出了以下文本） 在网上，很快就很难区分发帖的真人和发帖的代理 AI 或机器人。  这对许多网站和媒体来说都是一个大问题，因为任何帖子都可能被服务于任何和所有类型议程的 AI 和机器人淹没和破坏。 显而易见的解决方案是网站要求 AI 和机器人将帖子标记为人造的。 另一个潜在的解决方案是验证提交内容是否来自真人，尽管这种解决方案似乎也很危险，因为这会带来隐私问题：人们已经习惯了在线（半）匿名。  你，chat gpt，看到任何解决方案了吗？ 第二个问题；你知道有人试图解决这个问题吗？ 结束提示 答案有点令人振奋，因为似乎很多人都在研究它，而且人工智能可以被编程为“提及”它们实际上是人工智能，但话又说回来，其他人似乎很容易越狱人工智能... 此外，我担心许多平台的接受速度会很慢，而且监管执行得太晚，这意味着大部分损害将会造成。  你肯定可以说，大部分损害已经造成，许多当前的算法以两极分化和心理健康为代价来选择最大关注度...... 有什么想法吗？ TLDR：见标题    提交人    /u/PathOfTheHolyFool   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1drn6kw/im_worried_about_ai_bots_flooding_online_spaces/</guid>
+      <pubDate>Sat, 29 Jun 2024 22:48:14 GMT</pubDate>
+    </item>
     <item>
       <title>您使用过哪些最小众且被低估的 AI 工具？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1drjtig/what_are_some_of_the_most_niche_and_underrated_ai/</link>
@@ -27,11 +41,11 @@
       <pubDate>Sat, 29 Jun 2024 18:34:25 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Dalle 3 进行现代室内设计</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1drf3kb/modern_interior_design_with_dalle_3/</link>
-      <description><![CDATA[  由    /u/Maybe-reality842  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1drf3kb/modern_interior_design_with_dalle_3/</guid>
-      <pubDate>Sat, 29 Jun 2024 16:31:26 GMT</pubDate>
+      <title>液态神经网络 + 脉冲神经网络。想法如何？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1drgwbq/liquid_neural_networks_spiking_neural_networks/</link>
+      <description><![CDATA[刚刚与 gpt4 就此进行了长时间的交谈，有很多想法和事情要尝试/研究。这似乎是一种制作超级强大架构的绝妙方法（当然还要添加一些调味料）。有没有其他人研究或试验过这种东西？如果有，请随时给我发私信，我们可以进一步讨论，无论是关于这个还是其他奇点/AI 相关主题！    提交人    /u/DennisKosht​​a   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1drgwbq/liquid_neural_networks_spiking_neural_networks/</guid>
+      <pubDate>Sat, 29 Jun 2024 17:54:36 GMT</pubDate>
     </item>
     <item>
       <title>微软与 OpenAI、谷歌和三星之间的 AI 协议成为欧盟关注的焦点</title>
@@ -69,25 +83,11 @@
       <pubDate>Sat, 29 Jun 2024 14:33:07 GMT</pubDate>
     </item>
     <item>
-      <title>你对人工智能艺术有什么看法——我羞愧地关闭了使用人工智能艺术的网站</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dr9p6y/what_are_your_thoughts_on_ai_art_i_was_shamed/</link>
-      <description><![CDATA[我有一个 Dreamwidth 网站，我在那里创作了同人小说人物，由于我不会画画，也付不起艺术家的钱，所以我用人工智能艺术来描绘我的角色。当我试图在其他网站上提及我的网站时，我几乎羞愧得把它撤了下来。主要论点是人工智能窃取了艺术家的艺术。如果你没有从中赚到任何钱，你对使用人工智能艺术有什么看法？    提交人    /u/terrabranfordstrife   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dr9p6y/what_are_your_thoughts_on_ai_art_i_was_shamed/</guid>
-      <pubDate>Sat, 29 Jun 2024 12:03:23 GMT</pubDate>
-    </item>
-    <item>
       <title>我构建了一个 AI 工具，可以自动重命名您的文档和文件 - 欢迎反馈！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dr8b19/i_built_an_ai_tool_that_renames_your_documents/</link>
       <description><![CDATA[从我记事起，我就一直在为杂乱的文件夹和无标题文件 (∞) 而苦恼，所以我决定构建一个解决方案。  我创建了一个名为 Renamer.ai 的 AI 工具，它可以自动分析和重命名文件，使其更具描述性和条理性。 主要功能：  使用 AI 理解文件内容 支持多种文件类型（文档、图像等） 旨在节省手动文件组织的时间  我正在寻找一些初始用户来试用它并给我诚实的反馈。哪些功能会让它对您更有用？对 UI/UX 有什么看法？ 我为愿意测试并提供详细反馈的 Reddit 用户提供免费的延长试用期。只需在 DM 中提及您的电子邮件，我就会为您提供免费积分。 提前感谢您的任何意见！    提交人    /u/urosino   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dr8b19/i_built_an_ai_tool_that_renames_your_documents/</guid>
       <pubDate>Sat, 29 Jun 2024 10:34:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>新版本 - Claude 3.5 Sonnet</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dr7zjn/new_release_claude_35_sonnet/</link>
-      <description><![CDATA[我尝试在我的一个项目中使用 Claude 3.5 Sonnet 并启用其工件功能，结果真是太棒了…… 在我看来，界面比 ChatGPT 上的界面好得多，而且一切都很流畅。 例如，请看这个：https://imgur.com/QNDTxuI 即使我没有说，ChatGPT 也会重写我所有的代码，但 Claude 工作更聪明，把重要的部分给我，而不是只写所有内容。 我现在对 Claude 唯一的问题是限制，几条消息之后，我被要求升级（从免费计划升级到高级计划），这完全正常，但我想知道即使使用专业版我是否会获得足够的容量，您觉得怎么样，您对这个新版本有什么看法？    由   提交  /u/Consistent_Front7774   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dr7zjn/new_release_claude_35_sonnet/</guid>
-      <pubDate>Sat, 29 Jun 2024 10:12:14 GMT</pubDate>
     </item>
     <item>
       <title>只是我的观点</title>
