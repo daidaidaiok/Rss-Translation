@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 01 Jul 2024 12:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 15:06:27 GMT</lastBuildDate>
+    <item>
+      <title>Pingpad - 极简主义的去中心化社交</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dsrhit/pingpad_minimalist_decentralized_social/</link>
+      <description><![CDATA[        提交人    /u/kualta   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dsrhit/pingpad_minimalist_decentralized_social/</guid>
+      <pubDate>Mon, 01 Jul 2024 12:14:45 GMT</pubDate>
+    </item>
     <item>
       <title>OhMyForm停止运营，开源项目如何持续发展？</title>
       <link>https://www.reddit.com/r/opensource/comments/1dsrdx9/ohmyform_discontinued_how_can_open_source/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[        提交人    /u/mitousa   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1drqp83/firs_announced_here_4_months_ago_my_opensource/</guid>
       <pubDate>Sun, 30 Jun 2024 01:52:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 神经信息学实验应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dren44/app_for_neuroinformatics_experiment_in_python/</link>
-      <description><![CDATA[此应用是使用 BrainAccess 设备进行数据采集的 EEG 实验基线。它很容易根据您的需要进行更改，并且已经具有基本的 EDA、网格搜索机器学习算法和使用 ICA 的数据预处理。 也许有人最终会需要它。我在大学神经信息学研究俱乐部的项目中利用业余时间完成了它， https://github.com/GrzegorzSzczepanek/EEG_binary_classification    提交人    /u/Aggressive-Jump-422   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dren44/app_for_neuroinformatics_experiment_in_python/</guid>
-      <pubDate>Sat, 29 Jun 2024 16:10:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
