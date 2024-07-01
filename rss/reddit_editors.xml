@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Mon, 01 Jul 2024 00:21:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 03:06:36 GMT</lastBuildDate>
+    <item>
+      <title>自己动手还是购买 10G NAS？</title>
+      <link>https://www.reddit.com/r/editors/comments/1dsiaty/diy_or_buy_10g_nas/</link>
+      <description><![CDATA[嘿，大家好，我想将我的旧电脑改造成 NAS，以便进行实时视频编辑。  它是 3700x、gtx 1660、基本 b450m 主板、ddr4 ram，支持 m.2 nvme 并有几个 sata 端口（我还将连接一个 m.2 扩展卡和一个连接到 10G 交换机的 10gbe 网卡） 目的是让 2 个编辑从 NAS 进行实时编辑（使用 4-8 个以 4K H.264 拍摄的摄像机，偶尔使用 6k RED raw） 我认为所有活跃项目都放在 ssd 上（带有每日备份的 raid 0），其他一切都放在具有冗余和异地备份的 hdd 上（如果需要） 最终，我需要速度、稳定性和初始设置后更少的麻烦。我将不胜感激任何建议。     由    /u/swaggersouls694 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1dsiaty/diy_or_buy_10g_nas/</guid>
+      <pubDate>Mon, 01 Jul 2024 02:36:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>共享存储选项</title>
+      <link>https://www.reddit.com/r/editors/comments/1dsfuo4/shared_storage_options/</link>
+      <description><![CDATA[我对现有的解决方案很感兴趣，这些解决方案可以提供 EditShare 的部分或全部功能，但对于小型团队来说，这些解决方案更小、更便宜。我最感兴趣的功能是可以管理的集中存储（权限、访问等），我喜欢 editshare 提供的自动代理创建功能，因为这意味着可以在异地顺利完成更多工作。自动元数据标记功能很不错，但在所有功能中却最不重要。 想知道你们还会推荐哪些其他解决方案？    提交人    /u/Material-Ad-5785   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1dsfuo4/shared_storage_options/</guid>
+      <pubDate>Mon, 01 Jul 2024 00:27:06 GMT</pubDate>
+    </item>
     <item>
       <title>需要建议，我是一家软件公司的视频编辑。</title>
       <link>https://www.reddit.com/r/editors/comments/1dsc2yz/need_advice_im_a_video_editor_at_a_software/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我没有听很多人谈论过这个，因为这不是一个真正教授的概念，但大多数编辑都有音乐背景。编辑就像一个鼓手，他确切地知道应该在哪里剪辑，依靠的是本能而不是音乐。他们有剪辑的本能，几乎就像他们有自己的脉搏和节奏，类似于说唱歌手保持节奏。 我的问题是：世界上顶级的编辑是否将剪辑点视为音乐，确保流程更具音乐性，而不是只是随机地根据音乐节拍剪辑？    提交人    /u/Yankeeese   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1drd3b5/regarding_musicality_in_editing/</guid>
       <pubDate>Sat, 29 Jun 2024 14:59:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将位于同一轨道的单个视频的多个剪辑同步到其他轨道的视频？</title>
-      <link>https://www.reddit.com/r/editors/comments/1dr7gbr/how_do_i_synchronize_multiple_clips_from_a_single/</link>
-      <description><![CDATA[很久以前，我的同事编辑了轨道 1(v1, a1) 中的多机位视频并导出为视频。 后来我不得不对视频进行一些编辑，但是我的同事删除了项目文件。 所以我有了原始源视频和最终视频，但我想添加一些编辑并再次导出。 因此，我带来了最终视频并使用“场景编辑”功能将其切成片段（轨道 2 中的剪辑）。 现在我想找到每个剪辑在原始剪辑中的位置。 但不幸的是，我无法在一条轨道中同步多个剪辑。我知道的唯一方法是将所有剪辑放置到不同的轨道上，那里有数百个剪辑。 有什么方法可以将放置在同一轨道上的单个视频中的多个剪辑同步到具有原始数据的单个视频吗？    提交人    /u/NTJ_JHY   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1dr7gbr/how_do_i_synchronize_multiple_clips_from_a_single/</guid>
-      <pubDate>Sat, 29 Jun 2024 09:33:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>从颜色接收的剪辑上的时间码不同。Avid/Resolve 往返。</title>
-      <link>https://www.reddit.com/r/editors/comments/1dqy1wn/timecodes_different_on_clips_received_back_from/</link>
-      <description><![CDATA[好的，以前从未见过这个。 往返 Avid&gt;Resolve&gt;Avid。 从颜色队列接收的文件大部分正确，但源时间码偏离了几帧（看起来几乎始终是 3 帧）。 屏幕截图这里。您可以看到中间的代理/彩色剪辑 TC 是相同的，但我们偏离了几帧。 我的第一个想法是它们意外地以错误的 FPS 渲染，但一切似乎都是正确的。我们有一些混合的帧速率，但 99% 是 24FPS。 Avid 2022.12.6，但我也将 AAF 导入 Premiere，问题仍然存在。不确定 Resolve 版本。我在 Windows 11 上。  DNxLB 720p 代理。 DNx444 4K 彩色文件。 Sony FX6/FX9。    由    /u/dmizz 提交   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1dqy1wn/timecodes_different_on_clips_received_back_from/</guid>
-      <pubDate>Sat, 29 Jun 2024 00:00:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
