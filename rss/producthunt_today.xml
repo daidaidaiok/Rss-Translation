@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 02 Jul 2024 00:19:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 03:06:48 GMT</lastBuildDate>
     <item>
       <title>StackOverflow 的全宽</title>
       <link>https://www.producthunt.com/posts/full-width-for-stackoverflow</link>
@@ -23,7 +23,7 @@
       <title>Todoist 中的周日历</title>
       <link>https://www.producthunt.com/posts/weekly-calendar-in-todoist</link>
       <description><![CDATA[
-制定清晰的每周计划，其中包含时间限制内的任务和事件
+制定清晰的每周计划，包括时间限制内的任务和活动
 
 
 讨论
@@ -32,6 +32,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/weekly-calendar-in-todoist</guid>
       <pubDate>Mon, 01 Jul 2024 09:47:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络模拟</title>
+      <link>https://www.producthunt.com/posts/websim</link>
+      <description><![CDATA[
+AI 网页编辑器和模拟器
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/websim</guid>
+      <pubDate>Mon, 01 Jul 2024 00:33:42 GMT</pubDate>
     </item>
     <item>
       <title>再见</title>
@@ -65,7 +79,7 @@
       <title>全球搜索引擎优化</title>
       <link>https://www.producthunt.com/posts/globalseo</link>
       <description><![CDATA[
-使用 AI 实现多语言 SEO
+使用 AI 进行多语言 SEO
 
 
 讨论
@@ -107,7 +121,7 @@
       <title>速拨</title>
       <link>https://www.producthunt.com/posts/sooncall</link>
       <description><![CDATA[
-管理您的友谊并更频繁地给朋友打电话
+管理你的友谊并更频繁地给你的朋友打电话
 
 
 讨论
@@ -144,20 +158,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/brainyai</guid>
       <pubDate>Thu, 27 Jun 2024 03:52:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>prompteasy.ai</title>
-      <link>https://www.producthunt.com/posts/prompteasy-ai</link>
-      <description><![CDATA[
-在 5 分钟内为 GPT 制作微调数据集
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/prompteasy-ai</guid>
-      <pubDate>Sat, 22 Jun 2024 13:04:12 GMT</pubDate>
     </item>
     <item>
       <title>霍普旅舍</title>
@@ -205,7 +205,7 @@
       <title>喊出来</title>
       <link>https://www.producthunt.com/posts/shoutout-cf47469d-0660-4cbc-9f4f-0f77619aa7e8</link>
       <description><![CDATA[
-用于吸引、引导和吸引用户的激励平台
+激励平台，用于吸引、引导和吸引用户
 
 
 讨论
