@@ -3,12 +3,75 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Wed, 03 Jul 2024 06:08:28 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Wed, 03 Jul 2024 09:06:22 GMT</lastBuildDate>
+    <item>
+      <title>开发 GUI 工具来调整 tailwindcss 组件 - 需要一些反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1du9kc7/developing_a_gui_tool_to_tweak_tailwindcss/</link>
+      <description><![CDATA[https://www.twics.dev/ - 旨在促进从互联网上“窃取”组件并使其成为您自己的  演示视频 - https://www.youtube.com/watch?v=NU0iAYKr2V0 刚刚完成 MVP，在继续开发更多功能之前，我正在寻找用户反馈  请随时评论反馈或通过应用程序中提供的反馈表发送反馈 查看投票    提交人    /u/Exciting_Sea_8336   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1du9kc7/developing_a_gui_tool_to_tweak_tailwindcss/</guid>
+      <pubDate>Wed, 03 Jul 2024 08:44:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法理解溢出和浮动在这里如何相互作用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1du90ho/cant_understand_how_overlflow_and_float_interact/</link>
+      <description><![CDATA[大家好， 我做了这个练习，该练习来自csszengarden.com，目的是练习使用 css（基本上，他们会给你一个你无法编辑的 index.html 文件，然后你尝试仅使用 css 来复制某些模型）。  正如您在我的 GitHub 域中看到的那样，该页面与我最初的模型所希望呈现的样子完全一样，所以这方面没有任何问题。 问题在于父容器 (.page-wrapper) 的 overflow css 属性如何与另外两个子元素 (aside 和 .main) 交互，并且对它们两个都应用了 float 属性（请检查代码，您就会知道我在说什么）。 现在，在我的脑海中，.page-wrapper 父容器（具有黑色边框）的 height 应该自然适应以包含其所有子元素（基本上是整个页面的内容，包括两个带有 float 的元素）。但问题是：只有当我赋予它 overflow:hidden 属性或删除应用于两个子元素（aside 和 .main）的 float 属性时，它才会这样做。否则，它的高度将缩小到整个页面高度的 174 左右。 问题是：我真的无法理解这种交互，即使在网上查过并花了一些时间自己弄清楚之后也是如此。我不明白为什么应用于两个子元素的 float 属性会触发将 overflow 属性应用于父容器的需要。 有人可以给我一个解释或至少一些提示来帮助我理解这一点吗？ 谢谢您的时间。    提交人    /u/Banzambo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1du90ho/cant_understand_how_overlflow_and_float_interact/</guid>
+      <pubDate>Wed, 03 Jul 2024 08:03:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>urlumbrella.com 是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1du8vo5/what_is_urlumbrellacom/</link>
+      <description><![CDATA[我的一个客户的网站从 urlumbrella.com 获得大量流量。这是什么？    由   提交  /u/rubbanator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1du8vo5/what_is_urlumbrellacom/</guid>
+      <pubDate>Wed, 03 Jul 2024 07:54:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 操作系统的 ISO Coda 替代品</title>
+      <link>https://www.reddit.com/r/webdev/comments/1du8q7u/iso_coda_alternative_for_windows_os/</link>
+      <description><![CDATA[有人知道在 Windows 操作系统上使用 Coda 的直接替代品吗？ 我有 VS Code，但我工作的公司一直在谈论 Coda（我相信它也已经停产了？）    提交人    /u/Greedy-Mechanic-4932   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1du8q7u/iso_coda_alternative_for_windows_os/</guid>
+      <pubDate>Wed, 03 Jul 2024 07:44:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法在浏览器的请求中设置 cookie 标头，但可以在 node.js 上设置</title>
+      <link>https://www.reddit.com/r/webdev/comments/1du7wpu/cant_set_cookie_header_in_request_on_browser_but/</link>
+      <description><![CDATA[以下是我的 mocha 测试。请求从 localhost:3000 发送到 localhost:1314。  const cookieHeader = (key: string, value: string) =&gt; ({ withCredentials: true, headers: { Cookie: `${key}=${value}`, &quot;X-Test&quot;: &quot;can you see this?&quot; }, }); it(&quot;authenticated with ID token&quot;, async function () { const git = await firstValueFrom(api.generateIdToken({rights:[]})); const r = await _axios.get(&quot;/authenticated&quot;, cookieHeader(`ID_TOKEN`, git.data.generateIdToken)); expect(r.data).to.eql(&quot;authenticated&quot;); });  这个完全相同的测试可以在 node.js 上通过，但在浏览器上失败。我可以在 dev tools 中看到 X-Test 已发送。它还会在浏览器中发送我的本地 Cookie。Cookie 标头是否禁止以编程方式发送？    提交人    /u/yukiiiiii2008   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1du7wpu/cant_set_cookie_header_in_request_on_browser_but/</guid>
+      <pubDate>Wed, 03 Jul 2024 06:47:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>musicforprogramming.net 的音乐均衡器可视化是如何完成的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1du7wmq/how_was_the_music_equalizer_visualization_from/</link>
+      <description><![CDATA[在 musicforprogramming.net 中，均衡器显示为一系列 ASCII 字符，这些字符会根据音乐动态变化。 有人知道或知道如何实现此效果吗？无法确定它是否是 JS 库。    提交人    /u/hellowave   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1du7wmq/how_was_the_music_equalizer_visualization_from/</guid>
+      <pubDate>Wed, 03 Jul 2024 06:47:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何使用 HTML/CSS 创建类似章鱼的结构？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1du7tp0/how_can_i_create_this_octopus_like_structure/</link>
+      <description><![CDATA[      有人可以指导我如何使用 HTML/CSS 创建这种结构吗？或者可以建议一个可以实现这一点的第三方库？ 任何提示或方法建议也值得赞赏。  可以根据项目数量动态创建分支。 https://preview.redd.it/6il0zrtr19ad1.png?width=1185&amp;format=png&amp;auto=webp&amp;s=bb5058da18a34652104a75165ab5a83babdda352    提交人    /u/artensonart98   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1du7tp0/how_can_i_create_this_octopus_like_structure/</guid>
+      <pubDate>Wed, 03 Jul 2024 06:41:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过修复蜜罐问题击败拖放漏洞的最终大佬</title>
+      <link>https://www.reddit.com/r/webdev/comments/1du7nzn/defeating_the_final_boss_of_drag_and_drop_bugs/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi all， 浏览船上构建的功能强大，内置于极度痛苦的错误可能会导致用户是                。 rop“&gt;务实的拖放，欢迎您进入 /u/u/u/alexreardon     [链接]  ＆＃32; [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1du7nzn/defeating_the_final_boss_of_drag_and_drop_bugs/</guid>
+      <pubDate>Wed, 03 Jul 2024 06:31:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建了这个网站。需要一些反馈。我是商科学生。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1du7glf/made_this_site_need_some_feedback_commerce/</link>
+      <description><![CDATA[简要介绍...我是一名自由职业者和 CA 学生。创建了这个网站。需要一些真诚的反馈 :) www.flareitmedia.com    提交人    /u/Glad_Mark_6811   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1du7glf/made_this_site_need_some_feedback_commerce/</guid>
+      <pubDate>Wed, 03 Jul 2024 06:17:51 GMT</pubDate>
+    </item>
     <item>
       <title>已停用的网站的用户数据会怎样？</title>
       <link>https://www.reddit.com/r/webdev/comments/1du6o2k/what_happens_to_user_data_for_a_defunct_website/</link>
-      <description><![CDATA[2001 年左右，有一个博客和视频共享平台，但由于严重的带宽问题而关闭。我当时正在考虑重新推出一个以档案形式呈现的仅供查看的网站，因为我注意到 WayBackMachine 经常无法保存视频数据，或者无法保存某些页面。由于这个网站已经停用 20 多年了，是否有可能有人保留了数据库，或者至少保留了某种数据，或者通常在网站关闭后就被丢弃了？    提交人    /u/ryanlak1234   [链接] [评论]]]></description>
+      <description><![CDATA[2001 年左右，有一个博客和视频共享平台，但由于严重的带宽问题而关闭。我当时正在考虑重新推出一个以档案形式呈现的仅供查看的网站，因为我注意到 WayBackMachine 经常无法保存视频数据，或者无法保存某些页面。由于这个网站已经停用 20 多年了，是否有可能有人保留了数据库，或者至少保留了某种数据，或者通常在网站关闭后将其丢弃？    提交人    /u/ryanlak1234   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1du6o2k/what_happens_to_user_data_for_a_defunct_website/</guid>
       <pubDate>Wed, 03 Jul 2024 05:26:49 GMT</pubDate>
     </item>
@@ -46,69 +109,6 @@
       <description><![CDATA[我目前正在为一位从事视频摄影的朋友设计一个网站。我不知道从哪里开始，希望能得到一些来自其他网页设计师的建议。 您通常如何处理客户网站的设计流程？您是否会查看同一领域的类似网站并将其用作布局的参考？或者您是否会在 WordPress 等平台上探索预制主题，然后对其进行自定义以匹配客户的颜色和领域？ 任何提示都会有很大帮助。谢谢     提交人    /u/Snowpecker   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1du1j5o/your_approach_to_designing_a_website_for_a_client/</guid>
       <pubDate>Wed, 03 Jul 2024 00:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ASCII 艺术动态环境照明</title>
-      <link>https://www.reddit.com/r/webdev/comments/1du0gqn/ascii_art_dynamic_environmental_lighting/</link>
-      <description><![CDATA[      大家好，我正在使用 ChatGPT 开发一款单页网页游戏，到目前为止一切进展顺利，我附上了一张早期的截图，让您了解我正在尝试做什么实现。 到目前为止，我已经有一个完整的任务和叙事结构。我有任务。我实施了战争迷雾。我有动物和幸存者人工智能。我有一个活生生的丛林，树木繁茂，火灾可以造成严重破坏。 事实上，我认为我快完成了。但有一件事 ChatGPT 就是无法理解。 我正在尝试实现照明和昼夜循环，所以我带着火把，建筑物被点亮，一切看起来都很漂亮。我已经使用不透明度实现了黑暗场景。而且它有效，但在晚上游戏速度会变慢到无法玩。 有没有关于像这样在整个地图上创建一个真正高效的阴影和照明系统的提示？    提交人    /u/williar1   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1du0gqn/ascii_art_dynamic_environmental_lighting/</guid>
-      <pubDate>Tue, 02 Jul 2024 23:55:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>自行托管 nginx 网站安全吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1du07u6/is_it_safe_to_self_host_a_nginx_website/</link>
-      <description><![CDATA[嗨，我是网络新手，正在尝试使用 nginx 自行托管 React 网站。我在 Windows 服务器上设置了一个 Hyper-V ubuntu 服务器，运行 nginx，并打开端口 80 和 443。 由于我打开了这些端口，是否有人可以直接访问我的虚拟机？如果可以，他们是否可以从 VM 直接进入我的 Windows 服务器？ 这可能是一个愚蠢的问题，但我只是想确保我做对了。任何建议都值得赞赏    提交人    /u/NotCSM   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1du07u6/is_it_safe_to_self_host_a_nginx_website/</guid>
-      <pubDate>Tue, 02 Jul 2024 23:43:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Three.js 中的动态 LOD 实现以及跨层级转换处理</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dtzwgk/dynamic_lod_implementation_in_threejs_and/</link>
-      <description><![CDATA[大家好， 我正在使用 Three.js、React 和 Electron 开发一个 3D 模型查看器。它支持加载 GLB/GLTF 文件，并允许移动、旋转和变换模型。但是，我在显示大型模型（3M 以上的多边形，例如建筑物、大厅、大型场景）和实现动态 LOD 功能方面面临挑战。我正在使用 SimplifyModifier 来生成不同级别的缩减。 使用 addLevel 的 Three LOD 实现会在层次结构中生成具有不同细节级别的模型副本，这些副本根据摄像机距离隐藏/取消隐藏。问题是变换仅适用于当前 LOD 级别，而不是整个模型。 我正在考虑一种解决方案，即替换原始模型的网格或几何图形，而不是创建副本。我将创建一个包含距离和几何缓冲区的列表，然后根据相机距离替换原始模型上的几何图形。 这是一个好方法吗？有没有更好的方法可以在不创建多个副本的情况下实现动态 LOD？ 谢谢你的帮助！    提交人    /u/Varzul   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dtzwgk/dynamic_lod_implementation_in_threejs_and/</guid>
-      <pubDate>Tue, 02 Jul 2024 23:28:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>你的运作顺序是怎样的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dtzjnu/what_is_your_order_of_operations/</link>
-      <description><![CDATA[我正处于我的第一个全栈 Web 应用程序的规划阶段。我过去曾使用过其他技术堆栈进行学习，但我计划尝试使用 next.js 来实现这个。 我的问题是： 您通常按照什么顺序开发应用程序？ Html、数据库、后端/api、前端功能、样式、身份验证/授权等。    提交人    /u/defuzeqt   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dtzjnu/what_is_your_order_of_operations/</guid>
-      <pubDate>Tue, 02 Jul 2024 23:11:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何包含所有现役 NBA 球员头像的 API 或数据库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dtz9u5/any_apis_or_databases_with_all_current_nba/</link>
-      <description><![CDATA[我正在开发一个梦幻篮球交易分析器项目，但遇到了障碍。虽然我找到了很多有关球员统计数据和其他基本信息的资源，但我很难找到一个包含所有现役 NBA 球员头像的可靠 API 或数据库。    提交人    /u/ratkingdamon   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dtz9u5/any_apis_or_databases_with_all_current_nba/</guid>
-      <pubDate>Tue, 02 Jul 2024 22:58:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于像我这样喜欢在编码时听背景音乐的人来说</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dtyiex/for_those_like_me_who_like_to_have_music_on_the/</link>
-      <description><![CDATA[这是定期更新的播放列表，专门针对法国新独立制作人。涵盖了几种电子流派，但大多是轻松的。这是集中注意力和放松的好背景。非常适合我深夜编码会议。  https://open.spotify.com/playlist/5do4OeQjXogwVejCEcsvSj?si=-kyJkN2XRn6xoOZKJkVN7g  H-Music     提交人    /u/h-musicfr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dtyiex/for_those_like_me_who_like_to_have_music_on_the/</guid>
-      <pubDate>Tue, 02 Jul 2024 22:24:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳计算机科学学士学位在线学校</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dty9rk/best_online_school_for_ba_in_cs/</link>
-      <description><![CDATA[您好！我非常想回到学校完成我的计算机科学学士学位，重点学习网络应用程序和/或应用程序开发，但我不确定哪些学校有值​​得一读的在线本科计算机科学课程？ 我正在寻找可以在晚上学习的在线课程，因为辞掉白天的全职办公室工作是不可能的 - 我完全自食其力，还要支付账单。我还在寻找一些可以得到教师支持的东西，如果我遇到困难或需要一对一辅导，因为我是一个视觉型、动手型的学习者。    提交人    /u/aware_nightmare_85   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dty9rk/best_online_school_for_ba_in_cs/</guid>
-      <pubDate>Tue, 02 Jul 2024 22:13:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>理论方面的好书</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dty1ob/good_book_for_theory/</link>
-      <description><![CDATA[大家好， 我自学编程已经 14 个月了，几周后我找到了一份 Web 开发的工作。我觉得我已经掌握了一些框架的基础知识，可以做一些东西了。我觉得我是个好程序员。 但是我觉得自己对 Web 开发有很多不了解的地方。我一听到“套接字”、“CORS”、“身份验证……”等词，就意识到我并没有真正明白自己在做什么，我只是在输入不同的东西，直到成功。 有人能推荐一些解释 Web 开发基本原理的书籍吗？我使用的框架抽象了很多细节，但我真的想掌握这些细节。   由    /u/tb5841  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dty1ob/good_book_for_theory/</guid>
-      <pubDate>Tue, 02 Jul 2024 22:03:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新了我之前糟糕的设计</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dtxozz/updated_my_previous_bad_design/</link>
-      <description><![CDATA[      https://preview.redd.it/xl54npure6ad1.png?width=1440&amp;format=png&amp;auto=webp&amp;s=0cccba211e2b3ffc6d3ef8f203abad8e6b0a6b57 大家好，我回来了 更新。 阅读您的评论后，尤其是来自 u/lhowles 的评论（解释得非常好，建议很有意义，而且非常详细）和 u/WookieConditioner 的评论（有点苛刻，但激励了我），我决定彻底改变我的设计。这包括配色方案以及一些主要的设计选择。  经过漫长的网络搜索，我发现了一些能给我灵感的设计。你可以在这里看到这些发现的效果（我知道，围绕着那个面板——仍在开发中，但最终可能会成为另一张图表）。仍在开发移动版本，但不会有很多变化——很可能是一列布局，只需进行少量更改即可容纳必要的信息和下拉菜单。 尝试按照 u/lhowles 的建议保持一切一致，并保持正确的对比度。我想我做到了。还添加了徽标（我自己制作的，我为此感到非常自豪），我希望它能展示出网站的内容。  特别感谢 u/WookieConditioner，因为他的严厉言辞促使我改变了整个设计 - 他可能很严厉，但这是必要的！如果没有他的意见，我会坚持旧的设计，虽然不是最好的，我会浪费很多时间来尝试修复它。非常感谢！ 这次告诉我你的想法。我对此感到有点自豪，肯定有一些我错过的需要修复的地方，但我很高兴我决定改变方法并使其更令人难忘（至少在我看来）。大家好，我回来更新了。阅读您的评论后，尤其是来自 u/lhowles（很好的解释，有意义的建议和非常详细）和 u/WookieConditioner（有点苛刻，但这激励了我）的评论，我决定彻底改变我的设计。这还包括配色方案以及一些主要的设计选择。经过长时间的网络搜索冒险，我发现了一些让我获得灵感的设计。您可以在此处看到这些发现的效果（我知道，除了那一个面板之外 - 仍在努力，但最终可能会成为另一张图表）。仍在开发移动版本，但不会有很多变化 - 很可能是一列布局，只需进行少量更改即可容纳必要的信息和下拉菜单。尝试按照 u/lhowles 的建议保持一切一致，并保持正确的对比度。我想我做到了。还添加了徽标（我自己制作的，我为此感到非常自豪），我希望它能展示出该网站的内容。特别感谢 u/WookieConditioner，因为他的严厉言辞促使我改变了整个设计 - 他可能很严厉，但该死的这是必要的！如果没有他的意见，我会坚持使用旧的设计，嗯，不是最好的，我会浪费很多时间来尝试修复它。非常感谢！告诉我你这次的想法。我对此感到自豪，肯定有一些我错过的需要修复的地方，但我很高兴我决定改变方法并使其更令人难忘（至少在我看来）。    提交人    /u/Cyber​​Weirdo420   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dtxozz/updated_my_previous_bad_design/</guid>
-      <pubDate>Tue, 02 Jul 2024 21:48:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
