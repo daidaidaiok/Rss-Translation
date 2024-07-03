@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 03 Jul 2024 12:08:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 15:07:15 GMT</lastBuildDate>
+    <item>
+      <title>很棒的开源电子邮件资源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1duczhf/awesome_opensource_email_resources/</link>
+      <description><![CDATA[嗨， 我在 github 上创建了一个很棒的开源电子邮件资源。 https://github.com/Mindbaz/awesome-opensource-email 我想列出所有与电子邮件相关的开源项目，因此如果我忘记了一个工具，请随时指出 ;) 再见    提交人    /u/pydubreucq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1duczhf/awesome_opensource_email_resources/</guid>
+      <pubDate>Wed, 03 Jul 2024 12:21:20 GMT</pubDate>
+    </item>
     <item>
       <title>最好的简单学校管理系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1duci61/best_simple_school_management_system/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我是开源新手，但我听说如果人们只是通过编写文档来做出贡献，许多开源项目都可以。我有一些经验，有过几次相当有名望的实习经历，并且完成了不错的计算机科学课程。 我最近选修了几门技术写作课程，并且一直在研究它，我想知道是否有一个需要该部门帮助的开源项目列表。出于某种原因，这对我来说是一个有趣的话题。经过短暂的搜索，似乎没有任何地方有列表，在我深入研究之前，我只是想检查一下是否有关于去哪个项目的共识或建议。因为我有自己的项目和课程，所以对编写任何代码并不感兴趣，但很乐意帮助编写    提交人    /u/Aggressive_Rock8747   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dtb4e1/list_of_projects_that_need_open_documentation/</guid>
       <pubDate>Tue, 02 Jul 2024 02:33:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用全自动路由器构建您的下一个 RESTful API！只需安装即可忘记</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dt47jm/build_your_next_restful_api_with_fully_automatic/</link>
-      <description><![CDATA[        提交人    /u/physcocode   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dt47jm/build_your_next_restful_api_with_fully_automatic/</guid>
-      <pubDate>Mon, 01 Jul 2024 21:11:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
