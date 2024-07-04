@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 04 Jul 2024 09:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 12:08:51 GMT</lastBuildDate>
     <item>
       <title>头像 - Figma 插件</title>
       <link>https://www.producthunt.com/posts/avatars-a-figma-plugin</link>
@@ -62,20 +62,6 @@
       <pubDate>Thu, 04 Jul 2024 00:45:22 GMT</pubDate>
     </item>
     <item>
-      <title>类型小工具</title>
-      <link>https://www.producthunt.com/posts/typelets</link>
-      <description><![CDATA[
-使用生成式 AI 进行基于云的文件编辑
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/typelets</guid>
-      <pubDate>Wed, 03 Jul 2024 22:07:05 GMT</pubDate>
-    </item>
-    <item>
       <title>BeyondPDF</title>
       <link>https://www.producthunt.com/posts/beyondpdf</link>
       <description><![CDATA[
@@ -88,6 +74,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/beyondpdf</guid>
       <pubDate>Wed, 03 Jul 2024 19:34:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>没地方</title>
+      <link>https://www.producthunt.com/posts/noplace</link>
+      <description><![CDATA[
+查找您的社区
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/noplace</guid>
+      <pubDate>Wed, 03 Jul 2024 17:54:08 GMT</pubDate>
     </item>
     <item>
       <title>艾尔莎·布莱尔</title>
@@ -104,18 +104,18 @@
       <pubDate>Wed, 03 Jul 2024 14:55:48 GMT</pubDate>
     </item>
     <item>
-      <title>SnippetEase</title>
-      <link>https://www.producthunt.com/posts/snippetease</link>
+      <title>埃奎马克</title>
+      <link>https://www.producthunt.com/posts/equimake</link>
       <description><![CDATA[
-可嵌入代码片段生成器 
+面向学习者和创作者的免费 3D 网络平台
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/snippetease</guid>
-      <pubDate>Tue, 02 Jul 2024 23:35:43 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/equimake</guid>
+      <pubDate>Wed, 03 Jul 2024 14:53:26 GMT</pubDate>
     </item>
     <item>
       <title>B2B SaaS 估值计算器</title>
@@ -177,7 +177,7 @@ Headless WordPress 入门套件
       <title>状态管家</title>
       <link>https://www.producthunt.com/posts/status-butler</link>
       <description><![CDATA[
-直接从 Slack 中的 Hometab 安排状态更新。
+直接从 Slack 中的 Hometab 安排状态更新
 
 
 讨论
