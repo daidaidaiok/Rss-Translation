@@ -4,7 +4,49 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 04 Jul 2024 18:07:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 00:18:41 GMT</lastBuildDate>
+    <item>
+      <title>我需要有关英特尔无线蓝牙驱动程序的帮助。</title>
+      <link>https://www.reddit.com/r/software/comments/1dvktrh/i_need_help_with_my_intel_wireless_bluetooth/</link>
+      <description><![CDATA[大家好， 我的电脑出现了一些奇怪的问题。昨天，我正在正常使用电脑，突然我想通过蓝牙将无线控制器连接到电脑。我发现蓝牙没有被检测到，于是我打开了“设置”&gt;“蓝牙和设备”，结果发现蓝牙没有显示出来。然后，我打开了设备管理器，发现蓝牙只能通过查看&gt;“显示隐藏的设备”看到，但其所有项目都被禁用了。之后，我决定卸载蓝牙及其所有组件（以为重新安装它们很容易）。现在，我遇到了两个问题：  当我从英特尔官方网站安装驱动程序时，我可以成功安装它们，但它们只显示在控制面板&gt;“程序&gt;“卸载程序”中，而不是显示在它们应该在的设备管理器中。  设备管理器在以下路径中显示问题：(我的电脑) &gt; 通用串行总线控制器 &gt; 未知 USB 设备（设备描述符请求失败），错误代码为43。关于这一点，我必须提到这是第一次出现此错误，并且我没有断开或连接任何 USB 设备。  此外，当我尝试运行蓝牙疑难解答时，反馈显示&quot;此设备上没有蓝牙。请尝试使用外部适配器为此计算机添加蓝牙容量。&quot;  我只是不知道如何继续。我尝试了在互联网上能找到的所有方法，但问题仍然存在。 主板型号：MSI B550M PRO-VDH WIFI。网络适​​配器：英特尔（R）双频无线-AC 3168。 最后，这里有一些我用来解释我的问题的截图。 https://preview.redd.it/7ettu6opblad1.png?width=1125&amp;format=png&amp;auto=webp&amp;s=a3c0c38ef24c757c6a74290c56101fb36a344607 https://preview.redd.it/dumsav7oblad1.png?width=400&amp;format=png&amp;auto=webp&amp;s=a32126e3a419376135d10783e7cb5db7cab4dffa https://preview.redd.it/0cy558ioblad1.png?width=360&amp;format=png&amp;auto=webp&amp;s=ee2b83f8120b7a273a4547ba15f20287aa4c92be https://preview.redd.it/kop501uoblad1.png?width=1921&amp;format=png&amp;auto=webp&amp;s=728b10504a0771ca7f3d2ab60672d544c2bde400    提交人    /u/tatin90   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1dvktrh/i_need_help_with_my_intel_wireless_bluetooth/</guid>
+      <pubDate>Thu, 04 Jul 2024 23:58:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有自动上传功能的视频录制软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1dvk90e/video_recording_software_with_an_auto_upload/</link>
+      <description><![CDATA[我正在寻找一个视频录制软件，这样我就可以随时录制我的游戏，并且在我按下停止按钮后它也会自动上传视频并将链接复制到我的剪贴板。 但简单解释一下我想做的事情 玩游戏，按录制按钮，按停止按钮，视频会自动上传到某个网站，例如 streamable.com，链接会添加到我的剪贴板，这样我就可以立即分享。 我听说过 medal.tv，但这对我的需求来说太多了，我只想要一些轻量级的 ig？OBS 很棒，但遗憾的是它缺少我真正想要的自动上传功能... 有什么建议吗？？   由    /u/EksEss  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1dvk90e/video_recording_software_with_an_auto_upload/</guid>
+      <pubDate>Thu, 04 Jul 2024 23:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>在启动\登录时禁用应用程序？Windows 10</title>
+      <link>https://www.reddit.com/r/software/comments/1dvgimu/disable_apps_on_startuplog_on_windows_10/</link>
+      <description><![CDATA[这个问题可能有点愚蠢，但我有一台二手电脑，上面安装了 Absolute Software。它几乎不可能被删除，所以我几乎放弃了，并尝试了其他方法，比如禁用/删除它安装的服务。都不起作用。如果我删除服务，它们会在下次电脑重启时安装并运行。如果我禁用它们（甚至尝试将其设置为手动），服务将恢复为“自动”设置并在下次启动时运行。我尝试通过系统配置编辑启动应用程序，但那不起作用。通过自动运行禁用它们也不行。 话虽如此，我想知道是否有一个程序、工具或命令可以用来在启动时禁用\停止服务？我想因为应用程序可以在启动时启动，所以一定有相反的情况。不是要禁用启动应用程序\服务，而是特别希望每次启动\登录计算机时禁用服务\应用程序。    提交人    /u/Ok_Presentation5934   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1dvgimu/disable_apps_on_startuplog_on_windows_10/</guid>
+      <pubDate>Thu, 04 Jul 2024 20:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么免费软件可以恢复 SD 卡上丢失的照片？</title>
+      <link>https://www.reddit.com/r/software/comments/1dvfwsb/any_free_software_to_recover_lost_photos_on_a_sd/</link>
+      <description><![CDATA[我找到的那些都很贵，我只是想从 1 张 SD 卡中恢复丢失的照片。大约 1.5 GB，在 Windows 上。 感谢您的帮助！    由   提交  /u/camikikz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1dvfwsb/any_free_software_to_recover_lost_photos_on_a_sd/</guid>
+      <pubDate>Thu, 04 Jul 2024 20:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>有自动捕获并保存随机音频片段的软件吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1dvdvpm/software_that_auto_captures_and_saves_random/</link>
+      <description><![CDATA[有谁知道有什么软件可以监听系统音频并自动捕获 5 秒钟的音频录音并定期保存吗？     提交人    /u/limitlesspoostains   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1dvdvpm/software_that_auto_captures_and_saves_random/</guid>
+      <pubDate>Thu, 04 Jul 2024 18:32:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有可以把文件夹转成ipak文件的软件?</title>
+      <link>https://www.reddit.com/r/software/comments/1dvdg18/is_there_a_software_to_make_folders_into_ipak/</link>
+      <description><![CDATA[我想在 black ops 2 中自定义东西，但所有内容都在 ipak 文件中，因此我可以将它们导出到普通文件夹并更改内容，但我找不到将文件夹重新转换为 ipak 文件的方法，以便我可以在游戏中使用它们，    提交人    /u/Hurkamer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1dvdg18/is_there_a_software_to_make_folders_into_ipak/</guid>
+      <pubDate>Thu, 04 Jul 2024 18:13:31 GMT</pubDate>
+    </item>
     <item>
       <title>任何桌面/浏览器 PDF 程序/软件提供“动态缩放”功能？</title>
       <link>https://www.reddit.com/r/software/comments/1dv95rc/any_desktopbrowser_pdf_programsoftware_that/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[我们 3 人团队负责处理各种项目，但截止日期并不是我们关注的重点。我们优先考虑让每个人都保持一致并无缝跟踪进度。  大多数项目管理工具都强调时间表，我们希望找到一种擅长实时状态更新的工具。理想情况下，这将最大限度地减少不断召开状态会议的需要。 有没有推荐的免费项目管理工具在这方面表现优异？    提交人    /u/warnullD   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1dv34z1/free_project_management_software/</guid>
       <pubDate>Thu, 04 Jul 2024 09:50:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是 Oracle Financial Services？它们为银行提供哪些功能？</title>
-      <link>https://www.reddit.com/r/software/comments/1dv1x9p/what_are_oracle_financial_services_and_what/</link>
-      <description><![CDATA[有人能解释一下 Oracle Financial Services 是什么以及它们为银行提供了哪些功能吗？希望深入了解。     提交人    /u/Strict-Present8808   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dv1x9p/what_are_oracle_financial_services_and_what/</guid>
-      <pubDate>Thu, 04 Jul 2024 08:27:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>DVD 分辨率/质量</title>
-      <link>https://www.reddit.com/r/software/comments/1dv1rhw/dvd_resolutionquality/</link>
-      <description><![CDATA[我在考虑刻录 DVD，我有一些短片要放到 DVD 上，我想知道 DVD 播放的是 480p 还是 720p？如果电影文件是 720p，它会以 480p 播放吗？谢谢！只是想知道如何节省空间，在一张光盘上放几部以上的短片！    提交人    /u/waldorfirl   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dv1rhw/dvd_resolutionquality/</guid>
-      <pubDate>Thu, 04 Jul 2024 08:15:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>高级用户文件管理器？</title>
-      <link>https://www.reddit.com/r/software/comments/1dv1kvo/power_user_file_manager/</link>
-      <description><![CDATA[我正在寻找适用于 Linux 的高级用户文件管理器。我在 Windows 上使用过 Directory Opus 和 FreeCommanderXE，但真的找不到具有如此多功能和选项的 Linux 文件管理器。 有什么建议吗？    提交人    /u/ElMachoGrande   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dv1kvo/power_user_file_manager/</guid>
-      <pubDate>Thu, 04 Jul 2024 08:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么软件可以将 RSS 提要转换为 PDF 吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1dv16iy/any_software_that_converts_rss_feed_into_pdf/</link>
-      <description><![CDATA[正如我在标题中所说，我正在寻找一个将 RSS Feed 或（多个）网页转换为一个 pdf 文件的应用程序。除了 Calibre，你们还有什么建议吗？我不喜欢 Calibre，因为它在每个部分后都留下了很大的空白，导致了很多浪费的页面。    提交人    /u/NewerEddo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dv16iy/any_software_that_converts_rss_feed_into_pdf/</guid>
-      <pubDate>Thu, 04 Jul 2024 07:36:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>您需要多久跟进一次未解决的沟通？</title>
-      <link>https://www.reddit.com/r/software/comments/1dv0fya/how_frequently_do_you_need_to_follow_up_on/</link>
-      <description><![CDATA[  由    /u/Efficient_Builder923  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dv0fya/how_frequently_do_you_need_to_follow_up_on/</guid>
-      <pubDate>Thu, 04 Jul 2024 06:48:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网站，收集免费或更便宜的高价软件替代品</title>
-      <link>https://www.reddit.com/r/software/comments/1dv091k/i_made_a_site_that_collects_free_or_more_cheaper/</link>
-      <description><![CDATA[  由    /u/Typical-Start5717  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dv091k/i_made_a_site_that_collects_free_or_more_cheaper/</guid>
-      <pubDate>Thu, 04 Jul 2024 06:36:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
