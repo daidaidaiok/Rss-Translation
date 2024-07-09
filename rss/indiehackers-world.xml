@@ -4,7 +4,29 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Mon, 08 Jul 2024 21:06:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 00:20:09 GMT</lastBuildDate>
+    <item>
+      <title>寻找技术联合创始人（希望是高尔夫球手）</title>
+      <link>https://feed.indiehackers.world/post/b80465d636</link>
+      <description><![CDATA[干杯，
+Luka Karaula
+联系 info(at)birdiefit.com
+#startup #cofounder #golf #business #connection
+Discord Indiehackers Chat广告 此处]]></description>
+      <guid>https://feed.indiehackers.world/post/b80465d636</guid>
+      <pubDate>Mon, 08 Jul 2024 22:54:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 MongoDB 迁移到 Postgres</title>
+      <link>https://feed.indiehackers.world/post/44dd3bfcab</link>
+      <description><![CDATA[考虑将 SAVEE 迁移到 Postgres 而不是 MongoDB 作为主数据库。我有多倒霉？
+目前没有性能瓶颈可以证明这种痛苦的过渡是合理的。我有时看到的唯一问题是某些引用丢失。使用 Postgres（或 MySQL 或其他...），您可以获得外键关系，以确保此问题永远不会发生。
+但我在骗谁呢，光是想到在生产服务器上升级次要的 MongoDB 版本我就吓得屁滚尿流哈哈哈
+您对此有何看法？一旦达到相当程度的采用，使用更“成熟”的数据库是否值得？ （SAVEE 拥有 120 万用户，增长迅速）
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/44dd3bfcab</guid>
+      <pubDate>Mon, 08 Jul 2024 21:47:43 GMT</pubDate>
+    </item>
     <item>
       <title>我使用 SaaS 的第一个月就赚了 1000 英镑</title>
       <link>https://feed.indiehackers.world/post/b1c351c2a6</link>
@@ -173,25 +195,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/8be4a6b366</guid>
       <pubDate>Mon, 08 Jul 2024 12:18:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Product Hunt 上的 KrutAI</title>
-      <link>https://feed.indiehackers.world/post/9d74450b22</link>
-      <description><![CDATA[一位好友正在 Product Hunt 上发布产品！他的故事如下：
-https ://www.linkedin.com/posts/krutxharsh_krutai-ecommerceinnovation-productlaunch-activity-7216025745758801920-9txr?utm_source=share&amp;utm_medium=member_desktop&amp;lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BwP4t0Ge3SgiPpEsLTeEZkQ%3D%3D
-请支持！
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/9d74450b22</guid>
-      <pubDate>Mon, 08 Jul 2024 11:46:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krut AI 明天将在 Product Hunt 上线！请支持</title>
-      <link>https://feed.indiehackers.world/post/8cc7ff4ac9</link>
-      <description><![CDATA[明天，一位好友将在 Product Hunt 上发布产品！请多多支持。阅读下文，了解他的旅程！
-https://www.indiehackers.com/post/krut-ai-launching-on-product-hunt-tomorrow-please-support-dbfcbfec42
-Discord Indiehackers Chat广告 此处]]></description>
-      <guid>https://feed.indiehackers.world/post/8cc7ff4ac9</guid>
-      <pubDate>Mon, 08 Jul 2024 11:41:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
