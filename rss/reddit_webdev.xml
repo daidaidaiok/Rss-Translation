@@ -3,8 +3,78 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Tue, 09 Jul 2024 18:07:46 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Tue, 09 Jul 2024 21:06:52 GMT</lastBuildDate>
+    <item>
+      <title>使用移动设备 NFC 读取器读取信用卡数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dzcyb2/reading_credit_card_data_using_mobile_device_nfc/</link>
+      <description><![CDATA[我为公司开发了一款移动应用程序，我们使用虚拟 POS 来管理客户的付款。但是手动输入卡数据的过程很麻烦。是否可以使用智能手机 nfc 读取器读取信用卡数据？ P.s：NDEFReader() 不起作用！    提交人    /u/ardicli2000   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dzcyb2/reading_credit_card_data_using_mobile_device_nfc/</guid>
+      <pubDate>Tue, 09 Jul 2024 20:41:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作一个只有几个页面并且需要进行身份验证的网站难道会这么难吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dzcx8u/should_making_my_website_with_a_few_pages_and/</link>
+      <description><![CDATA[因此，我正在创建一个简单的网站，用户可以在其中查看他们在游戏中完成的某些项目。我有：  索引 列表（不同游戏） 游戏 登录/注册页面 个人资料  我刚刚创建完登录/注册页面并使用 Firebase 进行身份验证，为此，我不得不观看大量教程。第一个问题，数百万人是否经历了相同的过程？他们是否观看了相同的关于身份验证的视频？我不明白。 我现在必须这样做，以便当一个人登录时，每个页面都有一个个人资料链接，该链接指向已登录用户的个人资料，并删除所有&quot;登录&quot; &quot;注册&quot;按钮。所以就像基本上每个带有身份验证的网站一样，我找不到一个展示这一点的教程。  做这个应该没那么难！     提交人    /u/machinetranslator   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dzcx8u/should_making_my_website_with_a_few_pages_and/</guid>
+      <pubDate>Tue, 09 Jul 2024 20:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建一个可以动态添加子域和域的 Web 应用程序。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dzcfay/build_a_web_app_with_dynamic_adding_subdomains/</link>
+      <description><![CDATA[嗨。 我想构建无代码 SaaS。我了解编码的一切，但对服务器端功能了解不多。 简要说明： 用户可以使用拖放构建器制作一些需要托管在我的服务器上的应用程序。 我的问题： 首先，必须动态添加应用程序的子域，例如 userappname.mysaasdomain.dotcom，这是用户应用程序托管的位置。 其次，如果用户愿意，他可以购买顶级域名（GoDaddy、NameCheap……）并将 DNS 指向我的服务器。 有许多这种类型的服务，例如 carrd.co、wix.com 等。 有人可以告诉我怎么做吗？ AWS 是好的选择吗？  我可以使用 PHP、JavaScript、Python 或任何其他语言编写代码。     提交人    /u/Fr0d0sl4v   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dzcfay/build_a_web_app_with_dynamic_adding_subdomains/</guid>
+      <pubDate>Tue, 09 Jul 2024 20:19:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助 GPT 和 Gemini 集成。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dzbmoj/help_with_gpt_and_gemini_integration/</link>
+      <description><![CDATA[我正在创建一个将在 PR 环境中使用的 Web 应用。它将使用 Gemini 和 GPT API 来生成包含用于生成有关目标公司的查询的来源的响应。这两个网站都能够执行最新的 Web 搜索，但 API 出于某种原因却无法执行，并且会产生幻觉结果以试图弥补这个陷阱。提供不准确的信息和只会导致 404 的链接。 有没有办法可以解决这个问题来完成这项任务，或者这个项目暂时失败了？    提交人    /u/JackMScotland   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dzbmoj/help_with_gpt_and_gemini_integration/</guid>
+      <pubDate>Tue, 09 Jul 2024 19:48:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>引导开发人员的意见？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dzbf6s/boot_dev_opinions/</link>
+      <description><![CDATA[有人试过这门课程吗？可以提供一些见解吗？正在寻找后端的交互式网络课程（嗨，多动症大脑），因为这些天下班后真的很难集中注意力……尽管我非常喜欢在官方网站上学习交互式 vue 课程。    由    /u/Yhcti   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dzbf6s/boot_dev_opinions/</guid>
+      <pubDate>Tue, 09 Jul 2024 19:39:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>请查看我的简历（全栈开发）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dza7xc/please_review_my_resume_full_stack_dev/</link>
+      <description><![CDATA[      https://docs.google.com/document/d/e/2PACX-1vSJP5yoC993rY0TdVOY9XNnwAyrqVX4pn07QsBSdOgTeuh48Gs7zDlEpFVV_wwFlg1NeXIOxFnA5TkD/pub https://preview.redd.it/lxsjlu6dhjbd1.png?width=1758&amp;format=png&amp;auto=webp&amp;s=8068ccd4481794ef2b2669eb200b711afa58efb5    提交人    /u/awesomeveer001   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dza7xc/please_review_my_resume_full_stack_dev/</guid>
+      <pubDate>Tue, 09 Jul 2024 18:49:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 2024 年使用代码从头开始构建现代网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dza58a/how_to_build_a_modern_website_from_scratch_with/</link>
+      <description><![CDATA[我试着稍微扩展一下我的问题。大约一年前我学会了使用 HTML 5 和 CSS，并且已经构建了大约 20 个带有大量小工具的奇特小网页，但它们都是硬编码的，没有任何 JavaScript 或任何东西，我认为它们无法满足现代网站现在的需求。 我想建立一个符合现代标准的网站。例如，当我发布新文章时（如果是博客或新闻网站），它应该自动在主页上生成一个预告片，并且我不想每次发布时都必须手动更改主页。 我在工作中使用内容管理系统 (TYPO3)，因此我习惯于此类应用程序对于管理网站内容的人来说是什么样子，并且我正在尝试实现类似的功能。但是，我在互联网上找到的所有教程要么是关于硬编码 HTML 5 网站，要么是关于使用拖放编辑器或 Wix、Squarespace 等中包含的模板。 我知道使用拖放编辑器会容易得多，但我想将网站编程作为学习练习，而拖放编辑器会破坏整个目的。据我所知，两个主要选项是为 WordPress、TYPO3 或 Joomla 等 CMS 创建自定义主题，或使用 JavaScript Web 开发框架（可能是 NEXT.js？）。 您会推荐其中哪一个选项，您是否有适合我计划的项目的优质资源？ TL;DR：想要构建现代网站而不使用预建模板或拖放编辑器。我应该选择自定义 CMS 模板还是 JavaScript 框架？有什么好的资源吗？    提交人    /u/Dull_Industry_8691   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dza58a/how_to_build_a_modern_website_from_scratch_with/</guid>
+      <pubDate>Tue, 09 Jul 2024 18:46:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有收到任何回调，这可能是什么问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dz9b8n/not_getting_any_callbacks_what_can_be_the_issue/</link>
+      <description><![CDATA[        提交人    /u/insaneEinstein   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dz9b8n/not_getting_any_callbacks_what_can_be_the_issue/</guid>
+      <pubDate>Tue, 09 Jul 2024 18:11:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>为自由职业者提供托管服务的 Oracle 免费套餐</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dz9b59/oracle_free_tier_for_freelance_hosting/</link>
+      <description><![CDATA[您好，我想从事小型企业的自由职业。我想开发和托管网站，到目前为止，我已经在 oci 实例上设置了 nginx 进行托管。我正在使用 Oracle Cloud 上的永久免费套餐，想知道这是否是个坏主意，以及从 Digital Ocean 或其他地方购买服务器是否更好。    提交人    /u/GabeeeeeM   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dz9b59/oracle_free_tier_for_freelance_hosting/</guid>
+      <pubDate>Tue, 09 Jul 2024 18:11:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习无障碍网页开发的最佳资源有哪些？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dz98yp/what_are_the_best_resources_for_learning_about/</link>
+      <description><![CDATA[您好！如果这个问题不适合这个 subreddit，请原谅，但是是的，我很想知道其他人发现了哪些关于无障碍网页开发的最佳资源和学习方法。是否有任何黄金标准的课程、工具或文章供人们以无障碍的方式学习和开发？ 就我的情况而言，我是一名前端工程师，我的工作是使用 React，我发现自己正成为我们应用程序无障碍问题方面的首选人员之一。 我在这方面相当缺乏经验，我想更多地了解如何正确处理它，以便我和团队中的其他人不会犯下导致我们的项目更难使用的错误。    提交人    /u/OreoTheFox   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dz98yp/what_are_the_best_resources_for_learning_about/</guid>
+      <pubDate>Tue, 09 Jul 2024 18:09:19 GMT</pubDate>
+    </item>
     <item>
       <title>如何在网站中嵌入演示文稿</title>
       <link>https://www.reddit.com/r/webdev/comments/1dz8p3p/how_to_embed_presentations_in_website/</link>
@@ -13,7 +83,7 @@
       <pubDate>Tue, 09 Jul 2024 17:46:54 GMT</pubDate>
     </item>
     <item>
-      <title>有人在 ASP.NET 或 Spring Boot 中有附带项目并且它们处于上线状态吗？</title>
+      <title>有人在 ASP.NET 或 Spring Boot 中有附带项目并且它们已经上线了吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1dz83e9/anyone_having_side_projects_in_aspnet_or_spring/</link>
       <description><![CDATA[好奇，有人在 ASP.NET 或 Spring Boot 中拥有附带项目吗？这些项目是实时的，即托管并正在运行。    提交人    /u/AnotherNamelessFella   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dz83e9/anyone_having_side_projects_in_aspnet_or_spring/</guid>
@@ -36,79 +106,9 @@
     <item>
       <title>To Do 应用程序是 webdev 中常见的早期项目，您怎么称呼自己的项目？</title>
       <link>https://www.reddit.com/r/webdev/comments/1dz6bao/to_do_applications_are_a_common_early_project_in/</link>
-      <description><![CDATA[每个人都喜欢双关语或笑话的名字，给我你最好的！    提交人    /u/PedroHicko   [链接] [评论]]]></description>
+      <description><![CDATA[每个人都喜欢双关语或笑话的名字，给我你最好的！    由   提交  /u/PedroHicko   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dz6bao/to_do_applications_are_a_common_early_project_in/</guid>
       <pubDate>Tue, 09 Jul 2024 16:10:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解多表单填写过程中客户端和服务器的工作流程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dz5x79/understanding_client_and_server_workflow_during/</link>
-      <description><![CDATA[让我们以在 AWS 中设置 Cognito 等服务为例。用户需要填写 4 到 5 个表单部分。我想了解/学习以前填写的部分的信息是如何保存的。当用户点击下一步按钮时，它会发送到服务器吗？还是存储在客户端上，可能处于上下文状态？    提交人    /u/Curious_Cantaloupe65   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dz5x79/understanding_client_and_server_workflow_during/</guid>
-      <pubDate>Tue, 09 Jul 2024 15:54:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 OAuth 注册</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dz5ro6/sign_up_via_oauth/</link>
-      <description><![CDATA[大家好， 我想构建一个具有后端和前端的 Web 服务。我将使用 OAuth 2.1 来简化用户注册。我应该使用 PKCE 以便后端接收在前端获得的用户 ID 令牌（与特定身份提供者集成）还是有一种方法可以在后端完全实现“注册”（将用户的浏览器重定向到特定身份提供者然后返回），以便前端不知道底层身份提供者？    提交人    /u/Slick752   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dz5ro6/sign_up_via_oauth/</guid>
-      <pubDate>Tue, 09 Jul 2024 15:48:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人遇到过没有技术背景的优秀产品经理吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dz5izu/has_anyone_had_a_good_product_manager_that_didnt/</link>
-      <description><![CDATA[严肃的问题。我遇到过好的产品经理和坏的产品经理。好的产品经理都来自技术背景。只是好奇其他人的经历。如果你遇到过好的产品经理，你能详细说明一下你认为他们做得好的地方和原因吗？    提交人    /u/NULL_42   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dz5izu/has_anyone_had_a_good_product_manager_that_didnt/</guid>
-      <pubDate>Tue, 09 Jul 2024 15:38:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人转而主要使用 .webp 文件来存储图像吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dz55ww/anyone_switched_over_to_primarily_using_webp/</link>
-      <description><![CDATA[如果有，有什么陷阱或需要注意的事项吗？    提交人    /u/blakealex   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dz55ww/anyone_switched_over_to_primarily_using_webp/</guid>
-      <pubDate>Tue, 09 Jul 2024 15:24:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>管理功能和安全补丁的最佳方式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dz3xo8/best_way_to_manage_features_and_security_patches/</link>
-      <description><![CDATA[TLDR; 使用相同模板或基础代码层管理大量网站安全补丁和新功能的最佳方法 寻找有关管理多个网站（例如 20 个）安全补丁和新功能的最佳方法的想法和建议 假设所有网站都使用相同的基本模板来实现添加用户、基本 CRUD 操作等功能。 我希望能够更新一个存储库，并推送到所有其他存储库。我当时想通过仅拥有一个主分支并将每个其他网站作为主分支来实现此目的。 我只需要将主分支合并为每个相应存储库上的 PR，或者将来甚至使用 git 操作自动执行此操作。 对此的警告是安全问题。由于所有网站都建立在相同的基础代码层上，因此已经存在安全问题，但全部使用同一个 GitHub 帐户会带来自身的安全风险。 有没有更好的推荐方法来开发新功能，这些功能可以应用于或管理这些类型的网站和未来的安全补丁，而我可以在一处简单地升级？我是否应该创建一个包并单独管理该版本并作为模块导入？ TIA    提交人    /u/Glum-Salamander3392   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dz3xo8/best_way_to_manage_features_and_security_patches/</guid>
-      <pubDate>Tue, 09 Jul 2024 14:34:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我到底有多他妈的厉害？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dz3tzy/how_f_am_i/</link>
-      <description><![CDATA[我有 2 年的 React Native 经验，然后我决定成为一名前端开发人员，所以我安静下来，因为他们总是有“薪水问题”，并开始学习 Web 开发，已经 8 个月了，现在我已经掌握了 Web 开发创建的项目、作品集并为开源做出了贡献。我想我已经准备好申请工作了。但不知道从哪里开始。任何建议或建议都会有所帮助。我真的需要一份工作，不再和父母在一起，想再次独立。所以我又有多需要帮助呢    提交人    /u/Legitimate_Ad4667   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dz3tzy/how_f_am_i/</guid>
-      <pubDate>Tue, 09 Jul 2024 14:30:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>根据 goodreads 评分、页数和出版年份筛选编程书籍</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dz3ojm/filter_programming_books_based_on_goodreads/</link>
-      <description><![CDATA[  由    /u/devrav  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dz3ojm/filter_programming_books_based_on_goodreads/</guid>
-      <pubDate>Tue, 09 Jul 2024 14:23:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求 Web 开发之旅的指导和导师</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dz3n4k/seeking_guidance_and_mentorship_for_web/</link>
-      <description><![CDATA[我是一名 24 岁的自学成才的开发人员，踏上了学习 Web 开发的旅程。不幸的是，由于经济条件限制，我无法在 12 年级后完成正规教育。虽然我最初参加了远程学位课程，但由于各种责任而无法继续学习。 父亲去世后，作为家里唯一的经济支柱，我发现自己处境艰难。感觉就像被困在兔子洞里，挣扎着维持生计。所以我想获得克服这一困难的技能，于是开始自学 Web 开发，同时打零工。以下是我迄今为止所取得的成就：  JavaScript：我对 JavaScript 有扎实的理解。 ExpressJS 和 ReactJS：我深入研究了这些框架，并且可以轻松地使用它们。 MongoDB：在我掌握基础知识的同时，我渴望加深我的知识。 Tailwind CSS：我擅长设计登录页面，并将 Figma 设计转换为用于前端的 Tailwind-ReactJS。  但是，由于缺乏实际项目经验，我感到不太自信。这就是我需要你的帮助的地方！🙏 我正在寻找：  指导：如果您是一位愿意指导我的经验丰富的开发人员，我将不胜感激。无论是代码审查、职业建议还是项目指导，我都渴望学习和提高。 真实项目：如果您有任何 Web 开发任务或项目，我很乐意做出贡献。我甚至愿意最初免费工作以展示我的技能。我愿意学习新技术并扩展我的专业知识。     提交人    /u/Ordinary_Ad7790   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dz3n4k/seeking_guidance_and_mentorship_for_web/</guid>
-      <pubDate>Tue, 09 Jul 2024 14:21:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>DAE 在你的工作中具有极不稳定的低层环境吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dz3hvr/dae_have_super_unstable_lower_environments_at/</link>
-      <description><![CDATA[我感觉我们一直在努力让较低的环境保持稳定。比如，我们每天都会多次听到产品经理抱怨他们无法在开发或测试环境中进行适当的测试。这是正常的吗？    提交人    /u/g30drag00n   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dz3hvr/dae_have_super_unstable_lower_environments_at/</guid>
-      <pubDate>Tue, 09 Jul 2024 14:15:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子邮件营销：开源与商业</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dz3fsd/email_marketing_opensource_vs_commercial/</link>
-      <description><![CDATA[对于企业来说，在商业和开源（或手动开发）电子邮件营销平台之间做出选择，哪个更合适？    提交人    /u/AnoniticME   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dz3fsd/email_marketing_opensource_vs_commercial/</guid>
-      <pubDate>Tue, 09 Jul 2024 14:12:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
