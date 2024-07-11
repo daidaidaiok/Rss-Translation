@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 10 Jul 2024 21:06:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 00:19:59 GMT</lastBuildDate>
+    <item>
+      <title>Audacity 的 OpenVINO AI 插件 - 一组适用于 Audacity 的支持 AI 的效果、生成器和分析器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e0aw0o/openvino_ai_plugins_for_audacity_a_set_of/</link>
+      <description><![CDATA[        由    /u/reps_up 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e0aw0o/openvino_ai_plugins_for_audacity_a_set_of/</guid>
+      <pubDate>Wed, 10 Jul 2024 23:53:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个小型的可自托管的、以隐私为重点的网站分析工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e08sim/i_made_a_tiny_selfhostable_privacyfocused_website/</link>
+      <description><![CDATA[大家好， 我想分享 Medama，它是一款注重隐私、轻量级且易于自托管的 Google Analytics 替代方案。 该项目提供单二进制设置，没有外部依赖项，例如设置单独的数据库。 与其他需要大型数据库（如 ClickHouse）的自托管解决方案不同（对于普通网站所有者来说，这可能有点过头了），Medama 可以在大多数小型网站上的 256MB VM 上有效运行。它使用以文件形式存储的嵌入式数据库（SQLite 和 DuckDB），使备份变得简单、直观和直接。 该项目的另一个重点是它能够使用 OpenAPI 规范作为 API 服务器无头运行。这使开发人员能够将 Medama 无缝集成到他们的个人或专业仪表板中。我为该项目选择了非限制性的 Apache 2.0 和 MIT 许可证，以鼓励针对各种用例进行修改和改编（我个人认为 AGPLv3 许可证不支持真正的开放开发）。 这个项目仍处于早期阶段，还有很多功能有待添加，但我希望得到一些早期的反馈，以帮助长期改善最终用户体验。 存储库：medama-io/medama 演示：demo.medama.io 文档：medama.io 感谢您查看这个项目！    提交人    /u/DeathlyLotus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e08sim/i_made_a_tiny_selfhostable_privacyfocused_website/</guid>
+      <pubDate>Wed, 10 Jul 2024 22:21:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过基本 txt 文件实现的 macOS 开源电影追踪应用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e08ono/an_opensource_movie_tracker_app_for_macos_via/</link>
+      <description><![CDATA[我开发了一个应用程序，通过一个基本的 .txt 文件简单地跟踪电影和节目。该应用程序只能查看、添加和删除电影和节目或您想到的任何内容。您还可以按关键字或评分过滤条目。 没什么特别的。希望你会喜欢它！ https://github.com/kNsja5w/Moviez    提交人    /u/Artistic-Sector-3066   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e08ono/an_opensource_movie_tracker_app_for_macos_via/</guid>
+      <pubDate>Wed, 10 Jul 2024 22:17:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>处理器优化技术是否经常获得专利，我是否会侵权，并寻找解决方法。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e07ftn/are_processor_optimization_techniques_often/</link>
+      <description><![CDATA[像 tomasulos 算法、分支预测、推测执行等是否已获得专利？有一些非常普遍的东西很有帮助。如果我出售用它制作的处理器，我会被起诉吗？    提交人    /u/XFaon   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e07ftn/are_processor_optimization_techniques_often/</guid>
+      <pubDate>Wed, 10 Jul 2024 21:26:09 GMT</pubDate>
+    </item>
     <item>
       <title>第三方库存盘点软件。</title>
       <link>https://www.reddit.com/r/opensource/comments/1e05w41/3rd_party_inventory_counting_software/</link>
@@ -69,7 +97,7 @@
       <pubDate>Wed, 10 Jul 2024 05:02:39 GMT</pubDate>
     </item>
     <item>
-      <title>三星 tab a9+ 有开源操作系统吗？</title>
+      <title>适用于 samng tab a9+ 的开源操作系统？</title>
       <link>https://www.reddit.com/r/opensource/comments/1dzfpg9/open_source_os_for_samng_tab_a9/</link>
       <description><![CDATA[我更换了手机供应商，几乎免费获得了三星 tab a9+。我希望为它安装一个开源操作系统，但我只知道 graphene os 和 lineage os，它们都不支持该平板电脑。 如果做不到，我就卖掉它，也许可以存钱买像素平板电脑。    提交人    /u/WannabeSudo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dzfpg9/open_source_os_for_samng_tab_a9/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[我的 pilot P50US9G uhd 智能电视软件不见了，我在互联网上找不到我的电视固件，有没有其他固件可以下载并在电视上使用？    提交人    /u/Mental-Outside5097   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dzfe4s/pilot_smart_tv_firmware/</guid>
       <pubDate>Tue, 09 Jul 2024 22:22:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Crawlee for Python 现已上线👏</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dzd6e5/crawlee_for_python_is_live/</link>
-      <description><![CDATA[  由    /u/B4nan  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dzd6e5/crawlee_for_python_is_live/</guid>
-      <pubDate>Tue, 09 Jul 2024 20:50:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Docspresso - 一个开源文档框架</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dzbrcq/docspresso_an_open_source_documentation_framework/</link>
-      <description><![CDATA[👋 您好，开源社区，我开发了一个即插即用的文档框架，您可以使用它为您的软件应用程序创建在线文档。 我正在为这个项目寻找贡献者。让我们让它更强大、更好！ 我已将其发布为 npm 包。 查看我的 github repo：https://github.com/JimitParmar/docspresso-documentation-framework 了解如何开始。    提交人    /u/JIMITROCKZ   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dzbrcq/docspresso_an_open_source_documentation_framework/</guid>
-      <pubDate>Tue, 09 Jul 2024 19:53:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bigcapital - Quickbooks 的自托管开源替代品，推出 v0.18.0，其中包含银行自动交易分类规则</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dzb1b4/bigcapital_a_selfhosted_and_opensource/</link>
-      <description><![CDATA[  由    /u/AdInner8113  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dzb1b4/bigcapital_a_selfhosted_and_opensource/</guid>
-      <pubDate>Tue, 09 Jul 2024 19:22:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有 UI 的开发人员工作流程工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dz7ipe/tool_for_developer_workflow_with_ui/</link>
-      <description><![CDATA[寻找一个工具，我可以有一个 UI，帮助我可视化我正在开发的应用程序工作流程，没什么复杂的，也许是像这样的 https://imgur.com/4aQbNcm .. 我正在做一个相对较大的项目，虽然只本地托管，但仍然会有太多的依赖项，python 后端，前端的 JS，DB 等等，所以我想以一种整洁的方式做事情，以实现可扩展性和长期效率    提交人    /u/General-Carrot-4624   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dz7ipe/tool_for_developer_workflow_with_ui/</guid>
-      <pubDate>Tue, 09 Jul 2024 16:59:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
