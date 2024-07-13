@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目提要</description>
-    <lastBuildDate>Sat, 13 Jul 2024 09:07:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 18:07:55 GMT</lastBuildDate>
     <item>
-      <title>丹泽尔·彭泽尔·尼克斯</title>
-      <link>https://www.opensourceagenda.com/projects/denzelpenzel-nyx</link>
-      <description><![CDATA[高速键值存储]]></description>
-      <guid>https://www.opensourceagenda.com/projects/denzelpenzel-nyx</guid>
-      <pubDate>Sat, 13 Jul 2024 09:07:19 GMT</pubDate>
+      <title>Jesture 开发工具包</title>
+      <link>https://www.opensourceagenda.com/projects/jesture-sdk</link>
+      <description><![CDATA[Jesture AI SDK 官方仓库：实时设备手势控制]]></description>
+      <guid>https://www.opensourceagenda.com/projects/jesture-sdk</guid>
+      <pubDate>Sat, 13 Jul 2024 18:07:54 GMT</pubDate>
     </item>
     <item>
-      <title>野生高斯</title>
-      <link>https://www.opensourceagenda.com/projects/wild-gaussians</link>
-      <description><![CDATA[WildGaussians：野外 3D 高斯溅射]]></description>
-      <guid>https://www.opensourceagenda.com/projects/wild-gaussians</guid>
-      <pubDate>Sat, 13 Jul 2024 09:07:19 GMT</pubDate>
+      <title>苗条姿态</title>
+      <link>https://www.opensourceagenda.com/projects/svelte-gesture</link>
+      <description><![CDATA[👇 Svelte 中与组件相关的鼠标/触摸手势的 Bread n butter 实用程序。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/svelte-gesture</guid>
+      <pubDate>Sat, 13 Jul 2024 18:07:54 GMT</pubDate>
     </item>
     <item>
-      <title>维达</title>
-      <link>https://www.opensourceagenda.com/projects/vader</link>
-      <description><![CDATA[通过奖励梯度进行视频扩散对齐。我们通过使用各种奖励模型（如 HPS、PickScore、VideoMAE、VJEPA、YOLO、Aesthetics 等）进行微调来改进各种视频扩散模型。我们展示了 ModelScope、VideoCrafter 和 OpenSora 的结果]]></description>
-      <guid>https://www.opensourceagenda.com/projects/vader</guid>
-      <pubDate>Sat, 13 Jul 2024 09:07:19 GMT</pubDate>
+      <title>我们的眼睛</title>
+      <link>https://www.opensourceagenda.com/projects/eyemu</link>
+      <description><![CDATA[移动设备上的凝视 + IMU 手势]]></description>
+      <guid>https://www.opensourceagenda.com/projects/eyemu</guid>
+      <pubDate>Sat, 13 Jul 2024 18:07:53 GMT</pubDate>
     </item>
     <item>
-      <title>格罗克恐鸟</title>
-      <link>https://www.opensourceagenda.com/projects/groq-moa</link>
-      <description><![CDATA[使用 Groq 的代理混合]]></description>
-      <guid>https://www.opensourceagenda.com/projects/groq-moa</guid>
-      <pubDate>Sat, 13 Jul 2024 09:07:18 GMT</pubDate>
+      <title>教堂娱乐</title>
+      <link>https://www.opensourceagenda.com/projects/kiranchhatre-amuse</link>
+      <description><![CDATA[[CVPR 2024] AMUSE：通过解缠潜在扩散实现情感语音驱动的 3D 身体动画 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/kiranchhatre-amuse</guid>
+      <pubDate>Sat, 13 Jul 2024 18:07:53 GMT</pubDate>
     </item>
     <item>
-      <title>Sergi0g杯</title>
-      <link>https://www.opensourceagenda.com/projects/sergi0g-cup</link>
-      <description><![CDATA[检查容器更新的最简单方法]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sergi0g-cup</guid>
-      <pubDate>Sat, 13 Jul 2024 09:07:18 GMT</pubDate>
+      <title>撰写绘图应用程序</title>
+      <link>https://www.opensourceagenda.com/projects/compose-drawing-app</link>
+      <description><![CDATA[✏️🚀 使用 Jetpack Compose Canvas 编写的绘图应用程序。使用触摸、移动和向上事件进行绘制。使用路径数组执行擦除、撤消或重做操作，并设置接下来将单独绘制的路径的属性。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/compose-drawing-app</guid>
+      <pubDate>Sat, 13 Jul 2024 18:07:52 GMT</pubDate>
     </item>
     <item>
-      <title>Arshadowgan 喜欢</title>
-      <link>https://www.opensourceagenda.com/projects/arshadowgan-like</link>
-      <description><![CDATA[类似 ARShadowGAN 的实现。PyTorch。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/arshadowgan-like</guid>
-      <pubDate>Sat, 13 Jul 2024 09:07:17 GMT</pubDate>
+      <title>来自变焦</title>
+      <link>https://www.opensourceagenda.com/projects/zoomist</link>
+      <description><![CDATA[Zoomist 是一个用 TypeScript 构建的库，可让您快速轻松地在网站上创建缩放元素。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zoomist</guid>
+      <pubDate>Sat, 13 Jul 2024 18:07:52 GMT</pubDate>
     </item>
     <item>
-      <title>Yangyangii Pytorch 实践</title>
-      <link>https://www.opensourceagenda.com/projects/yangyangii-pytorch-practice</link>
-      <description><![CDATA[pytorch 基础]]></description>
-      <guid>https://www.opensourceagenda.com/projects/yangyangii-pytorch-practice</guid>
-      <pubDate>Sat, 13 Jul 2024 09:07:17 GMT</pubDate>
+      <title>那么手势呢</title>
+      <link>https://www.opensourceagenda.com/projects/what-about-gestures</link>
+      <description><![CDATA[What about Gestures 是一个 Youtube 播放列表，我喜欢在其中分享创建 React Native 动画的过程。所有动画都是从头开始制作的，以使其易于理解。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/what-about-gestures</guid>
+      <pubDate>Sat, 13 Jul 2024 18:07:51 GMT</pubDate>
     </item>
     <item>
-      <title>Roblox Solara 执行者</title>
-      <link>https://www.opensourceagenda.com/projects/roblox-solara-executor</link>
-      <description><![CDATA[Solara 是一款功能强大且直观的 Roblox 脚本执行器，旨在增强您的游戏体验。无论您是在探索新的游戏机制、测试自己的创作，还是只是对 Roblox 的可能性感到好奇，Solara 都能为您提供所需的工具。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/roblox-solara-executor</guid>
-      <pubDate>Sat, 13 Jul 2024 09:07:17 GMT</pubDate>
+      <title>SR视频播放器</title>
+      <link>https://www.opensourceagenda.com/projects/srvideoplayer</link>
+      <description><![CDATA[自定义界面视频播放器，具有各种交互手势。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/srvideoplayer</guid>
+      <pubDate>Sat, 13 Jul 2024 18:07:51 GMT</pubDate>
     </item>
     <item>
-      <title>Donnayx60 香蕉自动农场面板</title>
-      <link>https://www.opensourceagenda.com/projects/donnayx60-banana-autofarm-panel</link>
-      <description><![CDATA[香蕉点击器软件 / 香蕉机器人 / 香蕉蒸汽游戏 / 香蕉农场机器人 / 香蕉蒸汽 / 香蕉脚本]]></description>
-      <guid>https://www.opensourceagenda.com/projects/donnayx60-banana-autofarm-panel</guid>
-      <pubDate>Sat, 13 Jul 2024 09:07:17 GMT</pubDate>
+      <title>复活 2 动画挑战</title>
+      <link>https://www.opensourceagenda.com/projects/reanimated-2-animations-challenges</link>
+      <description><![CDATA[使用新的 Reanimated2 API 进行 React Native 动画挑战。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/reanimated-2-animations-challenges</guid>
+      <pubDate>Sat, 13 Jul 2024 18:07:50 GMT</pubDate>
     </item>
     <item>
-      <title>Svelte 电容器商店</title>
-      <link>https://www.opensourceagenda.com/projects/svelte-capacitor-store</link>
-      <description><![CDATA[全新的 svelte 存储实现，在本机设备上使用电容器存储来保存其值，否则使用 indexedDB/localStorage。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/svelte-capacitor-store</guid>
-      <pubDate>Sat, 13 Jul 2024 09:07:16 GMT</pubDate>
+      <title>出色的手势生成</title>
+      <link>https://www.opensourceagenda.com/projects/awesome-gesture-generation</link>
+      <description><![CDATA[超棒的手势生成]]></description>
+      <guid>https://www.opensourceagenda.com/projects/awesome-gesture-generation</guid>
+      <pubDate>Sat, 13 Jul 2024 18:07:50 GMT</pubDate>
     </item>
     <item>
-      <title>IndexedDB.Blazor</title>
-      <link>https://www.opensourceagenda.com/projects/indexeddbblazor</link>
-      <description><![CDATA[用于访问 IndexedDB 的 Blazor 库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/indexeddbblazor</guid>
-      <pubDate>Sat, 13 Jul 2024 09:07:16 GMT</pubDate>
+      <title>GodotTouch输入管理器</title>
+      <link>https://www.opensourceagenda.com/projects/godottouchinputmanager</link>
+      <description><![CDATA[改进 Godot 游戏引擎中触摸输入支持（包括新手势）的资产。它还将鼠标输入转换为触摸输入。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/godottouchinputmanager</guid>
+      <pubDate>Sat, 13 Jul 2024 18:07:49 GMT</pubDate>
     </item>
     <item>
-      <title>PWA TodoApp</title>
-      <link>https://www.opensourceagenda.com/projects/pwa-todoapp</link>
-      <description><![CDATA[⚡一个简单的 Todo PWA（渐进式 Web 应用程序），使用 IndexedDB 作为数据库，可以离线使用。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pwa-todoapp</guid>
-      <pubDate>Sat, 13 Jul 2024 09:07:16 GMT</pubDate>
+      <title>ToucheggKDE</title>
+      <link>https://www.opensourceagenda.com/projects/toucheggkde</link>
+      <description><![CDATA[适用于 MacOS 和 Windows 的 TouchEgg 配置，类似于 KDE Plasma 上的触摸板多点触控手势。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/toucheggkde</guid>
+      <pubDate>Sat, 13 Jul 2024 18:07:49 GMT</pubDate>
     </item>
     <item>
-      <title>Lewangdev Scel2txt</title>
-      <link>https://www.opensourceagenda.com/projects/lewangdev-scel2txt</link>
-      <description><![CDATA[搜狗细胞词库转鼠须管（Rime）词库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/lewangdev-scel2txt</guid>
-      <pubDate>Sat, 13 Jul 2024 09:07:15 GMT</pubDate>
+      <title>艾比克斯</title>
+      <link>https://www.opensourceagenda.com/projects/appyx</link>
+      <description><![CDATA[用于 Compose Multiplatform 的模型驱动导航 + 带手势控制的 UI 组件]]></description>
+      <guid>https://www.opensourceagenda.com/projects/appyx</guid>
+      <pubDate>Sat, 13 Jul 2024 18:07:48 GMT</pubDate>
     </item>
     <item>
-      <title>林巴斯</title>
-      <link>https://www.opensourceagenda.com/projects/limbas</link>
-      <description><![CDATA[满足您需求的强大数据库框架]]></description>
-      <guid>https://www.opensourceagenda.com/projects/limbas</guid>
-      <pubDate>Sat, 13 Jul 2024 09:07:15 GMT</pubDate>
+      <title>乔乔·埃克斯波西托·图什</title>
+      <link>https://www.opensourceagenda.com/projects/joseexposito-touche</link>
+      <description><![CDATA[用于配置 Touchégg 的桌面应用程序]]></description>
+      <guid>https://www.opensourceagenda.com/projects/joseexposito-touche</guid>
+      <pubDate>Sat, 13 Jul 2024 18:07:48 GMT</pubDate>
     </item>
     <item>
-      <title>邮件合并示例</title>
-      <link>https://www.opensourceagenda.com/projects/mail-merge-examples</link>
-      <description><![CDATA[使用 C#、VB.NET 将邮件合并数据发送到 Word 文档，无需 Microsoft Word 或 interop。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mail-merge-examples</guid>
-      <pubDate>Sat, 13 Jul 2024 09:07:15 GMT</pubDate>
+      <title>在旁边</title>
+      <link>https://www.opensourceagenda.com/projects/kando</link>
+      <description><![CDATA[🥧 跨平台饼形菜单。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/kando</guid>
+      <pubDate>Sat, 13 Jul 2024 18:07:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
