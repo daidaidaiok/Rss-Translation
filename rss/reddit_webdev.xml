@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 14 Jul 2024 09:06:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 12:16:35 GMT</lastBuildDate>
+    <item>
+      <title>继续使用 Backbone.js 有问题吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e30lod/is_there_a_problem_in_still_using_backbonejs/</link>
+      <description><![CDATA[十年前我接触到了 Backbone.js，我真的很喜欢它。我仍然使用 Backbone.js 来管理我的客户端状态。我使用 Svelte 作为前端框架。我为前端项目设置 Backbone 用于状态管理，Svelte 用于组件管理。我对 Backbone 的集合和模型进行了 monkey patch，使其符合 svelte 存储签名，因此组件可以对模型的变化做出反应。  使用这种方法有什么重大缺点吗？有没有更好的方法？    提交人    /u/Aggressive_Farm_3906   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e30lod/is_there_a_problem_in_still_using_backbonejs/</guid>
+      <pubDate>Sun, 14 Jul 2024 12:00:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么时候你可以称自己为 Web 开发人员？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e30d8f/when_can_you_call_yourself_a_web_developer/</link>
+      <description><![CDATA[大家好， 我是一名应用程序专家，希望深化我的技能并进入 Web 开发领域。我喜欢发挥创造力和解决问题，这就是 Web 开发吸引我的原因。我的目标是最终为我所属的俱乐部建立一个网站，并在此过程中开发其他工具。 但是，我很难理解什么时候你才能真正称自己为 Web 开发人员（对自己的能力充满信心）。了解 HTML、CSS 和 JavaScript 就足够了吗？还是你需要掌握 React 和 Bootstrap 等框架，并且还具备 Node.js 和 NPM 的后端知识？ 我很想听听你对哪些技能或里程碑定义了 Web 开发人员的看法。你的旅程是怎样的？在什么时候你对自己的能力充满信心？对刚起步并旨在建立有意义的项目的人有什么建议吗？ 提前感谢您的见解！    提交人    /u/MA91NL   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e30d8f/when_can_you_call_yourself_a_web_developer/</guid>
+      <pubDate>Sun, 14 Jul 2024 11:46:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络上的视频存在什么问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2zm82/what_is_wrong_with_videos_on_the_web/</link>
+      <description><![CDATA[这个问题困扰了我好几年。有时网络上的视频会在某个时候卡住，出现一个加载循环，除非您重新加载页面几次或点击该点，否则它永远不会解开。这种情况发生在 Twitter、Reddit 和其他网站上，但不会在 Youtube 或 Netflix 上发生。 今天我发现了一个很好的例子，并决定最终询问，也许有人知道技术原因。 https://x.com/wartranslated/status/1812402191891681553/video/1 它在第 34 秒卡住了。其他人也发表了同样的评论，所以不只是我一个人。使用 Chrome、Edge、Safari 检查 - 所有地方都一样，卡在 0:34，重新加载几次并单击该标记后有时可以修复它。发生了什么事？为什么这么久都没有修复？Youtube 如何避免它？    提交人    /u/Fatalist_m   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2zm82/what_is_wrong_with_videos_on_the_web/</guid>
+      <pubDate>Sun, 14 Jul 2024 11:01:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>盗版让我受雇了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2y14i/pirated_got_me_hired/</link>
+      <description><![CDATA[在我的简历和作品集中添加盗版网站（当然是我开发的）是个好主意吗？ 我正在构建一个电影推荐系统，但由于这是一个小项目，我决定在其中添加更多功能。最近我遇到了一个免费提供电影和电视节目的盗版网站，所以我想知道我是否应该将其包含在我的网站中，因为这会使我的网站处于盗版部分。 所有建议都将不胜感激 :)    提交人    /u/redpool08   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2y14i/pirated_got_me_hired/</guid>
+      <pubDate>Sun, 14 Jul 2024 09:19:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>deadalOS 里面 deadalOS 里面 deadalOS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2xwch/deadalos_inside_deadalos_inside_deadalos/</link>
+      <description><![CDATA[      我看到了 u/DustinBrett 的精彩帖子，他制作了可以在浏览器中运行的操作系统，这让我想到，我们可以在 deadalOS 里面运行 deadalOS 吗？ deadalOS 里面的 deadalOS，看起来限制是 4。顺便说一下，这里是原始帖子。了不起的作品！ https://preview.redd.it/c4qe5oxgagcd1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=d34b57224c6e412ce6a4013d8ae1e57cdc5f7680    提交人    /u/negr_mancer   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2xwch/deadalos_inside_deadalos_inside_deadalos/</guid>
+      <pubDate>Sun, 14 Jul 2024 09:10:21 GMT</pubDate>
+    </item>
     <item>
       <title>您用什么来实现这个概念？</title>
       <link>https://www.reddit.com/r/webdev/comments/1e2vrh3/what_do_you_use_to_implement_this_concept/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[我想使用 wordpress 抓取网站数据（用于学校项目），我想知道该怎么做。例如，我想抓取网站帖子的内容，包括其分类属性。你会怎么做？如果我遗漏了某些重要的背景信息，请告诉我    提交人    /u/TheBoyAsh   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1e2r2j1/scraping_on_wordpress/</guid>
       <pubDate>Sun, 14 Jul 2024 02:09:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>同一域或子域上的后端身份验证？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2qvyf/backend_auth_on_same_domain_or_subdomain/</link>
-      <description><![CDATA[假设我有一个在 example.com 上运行的前端应用程序。我想将后端放在像 api.example.com 这样的子域上。但是我必须设置 cookie 以在后端为前端设置会话身份验证。但 Chrome 警告我的会话 cookie 被标记为第三方 cookie，将来会被阻止。我是否仍可以将后端放在单独的域上，还是必须使用 example.com/api 进行后端请求？    提交人    /u/Yoloswag554   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2qvyf/backend_auth_on_same_domain_or_subdomain/</guid>
-      <pubDate>Sun, 14 Jul 2024 01:59:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在开发一个域名缩短器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2qoah/im_building_a_domain_shortener/</link>
-      <description><![CDATA[        提交人    /u/_vloe   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2qoah/im_building_a_domain_shortener/</guid>
-      <pubDate>Sun, 14 Jul 2024 01:48:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站中的 3D 动画序列</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2pzep/3d_animation_sequence_in_a_website/</link>
-      <description><![CDATA[嗨，我对 html css 和 js 有基本的了解，我想知道如何在网站中添加 3D 动画， 我不是指嵌入 gltf/glb 渲染器，我想要的是类似于渲染序列的东西，它可以随着页面上下滚动而播放，有点像笔记本电脑的打开或关闭动画，向下滚动时关闭，向上滚动时打开， 有点像 section__6 中的这个 https://www.asus.com/laptops/for-home/zenbook/asus-zenbook-s-16-um5606/#section__6 我很感激一些关于如何做这样的事情的资源，如果您能推荐用于在网站上为图标和一般内容制作动画的视频，那就太棒了，因为我也想进入交互式前端！ 谢谢！    提交人    /u/tell_me-why_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2pzep/3d_animation_sequence_in_a_website/</guid>
-      <pubDate>Sun, 14 Jul 2024 01:10:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建了一个简单的魔术游戏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2pl4a/created_a_simple_magic_game/</link>
-      <description><![CDATA[我创建了一个简单的游戏，可能会让你的朋友惊叹不已。 这是我制作的视频，免费介绍从编码到部署的整个过程：https://www.youtube.com/watch?v=STId7KG4ixE  查看游戏：https://tsenguun.gitlab.io/magic    提交人    /u/tsenguunee1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2pl4a/created_a_simple_magic_game/</guid>
-      <pubDate>Sun, 14 Jul 2024 00:49:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么图表建议可以创建市场深度图吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2p4jo/any_chart_suggestions_that_can_create_a_market/</link>
-      <description><![CDATA[      与所附屏幕截图类似，如有任何帮助，不胜感激！ https://preview.redd.it/o87in1jzodcd1.png?width=1710&amp;format=png&amp;auto=webp&amp;s=19d0b1e86e1b8bd699ddd8c31fa92bbd21b4a056   由    /u/flightmasterv2  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2p4jo/any_chart_suggestions_that_can_create_a_market/</guid>
-      <pubDate>Sun, 14 Jul 2024 00:25:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
