@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 13 Jul 2024 18:07:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 00:21:55 GMT</lastBuildDate>
     <item>
-      <title>适合初学者的真实实践项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2gkpe/real_practice_projects_for_beginners/</link>
-      <description><![CDATA[我才学了几个星期的编程。我真的很喜欢编程，它已经占据了我大部分的空闲时间。但是，我一直都是一个动手能力很强的学习者。我只能看、读、抄这么多教程，直到它变得乏味，我不再记住信息。我需要自己使用这些语言。通过反复试验来学习。但作为一个初学者，我真的不知道该怎么做。什么是好的初学者练习项目？    提交者    /u/drizzleoswizzle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2gkpe/real_practice_projects_for_beginners/</guid>
-      <pubDate>Sat, 13 Jul 2024 17:59:34 GMT</pubDate>
+      <title>如何学习开发自己的搜索引擎？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2owgt/how_does_one_learn_to_develop_his_own_search/</link>
+      <description><![CDATA[正如标题所述。典型的步骤是什么？    提交人    /u/rickybasses   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2owgt/how_does_one_learn_to_develop_his_own_search/</guid>
+      <pubDate>Sun, 14 Jul 2024 00:14:32 GMT</pubDate>
     </item>
     <item>
-      <title>为兽医建立宠物管理系统</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2g75c/built_a_pet_management_system_for_veterinarians/</link>
-      <description><![CDATA[      我觉得没有人会照顾小家伙，比如兽医，所以我决定建立一个[简单的]宠物管理系统来帮助他们管理客户、宠物和预约。 也许它对你也有用。 Github：https://github.com/geosem42/PetCare 特点：  客户：在一个地方跟踪所有客户。根据需要添加、更新和删除客户信息。 患者：管理所有患者信息，包括病史、治疗计划等。 预约：安排和管理预约。 库存：跟踪您诊所的所有库存。这包括药物，设备和您实践所需的任何其他物品。  https://preview.redd.it/wdkmor7wobcd1.png?width=1913&amp;format=png&amp;auto=webp&amp;s=1caf8ed590c556d4c641fcef787475b13e60dc99 https://preview.redd.it/oq5ykt7wobcd1.jpg?width=1788&amp;format=pjpg&amp;auto=webp&amp;s=c1f03d485bc95df79b7acf741fa909f9b32310e4 https://preview.redd.it/3m086j8wobcd1.jpg?width=1788&amp;format=pjpg&amp;auto=webp&amp;s=2b8095b6733d8b661484fefc3c5580a3f0e3909a    提交人    /u/OkPoet9382   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2g75c/built_a_pet_management_system_for_veterinarians/</guid>
-      <pubDate>Sat, 13 Jul 2024 17:43:07 GMT</pubDate>
+      <title>帮助在 firebase 和 mysql 之间做出选择</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2opc0/help_deciding_between_firebase_and_mysql/</link>
+      <description><![CDATA[我正在为一家餐馆建立一个大学项目，但他们现在规模很小。它基本上是一个发票/库存系统，允许他们按月、年查看财务记录。问题是，我不确定是否使用 firebase 或 mysql，因为 firebase 是无服务器的，而且我听说过有关扩展的恐怖故事。  该项目是免费的，因为大学是个笑话。     提交人    /u/Annual-Ad-416   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2opc0/help_deciding_between_firebase_and_mysql/</guid>
+      <pubDate>Sun, 14 Jul 2024 00:04:24 GMT</pubDate>
     </item>
     <item>
-      <title>我用 JavaScript 制作了一个平滑的无限旋转木马</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2fq1y/i_made_a_smooth_infinite_carousel_in_javascript/</link>
-      <description><![CDATA[        提交人    /u/tahazsh   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2fq1y/i_made_a_smooth_infinite_carousel_in_javascript/</guid>
-      <pubDate>Sat, 13 Jul 2024 17:22:41 GMT</pubDate>
+      <title>还有其他人使用 Google Forms ID/Payload 以编程方式提交表单吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2olxt/anyone_else_using_the_google_forms_idpayload_to/</link>
+      <description><![CDATA[我刚刚发现这一点。这似乎是一种帮助客户端捕获表单数据并接收电子邮件的绝佳方式，而无需建立 DB 和 SendGrid 之类的东西。 有人发现这样做有什么问题吗？感觉就像一个魔术。    提交人    /u/engage_intellect   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2olxt/anyone_else_using_the_google_forms_idpayload_to/</guid>
+      <pubDate>Sun, 14 Jul 2024 00:00:05 GMT</pubDate>
     </item>
     <item>
-      <title>我用画布制作了一个动画和交互式地形图</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2f5qx/i_made_an_animated_and_interactive_topographic/</link>
-      <description><![CDATA[        提交人    /u/exosoul   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2f5qx/i_made_an_animated_and_interactive_topographic/</guid>
-      <pubDate>Sat, 13 Jul 2024 16:58:50 GMT</pubDate>
+      <title>我创建了一个用于比较通勤（公寓或酒店）的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2ojof/i_made_a_website_for_comparing_commutes_for/</link>
+      <description><![CDATA[        提交人    /u/MaulFuse   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2ojof/i_made_a_website_for_comparing_commutes_for/</guid>
+      <pubDate>Sat, 13 Jul 2024 23:56:54 GMT</pubDate>
     </item>
     <item>
-      <title>仪表板模板使用Shadcn，您觉得怎么样？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2eyky/dashboard_template_using_shadcn_what_do_you_think/</link>
-      <description><![CDATA[        提交人    /u/Afraid-Lychee-5314   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2eyky/dashboard_template_using_shadcn_what_do_you_think/</guid>
-      <pubDate>Sat, 13 Jul 2024 16:50:17 GMT</pubDate>
+      <title>我喜欢网络开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2nunk/i_love_web_development/</link>
+      <description><![CDATA[作为一名 Web 开发者，我感到非常自豪。这个领域有如此多的创新。很多很酷的事情正在发生。我并不是要打击那些从事移动、游戏等开发的兄弟姐妹们。我只是说，Web 的功能非常强大，而且随着时间的推移，它的功能只会比现在更强大，而且改进的速度会越来越快。每当我想象 5 年、10 年、20 年后 Web 会是什么样子时，我总是非常兴奋。    提交人    /u/sYfPxiq2sDlIltLc5ux1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2nunk/i_love_web_development/</guid>
+      <pubDate>Sat, 13 Jul 2024 23:23:17 GMT</pubDate>
     </item>
     <item>
-      <title>daedalOS——浏览器中的桌面环境</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2ekrv/daedalos_desktop_environment_in_the_browser/</link>
-      <description><![CDATA[        提交人    /u/DustinBrett   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2ekrv/daedalos_desktop_environment_in_the_browser/</guid>
-      <pubDate>Sat, 13 Jul 2024 16:33:53 GMT</pubDate>
+      <title>在 Bunny 上托管餐厅网站和自由职业者疑问</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2ntii/hosting_on_bunny_for_restaurant_website_and/</link>
+      <description><![CDATA[大家好！我有两个疑问。 1) 我为欧洲的一家餐馆建立了一个网站，我正在考虑使用 Bunny.net 托管它。我试用了他们的试用版，感觉非常好。这家餐馆已经有了自己的域名，而 Bunny.net CDN 的带宽仅为 0.01 美元/GB。考虑到网站小于 1-2 MB，这是一个好的选择吗？还是我犯了一个非常愚蠢的错误，会收到 5000 美元的账单并让我陷入麻烦？ 2) 自由职业网页开发人员如何维护/更改/更新客户的网站 - 在原始工作完成后，他们是否收取额外的维护费用（更改信息/创建新部分等）还是自由职业者有义务永远免费进行维护工作？    提交人    /u/MPG2160   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2ntii/hosting_on_bunny_for_restaurant_website_and/</guid>
+      <pubDate>Sat, 13 Jul 2024 23:21:50 GMT</pubDate>
     </item>
     <item>
-      <title>我想使用 html 和 scss 来创建这个模型，用于在购物车中添加或退出商品</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2ejuz/i_want_to_do_this_model_for_a_adding_or_quitting/</link>
-      <description><![CDATA[      我目前正在一个观赏植物苗圃电子商务网站上工作，我为购物车添加或退出产品的选项看起来很糟糕，我不知道如何让它看起来更好。但我喜欢这个模型，但我不知道如何添加它。因此，如果有人可以帮助我介绍它并给我 HTML 和 SCSS 或 CSS，我将非常感激😊😊 https://preview.redd.it/aonbt3oocbcd1.png?width=764&amp;format=png&amp;auto=webp&amp;s=753ff0b3e6888a0c7911f45a6a15477247d953d3    提交人    /u/ThomasSch465   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2ejuz/i_want_to_do_this_model_for_a_adding_or_quitting/</guid>
-      <pubDate>Sat, 13 Jul 2024 16:32:44 GMT</pubDate>
+      <title>Hexakai - 一款受数独启发的六边形游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2nibx/hexakai_a_sudokuinspired_game_of_hexagons/</link>
+      <description><![CDATA[      Hexakai 的灵感来自数独，是在六边形菱形网格上进行的。通常，Hexakai 游戏的大小为 10，这意味着中间行有 10 个单元格，而棋盘总共有 100 个单元格。 游戏规则：游戏由一系列行和对角线组成。与每个单元格属于一列的数独不同，每个单元格属于两条对角线，一条从左上角到右下角，一条从右上角到左下角。每条对角线必须至少有一次每个值且没有重复，每行也必须没有重复。例如，在大小为 10 的游戏中，每条对角线将恰好有一次 0-9 的值，中间行也必须至少有一次 0-9 的值。每隔一行较小，因此它们不能包含所有值，但它们不能包含重复项。 在哪里玩：  在线： www.hexakai.com Android 应用程序 | Apple 应用程序 在书中，其中还讨论了驱动 Hexakai 的一些数学和工程概念  使用的技术：  TypeScript Lit javascript 框架：这是一个轻量级库，为自定义 javascript 元素提供有用的功能 Parcel：一个编译 TypeScript、捆绑资源并允许您将通用标题和其他通用 html 标记包含到多个页面的库**。** Alea：一个允许您生成随机数并支持指定随机数生成种子的库  在简单模式下快速玩 7 号棋盘    提交人    /u/brandon-quinn-author   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2nibx/hexakai_a_sudokuinspired_game_of_hexagons/</guid>
+      <pubDate>Sat, 13 Jul 2024 23:07:06 GMT</pubDate>
     </item>
     <item>
-      <title>第一次为我的网站聘请 Web 开发人员 - 他们建议使用 wordpress、webflow 或 php/laravel。我应该选择 php/laravel 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2dytz/first_time_hiring_a_web_dev_for_my_website_they/</link>
-      <description><![CDATA[我在 squarespace 上创建了我的网站，我很喜欢，但现在我想聘请一家专业机构来让我的网站更专业。大多数机构都说他们会使用 wordpress，少数机构说使用 webflow，还有一家说使用 php/laravel。我知道 wordpress 和 webflow 的优缺点，但对 php/laravel 一无所知。对于没有技术知识的人，你会建议我聘请将使用 php/laravel 的机构吗？我最喜欢他们，但担心我或他们以外的任何人（如果我需要聘请其他人进行维护或修复问题或获取插件或其他什么）是否能够帮助我，而不会让我感到困惑或收取高额费用。我知道我可以聘请很多使用 wordpress 来修复问题和进行维护的人，因为它非常受欢迎，尤其是对于像我这样的小型网站。此外，我甚至可以访问 wordpress 上的管理面板或其他任何内容，如果不是太技术性的话，也许可以调整一些东西，但我甚至不知道 php/laravel 是否有适合我的管理面板，如果有，也许对我来说太技术性了。 任何建议都值得赞赏，谢谢！    提交人    /u/poopyfacemcpooper   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2dytz/first_time_hiring_a_web_dev_for_my_website_they/</guid>
-      <pubDate>Sat, 13 Jul 2024 16:07:23 GMT</pubDate>
+      <title>创建了一个小型的“密码破译”游戏，我对结果非常满意</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2ngu0/created_a_little_codebreaking_game_and_im_pretty/</link>
+      <description><![CDATA[        提交人    /u/moonchav   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2ngu0/created_a_little_codebreaking_game_and_im_pretty/</guid>
+      <pubDate>Sat, 13 Jul 2024 23:05:07 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一款免费的背景去除应用，比较了 10 种不同的方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2dv2n/i_made_a_free_background_remover_app_that/</link>
-      <description><![CDATA[        提交人    /u/fyrean   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2dv2n/i_made_a_free_background_remover_app_that/</guid>
-      <pubDate>Sat, 13 Jul 2024 16:02:55 GMT</pubDate>
+      <title>ULID：类似 UUID，但可排序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2nfo4/ulid_like_uuid_but_sortable/</link>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2nfo4/ulid_like_uuid_but_sortable/</guid>
+      <pubDate>Sat, 13 Jul 2024 23:03:32 GMT</pubDate>
     </item>
     <item>
-      <title>想要将 Web 开发作为可能的职业选择，有什么建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2d74b/wanting_to_make_web_dev_a_possible_career_choice/</link>
-      <description><![CDATA[大家好，我在一家钢铁厂工作了 8 年，因为薪水很高，所以从未离开过，但我已经准备好开始人生的新篇章，不再上轮班了。我一直想从事某种软件开发/游戏/网页开发，因为我喜欢解决问题和创造人们可以使用/玩的东西。我上了一两年大学学习软件开发，但由于当时家庭和经济问题，我不得不把所有时间都花在软件开发上，于是退学了。 我的问题是，任何曾经或现在从事自由网页开发的人： 你是如何开始的？学习这个并最终将其作为职业的步骤是什么？我需要学习哪些编程语言才能开始？我相信如果你能聚集很多客户，它就能赚很多钱，对吧？有哪些资源可以帮助我快速上手？ 我看到工作中的老人，我真的不想像他们一样，在 50-55 岁时身体衰弱，行动不便。所以我正在努力学习一项好的、有用的技能，最终可以让我摆脱目前的困境，拥有更稳定的时间表，并希望有机会赚更多的钱。感谢所有回复的人！    提交人    /u/LMikeyy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2d74b/wanting_to_make_web_dev_a_possible_career_choice/</guid>
-      <pubDate>Sat, 13 Jul 2024 15:34:19 GMT</pubDate>
+      <title>网站嵌入数据库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2neeb/embedded_database_for_website/</link>
+      <description><![CDATA[不知何故，当事情变得更加复杂时，人们理所当然地会使用 MySQL/MariaDB 或 PostgreSQL。但就我而言，数据库实际上仅用于与网站交互；永远不会有被其他客户端访问的要求，因此不需要中央远程数据库。优点显而易见：大大简化了数据库管理，并在安装和维护方面节省了大量成本。 数据库用于存储登录数据、带有相关元数据的内容和一些网站设置，以便只需更改记录即可根据需要调整网站。 我认为 SQLite 是此用例的完全足够的解决方案，对吗？安全方面呢？SQLite 实际上可以受密码保护，这样即使有人非法下载数据库文件，数据仍然受到保护。 我唯一需要定期做的事情就是备份网站文件夹中的数据库和图像；也许这里有人可以提供关于如何最好地实现这一目标的专业建议。    提交人    /u/ThyringerBratwurst   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2neeb/embedded_database_for_website/</guid>
+      <pubDate>Sat, 13 Jul 2024 23:01:49 GMT</pubDate>
     </item>
     <item>
-      <title>经过近 40 年以编写游戏为业余爱好，我终于开始以制作多人 JavaScript 游戏为生</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2c34a/after_nearly_40_years_writing_games_as_a_hobby_im/</link>
-      <description><![CDATA[    /u/cokeandcode   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2c34a/after_nearly_40_years_writing_games_as_a_hobby_im/</guid>
-      <pubDate>Sat, 13 Jul 2024 14:45:30 GMT</pubDate>
+      <title>您可以预览和下载 html 布局的页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2n5se/a_page_where_you_can_preview_and_download_html/</link>
+      <description><![CDATA[        提交人    /u/websilvercraft   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2n5se/a_page_where_you_can_preview_and_download_html/</guid>
+      <pubDate>Sat, 13 Jul 2024 22:50:52 GMT</pubDate>
     </item>
     <item>
-      <title>每个人喜欢 YouTube 视频中的多少解释。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2bxrd/how_much_explanation_does_everyone_like_in_their/</link>
-      <description><![CDATA[我目前正在创建一个系列，从头开始构建一个平均堆栈应用程序，这让我思考制作内容的最佳方式是什么。我很好奇人们是否更感兴趣我只是直奔主题，在尽可能短的时间内涵盖尽可能多的内容。或者人们是否喜欢有更多背景信息。     提交人    /u/freelancing-dev   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2bxrd/how_much_explanation_does_everyone_like_in_their/</guid>
-      <pubDate>Sat, 13 Jul 2024 14:38:41 GMT</pubDate>
+      <title>失落的感觉</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2m4lh/feeling_lost/</link>
+      <description><![CDATA[大家好，最近怎么样？我不知道我期望从这篇文章中得到什么，或者是否有人会看到它，但我感觉很迷茫，我是一名熟悉 Javascript、react、node js 等的 Web 开发人员，尽管我渴望或者说渴望了解更多，但简单地说，我只是不满足于了解这些技术，我想要了解更多，我想知道这些技术背后发生了什么，从解释器到编译器再到逻辑门，每当我编码时，我都会有这种反复出现的想法打我的脸（我不是真正的程序员）只是因为我不知道这些技术背后发生了什么（这可能是因为我对自己很苛刻），我决定拿起一本书《计算系统的要素：从第一原理构建现代计算机》，我看不懂太多，因为我数学很差，这本书更适合计算机科学专业的学生，​​任何建议都可以，谢谢 :)     由   提交  /u/Coderblip   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2m4lh/feeling_lost/</guid>
+      <pubDate>Sat, 13 Jul 2024 22:05:29 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了棋盘游戏来和朋友或机器人一起玩</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2bqfy/i_made_boardgame_to_play_with_friends_or_bot/</link>
-      <description><![CDATA[        提交人    /u/Oznov   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2bqfy/i_made_boardgame_to_play_with_friends_or_bot/</guid>
-      <pubDate>Sat, 13 Jul 2024 14:29:30 GMT</pubDate>
+      <title>Vercel AI SDK：RAG 指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2m1ga/vercel_ai_sdk_rag_guide/</link>
+      <description><![CDATA[  由    /u/no_bad_cuts  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2m1ga/vercel_ai_sdk_rag_guide/</guid>
+      <pubDate>Sat, 13 Jul 2024 22:01:34 GMT</pubDate>
     </item>
     <item>
-      <title>我的 WordPress 网站上的反馈：elpeda.com</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2bkxu/feedback_on_my_wordpress_site_elpedacom/</link>
-      <description><![CDATA[      https://preview.redd.it/5z8l2dfsvacd1.png?width=2854&amp;format=png&amp;auto=webp&amp;s=aefc1736e4be838b21895a89c2d3fb869c0d5a65 我最近推出了我的意大利网站elpeda.com，很想听听您的想法。 它是在 WordPress 上构建的，使用了 underscore.me 的空白主题。 我专注于创建简洁、轻量和极简的设计，因为我相信可读性是关键。我的目标是仅包含用户通常寻找的基本元素。 为了使网站非常轻量和快速，我选择使用空白主题并尽量少使用 JavaScript。我也不想加载外部 CSS 框架，而是选择手动创建样式。 虽然网站已经上线，但它仍在进行中。随着时间的推移，随着更多文章的添加，我计划在主页上引入新的部分和小部件，以增强整体用户体验。我很乐意听取您对布局或其他改进的任何反馈。 以下是我实现的一些主要功能：  SEO 优化：我已经优化了网站的 SEO 以提高可见性。 速度优化：我正在使用 Cloudflare 和 WP Rocket，以及手动优化，例如在滚动时加载 Google JS。 安全增强：我做了一些调整以增强网站的安全性。  性能检查： Pagespeed Gtmetrix Observatory.mozilla.org 我希望您能就以下问题提供见解：  可用性：网站是否易于浏览？ 设计：您觉得设计具有视觉吸引力吗？有哪些地方感觉混乱或可以进一步简化？ 性能：网站加载速度如何？有明显的延迟吗？ 内容：内容是否具有相关性且引人入胜？有哪些领域可以使用更多信息？  此外，我正在尝试向我的 reddit 主题添加封面图片，但是当我在开始时上传图片时，它会显示链接。添加封面图片的最佳方法是什么？ 感谢您的时间，我期待您的见解！    提交人    /u/peppolone12   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2bkxu/feedback_on_my_wordpress_site_elpedacom/</guid>
-      <pubDate>Sat, 13 Jul 2024 14:22:23 GMT</pubDate>
+      <title>大学招聘网站太烂了，所以我为金融行业做了一个</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2l14o/college_job_boards_suck_so_i_made_one_for_finance/</link>
+      <description><![CDATA[URL: https://analystlink.com/ 大学求职板通常只偏向本地求职公司，因此学生无法获得完整的机会。LinkedIn 很糟糕，因为机会太大，过滤器不能很好地过滤垃圾。我为寻找优质实习/金融和资产管理入门级职位的金融学生创建了一个求职板。AI 在幕后过滤描述和标题。有人对这个项目有什么反馈或想法吗？    提交人    /u/robbbb1029   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2l14o/college_job_boards_suck_so_i_made_one_for_finance/</guid>
+      <pubDate>Sat, 13 Jul 2024 21:16:37 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了 Windows9X：描述一个复古的 Windows 应用程序并让 LLM 为你制作它</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2bk2i/i_made_windows9x_describe_a_retro_windows_app_and/</link>
-      <description><![CDATA[        提交人    /u/kirbyhood   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2bk2i/i_made_windows9x_describe_a_retro_windows_app_and/</guid>
-      <pubDate>Sat, 13 Jul 2024 14:21:18 GMT</pubDate>
+      <title>最适合我的用例的 AI 是？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2ktg2/best_ai_for_my_use_case/</link>
+      <description><![CDATA[我需要一组 10 - 20 张特定动物的自定义图片，卡通风格，带有不同的衣服和面部表情，以及不同的生活情境。我不想付钱给平面设计师，我宁愿付钱给人工智能。 这些看起来一点也不逼真，事实上恰恰相反。我需要卡通、网络资产风格。普通的卡通图像。它是为一个应用程序设计的，我想用这些图像给它一个定制的品牌风格。所以我不能使用预制的东西。 什么是最适合这个的人工智能？    提交人    /u/El_Mario_Verde   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2ktg2/best_ai_for_my_use_case/</guid>
+      <pubDate>Sat, 13 Jul 2024 21:07:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
