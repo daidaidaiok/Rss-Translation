@@ -4,13 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 15 Jul 2024 03:07:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 06:07:38 GMT</lastBuildDate>
     <item>
-      <title>我对 python 有点问题:)</title>
-      <link>https://www.reddit.com/r/programming/comments/1e3jxxb/i_have_a_little_problem_with_python/</link>
-      <description><![CDATA[ModuleNotFoundError: 没有名为“google”的模块 (venvscript) me@me:~/scriptv2.6-pkj$ pip list Package Version  annotated-types 0.7.0 attrs 23.2.0 beautifulsoup4 4.12.3 cachetools 5.3.3 certifi 2024.7.4 charset-normalizer 2.0.12 google 3.0.0 我在这个项目中使用 pyarmor 来隐藏我的脚本源代码  并且机器是 Ubuntu  所以当我运行脚本时，它显示未安装 google 库，但是当我执行 pip list 时，我看到该库已安装，我确定我之前安装过它，即使我再次重新安装它，仍然出现相同的错误，所以我应该怎么做检查？    由    /u/TheEthicalGuy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e3jxxb/i_have_a_little_problem_with_python/</guid>
-      <pubDate>Mon, 15 Jul 2024 02:35:22 GMT</pubDate>
+      <title>Fusion – 用 Nim 实现的业余操作系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1e3mxnp/fusion_a_hobby_os_implemented_in_nim/</link>
+      <description><![CDATA[  由    /u/louis11  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e3mxnp/fusion_a_hobby_os_implemented_in_nim/</guid>
+      <pubDate>Mon, 15 Jul 2024 05:27:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们需要可视化编程。不，不是那样的。</title>
+      <link>https://www.reddit.com/r/programming/comments/1e3mx7g/we_need_visual_programming_no_not_like_that/</link>
+      <description><![CDATA[  由    /u/louis11  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e3mx7g/we_need_visual_programming_no_not_like_that/</guid>
+      <pubDate>Mon, 15 Jul 2024 05:26:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 React Query 获取 API 数据</title>
+      <link>https://www.reddit.com/r/programming/comments/1e3mlr1/how_to_fetch_api_data_with_react_query/</link>
+      <description><![CDATA[  由    /u/TheLostWanderer47  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e3mlr1/how_to_fetch_api_data_with_react_query/</guid>
+      <pubDate>Mon, 15 Jul 2024 05:06:52 GMT</pubDate>
     </item>
     <item>
       <title>我一直在研究数据库迁移工具，试图弥合 ORM 和 SQL-first 工作流之间的差距。</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/gregorojstersek  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1e34oii/how_to_have_a_top_performing_healthy_and_active/</guid>
       <pubDate>Sun, 14 Jul 2024 15:13:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>QuickFunctions：性能卓越的代码高尔夫</title>
-      <link>https://www.reddit.com/r/programming/comments/1e33dq3/quickfunctions_code_golf_but_for_performance/</link>
-      <description><![CDATA[  由    /u/DeathToAIArt  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e33dq3/quickfunctions_code_golf_but_for_performance/</guid>
-      <pubDate>Sun, 14 Jul 2024 14:17:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>距离我第一次发布关于我的贪吃蛇游戏的帖子已经过去一年了</title>
-      <link>https://www.reddit.com/r/programming/comments/1e32izb/its_been_a_year_since_i_first_posted_about_my/</link>
-      <description><![CDATA[已经过去一年了，我认为它不能再缩小了，但是，我可能错了。 我真的希望看到一种方法来使游戏变得更小，所以，下个月任何能压缩一个字节的人都将获得 20 美元。    提交人    /u/Perfect-Highlight964   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e32izb/its_been_a_year_since_i_first_posted_about_my/</guid>
-      <pubDate>Sun, 14 Jul 2024 13:38:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
