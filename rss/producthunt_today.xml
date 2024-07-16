@@ -4,7 +4,21 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 16 Jul 2024 09:07:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 12:09:08 GMT</lastBuildDate>
+    <item>
+      <title>月光</title>
+      <link>https://www.producthunt.com/posts/moonshine</link>
+      <description><![CDATA[
+编辑视频的新方法
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/moonshine</guid>
+      <pubDate>Tue, 16 Jul 2024 04:50:58 GMT</pubDate>
+    </item>
     <item>
       <title>凛江</title>
       <link>https://www.producthunt.com/posts/rinkoe</link>
@@ -18,6 +32,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/rinkoe</guid>
       <pubDate>Tue, 16 Jul 2024 02:58:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>专家推荐书籍</title>
+      <link>https://www.producthunt.com/posts/expert-book-recommendations</link>
+      <description><![CDATA[
+浏览您选择的专家推荐的书籍
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/expert-book-recommendations</guid>
+      <pubDate>Mon, 15 Jul 2024 23:34:58 GMT</pubDate>
     </item>
     <item>
       <title>任务型</title>
@@ -48,18 +76,18 @@
       <pubDate>Mon, 15 Jul 2024 20:52:23 GMT</pubDate>
     </item>
     <item>
-      <title>盖塔简历</title>
-      <link>https://www.producthunt.com/posts/getaresume</link>
+      <title>尤物网</title>
+      <link>https://www.producthunt.com/posts/yuwu-eu</link>
       <description><![CDATA[
-在几秒钟内创建一份令人惊叹的简历组合，而不是几个小时
+面向开发人员的免费网站构建器
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/getaresume</guid>
-      <pubDate>Mon, 15 Jul 2024 19:25:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/yuwu-eu</guid>
+      <pubDate>Mon, 15 Jul 2024 19:25:33 GMT</pubDate>
     </item>
     <item>
       <title>价格追踪</title>
@@ -76,34 +104,6 @@
       <pubDate>Mon, 15 Jul 2024 18:05:21 GMT</pubDate>
     </item>
     <item>
-      <title>KubeNode 使用情况</title>
-      <link>https://www.producthunt.com/posts/kubenodeusage</link>
-      <description><![CDATA[
-Kubernetes 节点使用情况可视化工具 - 基于 go 构建的终端应用程序
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/kubenodeusage</guid>
-      <pubDate>Mon, 15 Jul 2024 17:49:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>基金会</title>
-      <link>https://www.producthunt.com/posts/foundity</link>
-      <description><![CDATA[
-连接创始人：创新数据库和资源中心
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/foundity</guid>
-      <pubDate>Mon, 15 Jul 2024 17:27:47 GMT</pubDate>
-    </item>
-    <item>
       <title>民主政治</title>
       <link>https://www.producthunt.com/posts/jamocracy</link>
       <description><![CDATA[
@@ -118,46 +118,32 @@ Kubernetes 节点使用情况可视化工具 - 基于 go 构建的终端应用�
       <pubDate>Mon, 15 Jul 2024 11:13:46 GMT</pubDate>
     </item>
     <item>
-      <title>分配</title>
-      <link>https://www.producthunt.com/posts/assignly</link>
+      <title>倾注决定</title>
+      <link>https://www.producthunt.com/posts/pour-decision</link>
       <description><![CDATA[
-再也不会丢失 Slack 消息
+酒精追踪器和有意识的饮酒伴侣
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/assignly</guid>
-      <pubDate>Thu, 11 Jul 2024 17:44:44 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/pour-decision</guid>
+      <pubDate>Sat, 13 Jul 2024 16:43:45 GMT</pubDate>
     </item>
     <item>
-      <title>黑客之门</title>
-      <link>https://www.producthunt.com/posts/hackgate</link>
+      <title>火焰</title>
+      <link>https://www.producthunt.com/posts/blaze-382833ca-0257-4c27-9c10-2688e076186d</link>
       <description><![CDATA[
-通过可见性和控制增强道德黑客行为
+使用 AI 寻找高意向潜在客户 + 触发相关推广
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/hackgate</guid>
-      <pubDate>Thu, 11 Jul 2024 12:58:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>JIRA Cloud 的受让人历史记录</title>
-      <link>https://www.producthunt.com/posts/assignee-history-for-jira-cloud</link>
-      <description><![CDATA[
-查看 JIRA 受让人历史记录
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/assignee-history-for-jira-cloud</guid>
-      <pubDate>Thu, 11 Jul 2024 01:18:59 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/blaze-382833ca-0257-4c27-9c10-2688e076186d</guid>
+      <pubDate>Wed, 10 Jul 2024 20:02:38 GMT</pubDate>
     </item>
     <item>
       <title>收音机</title>
@@ -186,6 +172,20 @@ Kubernetes 节点使用情况可视化工具 - 基于 go 构建的终端应用�
 ]]></description>
       <guid>https://www.producthunt.com/posts/autoreels-ai</guid>
       <pubDate>Tue, 09 Jul 2024 14:01:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>就业光明人工智能</title>
+      <link>https://www.producthunt.com/posts/jobright-ai-2</link>
+      <description><![CDATA[
+您的 AI 求职副驾驶
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/jobright-ai-2</guid>
+      <pubDate>Thu, 04 Jul 2024 12:29:45 GMT</pubDate>
     </item>
     <item>
       <title>斯莱斯</title>
