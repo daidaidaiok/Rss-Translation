@@ -4,126 +4,94 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Wed, 17 Jul 2024 14:50:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 21:02:39 GMT</lastBuildDate>
     <item>
-      <title>大家好，我们是来自 Traceloop 的 Nir ​​和 Gal。</title>
-      <link>https://t.me/hn_summary/100049</link>
-      <description><![CDATA[启动 HN：Traceloop (YC W23) – 使用 OpenTelemetry 检测 LLM 幻觉
-大家好，我们是来自 Traceloop 的 Nir ​​和 Gal。我们帮助团队检测他们的 LLM 应用程序何时大规模出现故障或幻觉。手动采样等传统方法对于大规模操作效率低下。Traceloop 提供了一个监控平台，该平台使用忠实度、相关性和冗余度等实时指标来自动检测问题。例如，我们的 QA 相关性指标确定了错误的实体提取，而我们的软忠实度指标在摘要任务中捕获了伪造的内容。我们通过我们的 OpenLLMetry 项目利用 OpenTelemetry 来标准化 LLM 可观察性，并与 20 多个平台合作。我们很高兴扩展我们的指标并邀请您尝试 Traceloop 并分享您的反馈！]]></description>
-      <guid>https://t.me/hn_summary/100049</guid>
-      <pubDate>Wed, 17 Jul 2024 14:50:52 GMT</pubDate>
+      <title>[媒体] 作者自称是一位编程语言爱好者，他挑衅地指出 [...]</title>
+      <link>https://t.me/hn_summary/100098</link>
+      <description><![CDATA[Java 优于 Rust
+作者自称是编程语言爱好者，尽管承认 Rust 的优势，但他却挑衅地认为 Java 优于 Rust。他们喜欢 Java 的简单性和冗长性，将其比作一款轻松的游戏，而 Rust 则感觉像是一场费脑力的国际象棋比赛。虽然 Rust 在错误处理和模式匹配方面表现出色，但 Java 以更低的复杂性实现了类似的结果。作者批评了 Rust 的陡峭学习曲线，并认为 Java 更适合大型项目。他们还强调了 Java 更广泛的采用、更好的工具以及编写可维护代码的便利性。令人惊讶的是，作者发现 Rust 在小众应用程序之外既不优雅也不特别有用，在大多数任务中，他更喜欢使用 Java 甚至 C。有争议的是，他们拒绝接受 Rust 爱好者并建议使用 Go 而不是 Java 来避免过于复杂的系统。]]></description>
+      <guid>https://t.me/hn_summary/100098</guid>
+      <pubDate>Wed, 17 Jul 2024 21:02:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 波多黎各已向主要化石燃料公司提起 10 亿美元的诉讼，包括 [...]</title>
-      <link>https://t.me/hn_summary/100048</link>
-      <description><![CDATA[波多黎各对化石燃料公司提起 10 亿美元诉讼
-波多黎各已对埃克森美孚、英国石油、雪佛龙、壳牌和康菲等主要化石燃料公司提起 10 亿美元诉讼，指控它们在气候变化问题上误导公众并推迟向清洁能源的过渡。该诉讼在圣胡安提起，称这些公司违反了贸易法，在没有充分警告其危险的情况下推广化石燃料。投诉强调了气候变化对波多黎各的严重影响，例如 2017 年飓风玛丽亚造成的破坏。该诉讼旨在建立一个基金来减轻气候变化的影响并加强基础设施。这一法律行动是要求化石燃料公司对气候相关损害负责的更广泛趋势的一部分。值得注意的是，BP 拒绝发表评论，其他公司也没有立即做出回应。气候诚信中心的理查德·威尔斯强调了让化石燃料行业承担责任的重要性。]]></description>
-      <guid>https://t.me/hn_summary/100048</guid>
-      <pubDate>Wed, 17 Jul 2024 14:48:47 GMT</pubDate>
+      <title>[媒体] Draftaid 是一家由 Y Combinator 2024 年冬季批次支持的有前途的初创公司，正在积极[...]</title>
+      <link>https://t.me/hn_summary/100097</link>
+      <description><![CDATA[Draftaid (YC W24) 正在招聘
+Draftaid 是一家由 Y Combinator 2024 年冬季批次支持的有前途的初创公司，正在积极寻找一名有才华的软件工程师。该职位提供 120,000 至 200,000 美元的有竞争力的薪资范围，以及 0.50% 至 2.00% 之间的股权期权。这是一个与一些最成功的 YC 资助初创公司的创始人直接联系的独特机会。鼓励感兴趣的候选人通过提供的链接直接申请。创始人 Mohammed Al-arnawoot 正在领导这项激动人心的事业。]]></description>
+      <guid>https://t.me/hn_summary/100097</guid>
+      <pubDate>Wed, 17 Jul 2024 21:01:35 GMT</pubDate>
     </item>
     <item>
-      <title>不丹第一家人工智能初创公司 NoMindBhutan 是由大学生 Ugyen Dendup 和 Jamp [...] 创立的。</title>
-      <link>https://t.me/hn_summary/100047</link>
-      <description><![CDATA[不丹第一家 AI 创业公司是宿舍里的七名大学生
-不丹第一家 AI 创业公司 NoMindBhutan 由大学生 Ugyen Dendup 和 Jamphel Yigzin Samdrup 创立。尽管他们最初的目标并不大，但现在他们为不丹国家银行和 Drukair 等知名客户提供服务。这个七人团队在宿舍里开展业务，由于不丹有限的数字基础设施和封闭的经济，他们面临着重大挑战。他们的历程凸显了更广泛的生态系统发展的需求，以充分利用 AI 在不丹的潜力。虽然他们的大学在他们的成功中发挥了关键作用，但一些专家认为，不丹应该更多地关注云计算基础设施和现有企业的 AI 素养，而不是仅仅关注学生主导的创新。]]></description>
-      <guid>https://t.me/hn_summary/100047</guid>
-      <pubDate>Wed, 17 Jul 2024 14:40:38 GMT</pubDate>
+      <title>[媒体] Chaya Raichik 因其 TikTok 账户的自由而闻名，具有讽刺意味的是，她也参与了 [...]</title>
+      <link>https://t.me/hn_summary/100096</link>
+      <description><![CDATA[解雇家得宝员工就是抵制文化
+Chaya Raichik 以 TikTok 自由派账号而闻名，具有讽刺意味的是，她也采用了她之前批评过的抵制文化策略。Raichik 一直在放大煽动性的社交媒体帖子，标记雇主，并成功解雇了包括家得宝员工和小镇消防员在内的一些人，因为他们对前总统唐纳德·特朗普的暗杀企图发表了粗俗的评论。这引发了争议，因为它凸显了抵制文化的双刃剑性质。批评人士认为，虽然这些评论确实应受谴责，但利用大量网络粉丝来破坏普通人的生活同样成问题。这种情况凸显了抵制文化辩论中固有的复杂性和矛盾性。]]></description>
+      <guid>https://t.me/hn_summary/100096</guid>
+      <pubDate>Wed, 17 Jul 2024 20:56:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 20 世纪 50 和 60 年代，汤姆·莱勒 (Tom Lehrer) 受到博士的称赞。</title>
-      <link>https://t.me/hn_summary/100046</link>
-      <description><![CDATA[汤姆·莱勒和圣克鲁斯：美国首屈一指的讽刺作家之一的足迹
-20 世纪 50 年代和 60 年代，汤姆·莱勒被德门托博士誉为“有史以来最出色的歌曲讽刺作家”，凭借 37 首歌曲和 109 场演出声名鹊起，仅凭口口相传就售出了数十万张唱片。莱勒曾在圣克鲁斯度过半年时间，在加州大学圣克鲁斯分校教授数学，现年 96 岁，居住在马萨诸塞州剑桥。尽管他性格孤僻，拒绝接受采访，但他在圣克鲁斯的遗产通过当地活动和作品制作得以传承。莱勒将数学和音乐剧独特地融合在一起，使他非常适合加州大学圣克鲁斯分校的跨学科方法。他决定停止创作讽刺作品，最著名的一句名言是：“当亨利·基辛格获得诺贝尔和平奖时，政治讽刺就过时了。”莱勒的作品现已进入公共领域，继续引起当代观众的共鸣。]]></description>
-      <guid>https://t.me/hn_summary/100046</guid>
-      <pubDate>Wed, 17 Jul 2024 14:36:34 GMT</pubDate>
+      <title>[媒体] Rye 语言是一种多功能编程语言，专为命令行和后端而设计[...]</title>
+      <link>https://t.me/hn_summary/100095</link>
+      <description><![CDATA[Rye 语言
+Rye 语言是一种多功能编程语言，专为命令行和后端使用而设计，通过 Fyne 工具包实验性地支持多平台 GUI。它可在 Linux、Mac OS、Web 浏览器 (Wasm) 和 Docker 上运行，并有可能支持移动设备和 Windows。独特的功能包括其完全运行时同像性，其中代码是数据，反之亦然，并且强调表达式而不是语句。Rye 避免了面向对象或纯函数式编程等传统范式，而是专注于信息流和显式值验证。值得注意的是，它消除了 nil/null 的概念，旨在防止“十亿美元的错误”。该语言还引入了电子表格数据类型，以实现更高效的数据处理。有关更多详细信息，请访问 Rye GitHub 存储库。
+
+有争议：Rye 严格分离状态和功能，并消除 nil/null，可能会挑战传统的编程实践。
+
+独特：电子表格数据类型和声明性验证方言是创新功能，可显著降低代码复杂性。]]></description>
+      <guid>https://t.me/hn_summary/100095</guid>
+      <pubDate>Wed, 17 Jul 2024 20:34:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 生态学家 Ilka C.</title>
-      <link>https://t.me/hn_summary/100045</link>
-      <description><![CDATA[红树林正在迁徙，带走了热带地区
-生态学家 Ilka C. Feller 二十年来一直在追踪红树林从佛罗里达中部向北迁移的情况。这些喜盐水的树木传统上生长在热带和亚热带地区，现在它们正在迁往以前对它们来说太冷的地区，比如梅里特岛，甚至靠近佐治亚州边境。这种迁徙是对气候变化的反应，因为气温上升和天气模式的变化创造了新的栖息地。红树林对于沿海保护和碳封存至关重要，但它们的蔓延可能会取代盐沼，影响当地的生态系统和物种。Feller 的广泛研究重塑了人们对红树林生态及其适应性运动的科学理解。（基于 71% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/100045</guid>
-      <pubDate>Wed, 17 Jul 2024 14:30:26 GMT</pubDate>
+      <title>[媒体] Blitzping 是 hping3 和 nping 的高性能替代方案，用于发送 TCP SYN pa [...]</title>
+      <link>https://t.me/hn_summary/100094</link>
+      <description><![CDATA[显示 HN：Blitzping – 一种速度更快的 nping/hping3 SYN 泛洪替代方案，具有 CIDR
+Blitzping 是 hping3 和 nping 的高性能替代方案，用于发送 TCP SYN 数据包，旨在解决其效率低下和缺乏 CIDR 表示法支持的问题。它针对速度进行了优化，特别是在低功耗嵌入式设备上，通过最大限度地减少不必要的处理并利用数据包缓冲区的预生成、异步非阻塞套接字和多线程等技术。Blitzping 在基准测试中明显优于 hping3 和 nping，以更高的速率发送数据包。它支持源 IP 的 CIDR 范围，使其更加通用。该项目使用标准 POSIX 标头和 C11 库构建，确保广泛的兼容性和易于交叉编译。]]></description>
+      <guid>https://t.me/hn_summary/100094</guid>
+      <pubDate>Wed, 17 Jul 2024 20:14:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在我的三篇系列文章的第一部分中，我介绍了建造 Galaksija 号，这是 20 世纪 80 年代的南斯拉夫 [...]</title>
-      <link>https://t.me/hn_summary/100044</link>
-      <description><![CDATA[打造 Galaksija
-在我的三篇系列文章的第一部分中，我深入探讨了打造这台复古机器的技术历程，Galaksija 是一台 20 世纪 80 年代的南斯拉夫 8 位计算机。在参观克罗地亚的 PEEK&amp;POKE 计算机博物馆后，我受到启发，决定从头开始打造 Galaksija，并遵循那个时代的原始零件和指南。尽管面临诸多挑战，包括采购零件和解决 EPROM 编程和 IC 插座的问题，但我还是坚持了下来。这个过程既令人沮丧又令人大开眼界，最终 Galaksija 成功运行。这个项目不仅加深了我对复古技术的理解，还让我了解了丰富的文化历史。 
+      <title>[媒体] 在《与众神为敌》 (Against the Gods) 一书中，彼得·L.</title>
+      <link>https://t.me/hn_summary/100093</link>
+      <description><![CDATA[Graunt 和统计学
+在《与众神为敌》一书中，Peter L. Bernstein 通过 John Graunt 1662 年出版的《自然与政治观察死亡记录》一书，重点介绍了他在统计学方面的开创性工作。Graunt 是一名商人，没有接受过正规的统计学培训，他汇编并分析了 1604 年至 1661 年伦敦的出生和死亡记录。他对统计推断的创新使用为现代风险管理和市场研究奠定了基础。尽管 Graunt 是一名商人，但他的工作得到了认可，并因此成为皇家学会会员，得到了查理二世国王的认可。这标志着原始数据的系统分析取得了重大飞跃，将其转变为了解社会趋势的有力工具。 
 
-令人惊讶/巧妙的元素：使用现代示波器和 bash 脚本来克服 EPROM 编程问题特别具有创新性。
+争议：皇家学会最初不愿接纳格朗特，因为他是商人，后来国王的干预解决了这一问题。
 
-有争议的元素：没有明确提到，但决定避免使用新的 DIY 套件而选择自行构建可以看作是一种纯粹主义的方法。（基于 72% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/100044</guid>
-      <pubDate>Wed, 17 Jul 2024 14:29:22 GMT</pubDate>
+独特/聪明：格朗特在没有接受过正式培训的情况下应用了统计方法，并与威廉·佩蒂等知识分子建立了友谊，后者为他的工作提供了帮助。]]></description>
+      <guid>https://t.me/hn_summary/100093</guid>
+      <pubDate>Wed, 17 Jul 2024 20:14:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 火星适合居住吗？</title>
-      <link>https://t.me/hn_summary/100043</link>
-      <description><![CDATA[火星适合居住吗？（1907 年）
-在《火星适合居住吗？》（1907 年）一书中，阿尔弗雷德·拉塞尔·华莱士批判性地审视了珀西瓦尔·洛厄尔教授的著作《火星及其运河》，质疑洛厄尔关于火星可以维持生命的断言。华莱士认为，火星稀薄的大气层和与太阳的距离较大，导致气候比洛厄尔认为的要冷得多。他强调了稠密的大气层在维持温度方面的重要性，并使用月球温度研究来支持他的观点。华莱士还为火星的运河和绿洲提供了另一种解释，将它们归因于自然地质过程，而不是智能设计。这项工作被认为是科学方法在外星生物学中的开创性应用。有争议的是，华莱士对洛厄尔对火星宜居性的乐观看法提出了质疑，强调火星极度寒冷且缺水。（基于 5% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/100043</guid>
-      <pubDate>Wed, 17 Jul 2024 14:28:12 GMT</pubDate>
+      <title>[媒体] 天文学家在金星云层中发现了两种气体——磷化氢和氨，它们可能[...]</title>
+      <link>https://t.me/hn_summary/100092</link>
+      <description><![CDATA[科学家称，金星云层中两种气体的迹象可能表明存在生命
+天文学家在金星云层中发现了两种气体——磷化氢和氨，这可能表明存在生命。之前存在争议的磷化氢是使用詹姆斯克拉克麦克斯韦望远镜观察到的，显示出与金星昼夜循环相关的模式。绿岸望远镜探测到的氨通常是由地球上的生物活动产生的。这些发现在一次全国天文学会议上提出，并不是生命的确凿证据，但表明生命形式有可能在金星更温和的云层中存活。争议在于之前对磷化氢检测的争议以及需要更多数据来证实这些生物特征。]]></description>
+      <guid>https://t.me/hn_summary/100092</guid>
+      <pubDate>Wed, 17 Jul 2024 20:12:59 GMT</pubDate>
     </item>
     <item>
-      <title>需要什么电子表格？</title>
-      <link>https://t.me/hn_summary/100042</link>
-      <description><![CDATA[电子表格需要什么？微软称需要 LLM
-微软的研究人员推出了一个框架，用于增强用于分析电子表格的大型语言模型 (LLM)，该框架在 arXiv 上的一篇论文中进行了详细介绍。挑战在于大型电子表格的行和列都是同质的，这使分析变得复杂。他们的解决方案 SpreadsheetLLM 可以序列化数据，但面临令牌限制。为了解决这个问题，他们开发了 SheetCompressor，它通过结构分析和高效的数据表示将令牌使用量减少了 96%。这可能会彻底改变电子表格数据管理，使其更容易通过自然语言提示访问。然而，人们仍然担心 LLM 的可靠性和潜在的错误，就像过去的电子表格事故一样。目前的限制包括忽略单元格背景颜色和缺乏对自然语言单元格的语义压缩。]]></description>
-      <guid>https://t.me/hn_summary/100042</guid>
-      <pubDate>Wed, 17 Jul 2024 14:24:06 GMT</pubDate>
+      <title>[媒体] GitHub 上的 n-gram 语言模型项目旨在构建一个字符级的 n-gram 模型 [...]</title>
+      <link>https://t.me/hn_summary/100091</link>
+      <description><![CDATA[n-gram 语言模型
+GitHub 上的 n-gram 语言模型项目旨在构建一个字符级 n-gram 模型，以根据 2018 年来自 ssa.gov 的 32,032 个名称数据集生成新名称。它可用作教学工具，教授机器学习和自回归语言建模的基础知识，涵盖标记化、下一个标记预测、困惑度和过度拟合等概念。与使用神经网络的 GPT 不同，该项目采用简单的基于计数的方法。该项目包括 Python 和 C 实现，其中 Python 版本具有超参数调整功能，而 C 版本提供更快的执行速度。使用测试损失和困惑度来评估模型的性能，并且项目输出 n-gram 概率以供进一步检查。]]></description>
+      <guid>https://t.me/hn_summary/100091</guid>
+      <pubDate>Wed, 17 Jul 2024 20:09:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 最后的先锋派</title>
-      <link>https://t.me/hn_summary/100041</link>
-      <description><![CDATA[最后的先锋派
-lareviewofbooks.org 上的“最后的先锋派”深入探讨了文化的平凡本质，呼应了雷蒙德·威廉姆斯 60 多年前的论点。这篇文章批判了现代便利设施和媒体的压倒性选择如何导致文化景观同质化，真正的实验主义和先锋派运动很少见。 Dominique Routhier 的书《支持与反对：自动化时代的国际情境主义》重新审视了国际情境主义 (SI)，这是一个将创作自由与社会革命联系起来的组织。SI 批评了晚期资本主义和自动化如何限制人类的创造力和自由，这种担忧在今天随着人工智能的兴起及其对就业和创意产业的影响而产生共鸣。本文强调了 SI 的思想在当代关于技术和劳动力的辩论中令人惊讶的相关性。（基于 58% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/100041</guid>
-      <pubDate>Wed, 17 Jul 2024 14:19:01 GMT</pubDate>
+      <title>[媒体] 1978年至1987年间，乍得和利比亚因沙漠地区奥祖地带发生冲突。</title>
+      <link>https://t.me/hn_summary/100090</link>
+      <description><![CDATA[丰田皮卡是第三世界的战车
+1978 年至 1987 年间，乍得和利比亚在沙漠地带奥祖地带发生冲突。通过一项巧妙的不对称战略，乍得获得了优势：使用了 400 辆丰田皮卡。与装备有苏制坦克和现代火炮的利比亚军队不同，得到法国支持的乍得军队无法匹敌这种火力。相反，他们改装了丰田车以搭载战斗机，并在车上安装机枪、榴弹发射器和 MILAN 反坦克导弹。这些敏捷、全副武装的卡车使乍得军队能够实施牵制战术和突袭，并取得了法达战役等重大胜利。这种非常规方法影响深远，以至于冲突的最后一年被称为“丰田战争”。]]></description>
+      <guid>https://t.me/hn_summary/100090</guid>
+      <pubDate>Wed, 17 Jul 2024 19:57:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 自托管 101 – 初学者指南</title>
-      <link>https://t.me/hn_summary/100040</link>
-      <description><![CDATA[自托管 101 – 初学者指南
-自托管 101 – 初学者指南
-
-什么是自托管？
-自托管涉及运行和维护您自己的服务器来托管服务和应用程序，让您完全控制您的数据和服务。与使用 Google 或 Netflix 等第三方服务不同，自托管可确保您的数据保持私密和安全，因为您可以同时管理硬件和软件。
-
-谁适合自托管？
-自托管适用于任何人，从注重隐私的个人到技术爱好者、小型企业、教育工作者、创意专业人士以及那些希望省钱的人。它提供独立性、控制、成本节约、隐私和定制。
-
-为什么你应该考虑自托管？
-自托管提供独立于第三方服务、完全控制您的数据、潜在的成本节约、增强的隐私以及定制系统以满足特定需求的能力。
-
-你可以自托管什么？
-你可以自托管各种服务，包括文件存储（NextCloud）、电子邮件服务器（Poste.io）、媒体服务器（Jellyfin）、密码管理器（Bitwarden）、VPN（OpenVPN）、游戏服务器、家庭自动化系统、RSS 提要阅读器、笔记应用程序、个人理财工具和学习管理系统。
-
-如何开始自托管？
-1. 评估您的需求和技能：如果您是初学者，请从更简单的项目开始。
-2. 选择硬件：选项包括改装的 PC、Raspberry Pi 等单板计算机、NAS 或专用服务器。
-3. 选择操作系统：热门选择是 Ubuntu Server、Debian 和 Proxmox。
-4. 设置网络：配置路由器、设置动态 DNS 并实施反向代理。
-5. 实施安全措施：使用强密码、SSH 密钥认证、防火墙和 VPN。
-6. 选择并安装服务：从 Nextcloud 等适合初学者的选项开始。
-7. 使用容器技术：Docker 简化了安装和管理。
-8. 设置备份：遵循 3-2-1 备份规则。
-9. 监控您的服务：使用 Prometheus 和 Grafana 等工具。
-10. 加入自托管社区：参与r/selfhosted 等社区提供支持。
-
-警告
-自托管面临着诸多挑战，例如技术复杂性、时间投入、前期成本、安全责任、数据丢失风险、缺乏专门支持、电力和互联网要求以及可扩展性问题。
-
-有用的链接
-Ente 提供端到端加密的照片和视频存储，现在可用于自托管，提供更强大的隐私保护。
-
-争议亮点：
-该指南巧妙地批评了大型科技公司可能访问和使用您的数据，这可能会被视为有争议的。
-
-独特/巧妙的亮点：
-Ente 将其整个代码库开源以供审查和自托管的举动是朝着增强隐私迈出的独特一步。]]></description>
-      <guid>https://t.me/hn_summary/100040</guid>
-      <pubDate>Wed, 17 Jul 2024 13:48:44 GMT</pubDate>
+      <title>[媒体] 在 Founder Gigs，我们设想的未来是工作是分散的，个人可以 [...]</title>
+      <link>https://t.me/hn_summary/100089</link>
+      <description><![CDATA[Founder Gigs
+在 Founder Gigs，我们设想了一个工作分散的未来，允许个人选择自己的工作环境、工作量和合作者。作为连续创业者，我们了解在追求梦想事业的同时需要灵活的工作安排来产生被动收入或股权。Founder Gigs 让创始人能够掌控并做出这些选择。我们促进有才华的创始人和顶级初创公司之间的联系，确保优秀的人才建立优秀的公司。值得注意的是，传奇人物 Naval Ravikant 与我们有着共同的愿景。听听他对这种变革性工作方式的看法。]]></description>
+      <guid>https://t.me/hn_summary/100089</guid>
+      <pubDate>Wed, 17 Jul 2024 19:51:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
