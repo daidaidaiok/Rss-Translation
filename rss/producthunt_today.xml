@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 18 Jul 2024 15:07:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 18:07:54 GMT</lastBuildDate>
     <item>
       <title>哇商店</title>
       <link>https://www.producthunt.com/posts/wowstore</link>
@@ -18,6 +18,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/wowstore</guid>
       <pubDate>Thu, 18 Jul 2024 06:09:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>blogstatic.io</title>
+      <link>https://www.producthunt.com/posts/blogstatic-io</link>
+      <description><![CDATA[
+使用 DesignStudio 创建博客并设计其样式
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/blogstatic-io</guid>
+      <pubDate>Thu, 18 Jul 2024 06:00:41 GMT</pubDate>
     </item>
     <item>
       <title>收藏数据库</title>
@@ -48,34 +62,6 @@
       <pubDate>Thu, 18 Jul 2024 01:58:21 GMT</pubDate>
     </item>
     <item>
-      <title>飞行控制</title>
-      <link>https://www.producthunt.com/posts/flightcontrol-3</link>
-      <description><![CDATA[
-超棒的 PaaS
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/flightcontrol-3</guid>
-      <pubDate>Wed, 17 Jul 2024 17:11:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>可交易</title>
-      <link>https://www.producthunt.com/posts/tradible</link>
-      <description><![CDATA[
-为当今的爱好者重新定义收藏品
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/tradible</guid>
-      <pubDate>Wed, 17 Jul 2024 16:15:55 GMT</pubDate>
-    </item>
-    <item>
       <title>文档翻译</title>
       <link>https://www.producthunt.com/posts/docutranslate</link>
       <description><![CDATA[
@@ -102,6 +88,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/undead-domains</guid>
       <pubDate>Wed, 17 Jul 2024 00:07:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>菲德福雷特</title>
+      <link>https://www.producthunt.com/posts/fidforward</link>
+      <description><![CDATA[
+重塑组织中的绩效管理
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/fidforward</guid>
+      <pubDate>Tue, 16 Jul 2024 21:36:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Veedo人工智能</title>
+      <link>https://www.producthunt.com/posts/veedoai-2</link>
+      <description><![CDATA[
+为您的视频内容提供人工智能洞察
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/veedoai-2</guid>
+      <pubDate>Tue, 16 Jul 2024 17:12:46 GMT</pubDate>
     </item>
     <item>
       <title>智能画布</title>
@@ -146,32 +160,18 @@ Miro 画布，通过 AI 和可组合工作流重新发明
       <pubDate>Tue, 16 Jul 2024 06:15:31 GMT</pubDate>
     </item>
     <item>
-      <title>普罗贝里克斯</title>
-      <link>https://www.producthunt.com/posts/proberix</link>
+      <title>宠物应用程序</title>
+      <link>https://www.producthunt.com/posts/pet-app</link>
       <description><![CDATA[
-网站和 API 正常运行时间监控服务
+一款集宠物健康追踪和提醒功能于一体的应用
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/proberix</guid>
-      <pubDate>Mon, 15 Jul 2024 19:19:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>动漫君</title>
-      <link>https://www.producthunt.com/posts/animekun</link>
-      <description><![CDATA[
-免费工具提供优质动漫语录
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/animekun</guid>
-      <pubDate>Sat, 13 Jul 2024 08:07:18 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/pet-app</guid>
+      <pubDate>Mon, 15 Jul 2024 09:38:03 GMT</pubDate>
     </item>
     <item>
       <title>循环</title>
@@ -188,32 +188,32 @@ Miro 画布，通过 AI 和可组合工作流重新发明
       <pubDate>Fri, 12 Jul 2024 22:05:33 GMT</pubDate>
     </item>
     <item>
-      <title>克鲁沃斯</title>
-      <link>https://www.producthunt.com/posts/kluvos</link>
+      <title>阿奇</title>
+      <link>https://www.producthunt.com/posts/archie-4</link>
       <description><![CDATA[
-Klaviyo 关于类固醇的电子邮件营销
+使用 AI 在几分钟内设计和规划软件应用程序
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/kluvos</guid>
-      <pubDate>Fri, 12 Jul 2024 17:10:19 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/archie-4</guid>
+      <pubDate>Fri, 12 Jul 2024 19:15:38 GMT</pubDate>
     </item>
     <item>
-      <title>开始</title>
-      <link>https://www.producthunt.com/posts/startt</link>
+      <title>巴西姆</title>
+      <link>https://www.producthunt.com/posts/bazium</link>
       <description><![CDATA[
-在几秒钟内为您的产品创建登录页面
+Google Pagespeed 得分高于 90 的 SEO 网站构建器
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/startt</guid>
-      <pubDate>Fri, 12 Jul 2024 14:30:30 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/bazium</guid>
+      <pubDate>Mon, 19 Feb 2024 13:57:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

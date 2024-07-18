@@ -4,27 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 18 Jul 2024 15:06:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 18:07:16 GMT</lastBuildDate>
+    <item>
+      <title>你如何管理和组织你的代码片段？正在寻找有关新工具的反馈！</title>
+      <link>https://www.reddit.com/r/programming/comments/1e6hstt/how_do_you_manage_and_organize_your_code_snippets/</link>
+      <description><![CDATA[  由    /u/Loose_Dark_8024  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e6hstt/how_do_you_manage_and_organize_your_code_snippets/</guid>
+      <pubDate>Thu, 18 Jul 2024 18:04:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一篇博客文章，关于 Luca stealer！（这次链接有效）</title>
+      <link>https://www.reddit.com/r/programming/comments/1e6fuyy/my_first_blog_post_about_luca_stealer_this_time/</link>
+      <description><![CDATA[  由    /u/ItsRedlyXD  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e6fuyy/my_first_blog_post_about_luca_stealer_this_time/</guid>
+      <pubDate>Thu, 18 Jul 2024 16:40:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 AI-copilot 构建电子表格应用程序（Next.js、gpt4、LangChain 和 CopilotKit）</title>
+      <link>https://www.reddit.com/r/programming/comments/1e6f6zz/build_a_spreadsheet_app_with_an_aicopilot_nextjs/</link>
+      <description><![CDATA[  由    /u/ComprehensivePop3730  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e6f6zz/build_a_spreadsheet_app_with_an_aicopilot_nextjs/</guid>
+      <pubDate>Thu, 18 Jul 2024 16:09:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>单页应用程序的数据获取</title>
+      <link>https://www.reddit.com/r/programming/comments/1e6dqfl/data_fetching_for_singlepage_apps/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e6dqfl/data_fetching_for_singlepage_apps/</guid>
+      <pubDate>Thu, 18 Jul 2024 15:06:56 GMT</pubDate>
+    </item>
     <item>
       <title>REST API 设计：参数序列化</title>
       <link>https://www.reddit.com/r/programming/comments/1e6dfzy/rest_api_design_parameter_serialization/</link>
       <description><![CDATA[  由    /u/memo_mar  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1e6dfzy/rest_api_design_parameter_serialization/</guid>
       <pubDate>Thu, 18 Jul 2024 14:55:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一篇博客文章，关于 Luca stealer！（这次链接有效）</title>
-      <link>https://www.reddit.com/r/programming/comments/1e6ddsp/my_first_blog_post_about_luca_stealer_this_time/</link>
-      <description><![CDATA[  由    /u/ItsRedlyXD  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e6ddsp/my_first_blog_post_about_luca_stealer_this_time/</guid>
-      <pubDate>Thu, 18 Jul 2024 14:52:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以使用平板电脑运行 Visual Studio Code 吗？ (2024)</title>
-      <link>https://www.reddit.com/r/programming/comments/1e6d7kl/can_i_use_a_tablet_to_run_visual_studio_code_2024/</link>
-      <description><![CDATA[  由    /u/barbequeeeee  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e6d7kl/can_i_use_a_tablet_to_run_visual_studio_code_2024/</guid>
-      <pubDate>Thu, 18 Jul 2024 14:45:28 GMT</pubDate>
     </item>
     <item>
       <title>为什么 REST 可能会阻碍你</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1e677d6/python_deserialization_attack_and_library/</guid>
       <pubDate>Thu, 18 Jul 2024 09:28:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>大科技文摘#17💥：Expedia 弃用遗留微服务的风险、对 Wix 的 Addy Osmani 的深入访谈等等！</title>
-      <link>https://www.reddit.com/r/programming/comments/1e65frh/big_tech_digest_17_perils_of_deprecating_a_legacy/</link>
-      <description><![CDATA[  由    /u/BigTechDigest  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e65frh/big_tech_digest_17_perils_of_deprecating_a_legacy/</guid>
-      <pubDate>Thu, 18 Jul 2024 07:22:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>用“dick”而不是“0”来擦除磁盘和文件</title>
-      <link>https://www.reddit.com/r/programming/comments/1e65ddh/wiping_disks_and_files_with_dicks_instead_of_zeros/</link>
-      <description><![CDATA[  由    /u/ioncehackedmyschool  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e65ddh/wiping_disks_and_files_with_dicks_instead_of_zeros/</guid>
-      <pubDate>Thu, 18 Jul 2024 07:17:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
