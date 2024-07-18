@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 17 Jul 2024 21:06:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 00:19:16 GMT</lastBuildDate>
+    <item>
+      <title>Safari 技术预览版 199 发行说明</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e5wu0i/release_notes_for_safari_technology_preview_199/</link>
+      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e5wu0i/release_notes_for_safari_technology_preview_199/</guid>
+      <pubDate>Wed, 17 Jul 2024 23:32:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们现在正在外部网站上构建登陆页面，这非常耗时</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e5tvj6/were_now_building_landing_pages_on_external_sites/</link>
+      <description><![CDATA[现在这是我的工作。这样做的原因显然是为了让登陆页面更成功。我认为这与共享同一个域名有关。  我们之前已经在自己的主机上使用子域名构建了登陆页面。我可以轻松地将它们删除，然后真正投入到设计中。现在，我为每张票处理不同的构建器。  这样做真的有什么好处吗？我需要与管理层谈谈这个问题，因为我们团队中人手很少，生产压力已经很大了。我在网上看到了各种各样的东西，但在我看来，这只是在自找麻烦。     提交人    /u/jaximointhecut   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e5tvj6/were_now_building_landing_pages_on_external_sites/</guid>
+      <pubDate>Wed, 17 Jul 2024 21:27:01 GMT</pubDate>
+    </item>
     <item>
       <title>用户认证/授权问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1e5ta6x/user_authauthorisation_question/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我目前正在开展一个项目，该项目涉及为 Web 和移动应用程序创建通用的 golang API，我现在需要实现一种可在两个平台上运行的身份验证方法。我需要有关使用最佳身份验证方法的建议，以及如何在前端和后端实现它的指导。此外，我需要有关如何使用建议的方法在后端处理注销的提示。 我知道 Web 中有两种方法  基于 cookie 传递承载令牌作为标头  我做了一些研究，对在移动前端使用基于 cookie 的方法持怀疑态度 因此，如果我使用承载令牌方法，我将不知道如何为此创建注销端点    提交人    /u/Ok_Consideration3393   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1e5oz9r/best_authentication_method_for_both_web_and/</guid>
       <pubDate>Wed, 17 Jul 2024 18:06:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>大多数 B2B SaaS 公司使用什么来构建和维护他们的网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e5ovpu/what_do_most_b2b_saas_companies_use_to_build_and/</link>
-      <description><![CDATA[据您所知，如今大多数 SaaS 公司都使用 Wordpress、Webflow 或 Framer 吗？还是只使用 HTML/CSS？    提交人    /u/AccomplishedLion6322   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e5ovpu/what_do_most_b2b_saas_companies_use_to_build_and/</guid>
-      <pubDate>Wed, 17 Jul 2024 18:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>指南：如何为你的 AI Web 应用编写单元测试</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e5ocpk/guide_how_to_write_unit_tests_for_your_ai_web_app/</link>
-      <description><![CDATA[大家好，我想分享我写的这个指南：https://docs.poyro.dev/essays/how-to-write-unit-tests-for-ai-web-app 它通过代码示例讨论了如何使用 Vitest 和 Poyro 为您的 AI Web 应用编写统一测试。它将您可以编写的测试类型分解为多种类型，并解释了每种类型的权衡。 我希望您觉得这很有价值！    提交人    /u/batchnormalized   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e5ocpk/guide_how_to_write_unit_tests_for_your_ai_web_app/</guid>
-      <pubDate>Wed, 17 Jul 2024 17:41:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
