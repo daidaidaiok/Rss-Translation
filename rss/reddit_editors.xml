@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 18 Jul 2024 03:06:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 06:07:22 GMT</lastBuildDate>
+    <item>
+      <title>YoYotta) 在 Finder 中显示缩略图的时间太长了。</title>
+      <link>https://www.reddit.com/r/editors/comments/1e61l9f/yoyotta_take_so_long_time_to_display_thumbnails/</link>
+      <description><![CDATA[你好。 我确实使用 YoYotta 和 LTO 8 磁带。到目前为止，体验非常好。 但是，有一件事我表示怀疑。 当我完成复制工作时。我想在实际位置观看文件。 因此，我使用 Finder 导航并转到我设置为目标的 LTFS 驱动器。 但每次我这样做时，显示元数据（文件大小、写入日期等...）和视频文件的缩略图都需要很长时间。每个文件可能需要 30 分钟。该文件大约为 150Gb 的 ProRes。 https://imgur.com/a/wr0ydZN  还有其他方法可以通过 Finder 快速浏览 LTFS 位置吗？ 谢谢大家。 祝你有美好的一天！  Apple M2 Ultra 64GB 14.2(23C64)    提交人    /u/ddd102   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1e61l9f/yoyotta_take_so_long_time_to_display_thumbnails/</guid>
+      <pubDate>Thu, 18 Jul 2024 03:24:57 GMT</pubDate>
+    </item>
     <item>
       <title>您将如何重新学习 Media Composer？</title>
       <link>https://www.reddit.com/r/editors/comments/1e60o48/how_would_you_give_yourself_a_refresher_on_media/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好 - 我希望你们能帮我做一些优化。 我们的视频制作团队目前将数据（即素材、导出等）存储在 50TB QNAP NAS 上，数据会自动备份到 Google Drive。 但是，对于我们所需的存储量来说，GDrive 变得相当昂贵。 我的解决方案有两个方面 - 我很想听听你们的意见。  切换到更便宜的云服务，如 iDrive 或 BackBlaze。 实施一个系统，将超过 1 年的数据从云中删除并放置在不同的物理驱动器上。（这些数据不需要随时可用，但保留会很好）。  有人对哪种云服务最好有什么想法吗？是否有人有移动此类旧文件的经验，是否有任何方法可以自动化？ 我很想听听您的想法，并听听您在这方面的任何经验。 谢谢！    提交人    /u/conormcel123   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1e5ixwt/cheap_cloud_storage_solution_compatible_with_qnap/</guid>
       <pubDate>Wed, 17 Jul 2024 14:01:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 frame.io 从 premiere 到 after effects ？</title>
-      <link>https://www.reddit.com/r/editors/comments/1e5grpu/from_premiere_to_after_effects_through_frameio/</link>
-      <description><![CDATA[我的大学正在制作一个视频，他们对我应该在后期效果中添加内容的位置发表了评论。我们对 frame.io 还很陌生，所以我如何使用原始视频作为指南（他们通过 frame.io 与我分享了它）来制作与视频时间同步的动画，这样我就可以通过单击评论在视频时间轴中跳转？ 非常感谢！    提交人    /u/LarsOscar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1e5grpu/from_premiere_to_after_effects_through_frameio/</guid>
-      <pubDate>Wed, 17 Jul 2024 12:18:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
