@@ -4,11 +4,18 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 19 Jul 2024 06:07:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 09:06:26 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 中过度使用的最常见词语有哪些？</title>
+      <link>https://www.reddit.com/r/software/comments/1e6wvm6/what_are_the_most_common_words_that_are_overused/</link>
+      <description><![CDATA[让我们数一数，只要在脑海里浮现出来，任何单词都令人印象深刻。    提交人    /u/mialululu   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1e6wvm6/what_are_the_most_common_words_that_are_overused/</guid>
+      <pubDate>Fri, 19 Jul 2024 06:17:10 GMT</pubDate>
+    </item>
     <item>
       <title>解决由于您没有权限下载此文件导致服务器响应消息的问题。</title>
       <link>https://www.reddit.com/r/software/comments/1e6wnw6/solve_the_problem_of_the_server_responding_to_the/</link>
-      <description><![CDATA[解决服务器响应消息，因为您没有权限下载此文件的问题。 详情 上传视频时 http/1.1 403 被阻止 来自 YouTube 下载程序已更新至最新版本，在 Windows 10 上从 YouTube 下载时也存在同样的问题。 https://preview.redd.it/oo3xveup1fdd1.png?width=529&amp;format=png&amp;auto=webp&amp;s=057d0b3c0c0e5f5412773e610d55cd586d43957b    提交人    /u/Artistic-Ad2280   [链接] [评论]]]></description>
+      <description><![CDATA[解决服务器响应消息，因为您没有权限下载此文件的问题。 详情 上传视频时 http/1.1 403 被阻止 来自 YouTube 下载程序已更新到最新版本，在 Windows 10 上从 YouTube 下载时也存在同样的问题。 https://preview.redd.it/oo3xveup1fdd1.png?width=529&amp;format=png&amp;auto=webp&amp;s=057d0b3c0c0e5f5412773e610d55cd586d43957b    提交人    /u/Artistic-Ad2280   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1e6wnw6/solve_the_problem_of_the_server_responding_to_the/</guid>
       <pubDate>Fri, 19 Jul 2024 06:03:20 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Fri, 19 Jul 2024 04:59:11 GMT</pubDate>
     </item>
     <item>
-      <title>Sw 工程师计算机科学专业</title>
+      <title>Sw 工程师 计算机科学专业</title>
       <link>https://www.reddit.com/r/software/comments/1e6upnw/sw_engineers_comp_sci_majors/</link>
       <description><![CDATA[老实说，我们必须成立工会。就这样。我以为我们是免疫的，你也是，但请等待。现在是唯一的时间。    由    /u/captainflippingeggs 提交   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1e6upnw/sw_engineers_comp_sci_majors/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我觉得她在散布恐惧。有没有软件可以检测人工智能？     提交人    /u/Cautious-Trick4622   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1e6p9gj/is_this_legit/</guid>
       <pubDate>Thu, 18 Jul 2024 23:24:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agent Ransack - 仅搜索以特定字母开头的文本？</title>
-      <link>https://www.reddit.com/r/software/comments/1e6p82c/agent_ransack_search_for_text_only_starting_with/</link>
-      <description><![CDATA[我使用 Agent Ransack 在一堆文本文件中搜索以（例如）X 开头并以 Y 结尾的任何内容。因此，我搜索 X*Y，其中 * 可能是 X 和 Y 之间的任意数量的字符。问题是，99% 的命中都是不以 X 开头的术语，因此结果可能是“VWX*Y”。  有什么方法可以更改我的输入，以便只获得以 X 开头的结果？或者任何其他（最好是 Windows 10）可以这样做的软件？     提交人    /u/Adventurous-Age-9591   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1e6p82c/agent_ransack_search_for_text_only_starting_with/</guid>
-      <pubDate>Thu, 18 Jul 2024 23:22:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
