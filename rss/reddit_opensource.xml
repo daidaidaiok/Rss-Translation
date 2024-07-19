@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 19 Jul 2024 03:07:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 06:08:04 GMT</lastBuildDate>
+    <item>
+      <title>寻找垫脚石</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e6tqqz/looking_for_stepping_stones/</link>
+      <description><![CDATA[嗨。我是一名软件工程师，从业 3 年多。我希望为开源社区做出贡献（主要是通过编写代码）。 我的技能：Java、spring、Scala、Python、Go、TS 也对以下领域感兴趣：ML、RAG 如果您能为我指明正确的方向，我将不胜感激。 谢谢阅读！    提交人    /u/General-Zucchini-819   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e6tqqz/looking_for_stepping_stones/</guid>
+      <pubDate>Fri, 19 Jul 2024 03:09:42 GMT</pubDate>
+    </item>
     <item>
       <title>LiftLog - 一款简单的锻炼追踪应用</title>
       <link>https://www.reddit.com/r/opensource/comments/1e6syhw/liftlog_a_simple_workout_tracking_app/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，我想估算一个开源库的使用情况，该库有助于构建基于块的编码程序。我的团队有兴趣弄清楚所有时间使用情况/最终用户统计数据，我想知道是否有任何方法可以通过市场研究/趋势或任何其他统计数据来做到这一点。任何指导都将不胜感激。    提交人    /u/asheeshaggarwal35314   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1e5voov/open_source_cro_and_data_analytics/</guid>
       <pubDate>Wed, 17 Jul 2024 22:42:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有适用于 Linux 的开源图书收藏管理器？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1e5psw7/any_opensource_book_collection_manager_for_linux/</link>
-      <description><![CDATA[我在 Android 上使用 openreads，正在寻找 Linux 上的类似应用来管理图书收藏。    提交人    /u/uzunsov   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1e5psw7/any_opensource_book_collection_manager_for_linux/</guid>
-      <pubDate>Wed, 17 Jul 2024 18:40:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
