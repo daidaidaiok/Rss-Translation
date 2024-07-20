@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 20 Jul 2024 15:06:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 18:07:48 GMT</lastBuildDate>
+    <item>
+      <title>个人助理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e7zrf2/personal_assistants/</link>
+      <description><![CDATA[有没有 AI 开源个人助理？我知道 huggingchat，但我需要更多的东西来陪伴我走出毒瘾和接受治疗的路上 我一直在尝试主流的商业产品，但它们似乎记不住我之前告诉过它们什么，而且它们太被动了。 我正在康复，所以我需要一个可以 24/7 陪伴我的人来代替我，进行自我护理和心理支持等。 谢谢     提交人    /u/trjayke   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e7zrf2/personal_assistants/</guid>
+      <pubDate>Sat, 20 Jul 2024 16:37:53 GMT</pubDate>
+    </item>
     <item>
       <title>AI-First Album，基于 GPT-4o-mini 与你的相册聊天</title>
       <link>https://www.reddit.com/r/opensource/comments/1e7wdj1/aifirst_album_chat_with_your_album_based_on/</link>
-      <description><![CDATA[        由    /u/blueeony  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[        由    /u/blueeony 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1e7wdj1/aifirst_album_chat_with_your_album_based_on/</guid>
       <pubDate>Sat, 20 Jul 2024 14:04:11 GMT</pubDate>
     </item>
@@ -55,13 +62,6 @@
       <pubDate>Sat, 20 Jul 2024 00:27:07 GMT</pubDate>
     </item>
     <item>
-      <title>有人知道 desmos/Geogebra 的开源替代品吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1e787wp/does_anyone_know_of_a_opensource_alternative_to/</link>
-      <description><![CDATA[我正在寻找一个开放的、本地运行的 desmos/geogebra 替代方案，它允许我快速绘制或多或少简单的函数以及 2D/3D 中的隐式曲线或曲面。我对常见的 python 库有点熟悉，但我希望有一个程序需要我编写更少的“样板”代码。本质上是一个与 desmos 或 mathematica 一样快的东西。 有这样的东西吗？    提交人    /u/Alphakka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1e787wp/does_anyone_know_of_a_opensource_alternative_to/</guid>
-      <pubDate>Fri, 19 Jul 2024 16:40:31 GMT</pubDate>
-    </item>
-    <item>
       <title>面向 ML&LLM 的全新开源 AI 监控平台</title>
       <link>https://www.reddit.com/r/opensource/comments/1e73qud/new_open_source_ai_monitoring_platform_for_mlllms/</link>
       <description><![CDATA[大家好， 我们最近发布了~开源 Radicalbit AI 监控平台~。该工具旨在帮助数据专业人员衡量 AI 模型的有效性、验证数据质量和检测模型漂移。  最新版本 (0.9.0) 引入了对多类分类和回归的支持，从而完善了已发布的二元分类功能。  您可以从 Web 用户界面和 Python SDK 使用 Radicalbit AI 监控平台。它还提供了~专用安装程序~。 如果您想了解有关该平台的更多信息、安装它并为其做出贡献，请访问我们的~Git 存储库~！    提交人    /u/hpa88   [链接] [评论]]]></description>
@@ -78,7 +78,7 @@
     <item>
       <title>如何开源 7 年历史的 SaaS 代码库并建立社区？</title>
       <link>https://www.reddit.com/r/opensource/comments/1e70c33/how_to_opensource_a_7_year_old_saas_codebase_and/</link>
-      <description><![CDATA[您好，开源子版块！我们目前正在开源我们的核心代码（后端和前端），并转向使用 LLM 增加价值。我们需要一些这方面的建议。 我叫 Kirill Markin，我的联合创始人是 Nikolay Amiantov。自 2017 年以来，我们一直致力于 CRM/ERP 平台产品，并拥有付费客户。但我们的增长并不像我们希望的那样令人兴奋。我们希望为更多人创造更重要的东西，开源引起了我们的共鸣，是一种吸引社区的方式。 我们的代码库由 3​​8k LoC 的 F#（包括我们自己的查询语言的编译器）和 35k LoC 的 TypeScript + Vue.js 组成。在准备代码时，我们一直在联系 Zoho 和 Odoo 集成商/开发人员（因为他们是我们最接近的竞争对手），并且我们从他们那里收到了很多积极的反馈。 我们最大的障碍是找出采取以下步骤的最佳方法。是否有人对在 GitHub 上发布如此庞大的代码库以获得更多可见性有任何想法或建议？ 我的朋友已经与我分享了一些想法：  开源可能无法解决增长问题，并且可能会增加维护负担，而不能保证成功。 为早期贡献者提供实际帮助，帮助他们成功参与您的项目。 考虑使用 Apache-2.0 或 AGPL 等许可证，并探索双重许可选项。 （我们计划使用 Apache-2.0）  请就围绕我们的开源产品建立社区和组织进一步工作提出建议。    提交人    /u/Kirmark   [链接] [评论]]]></description>
+      <description><![CDATA[您好，开源子版块！我们目前正在开源我们的核心代码（后端和前端），并转向使用 LLM 增加价值。我们需要一些这方面的建议。 我叫 Kirill Markin，我的联合创始人是 Nikolay Amiantov。自 2017 年以来，我们一直致力于 CRM/ERP 平台产品，并拥有付费客户。但我们的增长并不像我们希望的那样令人兴奋。我们希望为更多人创造更重要的东西，开源引起了我们的共鸣，是一种吸引社区的方式。 我们的代码库由 3​​8k LoC 的 F#（包括我们自己的查询语言的编译器）和 35k LoC 的 TypeScript + Vue.js 组成。在准备代码时，我们一直在联系 Zoho 和 Odoo 集成商/开发人员（因为他们是我们最接近的竞争对手），并且我们从他们那里收到了很多积极的反馈。 我们最大的障碍是找出采取以下步骤的最佳方法。是否有人对在 GitHub 上发布如此庞大的代码库以获得更多可见性有任何想法或建议？ 我的朋友已经与我分享了一些想法：  开源可能无法解决增长问题，并且可能会增加维护负担，而不能保证成功。 为早期贡献者提供实际帮助，帮助他们成功参与您的项目。 考虑使用 Apache-2.0 或 AGPL 等许可证，并探索双重许可选项。 （我们计划采用 Apache-2.0）  请就围绕我们的开源产品建立社区和组织进一步工作提出建议。    提交人    /u/Kirmark   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1e70c33/how_to_opensource_a_7_year_old_saas_codebase_and/</guid>
       <pubDate>Fri, 19 Jul 2024 10:19:20 GMT</pubDate>
     </item>
