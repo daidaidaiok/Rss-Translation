@@ -4,7 +4,21 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 19 Jul 2024 21:06:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 00:19:25 GMT</lastBuildDate>
+    <item>
+      <title>莱昂纳多·艾</title>
+      <link>https://www.producthunt.com/posts/leonardo-ai</link>
+      <description><![CDATA[
+创作艺术作品、图片和视频
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/leonardo-ai</guid>
+      <pubDate>Fri, 19 Jul 2024 06:34:25 GMT</pubDate>
+    </item>
     <item>
       <title>易传媒</title>
       <link>https://www.producthunt.com/posts/easymedia</link>
@@ -20,32 +34,46 @@
       <pubDate>Fri, 19 Jul 2024 06:02:16 GMT</pubDate>
     </item>
     <item>
-      <title>多区域同步时钟</title>
-      <link>https://www.producthunt.com/posts/multi-zone-sync-clock</link>
+      <title>杜杜</title>
+      <link>https://www.producthunt.com/posts/duedo</link>
       <description><![CDATA[
-轻松安排跨时区的会议
+以截止日期为重点的待办事项列表
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/multi-zone-sync-clock</guid>
-      <pubDate>Thu, 18 Jul 2024 19:58:27 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/duedo</guid>
+      <pubDate>Fri, 19 Jul 2024 05:25:07 GMT</pubDate>
     </item>
     <item>
-      <title>GGL.链接</title>
-      <link>https://www.producthunt.com/posts/ggl-link</link>
+      <title>厨师</title>
+      <link>https://www.producthunt.com/posts/kuluko</link>
       <description><![CDATA[
-免费 Google 链接缩短器
+将您的想法转化为 3 小时以上的定制有声读物
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/ggl-link</guid>
-      <pubDate>Thu, 18 Jul 2024 19:10:15 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/kuluko</guid>
+      <pubDate>Thu, 18 Jul 2024 22:09:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-4o 迷你</title>
+      <link>https://www.producthunt.com/posts/gpt-4o-mini</link>
+      <description><![CDATA[
+OpenAI 的 GPT-3.5 turbo 继任者
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/gpt-4o-mini</guid>
+      <pubDate>Thu, 18 Jul 2024 20:45:25 GMT</pubDate>
     </item>
     <item>
       <title>静态忍者形态</title>
@@ -90,32 +118,18 @@
       <pubDate>Thu, 18 Jul 2024 15:11:47 GMT</pubDate>
     </item>
     <item>
-      <title>加加加</title>
-      <link>https://www.producthunt.com/posts/cangogo</link>
+      <title>设计视野</title>
+      <link>https://www.producthunt.com/posts/design-sight</link>
       <description><![CDATA[
-一款计步器，可在您迈步时收集可爱动物
+设计与开发之间缺失的环节
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/cangogo</guid>
-      <pubDate>Thu, 18 Jul 2024 12:35:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>差速器</title>
-      <link>https://www.producthunt.com/posts/diffshop</link>
-      <description><![CDATA[
-代发货产品研究、shopify 间谍和 adspy 工具
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/diffshop</guid>
-      <pubDate>Thu, 18 Jul 2024 07:10:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/design-sight</guid>
+      <pubDate>Thu, 18 Jul 2024 12:58:55 GMT</pubDate>
     </item>
     <item>
       <title>黄蜂</title>
@@ -132,6 +146,20 @@ IDE 中的 AI 代码审查
       <pubDate>Thu, 18 Jul 2024 06:19:39 GMT</pubDate>
     </item>
     <item>
+      <title>升级</title>
+      <link>https://www.producthunt.com/posts/stepup</link>
+      <description><![CDATA[
+每天步行 10k 步
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/stepup</guid>
+      <pubDate>Wed, 17 Jul 2024 21:12:35 GMT</pubDate>
+    </item>
+    <item>
       <title>戈韦布利</title>
       <link>https://www.producthunt.com/posts/gowebly</link>
       <description><![CDATA[
@@ -144,34 +172,6 @@ IDE 中的 AI 代码审查
 ]]></description>
       <guid>https://www.producthunt.com/posts/gowebly</guid>
       <pubDate>Wed, 17 Jul 2024 15:49:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能机器人</title>
-      <link>https://www.producthunt.com/posts/membots-ai</link>
-      <description><![CDATA[
-铸造一个会说话的 memecoin
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/membots-ai</guid>
-      <pubDate>Tue, 16 Jul 2024 06:42:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>HEIC 转换器</title>
-      <link>https://www.producthunt.com/posts/heic-converter-4</link>
-      <description><![CDATA[
-安全且私密的 HEIC 转换
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/heic-converter-4</guid>
-      <pubDate>Sun, 14 Jul 2024 02:56:25 GMT</pubDate>
     </item>
     <item>
       <title>Proven.ly 社交证明和 FOMO 生成器</title>
@@ -188,18 +188,18 @@ IDE 中的 AI 代码审查
       <pubDate>Fri, 12 Jul 2024 05:01:57 GMT</pubDate>
     </item>
     <item>
-      <title>成长营</title>
-      <link>https://www.producthunt.com/posts/growhab</link>
+      <title>螺旋</title>
+      <link>https://www.producthunt.com/posts/xspiral</link>
       <description><![CDATA[
-改善您的日常生活
+使用 2D 方法创建 3D 设计，在 3D 空间中使用 AI
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/growhab</guid>
-      <pubDate>Wed, 10 Jul 2024 19:15:10 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/xspiral</guid>
+      <pubDate>Mon, 01 Jul 2024 09:51:32 GMT</pubDate>
     </item>
     <item>
       <title>团队工匠</title>
