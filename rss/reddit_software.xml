@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 20 Jul 2024 18:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 21:05:30 GMT</lastBuildDate>
+    <item>
+      <title>NFC 钱包 POS 系统兼容性</title>
+      <link>https://www.reddit.com/r/software/comments/1e858cm/nfc_wallet_pos_sytem_compatibility/</link>
+      <description><![CDATA[您好， 我有一个问题，但真的不知道该去哪里找或问谁，所以我想我应该从 Reddit 之类的地方开始，看看我能收集到什么信息。所以我的问题是 NFC 技术和 POS 系统如何工作，尤其是当涉及到 Apple Wallet 或点击支付功能时。更具体地说，我很好奇 POS 系统和智能设备之间是否可以通信，或者它是否已经存在。我的意思是，有没有办法让智能手机读取 POS 系统输出的与交易相对应的信息，并查看供应商名称、购买金额、交易所属的产品或服务类型等信息。如果这是可行的，请让我知道从技术角度来看它将如何工作。如果它已经存在，请告诉我哪些服务可以做到这一点以及它们现在如何做到这一点。或者，如果问题太具体，需要进一步研究，请告诉我在哪里可以找到这类问题的答案。任何建议都值得赞赏。谢谢！    提交人    /u/onekindaction   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1e858cm/nfc_wallet_pos_sytem_compatibility/</guid>
+      <pubDate>Sat, 20 Jul 2024 20:47:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家帮忙。</title>
+      <link>https://www.reddit.com/r/software/comments/1e83oxn/eac_help/</link>
+      <description><![CDATA[有谁擅长使用 EAC？ 我想翻录我的旧 CD，但遇到了一些问题。 我做了网上广泛提供的初始设置。 我选择了翻录 CD 的目标。我想要得到的是专辑的 .flac。但问题是 EAC 为我的每首歌曲翻录了一个 .wav 和一个 .flac。我尽我所能只得到一个 .flac，但毫无效果。  所以我所做的就是将 .wave 扔进垃圾桶，只保留 .flac 并将它们放入更合适的文件夹中。 但这样做的结果是提示表不再起作用，我的歌曲不再有正确的专辑封面。 所以......我可以确保 EAC 将我的 CD 翻录到适当的文件夹中，例如 CD/Rip/艺术家姓名/专辑名称/所有歌曲......同时只翻录 flacs 而不是 wav。这是我的第一个问题。 第二个问题是，我注意到在我的 PC 上歌曲是这样的：01 the Beatles - Let it be。但是当我在车上播放这首歌时，又添加了一个数字，最后变成这样：1 - 01 - the beatlea - let it be。有没有办法删除添加的第二个数字？ 感谢帮助新手    提交人    /u/fredyellowone   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1e83oxn/eac_help/</guid>
+      <pubDate>Sat, 20 Jul 2024 19:36:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些好的视频下载器？</title>
+      <link>https://www.reddit.com/r/software/comments/1e82v2q/whats_a_good_video_downloader/</link>
+      <description><![CDATA[我正在尝试下载 YouTube 视频用于视频制作，但我通常使用的 3 个网站实际上不再存在。我进入了 Google 搜索的第 3 页并点击了每个结果，我得到的最好的结果就是一些像素和音频。     提交人    /u/InternetAddict104   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1e82v2q/whats_a_good_video_downloader/</guid>
+      <pubDate>Sat, 20 Jul 2024 18:58:35 GMT</pubDate>
+    </item>
     <item>
       <title>自然声音不会出现在巴拉博卡中</title>
       <link>https://www.reddit.com/r/software/comments/1e80pj7/natural_voices_wont_show_up_in_balabolka/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[嗨，我需要在主显示器上打开 GIMP，并且只在第二个显示器上显示图像部分，周围没有界面。基本上，Windows 重复显示功能，但只能复制屏幕的某个部分。    提交人    /u/FfiveBarkod   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1e7ipgs/show_a_part_of_one_scren_on_another/</guid>
       <pubDate>Sat, 20 Jul 2024 00:18:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么办法可以将我的 Android 手机用作 Twain 扫描仪？</title>
-      <link>https://www.reddit.com/r/software/comments/1e7ckoj/is_there_a_way_to_use_my_android_phone_as_a_twain/</link>
-      <description><![CDATA[我的 (Android) 手机有一个很棒的相机。有没有办法让计算机上运行的应用程序（例如 ScanSpeeder 或 Photoshop）连接到我的手机并将其用作扫描仪？ 显然，我知道我可以用手机拍照，将其复制到我的电脑上，然后直接打开，但我想减少几个步骤并在现有的工作流程中替换我的旧平板扫描仪。    提交人    /u/zuilserip   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1e7ckoj/is_there_a_way_to_use_my_android_phone_as_a_twain/</guid>
-      <pubDate>Fri, 19 Jul 2024 19:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>热点制作器 v.3.0 |接入点</title>
-      <link>https://www.reddit.com/r/software/comments/1e7c9l7/hotspot_maker_v30_puntos_de_acceso/</link>
-      <description><![CDATA[  由    /u/Immediate_Gear_1490  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1e7c9l7/hotspot_maker_v30_puntos_de_acceso/</guid>
-      <pubDate>Fri, 19 Jul 2024 19:31:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人用过带荧光笔的浏览器吗？有人能推荐一款适用于 iOS 的带荧光笔的浏览器吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1e7bm36/has_anyone_used_a_browser_with_a_highlighter_can/</link>
-      <description><![CDATA[  由    /u/oalja  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1e7bm36/has_anyone_used_a_browser_with_a_highlighter_can/</guid>
-      <pubDate>Fri, 19 Jul 2024 19:03:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
