@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 21 Jul 2024 00:21:45 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sun, 21 Jul 2024 03:06:35 GMT</lastBuildDate>
+    <item>
+      <title>电子表格就是您所需要的</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e8cqj1/spreadsheet_is_all_you_need/</link>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e8cqj1/spreadsheet_is_all_you_need/</guid>
+      <pubDate>Sun, 21 Jul 2024 03:05:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关我的简历中带有虚拟角色的实时聊天应用程序的反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e8bvz2/seeking_feedback_on_my_realtime_chat_app_with/</link>
+      <description><![CDATA[大家好， 我是一名入门级 Web 开发人员，目前正在学习有关全栈开发的更多信息。在过去的一周里，我建立了一个副项目：https://www.vchathub.io/，我很乐意收到您的反馈和建议。 我创建了一个实时聊天应用程序，用户可以上传自己的虚拟角色（VRM、FBX 等）并与随机的人聊天。它旨在通过个性化头像使对话更有趣、互动性更强。如果您对功能、您可能遇到的任何问题以及整体功能有任何反馈，我们将不胜感激。 对于这个项目，我使用并学习了 Next.js、Node.js、AWS S3 和 MongoDB。如果您对我如何改进对这些技术的使用或项目的任何其他方面有任何建议，请告诉我。我渴望学习和提高我的技能。  提前感谢您的反馈和支持！    提交人    /u/Kind_Ad_8473   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e8bvz2/seeking_feedback_on_my_realtime_chat_app_with/</guid>
+      <pubDate>Sun, 21 Jul 2024 02:18:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>多步骤表单前端和后端</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e8b6lk/multistep_form_front_end_and_backend/</link>
+      <description><![CDATA[P.S 这将是 大家好，我最近编写了一个全栈网站，您可以在其中评论学校。  我有一个包含 3 页的多步骤表单： - page1：.jsx 由星级评分系统组成 - page2.jsx：由表单组成 - page3.jsx：仅显示已提交评论的消息  然后将所有这些页面导入到父页面（WriteAReviewPage.jsx）  我希望能够存储数据并将其显示在另一个页面中（例如 DisplayReviewPage.jsx）  谁能告诉我怎么做？特别是存储星级评分等数据..  任何帮助都值得赞赏 :) 提前谢谢！  P.s 我只需要对我必须采取的步骤进行简要说明才能做到这一点。     由    /u/Unicorn_fartzz 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e8b6lk/multistep_form_front_end_and_backend/</guid>
+      <pubDate>Sun, 21 Jul 2024 01:39:28 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一款应用，你可以滑动浏览一系列问题，目的是引发讨论</title>
       <link>https://www.reddit.com/r/webdev/comments/1e89prs/i_made_an_app_where_you_swipe_through_a_bunch_of/</link>
@@ -43,7 +64,7 @@
     <item>
       <title>寻找一种工具来向图像的特定区域添加可点击的链接</title>
       <link>https://www.reddit.com/r/webdev/comments/1e86sao/looking_for_a_tool_to_add_clickable_links_to/</link>
-      <description><![CDATA[大家好，我正在寻找一种工具，可以让我向图像的特定区域添加可点击的链接，每个可点击区域指向不同的图像。目标是在网页上复制我们为客户使用的应用程序的功能。这样，我们的代理就可以浏览网页上的不同图像，而不必不断地重新安装和卸载他们的个人应用程序。 我不是开发人员，但我足智多谋，愿意自学一点。我这样做是为了帮助我的同事和新员工，他们目前没有用于此目的的工具。理想情况下，该解决方案应兼容 Android 和 Apple 设备。免费选项是首选，但我愿意接受任何建议。提前谢谢！    提交人    /u/WhimsicalGirl   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我正在寻找一种工具，可以让我向图像的特定区域添加可点击链接，每个可点击区域指向不同的图像。目标是在网页上复制我们为客户使用的应用程序的功能。这样，我们的代理就可以浏览网页上的不同图像，而不必不断地重新安装和卸载他们的个人应用程序。 我不是开发人员，但我足智多谋，愿意自学一点。我这样做是为了帮助我的同事和新员工，他们目前没有用于此目的的工具。理想情况下，该解决方案应兼容 Android 和 Apple 设备。免费选项是首选，但我愿意接受任何建议。提前谢谢！    提交人    /u/WhimsicalGirl   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1e86sao/looking_for_a_tool_to_add_clickable_links_to/</guid>
       <pubDate>Sat, 20 Jul 2024 22:01:07 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[不确定其他人是否遇到过这种情况，也不知道处理这种情况的最佳方法是什么。一段时间以来，我的 CPU 使用率一直非常高，性能也很差，最后终于找到了原因......我得到的点击流无穷无尽，速度之快让我的日志可以无限滚动，而且它们似乎都来自这个爬虫，似乎点击速度之快让我的带宽和 CPU 无法响应，试图反复下载我的整个网站（数百 GB 的照片/视频）。 我正在运行 Apache HTTPD 网络服务器和 Fail2Ban......因为它从来没有做任何“坏事”就像尝试猜测凭据一样，它似乎没有被阻止，但它占用了所有的 CPU 资源，甚至登录和管理任何东西都很困难。 我很感激任何建议...... 47.128.61.63 - - [20/Jul/2024:15:31:26 -0400] &quot;GET &lt;redacted&gt; HTTP/1.1&quot; 200 2938 &quot;https://&lt;redacted&gt;&quot; “Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML，如 Gecko) Mobile Safari/537.36 (兼容; Bytespider; spider-feedback@bytedance.com)” 47.128.61.63 - - [20/Jul/2024:15:31:26 -0400] “GET &lt;redacted&gt; HTTP/1.1” 200 3133 “https://&lt;redacted&gt;” “Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML，如 Gecko) Mobile Safari/537.36 (兼容; Bytespider; spider-feedback@bytedance.com)” 47.128.61.63 - - [20/Jul/2024:15:31:26 -0400] “GET &lt;redacted&gt; HTTP/1.1” 200 2653 “https://&lt;redacted&gt;” “Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML，如 Gecko) Mobile Safari/537.36 (兼容; Bytespider; spider-feedback@bytedance.com)” 47.128.61.63 - - [20/Jul/2024:15:31:26 -0400] “GET &lt;redacted&gt; HTTP/1.1” 200 2456 “https://&lt;redacted&gt;” “Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML，如 Gecko) Mobile Safari/537.36 (兼容; Bytespider; spider-feedback@bytedance.com)” 47.128.61.63 - - [20/Jul/2024:15:31:26 -0400] “GET &lt;redacted&gt; HTTP/1.1” 200 2572 “https://&lt;redacted&gt;” “Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML，如 Gecko) Mobile Safari/537.36 (兼容; Bytespider; spider-feedback@bytedance.com)” 47.128.61.63 - - [20/Jul/2024:15:31:26 -0400] “GET &lt;redacted&gt; HTTP/1.1” 200 2371 “https://&lt;redacted&gt;” “Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML，如 Gecko) Mobile Safari/537.36 (兼容; Bytespider; spider-feedback@bytedance.com)” 47.128.61.63 - - [20/Jul/2024:15:31:26 -0400] “GET &lt;redacted&gt; HTTP/1.1” 200 2314 “https://&lt;redacted&gt;” “Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML，如 Gecko) Mobile Safari/537.36 (兼容; Bytespider; spider-feedback@bytedance.com)” 47.128.61.63 - - [20/Jul/2024:15:31:26 -0400] “GET &lt;redacted&gt; HTTP/1.1” 200 2731 “https://&lt;redacted&gt;” “Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML，如 Gecko) Mobile Safari/537.36 (兼容; Bytespider; spider-feedback@bytedance.com)” 47.128.61.63 - - [20/Jul/2024:15:31:26 -0400] “GET &lt;redacted&gt; HTTP/1.1” 200 2295 “https://&lt;redacted&gt;” “Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML，如 Gecko) Mobile Safari/537.36 (兼容; Bytespider; spider-feedback@bytedance.com)” 47.128.61.63 - - [20/Jul/2024:15:31:26 -0400] “GET &lt;redacted&gt; HTTP/1.1” 200 3097 “https://&lt;redacted&gt;” “Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML，如 Gecko) Mobile Safari/537.36 (兼容; Bytespider; spider-feedback@bytedance.com)”    提交人    /u/Complex_Solutions_20   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1e83q9f/site_being_ddosd_by_bytedance_spideranyone_else/</guid>
       <pubDate>Sat, 20 Jul 2024 19:37:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何为二手车经销商的第一个网络应用程序定价？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e83c31/how_to_price_first_web_app_for_a_second_hand_car/</link>
-      <description><![CDATA[大家好，我是来自英国的软件开发人员。我有一年行业经验，最近我买了一辆新的二手车，于是就想着做一个网站。本质上这是一家小型私人经销店，库存汽车可能不到 30 辆。 我基本上说了类似这样的话：我可以为他做一个具有基本功能的网站，提供联系表格，列出他的库存，以便用汽车零件付款……但是需要多少个汽车零件呢？我想要一堆零件来修理这辆车，虽然没什么问题，但它是二手车。可以用一些新垫子等。 我的想法是模拟一个 figma 设计，并使用 Angular、firebase 和 netlify 表单（我已经了解这些）做以下类型的用户故事。  作为车主的视角：  能够随时填写包含汽车详细信息的列表表单，并上传图片以添加到网站 更新/删除列表  然后从客户的角度：  能够浏览您的库存列表 按价格、品牌、里程等过滤汽车 能够直接通过网站向您发送有关汽车的电子邮件，甚至可以在电子邮件中直接链接汽车 能够访问带有谷歌地图的“找到我们”页面，显示 jap autos 的位置  这家伙似乎很热心，我对任何付款都很满意，甚至一套新的垫子就足够了，但我应该要求多少钱呢？ 500-1000 英镑？ 我估计我可以在工作前和工作后花 2-4 周的时间完成它。 谢谢大家！    提交人    /u/FromBiotoDev   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e83c31/how_to_price_first_web_app_for_a_second_hand_car/</guid>
-      <pubDate>Sat, 20 Jul 2024 19:20:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最近的 PR 是关于什么的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e8383z/what_were_your_last_prs_about/</link>
-      <description><![CDATA[我是一名初级 QA 工程师，目前正在寻找从事后端 Web 开发的新机会。最近几天我学习了很多东西，比如 Java、Spring Boot、RESTFul Web 服务、最佳实践、CI/CD 和一堆后端相关的东西。但这似乎还不够。 我问这个问题的原因是因为我想了解后端开发人员每天都在做什么。 我的意思是，我知道如何创建端点、插入新功能、修复错误。但是，虽然我目前没有工作，但我想学习比在线课程教授的更多内容。 那么，你们具体是做什么的？你们如何不断提高自己？我认为从现实世界的任务中获得经验意味着很多。 我理解有些人不能分享有关工作的详细信息，这很好，但我真的很感激一些澄清。比如，过去一周左右你负责做什么？ 那会很有帮助。如果我说的不够简洁，请见谅。提前谢谢您！    提交人    /u/illogiccall   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e8383z/what_were_your_last_prs_about/</guid>
-      <pubDate>Sat, 20 Jul 2024 19:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>获取 SVG 文本元素的边界框</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e809pz/getting_the_bounding_box_of_an_svg_text_element/</link>
-      <description><![CDATA[我正在寻找一个可以在渲染时提供 SVG 文本元素边界框的库。我之所以需要这些信息，是为了能够在文本周围构建一些几何图形，并知道文本是否适合它。 我确实发现了以下内容： 如何在使用 Raphaël 渲染之前确定 SVG 文本的宽度和高度 然而，Raphael 显然在几年前就被放弃了。 使用 HTML Canvas 时，有一个很好用的 measureText 函数，它提供了有关要渲染的文本的各种有用详细信息。只需一个边界框我就满足了，但如果有某种方法可以获取 SVG 文本元素的 TextMetrics，那就太好了。  您会提供什么建议来解决这个问题？    提交人    /u/Obvious-Ebb-7780   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e809pz/getting_the_bounding_box_of_an_svg_text_element/</guid>
-      <pubDate>Sat, 20 Jul 2024 17:01:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

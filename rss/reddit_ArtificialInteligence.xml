@@ -4,20 +4,20 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 21 Jul 2024 00:20:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 03:05:17 GMT</lastBuildDate>
+    <item>
+      <title>Taylor & Francis 以 1000 万美元的价格将其研究成果出售给微软 AI，学术作者对此感到“震惊”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e8c7yr/academic_authors_shocked_after_taylor_francis/</link>
+      <description><![CDATA[作为最大的学术出版商之一，泰勒弗朗西斯 (Taylor &amp; Francis) 在第一年就与微软达成了一项协议，要求其为研究内容收取 1000 万美元，微软将与我们共同开发 AI 技术。这激怒了许多作者，他们措手不及，没有机会拒绝或获得使用该作品的报酬。大学工作人员，例如从事与这项工作相关的学术研究和出版的露丝·艾莉森·克莱门斯 (Ruth Alison Clemens) 博士，也不知道这些计划。他补充说，作家协会和其他学术界人士敦促提高此类交易的透明度，并向作者提供更“公平”的回报。在人工智能技术不断发展的背景下，这场争吵突显了在学术出版中制定明确的政策和实践的必要性。    提交人    /u/salukihunt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e8c7yr/academic_authors_shocked_after_taylor_francis/</guid>
+      <pubDate>Sun, 21 Jul 2024 02:36:43 GMT</pubDate>
+    </item>
     <item>
       <title>哪种 3D/游戏引擎最适合模拟 AI 代理交互和训练神经网络？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e884ux/what_3dgame_engine_is_best_to_simulate_ai_agent/</link>
       <description><![CDATA[我相信你们中的许多人都看过 YouTube 上那些超酷的视频，其中展示了 AI 代理如何相互交互的 3D 模拟，以及在训练神经网络后它们如何变得越来越好。对于那些不知道我在说什么的人，你可以查看 YouTube 频道，如 AI Warehouse、Primer 等。 我想知道是否有人有过这类模拟的经验，以及是否有推荐的 3D 引擎用于此目的。似乎 Unity 经常被谈论，但现在很多人都在谈论 Unreal 的强大功能。 我有使用 TensorFlow 和 Pytorch 训练神经网络的经验，但我不知道如何在游戏引擎中做到这一点。    提交人    /u/adrenaline681   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e884ux/what_3dgame_engine_is_best_to_simulate_ai_agent/</guid>
       <pubDate>Sat, 20 Jul 2024 23:04:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>热门观点：在我看来，人工智能无法拥有感知能力。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e87wlt/hot_take_artificial_intelligence_is_in_my_opinion/</link>
-      <description><![CDATA[我看到了很多关于人们的观点的信息，比如人工智能将如何接管，为什么我们需要停止使用它，以及应该如何设置障碍以防止发生“天网”式的攻击。&lt;​​/p&gt; 我称之为 BS。 我从事计算机科学工作，这毫无意义。听我说： 人类是有知觉的，识别这一点的最重要方法之一是，我们可以对缺乏信息做出反应。假设一个 5 岁的孩子被放在一个没有父母的空房间里。我可以保证，在一小时内，甚至 20 分钟内，那个孩子会尖叫或哭泣，或者以某种方式表现出他们很无聊。他们厌倦了缺乏刺激。 人工智能和/或整个计算机都无法做到这一点。每一个生成模型，无论是 ChatGPT、Claude、Llama、Midjourney 等，都需要某种形式的输入才能创建输出，这仅仅是因为计算机不是随机的，甚至随机化技术本身也需要人工输入。 如果你让一个人工智能聊天机器人在没有刺激（在人工智能的情况下是人类输入）的情况下运行，它就不会做任何反应。这否定了它任何形式的感知。即使我们在人工智能自己的代码和参数中编写了一个函数，如果 5 分钟内没有输入，它就会做出反应。这仍然不是随机的，这仍然是人类输入的一部分，告诉它该做什么。 我觉得基于这个事实，仅仅基于这个事实，人工智能完全没有能力以这种方式拥有感知能力或接管。    提交人    /u/ILikeJasmineRice   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e87wlt/hot_take_artificial_intelligence_is_in_my_opinion/</guid>
-      <pubDate>Sat, 20 Jul 2024 22:54:14 GMT</pubDate>
     </item>
     <item>
       <title>GP4-o 获得了内部权限但失败了..非常有趣。</title>
@@ -46,13 +46,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e84zaz/ai_weekly_summary_july_14th_to_july_21st_2024/</guid>
       <pubDate>Sat, 20 Jul 2024 20:35:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名医学生，哪种人工智能最适合我？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e83mru/as_a_medical_student_what_ai_is_best_for_me/</link>
-      <description><![CDATA[我使用 gemini。它确实有帮助。但我想知道它是否是最好的，或者有更好的 AI 来回答我的问题类型（需要大型数据库和详细信息的问题）。    提交人    /u/papatazi   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e83mru/as_a_medical_student_what_ai_is_best_for_me/</guid>
-      <pubDate>Sat, 20 Jul 2024 19:33:28 GMT</pubDate>
     </item>
     <item>
       <title>人工智能在不久的将来最大的应用之一将是整形外科行业</title>
@@ -88,6 +81,13 @@
       <description><![CDATA[基本上就是标题。我尝试过 ChatGPT 订阅（老实说，由于最新型号，我认为这是值得的）——仍在使用并付费 还有其他您仍在使用的推荐的 AI 吗？也请注明是否需要花钱。    提交人    /u/AdNatural8174   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e7zvh3/what_ai_applications_are_people_using/</guid>
       <pubDate>Sat, 20 Jul 2024 16:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>将音乐分解成各个组成部分</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e7yssu/splitting_music_into_its_constituent_parts/</link>
+      <description><![CDATA[大家好，对于我正在开展的一个项目，我想尝试获取一个音频文件（理想情况下是一首歌曲），然后让 AI 将其拆分成几个小部分，例如人声、伴唱、鼓、弦乐、合成器等。 我对 Tensor Flow 和 Python 有一点经验，所以如果有人知道其中任何软件包那就太好了，否则，如果您对模型有任何其他想法，我很乐意学习更多语言。我知道有 deezers 音乐分割，但不确定它是否能够做我想要它做的事情 非常感谢！    提交人    /u/_-agaming-_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e7yssu/splitting_music_into_its_constituent_parts/</guid>
+      <pubDate>Sat, 20 Jul 2024 15:54:47 GMT</pubDate>
     </item>
     <item>
       <title>有没有简单的方法来训练本地 AI 模型？</title>
