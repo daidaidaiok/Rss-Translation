@@ -4,21 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 22 Jul 2024 09:08:13 GMT</lastBuildDate>
-    <item>
-      <title>肯波</title>
-      <link>https://www.producthunt.com/posts/kempo</link>
-      <description><![CDATA[
-定制代码游乐场
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/kempo</guid>
-      <pubDate>Mon, 22 Jul 2024 01:46:54 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Jul 2024 12:09:26 GMT</lastBuildDate>
     <item>
       <title>法学硕士云</title>
       <link>https://www.producthunt.com/posts/awan-llm</link>
@@ -76,20 +62,6 @@
       <pubDate>Sun, 21 Jul 2024 15:43:20 GMT</pubDate>
     </item>
     <item>
-      <title>定制飞行员</title>
-      <link>https://www.producthunt.com/posts/custom-pilot</link>
-      <description><![CDATA[
-将自定义代码补全模型集成到 VS Code 中
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/custom-pilot</guid>
-      <pubDate>Sun, 21 Jul 2024 15:01:24 GMT</pubDate>
-    </item>
-    <item>
       <title>学习地图</title>
       <link>https://www.producthunt.com/posts/studymap-ai</link>
       <description><![CDATA[
@@ -132,32 +104,60 @@
       <pubDate>Sat, 20 Jul 2024 10:10:49 GMT</pubDate>
     </item>
     <item>
-      <title>戈壁</title>
-      <link>https://www.producthunt.com/posts/gobi</link>
+      <title>在 Adob​​e Express 中创建模型</title>
+      <link>https://www.producthunt.com/posts/create-mockups-in-adobe-express</link>
       <description><![CDATA[
-新的幸福方式
+轻松将您的 Adob​​e Express 设计放入模型项目中
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/gobi</guid>
-      <pubDate>Tue, 16 Jul 2024 06:50:50 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/create-mockups-in-adobe-express</guid>
+      <pubDate>Fri, 19 Jul 2024 13:39:45 GMT</pubDate>
     </item>
     <item>
-      <title>皮科根</title>
-      <link>https://www.producthunt.com/posts/picogen-2</link>
+      <title>Onsides（测试版）</title>
+      <link>https://www.producthunt.com/posts/onsides-beta</link>
       <description><![CDATA[
-Midjourney、稳定扩散和 DALL-E 的新替代方案
+唯一一款面向家长的通用青少年运动应用
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/picogen-2</guid>
-      <pubDate>Fri, 12 Jul 2024 11:38:59 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/onsides-beta</guid>
+      <pubDate>Thu, 18 Jul 2024 22:53:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>恢复助手</title>
+      <link>https://www.producthunt.com/posts/resumaidpro</link>
+      <description><![CDATA[
+无需离开您的标签即可创建自定义职位简历
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/resumaidpro</guid>
+      <pubDate>Wed, 17 Jul 2024 17:19:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vozo 重写和重新配音</title>
+      <link>https://www.producthunt.com/posts/vozo-rewrite-redub</link>
+      <description><![CDATA[
+使用提示将热门视频转化为新故事
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/vozo-rewrite-redub</guid>
+      <pubDate>Tue, 16 Jul 2024 09:30:44 GMT</pubDate>
     </item>
     <item>
       <title>Zixflow 营销</title>
@@ -188,6 +188,20 @@ Midjourney、稳定扩散和 DALL-E 的新替代方案
       <pubDate>Sun, 07 Jul 2024 10:26:20 GMT</pubDate>
     </item>
     <item>
+      <title>艾科洛西奥</title>
+      <link>https://www.producthunt.com/posts/colocio-ai</link>
+      <description><![CDATA[
+创建、评估和自动化您的广告、社交媒体和 PPC
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/colocio-ai</guid>
+      <pubDate>Wed, 26 Jun 2024 09:23:08 GMT</pubDate>
+    </item>
+    <item>
       <title>聚会场所</title>
       <link>https://www.producthunt.com/posts/party-place</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@ Midjourney、稳定扩散和 DALL-E 的新替代方案
 ]]></description>
       <guid>https://www.producthunt.com/posts/party-place</guid>
       <pubDate>Fri, 14 Jun 2024 19:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>时间对齐</title>
-      <link>https://www.producthunt.com/posts/timealign</link>
-      <description><![CDATA[
-将您的时间与您的目标保持一致并优化您的生活
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/timealign</guid>
-      <pubDate>Wed, 12 Jun 2024 23:25:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
