@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 22 Jul 2024 21:05:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 00:19:59 GMT</lastBuildDate>
+    <item>
+      <title>我如何创建自己的操作系统？</title>
+      <link>https://www.reddit.com/r/software/comments/1e9tm9r/how_do_i_create_my_own_os/</link>
+      <description><![CDATA[我想创建自己的手机操作系统，有人可以帮忙吗？    提交人    /u/SelvesterTiggleTips   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1e9tm9r/how_do_i_create_my_own_os/</guid>
+      <pubDate>Tue, 23 Jul 2024 00:02:43 GMT</pubDate>
+    </item>
     <item>
       <title>以逐帧相册格式显示我的视频</title>
       <link>https://www.reddit.com/r/software/comments/1e9p2zg/display_my_video_in_a_frame_by_frame_photo_album/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Notepad Next 或其他适用于 Linux 的 Notepad++ 类程序？</title>
       <link>https://www.reddit.com/r/software/comments/1e9ngog/notepad_next_or_other_notepad_like_program_for/</link>
-      <description><![CDATA[Notepad++ 是我在 Windows 上最喜欢的文本编辑器之一。很久以前，我在寻找适用于 Linux 的类似编辑器，然后找到了 Notepad Next。虽然它具有相同的外观和感觉以及一些功能，但它似乎落后于 Notepad++，因为它缺少 Notepad++ 的一些功能。此外，Notepad Next 似乎更新不频繁。我很好奇，是否有其他类似 Notepad++ 的 Linux 版编辑器，具有 Notepad++ 的更多功能？我有时会通过 Wine 使用 Notepad++ 来使用某些功能（例如，Notepad++ 有一个 JSON 插件，可以格式化 JSON，使其更易于阅读）。    提交人    /u/RolandMT32   [链接] [评论]]]></description>
+      <description><![CDATA[Notepad++ 是我在 Windows 上最喜欢的文本编辑器之一。很久以前，我在寻找适用于 Linux 的类似编辑器，然后发现了 Notepad Next。虽然它具有相同的外观和感觉以及一些功能，但它似乎落后于 Notepad++，因为它缺少 Notepad++ 的一些功能。此外，Notepad Next 似乎更新不频繁。我很好奇，是否有其他类似 Notepad++ 的 Linux 版编辑器，具有 Notepad++ 的更多功能？我有时会通过 Wine 使用 Notepad++ 来使用某些功能（例如，Notepad++ 有一个 JSON 插件，可以格式化 JSON，使其更易于阅读）。    提交人    /u/RolandMT32   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1e9ngog/notepad_next_or_other_notepad_like_program_for/</guid>
       <pubDate>Mon, 22 Jul 2024 19:46:42 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨。我想购买 1950 年代节目中对伊丽莎白·泰勒的采访 DVD，以便将其上传到 YouTube，与其他伊丽莎白·泰勒粉丝分享。 如果我购买 DVD，并且听说有一种名为“Handbrake”或类似名称的软件，那么是否可以轻松地将 mp4 上传到 YouTube？ 提前致谢。    提交人    /u/ukariescat   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1e9aleu/wanting_to_upload_dvd_to_youtube/</guid>
       <pubDate>Mon, 22 Jul 2024 10:09:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有比 videosubfinder 更好的软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1e9abon/is_there_any_software_better_than_videosubfinder/</link>
-      <description><![CDATA[我想从中文视频中提取硬字幕，有没有比videosubfinder更好的软件？     提交人    /u/Quangnehihi   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1e9abon/is_there_any_software_better_than_videosubfinder/</guid>
-      <pubDate>Mon, 22 Jul 2024 09:51:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
