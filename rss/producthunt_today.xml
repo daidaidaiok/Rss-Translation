@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 23 Jul 2024 09:06:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 12:08:56 GMT</lastBuildDate>
     <item>
       <title>乱堆</title>
       <link>https://www.producthunt.com/posts/huddle-9</link>
@@ -20,18 +20,60 @@
       <pubDate>Mon, 22 Jul 2024 22:01:41 GMT</pubDate>
     </item>
     <item>
-      <title>管道.gg</title>
-      <link>https://www.producthunt.com/posts/conduit-gg</link>
+      <title>Invue 准备</title>
+      <link>https://www.producthunt.com/posts/invue-prep</link>
       <description><![CDATA[
-视频游戏的无干预营销
+使用 AI 进行模拟面试
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/conduit-gg</guid>
-      <pubDate>Mon, 22 Jul 2024 20:30:26 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/invue-prep</guid>
+      <pubDate>Mon, 22 Jul 2024 21:55:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要礼物</title>
+      <link>https://www.producthunt.com/posts/wannagift</link>
+      <description><![CDATA[
+无需注册即可创建愿望清单，免费且快速
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/wannagift</guid>
+      <pubDate>Mon, 22 Jul 2024 16:19:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>HackerPulse - 终极开发者资料</title>
+      <link>https://www.producthunt.com/posts/hackerpulse-the-ultimate-dev-profile</link>
+      <description><![CDATA[
+将您的 GitHub、LinkedIn 等聚合到一个开发者资料中
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/hackerpulse-the-ultimate-dev-profile</guid>
+      <pubDate>Sun, 21 Jul 2024 14:05:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>本地新闻</title>
+      <link>https://www.producthunt.com/posts/lokal-so</link>
+      <description><![CDATA[
+使用公共和 https .local 地址共享您的 localhost
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/lokal-so</guid>
+      <pubDate>Fri, 19 Jul 2024 17:32:40 GMT</pubDate>
     </item>
     <item>
       <title>房间扫描仪</title>
@@ -62,20 +104,6 @@
       <pubDate>Fri, 19 Jul 2024 09:49:22 GMT</pubDate>
     </item>
     <item>
-      <title>奥运会 Chrome 扩展程序</title>
-      <link>https://www.producthunt.com/posts/olympic-games-chrome-extension</link>
-      <description><![CDATA[
-追踪 2024 年巴黎奥运会赛程、精彩集锦、奖牌 + 粉丝聊天
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/olympic-games-chrome-extension</guid>
-      <pubDate>Fri, 19 Jul 2024 05:39:43 GMT</pubDate>
-    </item>
-    <item>
       <title>重录</title>
       <link>https://www.producthunt.com/posts/revideo</link>
       <description><![CDATA[
@@ -88,20 +116,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/revideo</guid>
       <pubDate>Thu, 18 Jul 2024 20:45:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>小脑</title>
-      <link>https://www.producthunt.com/posts/cerebella</link>
-      <description><![CDATA[
-使用抽认卡进行 AI 驱动的间隔重复学习
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/cerebella</guid>
-      <pubDate>Thu, 18 Jul 2024 17:39:35 GMT</pubDate>
     </item>
     <item>
       <title>Mobbin 2.0</title>
@@ -118,24 +132,10 @@
       <pubDate>Wed, 17 Jul 2024 07:15:58 GMT</pubDate>
     </item>
     <item>
-      <title>斯派克斯</title>
-      <link>https://www.producthunt.com/posts/speax</link>
-      <description><![CDATA[
-只需点击几下即可将您的视频配音成不同的语言 
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/speax</guid>
-      <pubDate>Tue, 16 Jul 2024 09:20:29 GMT</pubDate>
-    </item>
-    <item>
       <title>HeyGen 互动头像</title>
       <link>https://www.producthunt.com/posts/heygen-interactive-avatar</link>
       <description><![CDATA[
-您自己的交互式 AI 头像，全天候在您的网站上可用
+了解 Product Hunt 创始人 Ryan Hoover 的 24/7 数字孪生
 
 
 讨论
@@ -144,20 +144,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/heygen-interactive-avatar</guid>
       <pubDate>Tue, 16 Jul 2024 08:13:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>StakeWeb</title>
-      <link>https://www.producthunt.com/posts/stakeweb</link>
-      <description><![CDATA[
-通过您未使用的域名赚钱
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/stakeweb</guid>
-      <pubDate>Mon, 15 Jul 2024 16:17:47 GMT</pubDate>
     </item>
     <item>
       <title>沃尔夫</title>
@@ -188,20 +174,6 @@
       <pubDate>Wed, 10 Jul 2024 23:23:58 GMT</pubDate>
     </item>
     <item>
-      <title>重叠</title>
-      <link>https://www.producthunt.com/posts/overlap-3</link>
-      <description><![CDATA[
-以智能方式拓展您的网络
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/overlap-3</guid>
-      <pubDate>Wed, 10 Jul 2024 19:35:25 GMT</pubDate>
-    </item>
-    <item>
       <title>夸夸</title>
       <link>https://www.producthunt.com/posts/kwakwa-3</link>
       <description><![CDATA[
@@ -214,6 +186,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/kwakwa-3</guid>
       <pubDate>Thu, 04 Jul 2024 12:28:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>奥术</title>
+      <link>https://www.producthunt.com/posts/arcane-2</link>
+      <description><![CDATA[
+掌握 LinkedIn 上的内容营销
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/arcane-2</guid>
+      <pubDate>Wed, 03 Jul 2024 18:14:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>废料进</title>
+      <link>https://www.producthunt.com/posts/scrapin</link>
+      <description><![CDATA[
+LinkedIn 抓取工具无限制
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/scrapin</guid>
+      <pubDate>Thu, 27 Jun 2024 12:57:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
