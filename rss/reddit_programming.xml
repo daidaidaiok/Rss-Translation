@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 23 Jul 2024 00:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 03:06:32 GMT</lastBuildDate>
+    <item>
+      <title>我每天都会做一次电影琐事测验！</title>
+      <link>https://www.reddit.com/r/programming/comments/1e9x9v0/i_made_a_daily_movie_trivia_quiz/</link>
+      <description><![CDATA[  由    /u/marshabrady95  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e9x9v0/i_made_a_daily_movie_trivia_quiz/</guid>
+      <pubDate>Tue, 23 Jul 2024 02:58:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>100 TiB OLTP Postgres，来自 Notion、Adyen、Figma 的故事（PostgresFM 播客）</title>
+      <link>https://www.reddit.com/r/programming/comments/1e9wkcw/100_tib_oltp_postgres_stories_from_notion_adyen/</link>
+      <description><![CDATA[  由    /u/ImprovementBig3186  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e9wkcw/100_tib_oltp_postgres_stories_from_notion_adyen/</guid>
+      <pubDate>Tue, 23 Jul 2024 02:22:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个众包网站，收集 50 个最佳未启动项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1e9wjep/i_made_a_site_that_crowdsources_the_50_best/</link>
+      <description><![CDATA[  由    /u/jaypateln  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e9wjep/i_made_a_site_that_crowdsources_the_50_best/</guid>
+      <pubDate>Tue, 23 Jul 2024 02:21:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的工作日程安排</title>
+      <link>https://www.reddit.com/r/programming/comments/1e9vzwg/for_my_schedule_at_work/</link>
+      <description><![CDATA[大家好！我正在尝试帮助老板安排工作时间，我想知道是否有人可以帮助我。 我们公司有 10 名员工，每天有 7 个不同的人工作，每周 7 天 我们希望每天每个人都有一个从 1 到 7 的数字，但不是随机的。我们希望对每个人都公平。在最好的情况下，如果有人每周工作 6 天，他就可以得到除一个之外的所有数字。 仅供参考：第一个数字选择他当天的任务。（我们每天有 7 个不同的任务要做，希望公平轮换） 如果有人能帮助我，我在编程方面还很菜鸟，我将不胜感激。 谢谢    提交人    /u/gablechat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e9vzwg/for_my_schedule_at_work/</guid>
+      <pubDate>Tue, 23 Jul 2024 01:55:32 GMT</pubDate>
+    </item>
     <item>
       <title>为什么传统的番茄工作法会降低开发人员的生产力（以及如何解决它）</title>
       <link>https://www.reddit.com/r/programming/comments/1e9sspe/why_traditional_pomodoro_kills_developer/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[  由   提交  /u/thedotmack   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1e9k5na/how_to_bootstrap_your_tailwind/</guid>
       <pubDate>Mon, 22 Jul 2024 17:33:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的自托管之旅的开始</title>
-      <link>https://www.reddit.com/r/programming/comments/1e9jq0y/the_start_of_my_selfhosted_journey/</link>
-      <description><![CDATA[  由    /u/nickproud  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e9jq0y/the_start_of_my_selfhosted_journey/</guid>
-      <pubDate>Mon, 22 Jul 2024 17:16:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[文章和幻灯片] 每个软件工程师都需要了解的微服务知识</title>
-      <link>https://www.reddit.com/r/programming/comments/1e9jc23/article_slides_what_every_software_engineer_needs/</link>
-      <description><![CDATA[  由    /u/Nadaralp  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e9jc23/article_slides_what_every_software_engineer_needs/</guid>
-      <pubDate>Mon, 22 Jul 2024 17:00:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>条件断点如何工作🐢</title>
-      <link>https://www.reddit.com/r/programming/comments/1e9j2ah/how_conditional_breakpoints_work/</link>
-      <description><![CDATA[  由    /u/weratt  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e9j2ah/how_conditional_breakpoints_work/</guid>
-      <pubDate>Mon, 22 Jul 2024 16:49:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>1 位 LLM 可以解决 AI 的能源需求：“不精确”语言模型更小、更快，而且几乎同样准确。”</title>
-      <link>https://www.reddit.com/r/programming/comments/1e9iku9/1bit_llms_could_solve_ais_energy_demands/</link>
-      <description><![CDATA[  由    /u/fchung  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e9iku9/1bit_llms_could_solve_ais_energy_demands/</guid>
-      <pubDate>Mon, 22 Jul 2024 16:29:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
