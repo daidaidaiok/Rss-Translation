@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 23 Jul 2024 21:06:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 00:20:28 GMT</lastBuildDate>
+    <item>
+      <title>NES CHR 图形</title>
+      <link>https://www.reddit.com/r/programming/comments/1eanfyh/nes_chr_graphics/</link>
+      <description><![CDATA[  由    /u/elemenity  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eanfyh/nes_chr_graphics/</guid>
+      <pubDate>Wed, 24 Jul 2024 00:10:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件开发中知识与智慧的区别</title>
+      <link>https://www.reddit.com/r/programming/comments/1eak4sb/the_difference_between_knowledge_and_wisdom_in/</link>
+      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eak4sb/the_difference_between_knowledge_and_wisdom_in/</guid>
+      <pubDate>Tue, 23 Jul 2024 21:47:41 GMT</pubDate>
+    </item>
     <item>
       <title>（Crowd）Strike 3，你出局了：重新构想操作系统安全</title>
       <link>https://www.reddit.com/r/programming/comments/1eag7d2/crowdstrike_3_youre_out_reimagining_os_security/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/the1024  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ea9jp1/how_to_isolate_a_python_module_with_tach/</guid>
       <pubDate>Tue, 23 Jul 2024 14:41:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件工程师不是（也不应该是）技术人员</title>
-      <link>https://www.reddit.com/r/programming/comments/1ea90md/software_engineers_are_not_and_should_not_be/</link>
-      <description><![CDATA[  由    /u/Tekmo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ea90md/software_engineers_are_not_and_should_not_be/</guid>
-      <pubDate>Tue, 23 Jul 2024 14:19:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我尝试了 React Compiler</title>
-      <link>https://www.reddit.com/r/programming/comments/1ea7c1b/i_tried_react_compiler/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ea7c1b/i_tried_react_compiler/</guid>
-      <pubDate>Tue, 23 Jul 2024 13:04:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
