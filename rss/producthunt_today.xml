@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 24 Jul 2024 00:21:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 03:06:46 GMT</lastBuildDate>
     <item>
       <title>由 Keywords AI 建模的游乐场</title>
       <link>https://www.producthunt.com/posts/model-playground-by-keywords-ai</link>
@@ -48,6 +48,20 @@
       <pubDate>Tue, 23 Jul 2024 00:14:02 GMT</pubDate>
     </item>
     <item>
+      <title>乱堆</title>
+      <link>https://www.producthunt.com/posts/huddle-9</link>
+      <description><![CDATA[
+离线社交日志应用
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/huddle-9</guid>
+      <pubDate>Mon, 22 Jul 2024 22:01:41 GMT</pubDate>
+    </item>
+    <item>
       <title>自动音量</title>
       <link>https://www.producthunt.com/posts/autovolume-2</link>
       <description><![CDATA[
@@ -60,20 +74,6 @@ Android 应用程序可根据速度自动管理音量
 ]]></description>
       <guid>https://www.producthunt.com/posts/autovolume-2</guid>
       <pubDate>Mon, 22 Jul 2024 18:41:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌苏拉塔罗牌</title>
-      <link>https://www.producthunt.com/posts/ursula-tarot</link>
-      <description><![CDATA[
-Telegram 上的塔罗牌阅读助手
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/ursula-tarot</guid>
-      <pubDate>Mon, 22 Jul 2024 18:21:45 GMT</pubDate>
     </item>
     <item>
       <title>想要礼物</title>
@@ -118,18 +118,18 @@ Telegram 上的塔罗牌阅读助手
       <pubDate>Mon, 22 Jul 2024 13:51:49 GMT</pubDate>
     </item>
     <item>
-      <title>黑客脉冲</title>
-      <link>https://www.producthunt.com/posts/hackerpulse</link>
+      <title>房间扫描仪</title>
+      <link>https://www.producthunt.com/posts/room-scanner</link>
       <description><![CDATA[
-将您的 GitHub、LinkedIn 等聚合到一个开发者资料中
+生成平面图和模型
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/hackerpulse</guid>
-      <pubDate>Sun, 21 Jul 2024 14:05:53 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/room-scanner</guid>
+      <pubDate>Fri, 19 Jul 2024 13:10:00 GMT</pubDate>
     </item>
     <item>
       <title>重录</title>
@@ -160,46 +160,18 @@ Telegram 上的塔罗牌阅读助手
       <pubDate>Thu, 18 Jul 2024 17:39:35 GMT</pubDate>
     </item>
     <item>
-      <title>Mobbin 2.0</title>
-      <link>https://www.producthunt.com/posts/mobbin-2-0</link>
+      <title>沃尔夫</title>
+      <link>https://www.producthunt.com/posts/volv-1669dfd4-0db1-4c73-8add-eaf2dcdaa822</link>
       <description><![CDATA[
-发现现实世界的设计灵感
+面向读者和作家的 TikTok
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/mobbin-2-0</guid>
-      <pubDate>Wed, 17 Jul 2024 07:15:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>HeyGen 互动头像</title>
-      <link>https://www.producthunt.com/posts/heygen-interactive-avatar</link>
-      <description><![CDATA[
-了解 Product Hunt 创始人 Ryan Hoover 的 24/7 数字孪生
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/heygen-interactive-avatar</guid>
-      <pubDate>Tue, 16 Jul 2024 08:13:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>StakeWeb</title>
-      <link>https://www.producthunt.com/posts/stakeweb</link>
-      <description><![CDATA[
-通过您未使用的域名赚钱
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/stakeweb</guid>
-      <pubDate>Mon, 15 Jul 2024 16:17:47 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/volv-1669dfd4-0db1-4c73-8add-eaf2dcdaa822</guid>
+      <pubDate>Mon, 15 Jul 2024 11:04:53 GMT</pubDate>
     </item>
     <item>
       <title>依设计</title>
@@ -214,6 +186,34 @@ Telegram 上的塔罗牌阅读助手
 ]]></description>
       <guid>https://www.producthunt.com/posts/bydesign-4</guid>
       <pubDate>Wed, 10 Jul 2024 23:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>你或我</title>
+      <link>https://www.producthunt.com/posts/youorme</link>
+      <description><![CDATA[
+你的孩子更像谁？让人工智能来解决争论
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/youorme</guid>
+      <pubDate>Tue, 09 Jul 2024 13:12:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>夸夸</title>
+      <link>https://www.producthunt.com/posts/kwakwa-3</link>
+      <description><![CDATA[
+通过简短的移动课程将您的专业知识转化为金钱
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/kwakwa-3</guid>
+      <pubDate>Thu, 04 Jul 2024 12:28:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
