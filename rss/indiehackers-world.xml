@@ -4,7 +4,7 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Wed, 24 Jul 2024 18:08:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 21:07:39 GMT</lastBuildDate>
     <item>
       <title>我为所有选择这条道路的人撰写并发布了一份独立黑客宣言。</title>
       <link>https://feed.indiehackers.world/post/d35bf1e0a5</link>
@@ -35,6 +35,16 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers 聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/1ed9533db5</guid>
       <pubDate>Tue, 23 Jul 2024 14:05:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一些关于在 B2B 领域获得早期采用者的建议</title>
+      <link>https://feed.indiehackers.world/post/072857242d</link>
+      <description><![CDATA[我和一个朋友创建了一个用于优化会议的工具。您有什么好的建议让用户试用它吗？
+由于我们处于这个过程的早期阶段，我的第一个想法是冷不丁地联系 LinkedIn，或者找到我想要的角色，然后以其他方式发送直接消息。我和另一个做卖家的朋友谈过，他推荐了“会议预订”，这样你就不用再做整个推销了，而是花 15 分钟谈论他们的体验和需求，然后在真正建立联系后介绍产品。目前的计划是给每个早期采用者（beta 用户）终身 Premium，这是我的销售论点。
+由于这个工具是针对 B2B 的，我认为目前不需要定期营销。也许将来会用于品牌推广和 LinkedIn 上的付费广告。我还想写一些博客文章，说明 Meetronome 为何有益，并创建一些 SEO。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/072857242d</guid>
+      <pubDate>Tue, 23 Jul 2024 07:49:10 GMT</pubDate>
     </item>
     <item>
       <title>SEO 新手指南：创建没有排名或流量的新网站</title>
@@ -163,17 +173,6 @@ https://www.producthunt.com/posts/uxwizz
 Discord Indiehackers Chat广告 在此]]></description>
       <guid>https://feed.indiehackers.world/post/b12c116cc2</guid>
       <pubDate>Thu, 18 Jul 2024 23:11:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mac Martine 在退出之前如何将自己的 SaaS 业务发展到 6 万美元的月经常性收入</title>
-      <link>https://feed.indiehackers.world/post/3c263b983a</link>
-      <description><![CDATA[尽管有种种担忧，但收购还是如期完成，Mac 也结束了那一章。
-Castanet 出售后，Mac 和他的家人过着数字游民的生活。他和妻子有两个儿子在上小学。这个四口之家在克罗地亚度过了第一学年，今年他们在西班牙的瓦伦西亚。他们利用周末和假期尽可能多地旅行，在过去两年里访问了 15 个不同的国家。“这真是太棒了，”Mac 说，“我们都学到了很多东西。”
-利用关系
-如今，Mac 正在从事几个不同的项目。他是 Aware 的联合创始人，这是一款面向创作者的 LinkedIn 互动工具，在 Castanet 出售几个月后推出。他还致力于 ViralBox（一款 SaaS 增长工具）和 The SaaS Bootstrapper 新闻通讯的开发。
-Discord Indiehackers Chat广告 此处]]></description>
-      <guid>https://feed.indiehackers.world/post/3c263b983a</guid>
-      <pubDate>Thu, 18 Jul 2024 12:00:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
