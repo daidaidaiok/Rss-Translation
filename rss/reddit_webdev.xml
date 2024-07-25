@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 25 Jul 2024 06:08:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 09:06:43 GMT</lastBuildDate>
+    <item>
+      <title>生产 CSS 与本地开发 CSS 不一致</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ebpqwc/production_css_is_inconsistent_with_local_dev_css/</link>
+      <description><![CDATA[标题，天哪，我已经束手无策了。我无论如何也想不出为什么。此外，生产不一致。我想揍一个婴儿。 我正在 freefoodreminder.com 上制作一个简单的免费食物提醒器。当道奇队在主场获胜时，第二天熊猫快餐的餐盘价格为 5 美元。当此条件为真时，我有一个徽章，上面写着优惠券代码已激活。在本地开发中完美运行。 但是当推送到生产环境时（我使用的是 onrender.com），徽章有时会按预期工作，有时则不会。（因此显示活动/不活动）。 什么。该死！我想我从那以后就再也没有对网络开发这么生气过。谷歌也帮不上忙。    提交人    /u/smokiebacon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ebpqwc/production_css_is_inconsistent_with_local_dev_css/</guid>
+      <pubDate>Thu, 25 Jul 2024 08:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>你好，我需要一些帮助来设置 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ebpgjh/hello_i_need_some_help_to_set_api/</link>
+      <description><![CDATA[我不明白如何通过 api 与其他网站集成，有人可以帮忙吗？比如我得到了有很多示例的 api 文档，但我不明白把它们放在哪里。我需要把代码放在哪里？我将在哪里获得代码，在哪里获得回发网址，我需要把回发网址放在哪里？如何在我的网站中显示其他网站？    提交人    /u/Beneficial_Mark_7353   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ebpgjh/hello_i_need_some_help_to_set_api/</guid>
+      <pubDate>Thu, 25 Jul 2024 08:08:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 应用的最小技术栈是什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ebpd5q/what_is_the_most_minimal_tech_stack_for_a_web_app/</link>
+      <description><![CDATA[我有一个需要超高效的软件项目。该软件用于科学研究和计算。因此，很多东西都在及时编译和运行……  我想为它制作一个好的用户界面，同时使用一个框架，允许我实时注入 html css（或框架文件，如 .Vue）。我还需要一种替代的甚至是 DIY 的方法来做类似于电子的事情。 你的看法是什么？我该怎么办？ 附言：不要推荐与 python 相关的东西，在我看来，那种语言是垃圾。而且🦥很慢    提交人    /u/thePolystyreneKidA   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ebpd5q/what_is_the_most_minimal_tech_stack_for_a_web_app/</guid>
+      <pubDate>Thu, 25 Jul 2024 08:02:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>得益于 AI Deal，Google 成为目前唯一可在 Reddit 上使用的搜索引擎</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ebotwa/google_is_the_only_search_engine_that_works_on/</link>
+      <description><![CDATA[https://www.404media.co/google-is-the-only-search-engine-that-works-on-reddit-now-thanks-to-ai-deal/  Google 现在是唯一可以从 Reddit 显示结果的搜索引擎，这使得互联网上最有价值的用户生成内容存储库之一成为互联网上已经占主导地位的搜索引擎所独有的。 如果您使用 Bing、DuckDuckGo、Mojeek、Qwant 或任何其他不依赖 Google 索引的替代搜索引擎并使用“site:reddit.com”搜索 Reddit，您将看不到上周的任何结果。 DuckDuckGo 目前在搜索 Reddit 时会出现七个链接，但没有提供有关链接去往何处或原因的数据，而只是说“我们想在这里向您显示描述，但该网站不允许我们这样做。” 旧的结果仍会显示，但这些搜索引擎不再能够“抓取” Reddit，这意味着谷歌是唯一一个会在未来显示来自 Reddit 的结果的搜索引擎。  （你应该在 404media 注册，他们有很棒的内容！）    提交人    /u/djlittt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ebotwa/google_is_the_only_search_engine_that_works_on/</guid>
+      <pubDate>Thu, 25 Jul 2024 07:24:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能会让我们失业吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ebnu7y/will_ai_make_us_unemployed/</link>
+      <description><![CDATA[我日常的开发工作离不开AI的帮助，我用ChatGPT、GitHub Copilot以及各种AI驱动的设计平台，AI至少能帮我提高30%的效率，一些HTML页面或者纯算法模块，AI代码占了80%，只需要做很少量的修改。 之前两个人的工作量，现在只需要一个人做，如果这种情况持续下去，AI会不会让更多的人失业？未来有没有可能发展成AI来写所有的代码？    submitted by    /u/Dushusir   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ebnu7y/will_ai_make_us_unemployed/</guid>
+      <pubDate>Thu, 25 Jul 2024 06:20:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用潜在重定向从一个域移动到另一个域</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ebnq2s/move_from_one_domain_to_another_with_potential/</link>
+      <description><![CDATA[嗨， 请不要因为我要问的问题而大笑。我对网络开发一窍不通，需要一个问题的答案，所以提前谢谢您。 我有 2 个域名，我需要将一个网站转移到另一个域名，这可能吗？另外，我需要重定向一个网站的先前链接（大约有 500 个），以便它们链接到“新”网站。 有人知道怎么做吗？如果不知道，我很抱歉打扰了你们。我一直在 Fiverr 和类似的地方寻找可以回答该问题的人，但我找不到任何可以回答问题的人。 我将重塑我的 YT 频道并将所有内容转移到新 IP，但我不知道如何最好地做到这一点。 谢谢您，如果可以的话请保持适度滥用 :)    提交人    /u/GriffinsGamingGuides   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ebnq2s/move_from_one_domain_to_another_with_potential/</guid>
+      <pubDate>Thu, 25 Jul 2024 06:12:57 GMT</pubDate>
+    </item>
     <item>
       <title>如何将 OSS 项目中的某些目录设为私有目录？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ebnjxv/how_to_make_some_directories_private_in_an_oss/</link>
@@ -15,7 +57,7 @@
     <item>
       <title>需要帮忙</title>
       <link>https://www.reddit.com/r/webdev/comments/1ebn1hq/need_help/</link>
-      <description><![CDATA[大家好， 我想了解一下开发一个像 picrew.me 这样的网站的成本，您可以在其中自定义头像。如果您在这方面有经验，您能否分享您对所需预算的见解？任何大概的数字或需要考虑的因素都将不胜感激。 谢谢！    提交人    /u/Mysterious_Network_8   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我想了解一下开发一个像 picrew.me 这样的网站的成本，您可以在其中自定义头像。如果您在这方面有经验，能否分享您对所需预算的见解？任何大概的数字或需要考虑的因素都将不胜感激。 谢谢！    提交人    /u/Mysterious_Network_8   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ebn1hq/need_help/</guid>
       <pubDate>Thu, 25 Jul 2024 05:29:27 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ebid1w/i_made_a_circular_slideshow_for_images_in_react/</guid>
       <pubDate>Thu, 25 Jul 2024 01:20:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>在一家只使用 WordPress 模板的公司工作，感觉不满意。有什么晋升建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ebgpoi/working_for_a_company_that_only_uses_templates_on/</link>
-      <description><![CDATA[我在这家公司工作了一年多，他们都是好人，但事情非常混乱。我是一名管理员，所以我的工作包括启动和维护网站，以及设计和进行客户要求的编辑（我的第一张票有 120 多个要求的编辑）。我负责与网站相关的所有事务。我们有一个依靠我们的 SEO 部门和登陆页面部门，在我们构建客户网站的主要团队之上。  我做的一小段编码是为了排除故障或在模板中制作一些自定义元素。我们主要使用 elementor。这家公司的座右铭是尽可能多地制作网站，不考虑计划或研究，只放上客户的图片和内容，并希望获得最好的结果。  当我开始工作时，我们会等到最后一分钟才让整个网站具有响应性。这意味着最多在发布前一天。我现在很荣幸能够在客户的网站上制作登录页面（不是我们自己的），并在几个小时内弄清楚他们的环境和构建器。我不断提出改进建议，但从未发生变化。  不用说，我认为这不适合我。我有一些使用 LAMP 堆栈的定制开发经验，虽然已经几年了。我上一份工作是一家金融科技公司的开发运维，但我只有一年的经验。我在寻找如何获得更大机会的建议？对我的公司非常不满意。     提交人    /u/jaximointhecut   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ebgpoi/working_for_a_company_that_only_uses_templates_on/</guid>
-      <pubDate>Thu, 25 Jul 2024 00:01:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>你的工作内容中，有多少是实际编码的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ebfl1d/how_much_of_your_job_is_actually_coding/</link>
-      <description><![CDATA[我刚上大学学习计算机科学，我听很多人开玩笑说，实际上编写代码只占他们八小时工作时间中的一个小时。这对你们来说是不是真的？    提交人    /u/SphinxUzumaki   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ebfl1d/how_much_of_your_job_is_actually_coding/</guid>
-      <pubDate>Wed, 24 Jul 2024 23:11:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>想批评一下文件吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ebf9v9/wanna_roast_the_docs/</link>
-      <description><![CDATA[我们的大多数用户都是开发人员，他们要求提供更好的文档。我们正在修改文档，希望得到一些反馈。  文档在这里：https://www.trytaylor.ai/docs/introduction    由   提交  /u/Different-General700   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ebf9v9/wanna_roast_the_docs/</guid>
-      <pubDate>Wed, 24 Jul 2024 22:58:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>（Next.js 页面路由器） - 客户端是否仍然可以访问公共文件夹和页面文件夹之外的文件和文件夹？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ebel5w/nextjs_pages_router_are_files_and_folders_outside/</link>
-      <description><![CDATA[      我当前的 Next.js 项目具有以下结构： 项目结构 文件 adminController 具有仅应在非客户端环境中使用的环境变量。我确实隐约记得，公共文件夹或页面文件夹之外的文件未在页面内的文件中明确导入，默认情况下客户端无法访问。是真的吗？    提交人    /u/1chbinamin   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ebel5w/nextjs_pages_router_are_files_and_folders_outside/</guid>
-      <pubDate>Wed, 24 Jul 2024 22:29:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>不断死亡的进程：内存泄漏谋杀之谜</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ebed53/the_process_that_kept_dying_a_memory_leak_murder/</link>
-      <description><![CDATA[我写了一篇关于在 Node.js 中调试内存泄漏的文章。这最初是我几年前的一次内部演讲，但反响非常好，所以我决定分享它。  https://lukedeniston.com/memory-leak-mystery    提交人    /u/luketheobscure   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ebed53/the_process_that_kept_dying_a_memory_leak_murder/</guid>
-      <pubDate>Wed, 24 Jul 2024 22:18:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚完成了我的第一份自由职业</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ebcxby/just_did_my_first_freelance/</link>
-      <description><![CDATA[是的，我的阿姨刚刚看到了我的网页开发技能，并认为这适合为她做一个好的网站，所以我做了一个登陆页面来增加她的宠物店业务的销售额，它很漂亮，她很喜欢。但我把它上传到了 vercel，我刚刚发现，如果没有合适的域名或 vercel pro 计划，我就无法支付谷歌广告并为我的阿姨的登陆页面带来更多潜在客户。 我怎样才能向她展示值得进行这项投资并购买至少 1 年的主机 + 域名？ 还有其他选择可以为她的网站带来更多访客吗？（已经从 Instagram 带来了一些访客） 学习谷歌广告的最佳 yt 频道/资源是什么？ 有趣的事实：我为这个应用程序要价 30 美元 ;)   由    /u/No_Literature_230  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ebcxby/just_did_my_first_freelance/</guid>
-      <pubDate>Wed, 24 Jul 2024 21:17:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
