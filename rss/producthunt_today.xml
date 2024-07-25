@@ -4,7 +4,21 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 25 Jul 2024 09:06:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 12:08:54 GMT</lastBuildDate>
+    <item>
+      <title>朱利安</title>
+      <link>https://www.producthunt.com/posts/julienne-2</link>
+      <description><![CDATA[
+更智能的食谱
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/julienne-2</guid>
+      <pubDate>Thu, 25 Jul 2024 04:48:32 GMT</pubDate>
+    </item>
     <item>
       <title>好的赌注</title>
       <link>https://www.producthunt.com/posts/okay-bet</link>
@@ -18,20 +32,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/okay-bet</guid>
       <pubDate>Thu, 25 Jul 2024 02:59:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>公平</title>
-      <link>https://www.producthunt.com/posts/equility</link>
-      <description><![CDATA[
-我们自动化您的财务审查和银行对账
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/equility</guid>
-      <pubDate>Thu, 25 Jul 2024 00:30:26 GMT</pubDate>
     </item>
     <item>
       <title>Airtable 共同构建器</title>
@@ -76,38 +76,24 @@
       <pubDate>Wed, 24 Jul 2024 15:20:15 GMT</pubDate>
     </item>
     <item>
-      <title>桌面整理器</title>
-      <link>https://www.producthunt.com/posts/desktop-organizer</link>
+      <title>背景噪音消除器</title>
+      <link>https://www.producthunt.com/posts/background-noise-reducer</link>
       <description><![CDATA[
-文件区，保持桌面干净整洁。
+只需单击一下，即可告别背景噪音
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/desktop-organizer</guid>
-      <pubDate>Wed, 24 Jul 2024 13:33:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯特里克斯</title>
-      <link>https://www.producthunt.com/posts/streeeaks</link>
-      <description><![CDATA[
-类似 Github 的活动图表，涵盖您所做的一切！
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/streeeaks</guid>
-      <pubDate>Wed, 24 Jul 2024 10:55:42 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/background-noise-reducer</guid>
+      <pubDate>Wed, 24 Jul 2024 09:24:01 GMT</pubDate>
     </item>
     <item>
       <title>穆雷卡</title>
       <link>https://www.producthunt.com/posts/mureka</link>
       <description><![CDATA[
-使用 mureka 创作您自己的专属歌曲
+Suno 的音频提示版本
 
 
 讨论
@@ -116,6 +102,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/mureka</guid>
       <pubDate>Wed, 24 Jul 2024 02:10:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>AdsMoss</title>
+      <link>https://www.producthunt.com/posts/adsmoss</link>
+      <description><![CDATA[
+顶级 TikTok 广告间谍工具，用于趋势和收入增长
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/adsmoss</guid>
+      <pubDate>Tue, 23 Jul 2024 16:54:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>截图工作室</title>
+      <link>https://www.producthunt.com/posts/screenshot-studio</link>
+      <description><![CDATA[
+App Store 截图制作器
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/screenshot-studio</guid>
+      <pubDate>Tue, 23 Jul 2024 03:18:22 GMT</pubDate>
     </item>
     <item>
       <title>容量 移动应用程序</title>
@@ -132,10 +146,24 @@
       <pubDate>Mon, 22 Jul 2024 17:45:49 GMT</pubDate>
     </item>
     <item>
+      <title>简单统计</title>
+      <link>https://www.producthunt.com/posts/simplestats</link>
+      <description><![CDATA[
+Laravel 应用程序缺少的统计工具
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/simplestats</guid>
+      <pubDate>Mon, 22 Jul 2024 06:20:40 GMT</pubDate>
+    </item>
+    <item>
       <title>唯潘斯</title>
       <link>https://www.producthunt.com/posts/onlypans-2</link>
       <description><![CDATA[
-借助人工智能实现的 Mmmmeal 计划
+使用 AI 制定每周膳食计划
 
 
 讨论
@@ -160,46 +188,18 @@
       <pubDate>Wed, 17 Jul 2024 08:53:36 GMT</pubDate>
     </item>
     <item>
-      <title>意见提要</title>
-      <link>https://www.producthunt.com/posts/opinionfeeds</link>
+      <title>DepsHub</title>
+      <link>https://www.producthunt.com/posts/depshub-2</link>
       <description><![CDATA[
-免费创建链接以收集匿名反馈
+使用 AI 更新依赖项
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/opinionfeeds</guid>
-      <pubDate>Tue, 09 Jul 2024 13:56:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tidyread</title>
-      <link>https://www.producthunt.com/posts/tidyread</link>
-      <description><![CDATA[
-在更短的时间内阅读更多内容
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/tidyread</guid>
-      <pubDate>Fri, 05 Jul 2024 00:10:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>测验崛起</title>
-      <link>https://www.producthunt.com/posts/quizrise</link>
-      <description><![CDATA[
-面向教育工作者和学习者的 AI 助手。
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/quizrise</guid>
-      <pubDate>Tue, 25 Jun 2024 05:58:38 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/depshub-2</guid>
+      <pubDate>Fri, 05 Jul 2024 10:26:31 GMT</pubDate>
     </item>
     <item>
       <title>卓戈人工智能</title>
