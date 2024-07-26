@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 26 Jul 2024 00:18:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 03:06:50 GMT</lastBuildDate>
+    <item>
+      <title>潜在的网络钓鱼病毒</title>
+      <link>https://www.reddit.com/r/software/comments/1ecc4fq/potential_phishing_virus/</link>
+      <description><![CDATA[您好，我是新来的，如果与上下文不相符，请见谅。我在寻求建议。 我不是最聪明的技术人员，事实上，我不是技术人员。前几天，我不注意，不小心从 Google 上的赞助钓鱼链接下载了设计软件。通常我会嘲笑别人这种事，但是，生活就是这样。 我用的是 MacBook（如果这很重要的话，是 pro）。当我下载文件时，如您所知，它会打开一个只有那一个应用程序的文档。我点击它，它执行了一个打开下载软件的命令。这时我注意到感觉不对劲，就取消了，但它在发送命令以获得下载授权。我已经关闭它并删除了与该应用程序相关的所有内容 &amp;文件。 我已经对我的电脑进行了全面的病毒搜索，包括 malwarebytes，但什么也没发现。现在已经使用了 2 天，没有任何问题。然而，我一直在想，它能够用打开安装窗口的命令向我的 cmd 发送垃圾邮件。我的情况很糟糕吗？ 我感谢任何意见和帮助。    提交人    /u/Financial-Army-9516   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ecc4fq/potential_phishing_virus/</guid>
+      <pubDate>Fri, 26 Jul 2024 01:42:02 GMT</pubDate>
+    </item>
     <item>
       <title>寻找在线预订软件</title>
       <link>https://www.reddit.com/r/software/comments/1ec9k9h/looking_for_an_onlinebooking_software/</link>
@@ -69,7 +76,7 @@
       <pubDate>Thu, 25 Jul 2024 18:30:03 GMT</pubDate>
     </item>
     <item>
-      <title>值得信赖的 YouTube 下载器网站有哪些？</title>
+      <title>哪个网站是值得信赖的 YouTube 下载器？</title>
       <link>https://www.reddit.com/r/software/comments/1ec1m6r/what_would_be_a_trustworthy_youtube_downloader/</link>
       <description><![CDATA[过几天就要去度假了，想把一些 YouTube 视频下线。有哪些值得信赖的 YouTube 下载器网站。    提交人    /u/Duck_Dur   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ec1m6r/what_would_be_a_trustworthy_youtube_downloader/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/LilithInvidia  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ebv4e8/no_matter_how_much_i_try_this_just_wont_go_away/</guid>
       <pubDate>Thu, 25 Jul 2024 13:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅使用鼠标即可放大/缩小和转到下一个/上一个图像查看器</title>
-      <link>https://www.reddit.com/r/software/comments/1ebukrc/image_viewer_that_can_zoom_inout_and_go/</link>
-      <description><![CDATA[有没有一个程序可以做到这一点，比如当你在中间滚动时它会放大/缩小，但是当你在侧面滚动时它会转到下一个/上一个图像；基本上让你无需任何键盘输入即可完成这两项操作。     提交人    /u/Magnar0   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ebukrc/image_viewer_that_can_zoom_inout_and_go/</guid>
-      <pubDate>Thu, 25 Jul 2024 13:13:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

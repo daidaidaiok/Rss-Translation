@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 26 Jul 2024 00:19:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 03:06:55 GMT</lastBuildDate>
+    <item>
+      <title>在 Go 中返回 nil 或者其他</title>
+      <link>https://www.reddit.com/r/programming/comments/1ecaprt/returning_nil_in_go_or_something_else/</link>
+      <description><![CDATA[  由    /u/anicolaspp  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ecaprt/returning_nil_in_go_or_something_else/</guid>
+      <pubDate>Fri, 26 Jul 2024 00:32:36 GMT</pubDate>
+    </item>
     <item>
       <title>JavaScript 俳句 - 微型代码历险记 - Frank Force 的演讲</title>
       <link>https://www.reddit.com/r/programming/comments/1ec9trx/javascript_haikus_tiny_code_adventures_a_talk_by/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/akshay-bhanderi  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ebvc2y/learn_basics_of_python_with_this_github_repo_i/</guid>
       <pubDate>Thu, 25 Jul 2024 13:48:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[转帖] 用 Ja​​va 制作桌面宠物。原始文件链接已停止工作，因此我在此处发布 github 链接</title>
-      <link>https://www.reddit.com/r/programming/comments/1ebuuwk/repost_made_desktop_pets_in_java_the_original/</link>
-      <description><![CDATA[  由    /u/chjammy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ebuuwk/repost_made_desktop_pets_in_java_the_original/</guid>
-      <pubDate>Thu, 25 Jul 2024 13:26:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
