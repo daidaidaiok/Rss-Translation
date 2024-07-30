@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 30 Jul 2024 18:06:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 21:06:11 GMT</lastBuildDate>
+    <item>
+      <title>Sora Workflow 软件替代品</title>
+      <link>https://www.reddit.com/r/software/comments/1eg1teg/sora_workflow_software_alternative/</link>
+      <description><![CDATA[去年我一直在使用软件 app.sora.co，它在工作流自动化方面非常出色。最近他们被 ADP 收购，并将在年底停止其独立产品。我一直在演示 ADP 中的新模型，它不会提供以前产品提供的功能，我需要它。有人能推荐一款强大的工作流自动化软件吗？ 编辑以添加：我在人力资源部门工作，正在寻找一款可以促进入职、离职、人力资源流程（如头衔变更和晋升等）的工作流软件。在员工生日和周年纪念日向他们发送消息...    提交人    /u/Historical-Long9348   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1eg1teg/sora_workflow_software_alternative/</guid>
+      <pubDate>Tue, 30 Jul 2024 19:09:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>展示和讲述：人工智能代理为非法律领域赋能</title>
+      <link>https://www.reddit.com/r/software/comments/1eg0a2m/show_and_tell_ai_agents_empowering_nonlegal/</link>
+      <description><![CDATA[您好， 我是 Outlit 的联合创始人 Leo。经过一年的编码，我们终于公开推出了 Outlit。 Outlit 诞生于 ChatGPT 之后，当时我们意识到人工智能可以帮助人们每天承担合同工作，而不必一直依赖昂贵的律师。目前，我们主要专注于 SaaS 协议，但也有其他协议（合作伙伴关系、服务、保密协议）的剧本。我们还有一个很酷的知识库功能，可让您在所有合同中进行语义搜索。希望在我们的 Product Hunt 发布会上得到一些诚实的反馈和支持： https://www.producthunt.com/posts/outlit?comment=3720887   由    /u/Truzian  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1eg0a2m/show_and_tell_ai_agents_empowering_nonlegal/</guid>
+      <pubDate>Tue, 30 Jul 2024 18:08:19 GMT</pubDate>
+    </item>
     <item>
       <title>飞机图鉴</title>
       <link>https://www.reddit.com/r/software/comments/1efzzif/aircraft_pokédex/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[嗨...几个月前我发现了一个网站，我相信里面所有的软件都被分成了不同的类别（有很多），比如“云提供商”、“数据库”、“业务流程工具”等等，它展示了每个类别的最佳工具，还有正在开发的新工具以及它们处于启动过程的哪个状态（我不记得了）。在网站上，每个类别都像一个矩形，矩形内的软件/工具都是小方块，你可以点击它们，它会为你提供更多关于该工具的信息。 希望有人遇到过同样的网站或知道我所说的网站。我在为我的组织寻找工具时遇到了它。谢谢。    提交人    /u/Sea_Pen_1356   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1efx2x3/looking_for_softwaretools_website_landscape/</guid>
       <pubDate>Tue, 30 Jul 2024 16:00:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>XPCOM 缺失，无法安装</title>
-      <link>https://www.reddit.com/r/software/comments/1efqn0l/xpcom_missing_wont_install/</link>
-      <description><![CDATA[  由    /u/Steven1958  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1efqn0l/xpcom_missing_wont_install/</guid>
-      <pubDate>Tue, 30 Jul 2024 11:11:42 GMT</pubDate>
     </item>
     <item>
       <title>制作了一个彩虹 iOS 应用</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[正如标题所示，我正在寻找一款可以用来从多张图片创建视频的软件。 所需功能：选择图片，软件将创建带有一个/一些动画的视频。为视频添加歌曲。指定图片显示的时间。 最好有以下功能：过滤掉重复的图片。    提交人    /u/BoxZealousideal4362   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ef02f1/recommendation_to_create_a_video_from_images/</guid>
       <pubDate>Mon, 29 Jul 2024 13:52:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一个简单的音板</title>
-      <link>https://www.reddit.com/r/software/comments/1eezaud/looking_for_a_simple_soundboard/</link>
-      <description><![CDATA[有人知道一个简单的音板，它旨在通过麦克风播放音频吗？它应该具有热键功能和同时播放多个声音。     提交人    /u/PendN   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1eezaud/looking_for_a_simple_soundboard/</guid>
-      <pubDate>Mon, 29 Jul 2024 13:18:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
