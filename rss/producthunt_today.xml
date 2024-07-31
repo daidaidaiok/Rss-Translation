@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 31 Jul 2024 09:07:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 12:09:02 GMT</lastBuildDate>
     <item>
       <title>漫游排名</title>
       <link>https://www.producthunt.com/posts/roamrank</link>
@@ -62,20 +62,6 @@
       <pubDate>Wed, 31 Jul 2024 05:37:47 GMT</pubDate>
     </item>
     <item>
-      <title>网页屏障</title>
-      <link>https://www.producthunt.com/posts/webbarrier</link>
-      <description><![CDATA[
-免费网站拦截器谷歌扩展程序
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/webbarrier</guid>
-      <pubDate>Wed, 31 Jul 2024 02:27:33 GMT</pubDate>
-    </item>
-    <item>
       <title>零行</title>
       <link>https://www.producthunt.com/posts/row-zero</link>
       <description><![CDATA[
@@ -104,18 +90,18 @@
       <pubDate>Tue, 30 Jul 2024 23:46:15 GMT</pubDate>
     </item>
     <item>
-      <title>源码</title>
-      <link>https://www.producthunt.com/posts/qsourcer</link>
+      <title>简单画画</title>
+      <link>https://www.producthunt.com/posts/simply-draw</link>
       <description><![CDATA[
-使用 AI 和布尔搜索寻找顶尖人才
+AI 反馈与艺术相遇 - 任何人都可以学习绘画
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/qsourcer</guid>
-      <pubDate>Tue, 30 Jul 2024 20:04:27 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/simply-draw</guid>
+      <pubDate>Tue, 30 Jul 2024 17:18:22 GMT</pubDate>
     </item>
     <item>
       <title>无聊的用户界面</title>
@@ -174,18 +160,32 @@
       <pubDate>Mon, 29 Jul 2024 08:43:02 GMT</pubDate>
     </item>
     <item>
-      <title>语言编辑器2.0</title>
-      <link>https://www.producthunt.com/posts/lingoedit-2-0</link>
+      <title>Stammer.ai</title>
+      <link>https://www.producthunt.com/posts/stammer-ai</link>
       <description><![CDATA[
-简化翻译和编辑：您的 AI 语言伴侣
+完全可定制的仪表板，用于构建和转售 AI 代理
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/lingoedit-2-0</guid>
-      <pubDate>Mon, 08 Jul 2024 10:01:55 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/stammer-ai</guid>
+      <pubDate>Thu, 25 Jul 2024 02:15:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建轮播</title>
+      <link>https://www.producthunt.com/posts/create-carousel</link>
+      <description><![CDATA[
+在几秒钟内创建最漂亮的社交媒体轮播
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/create-carousel</guid>
+      <pubDate>Wed, 24 Jul 2024 11:19:23 GMT</pubDate>
     </item>
     <item>
       <title>独眼巨人</title>
