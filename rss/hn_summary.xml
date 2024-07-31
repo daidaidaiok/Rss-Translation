@@ -4,93 +4,111 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Tue, 30 Jul 2024 21:05:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 00:13:24 GMT</lastBuildDate>
     <item>
-      <title>[媒体] AMD 发布了 2024 财年第二季度的财务业绩。</title>
-      <link>https://t.me/hn_summary/101950</link>
-      <description><![CDATA[AMD 2024 财年第二季度财务业绩
-AMD 发布了 2024 财年第二季度的财务业绩。该公司报告称，得益于数据中心和游戏产品的强劲需求，收入增长强劲。首席执行官 Lisa Su 强调了其最新处理器和 GPU 的成功，这些处理器和 GPU 已获得显著的市场吸引力。然而，由于 PC 市场疲软，客户端细分市场略有下滑。尽管如此，AMD 仍对未来增长持乐观态度，尤其是即将推出的产品。财务报告强调了 AMD 对创新和市场扩张的战略重点，为公司继续取得成功奠定了良好的基础。]]></description>
-      <guid>https://t.me/hn_summary/101950</guid>
-      <pubDate>Tue, 30 Jul 2024 21:05:47 GMT</pubDate>
+      <title>[媒体] Meta 现在允许美国。</title>
+      <link>https://t.me/hn_summary/101976</link>
+      <description><![CDATA[Instagram 开始允许人们创建自己的 AI 版本
+Meta 现在允许美国用户使用名为 AI Studio 的新工具在 Instagram 或网络上创建自己的 AI 版本。该工具旨在让创作者和企业主通过 AI 个人资料与他们的关注者互动，这些个人资料可以参与聊天线程并回复评论。用户可以根据他们的 Instagram 内容、要避免的话题​​和要分享的链接自定义他们的 AI。AI Studio 还可以创建新的 AI 角色以供 Meta 的应用程序使用，与 Character.AI 和 Replika 等初创公司竞争。尽管有控制措施，但人们担心 AI 个人资料可能会说出有问题的话，Meta 承认存在这种风险。 AI 资料将被清晰标记，并且创建者必须指定其 AI 应避免的主题，例如投资建议。]]></description>
+      <guid>https://t.me/hn_summary/101976</guid>
+      <pubDate>Wed, 31 Jul 2024 00:13:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 规模太大而无暇顾及？</title>
-      <link>https://t.me/hn_summary/101949</link>
-      <description><![CDATA[大到无暇顾及？我们对 Cloudflare 的反滥用态度感到失望
-多年来，Spamhaus 一直观察到网络犯罪分子利用 Cloudflare 的服务来掩盖恶意活动，这种策略被称为“依赖受信任服务 (LOTS)”。有 1201 个未解析的 Spamhaus 阻止列表 (SBL) 列表和 Spamhaus 域名阻止列表 (DBL) 上所有域名的 10.05% 使用 Cloudflare 名称服务器，很明显 Cloudflare 的滥用处理并不理想。研究表明，许多提供网络犯罪服务的域名都得到了 Cloudflare 的支持。Cloudflare 将滥用报告传递给网站运营商和托管服务提供商，而不是暂停向滥用者提供服务的政策存在问题。这种方法在经济上有利于 Cloudflare，但对互联网安全却产生负面影响。Spamhaus 敦促 Cloudflare 改进其滥用预防和处理，以加强在线信任和安全。值得注意的是，Spamhaus 承认 Cloudflare 在 2013 年的一次重大 DDoS 攻击期间提供了帮助，强调他们对 Cloudflare 服务的赞赏，但强调需要更好地管理滥用行为。]]></description>
-      <guid>https://t.me/hn_summary/101949</guid>
-      <pubDate>Tue, 30 Jul 2024 21:02:43 GMT</pubDate>
+      <title>[媒体] 亚马逊因未能充分警告超过 300,000 名客户而受到批评 [...]</title>
+      <link>https://t.me/hn_summary/101975</link>
+      <description><![CDATA[亚马逊被迫召回 40 万种可能致人死亡或触电的产品
+亚马逊因未能充分警告 30 多万名客户其平台上第三方销售的 40 多万种产品可能带来的严重风险（包括死亡和触电）而受到批评。美国消费品安全委员会 (CPSC) 一致投票决定让亚马逊对这些有缺陷的产品承担法律责任，这些产品包括易燃的儿童睡衣、有故障的一氧化碳探测器和不安全的吹风机。亚马逊没有发布正式的召回通知，而是发出了淡化警告并在没有要求提供产品销毁证明的情况下提供礼品卡。 CPSC 批评亚马逊补救措施不足，没有努力追踪或通知所有受影响的消费者，包括那些收到产品作为礼物或在二级市场购买产品的消费者。亚马逊计划对裁决提出上诉，辩称其在首次收到问题通知时采取了迅速且适当的行动。然而，CPSC 坚持认为亚马逊不能通过声称自己只是一家物流供应商来逃避其安全义务。]]></description>
+      <guid>https://t.me/hn_summary/101975</guid>
+      <pubDate>Wed, 31 Jul 2024 00:13:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] www.nature.com 上的文章介绍了一种新颖的无线时间同步技术 [...]</title>
-      <link>https://t.me/hn_summary/101948</link>
-      <description><![CDATA[宇宙时间同步器 (CTS) 用于无线和精确时间同步
-www.nature.com 上的文章介绍了一种名为宇宙时间同步器 (CTS) 的新型无线时间同步技术，该技术利用扩展空气簇射 (EAS) 粒子（特别是μ子）的可预测到达来实现精确的时间同步。这种方法解决了基于 GPS 的系统的局限性，特别是在 GPS 信号不可用或不可靠的环境中，例如极地、室内、水下或地下。CTS 可以保持精度小于 100 纳秒的同步，使其适用于需要高精度的应用。该技术利用介子的稳定性和恒温晶体振荡器 (OCXO) 来确保一致的计时，即使没有 GPS 输入也是如此。这种创新方法可能会彻底改变具有挑战性的环境中的时间同步。
+      <title>[媒体] 网站：www.emojijournal.net</title>
+      <link>https://t.me/hn_summary/101974</link>
+      <description><![CDATA[向 HN 展示：我制作了一个专注于使用表情符号进行日间概览的在线日记应用程序
+标题：向 HN 展示：我制作了一个专注于使用表情符号进行日间概览的在线日记应用程序
+网站：www.emojijournal.net
 
-争议：用于备用计时的原子钟的高成本和有限的可访问性被视为重大障碍。
+推出 EmojiJournal，这是一款创新的在线日记应用程序，它使用表情符号、颜色和动画将您的日常条目转换为生动、个性化的概览。这种独特的方法使每一天都与众不同且具有视觉吸引力，让用户可以创造性地表达他们的心情和活动。无论您是在追踪情绪、记录事件还是只是回顾一天，EmojiJournal 都提供了一种有趣且互动的方式来捕捉您生活中的瞬间。请访问 www.emojijournal.net 探索该应用，开始让每一天都变得独一无二！]]></description>
+      <guid>https://t.me/hn_summary/101974</guid>
+      <pubDate>Wed, 31 Jul 2024 00:10:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Ngtop 是一个命令行工具，用于分析 Nginx 访问日志的请求计数。</title>
+      <link>https://t.me/hn_summary/101973</link>
+      <description><![CDATA[Ngtop – 来自 Nginx 访问日志的请求分析
+Ngtop 是一个命令行工具，旨在分析来自 Nginx 访问日志的请求计数。它允许用户根据各种标准（例如 URL 模式、用户代理、状态代码和时间范围）查询和过滤日志数据。该工具解析日志并将数据存储在 SQLite 数据库中，从而实现高效查询。Ngtop 通过提供灵活的命令行参数来过滤和计数请求来脱颖而出，并且它支持通过环境变量进行自定义。它可以通过二进制下载或使用 Go 进行安装。此工具对于需要详细了解网络流量和请求模式的网络管理员和开发人员特别有用。]]></description>
+      <guid>https://t.me/hn_summary/101973</guid>
+      <pubDate>Wed, 31 Jul 2024 00:07:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 标题：检查 Gleam 的 Div by Zero 是否可行</title>
+      <link>https://t.me/hn_summary/101972</link>
+      <description><![CDATA[检查 Gleam 的除数是否为零
+标题：检查 Gleam 的除数是否为零
 
-独特/巧妙的方面：使用自然产生的宇宙射线介子进行时间同步是一种令人惊讶且巧妙的解决方案，可以克服传统基于 GPS 的系统的局限性。]]></description>
-      <guid>https://t.me/hn_summary/101948</guid>
-      <pubDate>Tue, 30 Jul 2024 20:53:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Anthropic 一直在积极地从网站上抓取数据，以培训其 Claude LLM，o [...]</title>
-      <link>https://t.me/hn_summary/101947</link>
-      <description><![CDATA[Anthropic 抓取网站的速度太快，导致问题
-Anthropic 一直在积极地从网站上抓取数据，以训练其 Claude LLM，而且通常未经许可。这种做法在 AI 模型训练中并不新鲜，但 Anthropic 的方法尤其极端。例如，Ifixit.com 报告称，ClaudeBot 一天内访问其网站一百万次，导致其资源紧张。Freelancer 在四小时内经历了 350 万次点击，迫使他们屏蔽了 Anthropic。尽管网站使用 robots.txt 来管理数据访问，但 Anthropic 忽略了这些准则。 Anthropic 由前 OpenAI 研究人员创立，曾承诺打造“负责任的”人工智能，但似乎已经偏离了这条道路。过于激进的网络爬虫是人工智能领域的一个常见问题，人们呼吁采取更尊重他人的行为。]]></description>
-      <guid>https://t.me/hn_summary/101947</guid>
-      <pubDate>Tue, 30 Jul 2024 20:53:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>几年前，我深夜接到了一位参与“突破摄星”计划的朋友打来的电话，[...]</title>
-      <link>https://t.me/hn_summary/101946</link>
-      <description><![CDATA[天文事故和不存在的比邻星“信号”
-几年前，我接到一位参与“突破摄星”计划的朋友的深夜电话，他分享了令人震惊的消息：澳大利亚帕克斯无线电天线（突破聆听 SETI 项目的一部分）探测到了一个似乎来自比邻星的信号。当天线离开比邻星时，信号消失了，引发了媒体的短暂兴趣和阴谋论。然而，后来它被确认为射频干扰 (RFI)。尽管最初很兴奋，但这个被称为 BLC1 的信号最终被追溯到人为源。这一事件凸显了 SETI 面临的挑战以及大多数异常现象必然会用平凡的解释来解释。克里斯·林托特 (Chris Lintott) 的《偶然天文学》一书强调了天文学发现的偶然性以及保持开放心态的重要性。更广泛的主题是保持好奇心，避免过于执着于任何单一假设。]]></description>
-      <guid>https://t.me/hn_summary/101946</guid>
-      <pubDate>Tue, 30 Jul 2024 20:45:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 普林斯顿大学计算机科学教授 Brian Kernighan 旨在揭开 [...] 的神秘面纱。</title>
-      <link>https://t.me/hn_summary/101945</link>
-      <description><![CDATA[Kernighan 讨论“数百万、数十亿、数万亿”（2018 年）
-普林斯顿大学计算机科学教授 Brian Kernighan 在他的著作《数百万、数十亿、数万亿：在数字太多的世界中为自己辩护》中，旨在揭开媒体和政客们提出的压倒性数字的神秘面纱。这本书由普林斯顿大学出版社出版，提供了批判性评估数值数据的实用技巧。Kernighan 拥有丰富的计算机语言背景和杰出的教学生涯，他强调怀疑态度和基本算术在评估数字方面的重要性。他分享了来自《纽约时报》等知名来源的著名数字错误示例，以说明常见的陷阱。本书鼓励读者培养健康的怀疑态度，提高数字素养，避免被误导。]]></description>
-      <guid>https://t.me/hn_summary/101945</guid>
-      <pubDate>Tue, 30 Jul 2024 20:38:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 是的，你没看错——Microsoft 365 已关闭。</title>
-      <link>https://t.me/hn_summary/101944</link>
-      <description><![CDATA[Microsoft 365 再次瘫痪
-是的，您没看错——Microsoft 365 瘫痪了。周二，该公司报告称，Microsoft 365 中的多项服务发生中断，包括管理中心、Intune、Entra、Power Platform 和 Power BI，但 SharePoint Online、OneDrive for Business、Microsoft Teams 和 Exchange Online 仍在运行。管理员注意到 OAuth 请求缓慢且登录延迟。微软承认 X 上存在此问题，并将用户引导至管理中心，但讽刺的是，管理中心也受到影响。微软拥有超过 2.58 亿用户，全球有超过一百万家公司在使用，因此此次中断影响重大。安全专家 Kevin Beaumont 推测，僵尸网络发起的 DDoS 攻击可能是原因。这个时机尤其不幸，因为它恰逢微软的收益报告日。]]></description>
-      <guid>https://t.me/hn_summary/101944</guid>
-      <pubDate>Tue, 30 Jul 2024 20:26:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 尽管微软的盈利超过了预期，但其股价在盘后交易中下跌了 7%。</title>
-      <link>https://t.me/hn_summary/101943</link>
-      <description><![CDATA[微软股价下跌 8%，因为云收入不及预期
-尽管微软的盈利和收入超出预期，但该公司股价在盘后交易中下跌了 7%，因为投资者关注的云收入不尽如人意。该公司公布的每股收益为 2.95 美元，低于预期的 2.93 美元，营收为 647.3 亿美元，低于预期的 643.9 亿美元。微软智能云部门（包括 Azure、Windows Server、Nuance 和 GitHub）的收入为 285.2 亿美元，低于 286.8 亿美元的普遍预期。Azure 和其他云服务增长了 29%，低于预期的 31%。这一缺口意义重大，因为微软在人工智能和云领域与亚马逊网络服务和谷歌竞争。该公司的其他部门，包括生产力和业务流程以及更多个人计算，都超出了预期。值得注意的是，微软推出了支持 AI 的 Surface PC，反映了更广泛的行业趋势。首席执行官 Satya Nadella 强调了这些新设备的创新潜力。尽管盘后下跌，但微软股价在 2024 年上涨了 12%，略低于标准普尔 500 指数 13% 的涨幅。]]></description>
-      <guid>https://t.me/hn_summary/101943</guid>
-      <pubDate>Tue, 30 Jul 2024 20:25:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] “红队工具集合” GitHub 项目是一个全面的开源存储库 [...]</title>
-      <link>https://t.me/hn_summary/101942</link>
-      <description><![CDATA[红队工具集
-“红队工具集”GitHub 项目是一个全面的开源安全工具库，旨在模拟对手并帮助威胁猎人进行检测和预防。该工具包涵盖网络攻击的各个阶段，包括侦察、初始访问、交付、态势感知、凭证转储、特权升级、防御规避、持久性、横向移动和渗漏。该项目旨在提供可能被 APT 和勒索软件运营商等威胁行为者滥用的尖端工具。它通过为每个攻击阶段提供精选的专用工具列表来脱颖而出，鼓励通过拉取请求做出贡献。（基于 25% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/101942</guid>
-      <pubDate>Tue, 30 Jul 2024 20:23:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：www.ccdatalab.org</title>
-      <link>https://t.me/hn_summary/101941</link>
-      <description><![CDATA[迫切需要 Aspera 的免费软件替代品
-标题：迫切需要 Aspera 的免费软件替代品
-网站：www.ccdatalab.org
+Gleam 不会因除数为零而崩溃；相反，它会对任何文字除数为零的情况返回零。为了更稳健地处理这种情况，您可以使用标准库函数（如 int.divide、int.modulo、int.remainder、float.divide 和 float.modulo）来捕获错误。此辅助工具检查 Gleam 代码中是否存在文字除数为零的情况，从而确保更安全的代码执行。当您的应用程序不接受除数为零的情况时，它特别有用。如果检测到潜在的除以零，该工具可以集成到 CI 管道中以停止该过程。提供了安装和使用说明以及 CI 集成步骤。有关更多文档，请参阅 Hexdocs。
 
-在儿童癌症数据实验室，我们依靠专有软件 Aspera 快速传输大量数据集。Aspera 的快速安全协议 (FASP) 比 HTTP/FTP 快 1000 倍，使其成为处理 TB 级数据必不可少的协议。然而，其专有性质引发了人们对隐私和控制的担忧。我们迫切需要一个免费软件替代方案来实现大数据传输的民主化，造福科学、技术、商业和新闻业。创建免费版本可以彻底改变数据共享，就像 Apache 对网络所做的那样。如果您是一位热衷于开源的开发人员，请加入我们的使命！请通过 miserlou@gmail.com 与我联系。]]></description>
-      <guid>https://t.me/hn_summary/101941</guid>
-      <pubDate>Tue, 30 Jul 2024 20:21:56 GMT</pubDate>
+争议：未突出显示。
+
+独特/巧妙：该工具能够无缝集成到 CI 管道中，在检测到潜在的除以零时自动捕获和停止进程，这一点特别巧妙。]]></description>
+      <guid>https://t.me/hn_summary/101972</guid>
+      <pubDate>Wed, 31 Jul 2024 00:04:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>在这篇文章中，我们探讨如何在 Unix 系统上使用 Go 构建静态链接二进制文件，规范 [...]</title>
+      <link>https://t.me/hn_summary/101971</link>
+      <description><![CDATA[在 Linux 上使用 Go 构建静态二进制文件
+在这篇文章中，我们将探讨如何在 Unix 系统（特别是 Linux）上使用 Go 构建静态链接的二进制文件。虽然 Go 可以生成这样的二进制文件，但它并不总是默认这样做。我们从一个简单的“hello world”程序开始，使用 file、ldd 和 nm 等工具验证其静态链接。但是，当使用某些标准库功能（如 DNS 查找或用户/组 ID 查找）时，Go 默认通过 libc 进行动态链接。我们演示了如何使用构建标签（netgo、osusergo）或禁用 cgo 来覆盖此操作。
+
+当通过 cgo 合并 C 代码时，由于对 libc 的依赖，Go 默认为动态链接。要实现静态链接，我们可以使用 musl 库或 Zig 工具链。这两种方法都允许我们生成静态链接的二进制文件，但 Zig 简化了流程并支持交叉编译。但是，Zig 有一些限制，例如某些程序的链接器错误。
+
+文章最后指出了确保静态链接所需的努力，并提到了在 go build 中使用 -static 标志的提议，以简化此过程，等待实施。
+
+令人惊讶/聪明：使用 Zig 工具链进行静态链接简化了流程并支持交叉编译，为 musl 提供了现代替代方案。
+
+有争议：Go 标准库中某些功能对 libc 的依赖会使静态链接变得复杂，需要采取诸如禁用 cgo 或使用构建标签之类的解决方法。]]></description>
+      <guid>https://t.me/hn_summary/101971</guid>
+      <pubDate>Wed, 31 Jul 2024 00:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>在本文中，作者认为创造力从根本上源于记忆。</title>
+      <link>https://t.me/hn_summary/101970</link>
+      <description><![CDATA[创造力从根本上源于记忆
+
+在本文中，作者认为创造力从根本上源于记忆。他们解释说，创造力是内化模式和概念的结果，这使得想法能够自发地联系起来。作者为他们在 DJ、喜剧和竞技游戏等创意领域使用系统方法辩护，声称这些系统有助于更快地实现自主，从而实现创造力。他们分享了一种个人学习方法，包括记忆和接触广泛的案例，他们将其应用于学术以外的领域，如体育、销售和幽默。作者强调了记忆在建立创造力基础方面的作用，并指出理解往往是在记忆之后。他们还讨论了教育方法的文化差异，指出东方文化强调记忆，而西方文化注重理解，作者认为理解是记忆的辅助手段。文章最后提倡深入学习多个领域以培养创造力，并采用系统来释放脑力以产生新想法。
+
+争议点：作者认为西方教育向基于理解的学习的转变本质上只是一种记忆辅助手段，这可能会引起那些强调概念理解而不是死记硬背的教育工作者的争议。
+
+独特见解：作者提出，美国在创造力方面的主导地位可能是由于强大的基础学习（东方教育中常见）和美国稳定和机遇所培养的学习乐趣的结合。]]></description>
+      <guid>https://t.me/hn_summary/101970</guid>
+      <pubDate>Wed, 31 Jul 2024 00:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 由于客户的法律诉讼，DigiCert 暂停了大规模证书撤销[...]</title>
+      <link>https://t.me/hn_summary/101969</link>
+      <description><![CDATA[Digicert 因客户的法律诉讼暂停大规模证书撤销
+DigiCert 因客户的法律诉讼暂停了大规模证书撤销，导致混乱和复杂情况。主要问题源于最初的撤销范围过广，影响了 83,267 个证书，包括通过电子邮件验证的证书。混乱涉及混合证书，其中一个域使用不受影响的方法进行验证，另一个域使用不带下划线的 CNAME。这导致大量客户联系。此外，经销商一直没有向其订户提供撤销信息。临时限制令 (TRO) 已发布，使情况进一步复杂化。有关受影响客户及其无法更换证书的具体详细信息将在延迟撤销错误报告中解决。鼓励社区提供有关该问题的透明信息。]]></description>
+      <guid>https://t.me/hn_summary/101969</guid>
+      <pubDate>Tue, 30 Jul 2024 23:56:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Zuo 是 Racket 的一个极简变体，专为脚本设计，特别适用于 [...]</title>
+      <link>https://t.me/hn_summary/101968</link>
+      <description><![CDATA[Zuo：用于脚本编写的微型 Racket
+Zuo 是专为脚本编写而设计的 Racket 的极简变体，在需要较小的占用空间或编写 Racket 构建脚本时特别有用。它提供用于文件处理和进程执行的原语，并包含类似 make 的嵌入式 DSL。Zuo 脚本以 #lang 开头，允许模块化解析和扩展。它可以用 C 编译器编译，并支持通过 make 进行配置。Zuo 可以运行模块，并提供嵌入库的选项来增强启动性能。它还支持交叉编译和嵌入大型应用程序。差异化因素包括其小巧的尺寸、模块化语言层以及使用嵌入式堆映像的快速启动。]]></description>
+      <guid>https://t.me/hn_summary/101968</guid>
+      <pubDate>Tue, 30 Jul 2024 23:43:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：www.quantamagazine.org</title>
+      <link>https://t.me/hn_summary/101967</link>
+      <description><![CDATA[形而上学实验探究我们对现实的隐藏假设
+标题：形而上学实验探究我们对现实的隐藏假设
+网站：www.quantamagazine.org
+
+Cavalcanti 是澳大利亚布里斯班格里菲斯大学的教授，他正在推进一种思想家的传统，这种思想家模糊了物理学和哲学之间的界限。他在实验形而上学方面的工作使用科学工具来测试哲学世界观，从而产生了增强我们对科学理解的见解。卡瓦尔康蒂和他的团队发表了一项开创性的定理，对现实施加了令人惊讶的限制。他们现在正在设计创新的、尽管有争议的实验，以挑战我们对物理和思维的假设。与预期相反，卡瓦尔康蒂认为将哲学融入科学会使知识更加稳健和科学。这种方法挑战了科学和哲学截然不同的传统观点，强调了它们的相互依存关系。]]></description>
+      <guid>https://t.me/hn_summary/101967</guid>
+      <pubDate>Tue, 30 Jul 2024 23:34:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

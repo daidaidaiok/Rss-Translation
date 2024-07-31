@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 30 Jul 2024 21:06:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 00:16:18 GMT</lastBuildDate>
+    <item>
+      <title>新手：Crowdstrike、Falcon、AWS、Spark、Cassandra、AWS、MSFT 以及与 MSFT 和 Crowdstrike 签订许可协议的客户如何没有任何 QA / 控制门 / 沙盒环境等来检查逻辑错误 / 损坏的数据通道文件？</title>
+      <link>https://www.reddit.com/r/software/comments/1eg8to7/novice_here_how_did_crowdstrike_falcon_aws_spark/</link>
+      <description><![CDATA[新手在此：Crowdstrike、Falcon、AWS、Spark、Cassandra、AWS、MSFT 以及与 MSFT 和 Crowdstrike 签订许可协议的客户如何没有任何 QA / 控制门 / 沙盒环境等来检查逻辑错误 / 损坏的数据通道文件？    提交人    /u/Objective-Patient-37   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1eg8to7/novice_here_how_did_crowdstrike_falcon_aws_spark/</guid>
+      <pubDate>Tue, 30 Jul 2024 23:58:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>救命！如何制作 VMWare 虚拟机的 ISO 映像？</title>
+      <link>https://www.reddit.com/r/software/comments/1eg7881/help_how_do_i_make_an_iso_image_of_my_vmware/</link>
+      <description><![CDATA[我有一个通过 VMWare Workstation 17 Player（不是专业版）运行 ParrotOS（基于 Debian）的虚拟机。VMWare 安装在 Windows 11 PC 上。VM 运行正常。 我想制作当前 VM 的 ISO。 我尝试使用 IMGBurn 并成功制作 ISO，但当我尝试使用该 ISO 创建 VM 时，它表现得好像不存在一样，显示“未找到操作系统”。  尝试从我创建的 ISO 创建 VM 后出现启动错误。  这些是我在创建 ISO 时的 IMGBurn 设置。 我不确定我是否在 IMGBurn 中选择了错误的设置，或者是否有更好、更简单的软件可用？ 任何帮助都将不胜感激！谢谢！    提交人    /u/SharkOnGames   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1eg7881/help_how_do_i_make_an_iso_image_of_my_vmware/</guid>
+      <pubDate>Tue, 30 Jul 2024 22:48:47 GMT</pubDate>
+    </item>
     <item>
       <title>Sora Workflow 软件替代品</title>
       <link>https://www.reddit.com/r/software/comments/1eg1teg/sora_workflow_software_alternative/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[您好，如前所述，我正在尝试诱骗该程序运行或找到绕过它以允许功能的方法。 我确信它将在此设备和 GPU 上运行。 任何帮助都将不胜感激，谢谢。    提交人    /u/2xerc   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ef2t8t/any_way_to_bypass_this_message_slightly_urgent/</guid>
       <pubDate>Mon, 29 Jul 2024 15:44:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何好的电视节目管理软件，类似于大多数漫画阅读器软件</title>
-      <link>https://www.reddit.com/r/software/comments/1ef1i1y/any_good_tv_show_manager_software_similar_to_most/</link>
-      <description><![CDATA[我的一个系列文件夹中有很多视频，需要类似漫画阅读器软件的东西来显示漫画预览。  如果我可以手动为文件夹添加缩略图，那对我来说就足够了。     提交人    /u/Get_Triggered76   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ef1i1y/any_good_tv_show_manager_software_similar_to_most/</guid>
-      <pubDate>Mon, 29 Jul 2024 14:51:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>建议用图片制作视频</title>
-      <link>https://www.reddit.com/r/software/comments/1ef02f1/recommendation_to_create_a_video_from_images/</link>
-      <description><![CDATA[正如标题所示，我正在寻找一款可以用来从多张图片创建视频的软件。 所需功能：选择图片，软件将创建带有一个/一些动画的视频。为视频添加歌曲。指定图片显示的时间。 最好有以下功能：过滤掉重复的图片。    提交人    /u/BoxZealousideal4362   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ef02f1/recommendation_to_create_a_video_from_images/</guid>
-      <pubDate>Mon, 29 Jul 2024 13:52:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
