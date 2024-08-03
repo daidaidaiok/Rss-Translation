@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 03 Aug 2024 00:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 03:05:55 GMT</lastBuildDate>
+    <item>
+      <title>DNxIQ 的视频延迟</title>
+      <link>https://www.reddit.com/r/editors/comments/1eisbhm/video_delay_out_of_dnxiq/</link>
+      <description><![CDATA[我目前已通过 PCIe 将 DNxIQ 连接到我的工作站。我有一台通过 hdmi 输出连接到 io 盒的台式显示器，另一台通过 sdi 输出连接到 BMD 12g SDI 到 HDMI 微型转换器的 55 英寸电视的 hdmi 连接。台式显示器有 1 帧延迟，电视有 3 帧延迟 - 这绝对让我抓狂。 我知道 Avid 中有一个桌面播放延迟设置，但由于第三台显示器和电视的偏移帧不同（1 vs 3f），有没有人有解决方案来同步显示器，这样就不会出现延迟？和/或有没有人有好的 55 英寸以上的电视/显示器建议，不会出现这么严重的延迟？台式显示器是三星 U28E590。电视我不确定。 如果有人有使用 io 盒的经验，是否可以通过 hdmi 无延迟输出，或者总是会至少有 1 帧关闭？ 旁注：当我在 Avid 的桌面播放延迟设置中偏移同步延迟帧时 - 它是否也会延迟音频（来自 io 的 xlr 输出）？    提交人    /u/tortilla_thehun   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1eisbhm/video_delay_out_of_dnxiq/</guid>
+      <pubDate>Sat, 03 Aug 2024 02:33:29 GMT</pubDate>
+    </item>
     <item>
       <title>The-dots.com 专业网络？</title>
       <link>https://www.reddit.com/r/editors/comments/1einvtr/thedotscom_professional_networking/</link>
@@ -32,13 +39,6 @@
       <description><![CDATA[我学习剪辑和电影以作为我的手艺，我注意到在这段电影的剪辑中，他们使用了一种非常古老的传统淡入淡出风格来从一个场景过渡到另一个场景。 所见内容有一些暴力，所以我会给出警告： https://youtu.be/ljun7By3hIU?si=14x\_MRaUTgweWynO 但我想知道，为什么 90 年代后期的一部电影选择了一种非常古老的淡入淡出风格，而不是做一些更现代的事情，比如使用 VFX 火焰和擦拭屏幕到新场景，或者类似更现代的东西？  我问这个问题是因为我经常想知道什么时候应该使用更现代的编辑方法，而不是更经典、更传统的方法。 非常感谢您对此的任何意见！我真的很感激！    提交人    /u/harmonica2   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1eilzc5/why_did_these_filmmakers_choose_to_use_this_style/</guid>
       <pubDate>Fri, 02 Aug 2024 21:36:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>编辑 *新手需要建议</title>
-      <link>https://www.reddit.com/r/editors/comments/1eik9j1/editor_newbie_needing_advice/</link>
-      <description><![CDATA[大家好。 简而言之，我拥有数字媒体制作学位。我们学习了平面设计、用户体验、数字媒体制作、视频制作（从前期到后期，专注于 Blackmagic 相机和 Davicni Resolve）、声音设计、摄影，基本上是整个领域。 我深入研究了后期，并且一直大量使用 Davicni Resolve，从事自由职业。但是，除非您拥有 1000 年的经验，否则似乎很难找到真正的职业... 有其他人遇到过这个问题吗？？我住在佛罗里达州。我已经申请了数百份工作......没有成功......我擅长我所做的事情.....对于像我这样到目前为止只有两年经验的人，大家现在有什么看法？   由    /u/Cute-Parfait-2831  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1eik9j1/editor_newbie_needing_advice/</guid>
-      <pubDate>Fri, 02 Aug 2024 20:24:33 GMT</pubDate>
     </item>
     <item>
       <title>我创建了一个免费的 After Effects 替代品</title>
