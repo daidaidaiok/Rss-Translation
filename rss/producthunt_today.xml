@@ -4,7 +4,35 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 03 Aug 2024 12:08:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 15:07:15 GMT</lastBuildDate>
+    <item>
+      <title>韵律时间</title>
+      <link>https://www.producthunt.com/posts/rhyme-time</link>
+      <description><![CDATA[
+挑战你的说唱技巧
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/rhyme-time</guid>
+      <pubDate>Sat, 03 Aug 2024 01:08:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>指甲大拇指</title>
+      <link>https://www.producthunt.com/posts/nailedthumbs</link>
+      <description><![CDATA[
+YouTube 缩略图滑动文件创建器
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/nailedthumbs</guid>
+      <pubDate>Fri, 02 Aug 2024 18:41:39 GMT</pubDate>
+    </item>
     <item>
       <title>性能</title>
       <link>https://www.producthunt.com/posts/perfio</link>
@@ -32,20 +60,6 @@ PasteBin 的开源替代品
 ]]></description>
       <guid>https://www.producthunt.com/posts/textbin</guid>
       <pubDate>Fri, 02 Aug 2024 13:16:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>模糊</title>
-      <link>https://www.producthunt.com/posts/blur-it</link>
-      <description><![CDATA[
-屏幕录制时模糊敏感信息
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/blur-it</guid>
-      <pubDate>Fri, 02 Aug 2024 12:51:38 GMT</pubDate>
     </item>
     <item>
       <title>重印版</title>
@@ -200,20 +214,6 @@ PasteBin 的开源替代品
 ]]></description>
       <guid>https://www.producthunt.com/posts/happypagesai</guid>
       <pubDate>Mon, 01 Jul 2024 12:14:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>流动调节器</title>
-      <link>https://www.producthunt.com/posts/flowmodor</link>
-      <description><![CDATA[
-灵活的焦点计时器可帮助您保持心流状态
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/flowmodor</guid>
-      <pubDate>Sat, 20 Jan 2024 03:55:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
