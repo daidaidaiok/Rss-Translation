@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 03 Aug 2024 21:07:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 00:21:23 GMT</lastBuildDate>
+    <item>
+      <title>No-React 以及如何通过代码创建应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eji5d4/noreact_how_to_create_app_from_code/</link>
+      <description><![CDATA[抱歉，这个问题比较新手。我觉得这个问题应该很容易找到答案，但我的研究却一无所获。 首先，几周前我开始使用 HTML、CSS 和 JS 构建一个 Web 应用程序。这个项目的主要目的是学习新技术和技能，所以当我了解到 React 时，我很快就掌握了它。 不过，在我开始使用 React 之前，我的进展一直很顺利。我并没有编写太多代码，但我尝试将我能编写的少量代码转换为 React。从初学者的角度来看，这太令人困惑了，我因此遇到了障碍。我真的只想回到纯 HTML、CSS 和 JS 项目。我认为这个项目也不够复杂，不足以保证 React 的有效性？我正在处理 API、数据库等。你怎么看？我也可以提供更多细节。 此外，我对在 App Store、Play Store 等上创建应用程序的过程感到困惑。我有一个项目，但是如何将它捆绑到可以提交给这些商店的应用程序中？我离这一点还很远，但只是好奇。 感谢您的所有帮助。    提交人    /u/I-already-redd-it-   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eji5d4/noreact_how_to_create_app_from_code/</guid>
+      <pubDate>Sun, 04 Aug 2024 00:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>工作区共享？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ejhnhh/workspace_sharing/</link>
+      <description><![CDATA[我有一台台式机和一台笔记本电脑，都运行 Windows 11，我在处理项目时经常在它们之间切换。对于代码库，我可以使用 GitHub 或 GitHub Codespaces，它们非常适合保持同步。但是，我不确定如何在两台计算机之间轻松共享数据库。有哪些好方法可以让两台设备上的数据库保持更新？    提交人    /u/Saahand_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ejhnhh/workspace_sharing/</guid>
+      <pubDate>Sat, 03 Aug 2024 23:56:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>嵌入带有时间戳的评论的视频</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ejgh13/embed_video_with_comments_that_follow_time_stamp/</link>
+      <description><![CDATA[大家好！我本来打算把这篇文章发布到 frameio 的 reddit 页面上，但这个页面似乎是最好的。下面我将列出我正在尝试做的事情、我做过的事情以及我需要帮助的地方。如果我用词不当，请见谅，因为我是这方面的菜鸟！ 我正在尝试做的事情：我的网站上有一个嵌入了 frameio 的 iframe 链接的网站。我正在尝试为我的客户创建一个一站式购物页面，以便他们可以直接通过我的网站查看我制作的电影草稿。乍一看，这很容易。将评论链接放入播放器，一切似乎都正常。除了评论功能。这才是重点。 我目前所做的工作：我已经联系了 frameio 支持，他们说他们无能为力。但我觉得我离成功就很近了！我把代码弄乱了，客人评论时似乎出现了错误。 我需要帮助的地方：我想看看我的代码中是否存在错误，或者这是否真的不可能。我愿意去另一个平台，在那里我可以嵌入带有可加时间戳的评论的视频，但重点是将所有内容都保留在我的一个网站上。 不确定我是否可以在这里放链接，但很高兴提供我的代码并链接到我的测试网站！ 谢谢！    提交人   ​​ /u/tyrellesound   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ejgh13/embed_video_with_comments_that_follow_time_stamp/</guid>
+      <pubDate>Sat, 03 Aug 2024 23:00:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>PostgreSQL 中的命名约定：综合指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ejfxs3/naming_conventions_in_postgresql_a_comprehensive/</link>
+      <description><![CDATA[        提交人    /u/memo_mar   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ejfxs3/naming_conventions_in_postgresql_a_comprehensive/</guid>
+      <pubDate>Sat, 03 Aug 2024 22:35:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为应用程序开发人员、工程师、内容管理员等制作了一个 NSFW API。按网站、型号名称和类别请求，无需帐户即可免费使用。[https://adultdatalink.pages.dev]</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ejfr92/i_made_an_nsfw_api_for_app_developers_engineers/</link>
+      <description><![CDATA[根据初始帖子评论的要求，我更新了样式以适用于移动设备，并澄清了定价模式。 示例应用程序：https://wanker.pages.dev 这是我在此处发布的帖子的重新发布：https://www.reddit.com/r/webdev/comments/1e8dtd9/nsfw_i_made_an_nsfw_api_for_webmasters_and/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button 任何反馈都将不胜感激！ https://preview.redd.it/9a5rds51yigd1.png?width=1366&amp;format=png&amp;auto=webp&amp;s=9e86e7a8d6cb82b8c8d394d31068b6e3300e584f https://preview.redd.it/k8e47ah2yigd1.png?width=1182&amp;format=png&amp;auto=webp&amp;s=b5e8aa3dcf83cddb8640f59ee5b7fa9e7a8eb8c5    提交人    /u/hellalosses   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ejfr92/i_made_an_nsfw_api_for_app_developers_engineers/</guid>
+      <pubDate>Sat, 03 Aug 2024 22:27:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>在评估开发商时是否不再依赖投资组合，或者我是否被误导了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ejflyl/is_a_portfolio_no_longer_relied_upon_in/</link>
+      <description><![CDATA[我只是觉得人们只是为了找工作或冷不丁地接触而建立投资组合已经成为一个不再困难的项目，就像一个有经验的开发人员不会费心去做一个，而只是通过口耳相传的闲聊或社交就能得到雇佣，就是这样    提交人    /u/Professional_One3573   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ejflyl/is_a_portfolio_no_longer_relied_upon_in/</guid>
+      <pubDate>Sat, 03 Aug 2024 22:20:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助：第一个项目——后端之后该做什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ejfa2k/help_needed_first_project_what_to_do_after_backend/</link>
+      <description><![CDATA[大家好！ 我正在做我的第一个项目，一个使用 Angular 和 Spring Boot (Maven) 进行员工管理 (CRUD) 的简单仪表板。我已经完成了后端（我想，因为我修复了错误），现在我即将开始前端。 我有点不知道下一步该做什么。任何建议都会非常有帮助！非常感谢！❤️    提交人    /u/DevEnjoyer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ejfa2k/help_needed_first_project_what_to_do_after_backend/</guid>
+      <pubDate>Sat, 03 Aug 2024 22:06:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助：第一个项目——后端之后该做什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ejf9l9/help_needed_first_project_what_to_do_after_backend/</link>
+      <description><![CDATA[大家好！ 我正在做我的第一个项目，一个使用 Angular 和 Spring Boot (Maven) 进行员工管理 (CRUD) 的简单仪表板。我已经完成了后端（我想，因为我修复了错误），现在我即将开始前端。 我有点不知道下一步该做什么。任何建议都会非常有帮助！非常感谢！❤️    提交人    /u/DevEnjoyer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ejf9l9/help_needed_first_project_what_to_do_after_backend/</guid>
+      <pubDate>Sat, 03 Aug 2024 22:05:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Webflow 网站费用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eje6dp/webflow_website_cost/</link>
+      <description><![CDATA[我希望建立一个网站，它有 1 个登录页面，然后在结帐页面之后有支付处理器，如 stripe、crypto、square 等，然后你可以创建一个帐户并拥有一个登录门户，之后它会有点像 discord，有不同的类别/频道，在它们里面我可以有文字、视频、照片和任何带有部分和频道的东西，比如公告、一般聊天频道等，有人知道制作这样的网站要花多少钱吗？    提交人    /u/Eastern-Purchase3436   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eje6dp/webflow_website_cost/</guid>
+      <pubDate>Sat, 03 Aug 2024 21:15:35 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个轻量级的 API 模拟工具/服务器来提高我的工作效率。</title>
       <link>https://www.reddit.com/r/webdev/comments/1ejdgbv/i_made_a_lightweight_api_mocking_tool_server_to/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[        提交人    /u/BSoDium   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ejbgpf/i_made_an_overly_resourceintensive_portfolio_to/</guid>
       <pubDate>Sat, 03 Aug 2024 19:15:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个简单的掷骰子应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ejbd0d/i_made_a_simple_dice_throwing_app/</link>
-      <description><![CDATA[Mw 和我的朋友启动了 DND，我认为这是一个很好的项目。 我需要评论，因为这实际上是我的第一个应用程序，所以如果你们愿意的话     提交人    /u/Salazar20   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ejbd0d/i_made_a_simple_dice_throwing_app/</guid>
-      <pubDate>Sat, 03 Aug 2024 19:11:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bullship - 生成用于创建 SaaS 产品的 Flask 模板</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ejb8x3/bullship_generate_flask_templates_for_creating/</link>
-      <description><![CDATA[  由    /u/Just-Indication35  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ejb8x3/bullship_generate_flask_templates_for_creating/</guid>
-      <pubDate>Sat, 03 Aug 2024 19:06:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据库设计</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ejawnp/database_design/</link>
-      <description><![CDATA[嗨，我对架构还很陌生。我正在开发一个市场，需要一些关于构建数据库的建议。我使用 AWS Cognito 进行身份验证（电子邮件、电话和社交登录），使用 dynamodb 作为数据库。 目前我有 3 个 DDB：用户，包括：* 用户发布的 listingIds * 用户之间完成的 transactionIds * 其他用户发布的 comingReviewIds * 此用户发布的 outgoingReviewIds 列表，包括：* 创建列表的用户的用户 ID 评论，包括：* reviewerId * revieweeId 我试图在适当的情况下使用 GSI 将所有这些合并到单个 DDB 中，但我几乎不知道如何设计数据库。如有任何指导，我们将不胜感激     提交人    /u/PG_Wednesday   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ejawnp/database_design/</guid>
-      <pubDate>Sat, 03 Aug 2024 18:51:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个通过重写书籍来练习打字的网络应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ejambq/i_made_a_web_app_for_practicing_typing_by/</link>
-      <description><![CDATA[        提交人    /u/kap89   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ejambq/i_made_a_web_app_for_practicing_typing_by/</guid>
-      <pubDate>Sat, 03 Aug 2024 18:38:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 URL 的简单问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ejai9h/simple_question_about_urls/</link>
-      <description><![CDATA[为什么在传递带有锚点的 URL 时，具有 ID 的内容的 HTML 页面不会滚动到内容？ https://crashmanual.dot.ga.gov/SectionContent/CrashSpecificInformation#n7DispatchTime 应该滚动到 id=&quot;7DispatchTime&quot; 的内容，但是没有。 但是，在右侧的导航栏中，存在相同的链接，并且可以正常滚动。 这是 CORS 的问题吗？有什么想法可以解决它吗？我正在从 excel 电子表格进行链接。任何帮助都将不胜感激。   由    /u/CuirPig  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ejai9h/simple_question_about_urls/</guid>
-      <pubDate>Sat, 03 Aug 2024 18:33:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们可以为网站创建 React 在线代码编辑器吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ejab8j/can_we_create_react_online_code_editor_for_website/</link>
-      <description><![CDATA[我正在制作一个类似 codepen 的项目，但是用于 react 组件。我很困惑如何将网站嵌入到 react 的在线代码编辑器中。我找到了 html、css 和 js 代码编辑器，但找不到 react。 我可以选择只放一个文本编辑器，但这不够闲。有人能帮帮我吗？    提交人    /u/Aryan_Spider   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ejab8j/can_we_create_react_online_code_editor_for_website/</guid>
-      <pubDate>Sat, 03 Aug 2024 18:25:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>express-session - Cookie 签名密钥应该是特定于用户的还是全站的？（也适用于 fastify-session 和 fastify-cookie）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eja6cs/expresssession_should_the_cookie_signing_secret/</link>
-      <description><![CDATA[似乎用户特定的有点过度，并会造成不必要的开销。我的计划是：-  使用机密数组。 将数组存储在微服务中（因此不存储在服务器或数据库中）作为额外的安全层。 使用 cron 类型例程每 X 周/月向数组添加一个新机密，删除数组中最旧的条目。机密过时和不可用（从数组中删除）之间的时间段将设置为略长于会话的最大年龄，以免妨碍用户体验。  想法？    提交人    /u/U4-EA   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eja6cs/expresssession_should_the_cookie_signing_secret/</guid>
-      <pubDate>Sat, 03 Aug 2024 18:19:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个页面来查找和参加各种免费赠品</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ej9imd/i_made_a_page_to_find_and_enter_all_kind_of_free/</link>
-      <description><![CDATA[        提交人    /u/Sandlaa   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ej9imd/i_made_a_page_to_find_and_enter_all_kind_of_free/</guid>
-      <pubDate>Sat, 03 Aug 2024 17:52:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个社交媒体应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ej9glw/i_built_a_social_media_app/</link>
-      <description><![CDATA[您可能想知道这款应用与现有社交媒体平台有何不同。目前，这些差异似乎微乎其微。我创建这款应用是为了学习和娱乐，我不想为头像框架或置顶帖子等功能付费。我也不认为关注者数量应该决定用户贡献的价值，所以我隐藏了关注者数量功能。此外，由于有些人不喜欢下载他们的图片，我添加了“禁用下载”功能。虽然其中一些功能可能在其他应用程序中可用，但它们在我的应用程序中都是免费的，我很乐意将它们集中在一个地方。 https://apps.apple.com/us/app/easestar/id6471627227 任何建议都会有所帮助！    提交人    /u/jambako_o   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ej9glw/i_built_a_social_media_app/</guid>
-      <pubDate>Sat, 03 Aug 2024 17:49:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
