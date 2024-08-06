@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 05 Aug 2024 21:06:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 00:19:52 GMT</lastBuildDate>
+    <item>
+      <title>我的 chrome 扩展程序收到了 LinkedIn 法律团队的法律投诉，威胁要从商店中移除。他们希望我的扩展程序不要“不当且未经授权修改 LinkedIn 网站上的信息”——这正是我的扩展程序的目的，哈哈。我该怎么办？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1el3k7u/my_chrome_extension_got_a_legal_complaint_from/</link>
+      <description><![CDATA[        提交人    /u/ManykNguyen   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1el3k7u/my_chrome_extension_got_a_legal_complaint_from/</guid>
+      <pubDate>Tue, 06 Aug 2024 00:11:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Heroku 上将 Monorepo 部署为 2 个独立的应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1el2l1l/how_to_deploy_a_monorepo_as_2_separate_apps_on/</link>
+      <description><![CDATA[我正在构建一个应用程序，我的根目录有“frontend”和“backend”目录，每个目录都有一个 package.json。git repo 适用于根目录中的这两个目录。为了在 heroku 上部署，我知道我需要一个带有根目录中 heroku 的“说明”的 procfile。但是，这些说明对于前端和后端应用程序显然会有所不同。但我想通过将 heroku 与 github repo 连接起来进行部署。如果从问题中看不出来 - 我是新手。你会建议我怎么做？    提交人    /u/sock_pup   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1el2l1l/how_to_deploy_a_monorepo_as_2_separate_apps_on/</guid>
+      <pubDate>Mon, 05 Aug 2024 23:27:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚发布了 Power Plant — 一个基于官方 ECMAScript 装饰器规范构建的小型依赖注入框架。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1el01ma/i_just_released_power_plant_a_small_dependency/</link>
+      <description><![CDATA[        由    /u/alexmacarthur  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1el01ma/i_just_released_power_plant_a_small_dependency/</guid>
+      <pubDate>Mon, 05 Aug 2024 21:41:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅提出请求是否是测试网站是否瘫痪的好方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ekzla0/is_just_a_request_a_good_way_to_test_if_a_site_is/</link>
+      <description><![CDATA[嗨，我正在尝试制作一个网站启动时间检查器。我尝试使用 playwright 进行设置，但我认为它无法在 nextjs API 中运行。一个请求足以检查网站是否正在运行吗？ 我已经在很多网站上测试过它，只有当网站阻止请求时我才会遇到问题。    提交人    /u/FrancoCanzani   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ekzla0/is_just_a_request_a_good_way_to_test_if_a_site_is/</guid>
+      <pubDate>Mon, 05 Aug 2024 21:22:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>腾讯机器人失控</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ekzk5v/tencent_bots_are_going_haywire/</link>
+      <description><![CDATA[还有其他人的网站，如今腾讯的机器人疯狂地爬行吗？尽管有“no-follow”指令，它们似乎还是卡在了搜索方面。我的 robots.txt 还包含这些链接的禁止模式。  我有一个客户端从 cloudflare 绑定了腾讯 ASN。不过，我认为这不一定是所有主机上的选项。但禁止单个 IP 似乎没有效果……    提交人    /u/johnbburg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ekzk5v/tencent_bots_are_going_haywire/</guid>
+      <pubDate>Mon, 05 Aug 2024 21:21:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>alpine Linux 适合托管吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ekzdol/is_alpine_linux_good_for_hosting/</link>
+      <description><![CDATA[我最近遇到了 Alpine Linux，以及它与其他没有 glibc 和其他 GNU 核心实用程序的 Linux 发行版有何不同。想知道它是在裸机服务器上运行还是作为 VPS 上的容器运行更好    提交人    /u/Aksh247   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ekzdol/is_alpine_linux_good_for_hosting/</guid>
+      <pubDate>Mon, 05 Aug 2024 21:14:19 GMT</pubDate>
+    </item>
     <item>
       <title>处理弹出窗口内的外部链接的最佳做法？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ekz312/best_practices_to_handle_external_links_within/</link>
@@ -22,7 +64,7 @@
     <item>
       <title>您在工作中使用什么后端框架？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ekyt7w/what_backend_framework_do_you_use_at_work/</link>
-      <description><![CDATA[无法拆分其他/显示结果，因为 Reddit 不允许超过六个选择。 查看投票    由   提交  /u/manuLearning   [link] [评论]]]></description>
+      <description><![CDATA[无法拆分其他/显示结果，因为 Reddit 不允许超过六个选择。 查看投票    提交人    /u/manuLearning   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ekyt7w/what_backend_framework_do_you_use_at_work/</guid>
       <pubDate>Mon, 05 Aug 2024 20:51:26 GMT</pubDate>
     </item>
@@ -64,51 +106,9 @@
     <item>
       <title>请推荐适用于印度上市公司徽标的免费 API</title>
       <link>https://www.reddit.com/r/webdev/comments/1ekwo9g/please_recommend_free_api_for_indian_public/</link>
-      <description><![CDATA[嗨，我正在构建一个数据可视化平台，它有助于减少股票市场的学习曲线。  为了使其更具交互性，我需要添加公司徽标，不幸的是 upstox api 不提供该功能。在互联网上，目前的 API 对于来自印度的人来说非常昂贵。  你能帮我吗.. 此致敬意 Keshav     提交人    /u/keshavism   [link] [评论]]]></description>
+      <description><![CDATA[嗨，我正在构建一个数据可视化平台，它有助于减少股票市场的学习曲线。  为了使其更具交互性，我需要添加公司徽标，不幸的是 upstox api 不提供该功能。在互联网上，目前的 API 对于印度人来说非常昂贵。  你能帮我吗.. 此致敬意 Keshav     提交人    /u/keshavism   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ekwo9g/please_recommend_free_api_for_indian_public/</guid>
       <pubDate>Mon, 05 Aug 2024 19:26:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作这个网站收费多少钱？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ekvti9/how_much_would_you_charge_for_making_this_website/</link>
-      <description><![CDATA[      我的表妹创立了她的服装品牌，我建议我可以免费为她创建一个网站，因为我目前失业了。但是，她发来了一些看起来相当复杂的设计参考。现在，我认为这不应该是免费做的事情，因为这样的设计需要花费大量的时间来编写代码。我不想要钱，因为这会给我带来实际经验，但设计网站并不是我非常感兴趣的事情。我的技术栈是 MERN。有没有建议我可以使用哪些库/资源来编写这样的网站？另外，如果必须的话，你会收多少钱？提前谢谢了。    提交人    /u/EcstaticWolverine197   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ekvti9/how_much_would_you_charge_for_making_this_website/</guid>
-      <pubDate>Mon, 05 Aug 2024 18:52:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建一个新的映射集成，我可以使用一些建议！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ekvbin/creating_a_new_mapping_integration_and_i_could/</link>
-      <description><![CDATA[大家好， 我正在与一家拥有大约 4.5k 名客户的公司合作，该公司目前使用 Google My Maps 来标记他们的位置和状态符号以及创建路线。  他们的 CRM 与 API 兼容（它是 Zoho 产品），并且 CRM 中的信息已准备好用于将更新推送到地图。  我的问题是：你们知道这种地图绘制情况有什么好的选择吗？如果您需要路线、跟踪客户位置和状态以及通过 API 进行更改，您会使用什么地图？ 我很乐意回答任何具体问题。     提交人    /u/Dantesdavid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ekvbin/creating_a_new_mapping_integration_and_i_could/</guid>
-      <pubDate>Mon, 05 Aug 2024 18:32:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>TruffleHog 现在可以查找 GitHub 上所有已删除和私人提交 - 上周我们定义了一个新术语，即跨分支对象引用，当一个存储库分支可以访问另一个分支的敏感提交数据时就会发生这种情况。TruffleHog 可以发现所有这些提交并扫描它们以查找机密信息</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ekv47f/trufflehog_now_finds_all_deleted_private_commits/</link>
-      <description><![CDATA[        提交人    /u/magenta_placenta   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ekv47f/trufflehog_now_finds_all_deleted_private_commits/</guid>
-      <pubDate>Mon, 05 Aug 2024 18:24:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>CMV：“语言/框架性能并不重要”是一个无用的说法，也是做出决策的糟糕方式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ekuzmt/cmv_languageframework_performance_doesnt_matter/</link>
-      <description><![CDATA[我想我们都知道所有软件解决方案都有利弊。但我认为这与性能无关紧要的想法相混淆。这让我想起了在其他领域（例如摄影）重复出现的“装备无关紧要”。  这个想法可以更准确地评估为“性能并不重要，直到它变得重要。然后，它就变得非常重要”。当然，20 年前的佳能 5D 在许多情况下可能工作得很好。但当你想捕捉诺亚·莱尔斯冲过终点线时，你最好带上索尼 A9III。同样，我不认为简单地说“是的，Python 有点慢，但性能并不重要”是表达这种细微差别的好方法。 我们中的许多人都在开发 CRUD 应用程序，其中主要瓶颈来自数据库调用和网络请求。但即使我们武断地说这占据了我们说明性性能桶的 80%，这也忽略了其他 10 个桶的存在，你选择的语言在这些桶中占用了更多的容量。 TS 和 Python 不是好的后端语言，但它们是高效的语言。不过诀窍在于：你在生产力上获得的前期提升必须以另一个桶的权衡为代价。而这种权衡通常是内存效率、可扩展性、开发生态系统（例如 JS 开发人员和使用包来处理一切的文化）、footguns、糟糕的构建/依赖管理以及各种其他问题。 是的，你可能永远不需要在每秒可以处理 100k 个请求的规模上进行低级字符串管理，但你可能会受益于在 lambda 中获得更好的冷启动时间。或者获得更好的类型安全性，虽然一开始会减慢您的速度，但可以减少生产错误。 我认为专业编程中存在这种潜在的犹豫，避免说 X 在 Y 方面很糟糕，可能是为了避免惹恼任何人。相反，人们要么说“每个工具都大致相同，只需选择一个”或“X 语言鹰派，选择 Y 因为它不糟糕”。如果我们都同意每种编程语言在某些地方都很糟糕，那么指出这一点真的没问题。我主要是 TS 开发人员，我会第一个说它在性能上很糟糕，但在生产力方面很棒。即使对于新开发人员，我们也应该以一种教会他们评估权衡并选择适合他们用例的工具的方式向他们解释事情。挥手示意消除性能问题只是粉饰太平。 TLDR：请更多细微差别。懒惰的笼统说法对任何人都没有帮助。    提交人    /u/femio   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ekuzmt/cmv_languageframework_performance_doesnt_matter/</guid>
-      <pubDate>Mon, 05 Aug 2024 18:19:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个项目挑战</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ekut58/my_first_project_challenge/</link>
-      <description><![CDATA[我有我的第一个小项目要为某人做，但我不知道该如何将其公开到互联网上。 网站描述：这是一个组织活动的公司的网站，唯一真正重要的部分是首页上按时间顺序排列的活动列表。当您使用该网站时，它基本上是一个静态网站，因为有简单的内容、显示的事件和有关它们的信息，但接下来的部分让我有点困惑。 所以我研究了如何托管东西，我真的很想尝试 netlify，因为它非常适合静态网站，但遗憾的是页面不是完全静态的。需要添加事件，这似乎也可以通过 netlify CMS 实现，但事件也需要能够“过期”。如果某个事件发生在 8 月 10 日，而现在变成了 8 月 11 日，那么该事件当然应该自动从页面中删除。这部分似乎无法通过 netlify 实现，所以现在我需要进一步研究，但有很多选择，我不确定对于一个带有 cms 系统的简单网站来说什么是一个好的选择（我不介意自己做这个，更重要的是能够将它托管在某个东西上，然后我猜它也需要一个数据库）。  你会给小型自由职业者推荐什么，你过去用过什么？提前谢谢了！    提交人    /u/FenrirBestDoggo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ekut58/my_first_project_challenge/</guid>
-      <pubDate>Mon, 05 Aug 2024 18:12:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>AG-Grid 首席执行官兼创始人在直升机坠毁事故中丧生</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ekuoik/the_ceo_and_founder_of_aggrid_is_killed_in_a/</link>
-      <description><![CDATA[我已经使用这个数据网格库很长时间了。这是个悲伤的消息。 https://www.bbc.com/news/articles/ceqd3v886vno https://blog.ag-grid.com/in-memory-of-niall-crosby    提交人    /u/Schubert142   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ekuoik/the_ceo_and_founder_of_aggrid_is_killed_in_a/</guid>
-      <pubDate>Mon, 05 Aug 2024 18:07:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
