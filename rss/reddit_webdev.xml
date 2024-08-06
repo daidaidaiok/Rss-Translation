@@ -4,11 +4,39 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Tue, 06 Aug 2024 12:09:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 15:07:36 GMT</lastBuildDate>
+    <item>
+      <title>我该如何解决这个问题？我不想让文本出现在网站上其他网页的链接下方</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eljtzu/how_do_i_fix_this_i_dont_want_the_text_to_go/</link>
+      <description><![CDATA[      这是我正在制作的一个实验性网站，我不知道如何解决这个问题。我希望文本“拥抱”链接并绕过它们。    提交人    /u/Alexs1897   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eljtzu/how_do_i_fix_this_i_dont_want_the_text_to_go/</guid>
+      <pubDate>Tue, 06 Aug 2024 14:52:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 r/webdev 和 r/freelance 之间有如此大的区别</title>
+      <link>https://www.reddit.com/r/webdev/comments/1elje58/why_theres_such_a_difference_between_rwebdev_and/</link>
+      <description><![CDATA[我周六在这里发布了我的网站，大家非常喜欢，我从来没想到大家会这么喜欢，我得到了 30 多张赞成票。昨天我在 r/freelance 上发布了它，我收到了 20 多条评论，但没有人赞成，那里的人非常讨厌它，他们建议更改文本、颜色、图像等，但我不明白，他们也是 Web 开发人员，在这里也是如此，为什么我的网站在这里受到喜爱，在那里却不受人喜欢？是的，我的标题是吐槽我的网站，但在这里我也征求了反馈，他们比我们更了解客户吗？    提交人    /u/Namenottakenno   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1elje58/why_theres_such_a_difference_between_rwebdev_and/</guid>
+      <pubDate>Tue, 06 Aug 2024 14:35:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 Web 脚本注入的快速问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1elily4/quick_question_on_web_script_injections/</link>
+      <description><![CDATA[嘿， 我在 Windows 上使用 Opera 浏览器。 假设有一个带图片的网页，除了右键单击、单击另存为，然后在弹出窗口中按回车键外，没有其他方法可以下载图片。我在考虑两件事：  一个脚本/注入器，我可以将它绑定到一个键/鼠标上，当我按下它时，只需单击 1 次即可下载图像。 一个脚本/注入器，它添加了一个类似于下载按钮的 Web 元素，如果我按下它，它就会下载图像。  （在后台，这些脚本基本上应该使用页面的资源来访问页面的原始文件，而不仅仅是下载缩小的预览/缩略图） 我该怎么做，这可能吗？ （仅供参考，这只是想法，我对网络开发和脚本根本不了解）    提交人    /u/markedone66   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1elily4/quick_question_on_web_script_injections/</guid>
+      <pubDate>Tue, 06 Aug 2024 14:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>离开 DevOps 领域几年了，现在发布应用程序的可靠方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1elg7qo/been_out_of_the_devops_space_a_few_years_what_is/</link>
+      <description><![CDATA[如果您要启动一个需要 Web 服务器、SQL 数据库、Redis 和 Worker 的应用程序，并且该项目具有严肃的意图，那么您将使用哪种部署配置来专注于将成本保持在最低水平，但具有自动扩展支持？ 任何东西都可以，无论是云编排还是 Docker，什么都可以。 感兴趣的人可以看看背景故事：5 年前，我曾经为 2 家初创公司运行 DevOps，我们做了我讨厌的 Cloudformation，Beanstalk 很难调试，所有 AWS 似乎都非常昂贵。在我最辉煌的 DevOps 时代，当我们拥有一个带有机架的 NOC 时，它变得非常容易，从长远来看也更便宜，现在我感觉自己完全不了解云的东西。我会学习更便宜/更简单的东西，我一直听说人们使用 ECS 而不是 Beanstalk，希望得到一些指导。     由    /u/IAmRules 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1elg7qo/been_out_of_the_devops_space_a_few_years_what_is/</guid>
+      <pubDate>Tue, 06 Aug 2024 12:16:04 GMT</pubDate>
+    </item>
     <item>
       <title>Cookie 同意问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1elfug2/cookie_consent_questions/</link>
-      <description><![CDATA[（这应该是一个相当简单的问题，但经过一番搜索，我还是找不到简单的答案）： 我在网上找到的所有 cookie 同意示例和样板似乎都有接受/拒绝按钮，而拒绝按钮什么都不做。 但是，让我们以一个需要 cookie 才能运行的网站为例。会话 cookie，是的，我知道这些不需要同意。但是，像 Google 分析这样基本的东西，我猜甚至第三方登录都需要同意。 所以我的问题是，如果用户点击拒绝，而网站什么都不做，会发生什么？从技术上讲，该网络应用是否不符合要求？ 在这种情况下，有接受和拒绝按钮有什么意义呢？只有一个“确定”不是更好吗？按钮并提及类似“如果您不同意，请勿使用本网站”之类的内容（类似于条款和条件）？ 但是，我认为上述内容也不符合 GDPR 规定，例如：“...访问服务和功能不得以用户同意为条件...（所谓的 cookie 墙）”在指南中。 因此，在这种情况下，我想知道...当用户拒绝 cookie 时，web 应用程序究竟会做什么/应该做什么？只是不加载（比如说）分析脚本？在加载脚本之前等待 cookie 同意“接受”？这如何与第三方登录（例如 Auth0）一起工作？ 如果用户完全忽略 cookie 同意，既不点击“接受”也不点击“拒绝”，应该有什么行为？那么，您是否会避免将 Google Analytics / Facebook 像素加载到页面上？在这种情况下，像 auth0 这样的第三方登录（应该）如何工作（如果有的话）？    提交人    /u/anonperson2021   [link] [评论]]]></description>
+      <description><![CDATA[（这应该是一个相当简单的问题，但我搜索了好久都没找到简单的答案）： 如果用户点击拒绝或完全忽略 cookie 同意，每个使用 Google Analytics 的网站会做什么？ 我在网上找到的所有 cookie 同意示例和样板似乎都有接受/拒绝按钮，而拒绝按钮什么都不做。 但是，让我们以一个需要 cookie 才能工作的网站的用例为例。会话 cookie，是的，我知道这些不需要同意。但是，像 Google Analytics 这样的基本功能，我猜甚至第三方登录都需要同意。 所以我的问题是，如果用户点击拒绝或忽略，而网站仍然加载分析脚本，会发生什么？从技术上讲，该网络应用是否不合规？ 在这种情况下，设置接受和拒绝按钮有什么意义呢？只显示一个“确定”按钮并提及“如果您不同意，请勿使用本网站”之类的内容（类似于条款和条件）不是更好吗？ 但是，我认为上述内容也不符合 GDPR 规定，例如：指南中写道：“... 访问服务和功能不得以用户同意为条件...（所谓的 Cookie 墙）”。 因此，在这种情况下，我想知道... 当用户拒绝 Cookie 时，Web 应用程序究竟会做什么/应该做什么？只是不加载（比如说）分析脚本？在加载脚本之前等待 Cookie 同意“接受”？这如何与第三方登录（例如 Auth0）一起工作？ 如果用户完全忽略 cookie 同意，既不点击“接受”也不点击“拒绝”，应该有什么行为？那么，您是否会避免将 Google Analytics / Facebook 像素加载到页面上？在这种情况下，像 auth0 这样的第三方登录（应该）如何工作（如果有的话）？（或者那些是豁免的，被认为是必不可少的？）    提交人    /u/anonperson2021   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1elfug2/cookie_consent_questions/</guid>
       <pubDate>Tue, 06 Aug 2024 11:57:28 GMT</pubDate>
     </item>
@@ -25,13 +53,6 @@
       <description><![CDATA[我知道缓存是什么以及它是如何工作的，但我不确定何时缓存某些内容以及应该缓存哪种数据。 或者我应该将哪种类型的缓存数据保留在内存中以及应该将哪些数据缓存为文件。 以这个为例。这是一个简单的笔记应用程序。我是否应该在用户每次保存笔记时都缓存他们的笔记，还是根本不应该使用缓存？    提交人    /u/mekmookbro   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1elfnjh/how_do_you_decide_what_to_cache/</guid>
       <pubDate>Tue, 06 Aug 2024 11:47:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们构建聊天机器人后，客户不再理睬我们——现在以极低的价格出售代码！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1elfhr7/client_ghosted_us_after_we_built_a_chatbot_now/</link>
-      <description><![CDATA[大家好， 我想分享一下我们最近经历的一次充满挑战的经历，看看是否有人会对由此产生的机会感兴趣。 不久前，一位客户找到我们，希望我们根据他们的需求定制一款聊天机器人。我们全心全意地投入到这款机器人的开发中，投入了大量的时间和资源。不幸的是，在完成大部分工作后，客户却没有支付 2 万美元的最后款项就消失了。这很艰难，尤其是在我们付出了这么多努力，我还得支付薪水之后。 为了不让所有的辛苦工作白费，为了收回部分成本，我希望将这款聊天机器人卖给任何可能觉得它有用的人。它具有与 Tidio 相当的功能，以下是其中的一些亮点：  机器人构建器（与 Tidio 非常相似） 通过文件或 URL 的知识库 ChatGPT 集成 类似 HubSpot 的 CRM 集成 与 WhatsApp、Instagram 和 Facebook Messenger 集成的统一收件箱  您可以在此处找到详细的功能列表：详细功能。 您将获得在商业上使用聊天机器人的全部权利。我的目标是以每人 2500 美元的价格出售，但价格可以商量。 如果您感兴趣或有任何疑问，请告诉我。您的支持对帮助我们从这种情况中恢复过来意义重大。    提交人    /u/AnabelBain   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1elfhr7/client_ghosted_us_after_we_built_a_chatbot_now/</guid>
-      <pubDate>Tue, 06 Aug 2024 11:38:55 GMT</pubDate>
     </item>
     <item>
       <title>如何将项目转移给客户</title>
@@ -53,13 +74,6 @@
       <description><![CDATA[      大家好， 有外部人员告诉我，我们的网站看起来不专业，导致缺少惯例。 你的真实看法是什么？ 我喜欢给予，而不仅仅是接受。如果您需要我对您的网站提出意见，请随意附上您的图片。 https://preview.redd.it/vlndhyisp0hd1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=77eb8e5af082fdc54b84ced3582dba86b2a6f0ee    提交人    /u/alessiomavica   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ele0pr/a_person_told_me_my_website_doesnt_look/</guid>
       <pubDate>Tue, 06 Aug 2024 10:12:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个拥有 50k+ 反向链接但不再被 Google 索引的域名有多大价值（或没多大价值）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eld9dy/how_valuable_or_not_valuable_is_a_domain_with_50k/</link>
-      <description><![CDATA[反向链接来自高权威网站。我自己几乎不可能获得它们，至少在任何合理的价格下都不可能。 我的想法是在收购后将我的商业网站转移到这个域名。 我有机会购买具有这些参数的域名。 我想确定它是否值得花钱，如果值得，多少钱？ 卖家要价 5 万美元    提交人    /u/lucgagan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eld9dy/how_valuable_or_not_valuable_is_a_domain_with_50k/</guid>
-      <pubDate>Tue, 06 Aug 2024 09:23:04 GMT</pubDate>
     </item>
     <item>
       <title>我想要 ipad 上的 chrome devtools</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好。 我是一名 3 岁的软件工程师，最近对产品相关的角色着迷。别误会我的意思，我确实喜欢技术，但只是不想再当工程师了。 我一直在研究产品管理角色包括哪些内容，我发现这非常有趣。 有人转行了吗？如果有，你面临的挑战是什么。你需要学习哪些技能？ 我唯一担心的是我必须从零开始。 谢谢！很想听听任何见解。    提交人    /u/AgreeableBite6570   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1elc54u/has_anyone_switched_from_an_engineering_role_to_a/</guid>
       <pubDate>Tue, 06 Aug 2024 08:05:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解领先科技公司算法的来源</title>
-      <link>https://www.reddit.com/r/webdev/comments/1elb96c/sources_to_learn_leading_tech_companies_algorithms/</link>
-      <description><![CDATA[Google 以其著名的 Page Rank 算法而闻名。Google Docs 和 Drive 有其同步算法。Netflix 有其推荐算法。可口可乐和其他供应商选择技术有其旅行商算法。你们能告诉我各行各业的领先公司还有哪些这样的实际应用和算法吗？也请提供编制此列表的来源。我只想了解这些算法背后的逻辑，而不是正确的代码。    提交人    /u/Nice-Dirt-link   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1elb96c/sources_to_learn_leading_tech_companies_algorithms/</guid>
-      <pubDate>Tue, 06 Aug 2024 07:06:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在还有人真的使用 Angular 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1elapzu/does_anyone_really_use_angular_anymore/</link>
-      <description><![CDATA[我团队中的每个人都执意要使用 React，我不知道，我个人觉得它更令人困惑。Angular 感觉就像普通的 HTML，带有一些有用的 Java 类类，我喜欢它。更不用说我们来自一个与 angular 非常相似的 Aurelia 应用程序，所以我试图向团队解释，它的学习曲线较低。但遗憾的是，我被整个团队否决了    提交者    /u/Traditional_Hat_915   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1elapzu/does_anyone_really_use_angular_anymore/</guid>
-      <pubDate>Tue, 06 Aug 2024 06:32:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
