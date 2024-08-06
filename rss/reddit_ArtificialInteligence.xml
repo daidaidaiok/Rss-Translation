@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 06 Aug 2024 00:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 03:05:15 GMT</lastBuildDate>
+    <item>
+      <title>国务卿要求伊隆·马斯克阻止 Grok AI 机器人传播选举谎言</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1el4oak/secretaries_of_state_tell_elon_musk_to_stop_grok/</link>
+      <description><![CDATA[尽管人们喜欢关注开放式人工智能的安全性，但我们应该这样做，这在很大程度上分散了我们对其他人工智能公司的注意力，这些公司正在积极利用人工智能做有害的事情。人们真的关心安全吗？还是只关心开放式人工智能的人工智能安全？这似乎有点奇怪，当 Sam Altman 呼吸不顺时，新闻并没有像往常一样大肆报道。  https://www.huffpost.com/entry/secretaries-of-state-elon-musk-stop-ai-grok-election-lies_n_66b110b9e4b0781f9246fd22/amp    提交人    /u/QueenofWolves-   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1el4oak/secretaries_of_state_tell_elon_musk_to_stop_grok/</guid>
+      <pubDate>Tue, 06 Aug 2024 01:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助 POC 进行采访综合</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1el48t8/help_with_poc_for_interview_synthesis/</link>
+      <description><![CDATA[我想使用相对大量的公司访谈数据作为参考，并使用生成工具对转录和笔记进行综合和分析。  有没有关于工具的指导，可以以最低的成本或没有前期成本来证明这一点？  有没有关于平台的建议，可能最适合大规模执行此操作？     提交人    /u/tealdric   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1el48t8/help_with_poc_for_interview_synthesis/</guid>
+      <pubDate>Tue, 06 Aug 2024 00:43:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 生成了一条时间线，构建了一个黑暗但现实的科幻场景，讲述了超级人工智能的崛起</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1el41id/chatgpt_generated_a_timeline_to_worldbuild_a_dark/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1el41id/chatgpt_generated_a_timeline_to_worldbuild_a_dark/</guid>
+      <pubDate>Tue, 06 Aug 2024 00:34:06 GMT</pubDate>
+    </item>
     <item>
       <title>哪种 Ai 适合设计产品包装？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1el25bu/which_ai_is_good_for_designing_product_packaging/</link>
@@ -20,32 +41,11 @@
       <pubDate>Mon, 05 Aug 2024 22:21:10 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能与汤姆·克鲁斯一起重塑复仇者联盟</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1el0n38/ai_reimagines_the_avengers_with_tom_cruise/</link>
-      <description><![CDATA[一段由粉丝制作的病毒式预告片重新构想了复仇者联盟，其中包括汤姆·克鲁斯和约翰尼·德普等 90 年代的标志性明星。 这部使用人工智能创建的预告片展示了汤姆·克鲁斯饰演的钢铁侠和约翰尼·德普的另一个重要角色，将 90 年代的电影美学与漫威电影宇宙 (MCU) 概念融合在一起。这个富有想象力的项目引起了广泛关注，突显了如果 MCU 是在 20 世纪 90 年代创建的，这些演员可能会如何塑造 MCU。 https://vm.tiktok.com/ZIJnodsrT/    提交人    /u/luissousa28   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1el0n38/ai_reimagines_the_avengers_with_tom_cruise/</guid>
-      <pubDate>Mon, 05 Aug 2024 22:05:58 GMT</pubDate>
-    </item>
-    <item>
       <title>尽管存在拼写错误问题，但仍有在排版中有效使用人工智能的想法</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ekzdlm/ideas_for_efficiently_using_ai_in_typography/</link>
       <description><![CDATA[大家好 r/ArtificialIntelligence 社区， 我最近制作了一个视频，探讨了在排版中有效使用 AI 的方法，尽管目前 AI 在文本生成和拼写方面存在局限性。  在视频中，我讨论了三种主要的解决方法：  将 AI 生成的图标集成到字母形状中 为自定义排版创建互补的 AI 背景 使用 AI 生成的纹理和效果变形字母形式  我还谈到了 AI 在排版中的潜在未来，建议 AI 公司应该将字体作为其算法的原材料。 我认为这些想法可能与有关实际 AI 应用和当前局限性的讨论有关。如果这里不适合发布此内容，我很乐意删除该帖子。 您可以在此处查看完整视频：https://youtu.be/yio0XtbpBwQ 我很乐意听听您对这些解决方法的看法，以及您可能有的任何其他关于提高 AI 在排版和视觉设计方面的表现的想法。    提交人    /u/Svelte-Coder   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ekzdlm/ideas_for_efficiently_using_ai_in_typography/</guid>
       <pubDate>Mon, 05 Aug 2024 21:14:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁会赢？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ekxr05/who_will_win/</link>
-      <description><![CDATA[是在未来，而不是现在。我相信 Gemini 可能会占据领先地位。它的表现已经非常出色了一段时间，随着 Gemini 1.5 Flash 的推出，它变得更加令人印象深刻。此外，人们普遍认为 Google 搜索优于 Bing。不过，我很想听听你对此事的看法。 查看投票    由   提交  /u/SaiCraze   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ekxr05/who_will_win/</guid>
-      <pubDate>Mon, 05 Aug 2024 20:09:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>嗓音</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ekximb/voice/</link>
-      <description><![CDATA[嘿，我需要为大学做一个项目，我想用一些名人的声音。你知道有什么网站或其他东西可以用来创建声音吗？    提交人    /u/Electronic-Reading25   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ekximb/voice/</guid>
-      <pubDate>Mon, 05 Aug 2024 20:00:03 GMT</pubDate>
     </item>
     <item>
       <title>大型 2：Mistral 推出的免费 G​​PT-4 竞争对手：以下是概要</title>
@@ -62,11 +62,11 @@
       <pubDate>Mon, 05 Aug 2024 18:41:26 GMT</pubDate>
     </item>
     <item>
-      <title>Whisper-Medusa：使用多个解码头，速度提高 1.5 倍</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1eks3gp/whispermedusa_uses_multiple_decoding_heads_for/</link>
-      <description><![CDATA[一位 AI 研究人员发帖，描述了他们的团队如何对 OpenAI 的 Whisper 模型架构进行修改，从而使速度提高了 1.5 倍，同时准确率相当。这一改进是使用多头注意力机制（因此称为 Medusa）实现的。该帖子概述了 Whisper 的架构，并详细解释了实现速度提升的方法： https://medium.com/@sgl.yael/whisper-medusa-using-multiple-decoding-heads-to-achieve-1-5x-speedup-7344348ef89b GitHub repo：https://github.com/aiola-lab/whisper-medusa Hugging Face：https://huggingface.co/aiola/whisper-medusa-v1    由   提交  /u/MeltingHippos   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1eks3gp/whispermedusa_uses_multiple_decoding_heads_for/</guid>
-      <pubDate>Mon, 05 Aug 2024 16:24:07 GMT</pubDate>
+      <title>AGI 出现后，美国的生活是否会变得更好/更容易？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ekspfu/will_life_in_the_usa_get_significantly/</link>
+      <description><![CDATA[您认为 AGI 出现后生活会变得更加轻松吗？您觉得什么时候会注意到这种影响？我在想一些事情，比如不再需要工作，用机器人来打扫/维护房屋，更多地关注休闲/享受生活。     提交人    /u/ImpossibleFortune   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ekspfu/will_life_in_the_usa_get_significantly/</guid>
+      <pubDate>Mon, 05 Aug 2024 16:48:36 GMT</pubDate>
     </item>
     <item>
       <title>基于人工智能的代理，它们对手动工作流程和传统团队有何影响？</title>
