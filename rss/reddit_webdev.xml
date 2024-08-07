@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 07 Aug 2024 00:20:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 03:06:58 GMT</lastBuildDate>
+    <item>
+      <title>GitHub Copilot 工作区评论</title>
+      <link>https://www.reddit.com/r/webdev/comments/1em18gf/github_copilot_workspace_review/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1em18gf/github_copilot_workspace_review/</guid>
+      <pubDate>Wed, 07 Aug 2024 03:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>刷新多 iframe 页面，以及一般的“最佳实践”问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1em03xg/refreshing_multiiframe_pages_and_a_general/</link>
+      <description><![CDATA[我正在构建一个网站，使用 div 设置总体布局，并使用 iframe 允许一个 div 的链接指向页面上的另一个 div。 这是一个简单的垂直布局，从上到下，有“菜单”、“内容”和“页脚”div，每个 div 里面都有一个名称相似的 iframe。 但是，我发现，当我点击菜单 iframe 中指向内容 iframe 的“注册”链接时，“signup.php”页面加载没有问题。但是，如果我刷新页面，它会重新加载整个页面，将内容 iframe 踢回到开始“main.php”页面。 我的问题是-   有没有办法让内容 iframe 保留正在显示的 PHP 文件，并使其在页面刷新后继续存在？我尝试了几种方法来表达谷歌查询，但尚未找到解决我问题的答案。我看到的大多数答案都涉及自动刷新 div。 我是否使用了正确的工具来完成这项工作（div 内的 iframe）？同时，我目前没有计划在我的网站中加载任何外部内容，这可能会在未来发生变化。无论哪种方式，我都试图尽可能地坚持 KISS 方法。  感谢您对我的问题的任何帮助！    提交人    /u/schmoopified   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1em03xg/refreshing_multiiframe_pages_and_a_general/</guid>
+      <pubDate>Wed, 07 Aug 2024 02:10:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nextjs + firebase</title>
+      <link>https://www.reddit.com/r/webdev/comments/1elycyr/nextjs_firebase/</link>
+      <description><![CDATA[嗨！我计划制作一个类似企业的应用程序。该应用程序将分为两个部分。1. 用户可以浏览 xy，每个 xy 都会有一个需要 SEO 的不同网站，这就是我想要使用 Next.js 的原因。这里可以进行一些基本的过滤。2. 管理员可以发布 xy 的界面。管理员需要实时数据，因为 xy 可能包括日程安排。 所以我需要身份验证、实时数据和搜索引擎优化。还需要电子邮件、短信和付款。 我想知道 Next.js 和 firebase 之类的东西是否至少对于开始时来说是一个合适的堆栈。 我会使用 nextjs + firebase 函数 + firebase 身份验证 + firestore。 你们认为对于拥有大量用户的网站来说，这是一个很好的开始吗？有什么需要更改或重新考虑的吗？    提交人    /u/zocsen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1elycyr/nextjs_firebase/</guid>
+      <pubDate>Wed, 07 Aug 2024 00:47:07 GMT</pubDate>
+    </item>
     <item>
       <title>将文字置于视频之上</title>
       <link>https://www.reddit.com/r/webdev/comments/1elxory/put_text_over_video/</link>
@@ -13,18 +34,18 @@
       <pubDate>Wed, 07 Aug 2024 00:15:43 GMT</pubDate>
     </item>
     <item>
+      <title>从零开始的学习管理系统 (LMS)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1elxi7f/learning_management_system_lms_from_scratch/</link>
+      <description><![CDATA[大家好！我是一家在线学习公司的联合创始人，我们刚刚收到一笔资金，用于构建一个新的、定制的 LMS（而不是使用商业的现成的 LMS）。我们正在开始从开发公司获取报价，但在开始之前，我们想知道是否有人大致知道这个项目要花多少钱/我们应该支付多少钱？ 此外，我有一个研究预算，所以如果有人愿意在线上见面并回答一些问题，我很乐意付钱给某人，以换取他们的时间和专业知识。 非常感谢您的帮助或指导！    提交人    /u/luna_muna_12   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1elxi7f/learning_management_system_lms_from_scratch/</guid>
+      <pubDate>Wed, 07 Aug 2024 00:07:29 GMT</pubDate>
+    </item>
+    <item>
       <title>授权帮助</title>
       <link>https://www.reddit.com/r/webdev/comments/1elxeu8/help_with_auth/</link>
       <description><![CDATA[我正在设计一个带有 FastAPI（Python）后端的小型 Web 应用程序。在处理身份验证方面我有点迷茫。唯一支持的身份验证将是用户名密码。没有 SSO 恶作剧。我知道首选答案是使用像 Supabase 这样的服务，但我想自行托管整个解决方案。我可以使用哪些解决方案来提供数据库和用户管理前端面板？我知道 Django，但我也不打算使用它。我真的不想手动进行自己的身份验证，因为那会很乏味，而且会重新发明轮子。 此外，我应该使用什么来处理正在进行的会话？我不仅需要保留会话记录，还需要限制用户每分钟可以发送的请求数。我考虑过 Redis，但考虑到它是单线程的，我对它的可扩展性有点担心。有没有更久经考验的解决方案？    提交人    /u/Mycroft2046   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1elxeu8/help_with_auth/</guid>
       <pubDate>Wed, 07 Aug 2024 00:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我愿意付钱请人帮我完成一个项目（html/css/js）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1elwgwp/im_willing_to_pay_someone_to_complete_a_project/</link>
-      <description><![CDATA[大家好， 我正在做一个项目，你知道吗，它真的变得很麻烦。所以我在找一个可以帮我完成的人，我会付钱。 我只需要完成“登陆页面”，我已经完成了项目的 30%。所以对于中级开发人员来说，这应该不是一项长期的任务，但你必须非常了解 html、css（vanilla css，我正在使用 sass）和 js。这就是我正在做的。 如果有人感兴趣，请联系我。    提交人    /u/tangoldenboxing   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1elwgwp/im_willing_to_pay_someone_to_complete_a_project/</guid>
-      <pubDate>Tue, 06 Aug 2024 23:21:19 GMT</pubDate>
     </item>
     <item>
       <title>为你的朋友建立作品集网站的技巧？</title>
@@ -50,7 +71,7 @@
     <item>
       <title>我的公司正在考虑使用 NoSQL 数据库作为数据库的关键部分，这是否有意义？我们应该使用哪一个？</title>
       <link>https://www.reddit.com/r/webdev/comments/1elsd5d/my_company_is_thinking_of_using_a_nosql_database/</link>
-      <description><![CDATA[我们有一个端点可以做很多事情，其中​​之一就是查询 postgres 中具有数百万行的表。这个表已经存在冲突，它是根据其他数据库中其他表的数据创建的，只是为了加快此过程，而且显然该表经常被完全删除，并通过 cron 作业重建（我稍后会研究那里发生了什么）。此外，用于查询此表的列未编入索引。 但是，该端点足以满足日常使用，问题是我们与销售部门合作，这是一个用于每次销售的端点，我们与大型商店合作。当然，他们在上次网络日（几个月前）遇到了问题，我不在公司，但他们告诉我，除了由于他们进行的水平扩展而出现的并发问题外，他们到处都遇到了超时问题，但那是另一个问题。此外，由于预算原因，我们将所有数据库都放在同一个 AWS RDS 集群上，使用相同的资源（我们也必须考虑这一点），因此如果某个东西崩溃，其他一切都会崩溃，公司管理员、销售处理等。 所以，他们现在想要做的是分离这部分操作，特别是这个端点和它使用的数据，这样它就不会影响其他一切，同时又具有高可用性。 我们认为在这种情况下使用 nosql 数据库会很好，首先因为它减轻了来自 sql 数据库的一些负载，它提供了更高的可用性，并且读取速度更快（这种情况确实是读取密集型的）。我理解同时使用 nosql 数据库和 sql 数据库会产生很多问题，比如必须不断同步 nosql 数据库、处理数据不一致等，但我们使用的表已经存在这些问题。 另外，是的，我知道我们的架构有很多需要改进的地方，我们正在努力改进，考虑不同的想法。我们正在研究每个主要流程以了解如何改进它，现在我们需要决定是否要在这种情况下使用 nosql 数据库。我知道我们可以立即做一些事情来改善当前情况，比如使用索引，但即便如此，我们可能仍然需要 nosql 数据库或其他东西。 你怎么看？在这种情况下，哪种 nosql 数据库是最佳选择？考虑一下我们将来可能也会在其他读取密集型的情况下使用它。    提交人    /u/leinad41   [链接] [评论]]]></description>
+      <description><![CDATA[我们有一个端点可以做很多事情，其中​​之一就是查询 postgres 中具有数百万行的表。这个表已经存在冲突，它是根据其他数据库中其他表的数据创建的，只是为了加快此过程，而且显然该表经常被完全删除，并通过 cron 作业重建（我稍后会研究那里发生了什么）。此外，用于查询此表的列未编入索引。 但是，该端点足以满足日常使用，问题是我们与销售部门合作，这是一个用于每次销售的端点，我们与大型商店合作。当然，他们在上次网络日（几个月前）遇到了问题，我不在公司，但他们告诉我，除了由于他们进行的水平扩展而出现的并发问题外，他们到处都遇到了超时问题，但那是另一个问题。此外，由于预算原因，我们将所有数据库都放在同一个 AWS RDS 集群上，使用相同的资源（我们也必须考虑这一点），因此如果某个东西崩溃，其他一切都会崩溃，公司管理员、销售处理等。 所以，他们现在想要做的是分离这部分操作，特别是这个端点和它使用的数据，这样它就不会影响其他一切，同时又具有高可用性。 我们认为在这种情况下使用 nosql 数据库会很好，首先因为它减轻了来自 sql 数据库的一些负载，它提供了更高的可用性，并且读取速度更快（这种情况确实是读取密集型的）。我理解同时使用 nosql 数据库和 sql 数据库会产生很多问题，比如必须不断同步 nosql 数据库、处理数据不一致等，但我们使用的表已经存在这些问题。 另外，是的，我知道我们的架构有很多需要改进的地方，我们正在努力改进，考虑不同的想法。我们正在研究每个主要流程以了解如何改进它，现在我们需要决定是否要在这种情况下使用 nosql 数据库。我知道我们可以立即做一些事情来改善当前的情况，比如使用索引，但即便如此，我们可能仍然需要 nosql 数据库或其他东西。 你怎么看？在这种情况下，哪种 nosql 数据库是最佳选择？考虑一下我们将来可能也会在其他读取密集型的情况下使用它。 编辑：请不要再说我需要索引了，此时已经有足够多的人这么说了。我们会这样做的。    提交人    /u/leinad41   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1elsd5d/my_company_is_thinking_of_using_a_nosql_database/</guid>
       <pubDate>Tue, 06 Aug 2024 20:31:40 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[嗨，webdevs， 我有一个关于不寻常情况的问题，我很好奇其他人是否经历过类似的事情，以及您或您的团队如何处理这个问题。  我在一个小部门（6 名团队成员）工作，技术上属于营销部门。我们管理公司的网站。我们其中 3 人是 Web 开发人员，另外 3 人是营销人员。最近我注意到营销人员经常想进入网站并对页面进行更改，主要是内容方面，但这引起了一些问题。   他们不太了解 html 他们不太了解 css 他们对现代 Web 概念一无所知  我们的新技术堆栈是 .net core MVC + api 路由。我们最近重新设计了网站，该网站使用 asp vb.net 和 shtml 页面，并且经常包含从...dreamweaver 模板生成的 html。（这里的开发人员都不知道 vb.net，当我被聘用时，我被告知技术是 C# MVC） 对于新设计，他们无法掌握模板化某些组件的重要性。我还推动为网站的文章部分开发或实施 CMS，该部分专门用于 SEO，不用于其他任何用途。我被拒绝了，所以我们选择使用 JSON 系统来处理页面内容并将其呈现到模板中。我知道这基本上只是一个非常基本的 CMS 系统。他们不断抱怨现在必须读取 JSON，并且抱怨要更改页面，他们可能必须打开 3 个文件而不是一个。  所以基本上我只是想知道，你们中有多少人必须在非开发人员编辑 HTML 并对网站进行更改的团队中工作。这是一种常见情况吗？如果您在这种情况下工作过，您是如何处理工作的？    提交人    /u/d0rf47   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1elofm8/nondevelopers_in_team_required_to_update_html_css/</guid>
       <pubDate>Tue, 06 Aug 2024 17:55:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人能推荐一个可以列出项目中使用的所有颜色的工具吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1elo93t/can_anyone_suggest_a_tool_that_would_list_all_the/</link>
-      <description><![CDATA[我迷失在项目中的几十种灰色阴影中。 我想要一个 CLI (?) 工具来扫描项目并列出使用的所有颜色、它们的外观以及使用频率。 有这样的东西吗？    提交人    /u/punkpeye   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1elo93t/can_anyone_suggest_a_tool_that_would_list_all_the/</guid>
-      <pubDate>Tue, 06 Aug 2024 17:48:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 markdown 文章页面中显示 PDF 文件/指南类型内容的最优雅方式是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1elo596/what_would_be_the_most_elegant_way_to_display_a/</link>
-      <description><![CDATA[因此，我使用 Astro 为一个大学项目建立了一个旅游网站，它旨在收集大量关于城市周边景点等的书面文章，因此文章页面从自动提交的 markdown 文件中提取其内容、slug 等。但是，有些作者提交了指南风格的 PDF 文件，旨在像书一样阅读。 现在我只使用带有 &lt;iframe&gt; 的 PDF 查看器，但它看起来有点丑。我尝试了 Issuu 之类的东西，但您必须付费才能发布内容。有没有更好的方法来显示这些类型的东西？或者可能有其他解决方案？    提交人    /u/spookee3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1elo596/what_would_be_the_most_elegant_way_to_display_a/</guid>
-      <pubDate>Tue, 06 Aug 2024 17:44:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>评价我的作品集！我学习和使用 laravel 已经 3 个月了，所以可能有一些过时的代码。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1elnpw3/rate_my_portfolio_im_3_months_into_learning_and/</link>
-      <description><![CDATA[大家好，我创建了我的第一个网站来分享我的作品，也是为了展示我的技能。该网站在网络上运行完美，我只想设计指针。但是，我确实有一个输入文本动画，因为我对 Java 和 Laravel 比较陌生，我不知道如何正确地为移动设备创建一个容器，这样它就不会干扰正常的网络动画。如果您确实遇到了错误，那么聊天和了解一些关于它的事情会很棒，除此之外，请让我知道您的第一印象。我将发布有问题的 Java，它可能有点过时，如果有更好的编码方法，请告诉我。 网站：https://cddesign.co.za/    提交人    /u/Clasuis_C   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1elnpw3/rate_my_portfolio_im_3_months_into_learning_and/</guid>
-      <pubDate>Tue, 06 Aug 2024 17:27:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
