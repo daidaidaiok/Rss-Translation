@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 07 Aug 2024 15:06:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 18:07:25 GMT</lastBuildDate>
     <item>
       <title>醒来 3.0</title>
       <link>https://www.producthunt.com/posts/waking-up-3-0</link>
@@ -20,18 +20,18 @@
       <pubDate>Wed, 07 Aug 2024 05:17:39 GMT</pubDate>
     </item>
     <item>
-      <title>斯波特</title>
-      <link>https://www.producthunt.com/posts/spottr-2</link>
+      <title>轻浮 4.0</title>
+      <link>https://www.producthunt.com/posts/flighty-4-0</link>
       <description><![CDATA[
-视频的真正 Ctrl F
+实时航班跟踪器，提供全球最快延误警报
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/spottr-2</guid>
-      <pubDate>Tue, 06 Aug 2024 19:24:21 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/flighty-4-0</guid>
+      <pubDate>Wed, 07 Aug 2024 04:55:20 GMT</pubDate>
     </item>
     <item>
       <title>Windows 9X</title>
@@ -76,18 +76,18 @@ Windows 98，但所有应用程序都是 AI 生成的
       <pubDate>Tue, 06 Aug 2024 13:56:37 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub 个人资料吐槽</title>
-      <link>https://www.producthunt.com/posts/github-profile-roast</link>
+      <title>文本转信息图</title>
+      <link>https://www.producthunt.com/posts/text2infographic</link>
       <description><![CDATA[
-有建设性地嘲讽你的 GitHub 帐户
+AI 信息图生成器
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/github-profile-roast</guid>
-      <pubDate>Tue, 06 Aug 2024 08:30:43 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/text2infographic</guid>
+      <pubDate>Tue, 06 Aug 2024 02:50:09 GMT</pubDate>
     </item>
     <item>
       <title>营地</title>
@@ -102,20 +102,6 @@ Windows 98，但所有应用程序都是 AI 生成的
 ]]></description>
       <guid>https://www.producthunt.com/posts/campsite-4</guid>
       <pubDate>Mon, 05 Aug 2024 20:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Git Grok 卡</title>
-      <link>https://www.producthunt.com/posts/git-grok-cards</link>
-      <description><![CDATA[
-通过一副奇幻的卡片学习 Git
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/git-grok-cards</guid>
-      <pubDate>Sun, 04 Aug 2024 02:45:29 GMT</pubDate>
     </item>
     <item>
       <title>弗洛斯</title>
@@ -188,6 +174,20 @@ AI 私人教练、卡路里计数器、营养和瑜伽
       <pubDate>Mon, 08 Jul 2024 15:29:26 GMT</pubDate>
     </item>
     <item>
+      <title>此致</title>
+      <link>https://www.producthunt.com/posts/bestregards</link>
+      <description><![CDATA[
+永远无需再支付电子邮件营销订阅费用
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/bestregards</guid>
+      <pubDate>Sat, 27 Apr 2024 07:36:56 GMT</pubDate>
+    </item>
+    <item>
       <title>帕兰斯</title>
       <link>https://www.producthunt.com/posts/palance</link>
       <description><![CDATA[
@@ -205,7 +205,7 @@ AI 私人教练、卡路里计数器、营养和瑜伽
       <title>基普索</title>
       <link>https://www.producthunt.com/posts/kypso-2</link>
       <description><![CDATA[
-产品制造商的 AI 代理
+使用 AI 代理管理团队的工作流程
 
 
 讨论
