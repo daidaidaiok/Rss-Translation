@@ -4,7 +4,77 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 12 Aug 2024 15:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 18:10:38 GMT</lastBuildDate>
+    <item>
+      <title>掌握动态规划：综合指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1eqked3/mastering_dynamic_programming_a_comprehensive/</link>
+      <description><![CDATA[  由    /u/abutun  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eqked3/mastering_dynamic_programming_a_comprehensive/</guid>
+      <pubDate>Mon, 12 Aug 2024 17:51:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Swift 语义搜索演示应用程序，使用 UForm CoreML 后端和 USearch SDK 从相机源进行实时设备上的文本到图像和图像到图像匹配</title>
+      <link>https://www.reddit.com/r/programming/comments/1eqj5tn/swift_semantic_search_demo_app_for_realtime/</link>
+      <description><![CDATA[  由    /u/ashvar  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eqj5tn/swift_semantic_search_demo_app_for_realtime/</guid>
+      <pubDate>Mon, 12 Aug 2024 17:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++17 和并行 STL</title>
+      <link>https://www.reddit.com/r/programming/comments/1eqikd8/c17_and_parallel_stl/</link>
+      <description><![CDATA[  由    /u/Lime_Dragonfruit4244  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eqikd8/c17_and_parallel_stl/</guid>
+      <pubDate>Mon, 12 Aug 2024 16:41:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>建筑师和工程师必须了解的 4 种云消息传递模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1eqi7v8/4_mustknow_cloud_messaging_patterns_for/</link>
+      <description><![CDATA[  由    /u/Nadaralp  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eqi7v8/4_mustknow_cloud_messaging_patterns_for/</guid>
+      <pubDate>Mon, 12 Aug 2024 16:28:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是 QLoRA？：量化 LLM 高效微调的视觉指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1eqi7ig/what_is_qlora_a_visual_guide_to_efficient/</link>
+      <description><![CDATA[  由    /u/ml_a_day  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eqi7ig/what_is_qlora_a_visual_guide_to_efficient/</guid>
+      <pubDate>Mon, 12 Aug 2024 16:27:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经研究编译型编程语言几个月了</title>
+      <link>https://www.reddit.com/r/programming/comments/1eqi6ez/ive_been_working_on_a_compiled_programming/</link>
+      <description><![CDATA[  由    /u/mesyeti_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eqi6ez/ive_been_working_on_a_compiled_programming/</guid>
+      <pubDate>Mon, 12 Aug 2024 16:26:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Seed7 编程语言 2024-08-12 版发布</title>
+      <link>https://www.reddit.com/r/programming/comments/1eqhozl/version_20240812_of_the_seed7_programming/</link>
+      <description><![CDATA[  由    /u/ThomasMertes  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eqhozl/version_20240812_of_the_seed7_programming/</guid>
+      <pubDate>Mon, 12 Aug 2024 16:07:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>思考软件设计模式，但要考虑你的思想和想法——心理模型</title>
+      <link>https://www.reddit.com/r/programming/comments/1eqhk62/think_of_software_design_patterns_but_for_your/</link>
+      <description><![CDATA[  由    /u/dmp0x7c5  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eqhk62/think_of_software_design_patterns_but_for_your/</guid>
+      <pubDate>Mon, 12 Aug 2024 16:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 列表推导：精简编码的艺术</title>
+      <link>https://www.reddit.com/r/programming/comments/1eqgqib/python_list_comprehension_the_art_of_condensed/</link>
+      <description><![CDATA[  由    /u/hack_the_developer  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eqgqib/python_list_comprehension_the_art_of_condensed/</guid>
+      <pubDate>Mon, 12 Aug 2024 15:29:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>JSpecify 1.0.0 和 Java 中的可空性</title>
+      <link>https://www.reddit.com/r/programming/comments/1eqgk9g/jspecify_100_and_nullability_in_java/</link>
+      <description><![CDATA[  由    /u/benevanstech  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eqgk9g/jspecify_100_and_nullability_in_java/</guid>
+      <pubDate>Mon, 12 Aug 2024 15:22:52 GMT</pubDate>
+    </item>
     <item>
       <title>每个人都错误地使用模数</title>
       <link>https://www.reddit.com/r/programming/comments/1eqfwqw/everyone_is_using_modulo_wrong/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[  由    /u/robson_muniz  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1eqctb1/border_animation_css_quick_animation/</guid>
       <pubDate>Mon, 12 Aug 2024 12:47:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Go 和 HTMX 构建 TODO 应用程序 - 第 05 部分 [pt-br]</title>
-      <link>https://www.reddit.com/r/programming/comments/1eqc49k/construindo_uma_todo_app_com_go_e_htmx_parte_05/</link>
-      <description><![CDATA[  由    /u/robsongomes84  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eqc49k/construindo_uma_todo_app_com_go_e_htmx_parte_05/</guid>
-      <pubDate>Mon, 12 Aug 2024 12:14:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个机器学习库，可让您轻松地使用强化学习训练代理。</title>
-      <link>https://www.reddit.com/r/programming/comments/1eqbv5j/a_machine_learning_library_that_allows_you_to/</link>
-      <description><![CDATA[  由    /u/NoteDancing  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eqbv5j/a_machine_learning_library_that_allows_you_to/</guid>
-      <pubDate>Mon, 12 Aug 2024 12:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有流动架构的自适应社会技术系统 • Susanne Kaiser</title>
-      <link>https://www.reddit.com/r/programming/comments/1eqajwz/adaptive_sociotechnical_systems_with_architecture/</link>
-      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eqajwz/adaptive_sociotechnical_systems_with_architecture/</guid>
-      <pubDate>Mon, 12 Aug 2024 10:51:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>TypeScript 添加了 BuiltinIterator、noCheck 等……</title>
-      <link>https://www.reddit.com/r/programming/comments/1eq9h40/typescript_adds_builtiniterator_nocheck_and_more/</link>
-      <description><![CDATA[  由    /u/JollyShopland  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eq9h40/typescript_adds_builtiniterator_nocheck_and_more/</guid>
-      <pubDate>Mon, 12 Aug 2024 09:43:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>采访 LevelUpTutorials 创始人兼 Syntax.fm 播客联合主持人 Scott Tolinski</title>
-      <link>https://www.reddit.com/r/programming/comments/1eq902n/interview_with_scott_tolinski_founder_of/</link>
-      <description><![CDATA[  由    /u/IliasHad  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eq902n/interview_with_scott_tolinski_founder_of/</guid>
-      <pubDate>Mon, 12 Aug 2024 09:11:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>修复数据漏洞的分步指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1eq7c1w/step_by_step_guide_to_remediate_data_vulnerability/</link>
-      <description><![CDATA[  由   提交  /u/CharmingOwl4972   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eq7c1w/step_by_step_guide_to_remediate_data_vulnerability/</guid>
-      <pubDate>Mon, 12 Aug 2024 07:14:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试编译器的感觉如何？</title>
-      <link>https://www.reddit.com/r/programming/comments/1eq71cg/how_does_it_feel_to_test_a_compiler/</link>
-      <description><![CDATA[  由    /u/Zakharenko  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eq71cg/how_does_it_feel_to_test_a_compiler/</guid>
-      <pubDate>Mon, 12 Aug 2024 06:54:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>GIL 在 Python 3.13 中变为可选</title>
-      <link>https://www.reddit.com/r/programming/comments/1eq4vzd/gil_become_optional_in_python_313/</link>
-      <description><![CDATA[  由    /u/python4geeks  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eq4vzd/gil_become_optional_in_python_313/</guid>
-      <pubDate>Mon, 12 Aug 2024 04:41:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>MoonBit 支持 Wasm 组件模型，输出尺寸最小</title>
-      <link>https://www.reddit.com/r/programming/comments/1eq3jlg/moonbit_supports_the_wasm_component_model_with/</link>
-      <description><![CDATA[  由    /u/Gaming_Cookie  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eq3jlg/moonbit_supports_the_wasm_component_model_with/</guid>
-      <pubDate>Mon, 12 Aug 2024 03:26:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>增强 K8s 安全性：SafeLine WAF + Ingress-nginx</title>
-      <link>https://www.reddit.com/r/programming/comments/1eq3d67/supercharge_k8s_security_safeline_waf_ingressnginx/</link>
-      <description><![CDATA[  由   提交  /u/CategorySad5574   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eq3d67/supercharge_k8s_security_safeline_waf_ingressnginx/</guid>
-      <pubDate>Mon, 12 Aug 2024 03:16:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
