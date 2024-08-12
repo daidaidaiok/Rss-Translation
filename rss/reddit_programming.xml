@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 12 Aug 2024 18:10:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 21:05:39 GMT</lastBuildDate>
+    <item>
+      <title>Python 基础知识：有趣的机器学习和 Web 抓取项目 - 直播</title>
+      <link>https://www.reddit.com/r/programming/comments/1eqoguc/python_basics_fun_machine_learning_and_web/</link>
+      <description><![CDATA[  由    /u/drinkincode  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eqoguc/python_basics_fun_machine_learning_and_web/</guid>
+      <pubDate>Mon, 12 Aug 2024 20:30:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>找到两个物体相互适合的方向</title>
+      <link>https://www.reddit.com/r/programming/comments/1eqnydl/finding_the_orientation_that_two_objects_will_fit/</link>
+      <description><![CDATA[最近在考虑一些项目想法，遇到了一个看似非常简单的问题，但我无论如何也想不出比强制执行所有可能组合更好的方法。基本上，我想找到两个 3D 网格彼此适合的方向，对于简单对象来说，这不会太难，但对于复杂的几何图形，我想不出一个算法解决方案。 任何想法都非常感谢！ 为了查看对象是否具有可能的方向，我相信我们可以使用距离图来比较每个对象。    提交人    /u/Ski4life_bike4life   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eqnydl/finding_the_orientation_that_two_objects_will_fit/</guid>
+      <pubDate>Mon, 12 Aug 2024 20:10:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据结构：为数据库提供动力 - 第一部分</title>
+      <link>https://www.reddit.com/r/programming/comments/1eqn5zd/data_structures_that_power_your_database_part_1/</link>
+      <description><![CDATA[  由    /u/InspectionSpirite  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eqn5zd/data_structures_that_power_your_database_part_1/</guid>
+      <pubDate>Mon, 12 Aug 2024 19:40:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>像摩托车一样构建软件</title>
+      <link>https://www.reddit.com/r/programming/comments/1eqmwrr/building_software_like_a_motorcycle/</link>
+      <description><![CDATA[  由    /u/shift_devs  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eqmwrr/building_software_like_a_motorcycle/</guid>
+      <pubDate>Mon, 12 Aug 2024 19:29:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>清洁代码的最佳实践：编写可维护软件的技巧</title>
+      <link>https://www.reddit.com/r/programming/comments/1eqlrql/best_practices_for_clean_code_tips_for_writing/</link>
+      <description><![CDATA[  由    /u/abutun  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eqlrql/best_practices_for_clean_code_tips_for_writing/</guid>
+      <pubDate>Mon, 12 Aug 2024 18:45:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们正处于另一场世界浏览器大战的边缘</title>
+      <link>https://www.reddit.com/r/programming/comments/1eql83y/were_on_the_brink_of_another_world_browser_war/</link>
+      <description><![CDATA[  由    /u/JustCausality  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eql83y/were_on_the_brink_of_another_world_browser_war/</guid>
+      <pubDate>Mon, 12 Aug 2024 18:23:55 GMT</pubDate>
+    </item>
     <item>
       <title>掌握动态规划：综合指南</title>
       <link>https://www.reddit.com/r/programming/comments/1eqked3/mastering_dynamic_programming_a_comprehensive/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[  由    /u/hack_the_developer  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1eqgqib/python_list_comprehension_the_art_of_condensed/</guid>
       <pubDate>Mon, 12 Aug 2024 15:29:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>JSpecify 1.0.0 和 Java 中的可空性</title>
-      <link>https://www.reddit.com/r/programming/comments/1eqgk9g/jspecify_100_and_nullability_in_java/</link>
-      <description><![CDATA[  由    /u/benevanstech  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eqgk9g/jspecify_100_and_nullability_in_java/</guid>
-      <pubDate>Mon, 12 Aug 2024 15:22:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个人都错误地使用模数</title>
-      <link>https://www.reddit.com/r/programming/comments/1eqfwqw/everyone_is_using_modulo_wrong/</link>
-      <description><![CDATA[  由    /u/felipec  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eqfwqw/everyone_is_using_modulo_wrong/</guid>
-      <pubDate>Mon, 12 Aug 2024 14:57:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在在 Baseline 中：动画入口效果</title>
-      <link>https://www.reddit.com/r/programming/comments/1eqfmb2/now_in_baseline_animating_entry_effects/</link>
-      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eqfmb2/now_in_baseline_animating_entry_effects/</guid>
-      <pubDate>Mon, 12 Aug 2024 14:45:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Pydantic 在 Python 中近似求和类型</title>
-      <link>https://www.reddit.com/r/programming/comments/1eqego1/approximating_sum_types_in_python_with_pydantic/</link>
-      <description><![CDATA[  由    /u/yossarian_flew_away  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eqego1/approximating_sum_types_in_python_with_pydantic/</guid>
-      <pubDate>Mon, 12 Aug 2024 13:58:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>下一集将使用 TNL 进行 GPU 编程 - 这次将讨论 TNL 中的并行减少。</title>
-      <link>https://www.reddit.com/r/programming/comments/1eqdzmc/next_episode_of_gpu_programming_with_tnl_this/</link>
-      <description><![CDATA[  由    /u/Guilty-Point4718  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eqdzmc/next_episode_of_gpu_programming_with_tnl_this/</guid>
-      <pubDate>Mon, 12 Aug 2024 13:38:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>🎞️边框动画 CSS | 快速动画</title>
-      <link>https://www.reddit.com/r/programming/comments/1eqctb1/border_animation_css_quick_animation/</link>
-      <description><![CDATA[  由    /u/robson_muniz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eqctb1/border_animation_css_quick_animation/</guid>
-      <pubDate>Mon, 12 Aug 2024 12:47:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
