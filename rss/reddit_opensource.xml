@@ -4,18 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 13 Aug 2024 09:08:12 GMT</lastBuildDate>
-    <item>
-      <title>人工智能启示录：人工智能如何彻底改变电子商务营销以及您可以采取哪些措施</title>
-      <link>https://www.reddit.com/r/opensource/comments/1er31cv/the_ai_apocalypse_how_ai_is_revolutionizing/</link>
-      <description><![CDATA[        由    /u/Upbeat_Owl4364 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1er31cv/the_ai_apocalypse_how_ai_is_revolutionizing/</guid>
-      <pubDate>Tue, 13 Aug 2024 08:58:54 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Aug 2024 12:09:58 GMT</lastBuildDate>
     <item>
       <title>推出 DaVinci Helper，一种在 Linux 上管理 DaVinci Resolve 的简便方法</title>
       <link>https://www.reddit.com/r/opensource/comments/1er2znq/introducing_davinci_helper_an_easy_way_to_manage/</link>
-      <description><![CDATA[大家好，今天我很荣幸向大家介绍我的新应用 DaVinci Helper。我制作这个 FOSS 应用是为了帮助 Linux 用户安装和处理 DaVinci Resolve 在 Linux 上遇到的各种问题。 我希望它能够帮助所有只想使用 Linux 作为工作站的用户，而不必处理 Linux 碎片化造成的问题和不兼容性。 如果您觉得它有用，请在 GitHub 上点赞并留下一颗星，让我知道。如果您想帮助该项目，您可以在 GitHub 页面上找到所有信息。感谢大家阅读，祝大家有美好的一天。 项目链接：https://github.com/H3rz3n/davinci-helper    由   提交  /u/Hrzlin   [link] [评论]]]></description>
+      <description><![CDATA[大家好，今天我很荣幸向大家介绍我的新应用 DaVinci Helper。我制作这个 FOSS 应用是为了帮助 Linux 用户安装和处理 DaVinci Resolve 在 Linux 上遇到的各种问题。 我希望它能够帮助所有只想使用 Linux 作为工作站的用户，而不必处理由 Linux 碎片化造成的问题和不兼容性。 此应用的功能： DaVinci Helper 将帮助您：  安装正确安装和启动 DaVinci Resolve 所需的所有依赖项 启动官方安装向导** 应用所有必要的安装后技巧以正确启动 DaVinci Resolve 安装必要的 GPU 驱动程序，以便正确使用显卡与 DaVinci解决  目前支持哪些操作系统： 目前该应用程序仅在这些操作系统上进行了测试：  Fedora 40 - 所有旋转 Fedora 39 - 所有旋转 Fedora 38 - 所有旋转 Nobara 40 Nobara 39 Nobara 38  目前支持哪些版本的 DaVinci： 目前该应用程序仅支持 DaVinci Resolve 18.x.y。将来会添加对 DaVinci Resolve 19 的支持。 目前支持哪些 GPU？ 在此初始版本中，仅支持 Nvidia GPU，因为我们没有任何 AMD 或 Intel GPU 可供测试。如果您拥有 AMD 或 Intel GPU 并希望支持该项目，请帮助使用测试驱动程序或提供已经可以运行的解决方案。 支持的本地化：  英语 意大利语 法语（即将推出） 西班牙语（即将推出） 德语（即将推出） 日语（即将推出）  如果您觉得有用，请通过在 GitHub 上点赞和留下星星告诉我。如果您想帮助该项目，您将在 GitHub 页面上找到所有信息。感谢大家阅读，祝大家有美好的一天。 项目链接：https://github.com/H3rz3n/davinci-helper    由   提交  /u/Hrzlin   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1er2znq/introducing_davinci_helper_an_easy_way_to_manage/</guid>
       <pubDate>Tue, 13 Aug 2024 08:55:28 GMT</pubDate>
     </item>
@@ -64,7 +57,7 @@
     <item>
       <title>垃圾短信/电子邮件</title>
       <link>https://www.reddit.com/r/opensource/comments/1eqgawo/spam_textemal/</link>
-      <description><![CDATA[这不是向任何人发送垃圾邮件或诈骗的请求。 这是一个请求，要求我家人像其他公司一样发送虚假的诈骗/垃圾邮件和短信，如果家人没有成功，就会向我报告，并告知他们失败的原因以及他们没有注意到这是垃圾邮件/骗局的潜在原因。    提交人    /u/DougBourbon   [link] [评论]]]></description>
+      <description><![CDATA[这不是向任何人发送垃圾邮件或诈骗的请求。 这是一个请求，要求我家人像其他公司一样发送虚假的诈骗/垃圾邮件和短信，如果家人没有成功，就向我报告，并告知他们失败的原因以及他们没有注意到这是垃圾邮件/骗局的潜在原因。    提交人    /u/DougBourbon   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1eqgawo/spam_textemal/</guid>
       <pubDate>Mon, 12 Aug 2024 15:12:19 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[我正在寻找一种可以处理订阅文件夹的点对点协议，例如： 用户 A 共享一个定期更新的文件夹 -&gt; 其他用户会自动获取这些更新并以点对点方式共享文件（但不能修改文件夹内容）。    提交人    /u/dreadedhamish   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1epz4lv/peertopeer_file_sharing_with_folder_sharing/</guid>
       <pubDate>Sun, 11 Aug 2024 23:46:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有适用于 macOS 的好的 FOSS 数据恢复工具？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1epyj0t/is_there_any_good_foss_data_recovery_tool_for/</link>
+      <description><![CDATA[类似于 DiskDrill 的东西，如果可能的话带有 GUI    提交人    /u/Separate-Solution801   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1epyj0t/is_there_any_good_foss_data_recovery_tool_for/</guid>
+      <pubDate>Sun, 11 Aug 2024 23:19:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
