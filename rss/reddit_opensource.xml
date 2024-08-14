@@ -4,20 +4,27 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 14 Aug 2024 00:20:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 03:07:50 GMT</lastBuildDate>
+    <item>
+      <title>想要复活我的开源 OpenGL 游戏</title>
+      <link>https://www.reddit.com/r/opensource/comments/1erpxvr/want_to_revive_my_open_source_open_gl_game/</link>
+      <description><![CDATA[这可能是一篇糟糕的帖子。但我在大学期间花了很多时间编写游戏。20 年前我真的很喜欢这个。一个像 spectre vr 这样的 open gl 游戏。 我以为我掌握了机制、人工智能。在 linux 和 windows 上运行。 我只是从未完成过它。 如果你想要一个可以开展的项目。你能完成它吗。我没法继续写，太忙了，如果你写完了也许我想玩一下。 你可以学习一点关于 open gl、c 的知识。 注意，我写的时候才 18 岁，所以代码不是很好。 另外，如果你有想法在其他地方发布其他人可以 fork 它的内容，请告诉我。 https://glants.sourceforge.net/ https://github.com/berlinbrown/OctaneMechOpenGLGame    提交人    /u/galtoramech8699   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1erpxvr/want_to_revive_my_open_source_open_gl_game/</guid>
+      <pubDate>Wed, 14 Aug 2024 02:13:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找语音克隆</title>
+      <link>https://www.reddit.com/r/opensource/comments/1erpi9d/looking_for_voice_cloning/</link>
+      <description><![CDATA[我想克隆我的声音，以便在工作时给我读这本书。我一直在寻找人工智能语音克隆器，但是它们的字符限制太小了。我试过玩 ht，但我超出了限制。有没有开源（可能是 github，或者实际的软件应用程序）语音克隆器可以使用，而没有这么短的字符限制？    提交人    /u/LiliaAmazing   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1erpi9d/looking_for_voice_cloning/</guid>
+      <pubDate>Wed, 14 Aug 2024 01:53:13 GMT</pubDate>
+    </item>
     <item>
       <title>NotHotDog 正在直播产品搜索</title>
       <link>https://www.reddit.com/r/opensource/comments/1ermggl/nothotdog_is_live_on_product_hunt/</link>
       <description><![CDATA[🚀 NotHotDog 已加入 Product Hunt！我们让 Jian-Yang 的“天才”真正变得有用。🌭 你为什么会喜欢它？它很简单： 比 Richard 惊慌失措地呕吐的速度更快的 API 调试 比 Erlich 的资金承诺更可靠 比向你的奶奶解释“中间出”更容易使用 每一个赞都会让我们的车门像这样，不像这样🚗 如果你喜欢它，请在 Product Hunt 上表示支持https://www.producthunt.com/posts/nothotdog-alpha 还有 GitHub： https://github.com/vedhsaka/Nothotdog 让我们把这个应用做得比 Erlich 失败的帕拉帕更热！ 我们正在加入 alpha 用户，如果您正在构建 Voice AI 或使用 LLM 作为 API 服务的一部分。    提交人    /u/ImaginationOther4696   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ermggl/nothotdog_is_live_on_product_hunt/</guid>
       <pubDate>Tue, 13 Aug 2024 23:33:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Protect-Images-from-AI-PixelGuard：保护图像免遭 AI 抓取和在 AI 训练中未经授权的使用，例如面部识别模型或风格转换算法。它采用了多种隐形保护技术，这些技术大多肉眼无法察觉，但可以干扰 AI 处理。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1erk0jc/protectimagesfromaipixelguard_protects_images/</link>
-      <description><![CDATA[        提交人    /u/cztothehead   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1erk0jc/protectimagesfromaipixelguard_protects_images/</guid>
-      <pubDate>Tue, 13 Aug 2024 21:51:59 GMT</pubDate>
     </item>
     <item>
       <title>寻找适合初学者的开源项目的贡献者</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[几个月前，我在 github 上偶然发现了一个高质量的开源电影流媒体网络应用程序。 我认为它是用 react 构建的，该应用程序托管了真正的电影，而且在 ui/ux 方面相当不错。 如果你能帮我找到它，我很乐意听取建议。 编辑：这可能是它，但我认为它被删除了，有什么办法可以恢复它吗？ https://github.com/movie-web/movie-web    提交人    /u/MobyFreak   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1eqn4gx/looking_for_an_open_source_movie_streaming_web_app/</guid>
       <pubDate>Mon, 12 Aug 2024 19:38:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源人工智能定义市政厅</title>
-      <link>https://www.reddit.com/r/opensource/comments/1eqii3v/open_source_ai_definition_town_hall/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1eqii3v/open_source_ai_definition_town_hall/</guid>
-      <pubDate>Mon, 12 Aug 2024 16:39:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
