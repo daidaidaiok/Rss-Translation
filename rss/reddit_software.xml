@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 15 Aug 2024 03:06:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 06:07:44 GMT</lastBuildDate>
+    <item>
+      <title>某种应用程序监视器，用于跟踪应用程序运行的总时间</title>
+      <link>https://www.reddit.com/r/software/comments/1eslv0d/some_kind_of_app_monitor_that_keeps_track_of_the/</link>
+      <description><![CDATA[有点像在 Xbox（和其他游戏平台）上，你可以查看自己在游戏中花费的总小时数，但在计算机上所有应用程序上都是如此。如果有人有类似的东西，谢谢🙏    提交人    /u/Colto_X   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1eslv0d/some_kind_of_app_monitor_that_keeps_track_of_the/</guid>
+      <pubDate>Thu, 15 Aug 2024 04:04:48 GMT</pubDate>
+    </item>
     <item>
       <title>从麦克风到输出产生较长（非常长）的音频延迟</title>
       <link>https://www.reddit.com/r/software/comments/1esip6u/create_long_very_long_audio_delay_from_mic_to/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>我需要帮助制作宏</title>
       <link>https://www.reddit.com/r/software/comments/1es8acc/i_need_help_making_a_macro/</link>
-      <description><![CDATA[我试图制作一个宏，将鼠标移到图像上，然后慢慢向下移动鼠标，但我找不到宏创建器来制作它    提交人    /u/yomuddaisfat &lt;​​/a&gt;  [link] [comments]]]></description>
+      <description><![CDATA[我正在尝试制作一个宏，将鼠标移到图像上，然后缓慢向下移动鼠标，但我找不到宏创建器来制作它    提交人    /u/yomuddaisfat &lt;​​/a&gt;  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1es8acc/i_need_help_making_a_macro/</guid>
       <pubDate>Wed, 14 Aug 2024 17:56:27 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>自动将 Google Docs 中的信息备份到计算机的程序</title>
       <link>https://www.reddit.com/r/software/comments/1es6qvx/program_that_autobacks_info_from_google_docs_to/</link>
-      <description><![CDATA[我喜欢使用 Google Docs，因为我可以从不同的计算机和手机访问我的文档，但我还希望能够将文档备份到至少一两个物理位置，以防 Google 或我的 Google 帐户出现问题。问题是，我有很多文档，而且我经常更新它们，所以一次下载一个有点麻烦。 有没有建议我可以使用外部程序或浏览器应用来自动执行此操作，并且如果我更新文档，它们也会替换下载的版本？ 浏览器：Firefox 操作系统：Windows 10    提交人    /u/Makuta_Servaela   [链接] [评论]]]></description>
+      <description><![CDATA[我喜欢使用 Google Docs，因为我可以从不同的计算机和手机访问我的文档，但我还希望能够将文档备份到至少一两个物理位置，以防 Google 或我的 Google 帐户出现问题。问题是，我有很多文档，而且我经常更新它们，所以一次下载一个有点麻烦。 有没有建议我使用外部程序或浏览器应用程序来自动执行此操作，并且如果我更新文档，它们也会替换下载的版本？ 浏览器：Firefox 操作系统：Windows 10    提交人    /u/Makuta_Servaela   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1es6qvx/program_that_autobacks_info_from_google_docs_to/</guid>
       <pubDate>Wed, 14 Aug 2024 16:54:19 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[如果您知道任何有关如何查看我是否可以修复的信息，我已经为大多数应用程序清除了现金    提交人    /u/8000Jack8000   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1erxy03/i_think_i_got_a_virus/</guid>
       <pubDate>Wed, 14 Aug 2024 10:16:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>您生活中离不开哪些 Linux 软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1eru7ka/what_linux_software_you_cant_live_without/</link>
-      <description><![CDATA[大家好，我刚刚从 Windows 切换到 Linux，正在寻找一些好的软件。您经常使用哪些工具或应用程序，我应该查看一下？ 提前谢谢您！    提交人    /u/aymendnb   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1eru7ka/what_linux_software_you_cant_live_without/</guid>
-      <pubDate>Wed, 14 Aug 2024 06:05:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
