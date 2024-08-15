@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 14 Aug 2024 21:06:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 00:19:46 GMT</lastBuildDate>
+    <item>
+      <title>GitHub 已恢复！</title>
+      <link>https://www.reddit.com/r/programming/comments/1esgmza/github_is_back_up/</link>
+      <description><![CDATA[忽略状态页面，它恢复了！他们设法在约 45 分钟内摧毁并恢复了整个基础设施，真是太好了。很好的事件响应！    由   提交  /u/steveiliop56   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1esgmza/github_is_back_up/</guid>
+      <pubDate>Wed, 14 Aug 2024 23:53:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Github 全球瘫痪</title>
+      <link>https://www.reddit.com/r/programming/comments/1esfxce/github_down_globally/</link>
+      <description><![CDATA[  由    /u/TheBazlow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1esfxce/github_down_globally/</guid>
+      <pubDate>Wed, 14 Aug 2024 23:21:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>在家中使用 GPU 运行 AI 大型语言模型 (LLM)</title>
+      <link>https://www.reddit.com/r/programming/comments/1eseddq/run_an_ai_large_language_model_llm_at_home_on/</link>
+      <description><![CDATA[  由    /u/mCodingLLC  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eseddq/run_an_ai_large_language_model_llm_at_home_on/</guid>
+      <pubDate>Wed, 14 Aug 2024 22:14:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>排序、清除和修剪：碰撞检测算法</title>
+      <link>https://www.reddit.com/r/programming/comments/1ese8u4/sort_sweep_and_prune_collision_detection/</link>
+      <description><![CDATA[  由    /u/mitousa  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ese8u4/sort_sweep_and_prune_collision_detection/</guid>
+      <pubDate>Wed, 14 Aug 2024 22:08:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 基础知识：以视频游戏为主题的 Python 基础知识演示 - 现场直播</title>
+      <link>https://www.reddit.com/r/programming/comments/1ese2lg/python_basics_video_game_themed_demos_of_the/</link>
+      <description><![CDATA[  由    /u/drinkincode  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ese2lg/python_basics_video_game_themed_demos_of_the/</guid>
+      <pubDate>Wed, 14 Aug 2024 22:01:37 GMT</pubDate>
+    </item>
     <item>
       <title>应该如何测试（第一部分）</title>
       <link>https://www.reddit.com/r/programming/comments/1escmck/how_it_should_have_been_tested_parti/</link>
@@ -41,13 +76,6 @@
       <pubDate>Wed, 14 Aug 2024 19:59:40 GMT</pubDate>
     </item>
     <item>
-      <title>预计 3/4 编程</title>
-      <link>https://www.reddit.com/r/programming/comments/1esaoei/est_34_programming/</link>
-      <description><![CDATA[这会是什么语言？它用于火灾报警系统： @ alarm .pull ‘[+]pull station] : on ‘[.]horns*’;    提交人    /u/No_Elderberry_2124   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1esaoei/est_34_programming/</guid>
-      <pubDate>Wed, 14 Aug 2024 19:40:21 GMT</pubDate>
-    </item>
-    <item>
       <title>跨多台机器运行 ffmpeg 并打包视频用于在线流式传输的 OSS API。</title>
       <link>https://www.reddit.com/r/programming/comments/1esaj71/an_oss_api_that_runs_ffmpeg_across_multiple/</link>
       <description><![CDATA[  由    /u/moremat_  提交  [链接] [评论]]]></description>
@@ -81,34 +109,6 @@
       <description><![CDATA[  由    /u/CatSewage  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1es6zlk/the_future_of_security_understanding_nists/</guid>
       <pubDate>Wed, 14 Aug 2024 17:04:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建 NES 模拟器 - 精灵渲染</title>
-      <link>https://www.reddit.com/r/programming/comments/1es6ov3/building_a_nes_emulator_sprite_rendering/</link>
-      <description><![CDATA[  由    /u/elemenity  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1es6ov3/building_a_nes_emulator_sprite_rendering/</guid>
-      <pubDate>Wed, 14 Aug 2024 16:52:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么编程语言或 IDE 不支持将描述性元数据附加到变量？</title>
-      <link>https://www.reddit.com/r/programming/comments/1es6mx4/why_dont_programming_languages_or_ides_support/</link>
-      <description><![CDATA[  由    /u/sadyetfly11  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1es6mx4/why_dont_programming_languages_or_ides_support/</guid>
-      <pubDate>Wed, 14 Aug 2024 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>可靠软件设计实践</title>
-      <link>https://www.reddit.com/r/programming/comments/1es6lxr/practices_of_reliable_software_design/</link>
-      <description><![CDATA[  由    /u/sadyetfly11  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1es6lxr/practices_of_reliable_software_design/</guid>
-      <pubDate>Wed, 14 Aug 2024 16:48:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>反对名字</title>
-      <link>https://www.reddit.com/r/programming/comments/1es5yjj/against_names/</link>
-      <description><![CDATA[  由    /u/PudimVerdin  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1es5yjj/against_names/</guid>
-      <pubDate>Wed, 14 Aug 2024 16:22:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
