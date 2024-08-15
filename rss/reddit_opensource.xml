@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 15 Aug 2024 12:09:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 15:06:27 GMT</lastBuildDate>
+    <item>
+      <title>canvasLab v0.6.137（预发布）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1esx427/canvaslab_v06137_prerelease/</link>
+      <description><![CDATA[用于绘图和动画的轻量级 HTML5 画布包装器 Github: v0.6.137 🎬 HTML5 在线开发工作室    提交人    /u/cheerful_jellyfish   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1esx427/canvaslab_v06137_prerelease/</guid>
+      <pubDate>Thu, 15 Aug 2024 14:48:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>加利弗雷规则</title>
+      <link>https://www.reddit.com/r/opensource/comments/1esty06/gallifrey_rules/</link>
+      <description><![CDATA[🚀 介绍 Gallifrey-Rules.dev🎉 一个面向开发人员的开源 Node.js 和 TypeScript 库，利用事件驱动架构和 Apache Kafka 实现高可扩展性和性能。非常适合构建动态、响应式系统。开箱即用的清晰指标。 在 Wayfair 经过 2 年多的审查和完善的设计概念。今天，我将在 Node.js 世界中从头开始发布重写版本。 前往示例应用程序，它将让您立即启动并运行。 加入我们，共同塑造分布式系统的未来。 #OpenSource #NodeJS #TypeScript #ApacheKafka #EventDrivenArchitecture #DistributedLocks 别忘了 ⭐。谢谢！祝您编码愉快。    提交人    /u/sandmik   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1esty06/gallifrey_rules/</guid>
+      <pubDate>Thu, 15 Aug 2024 12:30:48 GMT</pubDate>
+    </item>
     <item>
       <title>可以在 Android 和桌面之间同步的最佳开源时间跟踪器？</title>
       <link>https://www.reddit.com/r/opensource/comments/1essgrk/best_open_source_time_tracker_that_can_sync/</link>
@@ -39,13 +53,6 @@
       <description><![CDATA[https://github.com/matvp91/mixwave    由    /u/moremat_ 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1esaoft/made_an_api_that_scales_ffmpeg_over_multiple/</guid>
       <pubDate>Wed, 14 Aug 2024 19:40:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有类似日历的应用程序可以记录生活中的事件，并列出 2018 年的这一天等的亮点？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1es6fl2/is_there_calendarlike_application_for_logging/</link>
-      <description><![CDATA[理想情况下，可以保存到一个易于备份的文件中。 我真的很感激 :) 也支持 Linux！    提交人    /u/Wolfcubware   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1es6fl2/is_there_calendarlike_application_for_logging/</guid>
-      <pubDate>Wed, 14 Aug 2024 16:42:01 GMT</pubDate>
     </item>
     <item>
       <title>想要复活我的开源 OpenGL 游戏</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/alesoftware  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1er1r9y/how_do_you_choose_between_opensource_and/</guid>
       <pubDate>Tue, 13 Aug 2024 07:28:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 React、.NET、MySQL、Redis、RabbitMQ 和 Node-RED 生成全栈应用程序 - 现在开源！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1equusc/full_stack_app_generation_using_react_net_mysql/</link>
-      <description><![CDATA[这是您的 Reddit 帖子的校对版本： NeoApps.AI - 代码生成器项目今日开源！ 我们很高兴地宣布，NeoApps.AI 代码生成器项目现已开源！ 如果您是一位热爱脚手架和代码生成的经验丰富的开发人员，那么您会喜欢这个项目。NeoApps.AI 允许您在 .NET Core 中生成后端 API，并配备 Swagger 支持。它还可以在 React 中生成前端应用程序，并具有拖放设计器，可轻松创建 UI。 查看 repo 并开始使用我们完全开源的工具创建您的应用程序，该工具可在 MIT 许可下使用。 GitHub 项目链接：NeoApps.AI 代码生成器 您将找到一个 README，其中包含安装说明和生成应用程序的教程。我们还致力于在下一次迭代中添加更多有关在 Azure、AWS 和 GCP 上部署应用程序的文档。    提交人    /u/NeoApps_AI   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1equusc/full_stack_app_generation_using_react_net_mysql/</guid>
-      <pubDate>Tue, 13 Aug 2024 01:01:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

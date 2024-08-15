@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 15 Aug 2024 12:09:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 15:06:00 GMT</lastBuildDate>
+    <item>
+      <title>字符编码简介</title>
+      <link>https://www.reddit.com/r/programming/comments/1esxfs1/an_introduction_to_character_encoding/</link>
+      <description><![CDATA[  由    /u/Alex_Hovhannisyan  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1esxfs1/an_introduction_to_character_encoding/</guid>
+      <pubDate>Thu, 15 Aug 2024 15:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 和 JavaScript 工具箱 – WordPress 插件</title>
+      <link>https://www.reddit.com/r/programming/comments/1esxaq5/css_javascript_toolbox_wordpress_plugin/</link>
+      <description><![CDATA[  由    /u/wipeoutmedia  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1esxaq5/css_javascript_toolbox_wordpress_plugin/</guid>
+      <pubDate>Thu, 15 Aug 2024 14:56:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>💥 每周技术讲座 #27：所有最近上传的技术会议讲座。本期包括 JCON Europe 2024、GOTO 2024、QCon 2024、NDC Oslo 2024 等等！</title>
+      <link>https://www.reddit.com/r/programming/comments/1eswnb4/tech_talks_weekly_27_all_the_recently_uploaded/</link>
+      <description><![CDATA[  由    /u/TechTalksWeekly  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eswnb4/tech_talks_weekly_27_all_the_recently_uploaded/</guid>
+      <pubDate>Thu, 15 Aug 2024 14:29:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于以声明方式创建 Web 应用程序的 Java 库（顺便说一下，使用 HTMX）</title>
+      <link>https://www.reddit.com/r/programming/comments/1esu6gt/java_library_for_creating_web_apps_in_a/</link>
+      <description><![CDATA[  由    /u/hexaredecimal  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1esu6gt/java_library_for_creating_web_apps_in_a/</guid>
+      <pubDate>Thu, 15 Aug 2024 12:42:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>统一编程访问 slack、whatsapp、电子邮件、短信、推送、discord、webhooks</title>
+      <link>https://www.reddit.com/r/programming/comments/1estry3/unified_programmatic_access_to_slack_whatsapp/</link>
+      <description><![CDATA[  由    /u/Only_Piccolo5736  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1estry3/unified_programmatic_access_to_slack_whatsapp/</guid>
+      <pubDate>Thu, 15 Aug 2024 12:22:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个将非结构化文档解析为结构化 JSON 的工具。</title>
+      <link>https://www.reddit.com/r/programming/comments/1estmgs/i_built_a_tool_that_parses_unstructured_documents/</link>
+      <description><![CDATA[  由    /u/dhj9817  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1estmgs/i_built_a_tool_that_parses_unstructured_documents/</guid>
+      <pubDate>Thu, 15 Aug 2024 12:14:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>没什么特别的，只是我展示我在图形引擎上的辛勤工作，它可以在任何计算机上运行，​​我希望得到一些支持和曝光，这样它就可以接触到志同道合的开发人员，他们可能会觉得它很有趣</title>
+      <link>https://www.reddit.com/r/programming/comments/1estmei/nothing_special_just_me_showing_off_my_hard_work/</link>
+      <description><![CDATA[  由    /u/hendrixstring  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1estmei/nothing_special_just_me_showing_off_my_hard_work/</guid>
+      <pubDate>Thu, 15 Aug 2024 12:14:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Llama 3.1、NVIDIA NIM 和 LangChain 构建基于知识图谱的代理</title>
+      <link>https://www.reddit.com/r/programming/comments/1estlf4/build_a_knowledge_graphbased_agent_with_llama_31/</link>
+      <description><![CDATA[  由    /u/sadyetfly11  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1estlf4/build_a_knowledge_graphbased_agent_with_llama_31/</guid>
+      <pubDate>Thu, 15 Aug 2024 12:13:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>很多人不知道什么是即时工程师</title>
+      <link>https://www.reddit.com/r/programming/comments/1estktu/so_many_people_dont_know_what_a_prompt_engineer/</link>
+      <description><![CDATA[  由    /u/scarey102  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1estktu/so_many_people_dont_know_what_a_prompt_engineer/</guid>
+      <pubDate>Thu, 15 Aug 2024 12:12:31 GMT</pubDate>
+    </item>
     <item>
       <title>Go 数组的工作原理以及 For-Range 的奥秘</title>
       <link>https://www.reddit.com/r/programming/comments/1estcxm/how_go_arrays_work_and_get_tricky_with_forrange/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[  由    /u/dustinmoris  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1esqb03/programming_vs_software_engineering_rust_vs_go/</guid>
       <pubDate>Thu, 15 Aug 2024 08:50:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何应用缓存？</title>
-      <link>https://www.reddit.com/r/programming/comments/1esq7jl/how_to_apply_cacheing/</link>
-      <description><![CDATA[  由    /u/InspectionSpirite  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1esq7jl/how_to_apply_cacheing/</guid>
-      <pubDate>Thu, 15 Aug 2024 08:44:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>DigitalOcean Spaces（对象存储）现在支持按存储桶带宽计费</title>
-      <link>https://www.reddit.com/r/programming/comments/1espeax/perbucket_bandwidth_billing_now_available_for/</link>
-      <description><![CDATA[  由    /u/DiHannay  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1espeax/perbucket_bandwidth_billing_now_available_for/</guid>
-      <pubDate>Thu, 15 Aug 2024 07:48:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我已经写了 90 篇关于 Tailwind CSS、Alpine JS 和 JavaScript 的教程</title>
-      <link>https://www.reddit.com/r/programming/comments/1esp0uq/ive_wrote_90_tutorials_on_tailwind_css_alpine_js/</link>
-      <description><![CDATA[  由    /u/Michael_andreuzza  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1esp0uq/ive_wrote_90_tutorials_on_tailwind_css_alpine_js/</guid>
-      <pubDate>Thu, 15 Aug 2024 07:22:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Flutter 中为你的 macOS 应用设置 Google 登录：分步指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1esolt0/how_to_set_up_google_signin_for_your_macos_app_in/</link>
-      <description><![CDATA[  由    /u/RaghavTheGreat1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1esolt0/how_to_set_up_google_signin_for_your_macos_app_in/</guid>
-      <pubDate>Thu, 15 Aug 2024 06:54:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 48 小时内开发代码分析器</title>
-      <link>https://www.reddit.com/r/programming/comments/1esoe8x/how_to_develop_code_analyzer_in_48_hours/</link>
-      <description><![CDATA[  由    /u/Xaneris47  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1esoe8x/how_to_develop_code_analyzer_in_48_hours/</guid>
-      <pubDate>Thu, 15 Aug 2024 06:39:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>您应该在 __init__.py 文件中写入什么？</title>
-      <link>https://www.reddit.com/r/programming/comments/1esljyn/what_should_you_write_into_the_init_py_file/</link>
-      <description><![CDATA[  由    /u/python4geeks  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1esljyn/what_should_you_write_into_the_init_py_file/</guid>
-      <pubDate>Thu, 15 Aug 2024 03:48:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>x-cmd：一个庞大而有趣的 CLI 集合，可以以一致且结构化的方式引导许多其他程序/功能（X bootstrap 1000 多种工具和您的脚本）。想听听意见！</title>
-      <link>https://www.reddit.com/r/programming/comments/1eskoc5/xcmd_a_vast_and_interesting_collection_of_cli/</link>
-      <description><![CDATA[  由    /u/No_Spinach_9833  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eskoc5/xcmd_a_vast_and_interesting_collection_of_cli/</guid>
-      <pubDate>Thu, 15 Aug 2024 03:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索 12 要素应用方法：构建可扩展且具有弹性的云原生应用程序的蓝图</title>
-      <link>https://www.reddit.com/r/programming/comments/1esjjn9/exploring_the_12factor_app_methodology_a/</link>
-      <description><![CDATA[  由    /u/shreesrinivasan  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1esjjn9/exploring_the_12factor_app_methodology_a/</guid>
-      <pubDate>Thu, 15 Aug 2024 02:08:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub 已恢复！</title>
-      <link>https://www.reddit.com/r/programming/comments/1esgmza/github_is_back_up/</link>
-      <description><![CDATA[忽略状态页面，它恢复了！他们设法在约 45 分钟内摧毁并恢复了整个基础设施，真是太好了。很好的事件响应！    由   提交  /u/steveiliop56   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1esgmza/github_is_back_up/</guid>
-      <pubDate>Wed, 14 Aug 2024 23:53:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
