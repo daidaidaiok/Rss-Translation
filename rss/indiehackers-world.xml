@@ -4,7 +4,15 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Fri, 16 Aug 2024 00:20:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 03:08:10 GMT</lastBuildDate>
+    <item>
+      <title>为什么我们要为那些讨厌计划假期的人创建一款应用程序！</title>
+      <link>https://feed.indiehackers.world/post/a961b69828</link>
+      <description><![CDATA[提前致谢！🌍✈️
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/a961b69828</guid>
+      <pubDate>Thu, 15 Aug 2024 16:25:42 GMT</pubDate>
+    </item>
     <item>
       <title>在 Google 广告上花费了 399 万美元？以下是我们学到的东西 💡</title>
       <link>https://feed.indiehackers.world/post/20346af712</link>
@@ -155,37 +163,19 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Thu, 08 Aug 2024 03:06:26 GMT</pubDate>
     </item>
     <item>
-      <title>我刚刚推出了 Kypso！</title>
-      <link>https://feed.indiehackers.world/post/544a227318</link>
-      <description><![CDATA[嘿，黑客们！👋
-我是 Kypso 的 Adam :)
-什么是 Kypso？它是面向研发领导者的智能代理平台。
-我们刚刚在 ProductHunt 上推出，我很乐意收到您的反馈。
-您可以在这里查看我们：https://www.producthunt.com/posts/kypso-2
-如果您有任何问题，我很乐意与您聊天！ 🚀
-谢谢！
+      <title>9 Product Hunt 发布，15 个徽章 - AMA</title>
+      <link>https://feed.indiehackers.world/post/e9c4ea8e84</link>
+      <description><![CDATA[关键要点：这次发布并不是很成功，但反馈对我们来说非常有价值。发现用户在创建广告文案时面临的挑战提供了宝贵的见解，这些见解将指导我们改进我们的主要产品 Adsby。
+Adsby Launch
+
+发布日期：2024 年 2 月 20 日
+赞成票：555
+徽章：无徽章
+产品：正如我之前提到的，Adsby 是一款使用 AI 功能优化 Google Ads 的工具。从关键词到 AI 生成的内容和搜索词，它为广告流程的每个阶段的用户提供支持。
+关键要点：我们为主要产品 Adsby 投入了大量精力，但 Product Hunt 的发布并没有像预期的那样顺利。
 Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/544a227318</guid>
-      <pubDate>Wed, 07 Aug 2024 07:01:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何在 5 分钟内将注册率提高一倍</title>
-      <link>https://feed.indiehackers.world/post/e41d20ecb3</link>
-      <description><![CDATA[所用工具（全部免费）：
-评价：Senja.io
-A/B 测试：Mida.so
-关键要点：
-
-不要低估社交认同在推动转化方面的力量。
-有时，小的改变可以带来显著的改善。
-这不仅仅是拥有一个功能形式；而是让用户对自己的选择充满信心。
-如果您希望提高网站上的注册量，我强烈建议您尝试这种方法。它改变了我们推动用户参与和转化的格局。
-
-感兴趣的朋友可以在此处查看实时 A/B 测试报告：实时互动报告
-还有其他人尝试过在注册页面上添加推荐吗？我很想听听你们的经历！
-Discord Indiehackers Chat广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/e41d20ecb3</guid>
-      <pubDate>Wed, 07 Aug 2024 03:06:12 GMT</pubDate>
+      <guid>https://feed.indiehackers.world/post/e9c4ea8e84</guid>
+      <pubDate>Wed, 07 Aug 2024 10:47:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
