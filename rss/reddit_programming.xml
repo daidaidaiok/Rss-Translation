@@ -4,13 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 16 Aug 2024 18:07:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 21:06:34 GMT</lastBuildDate>
     <item>
-      <title>如何以编程方式批量查找和替换 word docx 中的字符串</title>
-      <link>https://www.reddit.com/r/programming/comments/1etvgo3/how_to_bulk_find_and_replace_strings_in_word_docx/</link>
-      <description><![CDATA[因此，我有一堆旧模板，用于 word doc 文件中的邮件合并。我正在将它们迁移到新程序，因此我需要使用新字段。 新字段将有双括号，但我不确定旧字段的格式是什么。 我希望我可以编写一个简单的程序或脚本，将所有旧字段转换为新格式。 例如，所有 client.phone 都应变为 {{client.phone}&gt; 我一直在尝试使用 node.js 寻找解决方案，但运气不太好。基本上，我所能找到的只是一些将字符串子括号字段的东西，但反之亦然。  如果它们是文本文件，我认为这很容易做到，但由于它是一个 docx 文件，因此似乎很难处理。 如果我可以在节点中执行此操作会很棒，但我也很乐意在 bash 或 PHP 中执行此操作。 有什么想法吗？    提交人    /u/CactusWrenAZ   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1etvgo3/how_to_bulk_find_and_replace_strings_in_word_docx/</guid>
-      <pubDate>Fri, 16 Aug 2024 17:56:53 GMT</pubDate>
+      <title>window.ai - 有关 Chrome AI 新功能的一切</title>
+      <link>https://www.reddit.com/r/programming/comments/1etx3ps/windowai_everything_about_the_new_chrome_ai/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1etx3ps/windowai_everything_about_the_new_chrome_ai/</guid>
+      <pubDate>Fri, 16 Aug 2024 19:04:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>自下而上的架构：弥合架构与代码之间的差距 • Oliver Drotbohm</title>
+      <link>https://www.reddit.com/r/programming/comments/1etw71h/bottomup_architecture_bridging_the/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1etw71h/bottomup_architecture_bridging_the/</guid>
+      <pubDate>Fri, 16 Aug 2024 18:27:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>程序启动时排放二氧化碳</title>
+      <link>https://www.reddit.com/r/programming/comments/1etw3ei/emit_co2_during_program_startup/</link>
+      <description><![CDATA[  由    /u/Elfet  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1etw3ei/emit_co2_during_program_startup/</guid>
+      <pubDate>Fri, 16 Aug 2024 18:23:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作 13KB 游戏：太空拥抱者的故事</title>
+      <link>https://www.reddit.com/r/programming/comments/1etvupl/crafting_a_13kb_game_the_story_of_space_huggers/</link>
+      <description><![CDATA[  由    /u/sadyetfly11  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1etvupl/crafting_a_13kb_game_the_story_of_space_huggers/</guid>
+      <pubDate>Fri, 16 Aug 2024 18:13:08 GMT</pubDate>
     </item>
     <item>
       <title>由 DuckDB 提供支持的 Postgres：盒装现代数据堆栈</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/Franco1875  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1etlbi0/github_rolls_out_aipowered_fixes_for_code/</guid>
       <pubDate>Fri, 16 Aug 2024 10:31:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>优秀的建筑如何通过遵循最佳工程实践而诞生</title>
-      <link>https://www.reddit.com/r/programming/comments/1etl6z8/how_good_architecture_emerges_from_following_the/</link>
-      <description><![CDATA[  由    /u/Master-Region-140  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1etl6z8/how_good_architecture_emerges_from_following_the/</guid>
-      <pubDate>Fri, 16 Aug 2024 10:23:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用列块实现更快的提取速度和更低的内存使用量</title>
-      <link>https://www.reddit.com/r/programming/comments/1etl5n6/exploiting_column_chunks_for_faster_ingestion_and/</link>
-      <description><![CDATA[  由    /u/emilern  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1etl5n6/exploiting_column_chunks_for_faster_ingestion_and/</guid>
-      <pubDate>Fri, 16 Aug 2024 10:20:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>遵循这些标准确保每个软件项目取得成功</title>
-      <link>https://www.reddit.com/r/programming/comments/1etiz4e/make_every_software_project_a_success_with_these/</link>
-      <description><![CDATA[  由    /u/derjanni  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1etiz4e/make_every_software_project_a_success_with_these/</guid>
-      <pubDate>Fri, 16 Aug 2024 07:51:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
