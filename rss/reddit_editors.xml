@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 17 Aug 2024 09:05:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 12:07:04 GMT</lastBuildDate>
+    <item>
+      <title>导演/制片人没有回应，是我多想了还是应该称之为毫无进展？</title>
+      <link>https://www.reddit.com/r/editors/comments/1eudj6d/directorproducer_unresponsive_am_i_over_thinking/</link>
+      <description><![CDATA[大约一周前，我接到一位同学的联系，她邀请我担任她的社交媒体业务的编辑。她专门聘请我负责一个时间非常紧迫的项目，需要连续三天在同一天完成。 我们开始交谈，一切都很好，但是当我开始深入了解规格细节和实现这件事的计划时，她就不再回复了。我猜她忙于其他工作，所以我给了她几天时间，然后又给了几天，一周过去了，我再次联系她。她说她很忙，但当我再次询问具体情况时，她就消失了。 你们好，我现在只想测试文件传输，如果她不愿意这样做，我是否应该尝试与她合作？我现在是否应该起草一份正式的合同，而不是仅仅依靠文字来掩盖她偷懒不付钱给我的事实？我是不是漏掉了什么？    提交人    /u/IfPeepeeislarge   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1eudj6d/directorproducer_unresponsive_am_i_over_thinking/</guid>
+      <pubDate>Sat, 17 Aug 2024 09:15:48 GMT</pubDate>
+    </item>
     <item>
       <title>MacBook Pro m4？</title>
       <link>https://www.reddit.com/r/editors/comments/1eubnna/macbook_pro_m4/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[有谁知道或者有教程可以帮助我实现这个“Repulsion”标题卡的外观？ https://youtu.be/9Pr1l2SPnyc?t=13    提交人    /u/LukeElliot_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1etp1x1/1960s_title_card_help/</guid>
       <pubDate>Fri, 16 Aug 2024 13:39:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Avid Mediafiles 的符号链接</title>
-      <link>https://www.reddit.com/r/editors/comments/1etp0wp/symlink_for_avid_mediafiles/</link>
-      <description><![CDATA[嘿，有人曾使用 Symlink 和 Sync 一起共享 Avid Mediafiles (MXF) 文件夹吗？ 换句话说，如果多位编辑者使用 Resilio 之类的工具共享一个同步文件夹，并且他们都有一个可以通过 Symlink 读取的共享 MXF 文件夹（因为 Resilio 不会将 Avid Mediafiles 文件夹保留在根目录中），那么三位编辑者同时写入同一个&quot;1&quot; 文件夹会不会存在理论上的问题？    提交者    /u/TheN3onSavage   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1etp0wp/symlink_for_avid_mediafiles/</guid>
-      <pubDate>Fri, 16 Aug 2024 13:37:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

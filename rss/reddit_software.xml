@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 17 Aug 2024 09:06:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 12:07:09 GMT</lastBuildDate>
+    <item>
+      <title>XDM (Xtreme Download Manager) 停产了吗？最接近的替代品是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1euffuw/is_xdm_xtreme_download_manager_discontinued_whats/</link>
+      <description><![CDATA[XDM 或 Xtreme Download Manager 是开源的，也是我发现的最好的。GitHub 上的最后一次预发布是在 2023 年 7 月，而 Windows 商店上的最后一次更新是在 2023 年 1 月。网站也已上线。我不知道它是否已经停产，我在 GitHub 页面上发起了讨论，只有一个人回复说它已经停产了。 那么，如果 XDM 停产了，最接近的替代方案是什么？我试过 FDM（免费下载管理器），但有很多错误。请推荐一些下载管理器，开源的更好。    提交人    /u/InternalVolcano   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1euffuw/is_xdm_xtreme_download_manager_discontinued_whats/</guid>
+      <pubDate>Sat, 17 Aug 2024 11:26:07 GMT</pubDate>
+    </item>
     <item>
       <title>用于语法校正的 Grammarly 的命令行替代品？</title>
       <link>https://www.reddit.com/r/software/comments/1eu7fs5/commandline_alternative_to_grammarly_for/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[长话短说，我正在寻找一个可以删除图像背景的程序。我喜欢为 TTRPG 活动创建自己的纸质迷你模型，并希望删除我使用的图像的背景以节省打印机墨水。  据我所知，Microsoft Office 的免费版本没有此功能。因此，订阅 Microsoft 365 是一种选择。我担心的是，我不知道我会使用 365 的其他功能多少次。  当然还有其他图像编辑软件，但我没有使用过。  成本确实不是什么大问题，但越少越好。你有什么建议？    提交人    /u/ThePaulrus94   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1etuxl6/looking_for_program_to_remove_image_background/</guid>
       <pubDate>Fri, 16 Aug 2024 17:35:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个将所有存储服务分组的应用程序，以便我可以在一个应用程序中访问它们？</title>
-      <link>https://www.reddit.com/r/software/comments/1etux7k/an_app_that_groups_all_storage_services_so_ican/</link>
-      <description><![CDATA[  由    /u/Naxo175  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1etux7k/an_app_that_groups_all_storage_services_so_ican/</guid>
-      <pubDate>Fri, 16 Aug 2024 17:34:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
