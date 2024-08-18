@@ -4,13 +4,69 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 18 Aug 2024 12:09:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 15:06:20 GMT</lastBuildDate>
     <item>
-      <title>使用 monorepos 的公司合并 PR 所需的时间延长了 64%</title>
-      <link>https://www.reddit.com/r/programming/comments/1ev7nor/companies_that_use_monorepos_take_64_longer_to/</link>
-      <description><![CDATA[  由    /u/kendumez  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ev7nor/companies_that_use_monorepos_take_64_longer_to/</guid>
-      <pubDate>Sun, 18 Aug 2024 12:05:36 GMT</pubDate>
+      <title>只需使用 Postgres</title>
+      <link>https://www.reddit.com/r/programming/comments/1evaod6/just_use_postgres/</link>
+      <description><![CDATA[  由    /u/tdhsenb  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1evaod6/just_use_postgres/</guid>
+      <pubDate>Sun, 18 Aug 2024 14:33:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的 SQLPage 教程，140 页，数十个极简应用示例</title>
+      <link>https://www.reddit.com/r/programming/comments/1evag4x/new_sqlpage_tutorial_140_pages_dozens_of_minimal/</link>
+      <description><![CDATA[  由    /u/SpendFamous7668  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1evag4x/new_sqlpage_tutorial_140_pages_dozens_of_minimal/</guid>
+      <pubDate>Sun, 18 Aug 2024 14:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Booking.com 如何每秒处理数百万个事件</title>
+      <link>https://www.reddit.com/r/programming/comments/1eva8lt/how_bookingcom_processes_millions_of_events_every/</link>
+      <description><![CDATA[  由    /u/oatridbed  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eva8lt/how_bookingcom_processes_millions_of_events_every/</guid>
+      <pubDate>Sun, 18 Aug 2024 14:14:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>由 Azure 提供支持的游戏社区项目，具有 TDD、清洁架构和 Discord 集成 - 快来查看！</title>
+      <link>https://www.reddit.com/r/programming/comments/1eva4mo/azurepowered_gaming_community_project_with_tdd/</link>
+      <description><![CDATA[  由    /u/Chiro_Dev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eva4mo/azurepowered_gaming_community_project_with_tdd/</guid>
+      <pubDate>Sun, 18 Aug 2024 14:09:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 最终在 2024 年添加了垂直居中</title>
+      <link>https://www.reddit.com/r/programming/comments/1ev9v7n/css_finally_adds_vertical_centering_in_2024/</link>
+      <description><![CDATA[  由    /u/flat_earth_worm  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ev9v7n/css_finally_adds_vertical_centering_in_2024/</guid>
+      <pubDate>Sun, 18 Aug 2024 13:57:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>分页的潜在陷阱</title>
+      <link>https://www.reddit.com/r/programming/comments/1ev9hha/the_potential_pitfalls_of_pagination/</link>
+      <description><![CDATA[  由    /u/JadedBlueEyes  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ev9hha/the_potential_pitfalls_of_pagination/</guid>
+      <pubDate>Sun, 18 Aug 2024 13:39:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们可以删除什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ev8r2v/what_can_we_remove/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ev8r2v/what_can_we_remove/</guid>
+      <pubDate>Sun, 18 Aug 2024 13:03:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cursor IDE 的开源分析仪表板 - CursorLens</title>
+      <link>https://www.reddit.com/r/programming/comments/1ev8nw3/opensource_analytics_dashboard_for_cursor_ide/</link>
+      <description><![CDATA[  由    /u/hamedmp  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ev8nw3/opensource_analytics_dashboard_for_cursor_ide/</guid>
+      <pubDate>Sun, 18 Aug 2024 12:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>有影响力的明星 – 有谁有趣地为你的 Repo 加星标/Fork 过吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ev7s3m/influential_stars_did_anyone_interesting_starfork/</link>
+      <description><![CDATA[  由    /u/dicklesworth  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ev7s3m/influential_stars_did_anyone_interesting_starfork/</guid>
+      <pubDate>Sun, 18 Aug 2024 12:12:22 GMT</pubDate>
     </item>
     <item>
       <title>更好地组织和设计 React 应用程序的 10 种方法。了解如何扩展您的 React 应用程序。</title>
@@ -53,62 +109,6 @@
       <description><![CDATA[  由    /u/ArchAndStarch  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1euskh9/implementing_strict_equality_in_javascript_from/</guid>
       <pubDate>Sat, 17 Aug 2024 21:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何用 Python 构建查询语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1eups35/how_to_build_a_query_language_in_python/</link>
-      <description><![CDATA[  由    /u/zerojames_  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eups35/how_to_build_a_query_language_in_python/</guid>
-      <pubDate>Sat, 17 Aug 2024 19:25:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>当 JavaScript 库的版本更新意味着你必须再次手动重写代码时</title>
-      <link>https://www.reddit.com/r/programming/comments/1eupq83/when_version_updates_to_javascript_libraries_mean/</link>
-      <description><![CDATA[  由   提交  /u/guest271314   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eupq83/when_version_updates_to_javascript_libraries_mean/</guid>
-      <pubDate>Sat, 17 Aug 2024 19:23:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bold 0.2 - 具有 LSP、DAP 等功能的 IDE</title>
-      <link>https://www.reddit.com/r/programming/comments/1eupocr/bold_02_an_ide_with_lsp_dap_and_more/</link>
-      <description><![CDATA[  由    /u/levodelellis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eupocr/bold_02_an_ide_with_lsp_dap_and_more/</guid>
-      <pubDate>Sat, 17 Aug 2024 19:21:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>在真实的 6502 上模拟程序 ROM</title>
-      <link>https://www.reddit.com/r/programming/comments/1eunlve/emulating_program_rom_on_a_real_6502/</link>
-      <description><![CDATA[  由    /u/elemenity  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eunlve/emulating_program_rom_on_a_real_6502/</guid>
-      <pubDate>Sat, 17 Aug 2024 17:49:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>VIM 速度测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1eumnd1/vim_speed_test/</link>
-      <description><![CDATA[我只是想分享我制作的这个工具。它将测试您在代码中有效导航的能力。 如果您不是 vim 用户，您仍然可以尝试达到目标！它可能会展示学习 vim 动作的价值。VIM 也不是全有或全无的东西，您可以通过大多数流行 IDE 的插件访问其所有命令/动作。我知道 Vscode 和 Intelliji 都有一个。    提交人    /u/Crippledupdown   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eumnd1/vim_speed_test/</guid>
-      <pubDate>Sat, 17 Aug 2024 17:06:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 工程：文摘 #29</title>
-      <link>https://www.reddit.com/r/programming/comments/1eukkdy/engineering_with_java_digest_29/</link>
-      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eukkdy/engineering_with_java_digest_29/</guid>
-      <pubDate>Sat, 17 Aug 2024 15:37:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码即艺术</title>
-      <link>https://www.reddit.com/r/programming/comments/1eujmfs/code_as_art/</link>
-      <description><![CDATA[  由    /u/_awwsmm  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eujmfs/code_as_art/</guid>
-      <pubDate>Sat, 17 Aug 2024 14:55:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>根据职位描述创建简历的免费软件</title>
-      <link>https://www.reddit.com/r/programming/comments/1euire7/free_software_to_create_resume_based_on_job/</link>
-      <description><![CDATA[介绍 Resume_Builder_AIHawk🚀 您是否厌倦了花费数小时来完善每一份工作申请的简历？向 Resume_Builder_AIHawk 问好，这是一款功能强大的 Python 工具，旨在让您快速轻松地创建视觉上令人惊叹的简历！ 🛠️ 功能：  交互式命令行界面：使用我们用户友好的 CLI 轻松浏览选项和提示。 动态样式管理：从各种预定义的简历样式中进行选择，以符合您的偏好。 职位描述集成：根据职位 URL 自动自定义您的简历，确保其与职位要求和技能完全一致。  📈 为什么要使用 Resume_Builder_AIHawk？  节省时间：快速生成针对特定职位描述的简历。 增加您的机会：匹配的简历职位要求可以大大提高您获得面试机会的机会。 用户友好：设计简单，使简历构建变得轻而易举。  准备好提升您的求职技巧了吗？查看 GitHub 上的 Resume_Builder_AIHawk，立即开始创建出色的简历！ 请随时提出任何问题或提供反馈。您的意见非常宝贵！    提交人    /u/ChiaPlotting   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1euire7/free_software_to_create_resume_based_on_job/</guid>
-      <pubDate>Sat, 17 Aug 2024 14:16:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
