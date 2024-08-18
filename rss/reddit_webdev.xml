@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 18 Aug 2024 18:07:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 21:06:23 GMT</lastBuildDate>
+    <item>
+      <title>网站客户不喜欢我的设计</title>
+      <link>https://www.reddit.com/r/webdev/comments/1evjp89/website_clients_dont_like_my_designs/</link>
+      <description><![CDATA[我本质上是一名 Web 开发人员，并且喜欢专注于网站建设的技术方面。在过去的几年中，我一直在为客户从头到尾构建网站，包括设计、SEO、内容、性能、托管等。 但我的客户似乎从不喜欢我的设计，我知道这是我的弱点。它们并不糟糕，但看起来更像模板，至少它们很干净。 我访问各种网站寻找灵感，阅读有关网页设计的文章和趋势，让客户提交他们喜欢的网站以及设计问卷，在使用我们制定的线框进行初始主页设计之前，先给他们一个情绪板。但最终结果总是，我们真的不喜欢它。 我能做些什么来改善这种情况？ 这是当今网页设计的现状吗？这些是中端客户，为半定制网站花费 3-5K 美元。所以我不只是为他们获取模板并安装它。但是，既然他们为一些定制设计工作付费，他们是否期望一个完整的机构和 10,000 美元的项目能为他们提供漂亮的网站？    提交人    /u/Various-Ask3371   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1evjp89/website_clients_dont_like_my_designs/</guid>
+      <pubDate>Sun, 18 Aug 2024 20:55:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>您觉得我的网站怎么样？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1evioha/what_do_you_think_about_my_website/</link>
+      <description><![CDATA[Bajanews    由   提交  /u/Kappuccino22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1evioha/what_do_you_think_about_my_website/</guid>
+      <pubDate>Sun, 18 Aug 2024 20:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前用于创建简单 Web 界面的工具有哪些？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1evgl2m/what_are_the_tools_used_nowadays_for_creating_a/</link>
+      <description><![CDATA[嗨！我想创建一个带有简单 ASCII 吉他谱编辑器的网站。在 2000 年初期，我一直担任 Web 开发人员，但最后一次从事 Webdev 相关工作是在 2006 年 :D（当时是原始 HTML、CSS、客户端 JavaScript、服务器端的 PHP4 等等）。 从那时起，可能一切都变了，出现了 React、node.js、Angular 之类的东西，但我从未接触过它们。 它是什么：在线吉他谱编辑器基本上需要让用户配置基本文档参数（通过预定义、静态下拉菜单、单选按钮、复选框，并让他们用键盘写下 ASCII 吉他谱，这基本上是一个更复杂的记事本，光标由程序+键盘箭头导航，键输入经过过滤。然后我需要它让用户下载他们创建的文本文件和/或将其保存在服务器端。真的类似于你在 2000 年代所知道的网站（好吧，我不介意更现代的 UI，我不介意坚持复古外观，但我认为我不想投资 Angular 或 React 等框架）。 当今行业中使用的合理工具集是什么？我可以检查一下以供我使用吗？我更喜欢与 .NET 集成的东西，但这不是必须的。我可能可以继续从头开始编写所有内容，就像我 20 年前做的那样，但坦率地说，考虑到我无论如何都需要刷新我的知识，我可能会学到一些有价值的东西。    提交人    /u/Unarmored2268   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1evgl2m/what_are_the_tools_used_nowadays_for_creating_a/</guid>
+      <pubDate>Sun, 18 Aug 2024 18:44:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁使用过 BackdropBuild.io 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1evgku7/anyone_with_experience_either_backdropbuildio/</link>
+      <description><![CDATA[他们联系我，希望我参加他们的黑客马拉松活动，但我不知道，他们没有太多信息，而我对我的想法非常认真，我只是不想在不了解更多信息的情况下将我的仓库连接到他们的东西上。还有人与他们合作过吗？     提交人    /u/NovaPrime94   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1evgku7/anyone_with_experience_either_backdropbuildio/</guid>
+      <pubDate>Sun, 18 Aug 2024 18:43:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>X（Twitter）和 LinkedIn 就是污水池，所以我建了一个替代品。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1evg0n4/xtwitter_and_linkedin_are_cesspools_so_i_built_a/</link>
+      <description><![CDATA[        提交人    /u/xor0101   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1evg0n4/xtwitter_and_linkedin_are_cesspools_so_i_built_a/</guid>
+      <pubDate>Sun, 18 Aug 2024 18:20:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>完美的 Pagespeed 分数 - 小型企业主</title>
+      <link>https://www.reddit.com/r/webdev/comments/1evfrfh/perfect_pagespeed_scores_small_business_owner/</link>
+      <description><![CDATA[      不要脸地吹牛 - 只是兴奋。在被开发人员和 SEO“专家”欺骗了近十年之后，我终于成功地掌握了主动权。我以前建过网站，但一直在优化方面苦苦挣扎，感觉我可以信任我的产品真是太好了。     由    /u/SuperDangerBro 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1evfrfh/perfect_pagespeed_scores_small_business_owner/</guid>
+      <pubDate>Sun, 18 Aug 2024 18:09:21 GMT</pubDate>
+    </item>
     <item>
       <title>如何以自由职业者的身份进行销售</title>
       <link>https://www.reddit.com/r/webdev/comments/1evfh8a/how_to_sell_as_a_freelancer/</link>
@@ -60,48 +102,6 @@
       <description><![CDATA[就 Web 开发知识而言，我感觉自己已经到达了极限。 我有一个网站 (Pillser)，每天我都试图找出架构中的差距，无论是可访问性、性能、安全最佳实践等。是否存在一个现有的子版块，其总体思路是，像我这样的人可以发布他们的项目，以便纯粹从技术角度进行批评？    提交人    /u/lilouartz   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1evcmbt/is_there_a_subreddit_for_roasting_websites_from/</guid>
       <pubDate>Sun, 18 Aug 2024 15:56:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 应用程序定价</title>
-      <link>https://www.reddit.com/r/webdev/comments/1evcaje/web_application_pricing/</link>
-      <description><![CDATA[我正在努力为客户创建的应用程序定价。这是我第一次离开公司工作。如果我给出要求列表，是否可以听取一些关于它大概应该花费多少的意见，因为我不想定价过高/过低？    提交人    /u/BDawson02   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1evcaje/web_application_pricing/</guid>
-      <pubDate>Sun, 18 Aug 2024 15:42:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>X（Twitter）完全是一个污水池，你现在在哪里关注开发人员？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1evb0rx/x_twitter_is_a_total_cesspool_where_do_you_follow/</link>
-      <description><![CDATA[不久前，我的 feed 曾经只是我选择关注的 Web 开发“影响者”，但现在 X 只是带有少量 Web 开发的愤怒诱饵算法垃圾。    提交人    /u/redditindisguise   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1evb0rx/x_twitter_is_a_total_cesspool_where_do_you_follow/</guid>
-      <pubDate>Sun, 18 Aug 2024 14:48:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>你写博客吗？如果是，你使用什么平台？从职业发展的角度来看，写博客有什么好处？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1evazak/do_you_write_blogs_if_yes_then_what_platform_you/</link>
-      <description><![CDATA[我在 Medium 上写过不少博客。但最终我失去了兴趣，因为我没有得到显著的结果，也无法将其货币化（我的国家没有资格）。我们可以通过成为开发者来赚钱吗？    提交人    /u/shesparkzz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1evazak/do_you_write_blogs_if_yes_then_what_platform_you/</guid>
-      <pubDate>Sun, 18 Aug 2024 14:46:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想为我的扩展设置许可系统。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1evahi9/i_want_to_set_up_a_licensing_system_for_my/</link>
-      <description><![CDATA[我有一个扩展，我想为其实现一个许可证系统。我希望能够提供许可证代码，以便用户可以激活和使用该扩展。需要确保没有有效代码就无法使用该扩展。我研究过 Keygen，它似乎可以用于此，但是，我不知道如何将其集成到我的扩展中。  我正在寻找可以帮助我设置它的人。使用 Keygen 不是必须的，但是，我希望它是类似的东西。请直接发信息给我以获取更多信息，以便我们可以讨论价格。     提交人    /u/Avocadorablel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1evahi9/i_want_to_set_up_a_licensing_system_for_my/</guid>
-      <pubDate>Sun, 18 Aug 2024 14:24:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以使用带有内容安全策略标头的反应样式组件吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ev9ad8/can_you_use_react_styled_components_with_a/</link>
-      <description><![CDATA[之前没有真正使用过 React 中的样式化组件，所以我不太清楚它是如何工作的，想知道 CSP 策略是否会破坏它。    提交人    /u/TrashPandu   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ev9ad8/can_you_use_react_styled_components_with_a/</guid>
-      <pubDate>Sun, 18 Aug 2024 13:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一个新的伙伴，我脑子里有几个名字</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ev94wd/i_need_a_new_partner_have_a_few_names_in_my_head/</link>
-      <description><![CDATA[幸运的 7 年后，我需要找到一个新的托管提供商（合作伙伴），我需要托管各种 WP 网站和应用程序，包括 php、node.js 和 python。我当前的设置是一系列 VPS，平衡应用程序的负载。通过谷歌搜索，我找到了几个有效的名称（在纸面上），并希望听取您的意见，可能通过直接经验。有些对我来说是新的，有些更受欢迎。 查看投票    由   提交 /u/elnath78   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ev94wd/i_need_a_new_partner_have_a_few_names_in_my_head/</guid>
-      <pubDate>Sun, 18 Aug 2024 13:22:45 GMT</pubDate>
     </item>
     <item>
       <title>有没有人从 React SPA 转到 Nextjs 又转回 React，如果是，你能分享一下原因吗？</title>
