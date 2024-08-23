@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 22 Aug 2024 21:07:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 00:19:50 GMT</lastBuildDate>
+    <item>
+      <title>轻量级代码笔记App</title>
+      <link>https://www.reddit.com/r/opensource/comments/1eyvopl/lightweight_code_note_app/</link>
+      <description><![CDATA[大家好，我制作了一个轻量级的开源应用程序，用于记录代码笔记：https://github.com/leovinogradov/CodeNoteApp 我需要一个像 Apple Notes 一样简单直观的工作笔记应用程序，但允许您轻松粘贴代码片段而无需自动格式化，例如将引号变成花引号、突出显示 url 等 我也不能使用 Notion 等付费或具有云功能的工具，因为这需要经过审批流程。 结果：这个应用程序使用 Tauri 和 Svelte 来最大限度地减少占用空间，100% 基于本地文件，因此我不需要担心证明数据安全性，具有与 Apple Notes 类似的外观和感觉，但没有自动格式化，并允许您制作像 Slack 这样的代码片段。另外，可选的语法突出显示。 希望这对某些人有所帮助，并很高兴收到反馈！    提交人    /u/leovin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1eyvopl/lightweight_code_note_app/</guid>
+      <pubDate>Thu, 22 Aug 2024 21:53:11 GMT</pubDate>
+    </item>
     <item>
       <title>开源应用程序构建器</title>
       <link>https://www.reddit.com/r/opensource/comments/1eypblu/open_source_app_builder/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[        提交人    /u/the1024   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1exsyuo/pare_simple_serverless_python/</guid>
       <pubDate>Wed, 21 Aug 2024 15:44:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Node 的强大网络检查和操作库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1exsc9l/capable_network_inspection_manipulation_library/</link>
-      <description><![CDATA[        提交人    /u/Dear_Literature4351   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1exsc9l/capable_network_inspection_manipulation_library/</guid>
-      <pubDate>Wed, 21 Aug 2024 15:19:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
