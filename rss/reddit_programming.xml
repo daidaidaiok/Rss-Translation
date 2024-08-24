@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 24 Aug 2024 09:05:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 12:07:53 GMT</lastBuildDate>
+    <item>
+      <title>Firebird 5.0.1 优化器改进</title>
+      <link>https://www.reddit.com/r/programming/comments/1f01tp7/firebird_501_improvements_in_optimizer/</link>
+      <description><![CDATA[  由    /u/mariuz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f01tp7/firebird_501_improvements_in_optimizer/</guid>
+      <pubDate>Sat, 24 Aug 2024 10:05:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>逆向工程 TicketMaster 的旋转条形码 (SafeTix)</title>
+      <link>https://www.reddit.com/r/programming/comments/1f01120/reverse_engineering_ticketmasters_rotating/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f01120/reverse_engineering_ticketmasters_rotating/</guid>
+      <pubDate>Sat, 24 Aug 2024 09:07:03 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Python Tutor 进行 Python 调试：可视化你的代码 #Python #编码 #编程技巧</title>
       <link>https://www.reddit.com/r/programming/comments/1f00g4u/python_debugging_with_python_tutor_visualize_your/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/Ok_Set_6991  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ezm49v/simple_tips_for_bug_bounty_beginners_finding_open/</guid>
       <pubDate>Fri, 23 Aug 2024 19:55:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>给漏洞赏金新手的简单提示：寻找 OTP 绕过漏洞</title>
-      <link>https://www.reddit.com/r/programming/comments/1ezkl89/simple_tips_for_bug_bounty_beginners_finding_otp/</link>
-      <description><![CDATA[  由    /u/Ok_Set_6991  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ezkl89/simple_tips_for_bug_bounty_beginners_finding_otp/</guid>
-      <pubDate>Fri, 23 Aug 2024 18:50:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>wcurl 在这里</title>
-      <link>https://www.reddit.com/r/programming/comments/1ezi16t/wcurl_is_here/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ezi16t/wcurl_is_here/</guid>
-      <pubDate>Fri, 23 Aug 2024 17:05:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
