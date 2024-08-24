@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 24 Aug 2024 18:06:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 21:06:11 GMT</lastBuildDate>
+    <item>
+      <title>Quiblr（Lemmy 客户端）获得开源更新</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f0dfmj/quiblr_lemmy_client_gets_opensource_update/</link>
+      <description><![CDATA[       由    /u/devforfuntimes  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f0dfmj/quiblr_lemmy_client_gets_opensource_update/</guid>
+      <pubDate>Sat, 24 Aug 2024 19:27:22 GMT</pubDate>
+    </item>
     <item>
       <title>介绍 Snapcast-Gui，一个用于管理和控制 snapcast 的 GUI</title>
       <link>https://www.reddit.com/r/opensource/comments/1f09g4r/introducing_snapcastgui_a_gui_to_manage_and/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/lazyhawk20  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ezd2nn/gitbegin_start_contributing_to_open_source_by/</guid>
       <pubDate>Fri, 23 Aug 2024 13:42:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人在 Etsy 上销售开源软件！！！！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ez4eml/someone_is_selling_open_source_software_on_etsy/</link>
-      <description><![CDATA[一家名为 system32shop 的商店正在 Etsy 上销售（所有）OpenOffice、LibreOffice、VirtualBox 和其他开源软件供下载！！！这合法吗？我们可以阻止他们吗？    提交人    /u/Available-Line-3995   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ez4eml/someone_is_selling_open_source_software_on_etsy/</guid>
-      <pubDate>Fri, 23 Aug 2024 04:58:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
