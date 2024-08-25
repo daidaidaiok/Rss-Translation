@@ -4,7 +4,90 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Sat, 24 Aug 2024 23:41:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 01:57:18 GMT</lastBuildDate>
+    <item>
+      <title>Serpent OS Prealpha0 发布</title>
+      <link>https://t.me/hn_summary/105437</link>
+      <description><![CDATA[Serpent OS Prealpha0 发布
+Serpent OS Prealpha0 发布
+
+我们很高兴地宣布，我们的技术预览版 prealpha0 现已可供测试！您可以从我们的网站下载 Serpent OS 的超级粗略版本。此早期版本可安装在支持 UEFI 和 OpenGL 加速的裸机硬件和虚拟机上，但由于软件包过时，不建议日常使用。它具有带有 Firefox 和终端的极简 GNOME 桌面。CLI 安装程序需要手动磁盘分区和有效的网络连接。
+
+在其底层，它使用我们用 Rust 编写的 moss 包管理器，可实现原子更新和离线回滚。blsforme 库自动管理启动分区。 
+
+警告：这是一个超级预 alpha 版本，可能会出现问题。我们正在迭代 ISO，并将在未来版本中添加更多安装程序选项。建议使用 Flatpak 来添加其他软件包。您的支持对我们的进步至关重要 — 请考虑赞助我们以帮助支付托管费用。]]></description>
+      <guid>https://t.me/hn_summary/105437</guid>
+      <pubDate>Sun, 25 Aug 2024 01:57:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] GitHub 项目“Replit 将免费计划用户限制为 5 次回复（除非支付 25 美元的订阅费）[...]</title>
+      <link>https://t.me/hn_summary/105436</link>
+      <description><![CDATA[Replit 将免费计划用户限制为 5 个 Repl（除非订阅 25 美元）
+GitHub 项目“Replit 将免费计划用户限制为 5 个 Repl（除非订阅 25 美元）”解决了 Replit 入门计划的最新变化，该计划现在将免费用户限制为 3 个 Repl，并威胁在一年后删除多余的 Repl，除非用户升级到每月 25 美元的订阅。该项目提供了一个 CLI 脚本，通过下载所有 Repl（包括环境变量和配置数据）来帮助用户过渡，以安全地将他们的项目从 Replit 中移出。该脚本提供了各种命令选项以供自定义，例如指定输出目录、设置并发下载限制和过滤文件。作者强调了 Replit 速率限制的易用性和自动处理是主要区别因素。]]></description>
+      <guid>https://t.me/hn_summary/105436</guid>
+      <pubDate>Sun, 25 Aug 2024 00:46:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Shufflecake 是一种新颖的合理否认设计，旨在隐藏加密数据 [...]</title>
+      <link>https://t.me/hn_summary/105435</link>
+      <description><![CDATA[Shufflecake：Linux 上多个隐藏文件系统的合理否认
+Shufflecake 是一种新颖的合理否认设计，旨在隐藏 Linux 存储介质上的加密数据，使对手难以检测到此类数据。Shufflecake 由 Elia Anzuoni 和 Tommaso Gagliardoni 开发，是 TrueCrypt 和 VeraCrypt 的高级继任者，提供原生 Linux 支持、与任何文件系统的兼容性以及管理每个设备多个卷以增强否认能力的能力。与基于 ORAM 的解决方案不同，Shufflecake 更快、更简单，但缺乏针对多快照对手的原生保护。但是，其架构允许安全扩展，可以对抗更强大的威胁。 Shufflecake 是作为内核工具实现的，对性能的影响极小，对于受到专制政权或犯罪组织威胁的个人（例如举报人和人权活动家）尤其有用。值得注意的是，这项工作的 15 页摘要已在 2023 年 ACM 计算机和通信安全会议 (CCS) 上发表。]]></description>
+      <guid>https://t.me/hn_summary/105435</guid>
+      <pubDate>Sun, 25 Aug 2024 00:46:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Substack2Markdown 是一个 Python 工具，旨在下载免费和高级的 Substack [...]</title>
+      <link>https://t.me/hn_summary/105434</link>
+      <description><![CDATA[以 Markdown 格式下载任何 Substack 文章（开源）
+Substack2Markdown 是一个 Python 工具，用于下载免费和付费的 Substack 帖子，并将其转换为 Markdown 和 HTML 文件。它具有一个简单的 HTML 界面，用于浏览和排序帖子。如果用户订阅了相应的 Substack，该工具将支持付费内容。网络版本 Substack Reader 为免费的 Substack 内容提供了无需安装的选项。主要功能包括将帖子转换为 Markdown、生成 HTML 以方便浏览以及按日期或喜欢排序。该项目通过支持付费内容并提供用于内容导出的本地和在线工具来脱颖而出。]]></description>
+      <guid>https://t.me/hn_summary/105434</guid>
+      <pubDate>Sun, 25 Aug 2024 00:43:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：pivot-to-ai.com</title>
+      <link>https://t.me/hn_summary/105433</link>
+      <description><![CDATA[Copilot AI 称记者为虐待儿童者，微软试图推卸责任
+标题：Copilot AI 称记者为虐待儿童者，微软试图推卸责任
+网站：pivot-to-ai.com
+
+经验丰富的德国记者 Martin Bernklau 在使用 Bing 的 Copilot AI 时发现了关于自己的令人震惊的错误信息。该 AI 错误地指控他犯有令人发指的罪行，包括虐待儿童和成为越狱精神病患者，使他的报道对象与他混淆。令人震惊的是，它还透露了他的个人联系方式。尽管图宾根检察官办公室表示，由于没有人提出指控，因此没有犯罪行为，但巴伐利亚州数据保护办公室进行了干预。微软暂时过滤了错误的回复，但它们又浮出水面。Bernklau 现在以诽谤和侵犯隐私为由起诉微软，质疑他们试图通过 Copilot 的服务条款免除责任。]]></description>
+      <guid>https://t.me/hn_summary/105433</guid>
+      <pubDate>Sun, 25 Aug 2024 00:41:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 慢性疼痛患者 Sara Gehrig 因脊椎狭窄而忍受着剧烈的疼痛 [...]</title>
+      <link>https://t.me/hn_summary/105432</link>
+      <description><![CDATA[新型止痛药可为数百万人带来缓解——且无成瘾风险
+Sara Gehrig 是一名慢性疼痛患者，自 17 岁起就因脊椎狭窄而忍受着剧烈疼痛。包括阿片类药物在内的传统止痛药对她无效或会引起不良反应。Vertex Pharmaceuticals 正在开发一种新型止痛药 VX-548（suzetrigine），它可以阻断周围神经中的疼痛信号，降低成瘾风险。临床试验显示出令人鼓舞的结果，可将急性疼痛减轻一半。然而，它有局限性，例如不能完全解决慢性疼痛和潜在的副作用。钠通道 NaV1.7 和 NaV1.8 作为疼痛靶点的发现激发了新的研究，但过去的努力往往在临床试验中失败。 Vertex 的创新测试方法可能为更有效的疼痛治疗带来希望。
+
+争议：持续的阿片类药物危机和当前疼痛治疗的不足凸显了对新解决方案的迫切需求。
+
+独特/巧妙：Vertex 的 E-VIPR 系统可快速测试药物与钠通道的相互作用，代表了疼痛研究的重大技术进步。（基于 57% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/105432</guid>
+      <pubDate>Sun, 25 Aug 2024 00:39:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 我一直在探索迷宫生成的迷人世界，重点研究二维网格 [...]</title>
+      <link>https://t.me/hn_summary/105431</link>
+      <description><![CDATA[生成迷宫
+我一直在探索迷宫生成的迷人世界，专注于被称为完美迷宫的连接单元的二维网格，其中任何两个单元之间都有一条唯一的路径。我将单元之间的连接称为边缘，而没有边缘的地方则存在墙壁。最初，所有单元都是不相连的，而且是黑色的。通过连接单元，我们创建了迷宫。我使用简单的代码来说明这个过程。
+
+为了自动创建迷宫，我尝试了几种算法。Aldous Broder 虽然效率低下且令人沮丧，但易于编码并生成无偏的迷宫。随机深度优先搜索 (DFS) 效率更高，但往往会创建长走廊。 Wilson 算法虽然启动缓慢，但却达到了一种平衡，既不偏不倚，又避免了重复。有趣的是，将 Aldous Broder 和 Wilson 算法结合起来可能会更快，但这缺乏严格的证明。
+
+对于起点和终点，我使用一种涉及两次广度优先搜索的方法来找到迷宫中最远的点。这种方法确保了起点和终点位置的有意义放置。
+
+有关更多详细信息（包括代码），请查看我网站上的迷宫目录。迷宫是使用  元素呈现的。]]></description>
+      <guid>https://t.me/hn_summary/105431</guid>
+      <pubDate>Sun, 25 Aug 2024 00:35:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在我们成立 4.5 岁的 Zoom 阅读小组中，我们最近讨论了一篇关于使用 Large L [...] 的论文。</title>
+      <link>https://t.me/hn_summary/105430</link>
+      <description><![CDATA[迫在眉睫的责任机器 (LLM)
+在我们成立 4.5 年的 Zoom 阅读小组中，我们最近讨论了一篇关于使用大型语言模型 (LLM) 自动对云事件进行根本原因分析 (RCA) 的论文。该系统将事件与处理程序匹配，预测根本原因类别，并使用提示工程提供叙述。但是，我认为定制设计的机器学习系统会更合适。RCA 是一个关键过程，需要采取整体方法，考虑各种维度和关系。像 Nancy Leveson 这样的专家强调系统分析而不是简单的根本原因识别。我担心的是，依赖 LLM 进行 RCA 可能会导致成本削减、专家开发减少和系统故障。此外，自动化意外（用户对意外的自动化行为措手不及）会带来重大风险。 AWS 集成 Amazon Q for Java 17 升级版，声称节省了大量时间，但也引发了人们对潜在运营问题以及审查和安全文化侵蚀的担忧。虽然 LLM 有其用武之地，但我们必须谨慎，不要过度依赖它们而牺牲人类的专业知识和安全。]]></description>
+      <guid>https://t.me/hn_summary/105430</guid>
+      <pubDate>Sun, 25 Aug 2024 00:25:26 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体] 网站：www.lampysecurity.com</title>
       <link>https://t.me/hn_summary/105429</link>
@@ -23,95 +106,6 @@
 在最新的 2024 年 8 月“问 HN：你在做什么？”主题中，用户分享了各种各样的项目和想法。从创新的人工智能应用程序到独特的创业概念，社区展示了他们的创造力和技术实力。一些人正在开发尖端软件，而另一些人正在探索硬件创新。一些贡献者甚至深入研究新兴技术的伦理影响，引发了深思熟虑的讨论。值得注意的是，一位用户正在开发一个旨在增强用户隐私的去中心化社交媒体平台，这个话题在社区内引起了兴奋和争论。]]></description>
       <guid>https://t.me/hn_summary/105428</guid>
       <pubDate>Sat, 24 Aug 2024 22:38:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] AMD 的集成 GPU (iGPU) 在游戏界掀起了波澜，为开发者提供了动力 [...]</title>
-      <link>https://t.me/hn_summary/105427</link>
-      <description><![CDATA[AMD 的 Radeon 890M：Strix Point 的更大 iGPU
-AMD 的集成 GPU (iGPU) 在游戏界掀起了波澜，为 Valve 的 Steam Deck 和华硕的 ROG Ally 等设备提供动力。最新的移动芯片 Strix Point 延续了这一趋势，拥有更大的 GPU 和轻微的架构升级。Radeon 890M 是 Ryzen AI 9 HX 370 的一部分，具有八个 RDNA 3.5 工作组处理器 (WGP)，比前几代的六个有所增加。GPU 尺寸的大幅增加，加上强大的内存子系统和 LPDDR5-7500 支持，确保了令人印象深刻的性能。 Strix Point 的 iGPU 表现优于其前代产品和竞争对手，保持了 AMD 在市场上的强势地位。值得注意的是，AMD 对 iGPU 的关注标志着其从历史上过时的图形架构的转变，表明其战略重点转向在低功耗游戏领域取得卓越成就。]]></description>
-      <guid>https://t.me/hn_summary/105427</guid>
-      <pubDate>Sat, 24 Aug 2024 22:37:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>问 HN：哪些电影您看过多次？</title>
-      <link>https://t.me/hn_summary/105426</link>
-      <description><![CDATA[问 HN：哪些电影你看过多次？
-标题：问 HN：哪些电影你看过多次？
-网站：news.ycombinator.com
-
-摘要：
-在最近的 Hacker News 帖子中，用户讨论了他们看过多次的电影，并表示重复观看可能是衡量电影伟大程度的一个很好的标准。对话重点介绍了各种深受喜爱的电影，从永恒经典到现代大片。一些用户提到重看喜爱的节目会让人感到舒适和怀旧，而另一些人则指出，随着每次观看，复杂的细节和故事情节会变得更加明显。值得注意的是，关于可重看性是否真正等同于质量存在争议，一些人认为个人偏好起着重要作用。这个帖子让我们可以一窥 Hacker News 社区的不同品味和观点。]]></description>
-      <guid>https://t.me/hn_summary/105426</guid>
-      <pubDate>Sat, 24 Aug 2024 22:33:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 1971 年，罗杰·彭罗斯 (Roger Penrose) 提出了从旋转黑洞中提取能量的概念 [...]</title>
-      <link>https://t.me/hn_summary/105425</link>
-      <description><![CDATA[围绕行星运行的黑洞可能是先进文明的标志
-1971 年，罗杰·彭罗斯 (Roger Penrose) 提出从旋转的黑洞中提取能量，这一概念自此引起了研究人员的兴趣，成为先进文明的潜在动力源。哈佛大学教授阿维·洛布 (Avi Loeb) 最近扩展了这一想法，提出“黑洞卫星”可以围绕行星运行，通过霍金辐射为其提供无尽的能量。这个重达 10 万吨的黑洞需要吸积少量物质来维持自身，从而提供高效的能源。洛布的提议发表在美国科学院研究笔记上，他认为这样的系统可以作为检测先进文明的技术特征。这个想法虽然只是推测，但却有理论物理学的基础，与弗里曼·戴森的信念相呼应，即我们所能想象的，先进文明就有可能实现。]]></description>
-      <guid>https://t.me/hn_summary/105425</guid>
-      <pubDate>Sat, 24 Aug 2024 22:16:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Taurean Sheridan 感到孤独并与抑郁症作斗争，他发现了 DadLAN—一个 [...]</title>
-      <link>https://t.me/hn_summary/105424</link>
-      <description><![CDATA[显示 HN：DadLAN – 通过 LAN 游戏减少爸爸们的孤独感
-Taurean Sheridan 感到孤独并与抑郁症作斗争，他发现了 DadLAN——一个旨在通过 LAN 游戏减少澳大利亚爸爸们孤独感的心理健康慈善机构。DadLAN 由 William Parry 创立，每月举办面对面活动，爸爸们可以一起玩游戏并建立新的友谊。Parry 受到妻子在母亲小组中取得成功的启发，创建了这个空间，让爸爸们通过共同的活动进行交流。该计划已发展到澳大利亚各地的 13 个子网络。Nigel Draycott 等志愿者和 Alexander Becker 等成员强调了社区的积极影响。该小组还使用 Discord 进行日常聊天和“Dadvice”，以促进更深层次的联系和支持。 
-
-令人惊讶/巧妙的元素：利用游戏作为父亲之间进行更深入对话和情感支持的途径既独特又巧妙。
-
-争议：无。]]></description>
-      <guid>https://t.me/hn_summary/105424</guid>
-      <pubDate>Sat, 24 Aug 2024 22:13:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>标题：Papersway – 适用于 Sway/i3wm 的可滚动窗口管理</title>
-      <link>https://t.me/hn_summary/105423</link>
-      <description><![CDATA[Papersway – 适用于 Sway/i3wm 的可滚动窗口管理
-标题：Papersway – 适用于 Sway/i3wm 的可滚动窗口管理
-
-网站：spwhitton.name
-
-Papersway 是一款受 PaperWM 启发的可滚动窗口管理系统，适用于重视稳定性和极简主义但寻求不同窗口管理模型的 Sway/i3wm 用户。它在每个工作区上将窗口排成一行，默认情况下一次显示两个窗口。用户可以向左或向右滚动查看其他窗口，新窗口会将现有窗口推离屏幕。独特功能包括重新排序窗口、切换单片眼镜模式和创建新工作区。对于 Debian 和 Ubuntu 用户，安装非常简单，只需通过 CPAN 或 apt-get 即可。Papersway 是 GNU 通用公共许可证下的开源软件，确保修改和分发的自由。]]></description>
-      <guid>https://t.me/hn_summary/105423</guid>
-      <pubDate>Sat, 24 Aug 2024 21:45:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>过去几天，我一直在完善一个名为“Trip”的小型 C 程序，旨在干预 [...]</title>
-      <link>https://t.me/hn_summary/105422</link>
-      <description><![CDATA[在编写休闲 C 语言时不断做出错误决定
-过去几天，我一直在完善一个名为“Trip”的小型 C 程序，该程序旨在拦截特定的 Libc 函数并模拟它们的失败。作为系统编程课程的助教，我的目标是通过引发通常在系统资源耗尽时发生的错误来帮助学生理解强大的错误处理。例如，当系统有太多进程时，fork(2) 系统调用通常会失败。为了模拟这种情况，我创建了“Trip”，它可以让 fork 有 50% 的时间失败，从而演示 Bash 如何处理此类错误。
-
-我没有使用类似调试器的方法，而是选择了 LDPRELOAD 破解，允许动态链接器在标准库之前使用我们的自定义共享对象。我想要一个既可以作为可执行文件又可以作为共享对象的文件，这让我想到了一个巧妙的技巧，即编辑 ELF 文件以翻转单个位 (DF1PIE)。这允许可执行文件在执行另一个程序时预加载自身。
-
-该工具将其配置编码在环境变量中，使用 ASCII 组和记录分隔符传递函数列表、失败概率和 errno 值。这种方法虽然不合常规，但可确保工具保持紧凑和高效。
-
-**有争议的方面：**使用 LDPRELOAD 和编辑 ELF 文件可能被视为一种不规范和非标准的方法，可能会冒犯纯粹主义者。
-
-独特/巧妙的方面：通过翻转 ELF 文件中的某个位，使单个文件同时充当可执行文件和共享对象，这一技巧特别巧妙。（基于 48% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/105422</guid>
-      <pubDate>Sat, 24 Aug 2024 21:33:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 据报道，Telegram 创始人 Pavel Durov 在法国被捕 [...]</title>
-      <link>https://t.me/hn_summary/105421</link>
-      <description><![CDATA[Pavel Durov 被捕
-据 Andrew Tate 的推文称，Telegram 创始人 Pavel Durov 在法国被捕。Tate 声称 Durov 被捕是因为他未能审查 Telegram 上的内容，可能的指控包括支持恐怖主义、贩毒、共谋犯罪、大规模欺诈、洗钱、隐瞒、恋童癖内容和逃避制裁。Tate 认为，这次逮捕是全球控制信息的更广泛努力的一部分。如需了解最新更新和突发新闻，请访问 Times Now。
-
-争议：对 Durov 的逮捕和大量指控极具争议，尤其是暗示这是试图控制信息。]]></description>
-      <guid>https://t.me/hn_summary/105421</guid>
-      <pubDate>Sat, 24 Aug 2024 21:19:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站：www.tf1info.fr</title>
-      <link>https://t.me/hn_summary/105420</link>
-      <description><![CDATA[Telegram 首席执行官 Pavel Durov 刚刚在法国被捕
-标题：Telegram 首席执行官 Pavel Durov 刚刚在法国被捕
-网站：www.tf1info.fr
-
-周六晚上，加密消息服务 Telegram 的创始人兼首席执行官、39 岁的法俄混血儿 Pavel Durov 在布尔歇机场被捕。Durov 在保镖和一名女子的陪同下从阿塞拜疆抵达后被 GTA（法国宪兵队）拘留。他被列入法国档案 (FPR)，并持有法国国家司法警察 OFMIN 签发的法国搜查令。该搜查令是基于对 Telegram 缺乏节制和与执法部门的合作，助长了贩毒、儿童犯罪和欺诈的指控。Durov 预计将面临多项指控，包括恐怖主义和洗钱。逮捕他的目的是迫使 Telegram 遵守欧洲执法努力。这次引人注目的逮捕凸显了该平台作为有组织犯罪和非法活动避风港的声誉。]]></description>
-      <guid>https://t.me/hn_summary/105420</guid>
-      <pubDate>Sat, 24 Aug 2024 21:12:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
