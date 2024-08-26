@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 26 Aug 2024 03:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 06:07:03 GMT</lastBuildDate>
+    <item>
+      <title>UV ：pip、venv 的 100 倍替代品</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f1gk0f/uv_100x_faster_alternate_for_pip_venv/</link>
+      <description><![CDATA[我刚刚遇到了 uv，它是 pip、pipx、venv 等的一站式解决方案，速度甚至快 10 倍到 100 倍。查看此处的教程：https://youtu.be/T_cPVvZEG8g?si=IjrloMK7vNdyB3QV    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f1gk0f/uv_100x_faster_alternate_for_pip_venv/</guid>
+      <pubDate>Mon, 26 Aug 2024 05:24:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2024 年 8 月 25 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f1ftm8/oneminute_daily_ai_news_8252024/</link>
+      <description><![CDATA[ 金正恩视察新型“自杀无人机”，敦促融入人工智能。[1] 廉价的人工智能语音机器人突然在印度随处可见。[2] Meta 推出 Sapiens：人类视觉模型的基础。[3] 詹娜·奥尔特加 (Jenna Ortega) 表示，在看到自己未成年时的露骨人工智能图片后，她删除了推特。[4]  来源包括：https://bushaicave.com/2024/08/25/8-25-2024/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f1ftm8/oneminute_daily_ai_news_8252024/</guid>
+      <pubDate>Mon, 26 Aug 2024 04:37:06 GMT</pubDate>
+    </item>
     <item>
       <title>演员</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f1bbvf/actors/</link>
@@ -20,7 +34,7 @@
       <pubDate>Mon, 26 Aug 2024 00:29:25 GMT</pubDate>
     </item>
     <item>
-      <title>AI艺术图片</title>
+      <title>AI艺术图像</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f186pt/ai_art_images/</link>
       <description><![CDATA[我正在寻找一款适合初学者的 AI 程序，该程序可以根据文本创建艺术图像。有人用过吗？    提交人    /u/Singwong   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f186pt/ai_art_images/</guid>
@@ -46,20 +60,6 @@
       <description><![CDATA[所以基本上就是标题。我想知道目前可用的新 Ai 工具在编程和执行与编程相关的工作时给您带来了多大的提升。  您是否觉得在相同的时间内完成了两倍的工作，是否花费了相似的时间但更加舒适，或者你们究竟如何描述您的体验？     提交人    /u/darkdozark   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f14esu/how_much_has_ai_helped_you_boost_your/</guid>
       <pubDate>Sun, 25 Aug 2024 19:18:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐一个TTS模型</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f12uj4/recommend_a_tts_model/</link>
-      <description><![CDATA[寻找具有以下特征的 TTS 模型：  逼真的声音 速度和情绪控制 男/女选项 即用即付模型  有人可以推荐吗？    提交人    /u/nikhil_webfosters   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f12uj4/recommend_a_tts_model/</guid>
-      <pubDate>Sun, 25 Aug 2024 18:12:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 AI 和 Pdf 来研究科学？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f12rrz/using_ai_with_pdf_to_study_science/</link>
-      <description><![CDATA[我获得了数学、化学和物理学的 PDF，例如 - https://ncert.nic.in/textbook.php?lemh1=1-6。印度政府免费书籍。  AI 能否正确读取 PDF ？它有水印，可能有些地方错位，数学符号有问题，这些书的每一页都分为两列，一些文本似乎是图像/手写图像。 AI 会读图表吗？  我希望 AI 能够 -  删除重复的信息。和无用的信息。 将解释和要学习的内容（定义和公式）分开。 在需要的地方添加更多解释。 解释困难的数学。选择解释表达式如何变成下一步？ 正确分类主题。 添加指向 wiki 和其他来源的链接。 文本摘要：使用 AI 工具总结冗长的科学文章或 PDF。基于 BERT 的摘要器等工具可以帮助浓缩信息，同时保留关键概念。 关键字提取：使用自然语言处理 (NLP) 模型从 PDF 中提取重要关键字。这有助于理解所涵盖的中心主题和主题。 概念图：创建 PDF 中不同概念之间关系的可视化表示。这有助于掌握相互联系。 抽认卡生成 问答系统 主题建模：应用主题建模算法来识别和分类 PDF 中的主要主题。     提交人    /u/RedditNoobie777   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f12rrz/using_ai_with_pdf_to_study_science/</guid>
-      <pubDate>Sun, 25 Aug 2024 18:08:58 GMT</pubDate>
     </item>
     <item>
       <title>从任何文档中获取干净的数据：使用 AI 动态“学习” PDF 格式</title>
