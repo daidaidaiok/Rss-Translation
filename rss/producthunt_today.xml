@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 27 Aug 2024 03:06:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 06:08:54 GMT</lastBuildDate>
     <item>
       <title>询问</title>
       <link>https://www.producthunt.com/posts/rakun-ask</link>
@@ -34,20 +34,6 @@
       <pubDate>Mon, 26 Aug 2024 07:35:07 GMT</pubDate>
     </item>
     <item>
-      <title>快乐的见解</title>
-      <link>https://www.producthunt.com/posts/happy-insights</link>
-      <description><![CDATA[
-从报告生成解释视频
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/happy-insights</guid>
-      <pubDate>Mon, 26 Aug 2024 01:27:56 GMT</pubDate>
-    </item>
-    <item>
       <title>Kypso 用于代码审查</title>
       <link>https://www.producthunt.com/posts/kypso-for-code-reviews</link>
       <description><![CDATA[
@@ -74,6 +60,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/checkstat</guid>
       <pubDate>Sun, 25 Aug 2024 14:31:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>MidJourney 网页版</title>
+      <link>https://www.producthunt.com/posts/midjourney-for-web</link>
+      <description><![CDATA[
+探索想象力的边界
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/midjourney-for-web</guid>
+      <pubDate>Sun, 25 Aug 2024 02:07:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>lmChatGPTtfy</title>
+      <link>https://www.producthunt.com/posts/lmchatgpttfy</link>
+      <description><![CDATA[
+让我帮您谷歌一下 ChatGPT 吊坠
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/lmchatgpttfy</guid>
+      <pubDate>Fri, 23 Aug 2024 12:54:24 GMT</pubDate>
     </item>
     <item>
       <title>CommandDash</title>
@@ -186,20 +200,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/theysaid</guid>
       <pubDate>Fri, 02 Aug 2024 19:55:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>CopyCat 剪贴板</title>
-      <link>https://www.producthunt.com/posts/copycat-clipboard</link>
-      <description><![CDATA[
-您一直想要的剪贴板体验
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/copycat-clipboard</guid>
-      <pubDate>Fri, 12 Jul 2024 12:20:21 GMT</pubDate>
     </item>
     <item>
       <title>米姆尔</title>
