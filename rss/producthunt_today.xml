@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 27 Aug 2024 21:06:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 00:20:56 GMT</lastBuildDate>
     <item>
       <title>Keychron K2 HE</title>
       <link>https://www.producthunt.com/posts/keychron-k2-he</link>
@@ -20,10 +20,10 @@
       <pubDate>Tue, 27 Aug 2024 09:41:31 GMT</pubDate>
     </item>
     <item>
-      <title>卤化物工艺零</title>
+      <title>卤化物工艺零点</title>
       <link>https://www.producthunt.com/posts/process-zero-from-halide</link>
       <description><![CDATA[
-拍摄出美丽、自然的胶片般照片，速度比 ProRAW 快 20 倍
+比 ProRAW 更快的自然胶片般的镜头
 
 
 讨论
@@ -76,34 +76,6 @@
       <pubDate>Sun, 25 Aug 2024 22:36:44 GMT</pubDate>
     </item>
     <item>
-      <title>TCG 中心</title>
-      <link>https://www.producthunt.com/posts/tcg-central</link>
-      <description><![CDATA[
-TCG 卡收集管理
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/tcg-central</guid>
-      <pubDate>Fri, 23 Aug 2024 14:05:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>粉丝杂志</title>
-      <link>https://www.producthunt.com/posts/fanzine</link>
-      <description><![CDATA[
-发现各种创作者，与朋友分享
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/fanzine</guid>
-      <pubDate>Fri, 23 Aug 2024 01:31:36 GMT</pubDate>
-    </item>
-    <item>
       <title>追溯连续性</title>
       <link>https://www.producthunt.com/posts/retcon</link>
       <description><![CDATA[
@@ -116,20 +88,6 @@ TCG 卡收集管理
 ]]></description>
       <guid>https://www.producthunt.com/posts/retcon</guid>
       <pubDate>Thu, 22 Aug 2024 14:10:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>10xlaunch</title>
-      <link>https://www.producthunt.com/posts/10xlaunch</link>
-      <description><![CDATA[
-从相同的网站流量中获取更多用户
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/10xlaunch</guid>
-      <pubDate>Thu, 22 Aug 2024 07:53:59 GMT</pubDate>
     </item>
     <item>
       <title>顺时针棱镜</title>
@@ -200,6 +158,48 @@ Google Workspace 中团队共享的看板
 ]]></description>
       <guid>https://www.producthunt.com/posts/kanban-tasks</guid>
       <pubDate>Tue, 20 Aug 2024 12:17:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 版 new.space</title>
+      <link>https://www.producthunt.com/posts/new-space-for-ios</link>
+      <description><![CDATA[
+轻松分享、反馈和规划
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/new-space-for-ios</guid>
+      <pubDate>Mon, 12 Aug 2024 15:33:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>外足动物</title>
+      <link>https://www.producthunt.com/posts/exopods</link>
+      <description><![CDATA[
+带上您的 Docker 镜像或 GitHub 存储库，几秒钟内即可上线。
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/exopods</guid>
+      <pubDate>Thu, 08 Aug 2024 06:07:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>快速启动</title>
+      <link>https://www.producthunt.com/posts/launchfast-4</link>
+      <description><![CDATA[
+一个命令即可获得功能齐全、安全且可投入生产的应用程序
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/launchfast-4</guid>
+      <pubDate>Tue, 23 Jul 2024 10:46:45 GMT</pubDate>
     </item>
     <item>
       <title>斯瓦特尔</title>

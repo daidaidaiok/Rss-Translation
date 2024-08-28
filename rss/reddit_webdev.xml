@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 27 Aug 2024 21:06:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 00:20:43 GMT</lastBuildDate>
+    <item>
+      <title>不可靠的网站和相关属性</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f2wbgt/sketchy_websites_and_rel_attributes/</link>
+      <description><![CDATA[这些网站的所有者是否故意不使用 rel=“noreferrer” 或 noopener，以鼓励弹出窗口和广告软件？     提交人    /u/soulexpiration   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f2wbgt/sketchy_websites_and_rel_attributes/</guid>
+      <pubDate>Wed, 28 Aug 2024 00:03:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要建立公司网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f2uv3l/looking_to_make_company_site/</link>
+      <description><![CDATA[我被委托制作一个网站创意演示文稿，与我的同事分享。问题是我不知道我在做什么，也不知道他们想要什么哈哈，我只知道我们将来会在这里做一个网站（虽然很专业，但会是一个健康领域的网站）。有人能用最简单的术语向我解释一下我们需要什么吗？我想我应该分享一下网站建设者/网站开发人员、网站设计师的利弊，一些可以雇佣来做这些工作的潜在公司或自由职业者（原住民公司或个人最好），在哪里购买域名等。 任何帮助都将不胜感激！    提交人    /u/feeblenoodle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f2uv3l/looking_to_make_company_site/</guid>
+      <pubDate>Tue, 27 Aug 2024 22:58:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习资源 - 2024</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f2txhm/learning_resources_2024/</link>
+      <description><![CDATA[2024 年，针对 Web 开发的最佳学习资源有哪些 - 初学者、中级、高级？    提交人    /u/dca12345   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f2txhm/learning_resources_2024/</guid>
+      <pubDate>Tue, 27 Aug 2024 22:17:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>嗨，不确定这是否合适......关于自由职业的问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f2tiwm/hi_not_sure_if_this_is_appropriate_here_question/</link>
+      <description><![CDATA[对于那些从事自由职业，为客户创建/开发网站的人来说.. 您是否提供项目的托管部分？还是通常由客户负责？ 我只需要了解自由职业者如何做到这一点。谢谢，    提交人    /u/LoneZealousTraveler   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f2tiwm/hi_not_sure_if_this_is_appropriate_here_question/</guid>
+      <pubDate>Tue, 27 Aug 2024 22:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 Vue.js 中制作了一个在线免费计算器集合 - （更多内容见评论）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f2sldd/i_made_an_online_free_calculators_collection_in/</link>
+      <description><![CDATA[        提交人    /u/Talp1   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f2sldd/i_made_an_online_free_calculators_collection_in/</guid>
+      <pubDate>Tue, 27 Aug 2024 21:21:21 GMT</pubDate>
+    </item>
     <item>
       <title>您认为代码库中有多少比例是“垃圾”？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f2s3fc/what_percentage_of_your_codebase_do_you_consider/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[        提交人    /u/ProfessorBeekums   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f2nncf/the_biggest_hurdle_to_designing_for_scale/</guid>
       <pubDate>Tue, 27 Aug 2024 17:59:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找 Figma 资源来创建 MVP：提示和模板？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f2n34h/looking_for_figma_resources_to_create_an_mvp_tips/</link>
-      <description><![CDATA[大家好， 我正在为我的初创公司网站创建 MVP，我正在寻找有用的资源来加快这个过程。 我正在寻找：  模板：是否有人知道专门用于初创网站的 Figma 模板可以为我提供一个很好的起点？ 教程：哪些资源（视频、文章等）可以学习如何有效地使用 Figma 进行网页设计？ 提示：您有什么使用 Figma 创建有效 MVP 的技巧？需要注意哪些关键方面？  我愿意接受任何建议！提前感谢你的帮助。    提交人    /u/HistoricalGiraffe853   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f2n34h/looking_for_figma_resources_to_create_an_mvp_tips/</guid>
-      <pubDate>Tue, 27 Aug 2024 17:36:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>NextJS：在拖放 div 中设置动态内容时出错</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f2mvfb/nextjs_errors_when_setting_dynamic_content_in/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f2mvfb/nextjs_errors_when_setting_dynamic_content_in/</guid>
-      <pubDate>Tue, 27 Aug 2024 17:28:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚接触 webdev（业余爱好者），在移动设备上遇到字体粗细问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f2mc3d/new_to_webdev_hobbyist_having_issues_with_font/</link>
-      <description><![CDATA[      我一直在为我的游戏伙伴们开发这个项目，这个网站在桌面和大屏幕上都能正常运行。  当我检查元素并选择移动设备预览时，它看起来应该正常，但是当我实际在移动设备上打开网站时，文本非常暗淡，并且与预览不符。 有人知道问题可能是什么吗？ 我尝试过字体粗细 100-1000，以及粗体，并尝试过字体大小，但这些都不能解决问题。Chatgpt 也没有帮助。 PS。请对我宽容一点，这是我的第一个网站，视差图像有点磨损。    提交人    /u/Bioleague   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f2mc3d/new_to_webdev_hobbyist_having_issues_with_font/</guid>
-      <pubDate>Tue, 27 Aug 2024 17:06:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>API 将视频发送到 Raspberry Pi 3 上的客户端。它将使用哪种资源（Pi 3 或本地设备）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f2lybd/api_sending_video_to_client_on_the_raspberry_pi_3/</link>
-      <description><![CDATA[我计划在我的 pi 3 上（本地）托管一个 nodeJS api 和一个前端。直接从 pi 3 流式传输视频需要大量资源，但是如果我将视频发送到前端，它仍会使用 pi 3 资源还是会使用我的设备（手机/电脑）资源？    提交人    /u/FlyingChinesePanda   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f2lybd/api_sending_video_to_client_on_the_raspberry_pi_3/</guid>
-      <pubDate>Tue, 27 Aug 2024 16:51:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果被迫使用 Windows Web 服务器来生产 PHP 应用程序，该如何进行？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f2lxyb/if_forced_to_use_a_windows_web_server_for/</link>
-      <description><![CDATA[如果我错了，请纠正我，但似乎没有 WAMP 堆栈或容器解决方案真正用于生产用途，而且 Apache 在 Windows 上运行得也不是那么好，NGINX 也是如此。那么在放弃并使用 IIS 之前，您会尝试什么？我刚刚了解了 Caddy，这听起来很有希望，但我很想听听其他想法。非常感谢。    提交人    /u/Tick-Throwaway   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f2lxyb/if_forced_to_use_a_windows_web_server_for/</guid>
-      <pubDate>Tue, 27 Aug 2024 16:51:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
