@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 28 Aug 2024 15:07:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 18:07:58 GMT</lastBuildDate>
+    <item>
+      <title>DuckDB Labs“宣布与 Hydra 合作”将 DuckDB 嵌入 Postgres</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f3g006/duckdb_labs_announcing_the_hydra_partnership_to/</link>
+      <description><![CDATA[        由    /u/JHydras 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f3g006/duckdb_labs_announcing_the_hydra_partnership_to/</guid>
+      <pubDate>Wed, 28 Aug 2024 17:25:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用此开源库轻松获取 RAG PDF 和其他文档</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f3cql0/rag_pdfs_and_other_documents_easily_with_this/</link>
+      <description><![CDATA[Ragable 是一个开源库，可帮助您更快地构建 RAG 应用。该库负责处理基本必需品，例如：  将 PDF、DOCX、TEXT 文件等解析为矢量嵌入。 存储和查询 Qdrant 中的数据。 代理支持。用于构建 LLM 代理的基本且易于使用的框架。代理可以调用​​纯 Python 函数。无需复杂的包装器库即可轻松传递信息。  我构建了 Ragable 来让我的生活更轻松；以前我使用过 Langchain，说实话，这是一个很棒的库，但它很快就会变得过于复杂。我需要一个简单的框架来构建，并完全控制库正在做的事情。 您可以在此处查看项目：https://github.com/plexcorp-pty-ltd/ragable  PS：如果您喜欢该项目，请加星并分享。我将非常感谢您的支持！谢谢！    提交人    /u/KevinCoder   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f3cql0/rag_pdfs_and_other_documents_easily_with_this/</guid>
+      <pubDate>Wed, 28 Aug 2024 15:13:21 GMT</pubDate>
+    </item>
     <item>
       <title>大家好！我正考虑在印度班加罗尔的大学里举办一次开源研讨会！你们有什么建议吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1f39jkt/hi_all_i_am_thinking_to_conduct_an_open_source/</link>
@@ -20,7 +34,7 @@
       <pubDate>Wed, 28 Aug 2024 12:59:03 GMT</pubDate>
     </item>
     <item>
-      <title>AppTimer – 我制作了一个开源 Linux 工具，用于限制应用程序的使用，具有灵活的计时器和暂停/停止功能</title>
+      <title>AppTimer – 我制作了一个开源 Linux 工具，用于通过灵活的计时器和暂停/停止功能限制应用程序的使用</title>
       <link>https://www.reddit.com/r/opensource/comments/1f38war/apptimer_ive_made_an_open_source_linux_tool_for/</link>
       <description><![CDATA[        提交人    /u/Thin_Explorer_4153   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f38war/apptimer_ive_made_an_open_source_linux_tool_for/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f2nxjb/mer_joyce_and_anni_lai_introduced_the_new_draft/</guid>
       <pubDate>Tue, 27 Aug 2024 18:11:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个盒子制作工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f2l56s/i_made_a_box_making_tool/</link>
-      <description><![CDATA[      大家好！ 我制作了一个工具它为您提供了用平板纸板制作定制盒子的尺寸。我做这个是因为我正在为一份兼职工作制作盒子，并且厌倦了手动计算尺寸。我认为这可能会帮助其他需要快速制作盒子的人。 这里是 repo，您可以在发布部分找到 Windows、Linux 和 Android 二进制文件。 请注意，这是我第一次尝试制作带有 GUI 的程序，以及使用视频游戏引擎。事情可能有点混乱，但它有效！ 我希望有人会觉得它有用！    提交人    /u/armeatball   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f2l56s/i_made_a_box_making_tool/</guid>
-      <pubDate>Tue, 27 Aug 2024 16:18:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我很高兴向您介绍我的桌面播客应用程序 - Cardo</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f2jtp2/i_am_happy_to_introduce_you_to_my_desktop_podcast/</link>
-      <description><![CDATA[       由    /u/tejonaco  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f2jtp2/i_am_happy_to_introduce_you_to_my_desktop_podcast/</guid>
-      <pubDate>Tue, 27 Aug 2024 15:23:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
