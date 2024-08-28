@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 28 Aug 2024 00:20:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 03:06:45 GMT</lastBuildDate>
+    <item>
+      <title>刚刚发布：我的 API 用于生成 iOS Memoji</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f2zseb/just_launched_my_api_to_generate_ios_memojis/</link>
+      <description><![CDATA[      为我的网络应用寻找好的头像一直很困难。我真的很喜欢 iOS Memojis 的外观和感觉。 介绍 Tapback Memojis，这是一个 API，可让您为应用生成吸引人的头像图像。 如果您觉得这很有趣，请在 GitHub 上为 repo 加注：https://github.com/wimell/tapback-memojis。这很有帮助！ 这是免费使用的，如果您希望托管自己的版本，它是开源的。    提交人    /u/Wimell   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f2zseb/just_launched_my_api_to_generate_ios_memojis/</guid>
+      <pubDate>Wed, 28 Aug 2024 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果你使用 NodeJS 和 MongoDB，请不要升级到 Node 22.7.0</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f2z63a/if_you_use_nodejs_and_mongodb_do_not_upgrade_to/</link>
+      <description><![CDATA[愚蠢的是，我没有在部署到 render.com 的服务上固定我的节点版本，因此每次部署我都会获得最新的 Node 版本，但这并不是永远的问题，所以我从来没有优先考虑它。 如果你目前正在这样做，请不要。固定它。 使用 Node 22.7.0，如果用户向你的 MongoDB 插入任何带有 é 等符号的文本，MongoDB 就会爆炸，因为 Node 没有进行正确的 UTF-8 验证。https://github.com/nodejs/node/issues/54543 当用户对我大喊大叫时，我花了一整天试图弄清楚到底发生了什么。不要学我。    由   提交  /u/redditindisguise   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f2z63a/if_you_use_nodejs_and_mongodb_do_not_upgrade_to/</guid>
+      <pubDate>Wed, 28 Aug 2024 02:23:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 PHP 应用程序中实现 nodejs 脚本的最佳方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f2x1s2/best_way_to_implement_nodejs_script_in_php_app/</link>
+      <description><![CDATA[大家好 我有一个 Laravel PHP 应用程序，需要执行一个节点脚本并返回一些结果。目前，我只是通过应用程序中的 exec 命令调用该脚本。我想知道是否有更好的方法来做到这一点。我知道我可以在技术上将节点部分设置为它自己的 api，但我不是 nodejs 专家，它实际上只是一个执行一件事的脚本。任何帮助表示感谢。     提交人    /u/yevo_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f2x1s2/best_way_to_implement_nodejs_script_in_php_app/</guid>
+      <pubDate>Wed, 28 Aug 2024 00:39:18 GMT</pubDate>
+    </item>
     <item>
       <title>不可靠的网站和相关属性</title>
       <link>https://www.reddit.com/r/webdev/comments/1f2wbgt/sketchy_websites_and_rel_attributes/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我曾考虑使用 Docker 和 AWS，但不太确定我能用它做什么。我想将这个项目用作这些技术的学习环境（也许根据建议还可以学习更多）。    提交人    /u/Intelligent_Will_948   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f2pyjq/i_have_started_a_fullstack_dashboard_personal/</guid>
       <pubDate>Tue, 27 Aug 2024 19:31:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>举办个人项目的最佳地点是哪里？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f2ottu/best_place_to_host_personal_projects/</link>
-      <description><![CDATA[大家好，我只是想知道我可以使用哪些好的（最好是免费的）服务来托管个人项目？目前我对自托管不感兴趣，之前曾在 Vercel 和 Azure 上托管过小型项目。但是，我想知道你们更喜欢哪些托管全栈应用程序的选项。我想开始使用 MongoDB 并将数据库集成到我的应用程序中，以开始专注于全栈项目。我计划制作一些将在我的投资组合中展示的项目，也可能由我自己和一些朋友/家人使用，例如预算应用程序或更专业的 API 调用和后端文件 I/O。由于我在大学学习 IT ，我对服务器和 Web 开发有一些了解，但我在这方面还是个初学者，想更深入地研究这一切。如果有帮助的话，我想托管基本的 HTML、CSS、JS 项目，以及 NodeJS 和 Flask/Django 项目，并可选择稍后与其他框架一起使用。 最后，既然你们都在这里，那自由职业呢？我不打算毫无准备地跳进去，但我很好奇一个人如何从小规模开始。我从未使用过 WordPress，但在我看来，如果有朋友请我为他们做点什么，那就是我的首选。在这方面，如果我不需要为网站提供一致的维护，我想知道开发和准备应用程序以进行干净交接的最佳方法是什么？ 感谢您的时间，期待您提供的任何见解。:) 编辑：我愿意接受有免费选项的付费服务，我宁愿支付更多资源的费用，也不愿支付持续使用的费用。（例如，没有 1 个月的试用期）   由    /u/UhhOHai  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f2ottu/best_place_to_host_personal_projects/</guid>
-      <pubDate>Tue, 27 Aug 2024 18:46:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>验证应该放在哪里？外层？核心域对象？数据库级别？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f2o5aa/where_to_put_validations_outer_layers_core_domain/</link>
-      <description><![CDATA[DDD 规定实体和值对象必须始终有效且一致。  因此，它们需要在其构造函数中包含验证逻辑，或者定义一个私有构造函数和一个公共静态工厂。  但与此同时，我们拥有所有这些框架，如 SpringBoot，它们在外层（如 Controller 层）验证请求主体 JSON。  所以我们主要可以在这两个步骤中进行验证。  数据库模式本身也可能包含验证。  所以我的问题是： 在 DDD + 端口和适配器架构中应该在哪里执行验证？ A）值对象和实体 B）外层（控制器中的 JSON 字段） C）数据库级别 如何决定将验证放在哪里？    提交人    /u/Coder_Koala   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f2o5aa/where_to_put_validations_outer_layers_core_domain/</guid>
-      <pubDate>Tue, 27 Aug 2024 18:19:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>规模化设计的最大障碍</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f2nncf/the_biggest_hurdle_to_designing_for_scale/</link>
-      <description><![CDATA[        提交人    /u/ProfessorBeekums   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f2nncf/the_biggest_hurdle_to_designing_for_scale/</guid>
-      <pubDate>Tue, 27 Aug 2024 17:59:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
