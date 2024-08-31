@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 31 Aug 2024 06:07:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 09:05:42 GMT</lastBuildDate>
+    <item>
+      <title>AVID MC：如何禁止将填充物剪切到选定但未修补的轨道中？</title>
+      <link>https://www.reddit.com/r/editors/comments/1f5i3aj/avid_mc_how_to_disable_filler_being_cut_into/</link>
+      <description><![CDATA[假设您有一条包含 2 个视频轨道和 4 个音频轨道的时间线。 您对 V1 进行了仅视频编辑。 V1 已修补，所有其他轨道均未修补，但它们均处于选中状态。 填充物（或您喜欢的空白区域）会自动出现在 V2、A1、A2、A3 和 A4 上，等于编辑到 V1 中的剪辑的持续时间。 有没有办法只在我的序列中显示修补后的视频，而不显示填充物，而不必先取消选择所有其他轨道。 最后一点是关键，我厌倦了取消选择所有轨道，然后在应用编辑之前选择所需的轨道（也在修补之上）。是的，我知道我可以使用快捷方式取消选择所有曲目，但这是一个额外的步骤 - 当在一个工作日内应用于数百次编辑时 - 会变得非常繁琐。 谢谢    提交人    /u/tahump   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f5i3aj/avid_mc_how_to_disable_filler_being_cut_into/</guid>
+      <pubDate>Sat, 31 Aug 2024 07:55:36 GMT</pubDate>
+    </item>
     <item>
       <title>2021 M1 Macbook Pro 与 2023 Mac Mini 在 Prem/Resolve 中的编辑对比</title>
       <link>https://www.reddit.com/r/editors/comments/1f5fky7/2021_m1_macbook_pro_vs_2023_mac_mini_for_editing/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>离开热门 YouTube 频道后寻找新工作。有什么建议吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1f4oxth/finding_a_new_job_after_leaving_a_big_youtube/</link>
-      <description><![CDATA[我最近离开了一个拥有超过 300 万订阅者的 YouTube 频道，我制作的视频获得了数百万的观看次数，我正在寻找新工作，但我想知道编辑一个展示我过去几年所做工作的卷轴的最佳方法，因为它们都是来自同一个客户。  此外，想知道在我的情况下寻找新工作的最佳策略是什么？     提交人    /u/watchforwaspess   [link] [评论]]]></description>
+      <description><![CDATA[我最近离开了一个拥有超过 300 万订阅者的 YouTube 频道，我制作的视频获得了数百万的观看次数，我正在寻找新工作，但我想知道编辑一个展示我过去几年所做工作的卷轴的最佳方法，因为它们都是来自同一个客户。  此外，想知道在我的处境下寻找新工作的最佳策略是什么？     提交人    /u/watchforwaspess   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f4oxth/finding_a_new_job_after_leaving_a_big_youtube/</guid>
       <pubDate>Fri, 30 Aug 2024 07:00:43 GMT</pubDate>
     </item>
@@ -81,13 +88,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f4k27s/all_my_adhd_ocd_editors_out_there_how_do_you_deal/</guid>
       <pubDate>Fri, 30 Aug 2024 02:10:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以私下分享未发布的项目吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1f4hmso/can_i_privately_share_an_unreleased_project/</link>
-      <description><![CDATA[为一家制作公司剪辑一段预告片，我想向潜在雇主展示，但其中包含名人镜头，且从未发布过。将其发布在受密码保护的网站上可以吗？如果不行，我如何最好地离线分享它？    提交人    /u/beepboopbye   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f4hmso/can_i_privately_share_an_unreleased_project/</guid>
-      <pubDate>Fri, 30 Aug 2024 00:09:00 GMT</pubDate>
     </item>
     <item>
       <title>好的防眩光显示器屏幕？</title>
