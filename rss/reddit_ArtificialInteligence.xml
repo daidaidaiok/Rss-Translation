@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 01 Sep 2024 18:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 21:04:58 GMT</lastBuildDate>
+    <item>
+      <title>短篇小说集</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f6o1ju/collection_of_short_stories/</link>
+      <description><![CDATA[我建立了一个网站，里面收集了关于《黑立方体》的短篇小说。故事由 chatGPT 生成的提示生成。图像由 bing 图像创建器生成。除了网站之外，所有这些的创建都是用我编写的一个非常强大的 Python 脚本完成的。我希望可以在这里发布。尽情享受吧。  https://tbc.recycledrobot.co.uk/     提交人    /u/impshum   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f6o1ju/collection_of_short_stories/</guid>
+      <pubDate>Sun, 01 Sep 2024 20:17:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找愿意自愿为科技人士构建平台的开发人员，以便他们找到志同道合的人、参与项目并推广您的工作！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f6mriu/looking_for_developers_who_would_love_to/</link>
+      <description><![CDATA[大家好！ 在我对自己的一个想法有了初步了解之后，我一直在做一些事情。 我正在为对技术创新感兴趣的人建立一个平台。 这是一个寻找志同道合的专业 / 个人联系的平台，可以找到工作和开源项目等机会来做出贡献并从中学习。 主要目标是构建一些很酷的东西来帮助科技界的每个人，这样你就可以发展自己。无论是个人还是专业。 因为我的学习年明天又开始了，我已经很忙了，所以我请求一些额外的人手。  我真的希望这个平台上线越快越好，因为这个项目的需求量很大。 目前我们有一个大约 6 人以上的团队，他们会在空闲时间帮助我，但我们真的需要一些在构建 Web 应用程序前端和后端方面经验丰富的人 :) 如果你想做一些很酷的事情，从而帮助你找到更好的联系和机会，请随时联系我！ 我会与你分享必要的信息 :)    提交人    /u/unknownstudentoflife   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f6mriu/looking_for_developers_who_would_love_to/</guid>
+      <pubDate>Sun, 01 Sep 2024 19:26:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>MiniMax：文本到视频演示</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f6m4qu/minimax_text_to_video_demo/</link>
+      <description><![CDATA[MiniMax 是文本转视频模型的新成员，与 Kling AI、Luma Dream Machine 和 Runway Alpha Gen3 形成了激烈的竞争。查看演示及其使用方法：https://youtu.be/WR5zsSelxzw    提交人    /u/mehul_gupta1997   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f6m4qu/minimax_text_to_video_demo/</guid>
+      <pubDate>Sun, 01 Sep 2024 19:00:18 GMT</pubDate>
+    </item>
     <item>
       <title>翻译复杂的 PDF？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f6kbfu/translating_complex_pdfs/</link>
@@ -55,20 +76,6 @@
       <pubDate>Sun, 01 Sep 2024 16:13:22 GMT</pubDate>
     </item>
     <item>
-      <title>对图像进行排序和微调模型的免费工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f6h09j/free_tool_to_rank_images_and_finetune_your_models/</link>
-      <description><![CDATA[  由    /u/QuentinWach  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f6h09j/free_tool_to_rank_images_and_finetune_your_models/</guid>
-      <pubDate>Sun, 01 Sep 2024 15:22:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何记忆？ Vapi、复述、乐队</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f6fc37/how_to_remember_vapi_retell_band/</link>
-      <description><![CDATA[如果您希望呼叫机器人记住以前的呼叫，您将如何操作？ 假设我通过 Hubspot、Zapier 和 VAPI（或者 retell，我不知道）在所需时间设置自动呼叫。 我想我可以设法定期给客户打电话。但机器人如何记住所有以前的电话？ 类似于将记录发送到 Hubspot 或 Google Drive 并以此作为通话的基础？ 有人建过这样的东西吗？我应该选择哪种软件？Vapi、retell 还是 tape？ 非常感谢 🙌🏻    提交人    /u/Ein_Delphin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f6fc37/how_to_remember_vapi_retell_band/</guid>
-      <pubDate>Sun, 01 Sep 2024 14:09:44 GMT</pubDate>
-    </item>
-    <item>
       <title>我正在 YouTube 上分享数据科学和人工智能课程和项目</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f6drqk/i_am_sharing_data_science_ai_courses_and_projects/</link>
       <description><![CDATA[大家好，我想分享一下我在我的 YouTube 频道上分享的免费课程和项目。我有 200 多个视频，并且创建了用于学习数据科学的播放列表。我将在下面留下播放列表链接，祝大家有美好的一天！ 数据科学完整课程和项目 -&gt; https://youtube.com/playlist?list=PLTsu3dft3CWiow7L7WrCd27ohlra_5PGH&amp;si=6WUpVwXeAKEs4tB6 数据科学项目 -&gt; https://youtube.com/playlist?list=PLTsu3dft3CWg69zbIVUQtFSRx_UV80OOg&amp;si=go3wxM_ktGIkVdcP 机器学习教程 ——&gt; https://youtube.com/playlist?list=PLTsu3dft3CWhSJh3x5T6jqPWTTg2i6jp1&amp;si=1rZ8PI1J4ShM_9vW    提交人    /u/onurbaltaci   [链接] [评论]]]></description>
@@ -81,13 +88,6 @@
       <description><![CDATA[  由    /u/Oasis_meta  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f6bg69/app_for_analyzing_cat_pain_via_ai/</guid>
       <pubDate>Sun, 01 Sep 2024 10:38:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>摘要：八月大事</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f64d66/summary_the_big_events_of_august/</link>
-      <description><![CDATA[ “黑森林实验室”发布图像生成模型Flux的权重，性能优于同类闭源模型。 OpenAI发布了其模型gpt4o 0806的新版本，在生成有效JSON输出方面取得了100％的成功率。 Google的图像生成模型Imagen 3已经发布。 xAI Corporation推出了模型Grok 2和Grok 2 mini，其性能与市场上领先的SOTA模型相当。 微软推出了三个版本的小型语言模型Phi 3.5，每个版本都展示了相对于其大小而言令人印象深刻的性能。 Google推出了三个新的实验性AI模型：Gemini 1.5 Flash8B，Gemini 1.5 Pro增强型，和Gemini 1.5 Flash更新。 Ideogram 2.0已经发布，提供超越其他领先模型的图像生成能力。 Luma推出了用于视频创作的Dream Machine 1.5模型。 Magic AI开发了一种名为LTM2mini的新语言模型，能够处理1亿个token的上下文窗口。     submitted by    /u/nh_local   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f64d66/summary_the_big_events_of_august/</guid>
-      <pubDate>Sun, 01 Sep 2024 02:48:07 GMT</pubDate>
     </item>
     <item>
       <title>God Claud 3.5 的编码能力非常出色</title>
