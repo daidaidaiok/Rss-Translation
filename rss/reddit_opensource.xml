@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 02 Sep 2024 18:07:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 21:06:57 GMT</lastBuildDate>
+    <item>
+      <title>加入我们，共同开发 k-inv：混沌工程，让每个人都能享受乐趣</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f7dn86/join_us_in_developing_kinv_chaos_engineering_for/</link>
+      <description><![CDATA[我们刚刚发布了 k-inv demo 的新版本，这是一个用于 Kubernetes 的混沌工程工具，我们不断改进其新功能！ 想看看 k-inv 的实际效果吗？请在此处查看演示：https://kubeinvaders.platformengineering.it/ 该项目是 100% 开源的（Apache 2.0 许可证），因此请随意贡献并帮助我们构建真正了不起的东西。如果您有兴趣参与，请查看我们的 Git 仓库：https://github.com/lucky-sideburn/kubeinvaders 我们是一家专注于平台工程的初创公司，您可以在这里了解有关我们的更多信息：https://platformengineering.it/    提交人    /u/luckysideburn2   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f7dn86/join_us_in_developing_kinv_chaos_engineering_for/</guid>
+      <pubDate>Mon, 02 Sep 2024 18:12:16 GMT</pubDate>
+    </item>
     <item>
       <title>Linux 在 Statcounter 上打破了 2024 年 8 月的另一项市场份额记录</title>
       <link>https://www.reddit.com/r/opensource/comments/1f7cawb/linux_smashes_another_market_share_record_for/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在寻找一款类似于 Flacbox 的应用，至少支持 flac、高分辨率，并且可以从我的驱动器或谷歌驱动器播放高分辨率音乐。谢谢     提交人    /u/Minconerold   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f6ibwl/i_am_looking_for_a_open_source_flacbox_or/</guid>
       <pubDate>Sun, 01 Sep 2024 16:18:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找合作伙伴来打造围绕移动机器人的产品。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f6ff0e/searching_for_partners_to_build_products_around/</link>
-      <description><![CDATA[  由    /u/shandy_bhaiya  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f6ff0e/searching_for_partners_to_build_products_around/</guid>
-      <pubDate>Sun, 01 Sep 2024 14:13:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
