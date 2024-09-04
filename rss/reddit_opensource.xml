@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 04 Sep 2024 12:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 15:06:49 GMT</lastBuildDate>
+    <item>
+      <title>无代码/低代码 Python？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f8ro0k/no_codelow_code_python/</link>
+      <description><![CDATA[还有人需要无代码/低代码的 Python 编程解决方案吗？ 我主要从事 Python 数据科学工作，并创建大量图表来解释数据是如何被操纵的。我见过一些像 alteryx 这样的东西做这种事情，但我认为一个可以无缝地从可视化切换到 Python 代码编程的工具会很有用。 还有人这么想吗？已经有类似的东西了吗？我试过 airflow，但它不一定是无缝的代码/无代码集成。它更像是在图表中表示的工作流中进行编码，而不是相反。    提交人    /u/Competitive-Fun-5969   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f8ro0k/no_codelow_code_python/</guid>
+      <pubDate>Wed, 04 Sep 2024 12:10:55 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个 AI 工具来处理我妈妈的发票，节省了她数小时的手动工作！</title>
       <link>https://www.reddit.com/r/opensource/comments/1f8r26c/i_built_an_ai_tool_to_handle_my_mums_invoices_and/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨， 我住在欧洲（法国），我正在寻找一款具有 ECG 功能的智能手表。我寻找了一些真正的开源选项，并找到了 Pine64 的 PineTime 和 ZSWatch。它们是非常酷的项目，但它们还没有那么多功能。 所以，目前，我认为唯一的选择是购买专有智能手表。但我想选择最尊重隐私的。理想情况下，手表不需要我将其连接到互联网，并且可以与 Gadget Bridge 应用程序兼容。或者，至少允许我通过 USB 将数据提取到计算机。 我认为 Garmin Venu 3 是一个不错的选择，因为它具有 ECG 功能并受 Gadge Bridge 支持。但是在对其 ECG 功能进行更多研究并在 r/Garmin 上阅读有关它的信息后，似乎 Garmin 手表 ECG 因法规原因在欧洲无法使用。 所以，有人推荐一款可能适合我使用情况的手表吗？    提交人    /u/Alarmed_Price_7945   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f7uqah/privacyrespecting_smartwatch_with_ecg_feature/</guid>
       <pubDate>Tue, 03 Sep 2024 08:23:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>1 月：隐私第一，开源个人人工智能——没有人能通过人工智能阅读你的聊天记录</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f7stjb/jan_privacyfirst_opensource_personal_ai_no_one/</link>
-      <description><![CDATA[        由    /u/emreckartal  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f7stjb/jan_privacyfirst_opensource_personal_ai_no_one/</guid>
-      <pubDate>Tue, 03 Sep 2024 06:08:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
