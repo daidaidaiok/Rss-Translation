@@ -4,97 +4,102 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Wed, 04 Sep 2024 20:59:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 00:12:29 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 反捕鲸活动家保罗·沃森仍被拘留在格陵兰，等待决定[...]</title>
-      <link>https://t.me/hn_summary/106980</link>
-      <description><![CDATA[反捕鲸活动家保罗·沃森被关押在格陵兰监狱
-反捕鲸活动家保罗·沃森仍被关押在格陵兰，等待引渡到日本的决定。沃森于 2012 年 7 月因日本的逮捕令被捕，他被指控在 2010 年的一次遭遇中损坏了一艘日本捕鲸船并打伤了一名船员。日本为其捕鲸行为辩护，称其是一种文化行为，但环保人士对此提出了严厉批评。沃森曾是海洋守护者协会的领导人和绿色和平组织的联合创始人，他声称这些指控是报复性的。他的辩护律师辩称，没有证据表明他受伤，而检方认为他有潜逃风险。格陵兰高等法院将审查拘留决定，丹麦最终决定是否引渡。值得注意的是，法国总统马克龙和女演员碧姬·芭铎均支持沃森，要求释放沃森的请愿书已获得超过 120,000 个签名。]]></description>
-      <guid>https://t.me/hn_summary/106980</guid>
-      <pubDate>Wed, 04 Sep 2024 20:59:24 GMT</pubDate>
+      <title>[媒体] 我住在郊区，有一个独立的车库，检查车库门是否关闭 [...]</title>
+      <link>https://t.me/hn_summary/106999</link>
+      <description><![CDATA[我在车库门上加了一个 ratgdo，我不知道为什么等了这么久
+我住在郊区，有一个独立车库，每晚检查车库门是否关闭很麻烦。我最初构建了一个基于 Raspberry Pi 的解决方案，通过电子邮件向我发送门的状态，但德克萨斯州的夏天毁了它。为了寻求更好的解决方案，我需要一个与我的 LiftMaster 车库门开启器和 Apple 的 HomeKit 兼容的东西。我很快就放弃了 Chamberlain 的 MyQ 系统，因为它的配件要求过时，应用程序很具侵入性，可能会收集个人数据并将其货币化。鉴于 Chamberlain 的所有权归一家数据管理历史不佳的私募股权公司所有，我拒绝使用他们的应用程序。所以，我寻找替代方案。]]></description>
+      <guid>https://t.me/hn_summary/106999</guid>
+      <pubDate>Thu, 05 Sep 2024 00:12:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在本文中，作为我们“花卉机器”系列的一部分，我们深入探讨了 [...] 的必要性。</title>
-      <link>https://t.me/hn_summary/106979</link>
-      <description><![CDATA[花机
-在这篇文章中，作为“花机”系列的一部分，我们深入探讨了这种机器的控制大脑的必要性。通常，会使用工业 PLC（可编程逻辑控制器），但这些控制器通常价格过高，依赖专有软件，并且主要仅适用于 Windows。为了克服这些障碍，我开发了 Poppy 逻辑控制器，这是一款经济实惠的定制 PLC 类设备。这篇文章重点介绍硬件方面，计划在未来的文章中介绍软件和固件。所有硬件设计文件和固件源均可在 GitHub 上找到：https://github.com/Rahix/Poppy-Logic-Controller。]]></description>
-      <guid>https://t.me/hn_summary/106979</guid>
-      <pubDate>Wed, 04 Sep 2024 20:44:13 GMT</pubDate>
+      <title>在《C 语言中的未定义行为是一种阅读错误》一书中，作者批评了目前流行的对 [...]</title>
+      <link>https://t.me/hn_summary/106998</link>
+      <description><![CDATA[C 中的未定义行为是一种阅读错误 (2021)
+在“C 中的未定义行为是一种阅读错误”一文中，作者批评了 C 语言编程中对“未定义行为”的普遍解释，这种解释导致了重大的语义问题。最初，早期的 C 标准适度地解决了这个概念，但随着时间的推移，它被误解为编译器对处理未定义行为没有任何限制。这种误读使编译器有理由进行激进的优化，如果检测到任何未定义的行为，则会使整个程序变得毫无意义。作者主张一种更具建设性的解释，以符合标准的初衷，将未定义行为限制在特定的构造中，并确保编译器可预测地处理这些情况。争议在于当前的解释对 C 程序的可靠性和稳定性的影响，使得该语言不适合操作系统和数据库等关键应用程序。]]></description>
+      <guid>https://t.me/hn_summary/106998</guid>
+      <pubDate>Wed, 04 Sep 2024 23:58:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：X 在裁员两年后重新招聘安保人员</title>
-      <link>https://t.me/hn_summary/106978</link>
-      <description><![CDATA[裁员两年后，X 正在招聘安全人员
-标题：裁员两年后，X 正在招聘安全人员
+      <title>Laminar 是一个开源可观察性和分析工具，专为复杂的 LLM（大型局域网）而设计 [...]</title>
+      <link>https://t.me/hn_summary/106997</link>
+      <description><![CDATA[显示 HN：Laminar – 用于 LLM 应用的开源 DataDog + PostHog，内置 Rust
+Laminar 是一款开源可观察性和分析工具，专为复杂的 LLM（大型语言模型）应用程序而设计，结合了类似于 DataDog 和 PostHog 的功能。它内置于 Rust，利用 OpenTelemetry 自动检测 LLM 和矢量数据库调用，并使用 RabbitMQ、Postgres 和 Clickhouse 进行可扩展的数据处理和分析。Laminar 提供基于语义事件的分析，允许用户跟踪来自 LLM 管道的特定指标。它提供快速、富有洞察力的仪表板来监控跟踪、跨度和事件。Laminar 以其现代堆栈和易于集成而与众不同，通过 Docker 支持托管云和自托管设置。]]></description>
+      <guid>https://t.me/hn_summary/106997</guid>
+      <pubDate>Wed, 04 Sep 2024 23:57:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 尼泊尔新民主党（NDP）已正式终止其信任与供应协议 [...]</title>
+      <link>https://t.me/hn_summary/106996</link>
+      <description><![CDATA[加拿大：新民主党终止与联邦自由党的信任协议
+新民主党 (NDP) 已正式终止与联邦自由党政府的信任和供应协议，这一重大政治转变可能会导致加拿大政治更加不稳定。此举是在持续的经济挑战（包括通货膨胀和就业市场担忧）中发生的。终止这项协议可能会导致潜在的选举，或迫使自由党寻求新的联盟以维持权力。考虑到时机，这一发展尤其令人惊讶，因为它恰逢加拿大央行预期的降息公告，旨在解决不断上涨的成本，包括返校费用。]]></description>
+      <guid>https://t.me/hn_summary/106996</guid>
+      <pubDate>Wed, 04 Sep 2024 23:41:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 美国证券交易委员会（SEC）对六家主要信用评级机构处以罚款[...]</title>
+      <link>https://t.me/hn_summary/106995</link>
+      <description><![CDATA[SEC 因未保存电子记录对 6 家主要信用评级机构处以罚款
+美国证券交易委员会 (SEC) 因未保存电子通信对 6 家主要信用评级机构处以总计 4900 万美元的罚款。穆迪投资者服务公司和标普全球评级公司被罚款最多，分别达 2000 万美元，其次是惠誉评级公司，罚款 800 万美元，A.M. Best 评级服务公司罚款 100 万美元，HR Ratings de México 罚款 25 万美元，Demotech 罚款 10 万美元。SEC 发现，这些公司违反了联邦证券法，没有保存所需的记录，穆迪的员工甚至使用个人设备进行工作通信。除了 A.M. Best 和 Demotech，这些公司都必须聘请合规顾问并审查其电子通信政策。这些机构已表达了对遵守法规的承诺，并正在努力改善其记录保存实践。]]></description>
+      <guid>https://t.me/hn_summary/106995</guid>
+      <pubDate>Wed, 04 Sep 2024 23:18:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 美国司法部 (DOJ) 加大了对 Nvidia 的调查力度，[...]</title>
+      <link>https://t.me/hn_summary/106994</link>
+      <description><![CDATA[据报道，美国司法部向英伟达发出传票，以深化对人工智能的反垄断调查
 
-在大规模裁员近两年后，埃隆·马斯克的社交媒体公司 X 现在正在为其信任、安全和网络安全团队招聘新员工。该公司最近发布了二十多个职位空缺，包括战略响应总监和安全工程师等职位。此次招聘是在马斯克以 440 亿美元收购这家前身为 Twitter 的公司之后进行的，该公司的员工人数大幅减少，其中信任和安全团队裁员 80%。尽管有这些新员工，但与被解雇的 6,000 名员工相比，人数还是很少。该公司管理内容审核和网络安全的能力受到质疑，尤其是在巴西最高法院因未能删除错误信息而禁止 X 以及马斯克有争议地宣传被指控传播仇恨和错误信息的内容等事件之后。]]></description>
-      <guid>https://t.me/hn_summary/106978</guid>
-      <pubDate>Wed, 04 Sep 2024 20:37:07 GMT</pubDate>
+美国司法部 (DOJ) 加强了对英伟达的调查，从质询竞争对手转向向英伟达和其他科技公司发出传票。调查旨在确定英伟达是否滥用其在人工智能计算领域的主导地位，指控包括向独家客户提供优惠供应和定价，以及可能具有反竞争性的收购，如 RunAI。这种深入的审查影响了英伟达的市值，其市值在一天内下跌了 2790 亿美元，创历史新高。尽管如此，英伟达仍然保持着市场主导地位，拥有庞大的开发者和公司生态系统。美国司法部的更广泛关注点是防止任何科技公司垄断人工智能行业，类似于其最近成功击败谷歌的搜索垄断。]]></description>
+      <guid>https://t.me/hn_summary/106994</guid>
+      <pubDate>Wed, 04 Sep 2024 23:16:58 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：关于在 iPad 上编程有什么建议吗？</title>
-      <link>https://t.me/hn_summary/106977</link>
-      <description><![CDATA[询问 HN：关于在 iPad 上编程有什么建议吗？
-标题：询问 HN：关于在 iPad 上编程有什么建议吗？
-网站：news.ycombinator.com
+      <title>[媒体] 在“抽象调试器：使用静态分析结果探索程序行为”中 [...]</title>
+      <link>https://t.me/hn_summary/106993</link>
+      <description><![CDATA[抽象调试器：使用静态分析结果探索程序行为 [pdf](https://news.ycombinator.com/item?id=41449748)
+在“抽象调试器：使用静态分析结果探索程序行为”一文中，作者介绍了抽象调试器的概念，它允许开发人员探索从静态分析中得出的抽象程序状态，而不是从实际程序执行中得出的具体状态。这种新颖的方法使开发人员能够在所有可能的执行中验证有关程序行为的假设，从而排除误报并理解为什么某些代码被视为安全。本文将这一概念形式化，使用 Goblint 静态分析器实现一个工具，并通过案例研究展示其实用性。抽象调试器接口模仿传统调试器，使静态分析结果更易于访问和解释。该方法利用调试适配器协议 (DAP) 与现有 IDE 集成，从而减少实施工作量。主要贡献包括抽象调试语义的形式化、实际实施以及展示其在理解静态分析警报和保证方面的有效性的示例。
 
-我正在寻找有关使用 iPad 进行编程的建议，特别是关于学习 C 语言和运行基本代码片段或小程序的建议。iPad 的便携性和便利性使其成为一个有吸引力的选择，但我不确定可用于此目的的最佳工具和应用程序。任何有关在 iPad 上有效编码环境的建议或经验都将不胜感激。]]></description>
-      <guid>https://t.me/hn_summary/106977</guid>
-      <pubDate>Wed, 04 Sep 2024 20:29:01 GMT</pubDate>
+令人惊讶/独特的方面：引入抽象调试器，允许开发人员以交互方式探索所有可能的程序行为，而无需特定的输入值，这是软件调试领域一种独特而创新的方法。（基于 13% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/106993</guid>
+      <pubDate>Wed, 04 Sep 2024 22:36:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 埃隆·马斯克的卫星互联网服务 Starlink 已经改变了立场，并同意 [...]</title>
-      <link>https://t.me/hn_summary/106976</link>
-      <description><![CDATA[埃隆·马斯克的 Starlink 改变立场，遵守巴西对 X 的禁令
-埃隆·马斯克的卫星互联网服务 Starlink 改变了立场，同意遵守巴西最高法院的命令，阻止访问马斯克的社交媒体平台 X（前身为 Twitter）。最初，Starlink 抵制了法官亚历山大·德莫拉斯 (Alexandre de Moraes) 的命令，后者冻结了该公司的资产以强制合规。尽管马斯克直言不讳地批评德莫拉斯，称他为“罪犯”和“邪恶暴君”，但 Starlink 宣布将遵循法院的指令，同时寻求法律途径。争议的焦点是德莫拉斯决定冻结 Starlink 的账户，一些法律专家对此提出质疑，因为 Starlink 和 X 是独立的实体。此举对 Starlink 的 25 万巴西客户具有重大影响，其中许多偏远地区的客户依赖其服务。这种情况凸显了科技领导者与政府当局之间日益紧张的关系。]]></description>
-      <guid>https://t.me/hn_summary/106976</guid>
-      <pubDate>Wed, 04 Sep 2024 20:20:57 GMT</pubDate>
+      <title>[媒体] 澳大利亚安全情报机构 (ASIO) 负责人 Mike Burgess 表示，他可能很快会利用自己的权力，迫使科技公司 [...]</title>
+      <link>https://t.me/hn_summary/106992</link>
+      <description><![CDATA[澳大利亚安全情报组织 (ASIO) 警告大型科技公司，他们可能会被迫解锁加密聊天
+澳大利亚安全情报组织 (ASIO) 负责人 Mike Burgess 表示，他可能很快会利用自己的权力强迫科技公司解锁加密聊天，以协助国家安全调查。Burgess 强调，那些违法或构成安全威胁的人将丧失隐私权。他澄清说，澳大利亚安全情报组织 (ASIO) 寻求的是针对性访问，而不是大规模监视，并一直在与科技公司讨论合规问题。2018 年澳大利亚立法允许当局在自愿合作失败时强迫科技公司提供访问权限。然而，像 Signal 这样的科技公司认为，这样的法律可能会给不良行为者带来漏洞。Burgess 反驳说，合法访问可以在不损害加密完整性的情况下设计。他还指出，澳大利亚安全情报机构 (ASIO) 还有其他方法来获取加密通信，尽管成本高昂，但他强调需要科技公司的合作和潜在的政府支持。]]></description>
+      <guid>https://t.me/hn_summary/106992</guid>
+      <pubDate>Wed, 04 Sep 2024 22:35:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Anansi 是一个旨在促进创建 Anki 卡片的辅助工具。</title>
-      <link>https://t.me/hn_summary/106975</link>
-      <description><![CDATA[显示 HN：Anki 卡片助手
-Anansi 是一款辅助工具，旨在帮助创建 Anki 卡片。它允许用户上传各种格式（txt、pdf、docx、csv、html、epub）的文件，或者在不上传文件的情况下请求特定主题的卡片。Anansi 从上传的文本中生成问答对，然后可以下载并导入 Anki。可以使用 Python 或 Docker 安装该项目，并提供了两种方法的详细说明。Anansi 的突出之处在于支持多种文件格式，并提供生成与 Anki 兼容的内容的简化流程。作者还强调了间隔重复对有效学习的好处。]]></description>
-      <guid>https://t.me/hn_summary/106975</guid>
-      <pubDate>Wed, 04 Sep 2024 20:13:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在我的博客中，我认为编码的隐含性会随着时间的推移导致更高的混乱，或者 [...]</title>
-      <link>https://t.me/hn_summary/106974</link>
-      <description><![CDATA[显式优于隐式
-在我的博客中，我认为编码中的隐式性会导致随着时间的推移而产生更高的混乱，或者我称之为更高的每分钟 WTF（WTFPM）。隐式代码迫使开发人员记住隐藏的细节，使其他人难以理解代码。例如，在函数中添加无法解释的“10”会造成混淆，而将其定义为“奖励”变量则很清楚。Tim Peters 的《Python 之禅》指出，“显式优于隐式”，我全心全意支持这一观点。显式代码，如明确定义的角色权限，提高了清晰度和可维护性。这一原则优先考虑可读性和未来更新的易用性，即使这意味着编写更冗长的代码。]]></description>
-      <guid>https://t.me/hn_summary/106974</guid>
-      <pubDate>Wed, 04 Sep 2024 20:10:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] “Emerge Tools Hacker News”项目是Hacker New的开源Android客户端[...]</title>
-      <link>https://t.me/hn_summary/106973</link>
-      <description><![CDATA[显示 HN：开源 Android 版 Hacker News 客户端
-“Emerge Tools Hacker News”项目是 Hacker News 的开源 Android 客户端，旨在作为 Android 和 iOS 平台的实用示例。它利用 Emerge 的产品套件进行大小分析、快照测试、死代码检测和性能测试。Android 应用程序可在 Google Play 上获取，而 iOS 版本正在开发中。该项目使用 Android 版 Emerge Gradle 插件和 iOS 版 fastlane 演示了与 Emerge 工具的集成。该存储库旨在提供一个全面的示例，展示如何利用 Emerge 在移动应用程序开发中的功能，使其有别于其他类似项目。]]></description>
-      <guid>https://t.me/hn_summary/106973</guid>
-      <pubDate>Wed, 04 Sep 2024 20:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：arstechnica.com</title>
-      <link>https://t.me/hn_summary/106972</link>
-      <description><![CDATA[Rust in Linux 负责人退休，而不是处理更多“非技术性废话”
-标题：Rust in Linux 负责人退休，而不是处理更多“非技术性废话”
-网站：arstechnica.com
+      <title>[媒体] 亲爱的开发者，</title>
+      <link>https://t.me/hn_summary/106991</link>
+      <description><![CDATA[代码审查焦虑工作簿
+亲爱的开发人员，
 
-以激烈争论著称的 Linux 内核，Rust for Linux 项目的一位关键开发人员 Wedson Almeida Filho 因“非技术性废话”而退休。 Filho 相信 Rust 等内存安全语言是未来的发展方向，他表示自己没有精力应对 C 内核开发人员的阻力。他强调了与内核维护者 Ted Ts&#39;o 的争执，后者反对强​​制学习 Rust。Asahi Lina 和 Drew DeVault 也表达了 Filho 的不满，并指出 Linux 社区内部存在政治挑战。Linus Torvalds 承认 Rust 的采用速度缓慢，并将其归咎于开发人员的不情愿和 Rust 的不稳定性。尽管 Rust 有潜在的好处，但人们仍抵制它，这才是争议的焦点。]]></description>
-      <guid>https://t.me/hn_summary/106972</guid>
-      <pubDate>Wed, 04 Sep 2024 19:53:35 GMT</pubDate>
+对代码审查感到焦虑是软件开发人员的常见经历，称为代码审查焦虑。这种焦虑的特点是对判断和批评的恐惧，可能导致适得其反的行为，如避免审查或拖延。这些行为不仅加剧了焦虑，而且还阻碍了代码审查的好处，例如提高代码质量和团队协作。与普遍看法相反，这个问题影响到各个级别的开发人员，而不仅仅是初级开发人员。
+
+在开发人员成功实验室，我们重视软件开发的人性化方面，并创建了一个认知行为研讨会来解决代码审查焦虑。这个 90 分钟的课程教授管理生理反应和认知重组以重塑负面想法的策略。由 Carol Lee 博士和 Cat Hicks 博士领导的随机对照试验表明，研讨会显著降低了参与者的焦虑感，增强了参与者的自我同情心。
+
+为了扩大这些好处，我们开发了代码审查焦虑工作簿，这是我们研讨会的自导版。无论您是一次性解决还是分小部分解决，无论是独自解决还是与同事一起解决，这本工作簿都旨在帮助您控制焦虑并专注于您喜欢的事情：编码。我们还提供 PDF 版本以方便使用。
+
+您应该在没有焦虑负担的情况下编码，我们在这里为您提供支持！
+
+诚挚的，
+Carol &amp; Kristen
+
+最后更新于 3 个月前]]></description>
+      <guid>https://t.me/hn_summary/106991</guid>
+      <pubDate>Wed, 04 Sep 2024 22:33:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：www.techdirt.com</title>
-      <link>https://t.me/hn_summary/106971</link>
-      <description><![CDATA[AI Checkers 强迫孩子们像机器人一样写作，以避免被称为机器人
-标题：AI Checkers 强迫孩子们像机器人一样写作，以避免被称为机器人
-网站：www.techdirt.com
-
-本文讨论了 AI 检测工具在教育环境中的意外后果，重点介绍了学生的论文被 Grammarly 的 AI 检查器标记的个人经历。尽管论文是人工撰写的，但该工具错误地表明它部分由 AI 生成，导致沮丧并导致不必要的修改。作者批评了加州的 SB 942 法案，该法案要求使用人工智能检测工具，尽管这些工具并不可靠。这篇文章强调了人工智能工具扼杀创造力的讽刺性，类似于库尔特·冯内古特的《哈里森·伯杰龙》中的反乌托邦主题。争议在于人工智能检查器对真正的学生作业的有效性和影响。]]></description>
-      <guid>https://t.me/hn_summary/106971</guid>
-      <pubDate>Wed, 04 Sep 2024 19:44:28 GMT</pubDate>
+      <title>[媒体] 什么是原子钟？</title>
+      <link>https://t.me/hn_summary/106990</link>
+      <description><![CDATA[什么是原子钟？（2019 年）
+NASA 喷气推进实验室将于 2019 年 6 月 24 日发射深空原子钟，这是太空导航技术的一项突破性进步。与传统的卫星原子钟不同，这种新时钟提供了前所未有的精度和稳定性，这对于自主航天器导航到火星等遥远的地方至关重要。原子钟的工作原理是将石英晶体振荡器与原子相结合，使用改变电子轨道所需的一致能级作为通用时间标准。深空原子钟使用汞离子，其稳定性是当前 GPS 卫星时钟的 50 倍，可实现更准确、更可靠的太空任务。这项创新可能会彻底改变我们探索太空的方式，最大限度地减少与地球持续通信的需要。]]></description>
+      <guid>https://t.me/hn_summary/106990</guid>
+      <pubDate>Wed, 04 Sep 2024 22:28:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
