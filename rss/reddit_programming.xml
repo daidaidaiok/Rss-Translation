@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 05 Sep 2024 09:06:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 12:09:21 GMT</lastBuildDate>
+    <item>
+      <title>我如何从 gnews api 获取新闻？</title>
+      <link>https://www.reddit.com/r/programming/comments/1f9kdf0/how_do_i_get_any_news_from_the_gnews_api/</link>
+      <description><![CDATA[正如标题所说，如何做到这一点？“q=”参数是必需的，但我不想搜索关键字，我想搜索任何新闻故事    提交人    /u/4fourwalls   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f9kdf0/how_do_i_get_any_news_from_the_gnews_api/</guid>
+      <pubDate>Thu, 05 Sep 2024 11:44:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何掌握数据结构和算法</title>
+      <link>https://www.reddit.com/r/programming/comments/1f9k1m6/how_i_mastered_data_structures_and_algorithms/</link>
+      <description><![CDATA[  由    /u/ashk43712  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f9k1m6/how_i_mastered_data_structures_and_algorithms/</guid>
+      <pubDate>Thu, 05 Sep 2024 11:26:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了客户端，免费提供在线实用程序，如 base64 编码/解码、json 格式/最小化/转义、数据透视表、时间转换器、差异等</title>
+      <link>https://www.reddit.com/r/programming/comments/1f9j6zd/made_a_client_side_ads_free_online_utils_like/</link>
+      <description><![CDATA[  由    /u/zodvik  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f9j6zd/made_a_client_side_ads_free_online_utils_like/</guid>
+      <pubDate>Thu, 05 Sep 2024 10:34:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 SSH 像专业人士一样保护您的服务器访问！</title>
+      <link>https://www.reddit.com/r/programming/comments/1f9j02a/secure_your_server_access_like_a_pro_with_ssh/</link>
+      <description><![CDATA[  由    /u/Abhi_mech007  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f9j02a/secure_your_server_access_like_a_pro_with_ssh/</guid>
+      <pubDate>Thu, 05 Sep 2024 10:22:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>一次编写，随处运行，但适用于 GPU</title>
+      <link>https://www.reddit.com/r/programming/comments/1f9iz0f/write_once_run_anywhere_but_for_gpus/</link>
+      <description><![CDATA[  由    /u/smileymileycoin  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f9iz0f/write_once_run_anywhere_but_for_gpus/</guid>
+      <pubDate>Thu, 05 Sep 2024 10:20:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>静态类型与动态类型：详细比较</title>
+      <link>https://www.reddit.com/r/programming/comments/1f9injx/static_vs_dynamic_typing_a_detailed_comparison/</link>
+      <description><![CDATA[  由    /u/iamredit  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f9injx/static_vs_dynamic_typing_a_detailed_comparison/</guid>
+      <pubDate>Thu, 05 Sep 2024 09:59:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能商业的两条规则以及忽视它们的初创企业</title>
+      <link>https://www.reddit.com/r/programming/comments/1f9ieow/two_rules_of_ai_business_and_startups_that_ignore/</link>
+      <description><![CDATA[  由    /u/shift_devs  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f9ieow/two_rules_of_ai_business_and_startups_that_ignore/</guid>
+      <pubDate>Thu, 05 Sep 2024 09:41:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何用一个命令摧毁我的 Linux 系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1f9hye7/how_i_destroyed_my_linux_system_with_a_single/</link>
+      <description><![CDATA[  由    /u/craciun_07  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f9hye7/how_i_destroyed_my_linux_system_with_a_single/</guid>
+      <pubDate>Thu, 05 Sep 2024 09:08:20 GMT</pubDate>
+    </item>
     <item>
       <title>工厂网络 x {科技：柏林} AI 黑客马拉松</title>
       <link>https://www.reddit.com/r/programming/comments/1f9hpot/factory_network_x_tech_berlin_ai_hackathon/</link>
@@ -41,7 +97,7 @@
       <pubDate>Thu, 05 Sep 2024 07:16:58 GMT</pubDate>
     </item>
     <item>
-      <title>系统设计 - 食品配送应用 Zomato、Uber Eats</title>
+      <title>系统设计 - 食品配送应用程序 Zomato、Uber Eats</title>
       <link>https://www.reddit.com/r/programming/comments/1f9g5ts/system_design_food_delivery_app_zomato_uber_eats/</link>
       <description><![CDATA[  由    /u/InspectionSpirite  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f9g5ts/system_design_food_delivery_app_zomato_uber_eats/</guid>
@@ -53,62 +109,6 @@
       <description><![CDATA[  由    /u/mslot  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f9f8ly/postgres_materialized_views_from_parquet_in_s3/</guid>
       <pubDate>Thu, 05 Sep 2024 05:52:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件架构的目标是什么？ - Robert C. Martin（鲍勃大叔）</title>
-      <link>https://www.reddit.com/r/programming/comments/1f9e86h/what_is_the_goal_of_software_architecture_robert/</link>
-      <description><![CDATA[  由    /u/Feisty_Tooth_8219  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f9e86h/what_is_the_goal_of_software_architecture_robert/</guid>
-      <pubDate>Thu, 05 Sep 2024 04:48:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于移动、桌面和 Web 开发的最佳 HTML 和 XML 解析库</title>
-      <link>https://www.reddit.com/r/programming/comments/1f9e246/best_html_xml_parsing_libraries_for_mobile/</link>
-      <description><![CDATA[  由    /u/Distinct_Resolve_924  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f9e246/best_html_xml_parsing_libraries_for_mobile/</guid>
-      <pubDate>Thu, 05 Sep 2024 04:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对不测试的开发人员的数量和不测试的开发人员的故事感到震惊</title>
-      <link>https://www.reddit.com/r/programming/comments/1f9blvf/im_dumbfounded_by_the_number_of_devs_that_dont/</link>
-      <description><![CDATA[  由    /u/WenYuGe  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f9blvf/im_dumbfounded_by_the_number_of_devs_that_dont/</guid>
-      <pubDate>Thu, 05 Sep 2024 02:26:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件估算很难。无论如何都要进行估算</title>
-      <link>https://www.reddit.com/r/programming/comments/1f9bjr5/software_estimation_is_hard_do_it_anyway/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f9bjr5/software_estimation_is_hard_do_it_anyway/</guid>
-      <pubDate>Thu, 05 Sep 2024 02:23:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitOps 真的有用吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1f95fzp/is_gitops_actually_useful/</link>
-      <description><![CDATA[  由    /u/wineandcode  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f95fzp/is_gitops_actually_useful/</guid>
-      <pubDate>Wed, 04 Sep 2024 21:40:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>可快照存储</title>
-      <link>https://www.reddit.com/r/programming/comments/1f94zua/snapshottable_stores/</link>
-      <description><![CDATA[  由    /u/mttd  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f94zua/snapshottable_stores/</guid>
-      <pubDate>Wed, 04 Sep 2024 21:21:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>国际货币格式 💅💰</title>
-      <link>https://www.reddit.com/r/programming/comments/1f94rwc/formatting_currency_internationally/</link>
-      <description><![CDATA[  由    /u/justsml  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f94rwc/formatting_currency_internationally/</guid>
-      <pubDate>Wed, 04 Sep 2024 21:11:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[机器学习基础] 面向初学者的 1 分钟梯度下降</title>
-      <link>https://www.reddit.com/r/programming/comments/1f90kch/ml_basics_1_minute_gradient_descent_for_beginners/</link>
-      <description><![CDATA[  由    /u/No_Acanthaceae6106  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f90kch/ml_basics_1_minute_gradient_descent_for_beginners/</guid>
-      <pubDate>Wed, 04 Sep 2024 18:21:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
