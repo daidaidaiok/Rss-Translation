@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 05 Sep 2024 15:08:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 18:06:38 GMT</lastBuildDate>
     <item>
       <title>佩特斯</title>
       <link>https://www.producthunt.com/posts/petters</link>
@@ -34,8 +34,8 @@ AI 语音用户访谈
       <pubDate>Thu, 05 Sep 2024 00:55:43 GMT</pubDate>
     </item>
     <item>
-      <title>Sprig AI产品体验平台</title>
-      <link>https://www.producthunt.com/posts/sprig-ai-product-experience-platform</link>
+      <title>Sprig 2.0 AI产品体验平台</title>
+      <link>https://www.producthunt.com/posts/sprig-2-0-ai-product-experience-platform</link>
       <description><![CDATA[
 使用 Sprig AI 为人而非数据点构建产品
 
@@ -44,7 +44,7 @@ AI 语音用户访谈
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/sprig-ai-product-experience-platform</guid>
+      <guid>https://www.producthunt.com/posts/sprig-2-0-ai-product-experience-platform</guid>
       <pubDate>Wed, 04 Sep 2024 23:03:06 GMT</pubDate>
     </item>
     <item>
@@ -60,20 +60,6 @@ AI 语音用户访谈
 ]]></description>
       <guid>https://www.producthunt.com/posts/remarkable-paper-pro</guid>
       <pubDate>Wed, 04 Sep 2024 17:55:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>aaronOS - 在您的浏览器上运行的操作系统</title>
-      <link>https://www.producthunt.com/posts/aaronos-os-that-runs-on-your-browser</link>
-      <description><![CDATA[
-在您的浏览器上运行的操作系统
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/aaronos-os-that-runs-on-your-browser</guid>
-      <pubDate>Wed, 04 Sep 2024 16:59:24 GMT</pubDate>
     </item>
     <item>
       <title>文字互联网</title>
@@ -104,20 +90,6 @@ AI 语音用户访谈
       <pubDate>Wed, 04 Sep 2024 14:15:30 GMT</pubDate>
     </item>
     <item>
-      <title>brickd</title>
-      <link>https://www.producthunt.com/posts/brickd-3</link>
-      <description><![CDATA[
-发现、分享和整理您的 LEGO 收藏品
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/brickd-3</guid>
-      <pubDate>Wed, 04 Sep 2024 10:56:31 GMT</pubDate>
-    </item>
-    <item>
       <title>竞争对手分析</title>
       <link>https://www.producthunt.com/posts/competitor-analysis</link>
       <description><![CDATA[
@@ -132,6 +104,20 @@ AI 语音用户访谈
       <pubDate>Tue, 03 Sep 2024 13:32:09 GMT</pubDate>
     </item>
     <item>
+      <title>SoBrief.com</title>
+      <link>https://www.producthunt.com/posts/sobrief-com</link>
+      <description><![CDATA[
+73,530 本 AI 总结的书籍——以 40 种语言讲述
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/sobrief-com</guid>
+      <pubDate>Tue, 03 Sep 2024 10:56:59 GMT</pubDate>
+    </item>
+    <item>
       <title>酷多宝箱</title>
       <link>https://www.producthunt.com/posts/kudobox-2</link>
       <description><![CDATA[
@@ -144,20 +130,6 @@ AI 语音用户访谈
 ]]></description>
       <guid>https://www.producthunt.com/posts/kudobox-2</guid>
       <pubDate>Tue, 03 Sep 2024 10:46:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>极性</title>
-      <link>https://www.producthunt.com/posts/polar-5</link>
-      <description><![CDATA[
-面向开发者的开源货币化平台
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/polar-5</guid>
-      <pubDate>Tue, 27 Aug 2024 20:45:42 GMT</pubDate>
     </item>
     <item>
       <title>苏哈</title>
@@ -214,6 +186,34 @@ AI 语音用户访谈
 ]]></description>
       <guid>https://www.producthunt.com/posts/hoody-ai</guid>
       <pubDate>Thu, 22 Aug 2024 04:03:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>起源</title>
+      <link>https://www.producthunt.com/posts/origin-5</link>
+      <description><![CDATA[
+投资、获取建议和跟踪支出的首选应用程序。
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/origin-5</guid>
+      <pubDate>Sat, 17 Aug 2024 19:10:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>章鱼</title>
+      <link>https://www.producthunt.com/posts/vectopus</link>
+      <description><![CDATA[
+图标、插图、3D 和贴纸市场
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/vectopus</guid>
+      <pubDate>Mon, 08 Jul 2024 11:16:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
