@@ -3,8 +3,22 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 06 Sep 2024 00:19:52 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Fri, 06 Sep 2024 03:06:00 GMT</lastBuildDate>
+    <item>
+      <title>NeuralGPT - 异步代理的协同作用</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fa3xtd/neuralgpt_synergy_of_asynchronous_agents/</link>
+      <description><![CDATA[  由    /u/killerazazello  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fa3xtd/neuralgpt_synergy_of_asynchronous_agents/</guid>
+      <pubDate>Fri, 06 Sep 2024 02:04:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>下一个超越性的发明将会是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fa30pn/what_will_be_the_next_transcending_invention/</link>
+      <description><![CDATA[查看投票    由   提交  /u/Level_Bridge7683   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fa30pn/what_will_be_the_next_transcending_invention/</guid>
+      <pubDate>Fri, 06 Sep 2024 01:17:25 GMT</pubDate>
+    </item>
     <item>
       <title>这家伙暂时利用人工智能赚了一些钱……</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fa1kln/this_guy_made_some_money_from_ai_for_a_while/</link>
@@ -67,20 +81,6 @@
       <description><![CDATA[AI 炒作是真实的，每天都有大量 AI 初创公司成立。以下是我在 2024 年最喜欢的 5 家 AI 初创公司名单。  Recall：Recall 可帮助任何人在几分钟内构建像人类一样交互的 AI 语音代理 Cursor：Cursor 是一个 AI 编码编辑器，可帮助您以 10 倍的速度编写代码 Wosily：Wosily 连接您的网站并使用 AI 自动发布 SEO 优化的博客。 Openmart：如果您从事销售工作，这是找到 SMB 线索的最简单方法 ;) Persana：AI 助手可帮助您以 10 倍的速度完成销售  您最喜欢的 AI 初创公司有哪些？LMK 在评论中。    提交人    /u/emilyxhug   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f9o3ab/what_are_your_favorite_ai_startups_in_2024_here/</guid>
       <pubDate>Thu, 05 Sep 2024 14:41:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>LlaMA-Factory WebUI 初学者指南：微调 LLM</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f9jmg5/llamafactory_webui_beginners_guide_finetuning_llms/</link>
-      <description><![CDATA[在本教程中，我们将探索如何使用 LlaMA-Factory WebUI 在 Wikipedia Q&amp;A 数据集上微调 Llama 3 8B 模型。我们将首先介绍 LlaMA-Factory WebUI，然后在 Google Colab 环境中进行设置。配置完成后，我们将逐步介绍在数据集上微调 Llama 3 8B 模型的过程，然后通过聊天界面评估模型的性能。 随着我们的进步，您还将学习如何加载自定义数据集、合并模型以及将它们导出到 Hugging Face。最后，我们将介绍如何部署经过微调的模型，使其可通过 OpenAI API 访问。 https://www.datacamp.com/tutorial/llama-factory-web-ui-guide-fine-tuning-llms    submitted by    /u/kingabzpro   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f9jmg5/llamafactory_webui_beginners_guide_finetuning_llms/</guid>
-      <pubDate>Thu, 05 Sep 2024 11:01:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为谁将最先达到 AGI？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f9igzu/who_do_you_think_will_reach_agi_first/</link>
-      <description><![CDATA[如标题所示，您认为谁将首先实现 AGI？ 会是像 Google、Meta、X 或 OpenAI 这样的科技巨头吗？还是政府实验室的一些研究人员？，还是某人妈妈车库里的一些疯狂的辍学者？（历史上，我们的大多数技术创新都是这样产生的） 我认为科技巨头实际上不会构建 AGI，当然，他们可能会凭借其资源和顶级人才构建最强大的 LLM，但我认为 AGI 需要一个革命性的想法，而这个想法不会出现在大型公司结构中，如果我不得不打赌，我会打赌政府实验室的研究人员或新的创业公司（如果有的话）。    提交人    /u/arsenius7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f9igzu/who_do_you_think_will_reach_agi_first/</guid>
-      <pubDate>Thu, 05 Sep 2024 09:46:29 GMT</pubDate>
     </item>
     <item>
       <title>您对 AI 视频聊天应用感兴趣吗？</title>
