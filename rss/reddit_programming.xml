@@ -4,20 +4,62 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 06 Sep 2024 21:10:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 06:06:49 GMT</lastBuildDate>
+    <item>
+      <title>系统设计 - 食品配送应用 Zomato、Uber Eats</title>
+      <link>https://www.reddit.com/r/programming/comments/1fazpmu/system_design_food_delivery_app_zomato_uber_eats/</link>
+      <description><![CDATA[  由    /u/Constant_Event_4917  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fazpmu/system_design_food_delivery_app_zomato_uber_eats/</guid>
+      <pubDate>Sat, 07 Sep 2024 05:25:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>减少 Flutter 应用大小的终极指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1faypqh/ultimate_guide_to_reduce_the_app_size_in_flutter/</link>
+      <description><![CDATA[正如上一篇文章所做的那样，假设大多数开发人员都面临着同样的问题，通过互联网搜索来提供在 Flutter 中最小化应用程序大小的方法。 我在我的 Medium 文章中提到了所有细节。 如果您知道任何其他在 Flutter 中减小应用程序大小的方法，我很乐意在下面的评论部分听到您的意见。 感谢您阅读本文 🙏    提交人    /u/Saurabh7973   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1faypqh/ultimate_guide_to_reduce_the_app_size_in_flutter/</guid>
+      <pubDate>Sat, 07 Sep 2024 04:23:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 Squeak 的代码贡献</title>
+      <link>https://www.reddit.com/r/programming/comments/1faxqs3/code_contributions_to_squeak/</link>
+      <description><![CDATA[  由    /u/itsmeront  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1faxqs3/code_contributions_to_squeak/</guid>
+      <pubDate>Sat, 07 Sep 2024 03:27:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Canva 如何每天收集 250 亿个事件</title>
+      <link>https://www.reddit.com/r/programming/comments/1faxd4y/how_canva_collects_25_billion_events_per_day/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1faxd4y/how_canva_collects_25_billion_events_per_day/</guid>
+      <pubDate>Sat, 07 Sep 2024 03:05:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Docker 和 Docker Compose 备忘单 + 包含 6 个实践项目的免费课程</title>
+      <link>https://www.reddit.com/r/programming/comments/1fawfgr/docker_docker_compose_cheat_sheet_free_course/</link>
+      <description><![CDATA[  由    /u/abduvik  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fawfgr/docker_docker_compose_cheat_sheet_free_course/</guid>
+      <pubDate>Sat, 07 Sep 2024 02:14:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>XGBoost 中的特征工程：实用指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1faqzf9/feature_engineering_in_xgboost_a_practical_guide/</link>
+      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1faqzf9/feature_engineering_in_xgboost_a_practical_guide/</guid>
+      <pubDate>Fri, 06 Sep 2024 21:47:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何说服产品经理优先考虑技术债务</title>
+      <link>https://www.reddit.com/r/programming/comments/1faq585/how_to_convince_your_product_manager_to/</link>
+      <description><![CDATA[  由    /u/ayrusk8  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1faq585/how_to_convince_your_product_manager_to/</guid>
+      <pubDate>Fri, 06 Sep 2024 21:10:46 GMT</pubDate>
+    </item>
     <item>
       <title>Macro-forth：在编译时 rust 宏中实现的 Forth（Fastest Forth）</title>
       <link>https://www.reddit.com/r/programming/comments/1fapvjl/macroforth_forth_implemented_in_compiletime_rust/</link>
       <description><![CDATA[  由    /u/Veqq  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fapvjl/macroforth_forth_implemented_in_compiletime_rust/</guid>
       <pubDate>Fri, 06 Sep 2024 20:59:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关网络应用程序的建议</title>
-      <link>https://www.reddit.com/r/programming/comments/1faoa76/advice_needed_on_web_app/</link>
-      <description><![CDATA[所以我正在开发这个 Web 应用程序，并计划很快将其部署为 SaaS。streamlit 还可以，但我觉得它仍然有点空白，可以有更多的功能。有人对我可以添加的其他功能有什么建议吗？    提交人    /u/Mammoth-Sky1084   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1faoa76/advice_needed_on_web_app/</guid>
-      <pubDate>Fri, 06 Sep 2024 19:52:45 GMT</pubDate>
     </item>
     <item>
       <title>Figma 从 ECS 迁移到 Kubernetes，以受益于 CNCF 生态系统并降低成本</title>
@@ -32,13 +74,6 @@
       <description><![CDATA[  由    /u/guangyy  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fakq9p/building_a_llm_app_to_summarize_podcasts_in_10/</guid>
       <pubDate>Fri, 06 Sep 2024 17:22:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Red Hat 内核维护者 David Airlie 谈到 Rust-for-Linux 事件时表示：“如果人们开始成为工作的主动障碍，而不是我们可以忽略的旁观者，那么我将要求 Linus 介入并消除障碍”</title>
-      <link>https://www.reddit.com/r/programming/comments/1faklgv/david_airlie_red_hat_kernel_maintainer_about_the/</link>
-      <description><![CDATA[  由    /u/Karma_Policer  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1faklgv/david_airlie_red_hat_kernel_maintainer_about_the/</guid>
-      <pubDate>Fri, 06 Sep 2024 17:16:52 GMT</pubDate>
     </item>
     <item>
       <title>ESLint 采用了新的 linter 运行器</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[  由    /u/GiraffeFire  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fahkl6/flavors_of_oauth_a_visual_tasting_menu/</guid>
       <pubDate>Fri, 06 Sep 2024 15:10:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>可扩展性速查表 #1 - 从基础到复制</title>
-      <link>https://www.reddit.com/r/programming/comments/1fag1o9/scalability_cheat_sheet_1_from_basics_to/</link>
-      <description><![CDATA[  由    /u/ablx0000  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fag1o9/scalability_cheat_sheet_1_from_basics_to/</guid>
-      <pubDate>Fri, 06 Sep 2024 14:06:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>在决定学习哪个 Web 框架之前，请先观看此视频</title>
-      <link>https://www.reddit.com/r/programming/comments/1faedxs/before_deciding_which_web_framework_to_learn/</link>
-      <description><![CDATA[  由    /u/bravehub  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1faedxs/before_deciding_which_web_framework_to_learn/</guid>
-      <pubDate>Fri, 06 Sep 2024 12:50:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>一篇关于实际实践的文章，以 Unix 创建日期后的秒数来存储日期。人们就是这么做的。</title>
-      <link>https://www.reddit.com/r/programming/comments/1fae0c4/on_article_on_the_real_practice_of_storing_dates/</link>
-      <description><![CDATA[  由    /u/WSBJosh  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fae0c4/on_article_on_the_real_practice_of_storing_dates/</guid>
-      <pubDate>Fri, 06 Sep 2024 12:31:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>GoScrapy：利用 Go 的强大功能实现极快的网页抓取，灵感来自 Python 的 Scrapy 框架 - 仍处于初始阶段，还有许多改进空间</title>
-      <link>https://www.reddit.com/r/programming/comments/1fac3ci/goscrapy_harnessing_gos_power_for_blazingly_fast/</link>
-      <description><![CDATA[  由    /u/strapengine  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fac3ci/goscrapy_harnessing_gos_power_for_blazingly_fast/</guid>
-      <pubDate>Fri, 06 Sep 2024 10:45:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>PGlite - 在 Node、Bun 以及浏览器中本地运行 PostgreSQL</title>
-      <link>https://www.reddit.com/r/programming/comments/1faaqz0/pglite_run_postgresql_locally_in_node_bun_and/</link>
-      <description><![CDATA[  由    /u/ram-foss  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1faaqz0/pglite_run_postgresql_locally_in_node_bun_and/</guid>
-      <pubDate>Fri, 06 Sep 2024 09:12:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
