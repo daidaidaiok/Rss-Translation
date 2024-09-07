@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 07 Sep 2024 09:06:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 12:07:49 GMT</lastBuildDate>
+    <item>
+      <title>大家好，我 14 岁，刚刚创建了我的第一个工作项目，它运行正常，可能需要进行一些完善，但困难的事情已经完成，让 google 身份验证工作正常，托管网站，并使帖子即使您重新加载页面也能保存</title>
+      <link>https://www.reddit.com/r/programming/comments/1fb58rc/hey_guys_im_14_and_i_just_build_my_first_working/</link>
+      <description><![CDATA[  由    /u/EventSad4944  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fb58rc/hey_guys_im_14_and_i_just_build_my_first_working/</guid>
+      <pubDate>Sat, 07 Sep 2024 11:58:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>结合函数指针、lambda 表达式和 switch 语句在我的脚本语言 DeltaScript 中创建模式匹配</title>
+      <link>https://www.reddit.com/r/programming/comments/1fb4unp/combining_function_pointers_lambda_expressions/</link>
+      <description><![CDATA[  由    /u/flinkerflitzer  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fb4unp/combining_function_pointers_lambda_expressions/</guid>
+      <pubDate>Sat, 07 Sep 2024 11:34:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建金融系统的工程原则</title>
+      <link>https://www.reddit.com/r/programming/comments/1fb2rrg/engineering_principles_for_building_financial/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fb2rrg/engineering_principles_for_building_financial/</guid>
+      <pubDate>Sat, 07 Sep 2024 09:07:15 GMT</pubDate>
+    </item>
     <item>
       <title>具有 IM 风格界面的归档工具，集成了包括 Internet Archive、archive.today、Ghostarchive、IPFS、Telegraph 和文件系统在内的各种归档服务。</title>
       <link>https://www.reddit.com/r/programming/comments/1fb1ek3/an_archiving_tool_with_an_imstyle_interface/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/kuraianlol  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1faj9cc/eslint_adopts_a_new_linter_runner/</guid>
       <pubDate>Fri, 06 Sep 2024 16:20:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用自主代理增强 API 调试</title>
-      <link>https://www.reddit.com/r/programming/comments/1faism9/enhancing_api_debugging_with_autonomous_agents/</link>
-      <description><![CDATA[  由    /u/itsrorymurphy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1faism9/enhancing_api_debugging_with_autonomous_agents/</guid>
-      <pubDate>Fri, 06 Sep 2024 16:01:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>异步 IO：下一个价值十亿美元的错误？</title>
-      <link>https://www.reddit.com/r/programming/comments/1faim1l/asynchronous_io_the_next_billiondollar_mistake/</link>
-      <description><![CDATA[  由    /u/yorickpeterse  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1faim1l/asynchronous_io_the_next_billiondollar_mistake/</guid>
-      <pubDate>Fri, 06 Sep 2024 15:54:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>RepoLingo - 将您的项目转换为 LLM 友好数据</title>
-      <link>https://www.reddit.com/r/programming/comments/1fahry9/repolingo_convert_your_project_into_llmfriendly/</link>
-      <description><![CDATA[我已经构建了一个工具，可以将任何 GitHub Repo 转换为结构化输出，以提供有关您当前工作/项目的任何 LLM 上下文。 🔥在这里查看：repolingo.leonkohli.dev 让我知道你的想法！    提交人    /u/LeonKohli   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fahry9/repolingo_convert_your_project_into_llmfriendly/</guid>
-      <pubDate>Fri, 06 Sep 2024 15:19:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
