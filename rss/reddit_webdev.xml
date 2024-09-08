@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 08 Sep 2024 15:06:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 18:07:02 GMT</lastBuildDate>
     <item>
-      <title>我是否应该使用网站构建器而不是手动编写所有网站的编码？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbz1h7/should_i_switch_to_website_builders_instead_of/</link>
-      <description><![CDATA[因此，几个月前，我被解雇了，不再担任前端 Web 开发人员，因此我决定冒险尝试自由职业。我非常幸运地找到了几个客户，我使用 Astro 为他们创建了一个手工编码的网站，我认为他们很棒。 为了吸引潜在的未来客户，我一直在努力构建一个自定义入门套件，以便我可以使用它来快速创建静态网站。 我的困境是，我想在减少工作量的同时扩大我为客户提供的产品，因此我考虑将 CMS、分析仪表板、客户编辑器页面和计费全部内置到入门套件中。我还知道，许多网站构建器（如 wix、squarespace 和 WordPress）都提供了许多开箱即用的功能，并且可能比我所能做的更精致，对非技术客户来说更友好。此外，我希望能够轻松地与社交媒体集成，以便客户可以发布与其网站一致的帖子。 我认为我可以手动完成很多工作，并在我的入门套件中构建一个系统，但我觉得这会非常耗时，而且质量不会与现有解决方案相同。我是否应该进行切换并迁移到构建器平台？还是咬紧牙关，尝试将这些功能中的许多功能构建到我的入门套件中？    提交人    /u/rjdredangel   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbz1h7/should_i_switch_to_website_builders_instead_of/</guid>
-      <pubDate>Sun, 08 Sep 2024 14:27:15 GMT</pubDate>
+      <title>今天我了解到 Spotify 的前端比我的整个堆栈还要复杂</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc3o1g/til_spotifys_frontend_is_more_complex_than_my/</link>
+      <description><![CDATA[所以，我以为我的 React 应用程序和 Node.js 后端很棒。然后我研究了 Spotify 的前端架构，然后……哎呀。 你知道吗： - 他们使用 React，但使用自定义构建管道 - 他们的 API 网关使用 GraphQL 和 Apollo - 他们有一整套系统专门用于处理离线模式 我在每周新闻通讯中分解了这样的技术堆栈。这就像考古学，但针对的是代码。如果你想同时感受到灵感和不足，请查看：https://stackcurious.beehiiv.com/subscribe  你的堆栈中最过度设计的部分是什么？我先开始：我将 Redux 用于待办事项应用程序。 🤦‍♂️      由   提交  /u/Jamyakan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc3o1g/til_spotifys_frontend_is_more_complex_than_my/</guid>
+      <pubDate>Sun, 08 Sep 2024 17:47:55 GMT</pubDate>
     </item>
     <item>
-      <title>一些想法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbyr8x/some_ideas/</link>
-      <description><![CDATA[        提交人    /u/digitAInexus   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbyr8x/some_ideas/</guid>
-      <pubDate>Sun, 08 Sep 2024 14:14:23 GMT</pubDate>
+      <title>tenthousandpixels.com：我用一万个像素建立了一个网站。改变一个像素会实时改变所有人的像素。它就像 r/place，但争夺最流行的颜色。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc3foz/tenthousandpixelscom_i_built_a_website_with_ten/</link>
+      <description><![CDATA[https://tenthousandpixels.com/ https://github.com/joshuarichards001/pixels 抱歉重新发布，上次我发布时机器人失控了。我已经采取了一些措施来尽量减少这种情况，希望它能为每个人带来更多乐趣    提交人    /u/josh_developer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc3foz/tenthousandpixelscom_i_built_a_website_with_ten/</guid>
+      <pubDate>Sun, 08 Sep 2024 17:37:46 GMT</pubDate>
     </item>
     <item>
-      <title>404 与 400 表示无效的 API 资源/:id 调用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbyp1x/404_vs_400_for_invalid_api_resourceid_call/</link>
-      <description><![CDATA[我正在重新设计我的企业整体式应用程序，将其作为 API 公开，以便它可以与团队成员的原生移动应用程序对话（这首先使用基本的 PWA 完成，以提高速度和概念验证）。 在调用资源 /：uuid 端点时，我正在努力确定哪个对无效 ID 更有意义。 例如 api.com/customers/12345，其中 12345 不存在。 404 对我来说没有意义，因为端点确实存在......虽然我想如果你将每个 /：uuid 归类为它自己的端点那么它就没有...... 400 更有意义，因为它是一个糟糕的请求，但很多 API 都实现为 404。 你的看法是什么？    提交人    /u/ufdbk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbyp1x/404_vs_400_for_invalid_api_resourceid_call/</guid>
-      <pubDate>Sun, 08 Sep 2024 14:11:42 GMT</pubDate>
+      <title>推荐一个盈利平台吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc3dqd/recommended_platform_for_monetization/</link>
+      <description><![CDATA[我计划很快发布我的第一个应用程序，并且我想通过它获利。除了广告之外，我还在考虑免费增值模式，支持者可以获得其他功能。 现在哪个平台最适合获利？我不想有任何定期订阅，我只想要一个可以验证用户是否曾经贡献过少量资金的平台？ 我在考虑 Patreon，有没有更好的替代方案，你会推荐吗？    提交人    /u/Historical_Fox_3612   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc3dqd/recommended_platform_for_monetization/</guid>
+      <pubDate>Sun, 08 Sep 2024 17:35:24 GMT</pubDate>
     </item>
     <item>
-      <title>刚刚创建了我的网站，现在怎么办？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbyg36/just_made_my_website_what_now/</link>
-      <description><![CDATA[我是 Web 开发新手，在最初的 2-3 个月内学习了 mern stack，上个月我为一个朋友创建了一个网站，但尚未部署，等他需要时再部署。我现在该做什么？现在有哪些可行的方法可以取得进展？    提交人    /u/thenameissinner   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbyg36/just_made_my_website_what_now/</guid>
-      <pubDate>Sun, 08 Sep 2024 14:00:25 GMT</pubDate>
+      <title>2024 年，作为一名全栈工程师，你将如何对待电子商务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc37n1/in_2024_as_a_full_stack_engineer_how_would_you/</link>
+      <description><![CDATA[客户不懂技术，不是我想合作的人（家人朋友），但我想要钱。他让我建立具有长远眼光的电子商务网站。所以，我不知道应该用什么来建立它。我有设计和搜索引擎优化人员（这是我的弱项）。我想从长远来看，我们应该从头开始构建它？那么，客户对网站拥有完全所有权吗？请给我你的建议。谢谢！    提交人    /u/Secure-Term-3914   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc37n1/in_2024_as_a_full_stack_engineer_how_would_you/</guid>
+      <pubDate>Sun, 08 Sep 2024 17:28:16 GMT</pubDate>
     </item>
     <item>
-      <title>寻求提供全方位服务的网站开发公司的推荐</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbxzrj/seeking_recommendations_for_fullservice_web/</link>
-      <description><![CDATA[大家好， 我正在寻找一家提供全方位服务的 Web 开发公司，该公司可以从头到尾处理所有事务，包括 UX/UI 设计、前端、后端开发以及任何必要的集成。我的主要目标是确保项目第一次就做好，因为我负担不起雇用不符合我所寻求的质量标准的人。 我需要什么： 完整的 Web 开发：包括设计、UX、前端和后端。经过验证的业绩记录：我正在寻找拥有可靠投资组合和积极客户推荐的公司或团队。 如果您对您合作过的公司有任何推荐或建议，甚至对在这个领域表现出色的特定自由职业者有任何建议，我将非常感谢您的意见！ 提前致谢！   由    /u/abitofhumor  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbxzrj/seeking_recommendations_for_fullservice_web/</guid>
-      <pubDate>Sun, 08 Sep 2024 13:38:21 GMT</pubDate>
+      <title>有没有类似这样的播客？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc345p/are_there_any_kinds_of_podcasts_like_this/</link>
+      <description><![CDATA[我正在观看 Destiny 的这段 youtube 视频，他正在和 Dan 一起采访 Theo，这段视频让我笑翻了！ https://youtu.be/jG8Kfs8K0cw?t=2718 我想知道是否有人像这样拍摄开发播客，我觉得大多数编码内容一直都是超级 PG。    提交人    /u/P-TownHero   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc345p/are_there_any_kinds_of_podcasts_like_this/</guid>
+      <pubDate>Sun, 08 Sep 2024 17:24:11 GMT</pubDate>
     </item>
     <item>
-      <title>新手托管问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbxtwz/beginner_hosting_question/</link>
-      <description><![CDATA[大家好。客户网站的 TTFB 为 3.4 秒。我不是一名 Web 开发人员（初级营销人员），但从我所掌握的信息来看，这几乎是肯定的，因为我们使用的是相对便宜的托管套餐。我想缩短时间，但我真的不知道该向老板提出什么建议。可能吧 - 我会寻找一个非共享托管的套餐，您有什么好的品牌可以推荐吗？之后，我将用一天的剩余时间试图弄清楚如何优化网站的其余部分。  提前致谢。     提交人    /u/AcanthisittaSea6459   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbxtwz/beginner_hosting_question/</guid>
-      <pubDate>Sun, 08 Sep 2024 13:30:22 GMT</pubDate>
+      <title>电子邮件提供商建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc2yyu/email_provider_recommendations/</link>
+      <description><![CDATA[我目前在 namecheap privateemail（在该平台上使用 5 年以上）和 spaceships spacemail，希望离开这些平台。 除了 Proton 和 Google，你们还推荐什么？    提交人    /u/macpig   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc2yyu/email_provider_recommendations/</guid>
+      <pubDate>Sun, 08 Sep 2024 17:17:48 GMT</pubDate>
     </item>
     <item>
-      <title>参加比赛真的能提高你的素质吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbxp5e/does_exposure_to_competition_really_increase_your/</link>
-      <description><![CDATA[接触不同的编码方式和竞争是否会提高您作为 Web 开发人员的素质。如果您参加比赛，您的目标是什么，你们有什么期望？    提交人    /u/workingpleb   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbxp5e/does_exposure_to_competition_really_increase_your/</guid>
-      <pubDate>Sun, 08 Sep 2024 13:23:39 GMT</pubDate>
+      <title>刚刚发布 Django Action Triggers 0.4.0 版本！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc2vq6/just_released_version_040_of_django_action/</link>
+      <description><![CDATA[刚刚发布了 Django Action Triggers 0.4.0 版！ 首先，非常感谢在 0.1.0 版发布后提供反馈的所有人！我认真对待你们的意见，并努力进行迭代。我很高兴地宣布发布了 django-action-triggers 的 0.4.0 版。 在功能和解决建议方面还有更多内容，但这里是对当前进度的概述。 什么是 Django Action Triggers Django Action Triggers 是一个 Django 库，可让您根据通过 Django Signals 检测到的数据库事件触发特定操作。使用此库，您可以配置在检测到某些触发器（例如，模型保存）时异步运行的操作。 例如，您可以设置一个触发器，每当保存新的销售记录时，该触发器都会触发 webhook 并向 AWS SQS 发送消息。 版本 0.4.0 中有哪些新功能？ 以下是版本 0.1.0与版本 0.4.0的快速比较： 版本 0.1.0的功能：  Webhook 集成 RabbitMQ 集成 Kafka 集成  版本 0.4.0的功能：  Webhook 集成 RabbitMQ 集成 Kafka 集成 Redis 集成 AWS SQS（简单队列服务）集成 AWS SNS（简单通知服务）集成 所有操作均异步运行 操作可以超时  期待 与往常一样，我很乐意听到您的反馈。这个项目始于一个激情项目，但当我想到我计划添加的所有新集成和功能时，它变得更加令人兴奋。 请随时查看 repo 和文档，并告诉我您的想法！ Repo：https://github.com/Salaah01/django-action-triggers 文档：https://salaah01.github.io/django-action-triggers/    提交人    /u/Salaah01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc2vq6/just_released_version_040_of_django_action/</guid>
+      <pubDate>Sun, 08 Sep 2024 17:13:53 GMT</pubDate>
     </item>
     <item>
-      <title>Canva 如何每天收集 250 亿个事件 - Canva 工程博客</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbwwra/how_canva_collects_25_billion_events_per_day/</link>
-      <description><![CDATA[       由    /u/doticy352  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbwwra/how_canva_collects_25_billion_events_per_day/</guid>
-      <pubDate>Sun, 08 Sep 2024 12:44:30 GMT</pubDate>
+      <title>[Vivaldi 稳定版] getCurrentPosition 返回“响应格式错误”——还有谁可以复制它吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc2l3g/vivaldi_stable_getcurrentposition_is_returning/</link>
+      <description><![CDATA[我已经填写了错误报告表单，但在发送之前，我希望您能快速检查一下。Vivaldi 6.8.3381.50 或 6.9.3447.41（Debian 存储库中的“vivaldi-stable”）上是否有人遇到了 navigator.geolocation.getCurrentPosition() 函数的问题？我只是想确保这不是我的设置。 快速测试的示例代码： const options = { timeout: 30000, enableHighAccuracy: true, maximumAge: 75000 }; function success(pos) { const crd = pos.coords; console.log(&quot;Your current position is:&quot;); console.log(`纬度：${crd.latitude}`); console.log(`经度：${crd.longitude}`); console.log(`多或少 ${crd.accuracy} 米。`); } function error(err) { console.error(&#39;发生地理定位错误：&#39;); console.error(`错误代码：${err.code}`); console.error(`错误消息：${err.message}`); let errorMessage = &#39;无法获取当前位置。&#39;; switch(err.code) { case 1：errorMessage += &#39;用户拒绝了地理定位请求。&#39;; break; case 2：errorMessage += &#39;位置信息不可用。&#39;; break; case 3：errorMessage += &#39;获取用户位置的请求超时。&#39;; break; default：errorMessage += &#39;发生未知错误。&#39;; } console.error(errorMessage); console.error(&#39;完整错误对象：&#39;, err); } // 立即执行 navigator.geolocation.getCurrentPosition(success, error, options);  这应该导致  发生地理位置错误：错误代码：2 错误消息：响应格式错误 无法获取当前位置。位置信息不可用。完整错误对象：GeolocationPositionError {code：2，消息：&#39;响应格式错误&#39;}  如果您可以复制它，我认为这与 Vivaldis 位置提供程序有关（如下所示：https://stackoverflow.com/questions/9731963/navigator-geolocation-getcurrentposition-always-fail-in-chrome-and-firefox），您还可以在此处测试它：https://browserleaks.com/geo此外。 我之所以询问人群，是因为 chrome、firefox 和 opera 都在上面的页面和我的脚本中显示了正确的位置。更改超时、准确度和最大年龄没有任何效果。当然，位置服务的权限是被授予的。 我在 SO 上经历过相当多类似的线程，但似乎都没有适用。不幸的是，因为我真的很喜欢 Vivaldi，但不知何故，似乎没有快速解决这个问题的方法。    提交人    /u/perskes   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc2l3g/vivaldi_stable_getcurrentposition_is_returning/</guid>
+      <pubDate>Sun, 08 Sep 2024 17:01:01 GMT</pubDate>
     </item>
     <item>
-      <title>嘿，大家好，我 14 岁，我刚刚创建了一个简单可行的社交媒体项目。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbws8h/hey_guys_im_14_and_i_just_created_a_simple_social/</link>
-      <description><![CDATA[我使用 supabase 来管理后端，使用 firebase 来托管前端，使用 netlify 来处理 .env 文件，链接是 meganetwar.web.app，你能帮我添加更多功能吗    提交人    /u/EventSad4944   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbws8h/hey_guys_im_14_and_i_just_created_a_simple_social/</guid>
-      <pubDate>Sun, 08 Sep 2024 12:37:49 GMT</pubDate>
+      <title>帮助我改进我的代理网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc2kug/help_me_improve_my_agency_website/</link>
+      <description><![CDATA[嗨！ 我是一家一人网页开发机构，主要为有需要的人提供定制网页、SEO 和一些更高级的编程。 您是否认为我当前的网站看起来足够专业，适合较小的客户，例如水管工、牙医等？它是瑞典语，但您可以右键单击并根据需要进行翻译 :) 对推广不感兴趣，只提供真诚的建议！ https://dvu.se/ 我很感激任何反馈！谢谢！    提交人    /u/Notthrownawayaccount   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc2kug/help_me_improve_my_agency_website/</guid>
+      <pubDate>Sun, 08 Sep 2024 17:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>目前创建小型、简单投资组合的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbvppt/whats_the_best_way_to_create_a_small_simple/</link>
-      <description><![CDATA[我不断看到人们说使用 Wordpress、使用 react、使用 [插入价格高得离谱的网站构建器]、使用 AI 等。目前，我正在为自己制作一个简单的作品集（不是为了炫耀我的 Web 开发技能），我正在使用 React + Tailwind。到目前为止，这对我来说效果很好，但为什么每个人都一直告诉你使用不同的东西呢？ 有些人甚至会说 AI 正在接管 - 但事实并非如此 - 而你写代码是妄想。 那么，为什么这么多不同的人每周都说你应该用新的方式创建一个网站呢？    提交人    /u/samykcodes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbvppt/whats_the_best_way_to_create_a_small_simple/</guid>
-      <pubDate>Sun, 08 Sep 2024 11:35:17 GMT</pubDate>
+      <title>简历审查 - 3YOE 全栈软件工程师 - 没有得到回电 - 请挑剔或嘲笑？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc28lr/resume_review_3yoe_full_stack_software_engineer/</link>
+      <description><![CDATA[请吐槽一下我的简历，没有收到回电，已经申请了大约 100 个应用程序。开放给任何湾区公司或只开放给大型科技公司的搬迁。  项目影响力不够或复杂度不够，无法达到 3YOE？ 指标/数字不足？ 要点不够具体？ 内容不够/空白太多？ 缺少全栈开发人员的任何关键技能或经验？  https://preview.redd.it/39fny2846mnd1.png?width=5100&amp;format=png&amp;auto=webp&amp;s=b1956cb092304f1b4174e3535e7627c92be0041d    提交人    /u/Motor-Definition3228   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc28lr/resume_review_3yoe_full_stack_software_engineer/</guid>
+      <pubDate>Sun, 08 Sep 2024 16:46:06 GMT</pubDate>
     </item>
     <item>
-      <title>我做的小原型</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbvop3/little_prototype_i_did/</link>
-      <description><![CDATA[        提交人    /u/TotallyNotTapp   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbvop3/little_prototype_i_did/</guid>
-      <pubDate>Sun, 08 Sep 2024 11:33:31 GMT</pubDate>
+      <title>适合初学者的响应式设计</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc1kx4/responsive_design_for_a_beginner/</link>
+      <description><![CDATA[大家好， 我是一个完全的初学者，只知道 html 和 css，我想知道： 1) 如何实际构建响应式设计？ 2) 什么使设计具有响应性？ 3) 哪个 CSS 和 HTML 属性可以实现这一点？ 4) 是否有一套适当的指导方针？如“使用 X，执行 Y”    提交人    /u/Brosky-Chaowsky   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc1kx4/responsive_design_for_a_beginner/</guid>
+      <pubDate>Sun, 08 Sep 2024 16:17:37 GMT</pubDate>
     </item>
     <item>
-      <title>难道每个网站都违反欧盟规则吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbvkv3/doesnt_every_website_break_eu_rules/</link>
-      <description><![CDATA[据我了解，欧盟规则旨在阻止网站从未经同意的用户那里获取有价值的分析数据。不记录按钮点击或鼠标热图等。如果用户的活动值钱（通过根据观察到的趋势做出有利可图的商业决策），那么用户就应该有发言权。 但有人访问你的网站的行为肯定会在他们有机会同意之前交出大量信息：获取 HTML 的 GET 请求有一个 IP 地址，而有人请求该页面这一事实本身就是推断公众利益的数据点。 任何托管服务提供商都会收集数据，因为他们必须设置速率限制，如果超出限制，他们就会切断你的连接。 当然，没有法律上可强制执行的方式来表示“我会让我的提供商告诉我这个月我有 10,000 次点击，但我保证不会基于此做出任何商业决策。” 我是否误解了分析数据的定义？或者欧盟对这样的数据点有常识性的例外吗？    提交人    /u/thowland1   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbvkv3/doesnt_every_website_break_eu_rules/</guid>
-      <pubDate>Sun, 08 Sep 2024 11:26:59 GMT</pubDate>
+      <title>SSL 证书</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc1dxw/ssl_certificate/</link>
+      <description><![CDATA[我最近为我的公司购买了域名，但我对代码和 Web 开发一无所知，我想知道是否有人可以解释如何使用 certbot 并免费获取 SSL 证书并安装它。抱歉，这可能看起来像一个愚蠢的帖子。    提交人    /u/Sudani_Goat   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc1dxw/ssl_certificate/</guid>
+      <pubDate>Sun, 08 Sep 2024 16:09:20 GMT</pubDate>
     </item>
     <item>
-      <title>非工作时间支持</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbuzp7/out_of_hours_support/</link>
-      <description><![CDATA[有人在公司工作时必须将其添加到工作中吗？ 我将起草一份包含工作时间和薪酬的潜在合同。 随叫随到的钱（半天）加上所需行动的额外报酬（双倍时间？） 我正在考虑的另一种方法是减少轮班模式，但在工作时间之外，需要的编码更少。    提交人    /u/beepko   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbuzp7/out_of_hours_support/</guid>
-      <pubDate>Sun, 08 Sep 2024 10:48:25 GMT</pubDate>
+      <title>一款用于比较当地杂货店价格的网络应用。由 Expo Router 制作。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc18xp/a_web_app_to_compare_local_grocery_store_prices/</link>
+      <description><![CDATA[      https://preview.redd.it/70t7nlw9zlnd1.png?width=2310&amp;format=png&amp;auto=webp&amp;s=8acf53d6d4eee309fab622f816cced6416c512e1 https://dinnr.io/app     由   提交  /u/Dependent_Cicada3302   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc18xp/a_web_app_to_compare_local_grocery_store_prices/</guid>
+      <pubDate>Sun, 08 Sep 2024 16:03:16 GMT</pubDate>
     </item>
     <item>
-      <title>我是初级开发人员，经常加班，我不知道该如何处理这种情况健康</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fburj2/im_junior_dev_working_overtime_constantly_i_dont/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fburj2/im_junior_dev_working_overtime_constantly_i_dont/</guid>
-      <pubDate>Sun, 08 Sep 2024 10:32:46 GMT</pubDate>
+      <title>学校电脑屏蔽了一个网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc0xji/website_blocked_on_school_computer/</link>
+      <description><![CDATA[嗨，网站 lostgamerio 在我的学校电脑上被屏蔽了，我想在空闲时间使用它，我怎样才能复制整个网站并将其放到我的网站上？使用 vercell 或类似的帮助将不胜感激    提交人    /u/Personal-Courage1576   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc0xji/website_blocked_on_school_computer/</guid>
+      <pubDate>Sun, 08 Sep 2024 15:50:07 GMT</pubDate>
     </item>
     <item>
-      <title>Vuenilla：一个非常小巧、现代、类似 Vue1 的框架</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbufay/vuenilla_an_incredibly_small_modern_vue1like/</link>
-      <description><![CDATA[我主要制作单页应用程序，使用 nodejs 构建项目有点过度，我很怀念老旧的 Vue1.0。此外，我对占用空间小的产品和库充满热情。 因此，我编写了自己的类似 Vue 的框架： https://github.com/aragagnin/vuenilla 该框架仅支持 CDN（即没有构建步骤），非常完整，因为它包括绑定、事件、双向绑定、条件渲染（if/for 循环）、组件和自定义指令。 你可能会问，为什么不直接使用 Vue1.0？好吧，在开发时，我经常想：如果你可以用几行原生 JS 来完成，那就去做吧。因此在 Vuenilla 中：  模板使用原始 JS 文字模板（即，使用 ${..} 进行插值，而不是 {{..} ）。 Vuenilla 中的事件比 Vue 更“原始”：用户必须调用 JS 原始函数 new Event 和 dispatchEvent 来传播它们。  如果发现任何错误，请告诉我 :)    提交人    /u/spocchio   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbufay/vuenilla_an_incredibly_small_modern_vue1like/</guid>
-      <pubDate>Sun, 08 Sep 2024 10:09:00 GMT</pubDate>
+      <title>我构建了一个 Next.js 15 SaaS 样板，使 Web 应用程序开发变得非常容易</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fbzx2a/i_built_a_nextjs_15_saas_boilerplate_that_makes/</link>
+      <description><![CDATA[大家好， 你好吗？希望你也享受夏天的天气 :) 大多数 SaaS 入门套件和样板在 Web 应用程序功能方面提供的内容并不多。 我们的想法是只关注 Web 应用程序部分，提供高质量、现代且灵活的解决方案。总是多做一点，永远不要走捷径。 网站：https://achromatic.dev 演示：https://demo.achromatic.dev 技术栈是  Next.js 15，React 19 Auth.js v5 Prisma shadcn/ui nuqs，next-safe-action，nice-modal TypeScript Tailwind  一切都是使用 RSC 和服务器操作实现的。   由    /u/Longjumping-Till-520  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fbzx2a/i_built_a_nextjs_15_saas_boilerplate_that_makes/</guid>
+      <pubDate>Sun, 08 Sep 2024 15:05:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
