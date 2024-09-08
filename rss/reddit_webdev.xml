@@ -4,13 +4,41 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 08 Sep 2024 18:07:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 21:06:19 GMT</lastBuildDate>
     <item>
-      <title>今天我了解到 Spotify 的前端比我的整个堆栈还要复杂</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fc3o1g/til_spotifys_frontend_is_more_complex_than_my/</link>
-      <description><![CDATA[所以，我以为我的 React 应用程序和 Node.js 后端很棒。然后我研究了 Spotify 的前端架构，然后……哎呀。 你知道吗： - 他们使用 React，但使用自定义构建管道 - 他们的 API 网关使用 GraphQL 和 Apollo - 他们有一整套系统专门用于处理离线模式 我在每周新闻通讯中分解了这样的技术堆栈。这就像考古学，但针对的是代码。如果你想同时感受到灵感和不足，请查看：https://stackcurious.beehiiv.com/subscribe  你的堆栈中最过度设计的部分是什么？我先开始：我将 Redux 用于待办事项应用程序。 🤦‍♂️      由   提交  /u/Jamyakan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fc3o1g/til_spotifys_frontend_is_more_complex_than_my/</guid>
-      <pubDate>Sun, 08 Sep 2024 17:47:55 GMT</pubDate>
+      <title>使用测验来提高 Web 项目中的用户参与度</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc89p5/using_quizzes_to_boost_user_engagement_in_your/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc89p5/using_quizzes_to_boost_user_engagement_in_your/</guid>
+      <pubDate>Sun, 08 Sep 2024 21:04:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于存储网站图像的最佳云服务是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc87co/whats_the_best_cloud_service_for_storing_images/</link>
+      <description><![CDATA[我有一个使用 SvelteKit、Express.js 和 PostgreSQL 构建的网站。它本质上是一个房地产网站，每个房产都有自己的图片，所以我需要一个免费或便宜的云图片存储服务（这是一个面向本地地区的房地产网站，因此流量不会很大，至少最初不会）。 我尝试使用 Wasabi，但我无法将存储桶公开，这使我无法在我的网站上实现图片。出于这个原因，我宁愿不使用 Wasabi。    提交人    /u/Familiar_Mud_8671   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc87co/whats_the_best_cloud_service_for_storing_images/</guid>
+      <pubDate>Sun, 08 Sep 2024 21:01:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过算法证明我不是基础</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc70d7/algorithmically_proving_that_im_not_basic/</link>
+      <description><![CDATA[就我个人而言，我认为我的音乐品味相当多样化。但据我的兄弟和朋友说，他们说我所有的音乐听起来都一样。尽管我听法语、西班牙语、俄语和英语音乐，但他们说听起来都一样。所以我想写一些 Python 代码来进行数据分析，以了解我音乐品味的潜在趋势。顺便说一句，如果您也想尝试一下，该项目的代码可在视频说明中找到。 https://youtu.be/E8uYHisY-S4    提交人    /u/Zestyclose-Ad6874   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc70d7/algorithmically_proving_that_im_not_basic/</guid>
+      <pubDate>Sun, 08 Sep 2024 20:10:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>UpdraftPlus WordPress 备份 - 不备份图像</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc5tjy/updraftplus_wordpress_backup_not_backing_up_images/</link>
+      <description><![CDATA[问候， 帮助当地慈善机构建立 WordPress 网站，使用最新的 UpdraftPlus WordPress 备份从开发版本迁移到实时版本（首次使用），尝试从上传目录备份图像时出现错误“由于意外名称不匹配（语言环境：C.UTF-8）而跳过文件”。以下是完整的备份日志内容... 关于我应该寻找什么，有什么建议吗？ 日志文件：https://pastebin.com/gf6K14C1 大家好！    提交人    /u/blabley   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc5tjy/updraftplus_wordpress_backup_not_backing_up_images/</guid>
+      <pubDate>Sun, 08 Sep 2024 19:19:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有一个工具可以重播用户操作以便在开发中调试？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc5s1z/is_there_a_tool_to_replay_user_actions_for/</link>
+      <description><![CDATA[在开发 Web 应用时，您是否遇到过这样的问题：您必须重新执行一系列步骤以确保一切正常，然后每次更改代码时，都要点击刷新并返回并执行该序列？ 假设我正在测试用户成功登录时出现的欢迎横幅动画。  我完成登录流程，查看动画，更改代码以调整动画。 它没有显示，所以我想添加日志语句来了解发生了什么。 添加日志语句后，我找出了问题所在，但现在动画发生在屏幕的错误部分 重复此操作，直到问题解决。每次代码迭代都需要一些时间，我必须通过登录流程进行复制。  是否有某种我缺少的工具或流程可以帮助我缓解这种情况？你们在工作流程中是如何解决这个问题的？非常感谢您的任何意见！ 我使用replay.io取得了一些成功，但它并不好，因为它没有紧密的反馈循环（重播需要一些时间来记录+上传）。每次更改代码后，我都需要进行新的重播，所以并没有真正解决我的问题。    提交人    /u/Granolayum   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc5s1z/is_there_a_tool_to_replay_user_actions_for/</guid>
+      <pubDate>Sun, 08 Sep 2024 19:17:53 GMT</pubDate>
     </item>
     <item>
       <title>tenthousandpixels.com：我用一万个像素建立了一个网站。改变一个像素会实时改变所有人的像素。它就像 r/place，但争夺最流行的颜色。</title>
@@ -69,39 +97,11 @@
       <pubDate>Sun, 08 Sep 2024 17:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>简历审查 - 3YOE 全栈软件工程师 - 没有得到回电 - 请挑剔或嘲笑？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fc28lr/resume_review_3yoe_full_stack_software_engineer/</link>
-      <description><![CDATA[请吐槽一下我的简历，没有收到回电，已经申请了大约 100 个应用程序。开放给任何湾区公司或只开放给大型科技公司的搬迁。  项目影响力不够或复杂度不够，无法达到 3YOE？ 指标/数字不足？ 要点不够具体？ 内容不够/空白太多？ 缺少全栈开发人员的任何关键技能或经验？  https://preview.redd.it/39fny2846mnd1.png?width=5100&amp;format=png&amp;auto=webp&amp;s=b1956cb092304f1b4174e3535e7627c92be0041d    提交人    /u/Motor-Definition3228   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fc28lr/resume_review_3yoe_full_stack_software_engineer/</guid>
-      <pubDate>Sun, 08 Sep 2024 16:46:06 GMT</pubDate>
-    </item>
-    <item>
       <title>适合初学者的响应式设计</title>
       <link>https://www.reddit.com/r/webdev/comments/1fc1kx4/responsive_design_for_a_beginner/</link>
       <description><![CDATA[大家好， 我是一个完全的初学者，只知道 html 和 css，我想知道： 1) 如何实际构建响应式设计？ 2) 什么使设计具有响应性？ 3) 哪个 CSS 和 HTML 属性可以实现这一点？ 4) 是否有一套适当的指导方针？如“使用 X，执行 Y”    提交人    /u/Brosky-Chaowsky   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fc1kx4/responsive_design_for_a_beginner/</guid>
       <pubDate>Sun, 08 Sep 2024 16:17:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>SSL 证书</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fc1dxw/ssl_certificate/</link>
-      <description><![CDATA[我最近为我的公司购买了域名，但我对代码和 Web 开发一无所知，我想知道是否有人可以解释如何使用 certbot 并免费获取 SSL 证书并安装它。抱歉，这可能看起来像一个愚蠢的帖子。    提交人    /u/Sudani_Goat   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fc1dxw/ssl_certificate/</guid>
-      <pubDate>Sun, 08 Sep 2024 16:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款用于比较当地杂货店价格的网络应用。由 Expo Router 制作。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fc18xp/a_web_app_to_compare_local_grocery_store_prices/</link>
-      <description><![CDATA[      https://preview.redd.it/70t7nlw9zlnd1.png?width=2310&amp;format=png&amp;auto=webp&amp;s=8acf53d6d4eee309fab622f816cced6416c512e1 https://dinnr.io/app     由   提交  /u/Dependent_Cicada3302   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fc18xp/a_web_app_to_compare_local_grocery_store_prices/</guid>
-      <pubDate>Sun, 08 Sep 2024 16:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>学校电脑屏蔽了一个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fc0xji/website_blocked_on_school_computer/</link>
-      <description><![CDATA[嗨，网站 lostgamerio 在我的学校电脑上被屏蔽了，我想在空闲时间使用它，我怎样才能复制整个网站并将其放到我的网站上？使用 vercell 或类似的帮助将不胜感激    提交人    /u/Personal-Courage1576   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fc0xji/website_blocked_on_school_computer/</guid>
-      <pubDate>Sun, 08 Sep 2024 15:50:07 GMT</pubDate>
     </item>
     <item>
       <title>我构建了一个 Next.js 15 SaaS 样板，使 Web 应用程序开发变得非常容易</title>
