@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 08 Sep 2024 00:24:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 03:08:05 GMT</lastBuildDate>
+    <item>
+      <title>您会使用什么样的内容管理系统来制作网络漫画？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fbmvsz/what_kind_of_content_management_system_would_you/</link>
+      <description><![CDATA[假设它不仅仅是一个带有一堆堆叠 jpeg 的博客。假设您希望面板是具有响应行为的独立图像（不同设备/屏幕尺寸上的独特面板布局）。并且您希望使用像 comical-js 这样的库来制作文字气球。并且您想要某种内容管理系统。 这里最好的方法是什么？预先存在的 CMS？我觉得 WordPress 不适合这样的内容。也许基于 markdown 的 CMS？感觉每部分内容（面板或页面）都需要自己的 JS。其中 JS 实际上是内容本身（或至少是演示文稿）。 您将如何处理这个问题？    提交人    /u/chevalierbayard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fbmvsz/what_kind_of_content_management_system_would_you/</guid>
+      <pubDate>Sun, 08 Sep 2024 01:49:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 为网页设计师和开发者精心挑选的 905 个工具和资源</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fbmkwl/showoff_saturday_905_handpicked_tools_resources/</link>
+      <description><![CDATA[        提交人    /u/addycodes   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fbmkwl/showoff_saturday_905_handpicked_tools_resources/</guid>
+      <pubDate>Sun, 08 Sep 2024 01:32:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅在客户端 Web 应用程序中隐藏代码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fblhry/hide_code_in_clientside_only_web_application/</link>
+      <description><![CDATA[我有一个 Web 应用程序（HTML、CSS、JavaScript），它仅在客户端上运行，不需要与服务器或数据库进行任何通信。 代码中有硬编码数据，以前是由 Python 脚本生成的。 如何最好地向调查客户隐藏代码？ 将 Web 应用程序转换为 .apk 应用程序是解决方案的第一步。 我一直在考虑：  加密 Python 脚本中的硬编码数据，然后在 Web 应用程序中运行时解密。 使用 Cordova 转换为应用程序并使用内置代码混淆。  你会怎么做？ 谢谢你的建议。    由   提交  /u/MemberOfInternet1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fblhry/hide_code_in_clientside_only_web_application/</guid>
+      <pubDate>Sun, 08 Sep 2024 00:33:43 GMT</pubDate>
+    </item>
     <item>
       <title>哪些云计算/服务器提供商能够提供绝对可靠的硬性支出限额？不是警报或通知，而是绝对无法超出的硬性上限？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fbkt2q/what_are_the_best_cloud_computing_server/</link>
@@ -76,7 +97,7 @@
       <pubDate>Sat, 07 Sep 2024 21:09:19 GMT</pubDate>
     </item>
     <item>
-      <title>模因制作者</title>
+      <title>表情包制作者</title>
       <link>https://www.reddit.com/r/webdev/comments/1fbglgo/meme_maker/</link>
       <description><![CDATA[      大家好，最近忙于各种项目，所以我想休息一下，做点简单的事情。 我可以介绍一下，Meme Maker！这是一个用 Svelte（Kit）、UnoCSS 和 TypeScript 制作的简单图像编辑器，可让您添加和操作画布、文本和图像。由于这个想法是“简单易用”，所以它实际上不应该太高级。 我可能会在以后添加一些功能，例如绘图、特效和 meme 库（可能带有免费的公共 API），但现在它处于可用状态。    提交人    /u/lynithdev   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fbglgo/meme_maker/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[        提交人    /u/Uygi7   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fbg8br/with_songroom_stream_music_and_connect_with/</guid>
       <pubDate>Sat, 07 Sep 2024 20:21:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使 SQL 表行国际化？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbfyy2/how_do_you_internationalize_sql_table_rows/</link>
-      <description><![CDATA[例如，不同前端可能会使用表“Categories”，如何以干净的方式将类别名称国际化？    提交人    /u/Coder_Koala   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbfyy2/how_do_you_internationalize_sql_table_rows/</guid>
-      <pubDate>Sat, 07 Sep 2024 20:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个网站，可以把你带到互联网上的一个随机页面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbf7rv/i_built_a_website_that_sends_you_to_a_random_page/</link>
-      <description><![CDATA[        提交人    /u/MobilePanda1   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbf7rv/i_built_a_website_that_sends_you_to_a_random_page/</guid>
-      <pubDate>Sat, 07 Sep 2024 19:36:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为初学者和简单项目构建了一个精简的 BASIC 静态站点样板 - 希望得到您的反馈！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbekz5/i_built_a_lean_basic_static_site_boilerplate_for/</link>
-      <description><![CDATA[大家好！ 我想分享一个我一直在做的项目，它可能对初学者或任何寻找静态网站简单解决方案的人有帮助： https://github.com/AgathaCrystal/BASIC-Boilerplate 一些背景知识：我在表格布局时代从前端开发开始了我的编程之旅，但一直更专注于前端设计。最近，我一直在深入研究现代框架和构建工具，我们现在有这么多的选择真是太疯狂了！ 但问题是 - 有时这些工具可能有点大材小用。我有一个客户要求我为一个本质上是静态页面的 WordPress 网站编写代码。我建议改为构建一个静态 HTML/JS/CSS 网站，他们同意了。 这让我想到：为什么不创建一个超精简的样板，它非常适合简单的网站，并且非常适合初学者学习基础知识？ 所以，我就是这么做的。它提供以下功能：  使用 Vite 进行快速开发和优化构建 集成 Tailwind CSS 以快速设置样式（但您也可以使用纯 CSS） 支持 SCSS 进行自定义样式 包括图像优化和响应式图像生成 具有简单的 HTML 模板 自动生成站点地图 对生产构建应用 Gzip 压缩 完美的 100/100/100/100 Pagespeed 分数  最好的部分？它被设计成尽可能原始的 HTML/JS/CSS。对于新程序员来说，这是一个很好的起点，可以让他们学习基础知识，而不会被复杂的技术堆栈所淹没。 它非常适合：  简单的商业网站 作品集网站 登陆页面 学习项目  我希望你能看看并告诉我你的想法。你觉得这有用吗？你会添加或更改任何功能吗？目前我认为当 URL 栏位于底部时，iPhone 可能存在样式问题 - 但我没有 iPhone 🤷。    提交人    /u/Philastan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbekz5/i_built_a_lean_basic_static_site_boilerplate_for/</guid>
-      <pubDate>Sat, 07 Sep 2024 19:07:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
