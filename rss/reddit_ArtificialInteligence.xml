@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 09 Sep 2024 06:07:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 09:05:43 GMT</lastBuildDate>
+    <item>
+      <title>利用生成式 AI 视频重现《黑客帝国》中的场景</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fckit3/recreating_scenes_from_the_matrix_with_generative/</link>
+      <description><![CDATA[https://youtu.be/Kj8hyg2uXcc 我第四次尝试制作 AI 视频。我认为重现《黑客帝国》中的场景会很讽刺。很高兴回答有关我使用的工具以及制作此类视频的整个过程的任何问题。 以下是我用来制作视频的工具。 脚本和图像/视频提示指导：ChatGPT 图像生成：Fooocus（将每幅图像放大 2 倍） 图像到视频生成：Runway Gen-3 Alpha Turbo、Immersity AI、Minimax 如果您有兴趣关注我在生成式 AI 实验中的进展，请关注或发送消息（如果有兴趣合作）。    提交人    /u/Efficient_Egg_8637   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fckit3/recreating_scenes_from_the_matrix_with_generative/</guid>
+      <pubDate>Mon, 09 Sep 2024 08:27:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能在房地产中的应用</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcjtxy/ai_applications_in_real_estate/</link>
+      <description><![CDATA[人工智能驱动的房地产估价和定价 房地产应用、房地产实施、人工智能对房地产的影响 在房地产领域，准确的房地产估价可以促成或破坏交易。传统上，估价依赖于人工评估，这是一种耗时且容易出现人为错误的方法。房地产人工智能正在通过分析包括历史房地产特征、销售数据和市场趋势在内的大型数据集来改变传统的估价方法。 例如，Zillow 等公司使用人工智能来估算房地产价值。它可以帮助买家和卖家获得公平的价格，并提高房地产市场的透明度和效率。 使用人工智能算法增强房地产搜索 房地产应用、房地产实施、人工智能对房地产的影响 由于可用的房源数量庞大，您需要花很长时间才能找到完美的房产。 AI 通过使用高级算法将用户与最符合他们偏好的房产进行匹配，从而缩短了这一时间。为了简化此过程，AI 会分析位置、价格范围、大小和便利设施。 Realtor.com 和 Redfin 等平台使用 AI 根据用户行为（例如以前的搜索、查看过的房产和喜欢的功能）提供个性化的房产推荐，以完善未来的建议。这种个性化的用户体验方法提高了房产搜索效率。 阅读：https://www.seaflux.tech/blogs/ai-real-estate-application-and-implementation    提交人    /u/Sandyrocks77   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcjtxy/ai_applications_in_real_estate/</guid>
+      <pubDate>Mon, 09 Sep 2024 07:33:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>法学硕士 (LLM) 的反射调优是什么？解释</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcjonw/what_is_reflection_tuning_for_llms_explained/</link>
+      <description><![CDATA[反思是一种新的微调技术，其中微调提示略有改变，在训练 LLM 时融入自我反思，从而大大提高结果。看看它是如何工作的：https://youtu.be/I1JTytW56Y4?si=htN7S-vXklWqg1wa     提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcjonw/what_is_reflection_tuning_for_llms_explained/</guid>
+      <pubDate>Mon, 09 Sep 2024 07:21:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>AgentM Pulse：自我修改的用户体验</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcipmi/agentm_pulse_a_self_modifying_user_experience/</link>
+      <description><![CDATA[只是想分享一个我一直在做的项目，以征求反馈。我已经开始构建一个名为 AgentM 的 OSS 库，它引入了一个新的概念“微代理”。微代理是作为函数出现的小型代理，它们使用 AI 做得非常好。您可以将 AgentM 视为 AI 的 Lodash。如果您只想向您的应用程序添加摘要，只需导入两个函数即可实现，因此，如果您想为应用程序添加一点智能，您可以做到这一点，而无需使用像 LangChain 或 AutoGen 这样的繁重工作。 不过，我今天想分享的是一个名为 Pulse 的应用程序体验，它最初只是 AgentM 的一个示例，但正在迅速发展成为更多。AgentM Pulse 是一个在您的本地机器上运行的网络服务器，它会显示一个 100% 由 AI 生成的网站。它不仅仅是一个由人工智能生成的 UI，还是一个自我修改的 UI。你可以把它想象成 Claude Artifacts，但每次你发送新消息时，整个 UI 都会重新编写。安装说明在这里，您只需尝试一下即可了解它的功能： https://www.npmjs.com/package/agentm 您还可以在此处查看我创建的示例页面的更多屏幕截图： https://community.openai.com/t/installing-and-self-hosting-agentm-pulse/933799 它与 websim 有一些相似之处，但也有不同之处。例如，Pulse 有自己的 API，可以利用它来存储对象并使用 dall-e 生成图像。与 websim 不同，您可以使用它来构建真正有用的实际应用程序。设置非常简单，您只需要一个 OpenAI API 密钥即可开始使用（即将提供 Claude 支持）。感谢您的时间，我期待您的反馈。    提交人    /u/OwnKing6338   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcipmi/agentm_pulse_a_self_modifying_user_experience/</guid>
+      <pubDate>Mon, 09 Sep 2024 06:09:31 GMT</pubDate>
+    </item>
     <item>
       <title>为什么斯嘉丽约翰逊能跻身《时代》杂志人工智能领域最具影响力的 100 人之列，而埃隆马斯克却没有呢？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fci0ra/why_is_scarlett_johansson_part_of_time_magazines/</link>
@@ -39,34 +67,6 @@
       <description><![CDATA[我最近在 TikTok 上看到一个超级有趣的视频，有人让两个人工智能就“哪个更重要：过程还是结果？”这个话题互相辩论。人工智能非常有礼貌，总是在提出自己的论点之前承认对方的观点。看起来很有趣，但不幸的是，他们最终偏离了主题，从未真正得出结论。 这让我想知道是否有其他人尝试过让两个人工智能就任何话题进行辩论并真正得到最终结果。如果你有，我很想听听你的经历和发现！我认为人工智能辩论非常酷，我很想知道其他人对此的看法。 请随时分享您的想法和经验！谢谢！    提交人    /u/Due-Celebration4746   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fce4jt/has_anyone_tried_making_two_ais_debate_sharing_my/</guid>
       <pubDate>Mon, 09 Sep 2024 01:44:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度的人工智能语音机器人。革命性的里程碑还是又一轮风险投资炒作？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fccz7o/ai_voice_bots_in_india_revolutionary_milestone_or/</link>
-      <description><![CDATA[  由    /u/archer02486  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fccz7o/ai_voice_bots_in_india_revolutionary_milestone_or/</guid>
-      <pubDate>Mon, 09 Sep 2024 00:44:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>NviWatch：用于 AI/ML 工作流程的轻量级 GPU 监控</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fccclu/nviwatch_lightweight_gpu_monitoring_for_aiml/</link>
-      <description><![CDATA[在这里分享，因为我认为它可能对这个群组中的人有用。 ✅ 专注于 GPU 进程 ✅ 多种视图模式 ✅ 轻量级用 rust 编写 2mb 安装大小 ✅ 直接使用 nvml  提高您的工作效率而不会臃肿。现在就试试吧！ https://github.com/msminhas93/nviwatch    提交人    /u/msminhas93   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fccclu/nviwatch_lightweight_gpu_monitoring_for_aiml/</guid>
-      <pubDate>Mon, 09 Sep 2024 00:12:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人能告诉我这个 AI 声音的名字吗？谢谢</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcc561/can_someone_tell_me_the_name_of_this_ai_voice/</link>
-      <description><![CDATA[有人能帮我识别一下在两个不同的 YouTube 频道上使用的这个 AI 声音吗： https://www.youtube.com/watch?v=um3IZ1DGiiY https://www.youtube.com/watch?v=PUqq67tdwX0&amp;t=72s 我知道 ElevenLabs 的 Legacy Adam 声音非常受欢迎。但我不知道这个声音的名字。 谢谢！    提交人    /u/deathstarglitch   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcc561/can_someone_tell_me_the_name_of_this_ai_voice/</guid>
-      <pubDate>Mon, 09 Sep 2024 00:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用人工智能在社交媒体上模仿现实生活（讨论）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fc9ibg/using_ai_to_fake_real_life_on_social_media/</link>
-      <description><![CDATA[https://www.facebook.com/profile.php?id=61562589010559  一个使用人工智能生成内容伪造真实生活的个人资料示例。人们非常无知，非常相信这些照片。互联网流量被路由到这些个人资料，就像偷窃一样。  我非常讨厌在我们的游戏中使用人工智能，当我们非常清楚我们使用人工智能时，我们不会伪造现实生活场景，这是一种完全抽象和富有想象力的体验，具有独特的概念和游戏玩法。  不幸的是，伪造在互联网上大多数时候都会获胜。    提交人    /u/Cyber​​SoulWriter   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fc9ibg/using_ai_to_fake_real_life_on_social_media/</guid>
-      <pubDate>Sun, 08 Sep 2024 21:58:50 GMT</pubDate>
     </item>
     <item>
       <title>利用人工智能掌握个人发展和效率的秘诀</title>
