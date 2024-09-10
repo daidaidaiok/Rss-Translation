@@ -4,107 +4,104 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Mon, 09 Sep 2024 21:05:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 23:58:29 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 以其低沉洪亮的声音而闻名的标志性演员詹姆斯厄尔琼斯去世[...]</title>
-      <link>https://t.me/hn_summary/107690</link>
-      <description><![CDATA[詹姆斯·厄尔·琼斯去世，享年 93 岁
-詹姆斯·厄尔·琼斯是一位以深沉洪亮的声音而闻名的标志性演员，他在纽约州达奇斯县的家中去世，享年 93 岁。琼斯克服了严重的童年口吃，建立了长达 60 多年的多产职业生涯。他于 1958 年在百老汇首次亮相，并一直演出到 2021 年。值得注意的是，他为《星球大战》中的达斯·维达、《狮子王》中的穆斯塔法国王配音，并出演了《奇爱博士》和《梦幻之地》等多部电影。琼斯获得了多项荣誉，包括两项托尼奖、两项艾美奖和一项奥斯卡荣誉奖，使他成为为数不多的获得 EGOT 的人之一。他的谦逊和对事业的奉献精神贯穿了他的一生。]]></description>
-      <guid>https://t.me/hn_summary/107690</guid>
-      <pubDate>Mon, 09 Sep 2024 21:05:43 GMT</pubDate>
+      <title>Sigrok 项目致力于开发一种多功能、跨平台、免费/自由/开源的 [...]</title>
+      <link>https://t.me/hn_summary/107711</link>
+      <description><![CDATA[Sigrok – 一款便携式、跨平台、FOSS 信号分析软件套件
+Sigrok 项目致力于开发一款多功能、跨平台、免费/自由/开源信号分析软件套件，支持各种设备，如逻辑分析仪、示波器等。Sigrok 获得 GNU GPL 版本 3 或更高版本的许可，拥有广泛的硬件支持、与多种操作系统（Linux、Mac OS X、Windows 等）的兼容性以及通过 Python 3 进行脚本协议解码。它还支持各种输入/输出文件格式，并包含可重复使用的库，如 libsigrok 和 libsigrokdecode。PulseView、SmuView 和 sigrok-cli 等前端增强了其功能。用户可以记录数据、检查逻辑电路、远程控制实验室设备以及编写自定义协议解码器。除非另有说明，否则所有 wiki 内容均受 CC-BY-SA 3.0 许可。]]></description>
+      <guid>https://t.me/hn_summary/107711</guid>
+      <pubDate>Mon, 09 Sep 2024 23:58:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] WarpStream 很高兴宣布与 Confluent 整合，增强我们的数据[...]</title>
-      <link>https://t.me/hn_summary/107689</link>
-      <description><![CDATA[Warpstream 加入 Confluent
-WarpStream 很高兴宣布与 Confluent 整合，通过 WarpStream BYOC 增强我们的数据流功能。与典型的收购公告相反，WarpStream 不会关闭或彻底改变；相反，它有望在 Confluent 的支持下得到显着改善。我们的产品将继续保持目前的形式，为现有客户和新客户提供服务。在过去的十三个月里，我们扩大了团队，推出了新产品，并加入了 Grafana Labs 和 Zomato 等知名客户。与 Confluent 的此次合作将带来更多的工程资源、企业级支持以及令人兴奋的新功能，如 Kafka 事务、集群配额和 BYOC 模式注册表。我们相信，这次合作将创建一个比任何一家公司单独实现的更强大的平台。请继续关注 Current 2024 以获取更多更新。]]></description>
-      <guid>https://t.me/hn_summary/107689</guid>
-      <pubDate>Mon, 09 Sep 2024 21:01:38 GMT</pubDate>
+      <title>[媒体] 以色列总理本雅明内塔尼亚胡已请求法院颁布禁令，以防止[...]</title>
+      <link>https://t.me/hn_summary/107710</link>
+      <description><![CDATA[内塔尼亚胡请求法院阻止在即将上映的电影中播放他的审讯
+以色列总理本杰明·内塔尼亚胡已请求法院发布禁令，阻止发布即将上映的电影中即将播放的警方审讯录像。该电影深入探讨了针对内塔尼亚胡的腐败指控，引发了重大争议。内塔尼亚胡的法律团队辩称，播放录像可能会损害正在进行的法律诉讼并侵犯他的隐私权。然而，批评者声称此举是试图压制符合公众利益的信息。此案凸显了备受瞩目的法律事务中透明度与隐私之间的持续紧张关系。]]></description>
+      <guid>https://t.me/hn_summary/107710</guid>
+      <pubDate>Mon, 09 Sep 2024 23:47:22 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：应用程序是如何伪装成其他东西进入 Apple App Store 的？</title>
-      <link>https://t.me/hn_summary/107688</link>
-      <description><![CDATA[问 HN：应用如何伪装成其他内容进入 Apple App Store？
-标题：问 HN：应用如何伪装成其他内容进入 Apple App Store？
-网站：news.ycombinator.com
-
-在成人行业，开发人员经常使用“创造性”方法将面向成人的应用伪装成其他内容偷偷带入 Apple App Store。例如，YouTube 上一则视频聊天应用的广告，带有模糊的裸体画面，导致应用商店页面将该应用展示为具有社交网络功能的图书阅读器。安装后，该应用的本质暴露无遗，是一个付费女性视频聊天平台。作者质疑这些欺骗性应用如何通过苹果的审查程序，猜测开发人员是否会提交一个良性版本供审查，然后用实际应用替换它。这引发了人们对苹果应用审查系统有效性的担忧。]]></description>
-      <guid>https://t.me/hn_summary/107688</guid>
-      <pubDate>Mon, 09 Sep 2024 20:58:32 GMT</pubDate>
+      <title>[媒体] CNBC 上的伯克希尔哈撒韦公司投资组合追踪器详细介绍了美国上市公司。</title>
+      <link>https://t.me/hn_summary/107709</link>
+      <description><![CDATA[伯克希尔哈撒韦投资组合追踪器
+CNBC 上的伯克希尔哈撒韦投资组合追踪器详细介绍了沃伦·巴菲特控股公司持有的美国公开交易股票，这些股票已向美国证券交易委员会报告。它还包括伯克希尔持有的五只日本股票，这些股票在日本文件中有所报告。值得注意的是，伯克希尔哈撒韦获得了美国证券交易委员会的许可，可以暂时保留截至 2023 年 9 月 30 日的部分股票持股数据。该追踪器允许按各种列进行排序，持股数据截至 2024 年 6 月 30 日更新，但美国银行和比亚迪等特定股票除外，它们的报告日期不同。日本股票价格已转换为美元，三菱股票已根据股票分割进行了调整。有关沃伦·巴菲特的更多信息，请访问 CNBC 的沃伦·巴菲特档案。]]></description>
+      <guid>https://t.me/hn_summary/107709</guid>
+      <pubDate>Mon, 09 Sep 2024 23:44:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：thehill.com</title>
-      <link>https://t.me/hn_summary/107687</link>
-      <description><![CDATA[农业专员称，德克萨斯州部分地区“缺水”，其余地区也逐渐干涸
-标题：农业专员称，德克萨斯州部分地区“缺水”，其余地区也逐渐干涸
-网站：thehill.com
+      <title>[媒体] 网站：www.thebignewsletter.com</title>
+      <link>https://t.me/hn_summary/107708</link>
+      <description><![CDATA[乔·拜登设计了苹果的新款 AirPods
+标题：乔·拜登设计了苹果的新款 AirPods
+网站：www.thebignewsletter.com
 
-农业专员 Sid Miller 称，德克萨斯州面临严重的水危机，部分地区已经缺水，其他地区也濒临缺水。里奥格兰德河谷受灾尤其严重，地下水减少，过度抽水，气候变化加剧了这一情况。米勒强调，山谷的番茄产量下降了 80%，由于水井干涸，佩科斯无法再生产其著名的哈密瓜。尽管 2023 年向德克萨斯州水资源基金拨款 10 亿美元，但专家估计需要 800 亿美元才能解决这场危机。立法行动受到激烈的党派冲突的阻碍，使确保该州水资源未来的努力变得复杂。]]></description>
-      <guid>https://t.me/hn_summary/107687</guid>
-      <pubDate>Mon, 09 Sep 2024 20:57:29 GMT</pubDate>
+Apple 宣布，他们的 AirPods Pro 2 将很快作为 FDA 批准的助听器使用，可通过软件更新获得。此举是在 FDA 于 2021 年决定允许非处方助听器之后做出的，这与之前的处方模式有很大不同。这一变化是由两党立法推动的，尤其是参议员伊丽莎白·沃伦和查克·格拉斯利倡导并由唐纳德·特朗普签署成为法律的《非处方助听器法案》。然而，FDA 推迟了实施，直到拜登政府的行政命令施压。这一发展打破了助听器市场中少数几家主导公司的控制，使助听器更容易获得且更实惠。文章强调了技术、法律和市场动态之间的相互作用，将这一创新归功于政治行动。
+
+争议：文章批评 FDA 历来保护高价并推迟实施法律。
+
+独特/巧妙：“乔·拜登设计了苹果的新款助听器 AirPods”的说法巧妙地强调了政治对技术进步的影响。]]></description>
+      <guid>https://t.me/hn_summary/107708</guid>
+      <pubDate>Mon, 09 Sep 2024 23:39:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 她在分娩前吃了罂粟籽沙拉。</title>
-      <link>https://t.me/hn_summary/107686</link>
-      <description><![CDATA[她在分娩前吃了罂粟籽沙拉。然后他们把她的孩子带走了
-2022 年 8 月，全职妈妈 Susan Horton 在加利福尼亚州圣罗莎的 Kaiser Permanente 分娩前吃了一份罂粟籽沙拉。她不知道的是，罂粟籽在常规尿液药物筛查中引发了阿片类药物阳性结果。尽管没有使用任何麻醉性止痛药，医院还是将她报告给了儿童福利服务机构，导致她的新生儿 Halle 被保护性拘留。这一事件凸显了尿液药物筛查的争议性和经常出错的性质，尿液药物筛查可能会对常见食物和药物产生假阳性结果。这篇文章强调了对母亲缺乏保护以及对边缘化社区的不成比例的影响。 （根据 52% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/107686</guid>
-      <pubDate>Mon, 09 Sep 2024 20:53:25 GMT</pubDate>
+      <title>网站：puckipedia.com</title>
+      <link>https://t.me/hn_summary/107707</link>
+      <description><![CDATA[Nix 2.24 易受 (远程) 权限提升攻击
+标题：Nix 2.24 易受 (远程) 权限提升攻击
+网站：puckipedia.com
+
+Nix 2.24+ 存在一个严重漏洞，本地非特权用户或任何配置的二进制缓存都可以通过利用 nar 文件解压中的漏洞获得 root 访问权限。如果 nar 文件包含一个具有符号链接和同名目录的目录，则由于重构错误，符号链接将被跟踪并填充目录内容。由于 Nix 守护进程以 root 身份运行，因此允许将文件写入关键系统目录，从而获得持久的 root 访问权限。此外，由于 NAR 文件签名仅在解压后进行验证，因此漏洞更加严重，从而允许恶意二进制缓存绕过签名检查。此问题在发布前就已经为人所知，这引发了人们对响应时间线的担忧。]]></description>
+      <guid>https://t.me/hn_summary/107707</guid>
+      <pubDate>Mon, 09 Sep 2024 23:30:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：朝鲜的披萨</title>
-      <link>https://t.me/hn_summary/107685</link>
-      <description><![CDATA[朝鲜的披萨
-标题：朝鲜的披萨
+      <title>[媒体] OneFileLinux 是一个独特的 Linux 发行版，它完全从您的 UEFI 系统运行 [...]</title>
+      <link>https://t.me/hn_summary/107706</link>
+      <description><![CDATA[OneFileLinux：一个适合 EFI 系统分区的微型恢复发行版
+OneFileLinux 是一个独特的 Linux 发行版，它完全从 UEFI 系统分区运行，无需可启动 USB 或额外的磁盘分区。尽管该项目多年来一直处于不活跃状态，但其概念仍然具​​有创新性。OneFileLinux 将 Alpine Linux 的最小版本压缩为一个 20 MB 的文件，该文件驻留在 EFI 系统分区 (ESP) 中。但是，访问 ESP 可能很棘手，尤其是在 Windows 系统上。Reg FOSS 办公室在不同的硬件上发现了不同的结果，需要一些手动步骤。这个想法是将救援操作系统嵌入 ESP，提供无需额外介质的恢复选项。这个概念与 systemd 创建者 Lennart Poettering 的统一内核映像计划相一致，该计划也旨在简化启动过程。文章回顾了自定义内核流行的时代，并提出了一种现代方法：使用 Yocto 等工具构建自定义内核，从而有可能消除对 initrd 的需求并增强恢复选项。
 
-朝鲜有几家披萨店，由于价格昂贵，主要面向精英阶层。平壤有五家这样的餐厅，包括光复街的披萨店和未来科学家街的意大利披萨店。金正日在 1990 年代将披萨引入朝鲜，聘请意大利厨师培训当地人。第一家披萨店于 2008 年在外国资助下开业。一位韩国艺术​​家创作了一部讽刺电影系列《人民的披萨》，突出了披萨在朝鲜的独家性。有争议的是，据报道，一家披萨店未经授权供应可口可乐，违反了美国的制裁。尽管披萨市场很小，但它已成为平壤精英阶层接受西方影响的象征。]]></description>
-      <guid>https://t.me/hn_summary/107685</guid>
-      <pubDate>Mon, 09 Sep 2024 20:30:14 GMT</pubDate>
+争议：文章批评 Linux 发行版供应商与专有供应商合作以锁定 Linux 启动过程。
+
+独特/聪明：在 ESP 中嵌入救援操作系统的想法以及编译自定义内核以简化启动过程和恢复选项的建议。]]></description>
+      <guid>https://t.me/hn_summary/107706</guid>
+      <pubDate>Mon, 09 Sep 2024 23:12:52 GMT</pubDate>
     </item>
     <item>
-      <title>网站：news.ycombinator.com</title>
-      <link>https://t.me/hn_summary/107684</link>
-      <description><![CDATA[询问 HN：音乐和 GPS 设备
-标题：询问 HN：音乐和 GPS 设备
-网站：news.ycombinator.com
-
-我正在寻找一款适合儿童使用的设备，该设备结合了 GPS 功能和播放离线音乐的能力，并支持有线耳机。尽管搜索了很久，但我还是没能在网上找到这样的设备。有没有人可以推荐或指导在哪里可以找到这种类型的设备？谢谢！]]></description>
-      <guid>https://t.me/hn_summary/107684</guid>
-      <pubDate>Mon, 09 Sep 2024 20:19:07 GMT</pubDate>
+      <title>Flipbook 是一系列专为网络、移动和桌面应用程序设计的库，用于编写 [...]</title>
+      <link>https://t.me/hn_summary/107705</link>
+      <description><![CDATA[Flipbook – 动画二维码
+Flipbook 是一系列专为 Web、移动和桌面应用程序设计的库，用于编写和读取比传统二维码具有更大负载的二维码。它通过创建一系列二维码来实现这一点，这些二维码形成一个动画 GIF，称为“Flipbook”，可以扫描并重新组装成原始负载。该项目解决了标准二维码中小负载大小的限制，使其适合对书籍、电影、音乐和软件等大数据进行编码。该项目提供 Typescript 库，即将推出 Rust 版本，并鼓励为其他语言绑定做出贡献。Flipbook 已获得 MIT 许可。]]></description>
+      <guid>https://t.me/hn_summary/107705</guid>
+      <pubDate>Mon, 09 Sep 2024 23:10:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：Cohost 将于 2024 年底关闭</title>
-      <link>https://t.me/hn_summary/107683</link>
-      <description><![CDATA[Cohost 将于 2024 年底关闭
-标题：Cohost 将于 2024 年底关闭
-
-大家好，
-
-我们很遗憾地宣布，由于资金不足和精疲力竭，cohost 和 Anti Software Software Club 将停止运营。截至今天，我们都没有得到任何报酬；所有收入资金都将用于服务器和运营成本，以确保顺利关闭。Cohost 将于 2024 年 10 月 1 日变为只读，我们的目标是让服务器在线到年底。我们的重点已转向改进数据导出系统，所有用户数据将在 2024 年 12 月 31 日之前删除。尽管我们付出了努力，但我们从未盈利，Stripe 的政策变化迫使我们取消了小费产品 eggbux。我们感谢您对 cohost 的支持和贡献。
-
-~ Jae、Colin、Aidan 和 Kara
-
-争议点：尽管该平台拥有忠实的用户群，但由于精疲力竭和缺乏资金而决定关闭，这可能会引发关于小型社交媒体平台可持续性的争论。
-
-独特/聪明的方面：Cohost 对用户隐私的承诺是值得注意的；他们会删除所有用户数据而不进行备份，并拒绝参与“数据经纪”。]]></description>
-      <guid>https://t.me/hn_summary/107683</guid>
-      <pubDate>Mon, 09 Sep 2024 20:11:03 GMT</pubDate>
+      <title>[媒体] 为了给他的孩子们重现他童年时 VHS 收藏的切实魔力 [...]</title>
+      <link>https://t.me/hn_summary/107704</link>
+      <description><![CDATA[为我的孩子打造的 NFC 电影库
+为了为孩子们重现童年 VHS 收藏的魔力，作者建立了一个 NFC 电影库。他的孩子的电影收藏是数字化的，分散在不同的服务中，所以他想让儿子在选择看什么电影方面有更积极的作用。受到多年前看到的带有 NFC 标签的音乐专辑收藏的启发，他制作了带有 NFC 标签的层压电影封面。当标签放在 NFC 读取器上时，Home Assistant 会播放电影。该项目涉及使用 ESP32 板、NFC 读取器和 Home Assistant 实现自动化。作者还为电子设备 3D 打印了一个外壳，并为电影封面设计了可打印的乙烯基贴纸。这种新旧技术的巧妙融合使他的儿子能够独立选择和播放电影，使数字体验更具互动性和真实性。（基于 57% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/107704</guid>
+      <pubDate>Mon, 09 Sep 2024 23:04:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在我的网站上，你可能会注意到其他人的光标在你阅读时移动，然后 [...]</title>
-      <link>https://t.me/hn_summary/107682</link>
-      <description><![CDATA[每个网页都值得拥有一个地方
-在我的网站上，您可能会注意到其他人的光标在您阅读时会移动，这要归功于一项名为“光标派对”的功能。此功能包括模糊光标和隐藏聊天功能（按“/”激活），旨在创造一种共享存在感。当有人打字时，他们的光标会变得清晰，他们的信息会跟随他们。当网站过于繁忙时，通常由于 Hacker News 的流量，有些人会觉得这很分散注意力，还有一个“安静模式”。另一个功能是实时共享文本突出显示，它是短暂和匿名的。我相信这些元素让网络感觉更像一个真实的地方，培养了一种社区感。 “光标派对”的代码是开源的，只需一行代码就可以添加到任何网站。]]></description>
-      <guid>https://t.me/hn_summary/107682</guid>
-      <pubDate>Mon, 09 Sep 2024 20:07:55 GMT</pubDate>
+      <title>[媒体] 对人工智能的热情掩盖了技术领域更广泛的弱点 [...]</title>
+      <link>https://t.me/hn_summary/107703</link>
+      <description><![CDATA[投资者称，人工智能的繁荣掩盖了科技行业的整体疲软
+根据投资者和最近的财务报告，对人工智能的热情掩盖了科技行业更广泛的弱点，许多公司仍在经历始于 2022 年的衰退。虽然 Nvidia 和微软等巨头因其人工智能业务而实现了股价大幅上涨，但其他科技企业，尤其是人工智能以外的企业，却在苦苦挣扎。软件和 IT 咨询等传统科技领域面临需求疲软和疫情时代过度扩张的后果。Asana 的 Dustin Moskovitz 强调了自疫情开始以来过度招聘和过度支出的持续缓解，再加上经济不确定性和人工智能的不可预测的影响。财务数据显示，大多数大型科技公司的增长放缓，小型企业的收入缩减。尽管人工智能发展迅速，但半导体等行业也面临挑战。投资者的注意力正从大型科技公司转向金融服务和工业等行业，并希望科技行业本身也发生类似的转变。一些专家认为，受创最严重的科技领域出现了企稳的迹象，这表明人工智能可能不再是唯一的增长动力。]]></description>
+      <guid>https://t.me/hn_summary/107703</guid>
+      <pubDate>Mon, 09 Sep 2024 22:54:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]你能在一个月内构建一个 SaaS 产品吗？</title>
-      <link>https://t.me/hn_summary/107681</link>
-      <description><![CDATA[您能在短短一个月内构建 SaaS 产品吗？
-您是否曾梦想推出自己的软件即服务 (SaaS) 产品，但认为这会花费太长时间？再想想！本指南将向您展示如何通过有针对性的规划和执行，在短短一个月内构建基本的 SaaS。第 1 周涉及定义 SaaS 的核心价值、验证市场需求、创建一页纸的商业计划以及绘制基本设计线框。第 2-3 周专注于快速技术设置、编写核心功能以及创建最小可行界面。第 4 周是关于发布前的完善，包括快速测试、基本分析、快速付款设置和基本文档。主要考虑因素包括专注于 MVP、使用现有工具以及为紧张的工作做好准备。在一个月内构建一个 SaaS 很有挑战性，但可行，这只是你的 SaaS 之旅的开始。]]></description>
-      <guid>https://t.me/hn_summary/107681</guid>
-      <pubDate>Mon, 09 Sep 2024 20:06:51 GMT</pubDate>
+      <title>早在 2008 年，我就开发了软件来创建优化的步行机制，以增添乐趣。</title>
+      <link>https://t.me/hn_summary/107702</link>
+      <description><![CDATA[Carpentopod：行走桌项目
+早在 2008 年，我就开发了软件来创建优化的行走机制，以增添乐趣。结合我新获得的电子和木工技能，我制作了 Carpentopod——一款无线行走木制咖啡桌。腿部连杆通过自定义进化算法生成，设计具有流畅、高效的运动。Carpentopod 的灵感来自 Theo Jansen 的 Strandbeest，但具有独特的比例和额外的关节，可最大限度地减少脚部滑动和摆动。使用 Autodesk Fusion 360，我以 CNC 精度设计了桌子，用层压竹子制作而成。Carpentopod 由两个电机驱动，通过重新设计的 Arduino 和蓝牙操纵杆进行控制，是一款异想天开、功能齐全的家具，甚至可以给我送饮料。 
+
+令人惊讶/巧妙：使用进化算法优化腿部连杆，并将 CNC 精度与竹子等有机材料相结合。
+
+独特：Carpentopod 的设计灵感来自 Theo Jansen 的 Strandbeest，但进行了重大修改，并且能够行走和无线控制。]]></description>
+      <guid>https://t.me/hn_summary/107702</guid>
+      <pubDate>Mon, 09 Sep 2024 22:31:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

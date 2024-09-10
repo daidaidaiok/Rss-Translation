@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 09 Sep 2024 21:06:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 00:20:57 GMT</lastBuildDate>
+    <item>
+      <title>这不是一个错误，而是系统的行为——系统思维简介</title>
+      <link>https://www.reddit.com/r/programming/comments/1fd0tyg/its_not_a_bug_its_a_behaviour_of_the_system_intro/</link>
+      <description><![CDATA[  由    /u/dmp0x7c5  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fd0tyg/its_not_a_bug_its_a_behaviour_of_the_system_intro/</guid>
+      <pubDate>Mon, 09 Sep 2024 21:18:47 GMT</pubDate>
+    </item>
     <item>
       <title>是否是时候用专门针对代码生成和模式优先设计的东西来取代 Open API Spec 了？</title>
       <link>https://www.reddit.com/r/programming/comments/1fd0ba6/is_it_time_to_replace_open_api_spec_with/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fcs1uh/the_secrets_of_the_delete_operator_in_javascript/</guid>
       <pubDate>Mon, 09 Sep 2024 15:22:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在动态时间窗口内批量发送通知并节省成本？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fcrpxg/how_to_batch_notifications_for_in_a_dynamic_time/</link>
-      <description><![CDATA[  由    /u/Only_Piccolo5736  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fcrpxg/how_to_batch_notifications_for_in_a_dynamic_time/</guid>
-      <pubDate>Mon, 09 Sep 2024 15:08:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
