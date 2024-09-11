@@ -4,124 +4,94 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Wed, 11 Sep 2024 15:05:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 21:00:46 GMT</lastBuildDate>
     <item>
-      <title>每周 7 天是（对于 YC 来说）新常态吗？</title>
-      <link>https://t.me/hn_summary/107966</link>
-      <description><![CDATA[每周 7 天工作制是（YC 的）新常态吗？
-我曾与多家 YC 初创公司合作过，最近不得不辞去一份合同，因为每周 7 天工作时间非常艰苦，每天工作时间延长到晚上 8-9 点，有时还要通宵工作。尽管我有很强的职业道德，但几乎 24/7 的投入感觉毫无意义，尤其是因为创始人似乎不投入，经常闲逛和长时间休息。在面试新职位时，我遇到了同样的 7 天工作制要求。这向 YC 社区提出了一个关键问题：这种紧张的工作文化是否正在成为 YC 初创公司的常态？创始人们，您认为这种方法会产生更好的结果，还是要求您的团队全心投入？]]></description>
-      <guid>https://t.me/hn_summary/107966</guid>
-      <pubDate>Wed, 11 Sep 2024 15:05:49 GMT</pubDate>
+      <title>问 HN：蒂姆·伯纳斯·李 (Tim Berners-Lee) 对 Solid 项目的愿景今天是否仍然适用？</title>
+      <link>https://t.me/hn_summary/108006</link>
+      <description><![CDATA[问 HN：蒂姆·伯纳斯-李对 Solid 项目的愿景在今天是否仍然适用？
+由蒂姆·伯纳斯-李爵士牵头的 Solid 项目旨在通过其创新框架和商业部门 Inrupt 解决数据主权、隐私和可移植性问题。尽管 Solid 有着崇高的目标，但它在实际实施和实现广泛采用的挑战方面仍面临批评。这就提出了一个问题：蒂姆爵士对 Web 3.0 的愿景是否已经过时，还是它仍然是开发人员正在接受的可行且实用的技术？如果 Solid 不是答案，那么当前确保数据主权和可移植性的最佳实践和技术是什么？有关更多详细信息，请访问 Solid 项目 1 并阅读评论 2。]]></description>
+      <guid>https://t.me/hn_summary/108006</guid>
+      <pubDate>Wed, 11 Sep 2024 21:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：arstechnica.com</title>
-      <link>https://t.me/hn_summary/107965</link>
-      <description><![CDATA[“MNT Reform Next”结合了开源硬件和可用性能
-标题：“MNT Reform Next”结合了开源硬件和可用性能
-网站：arstechnica.com
-
-MNT Research 正在通过 MNT Reform Next 重新审视其开源笔记本电脑概念，这是对原始 MNT Reform 的重大升级。新型号更小、更薄，并且采用更传统的玻璃触控板而不是轨迹球。主要改进包括 Rockchip RK3588 处理器，配备四个 ARM Cortex-A76 和四个 ARM Cortex-A55 内核，以及高达 32GB 的 RAM，性能更佳。该设计包括用户可更换的 LiFePO4 电池，并可选配锂离子电池，以安全性换取更长的运行时间。这款笔记本电脑保留了机械键盘，并增加了更多端口，包括 HDMI 和 USB-C。Reform Next 目前处于原型阶段，将通过 Crowd Supply 众筹提供。价格和供货详情即将公布。]]></description>
-      <guid>https://t.me/hn_summary/107965</guid>
-      <pubDate>Wed, 11 Sep 2024 15:02:45 GMT</pubDate>
+      <title>[媒体] 我们刚刚发布了 FreeCAD 1.0 的第一个候选版本，可供 [...]</title>
+      <link>https://t.me/hn_summary/108005</link>
+      <description><![CDATA[FreeCAD 1.0 的第一个候选版本已经发布
+我们刚刚发布了 FreeCAD 1.0 的第一个候选版本，可在此处下载。我们每周的版本都经过了大胆用户的测试，帮助我们解决了许多问题。现在，我们瞄准的是不同的人群——那些避免使用不稳定软件但愿意测试几乎完整版本并报告任何问题的用户。目前，我们有 7 个版本阻止程序，但我们预计随着测试的增加，这个数字可能会增加，这有利于确保稳定的版本。我们敦促您下载 RC1，严格测试它，并将任何错误报告给我们的问题跟踪器。有兴趣做出贡献的开发人员可以参加我们每周一的合并会议，以帮助解决问题。]]></description>
+      <guid>https://t.me/hn_summary/108005</guid>
+      <pubDate>Wed, 11 Sep 2024 20:50:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 设备树补丁已提交至 Linux 内核邮件列表进行审核，[...]</title>
-      <link>https://t.me/hn_summary/107964</link>
-      <description><![CDATA[发布设备树补丁以供审核，以便在 Apple A7 至 A11 设备上启动 Linux
-设备树补丁已提交至 Linux 内核邮件列表以供审核，旨在使 Linux 能够在搭载 A7 至 A11 SoC 的 Apple 设备上启动，包括 iPhone、iPad 和 iPod。开源开发人员 Konrad Dybcio 开发了 DT 支持，Nick Chan 发布了它并进行了额外的修改。由于引导加载程序问题和未经测试的外形尺寸，补丁分别排除了 T2 设备和 HomePod。支持的功能包括 SMP、UART、简单帧缓冲区、看门狗、计时器、pinctrl 和 AIC 中断。值得注意的是，A10 设备还支持 cpufreq，具有独特的性能和效率核心对处理方式。该开发正在接受审查，以确定是否可能纳入主线 Linux 内核。]]></description>
-      <guid>https://t.me/hn_summary/107964</guid>
-      <pubDate>Wed, 11 Sep 2024 14:58:38 GMT</pubDate>
+      <title>天哪，我刚刚在 2024 年为 Palm OS 发布了一款迷你高尔夫游戏！</title>
+      <link>https://t.me/hn_summary/108004</link>
+      <description><![CDATA[天哪，我刚刚在 2024 年为 Palm OS 发布了一款迷你高尔夫游戏
+天哪，我刚刚在 2024 年为 Palm OS 发布了一款迷你高尔夫游戏！经过一个夏天的断断续续的编码，我很高兴地宣布“Captain&#39;s MiniGolf (v0.6)”。这款游戏不仅提供有趣的游戏玩法，还允许用户创建和分享自己的关卡包。即使您没有 Palm OS 设备，也可以通过浏览器中的 cloudpilot 模拟器来玩它。为 Palm OS 编码带来了内存泄漏和调试多边形形状等挑战，但它也鼓励创造性解决问题。尽管存在一些已知的错误和计划的改进，但我还是在 GPL3 下发布了完整的源代码以激励其他人。这个项目体现了我对 Palm OS 设备的简洁和优雅的热爱。
+
+令人惊讶：这款游戏是为 2024 年过时的 Palm OS 平台开发的。
+独特：这款游戏包含一项功能，供用户创建和分享自己的关卡。
+巧妙：本文的草稿是在 Palm Zire 72 上编写的。]]></description>
+      <guid>https://t.me/hn_summary/108004</guid>
+      <pubDate>Wed, 11 Sep 2024 20:38:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub 上的“AppleWatchAmmeter”项目演示了如何将 Apple Watch 转变为 [...]</title>
-      <link>https://t.me/hn_summary/107963</link>
-      <description><![CDATA[AppleWatchAmmeter
-GitHub 上的“AppleWatchAmmeter”项目演示了如何将 Apple Watch（Series 5 或更新版本）或任何带有可访问磁力计的手表转变为用于测量直流电流的电流表。该项目利用手表的内置磁力计，该磁力计对附近电流产生的磁场很敏感。通过在手表上缠绕一圈线圈，可以改变磁力计感应到的磁场，从而实现电流测量。该项目强调了创建应用程序来校准和显示电流读数的潜力，尽管也可以使用现有的应用程序（如“Sensor-App”）。这种方法仅限于检测直流电流，可以辨别小至 10 mA 的变化。]]></description>
-      <guid>https://t.me/hn_summary/107963</guid>
-      <pubDate>Wed, 11 Sep 2024 14:42:26 GMT</pubDate>
+      <title>[媒体] 法国人工智能初创公司 Mistral 推出了 Pixtral 12B，这是其首款能够实现多模式计算的模型 [...]</title>
+      <link>https://t.me/hn_summary/108003</link>
+      <description><![CDATA[Mistral 发布其首款多模态模型 Pixtral 12B
+法国 AI 初创公司 Mistral 推出了其首款能够同时处理图像和文本的多模态模型 Pixtral 12B。Pixtral 12B 拥有 120 亿个参数，大小约为 24GB，基于 Mistral 的文本模型 Nemo 12B 构建。它可以通过 URL 或 base64 编码处理任何大小的图像，专为图像字幕和对象计数等任务而设计。该模型可在 GitHub 和 Hugging Face 上下载，采用 Apache 2.0 许可，可以进行微调和无限制使用。然而，用于训练的具体图像数据仍不清楚，这引发了潜在的版权问题，因为许多生成式 AI 模型依赖于可能受版权保护的公共数据。 Mistral 在最近一轮 6.45 亿美元的融资后估值达到 60 亿美元，旨在通过提供免费开放模型和咨询服务成为欧洲版 OpenAI。]]></description>
+      <guid>https://t.me/hn_summary/108003</guid>
+      <pubDate>Wed, 11 Sep 2024 20:34:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在www.lrb.co.uk上的“单向交通”一文中，作者生动地描述了马马拉普拉姆的 [...]</title>
-      <link>https://t.me/hn_summary/107962</link>
-      <description><![CDATA[单向交通
-在www.lrb.co.uk上的“单向交通”中，作者生动地描述了马马拉普拉姆作为帕拉瓦王朝（公元 600-900 年）时期一个繁忙海港的历史意义。该港口促进了印度与东南亚之间的广泛贸易，传播了印度纺织品、钢铁和宗教影响。威廉·达尔林普尔 (William Dalrymple) 的书《黄金之路》挑战了传统的丝绸之路叙事，他认为海上路线而不是陆上路线是古代贸易的核心，将印度而不是中国置于这种交流的核心。这种观点与长期以来人们对丝绸之路重要性的信念相矛盾，这一概念由普鲁士地理学家 Baron von Richthofen 于 1877 年推广。达尔林普尔的作品是一种引人注目、非对抗性的探索，将印度重新定位为古代全球贸易中的关键参与者。（基于 85% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/107962</guid>
-      <pubDate>Wed, 11 Sep 2024 14:41:22 GMT</pubDate>
+      <title>[媒体] 在波罗的海一艘 55 米长的海洋调查船 Alkor 号上，工程师 Henrik S [...]</title>
+      <link>https://t.me/hn_summary/108002</link>
+      <description><![CDATA[波罗的海炸弹大清理
+在波罗的海一艘 55 米长的海洋调查船 Alkor 上，工程师 Henrik Schönheit 操作着 Norppa 300，这是 SeaTerra 设计的一种独特的机器人海上爬行器，用于清理水下弹药。这是首次执行此类任务，旨在从波罗的海和北海清除超过 150 万吨的危险弹药，以保护海洋生态系统。这些弹药的状况不断恶化，致癌物质泄漏到海中，这促使清理工作刻不容缓。SeaTerra 由联合创始人 Dieter Guldin 领导，长期以来一直倡导这种大规模清理工作，目前德国政府已在吕贝克湾资助了一个 1 亿欧元的试点项目。 Norppa 300 的先进功能标志着一项重大的技术飞跃，能够系统且更安全地清除这些危险的战争遗留物。该项目既是一项技术挑战，也是一项道德责任，旨在减轻这些水下爆炸物对环境和人类造成的长期风险。（摘要基于 76% 的故事文本。）]]></description>
+      <guid>https://t.me/hn_summary/108002</guid>
+      <pubDate>Wed, 11 Sep 2024 20:18:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《自然可持续性》杂志最近发表的一项研究表明，大多数森林砍伐 [...]</title>
-      <link>https://t.me/hn_summary/107961</link>
-      <description><![CDATA[研究表明，亚马逊大部分牛肉和大豆需求来自巴西，而非出口
-《自然可持续性》杂志最近发表的一项研究表明，巴西亚马逊大部分森林砍伐（相当于 2015 年大伦敦的九倍）是由国内对牛肉和大豆的需求而非出口推动的。研究表明，巴西国内市场造成的森林砍伐量几乎是国际销售量的三倍，圣保罗和里约热内卢是主要原因。尽管如此，国际资本在为巴西最大的肉类和大豆公司提供资金方面仍然至关重要。这项研究挑战了国外市场是亚马逊森林砍伐主要驱动因素的普遍看法，强调需要改变国内政策来解决这一问题。 
-
-争议：该研究结果与长期以来认为国际需求是亚马逊森林砍伐主要驱动因素的观点相悖，将焦点转移到国内消费上。
-
-独特见解：该研究强调了巴西国内市场在推动森林砍伐方面发挥的重要作用，而这一因素在有关亚马逊保护的讨论中经常被忽视。]]></description>
-      <guid>https://t.me/hn_summary/107961</guid>
-      <pubDate>Wed, 11 Sep 2024 14:40:17 GMT</pubDate>
+      <title>[媒体] 在“通用 OCR 理论：通过统一的端到端模型迈向 OCR-2.0”一文中，作者 Haora [...]</title>
+      <link>https://t.me/hn_summary/108001</link>
+      <description><![CDATA[通用 OCR 理论：通过统一的端到端模型迈向 OCR-2.0
+在“通用 OCR 理论：通过统一的端到端模型迈向 OCR-2.0”一文中，作者 Haoran Wei、Chenglong Liu、Jinyue Chen 及其同事介绍了通用 OCR 理论和 GOT 模型，以推动 OCR 技术的发展。传统 OCR 系统 (OCR-1.0) 无法处理各种各样的人工光学信号，作者将其统称为“字符”。GOT 模型具有 580M 个参数，是一种统一的端到端解决方案，具有高压缩编码器和长上下文解码器。它支持各种 OCR 任务，可以处理场景和文档样式的图像，生成纯文本或格式化的输出。独特功能包括交互式 OCR 和动态分辨率自适应。作者展示了实验结果，证明了该模型的优越性。]]></description>
+      <guid>https://t.me/hn_summary/108001</guid>
+      <pubDate>Wed, 11 Sep 2024 20:14:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：OpenSSH 按键混淆绕过</title>
-      <link>https://t.me/hn_summary/107960</link>
-      <description><![CDATA[OpenSSH 按键混淆绕过
-标题：OpenSSH 按键混淆绕过
+      <title>[媒体] 在“为什么 Copilot 让程序员的编程水平变得更糟”一文中，Darren Horrocks 认为 [...]</title>
+      <link>https://t.me/hn_summary/108000</link>
+      <description><![CDATA[为什么 Copilot 会让程序员的编程能力变差
+在《为什么 Copilot 会让程序员的编程能力变差》一文中，Darren Horrocks 认为，像 GitHub 的 Copilot 这样的人工智能驱动工具虽然可以提高生产力，但可能会降低核心编程技能。这些工具允许开发人员绕过必要的学习过程，导致过度依赖自动生成的代码，缺乏所有权和责任感。Horrocks 强调，这种依赖可能会导致代码效率低下、错误百出或不安全，并减少学习和创造性思维的机会。人工智能工具的便利性可能会培养一种虚假的专业知识感，让开发人员无法为复杂的任务做好准备。最终，Horrocks 警告说，对人工智能的依赖可能会阻碍编程的长期技能发展和创新。 
 
-网站：crzphil.github.io
-
-摘要：
-在 OpenSSH 9.5 版中，引入了按键计时混淆，以通过流量分析缓解计时攻击。此功能以固定间隔（20 毫秒）发送交互式流量，并包含伪造的“chaff”数据包以掩盖真实的按键。然而，在我撰写本科论文期间，我发现了在最新版本之前的所有版本中都可以绕过这种混淆。尽管通知了开发人员，但进一步的通信停止了，促使我披露了这一信息。使用 Wireshark 和 SSHniff 等工具，我发现真正的击键数据包由于其大小而仍然引人注目，从而可以推断出底层命令。这一发现凸显了当前混淆方法的一个重大缺陷。
-
-争议：
-OpenSSH 开发人员在初步确认后没有做出回应，这引发了人们对安全漏洞处理的担忧。
-
-令人惊讶/巧妙的方面：
-使用动态时间扭曲 (DTW) 和时间序列森林从击键延迟推断命令是机器学习技术的巧妙应用。（基于 48% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/107960</guid>
-      <pubDate>Wed, 11 Sep 2024 14:36:41 GMT</pubDate>
+争议点：人工智能工具会侵蚀基本的编程技能并产生虚假的专业感，这一说法可能会引发软件开发中人工智能支持者的争论。]]></description>
+      <guid>https://t.me/hn_summary/108000</guid>
+      <pubDate>Wed, 11 Sep 2024 19:33:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：rsapkf.org</title>
-      <link>https://t.me/hn_summary/107959</link>
-      <description><![CDATA[每个月天数的助记符
-标题：每个月天数的助记符
-网站：rsapkf.org
+      <title>[媒体] 在这篇文章中，我们探讨了为什么浴室秤不能提供即时读数[...]</title>
+      <link>https://t.me/hn_summary/107999</link>
+      <description><![CDATA[被动阻尼 – 浴室秤
+在这篇文章中，我们探讨了为什么浴室秤不能提供即时的体重读数。传统的秤使用弹簧，但现代秤使用在力的作用下会略微变形的传感器。当你踩上秤时，平台会因重力而加速，但刚度和阻力（类似于弹簧和阻尼器）会使其减速，从而形成二阶系统。该系统的运动可以用线性二阶微分方程来描述。根据刚度和阻力之间的关系，系统可以临界阻尼、过度阻尼或欠阻尼。浴室秤通常阻尼不足，在确定最终值之前会引起振荡。主动阻尼可以消除这些振荡，但会更复杂且成本更高。 
 
-每个月天数的简单助记符 2023 年 6 月 21 日 · 最后更新：2023 年 9 月 7 日 · 永久链接
-
-我们大多数人可能都学过 Knuckle 助记符、以下诗歌或其某种变体，以记住每个月的天数：
-
-“三十天中有九月，
-四月、六月和十一月，
-其余的都有三十一天，
-除了二月是二十八天，
-但是闰年每四年一次，
-二月则多一天。”
-
-这很可爱，但基本上没有必要。不需要花太多时间就能记住二月在平年有 28 天，在闰年有 29 天，闰年每四年一次。所以这首诗中唯一有价值的信息就是这部分：“九月、四月、六月和十一月”，这仍然需要一些努力才能记住。为了让它坚持下去，我在中学时想出了自己的助记符：“SNAp June”，多年来我一直成功地依靠它。在数字格式中，这些月份对应于 4、6、9/11。其余月份均为 31 天。]]></description>
-      <guid>https://t.me/hn_summary/107959</guid>
-      <pubDate>Wed, 11 Sep 2024 14:35:35 GMT</pubDate>
+令人惊讶/巧妙的方面：将系统巧妙地类比为钟摆，并对阻尼类型（临界阻尼、过阻尼和欠阻尼）进行详细的数学解释，使人们能够深入了解看似简单的设备背后的力学原理。]]></description>
+      <guid>https://t.me/hn_summary/107999</guid>
+      <pubDate>Wed, 11 Sep 2024 19:14:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 很抱歉，您请求的内容似乎尚未完全可用。</title>
-      <link>https://t.me/hn_summary/107958</link>
-      <description><![CDATA[软细胞和贝壳的几何形状
-很抱歉，您请求的内容似乎不完整。如果您可以提供academic.oup.com上的文章“软细胞和贝壳的几何形状”的主要文本或要点，我很乐意帮您总结一下。]]></description>
-      <guid>https://t.me/hn_summary/107958</guid>
-      <pubDate>Wed, 11 Sep 2024 14:34:28 GMT</pubDate>
+      <title>[媒体] 我们很高兴宣布与 CrowdStrike 的最新整合，增强了我们的统一 [...]</title>
+      <link>https://t.me/hn_summary/107998</link>
+      <description><![CDATA[Cloudflare 与 CrowdStrike 合作
+我们很高兴宣布我们与 CrowdStrike 的最新集成，增强了我们的统一风险态势。此次合作利用 CrowdStrike Falcon Next-Gen SIEM 来统一数据、威胁情报、AI 和工作流自动化，使安全团队能够专注于关键任务。通过将 Cloudflare 的电子邮件安全和零信任日志记录与 CrowdStrike 的仪表板和工作流相结合，组织可以获得全面的威胁可见性和改进的风险管理。Happy Cog 的 Matthew Weinberg 称赞了此次集成，因为它具有强大的威胁态势视图。这种合作关系可以提前发现入侵并自动采取响应行动，从而大大缩短响应时间。有关更多详细信息，请联系我们进行咨询。]]></description>
+      <guid>https://t.me/hn_summary/107998</guid>
+      <pubDate>Wed, 11 Sep 2024 19:08:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 现代酿酒师是一位技艺高超的专业人士，能够熟练地驾驭酿酒行业的内幕[...]</title>
-      <link>https://t.me/hn_summary/107957</link>
-      <description><![CDATA[酿造艺术：探索啤酒花和其他定义啤酒的植物成分
-现代酿酒师是一位技术娴熟的专业人士，他们熟练地驾驭复杂的啤酒酿造过程，需要对化学、生物学和工程学有深入的了解。掌握啤酒花、麦芽、酵母和水等关键成分，以及对发酵和温度的精确控制至关重要。酿酒师真正与众不同之处在于他们对芳香植物、文化传统和感官知觉的深刻了解，激发创造力，制作出创新的配方和口味。
-
-布鲁克林啤酒厂的远见卓识者加勒特·奥利弗 (Garrett Oliver) 就是这种专业知识的典范。在一次采访中，他讨论了啤酒成分的历史演变，强调了啤酒花的抑菌特性和苦味的重要性。然而，他强调，啤酒花只是谜题中的一块拼图，麦芽的种类和处理方式同样重要。Oliver 还探讨了文化接触如何影响风味感知，以及在酿造中使用多种植物的复兴。
-
-有趣的是，啤酒花与大麻密切相关，含有月桂烯、芳樟醇和香叶醇等芳香化合物，这些化合物会产生各种气味。啤酒花收获的时间会影响它们的风味特征，西方酿酒商通常喜欢潮湿、泥土的香气，而东方酿酒商则喜欢干净、花香的香气。这种地区偏好展示了啤酒花在酿造中的多功能性。
-
-World Sensorium 的创始人 Gayil Nalls 博士探索了植物和人类如何塑造彼此的故事，加深了对啤酒作为一种文化产物的理解。]]></description>
-      <guid>https://t.me/hn_summary/107957</guid>
-      <pubDate>Wed, 11 Sep 2024 14:25:22 GMT</pubDate>
+      <title>[媒体] Crunchy Data 很高兴推出 Crunchy Bridge for Analytics 的最新功能 [...]</title>
+      <link>https://t.me/hn_summary/107997</link>
+      <description><![CDATA[PostGIS 与 DuckDB 相遇：Crunchy Bridge for Analytics 走向空间化
+Crunchy Data 很高兴推出 Crunchy Bridge for Analytics 的最新功能：地理空间分析。此版本简化了 Postgres 和 PostGIS 与 S3 和公共 Web 服务器的集成，增强了空间数据访问。主要功能包括从地理空间数据 URL 创建分析表、自动映射到 PostGIS 几何类型，以及支持各种地理空间格式，如 GeoParquet、GeoJSON 和 Shapefile。利用 DuckDB 进行快速查询，此更新使 Crunchy Bridge 成为地理空间数据的强大工具。值得注意的是，受 PostGIS 启发，与 DuckDB 空间的集成加速了分析查询，使处理各种地理空间数据格式变得更加容易。 （基于 97% 的故事文本摘要。）]]></description>
+      <guid>https://t.me/hn_summary/107997</guid>
+      <pubDate>Wed, 11 Sep 2024 18:55:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
