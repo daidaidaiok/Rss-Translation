@@ -4,11 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 11 Sep 2024 15:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 18:07:40 GMT</lastBuildDate>
+    <item>
+      <title>开发一款可以陪你浏览网页的开源 Perplexity</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fegdbj/working_on_an_open_source_perplexity_that_browses/</link>
+      <description><![CDATA[大家好，我正在开发一个类似 Perplexity 的个人助理，名为 Palet，它可以索引您的浏览历史记录，以便于搜索。基本上，它就是 Perplexity，但增加了一个功能，即它可以只搜索您浏览过/访问过的网站。 将来，我希望它还能够索引外部上下文源，例如您的电子邮件收件箱或日历。但目前，它只是您访问的网站。 我考虑过使用 Mem0，但目前我选择只构建自己的 Mem0。我认为从 ActivityPub 和 Mem0 中汲取灵感来创建一个“联合内存层”会很酷将来某个时候，Palet 会成为其客户，但其他应用程序/代理也可能是其客户。 无论如何，您可以在此处使用现场演示：https://palet-website-beta.vercel.app 我很乐意听到任何反馈！    提交人    /u/projKe   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fegdbj/working_on_an_open_source_perplexity_that_browses/</guid>
+      <pubDate>Wed, 11 Sep 2024 17:47:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于假开源的问题</title>
+      <link>https://www.reddit.com/r/opensource/comments/1feeyp6/question_about_fake_opensource/</link>
+      <description><![CDATA[新手。有没有已知的案例，看似开源的软件（带有 github 等）如果不更改一些小东西，就会人为地变得难以（或不可能）构建？    由    /u/BobbyBronkers  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1feeyp6/question_about_fake_opensource/</guid>
+      <pubDate>Wed, 11 Sep 2024 16:50:05 GMT</pubDate>
+    </item>
     <item>
       <title>使用版本控制平台使文档开源的最佳方式</title>
       <link>https://www.reddit.com/r/opensource/comments/1feawag/best_way_to_make_a_document_opensource_with_a/</link>
-      <description><![CDATA[我正在考虑一项提议，即使用像 GitHub 这样的版本控制平台将政府发布的文件开源。本文件是一份能源效率计划的技术参考/资源手册 (TRM)，用于标准化 LED 照明、热泵、能源之星电视等节能措施的算法和规则。 以下是 PDF 格式的 TRM 示例：https://dps.ny.gov/technical-resource-manual-version-11-filed-october-6-2023-effective-january-1-2024 我认为这样做的好处是可以提高利益相关者的参与度，从而更容易在 TRM 中提出新措施和对现有措施的更改以及提供支持文档。TRM 管理委员会可以从版本跟踪和控制中受益。并且它将使修订过程对公众更加透明。 我最初考虑以某种方式提议使用 GitHub 来促进这一点，但我不确定这是否是动态文档的最佳平台。有很多单独的措施被编译成一个 PDF 并提交给公用事业监管机构，格式使文档更容易阅读。也许可以将 TRM 分解为每项措施的单独纯文本文件，然后以某种方式编译成具有文本格式的 PDF？ 关于实现这样的最佳方法有什么想法吗？    提交人    /u/PyreLightMW2   [链接] [评论]]]></description>
+      <description><![CDATA[我正在考虑一项提议，即使用像 GitHub 这样的版本控制平台将政府发布的文件开源。本文件是一份技术参考/资源手册 (TRM)，供能源效率计划使用，以标准化 LED 照明、热泵、能源之星电视等节能措施的算法和规则。 以下是 PDF 格式的 TRM 示例：https://dps.ny.gov/technical-resource-manual-version-11-filed-october-6-2023-effective-january-1-2024 我认为这样做的好处是可以提高利益相关者的参与度，从而更容易在 TRM 中提出新措施和对现有措施的更改以及提供支持文档。TRM 管理委员会可以从版本跟踪和控制中受益。并且它将使修订过程对公众更加透明。 我最初考虑以某种方式提议使用 GitHub 来促进这一点，但我不确定这是否是动态文档的最佳平台。有很多单独的措施被编译成一个 PDF 并提交给公用事业监管机构，格式使文档更容易阅读。也许可以将 TRM 分解为每项措施的单独纯文本文件，然后以某种方式编译成具有文本格式的 PDF？ 关于实现这样的最佳方法有什么想法吗？    提交人    /u/PyreLightMW2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1feawag/best_way_to_make_a_document_opensource_with_a/</guid>
       <pubDate>Wed, 11 Sep 2024 14:02:37 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好！ 我正在考虑创建一个开源 RSS 阅读器，让您可以阅读您喜爱的博客，并将这些帖子转换为音频，以便您随时随地收听。随着音频内容越来越受欢迎，我认为这会非常方便！ 我还在考虑添加对 SponsorBlock 的支持，这将让您跳过 Feed 中链接的 YouTube 视频中那些烦人的赞助片段。 你们觉得怎么样？你会觉得这样的应用有用吗？如果有的话，你愿意为它付费吗？ 我很乐意听到您的想法、创意或您希望看到的任何功能！ 谢谢！    提交人    /u/konado_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fdsjek/interest_in_an_open_source_rss_reader_that_uses/</guid>
       <pubDate>Tue, 10 Sep 2024 20:50:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>愚蠢的菜鸟问题：开源是否更容易受到黑客攻击？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fdsczb/stupid_noob_question_is_opensource_more/</link>
-      <description><![CDATA[我想知道，如果代码是公开可见的，漏洞会不会更容易被发现？提前致谢，抱歉，这是新手的问题。:)    提交人    /u/Longjumping-Bar393   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fdsczb/stupid_noob_question_is_opensource_more/</guid>
-      <pubDate>Tue, 10 Sep 2024 20:42:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚开源了 Yaak（Postman 的替代品）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fdr9se/i_just_opensourced_yaak_postman_alternative/</link>
-      <description><![CDATA[不久前，我在这个 subreddit 上发布了一篇关于 Yaak 为何不开源的文章。反馈大多是不同意，认为我对 OSS 的看法不是由于开源而是由于开放贡献。 经过几个月的思考，我认为这是正确的，所以 Yaak 现在是开源的！（https://github.com/yaakapp/app） 如果您感兴趣的话，这里有一个更长篇幅的推理版本 https://yaak.app/blog/now-open-source    提交人    /u/gschier2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fdr9se/i_just_opensourced_yaak_postman_alternative/</guid>
-      <pubDate>Tue, 10 Sep 2024 19:57:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
