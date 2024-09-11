@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 11 Sep 2024 06:07:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 09:06:01 GMT</lastBuildDate>
+    <item>
+      <title>DCP 文件大小小于估计值</title>
+      <link>https://www.reddit.com/r/editors/comments/1fe4qhb/dcp_file_size_smaller_than_estimated/</link>
+      <description><![CDATA[Premiere Pro 和 Media 编码器都表示，当我的 8 分钟短片导出为 Wraptor DCP 格式（2048x858 Scope、24FPS、250Mbps、24bit Stereo）时，估计大小约为 86GB。我的问题是，经过几个小时（和一夜的渲染）后，最终文件夹大小只有 2,84GB。我担心自己做得不对。坦率地说，这是我第一次使用这种格式，所以如果您能帮忙的话，请帮忙，我提前表示感谢！ 编辑： 系统规格：i5-12600k、3060ti、16GB DDR4    提交人    /u/lorkeetv   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fe4qhb/dcp_file_size_smaller_than_estimated/</guid>
+      <pubDate>Wed, 11 Sep 2024 07:54:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一款自动驱动器检测应用程序，以优化文件传输工作流程</title>
+      <link>https://www.reddit.com/r/editors/comments/1fe3dca/i_built_an_app_for_automatic_drive_detection_to/</link>
+      <description><![CDATA[最近，我开始用相机拍摄日常视频博客，并且我经常在一天内多次插入 SD 卡。我希望有一种方法可以快速访问我的视频所在的文件夹，这样我就可以轻松地将它们移动到我的 Mac 上。 虽然这个想法源于我的个人需求，但我相信这个应用程序可以让经常使用外部驱动器和文件传输的用户受益。所以我专门为这个用例构建了一个 MVP。 虽然我考虑了其他功能，但我想在进一步扩大开发之前先评估一下市场兴趣。我很想听听您的想法：  您在工作流程中是否面临类似的挑战？ 哪些具体功能可以提高您的文件管理效率？  您可以在https://filezap.app免费试用此应用程序    提交人    /u/jameelsocorro   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fe3dca/i_built_an_app_for_automatic_drive_detection_to/</guid>
+      <pubDate>Wed, 11 Sep 2024 06:12:59 GMT</pubDate>
+    </item>
     <item>
       <title>接下来该去哪里？初级编辑想知道可能的职业道路。</title>
       <link>https://www.reddit.com/r/editors/comments/1fe1h2e/where_to_go_from_here_entry_level_editor/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我已经为一个客户工作了 6 个月，在制作 300 个视频的同时积累了大约 18TB 的媒体/文件。客户希望我将所有项目整合到外部驱动器并制作 2 个重新链接的克隆。我猜想这将在 60 小时内传输大约 60TB，再加上重新链接。虽然大部分工作将由计算机完成，但它将锁定我的系统约 3 天，再加上手动重新链接的时间。  对于此额外的包装请求，合理的固定费率是多少？    提交人    /u/tonythejedi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fdgzrx/project_consolidation_cloning_and_relinking_charge/</guid>
       <pubDate>Tue, 10 Sep 2024 12:46:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>音乐许可协议 - “每面”是什么意思？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fd9v46/music_licensing_agreement_what_does_per_side_mean/</link>
-      <description><![CDATA[嗨，我正在制作我的第一部个人纪录片短片，正在处理一些音乐许可事宜，环球影业给我报价“$xxx/side”用于电影节使用。我不想给人留下这个行业新手的印象（我就是），但希望这里有人能解释一下这是什么意思。    提交人    /u/SometimesElise   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fd9v46/music_licensing_agreement_what_does_per_side_mean/</guid>
-      <pubDate>Tue, 10 Sep 2024 04:46:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>新加入的</title>
-      <link>https://www.reddit.com/r/editors/comments/1fd3cm0/new_to_the_party/</link>
-      <description><![CDATA[从业 8 年，上周刚刚开始在十大市场工作。Edius Station，之前的站点是 Premiere，之前的站点是 Final Cut。你们呢？你在用什么，喜欢吗？    提交人    /u/DaNewsEditorSeanyBoo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fd3cm0/new_to_the_party/</guid>
-      <pubDate>Mon, 09 Sep 2024 23:09:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
