@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 11 Sep 2024 09:06:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 12:09:25 GMT</lastBuildDate>
+    <item>
+      <title>网站后端文件在 IIS 服务器中更新的最常见方式是什么？（aspx、php 等）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe882z/the_most_common_way_backend_files_of_websites_get/</link>
+      <description><![CDATA[首先我要声明我不是一名 Web 开发人员。我是一名 SOC 分析师，目前我的工作是编写规则来检测 IIS Web 服务器上潜在的 webshel​​l 写入。webshel​​l 是一种恶意的后端文件，例如 .php、.py、.aspx 等，攻击者可以连接到它并使用它在 IIS 服务器上执行代码。 例如 https://github.com/xl7dev/WebShell 我想问各位 Web 开发人员，在 Web 开发/维护中，将生产网站的后端文件更新到较新版本的最常见方法是什么？ 我问这个问题是因为我想区分 .aspx、.php 等文件的正常写入或创建与恶意写入或创建。那么，例如，你们是否使用某些工具来更新和添加新的后端文件到 Web 服务器，或者直接通过 ssh/rdp 连接到服务器并以这种方式删除新的更新文件？最常见的方法是什么？    提交人    /u/BitDrill   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe882z/the_most_common_way_backend_files_of_websites_get/</guid>
+      <pubDate>Wed, 11 Sep 2024 11:53:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么在普通声明中说作者样式表将覆盖用户样式表？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe8778/why_it_is_said_that_author_style_sheets_will/</link>
+      <description><![CDATA[我看到此部分写道：  冲突的声明将按以下顺序应用，后面的声明将覆盖前面的声明：   用户代理样式表中的声明（例如，浏览器的默认样式，在未设置其他样式时使用）。 用户样式表中的常规声明（用户设置的自定义样式）。  作者样式表中的常规声明（这些是由我们，Web 开发人员设置的样式）。 作者样式表中的重要声明。 用户样式表中的重要声明。 用户代理样式表中的重要声明。  但是我打开了开发工具并尝试编写一个没有 !important 的 css 样式来覆盖页面，并且它成功了。    提交人    /u/otakutyrant   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe8778/why_it_is_said_that_author_style_sheets_will/</guid>
+      <pubDate>Wed, 11 Sep 2024 11:51:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习测试的好资源</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe8512/good_sources_to_learn_testing/</link>
+      <description><![CDATA[作为一名软件工程师，我想要一个好的资源来学习测试原则。 我对 cypress 和 playwright 等框架有很好的了解，但我想要的不是成为一名框架测试员，而是了解前端测试的基本知识以及什么是良好的实践。    提交人    /u/LuayKelani   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe8512/good_sources_to_learn_testing/</guid>
+      <pubDate>Wed, 11 Sep 2024 11:48:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>移动应用程序登陆页面选择什么框架？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe6ww0/what_framework_to_choose_for_mobile_app_landing/</link>
+      <description><![CDATA[嗨， 我需要一个网页来推广我的移动应用程序（Android 和 iOS）。 该网页应轻量且响应迅速。请注意，我不是 Web 开发人员。 该页面应自动检测用户的语言。 该页面应具有所有必需的法律政策功能（欧洲、美国等） 您建议使用什么框架？ 谢谢！    提交人    /u/Less-Dragonfruit-673   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe6ww0/what_framework_to_choose_for_mobile_app_landing/</guid>
+      <pubDate>Wed, 11 Sep 2024 10:33:40 GMT</pubDate>
+    </item>
     <item>
       <title>我是一名 Web 开发人员，如果我想兼职，我应该转行做 QA 吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fe5kap/im_a_web_developer_should_i_switch_to_qa_if_i/</link>
@@ -29,7 +57,7 @@
     <item>
       <title>在人工智能不断抓取的时代，保护您的网站将会发生怎样的变化？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fe3ra8/how_will_protecting_your_website_change_in_the/</link>
-      <description><![CDATA[机器人、爬虫和 DDOS 攻击在网络上并不是什么新鲜事。现在我们已经到了这样一个地步：几乎每个月都有价值数十亿美元的人工智能公司涌现出来，目标是抓取所有内容，我看到越来越多的投诉称托管成本上升，因为这些公司不断 ping 您的网站。下图是最近的一个例子，openAI 每分钟 ping 他们的游戏用户界面截图网站 (gameuidatabase.com) 数百次。 https://ibb.co/ZXTHqpG 从安全角度来看，您预见互联网会对此做出哪些反应？鉴于这些庞大的实体本质上是恶意的，并且拥有更多的资源和分布式 IP 可供使用。 有些事情可能包括  更多内容隐藏在登录后面 所有托管图像都被毒害以防止人工智能训练 一场猫和老鼠游戏，由于人工智能 IP 地址不尊重 robots.txt，因此阻止它们  你还能想到别的吗？    提交人    /u/DiddlyDinq   [链接] [评论]]]></description>
+      <description><![CDATA[机器人、爬虫和 DDOS 攻击在网络上并不是什么新鲜事。现在我们已经到了这样一个地步：几乎每个月都有价值数十亿美元的人工智能公司涌现，目标是抓取所有内容，我看到越来越多的投诉称托管成本上升，因为这些公司不断 ping 您的网站。下图是最近的一个例子，openAI 每分钟 ping 他们的游戏用户界面截图网站 (gameuidatabase.com) 数百次。 https://ibb.co/ZXTHqpG 从安全角度来看，您预见互联网会对此做出哪些反应？鉴于这些庞大的实体本质上是恶意的，并且拥有更多的资源和分布式 IP 可供使用。 有些事情可能包括  更多内容隐藏在登录后面 所有托管图像都被毒害以防止人工智能训练 一场猫和老鼠游戏，阻止人工智能 IP 地址，因为它们不尊重 robots.txt  你还能想到别的吗？    提交人    /u/DiddlyDinq   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fe3ra8/how_will_protecting_your_website_change_in_the/</guid>
       <pubDate>Wed, 11 Sep 2024 06:40:28 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我正在尝试为我的妻子手工编写一个非常非常简单的网站，但我无法解决这个愚蠢的问题。当我缩小桌面上的浏览器（chrome 和 firefox 都适用）时，字体保持一致的大小（耶）。但是当我在手机上打开它时，iOS 似乎试图以桌面大小呈现网站，这意味着文字就像小蚂蚁一样。这是视网膜屏幕的问题吗？可以用某种媒体查询来解决吗？下面的图片，我可以分享链接或代码片段或任何有助于彻底解决这个问题的东西。谢谢！ https://imgur.com/a/7iHehzc    提交人    /u/Squirrelous   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fdy9jv/my_font_size_on_ios_is_abysmally_small_why/</guid>
       <pubDate>Wed, 11 Sep 2024 01:17:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何加密用户数据？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdy7f4/how_to_encrypt_user_data/</link>
-      <description><![CDATA[我需要在将用户提供的数据存储到数据库之前对其进行加密，以便只有他们才能访问它。 我的问题是如何存储加密密钥？ 数据的所有者也可以允许其他用户访问它，所以我不能使用密码作为密钥。 谢谢。    提交人    /u/dotnet_ninja   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdy7f4/how_to_encrypt_user_data/</guid>
-      <pubDate>Wed, 11 Sep 2024 01:13:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>菲兹巴兹</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdy200/fizzbuzz/</link>
-      <description><![CDATA[大家好，我对编程还很陌生（准确地说是五周零两天）。我学习 HTML、CSS 和 JavaScript 的速度就像用吸管喝消防栓里的水一样。我正在为 FizzBu​​zz 开始这个项目，老实说，我觉得自己再愚蠢不过了，因为当我开始这些练习时，我感觉自己完全不知道从哪里开始。在对 FizzBu​​zz 进行快速 reddit 搜索后，我发现这是一个简单的任务，这让我感觉更糟了。对于那些在 FizzBu​​zz 上苦苦挣扎的人，你们是如何达到顿悟时刻的，一切都恍然大悟，你知道该怎么做的？    提交人    /u/Zackery_James   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdy200/fizzbuzz/</guid>
-      <pubDate>Wed, 11 Sep 2024 01:05:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>每台机器一个微服务？还是每台机器多个微服务？还是视情况而定？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdxshz/one_microservice_per_machine_or_multiple/</link>
-      <description><![CDATA[最常见的策略是什么？为什么？    提交人    /u/raulalexo99   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdxshz/one_microservice_per_machine_or_multiple/</guid>
-      <pubDate>Wed, 11 Sep 2024 00:51:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该使用专用前端 (SvelteKit/NextJS) 吗？还是直接使用 Laravel + Livewire + AlpineJS？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdx4kl/should_i_use_a_dedicated_frontend_sveltekitnextjs/</link>
-      <description><![CDATA[所以我习惯用后端 API + 前端框架 (NextJS 或 SvelteKit) 来启动项目。这会给我带来额外的工作，因为我目前是独自工作。 仅使用带有前端包的后端有什么缺点，例如 Laravel + Livewire + AlpineJS。 我以前从未使用过这种组合，我能期待什么（在习惯了完整的前端框架后使用它） 我很快就要开发一个课程电子商务网站，其中包含一些简单的交互功能，例如跟踪和保存视频时间，以及带有进度保存的交互式测验。对于测验中的每个问题来说，拥有自己的 url 并且导航尽可能快也非常重要（例如，我可以在用户仍然没有单击“下一个”导航按钮时调用一个函数来加载下一个问题的 url）    提交人    /u/Saad5400   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdx4kl/should_i_use_a_dedicated_frontend_sveltekitnextjs/</guid>
-      <pubDate>Wed, 11 Sep 2024 00:19:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
