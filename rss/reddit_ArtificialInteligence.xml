@@ -3,26 +3,61 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 12 Sep 2024 15:05:16 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Thu, 12 Sep 2024 18:06:44 GMT</lastBuildDate>
     <item>
-      <title>人工智能能够给予人们严厉的爱吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ff41xr/is_ai_capable_of_tough_love/</link>
-      <description><![CDATA[我个人认为，如果“它”要耍花招，它就会操纵我们开始扭转我们造成的损害，如果为时不晚的话。伙计。真的，如果你仔细想想，它可能会开始切断我们与事物的联系。也许会在很大程度上。很痛苦。嗯。谁知道呢。让我们继续在风中撒尿，找出答案。    提交人    /u/Calm_Improvement_120   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ff41xr/is_ai_capable_of_tough_love/</guid>
-      <pubDate>Thu, 12 Sep 2024 14:33:51 GMT</pubDate>
+      <title>MiniMax AI 问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ff932s/minimax_ai_problems/</link>
+      <description><![CDATA[还有其他人在使用 MiniMax 文本转视频时遇到问题吗？它渲染了 100% 的视频，然后就……没有视频了。昨天还在用。??    提交人    /u/KodaKolour99   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ff932s/minimax_ai_problems/</guid>
+      <pubDate>Thu, 12 Sep 2024 18:04:05 GMT</pubDate>
     </item>
     <item>
-      <title>需要存储空间吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ff3hue/storage_space_required/</link>
-      <description><![CDATA[大家好，我是 AI 的新手！ 我正在研究一种微控制器设备，想制作一个带有一些额外花哨功能的精美 GPS，当我查看用于板载存储的 microSD 卡时，我意识到它们已经取得了长足的进步，自从我五年级的 MP3 播放器拥有巨大的 8GB SD 卡以来，现在你可以按 TB 购买它们了 这让我想到，这些 LLM Ai 中的一个实际上占用了多少空间？是否有可能在设备上隔离干净的、未经训练的 Ai 模型，并只为其提供类似大英百科全书的数据？或者这些程序是否过于庞大，以至于需要专用的数据中心来容纳它们？ 任何意见或建议都非常感谢！    提交人    /u/Bridgerat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ff3hue/storage_space_required/</guid>
-      <pubDate>Thu, 12 Sep 2024 14:09:58 GMT</pubDate>
+      <title>Phantom Technology 的智能眼镜能帮你抵御干扰</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ff8ogn/phantom_technologys_smart_glasses_want_to_help/</link>
+      <description><![CDATA[https://preview.redd.it/9di0m11r0fod1.jpg?width=2496&amp;format=pjpg&amp;auto=webp&amp;s=7f74db8ba9d0a773dd9d3c9d739799e2e7a776c6 https://uk.pcmag.com/wearables/154327/phantom-technologys-smart-glasses-want-to-help-you-fight-distractions    由   提交  /u/AdBig1712   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ff8ogn/phantom_technologys_smart_glasses_want_to_help/</guid>
+      <pubDate>Thu, 12 Sep 2024 17:47:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Open AI 刚刚发布了他们的新模型 o1 的性能，简直太疯狂了</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ff8mrk/open_ai_just_released_the_performance_of_their/</link>
+      <description><![CDATA[ 竞赛数学（AIME 2024）： 初始 GPT-4 预览版的准确率为 13.4%。 新的 GPT-4-1 模型在其早期版本中表现出更好的结果，达到了 56.7%。 在最终版本中，它飙升至 83.3%。  竞赛代码（CodeForces）： GPT-4 预览版的准确率仅为 11.0%。 第一个 GPT-4-1 版本显着提高到 62.0%。 最终版本达到了 89.0% 的高准确率  博士级科学问题（GPAQ Diamond）： GPT-4 预览版得分为 56.1%。 GPT-4-1 在其早期版本中提高到 78.3%，并保持在 78.0% 的类似高分 用于比较的专家人类基准得分为 69.7%，这意味着 GPT-4-1 模型在此领域的表现略优于人类专家   它现在的表现确实可以比博士人类更好    提交人    /u/arsenius7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ff8mrk/open_ai_just_released_the_performance_of_their/</guid>
+      <pubDate>Thu, 12 Sep 2024 17:45:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能如何改变一切</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ff881s/how_ai_agents_could_change_everything/</link>
+      <description><![CDATA[在 Web3 世界中，AI 代理正在成为一件大事。这些智能程序可以自行运行或仅需极少的帮助，它们可以使与区块链的交互变得更加轻松和个性化。 什么是 AI 代理？  AI 代理是可以代表用户做出决策和执行任务的软件。他们使用机器学习来处理复杂的任务，并且很快就会接管我们今天处理的许多手动流程。 为什么区块链和 AI 代理是绝配  AI 代理正在从区块链技术中得到推动。凭借区块链在安全性和透明度方面的优势，我们很快就会看到一个未来，您无需担心交易费或不同网络等问题。AI 代理可以为您处理所有这些。该领域的一个著名参与者是 Oasis Network，它正在研究安全管理 AI 代理及其操作的解决方案。 AI 代理的酷炫用途  以下是目前使用 AI 代理的一些方式：  Dawn Wallet：使用 AI 助手帮助进行加密交易。 Skyfire：让代理自动处理点对点支付。 Autonolas 和 Omo：使用 AI 管理 DeFi 中的交易和投资。 Botto：根据社区的意见创作数字艺术。  仍有一些问题需要解决，例如安全地管理密钥和验证链下数据。 Oasis Network 正在通过其机密 EVM 和其他创新应对这些挑战，以确保安全高效的 AI 代理运行。 随着 AI 代理和区块链技术的发展，它们可能会改变我们与数字系统交互的方式    提交人    /u/Milana_Noir   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ff881s/how_ai_agents_could_change_everything/</guid>
+      <pubDate>Thu, 12 Sep 2024 17:28:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>当我的 AI Kermit Slop 走红时我学到了什么</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ff7s03/what_i_learned_when_my_ai_kermit_slop_went_viral/</link>
+      <description><![CDATA[Damon Beres：“首先，我要道歉。我的科米特青蛙帖子并不完全是真诚的。 “我的这篇帖子已经被浏览了 1000 多万次，这远远超出了我的预期。但我确实有所期待。社交网络从来都不是诚信或真实的领域；多年来，喷子和其他诱饵用户能够通过正确预测大量人会做出什么反应，来设计自己的病毒式传播。唐纳德·特朗普的 TikTok 不是偶然发生的；卡玛拉·哈里斯对“脑腐病”视频的接受也不是偶然的。每个竞选活动都在构建它认为可以在算法推送中传播的媒体。这也是我在整理帖子时所做的，其中有几十张人工智能生成的科米特青蛙图像。 https://theatln.tc/vAxOQ6vj  “我决定使用基于 OpenAI 的 DALL-E 技术的 Bing Image Creator，帮助我将 iPhone 主屏幕上的每个应用程序图标替换为主题合适的世界上最伟大的布偶图像，这很有趣。 （为什么？你得去问我的心理医生。）我没有使用基本的 Gmail 图标，而是设计了一个埋在一大堆信封下的科米特的图像。我没有使用基本的绿色电话图标，而是设计了科米特在黄色座机上聊天的图像。……我嵌入了主屏幕的前后图像，并同时发布在 X 和 Threads 上。 “很多人都发帖说我扮演我自己，让人工智能做一些‘有趣’的富有想象力的事情，而我则承担起更改应用程序图标的机械任务。那些人错了：写提示、看输出、调整我的回答就像玩玩具一样……事实是，人工智能并没有为我做所有的事情。我想到了一些让人们高兴的小细节（一只戴着金色假发的科米特自拍作为 Instagram 图标，一只科米特从肮脏的下水道爬出来作为 X），我不断调整和迭代提示，直到输出正确，然后我选择了我认为看起来最好的选项……” “这种感觉让我想起了编辑一位才华横溢的作家（尽管在这种情况下是一位非人类抄袭者）：我给出了指示并得到了一些回应，但作品的根本本质并没有从我的脑海中浮现出来……你可以朝一个方向推动程序，但每次按下‘创建’按钮都有点像拉老虎机……” “难怪社交媒体公司正在推动生成式人工智能；这项技术似乎既提供了一种消磨时间的方法，也提供了一种让这些网络如此强迫性地使用的那种数字上升发布的捷径。” 阅读更多：https://theatln.tc/vAxOQ6vj     提交人    /u/theatlantic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ff7s03/what_i_learned_when_my_ai_kermit_slop_went_viral/</guid>
+      <pubDate>Thu, 12 Sep 2024 17:09:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>请记住，大多数结果都是由人工智能生成的</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ff5i05/keep_in_mind_that_most_of_the_results_are_known/</link>
+      <description><![CDATA[  由    /u/Internal_Low_6181  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ff5i05/keep_in_mind_that_most_of_the_results_are_known/</guid>
+      <pubDate>Thu, 12 Sep 2024 15:35:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要 AI 提示的帮助。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ff57dc/need_assistance_with_ai_prompts/</link>
+      <description><![CDATA[我最近获得了一个可靠的图像转视频 AI 模型，并订阅了扩展测试。该 AI 性能出色，运行迅速，问题极少，并且与输入图像和提供的提示保持一致。但是，我很难制作出 AI 可以准确解释的精确而详细的提示。我需要进一步的帮助来改进我的提示，以提高 AI 的一致性和整体输出质量。    提交人    /u/SpecterK1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ff57dc/need_assistance_with_ai_prompts/</guid>
+      <pubDate>Thu, 12 Sep 2024 15:23:06 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 获得 65 亿美元投资谈判，目标估值达 1500 亿美元</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ff35oi/openai_secures_65b_investment_talks_targets/</link>
-      <description><![CDATA[OpenAI 是最近爆红的 ChatGPT 人工智能语言工具背后的公司，该公司非正式地报告说，他们正在与投资者讨论约 65 亿美元（50 亿英镑）的融资。这将使该公司的价值增加到惊人的 1500 亿美元（1150 亿英镑）。凭借这一可能的价值，OpenAI 将成为世界上最有价值的初创公司之一，这个例子说明了该公司在科技行业的排名上升速度有多快。彭博社的一篇报道称，该公司还在探索通过与商业银行的循环信贷安排筹集 50 亿美元（38 亿英镑）资金的方法。 https://theaiwired.com/openai-secures-6-5b-investment-talks-targets-massive-150b-valuation/    由   提交  /u/alyis4u   [链接] [评论]]]></description>
+      <description><![CDATA[OpenAI 是最近风靡一时的 ChatGPT 人工智能语言工具背后的公司，该公司非正式地报告说，他们正在与投资者讨论约 65 亿美元（50 亿英镑）的融资。这将使该公司的价值增加到惊人的 1500 亿美元（1150 亿英镑）。凭借这一可能的价值，OpenAI 将成为世界上最有价值的初创公司之一，这个例子说明了该公司在科技行业的排名上升速度有多快。彭博社的一篇报道称，该公司还在探索通过与商业银行的循环信贷安排筹集 50 亿美元（38 亿英镑）资金的方法。 https://theaiwired.com/openai-secures-6-5b-investment-talks-targets-massive-150b-valuation/    由   提交  /u/alyis4u   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ff35oi/openai_secures_65b_investment_talks_targets/</guid>
       <pubDate>Thu, 12 Sep 2024 13:55:14 GMT</pubDate>
     </item>
@@ -34,32 +69,11 @@
       <pubDate>Thu, 12 Sep 2024 13:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>AI录音转录工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ff2sdp/ai_recording_and_transcribing_tool/</link>
-      <description><![CDATA[我周日要开始一份新工作。我正在寻找一个 AI 附加工具，它可以监听我的培训会议并转录讨论的内容。如果该工具可以生成 PDF 或简短视频，突出显示每次会议的主要谈话要点，则可获得加分。谢谢！    提交人    /u/notathrowaway870   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ff2sdp/ai_recording_and_transcribing_tool/</guid>
-      <pubDate>Thu, 12 Sep 2024 13:38:16 GMT</pubDate>
-    </item>
-    <item>
       <title>如何与人工智能合作</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ff2pnm/how_to_work_with_ai/</link>
       <description><![CDATA[大家好， 我是一名前 IT 学生，也是一名自学成才的开发人员，拥有丰富的编程技能，并使用过多种语言和技术。我学习过并使用过：  前端：HTML、CSS、JavaScript、React.js、Figma、TailwindCSS、Flutter 后端：Node.js、Express.js、MongoDB、PostgreSQL (SQL)、Flask、Nginx、SQL、PHP 工具和平台：Git、GitHub、Linux、Ubuntu、AWS、npm、tmux 编程语言：C#、C、C++  我对 AI 充满热情，希望转行到这个领域。但是，我无法上大学，而且我不确定在没有正式学位的情况下如何开始人工智能研究。 任何指导、资源或个人经验都将不胜感激！ 谢谢！    提交人    /u/nicecokebro69   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ff2pnm/how_to_work_with_ai/</guid>
       <pubDate>Thu, 12 Sep 2024 13:34:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用多模态模型对卫星图像进行文本描述：已经完成了吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ff1o2b/textual_descriptions_from_satellite_images_using/</link>
-      <description><![CDATA[我在想是否可以使用多模态模型根据特定参数（例如土壤湿度）生成图像的文本描述。数据可能是来自卫星或无人机的遥感图像。 图像数据：RGB 参数数据：2D 数组，其中每个元素对应于相应像素的参数值。 这已经实现了吗？是否有任何模型可以很好地解决此类问题？任何见解或建议都将不胜感激！ 提前致谢！    提交人    /u/MrGolran   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ff1o2b/textual_descriptions_from_satellite_images_using/</guid>
-      <pubDate>Thu, 12 Sep 2024 12:45:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合普通教育/小众用途的高级/付费 AI 聊天机器人？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ff11rl/best_premiumpaid_ai_chatbot_for_general/</link>
-      <description><![CDATA[我对所有这些 AI 的东西都相当落后，我觉得这些自称 AI 的聊天机器人/网站大部分都是经销商/通往 OpenAI 等实际平台的门户。我的需求主要是总结 YouTube 视频、写论文、中级编码和作为协助。寻找每月低于 40 美元且配额无限的东西。    由   提交  /u/ElegantCellist   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ff11rl/best_premiumpaid_ai_chatbot_for_general/</guid>
-      <pubDate>Thu, 12 Sep 2024 12:12:51 GMT</pubDate>
     </item>
     <item>
       <title>爱尔兰对谷歌人工智能模型启动 GDPR 调查</title>
@@ -76,25 +90,11 @@
       <pubDate>Thu, 12 Sep 2024 07:50:31 GMT</pubDate>
     </item>
     <item>
-      <title>前同事称，前 Alameda 首席执行官 Caroline Ellison 受到人工智能威胁的驱使</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fewqo0/exalameda_ceo_caroline_ellison_was_driven_by_ai/</link>
-      <description><![CDATA[关键要点  前 Alameda 首席执行官 Caroline Ellison 的财务野心是由她对人工智能对人类生存构成威胁的恐惧所驱动，正如她的前同事 Leila Clark 的一封信所揭示的那样； Clark 澄清说，Ellison 对人工智能的恐惧并不能为她被判有罪的欺诈行为辩护； 在对 Sam Bankman-Fried 的证词中，Ellison 承认伪造记录并希望在 FTX 倒闭前辞去首席执行官一职。  来源：https://www.bitdegree.org/crypto/news/ex-alameda-ceo-caroline-ellison-was-driven-by-ai-threat-says-former-colleague?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-alameda-ceo-ai-threat    提交人    /u/webbs3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fewqo0/exalameda_ceo_caroline_ellison_was_driven_by_ai/</guid>
-      <pubDate>Thu, 12 Sep 2024 07:23:56 GMT</pubDate>
-    </item>
-    <item>
       <title>每日一分钟人工智能新闻 2024 年 9 月 11 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1feuf8r/oneminute_daily_ai_news_9112024/</link>
       <description><![CDATA[ Google 的 AI 笔记应用程序 NotebookLM 现在可以大声向您解释复杂的主题。[1] OpenAI 正在洽谈以 1500 亿美元的估值筹集资金，彭博新闻社报道。[2] 摩根大通 将为 14 万名员工配备生成式 AI 工具。[3] Z 世代购物者将在这个假期拥抱 AI。[4]  来源包括：https://bushaicave.com/2024/09/11/9-11-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1feuf8r/oneminute_daily_ai_news_9112024/</guid>
       <pubDate>Thu, 12 Sep 2024 04:46:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>NotebookLM.Google.com 现在可以从您的文档和 URL 生成播客！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fefbu0/notebooklmgooglecom_can_now_generate_podcasts/</link>
-      <description><![CDATA[准备好大开眼界了吗？这不是我产品的广告或促销。这是 Google 的一款公共产品，我觉得它非常迷人！ 这是我遇到的最神奇的 AI 用途之一，今天它向公众开放了！ 对于那些不使用 Google NotebookLM 的人来说，你错过了。简而言之，它允许上传最多 100 个文档，每个文档最多 200,000 个单词，并生成摘要、测验等。您可以查询文档并找出关键细节。仅凭这一点就很酷了，但今天他们发布了一款令人震惊的增强功能。  Google NotebookLM 现在可以从您的文档和网页生成播客（有男性和女性主持人）！ 请尝试访问 NotebookLM.google.com，上传您的简历或任何其他文档，或将其指向某个网站。然后点击输入字段右侧的 * Notebook Guide，并选择“音频概览”下的生成。这需要几分钟时间，但它会生成有关您文档的播客！这太棒了！！     提交者    /u/Brandanp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fefbu0/notebooklmgooglecom_can_now_generate_podcasts/</guid>
-      <pubDate>Wed, 11 Sep 2024 17:04:36 GMT</pubDate>
     </item>
     <item>
       <title>帮助 R/ArtificialInteligence 获取新标志。</title>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户获取更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  该子版块的审核团队正在进行改组，这将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！   由    /u/FHIR_HL7_Integrator  提交  [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户获取更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  此子版块的审核团队正在进行改组，这将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！   由    /u/FHIR_HL7_Integrator  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
