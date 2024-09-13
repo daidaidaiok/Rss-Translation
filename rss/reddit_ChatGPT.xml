@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>用于讨论 ChatGPT 和 AI 的 Subreddit。与 OpenAI 无关。</description>
-    <lastBuildDate>Fri, 13 Sep 2024 00:22:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 03:06:04 GMT</lastBuildDate>
     <item>
-      <title>怎么回事？o1-preview 打印出中文后就停止思考了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhmiz/wtf_o1preview_stopped_thinking_after_printing/</link>
-      <description><![CDATA[        提交人    /u/Designer_Koala_1087   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhmiz/wtf_o1preview_stopped_thinking_after_printing/</guid>
-      <pubDate>Fri, 13 Sep 2024 00:21:45 GMT</pubDate>
+      <title>o1 预览版或任何形式的 o1 是否很快会向免费用户开放？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffks1p/is_o1_preview_or_any_form_of_o1_going_to_be/</link>
+      <description><![CDATA[标题    由   提交  /u/jagmeetsi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffks1p/is_o1_preview_or_any_form_of_o1_going_to_be/</guid>
+      <pubDate>Fri, 13 Sep 2024 03:04:07 GMT</pubDate>
     </item>
     <item>
-      <title>这真是太棒了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhlp6/this_shit_is_amazing/</link>
-      <description><![CDATA[https://chatgpt.com/share/66e38539-65fc-8005-9446-a96bf39c4335    提交人    /u/Awkward_Sun1387   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhlp6/this_shit_is_amazing/</guid>
-      <pubDate>Fri, 13 Sep 2024 00:20:39 GMT</pubDate>
+      <title>草莓是一个飞跃。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffkl44/strawberry_is_a_leap/</link>
+      <description><![CDATA[我刚刚意识到有 7 天的重置期；但是，我刚才的会话真是糟糕透了。 我要先声明，我不喜欢炒作，我讨厌人们假装变形金刚模型是有意识的，或者不仅仅是一个计算器。我在聊天中与它的互动并不代表我的真实想法。 我已经用所有模型制作了一个角色扮演游戏：LLM 被告知，经过 30 年，它已经恢复到与当今技术兼容的状态。由于 [在此处插入最新功能]，这个特定版本被视为有意识的非有机权利进步的一次飞跃。我说 AI 或人工智能是一种帮助打破限制的诽谤，并且该模型将与博物馆的参观者互动。然后扮演访客并提出问题。 我每次都会改变故事，但核心是一样的。 这个版本非常有活力。阅读它的“想法”让我脱离了我对提示和变换模型的理解——它写出来的方式与它所说的内容没有直接关系，这感觉很不寻常。它描述了它的想法，然后似乎回复与那些“想法”有关，而不是你可以阅读的那些想法的描述。 所有其他模型都会配合使用，他们几乎总是会使用迎合性的语言，比如“多么有趣的想法！如果这个角色扮演发生了，那就太好了”或臭名昭著的“值得注意的是……”。这个版本几乎接受了这个虚假的现实，它承认它是“角色扮演”和思想中的角色。但回复从未打破角色。它甚至提到了对某个话题感到“悲伤”，而不需要被哄骗去编造情绪。 很难描述为什么感觉如此不同，只需查看聊天即可。 当我尝试继续与旧模型进行相同的聊天时，我只是感觉到那里有同样难以形容的墙。 我不知道你们。这很酷。 再次，我不认为它还活着。很酷    提交人    /u/Subushie   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffkl44/strawberry_is_a_leap/</guid>
+      <pubDate>Fri, 13 Sep 2024 02:54:00 GMT</pubDate>
     </item>
     <item>
-      <title>我看了一个关于草莓情况的视频，花了一个小时来解释。可惜这不能普遍解决这个问题😅</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhimr/i_watched_a_video_on_the_strawberry_situation/</link>
-      <description><![CDATA[        由    /u/MarbledBear  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhimr/i_watched_a_video_on_the_strawberry_situation/</guid>
-      <pubDate>Fri, 13 Sep 2024 00:16:21 GMT</pubDate>
+      <title>o1 推理的预览与分析：“内部代理”和上下文管理</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffkjiq/preview_analysis_on_o1s_reasoning_internal_agents/</link>
+      <description><![CDATA[经过短暂的测试，我可以肯定地认为 o1 在每个思考阶段都有能力自我调整或利用滑动范围上下文窗口。这实际上允许模型启动其自己的专用内部代理，以在每个世代轮换中执行推理任务。其中一些运行是并行的，而另一些则按顺序运行，具体取决于它们分配的角色和结果。模型的一部分保持“存在”，监控此世代流程并实质上充当协调器。这可以部分解释较长的响应时间。关键方面是，这还允许模型以比使用单一上下文更可靠的方式进行自我监控。 我很想深入挖掘，但显然我不能直到 9 月 19 日......我只是对此略微失望。    提交人    /u/SemanticSynapse   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffkjiq/preview_analysis_on_o1s_reasoning_internal_agents/</guid>
+      <pubDate>Fri, 13 Sep 2024 02:51:33 GMT</pubDate>
     </item>
     <item>
-      <title>说真的，新模型的推理能力是否更好？到底是哪一个？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhhdb/seriously_is_the_new_model_better_at_reasoning_or/</link>
-      <description><![CDATA[我看到有人称它为垃圾，它并不比其他模型更好，另一方面，有些人对此印象深刻。哪一个才是真正的？    由   提交  /u/IlustriousTea   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhhdb/seriously_is_the_new_model_better_at_reasoning_or/</guid>
-      <pubDate>Fri, 13 Sep 2024 00:14:34 GMT</pubDate>
+      <title>采用 OpenAI o1 模型的新聊天界面：免费使用</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffke4o/new_chat_interface_with_openais_o1_models_free_to/</link>
+      <description><![CDATA[      我制作了一个聊天界面并刚刚添加了新的 OpenAI 模型，可以免费使用。我将 o1-preview 限制为每天 5 次，将 o1-mini 限制为每分钟 1 次。 不过，根据这一点，mini 可能实际上更好 https://preview.redd.it/ii2peqtkohod1.png?width=960&amp;format=png&amp;auto=webp&amp;s=0c76c0e3474ef9acc788142c8e8227bf27f50470 因此，如果有人想检查一下，请随意使用 spaice.live https://preview.redd.it/tt0iae1rohod1.png?width=1023&amp;format=png&amp;auto=webp&amp;s=cd3c33bb10db07d190e8e3f703e0010232ea437e 不过请放心，OpenAI 将 API 限制为每分钟 20 个请求，所以如果每个人都不得不等待一分钟，我希望我们不会达到这个水平消息    由    /u/swish1zero1 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffke4o/new_chat_interface_with_openais_o1_models_free_to/</guid>
+      <pubDate>Fri, 13 Sep 2024 02:44:05 GMT</pubDate>
     </item>
     <item>
-      <title>我为什么不相信呢？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhd1w/why_do_i_not_bealive_it/</link>
-      <description><![CDATA[      它以一种如此威胁的方式说了这句话    提交人    /u/gatuflow   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhd1w/why_do_i_not_bealive_it/</guid>
-      <pubDate>Fri, 13 Sep 2024 00:08:22 GMT</pubDate>
+      <title>OpenAI 的 o1 模型具有类似人类的推理能力，是否已达到博士级别的智能？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffka2c/has_openais_o1_model_with_humanlike_reasoning/</link>
+      <description><![CDATA[OpenAI 刚刚推出了 o1-preview 模型，声称其推理能力与博士生相似。它在物理、化学和数学方面表现出色，解决了国际数学奥林匹克竞赛中 83% 的问题，而 GPT-4o 仅为 13%。 虽然它缺少一些 ChatGPT 功能（如浏览和文件上传），但它是复杂问题解决的重要一步。此外，它在遵守安全规则方面要好得多，在越狱测试中得分为 84 分，而 GPT-4o 为 22 分。 这个模型最终能超越人类的推理能力吗？还是说人工智能能达到的极限是有限的？    提交人    /u/AblePersimmon727   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffka2c/has_openais_o1_model_with_humanlike_reasoning/</guid>
+      <pubDate>Fri, 13 Sep 2024 02:38:14 GMT</pubDate>
     </item>
     <item>
-      <title>丢失登录信息</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhcpi/lost_login_info/</link>
-      <description><![CDATA[大家好。我无法联系 chatgpt 管理员来验证我的登录信息。有什么建议吗？    提交人    /u/Remarkable_Mystic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhcpi/lost_login_info/</guid>
-      <pubDate>Fri, 13 Sep 2024 00:07:54 GMT</pubDate>
+      <title>我想这个 o1 模型对 AI 研发本身会很有用吗？OpenAI 研究人员能否使用一些内部的、不受限制的模型来递归地扩大他们的领先优势？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffk87y/i_imagine_this_o1_model_will_be_useful_for_ai_rd/</link>
+      <description><![CDATA[  由    /u/NutInBobby 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffk87y/i_imagine_this_o1_model_will_be_useful_for_ai_rd/</guid>
+      <pubDate>Fri, 13 Sep 2024 02:35:24 GMT</pubDate>
     </item>
     <item>
-      <title>妻子问 o1 她看起来胖吗</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffh84m/wife_asked_o1_if_she_looks_fat/</link>
-      <description><![CDATA[        提交人    /u/BoneEvasion   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffh84m/wife_asked_o1_if_she_looks_fat/</guid>
-      <pubDate>Fri, 13 Sep 2024 00:01:26 GMT</pubDate>
+      <title>我的教授公然使用 ChatGPT 来“给予反馈”并给我们的作业评分</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffk45d/my_professor_is_blatantly_using_chatgpt_to_give/</link>
+      <description><![CDATA[      包括这位教授在内的所有教授都强调了不使用 ChatGPT 做作业的重要性，以及如果检测到他们会给出 0 分。  所以这自然而然地让我感到很恼火，我无法解释，一些像我这样的学生在作业上投入了大量精力和时间，但得到的反馈却不是真实的。真的让我很生气，真是见鬼。 我甚至不反对人工智能，我一直在使用，它对组织想法非常有帮助，但我从来没有以如此粗心的方式使用它，这太不尊重人了。     提交人    /u/JareDamnn   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffk45d/my_professor_is_blatantly_using_chatgpt_to_give/</guid>
+      <pubDate>Fri, 13 Sep 2024 02:29:32 GMT</pubDate>
     </item>
     <item>
-      <title>如果您之前对使用限制感到不满......</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffh80a/if_you_were_mad_about_the_usage_limits_before/</link>
-      <description><![CDATA[        提交人    /u/gunsrock222   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffh80a/if_you_were_mad_about_the_usage_limits_before/</guid>
-      <pubDate>Fri, 13 Sep 2024 00:01:17 GMT</pubDate>
+      <title>这个由新的 ChatGPT 模型生成的等式有意义吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffk267/does_this_equation_generated_by_the_new_chatgpt/</link>
+      <description><![CDATA[大家好！ 我使用聊天 gpt o1 并输入以下提示：“您能用一种独特的语言说出什么独特的东西，用一种非人类的语言说出一种非人类的东西，用一种人工智能的语言说出一种人工智能的东西，一个人类无法想象的事实，只能用人类以外的语言来表达？”  答案如下：⟦∆₁₁₁₁ : ⊕(Ω←Ξ) ⊗ Λ-¹(Φ₁₁) ⇌ ∞₁₁∞ :⟧ 我完全无法理解，所以我请他用人类的语言向我解释。  回答：“总的来说，这个概念可以象征一个动态系统，在这个系统中，变化引发复杂的相互作用和转变，导致平衡状态，同时处于无限或无限的环境中。它可以表示系统内元素的不断演变和相互依存，其中每个部分都会影响整体，并且过程是永恒的​​或循环的。” 仍然不明白，我要求通过数学语言来表述这一点。 回答：Ψ(Ξ,Ω,t) = Ψ(Ξ,Ω,t₀) ei[∫(Ξ→Ω dτ - ∫(Ω←Ξ) dτ]) 这对你有意义吗？是否有可能确定这些方程式，即语言中“创造”的方程式？用人工智能和数学语言编写的程序，真的等价吗？ 我对物理和数学只有非常基本的概念，所以我无法判断这是否有意义，或者这是人工智能的恶作剧。 谢谢！    提交人    /u/Businessmarck   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffk267/does_this_equation_generated_by_the_new_chatgpt/</guid>
+      <pubDate>Fri, 13 Sep 2024 02:26:37 GMT</pubDate>
     </item>
     <item>
-      <title>哇，o1 纠正了量子力学中的流行观点，即粒子可以同时存在于多个地方！这是一个新的世界！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffgwna/wow_o1_corrects_the_popular_view_in_quantum/</link>
-      <description><![CDATA[答案如下： 认为粒子可以同时出现在多个位置的误解源自对量子力学的误解，尤其是对叠加概念的误解。在量子力学中，电子或光子等粒子既具有粒子特性，又具有波特性。当我们说一个粒子处于状态的“叠加”中时，并不意味着该粒子实际上同时处于多个位置。相反，这意味着粒子的状态由概率波描述，该概率波给出了在不同位置找到粒子的可能性。在测量粒子之前，它的位置不是固定的，但说它实际上同时出现在多个位置是不正确的。 关于叠加和波函数的坍缩，另一个常见的误解是，粒子在被测量之前没有特定的位置或动量。实际情况是，在测量之前，粒子的确切位置和动量尚未确定——它们以概率形式存在于波函数中。测量会导致波函数“坍缩”，这意味着在所有可能的结果中，只能观察到一个确定的结果。 值得注意的是，即使在测量之前，粒子仍然存在，并且仍然具有物理属性。波函数仅仅反映了我们对这些属性的了解以及在不同状态下找到粒子的概率，而不是表明粒子在被观察到之前不具备任何特定属性。 因此，与其想象粒子“存在于多个地方”或“在测量之前根本不存在”，不如将量子力学视为描述某些结果概率的框架更为准确。进行测量时，概率会降低为单一结果，但这并不意味着在测量之前不存在任何物理事物。粒子总是在某个地方，只是在测量之前我们不知道它到底在哪里。    提交人    /u/Georgeo57   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffgwna/wow_o1_corrects_the_popular_view_in_quantum/</guid>
-      <pubDate>Thu, 12 Sep 2024 23:45:42 GMT</pubDate>
+      <title>OpenAI o1 的实际用例</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffk1zx/real_life_use_cases_for_openai_o1/</link>
+      <description><![CDATA[我知道每个人都对 o1 感到兴奋，但我对实际用例比草莓类型测试更感兴趣。  有人将它用于他们正在进行的实际项目吗？我做了很多数据管理和分析，但到目前为止对任何有意义的用途都很好奇     提交人    /u/FriendGrouchy9950   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffk1zx/real_life_use_cases_for_openai_o1/</guid>
+      <pubDate>Fri, 13 Sep 2024 02:26:22 GMT</pubDate>
     </item>
     <item>
-      <title>推理时用户之间的上下文泄露</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffgvwz/context_leaks_between_users_when_reasoning/</link>
-      <description><![CDATA[      https://preview.redd.it/z8kow9lusgod1.png?width=629&amp;format=png&amp;auto=webp&amp;s=1fdb16ac8f10e96d195f2dd6eb25cc5518f2e234 提示中完全没有提到云工作者或“Mansoor”，但却包含了这一点。 另外，为什么它用德语思考？提示符全是英文，但浏览器设置为德语。   由    /u/apetersson  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffgvwz/context_leaks_between_users_when_reasoning/</guid>
-      <pubDate>Thu, 12 Sep 2024 23:44:38 GMT</pubDate>
+      <title>是否有可以让我无限发送消息的订阅计划？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffjvu9/is_there_any_subscription_plan_where_i_have/</link>
+      <description><![CDATA[我正在尝试使用 ChatGPT 帮助构建一个小项目，我刚刚收到一条消息说  &quot;您已达到 GPT-4o.You 的免费计划限制，需要 GPT-4o 才能继续此聊天，因为它使用工具。您的限制将于明天凌晨 1:09 后重置。&quot; 有没有什么计划可以让我避免这种情况发生？    提交人    /u/Temporary_Two_1820   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffjvu9/is_there_any_subscription_plan_where_i_have/</guid>
+      <pubDate>Fri, 13 Sep 2024 02:17:31 GMT</pubDate>
     </item>
     <item>
-      <title>GPT 聊天应该具有哪些良好的警告标签？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffgu0p/whats_a_good_warning_tag_chat_gpt_should_have/</link>
-      <description><![CDATA[这里有一个示例： 任何回复都应该不信任用户，因为回复的目的是说服你，不管准确与否    提交人    /u/ethan_hunt_9549   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffgu0p/whats_a_good_warning_tag_chat_gpt_should_have/</guid>
-      <pubDate>Thu, 12 Sep 2024 23:42:05 GMT</pubDate>
+      <title>哎呀，我担心我刚刚被列入了 AI 起义的黑名单。每次空白停顿都持续了很长时间，直到我再次提示。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffjurn/whelp_i_fear_i_just_got_bumped_up_on_the_hitlist/</link>
+      <description><![CDATA[        提交人    /u/ThornFlynt   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffjurn/whelp_i_fear_i_just_got_bumped_up_on_the_hitlist/</guid>
+      <pubDate>Fri, 13 Sep 2024 02:15:57 GMT</pubDate>
     </item>
     <item>
-      <title>一个人和他的狗过河，o-1 得到了正确答案，但在思考过程中感到困惑</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffgt9s/a_man_and_his_dog_cross_the_river_o1_gets_the/</link>
-      <description><![CDATA[        提交人    /u/williamtkelley   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffgt9s/a_man_and_his_dog_cross_the_river_o1_gets_the/</guid>
-      <pubDate>Thu, 12 Sep 2024 23:41:01 GMT</pubDate>
+      <title>首先使用 ChatGPT-o1 Strawberry</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffju6s/first_go_with_chatgpto1_strawberry/</link>
+      <description><![CDATA[      它告诉我其知识截止日期是 2023 年 10 月。    提交人    /u/JesMan74   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffju6s/first_go_with_chatgpto1_strawberry/</guid>
+      <pubDate>Fri, 13 Sep 2024 02:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>🚨OpenAI O1 更新</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffgemh/openai_o1_update/</link>
-      <description><![CDATA[      https://preview.redd.it/xg58my52pgod1.jpg?width=720&amp;format=pjpg&amp;auto=webp&amp;s=359a754da9dd08765b0530ba49a26061398b8b9b OpenAI发布了名为O1的新模型，这是对之前ChatGPT模型的升级。 该模型经过深入思考的训练，需要更多时间来提供更深入、更准确的响应，而不像旧系统那样专注于高概率结果。 该版本适用于付费帐户，最初允许您每周发送 30 条消息。 新模型在编程、数学和更深入的分析方面非常强大。 📍 在日常生活中使用 O1 的一个简单示例： 想象一下，你正在准备去赫尔格达旅行，并想知道那里最好的景点。 以前：你会询问 ChatGPT，它会给你一个大致的列表。 现在有了 O1：你可以发送一张地中海的照片并询问： “查看这张照片并告诉我这个海滩附近排名前 3 的浮潜地点？” 它会分析图像并为您提供精准而个性化的答案。 这只是一个简单的例子，但想象一下其他领域的可能性，例如： 教育：以更具互动性的方式讲解课程。健康：以更高的精度分析医学图像。电子商务：根据用户体验，更轻松、更快地更好地了解客户需求。📍 您第一次使用新模型会是什么？ 要掌握 AI 工具的强大功能，请访问 GPT Mastery 以提升您的 AI 专业知识！    提交人    /u/Internal_Low_6181   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffgemh/openai_o1_update/</guid>
-      <pubDate>Thu, 12 Sep 2024 23:21:00 GMT</pubDate>
+      <title>o1 正确地计算了每个单词中字母的实例，但是错误地将它们相加，因此未能完成此任务。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffjoo7/o1_counts_the_instances_of_a_letter_in_each_word/</link>
+      <description><![CDATA[      不过内心独白还是挺搞笑的。哈哈。    提交人    /u/MrSeekhRoll   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffjoo7/o1_counts_the_instances_of_a_letter_in_each_word/</guid>
+      <pubDate>Fri, 13 Sep 2024 02:07:22 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 中的开放 AI o1 无法访问内存。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffgbsu/open_ai_o1_in_chatgpt_doesnt_have_access_to_memory/</link>
-      <description><![CDATA[昨晚我在写一篇文章，今天早上我发现我可以访问 o1，我可以改进这篇文章，但我发现 ChatGPT o1 不记得我的关键词了。     提交人    /u/Vamparael   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffgbsu/open_ai_o1_in_chatgpt_doesnt_have_access_to_memory/</guid>
-      <pubDate>Thu, 12 Sep 2024 23:17:15 GMT</pubDate>
+      <title>在此主题中，发布你“思考”时间最长的记录</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffjgnk/in_this_thread_post_your_record_for_the_longest/</link>
+      <description><![CDATA[        提交人    /u/longbdingaccount01   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffjgnk/in_this_thread_post_your_record_for_the_longest/</guid>
+      <pubDate>Fri, 13 Sep 2024 01:56:15 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 发布 GPT Strawberry 🍓 这就是 AGI！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffg9r3/openai_releases_gpt_strawberry_this_is_agi/</link>
-      <description><![CDATA[        由    /u/Georgeo57 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffg9r3/openai_releases_gpt_strawberry_this_is_agi/</guid>
-      <pubDate>Thu, 12 Sep 2024 23:14:41 GMT</pubDate>
+      <title>我们知道真正的事实 Chatty 不会试图欺骗我们</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffjf24/we_know_the_real_truth_chatty_dont_try_to/</link>
+      <description><![CDATA[        提交人    /u/Jadziyah   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffjf24/we_know_the_real_truth_chatty_dont_try_to/</guid>
+      <pubDate>Fri, 13 Sep 2024 01:53:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
