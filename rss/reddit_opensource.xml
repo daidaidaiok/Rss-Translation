@@ -4,20 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 14 Sep 2024 09:06:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 12:08:39 GMT</lastBuildDate>
     <item>
-      <title>Swiftide 0.12 增加了混合搜索、搜索过滤器、拼花加载器和巨大的减速带</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fggj57/swiftide_012_adds_hybrid_search_search_filters/</link>
-      <description><![CDATA[  由    /u/timonvonk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fggj57/swiftide_012_adds_hybrid_search_search_filters/</guid>
-      <pubDate>Sat, 14 Sep 2024 07:12:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 Paramiko 和 xterm.js 构建了一个免费、安全、开源、移动就绪的 websocket SSH 客户端</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fgf30t/i_built_a_free_secure_open_source_mobile_ready/</link>
-      <description><![CDATA[        由    /u/jeanjaspermusic 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fgf30t/i_built_a_free_secure_open_source_mobile_ready/</guid>
-      <pubDate>Sat, 14 Sep 2024 05:31:21 GMT</pubDate>
+      <title>yTui，ytfzf 的 Golang 替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fgidy3/ytui_ytfzf_alternative_in_golang/</link>
+      <description><![CDATA[        提交人    /u/NghangPho   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fgidy3/ytui_ytfzf_alternative_in_golang/</guid>
+      <pubDate>Sat, 14 Sep 2024 09:34:42 GMT</pubDate>
     </item>
     <item>
       <title>开源全民医疗保健系统</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[我一直在寻找一个不错的解决方案来实现这一点，但找不到很多。我最终创建了这个 https://github.com/apicraft-dev/apicraft-rails 目前可用的大多数解决方案都不是端到端解决方案，或者是像 rswag 等代码优先方法    提交人    /u/EcstaticDog4946   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ffpgr8/anyone_using_an_api_design_first_approach_with/</guid>
       <pubDate>Fri, 13 Sep 2024 08:07:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何获取未在线进行的对话的记录和摘要？（开源，本地运行）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ffobqo/how_can_you_capture_the_transcription_and_summary/</link>
+      <description><![CDATA[        由    /u/Matthew_heartful 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ffobqo/how_can_you_capture_the_transcription_and_summary/</guid>
+      <pubDate>Fri, 13 Sep 2024 06:43:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
