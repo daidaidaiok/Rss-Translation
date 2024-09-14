@@ -4,11 +4,11 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 13 Sep 2024 21:05:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 00:20:35 GMT</lastBuildDate>
     <item>
       <title>离线编辑器要求在线参考？</title>
       <link>https://www.reddit.com/r/editors/comments/1fg5gsw/offline_editor_asking_for_online_ref/</link>
-      <description><![CDATA[大家好， 我收到了离线编辑器发给在线编辑器的 AAF，但 QT ref 的帧速率不对。离线编辑器并没有向我发送更新的 QT，而是要求我（在线编辑器）向他们发送我所拥有的 ref...这样他们就可以“确保一切都已安排好”。我的编辑器身体里的每一根骨头都感到刺痛，但我没有技术原因。有什么建议吗，还是我应该继续？ TIA    提交人    /u/blueberrybones   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我收到了离线编辑器发到在线编辑器的 AAF，但 QT ref 的帧速率错误。离线编辑器不会向我发送更新的 QT，而是要求我（在线编辑器）向他们发送我所拥有的 ref...以便他们可以“确保一切都已安排好”。我的编辑器身体里的每一根骨头都因没有而刺痛，但我没有技术原因。有什么建议吗，还是我应该继续？ TIA 编辑：MacBook Pro、Apple M1 Max、64GB、ProReses 4x4 XQ    提交人    /u/blueberrybones   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fg5gsw/offline_editor_asking_for_online_ref/</guid>
       <pubDate>Fri, 13 Sep 2024 21:04:08 GMT</pubDate>
     </item>
@@ -25,13 +25,6 @@
       <description><![CDATA[我正在尝试编辑一部纪录片，但我发现 Premiere 中的多机位功能不稳定。如果有人想和我通电话以帮我，请直接发私信给我，否则： 我有几个采访是用两台摄像机拍摄的。我已经在时间线上同步了素材和音频。由于电池问题，每台摄像机的素材被分成多个剪辑，但它们是同步的，并且位于同一层上。 我只想让这些时间线现在用作多机位剪辑。我似乎找不到正确执行此操作的方法。多机位功能似乎希望我使用项目浏览器中的时间码/音频同步来同步剪辑，但我不得不手动同步它，因为我没有使用时间码，而且音频同步不稳定。我似乎找不到这方面的好教程，我正准备放弃它，在没有多机位的情况下强行完成它。 救命！我怎样才能让我的完成品成为多机位！给我一个更好的教程链接？救命！    提交人    /u/SlitherSlaps   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fg43lh/premiere_multicams_help/</guid>
       <pubDate>Fri, 13 Sep 2024 20:05:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>用人工智能创建编辑简历？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fg42n0/building_an_editing_resume_with_ai/</link>
-      <description><![CDATA[我正在尝试更新我的简历，但感觉有些困难。有人用过他们觉得效果很好的简历生成器吗？我尝试过各种各样的简历生成器，但它们似乎对创意简历没有最好的了解。谢谢！    提交人    /u/bekka1203   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fg42n0/building_an_editing_resume_with_ai/</guid>
-      <pubDate>Fri, 13 Sep 2024 20:03:57 GMT</pubDate>
     </item>
     <item>
       <title>自然音乐可视化</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[大家好， 我最近开始使用 easyDCP Resolve 插件以及一些将 SRT 文件转换为 XML 格式的工具来创建 DCP，然后从 easyDCP Creator 导出带字幕的 DCP。一切运行良好。我有一个问题是如何格式化需要从框架顶部跳到底部的字幕的 XML，以避免出现下三分之一等。我知道这个位置数据保留在 SCC 文件中，我想知道如何将其转换为 XML。谢谢！    提交人    /u/judisthenewson   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fflh61/dcp_captioning_workflow_for_xml_formatting/</guid>
       <pubDate>Fri, 13 Sep 2024 03:43:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于升级 Macbook Pro 的建议</title>
+      <link>https://www.reddit.com/r/editors/comments/1ffleah/advice_on_upgrading_macbook_pro/</link>
+      <description><![CDATA[大家好， 我需要一些购买新 MBP 的建议。我目前的型号是 2015 MBP 15&quot;，配备 16GB RAM 和 1TB 硬盘，这东西需要打包。它会在工作流程中途中断，如果没有自动恢复功能，我会丢失很多工作。 我的主要用途是：Photoshop、Illustrator、Indesign、Lightroom、音乐制作（语音跟踪和粗略混音）。我的工作流程已慢慢开始包括视频编辑。这主要是在 Premiere Pro 中剪切和排序以及对 4K 素材进行颜色分级。未来项目将涉及混合媒体的 After Effects 工作。 我正在考虑的两个构建选项是： 16&quot;配备 Apple M3 Max 芯片的 MBP，配备 14 核 CPU、30 核 GPU 和 16 核神经引擎、36GB RAM、1TB SSD 或 16 英寸 MBP，配备 Apple M3 Max 芯片，配备 16 核 CPU、40 核 GPU 和 16 核神经引擎、64GB RAM、1TB SSD（可能升级到 2TB）。 我不是那种经常大笔购物的人，我通常会想办法让某样东西运转起来，直到它不再运转为止。如果我要花一大笔钱，我想买一些耐用的东西，这样我就不用考虑 5 年以上了。我有一个在 Apple 工作的朋友，他可以给我折扣，因此我愿意稍微提高机器的规格。 考虑到我的需求，更昂贵机器的规格是否有必要？ 便宜的机器可以处理我想要的视频工作吗？ 欢迎所有建议和意见，非常感谢您的帮助！ TLDR — 升级到新的 MacBook，想要在可以处理设计包之间的多任务的 MacBook Pro 和也可以容纳视频工作的 MacBook Pro 之间购买。    提交人    /u/kaddyneverlack   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ffleah/advice_on_upgrading_macbook_pro/</guid>
+      <pubDate>Fri, 13 Sep 2024 03:38:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
