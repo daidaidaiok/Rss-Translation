@@ -4,13 +4,20 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 16 Sep 2024 18:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 21:05:19 GMT</lastBuildDate>
     <item>
-      <title>麻省理工学院和国际货币基金组织表示人工智能将创造更多就业机会——但他们考虑过生成人工智能吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fib1dx/mit_and_imf_say_ai_will_create_more_jobsbut_did/</link>
-      <description><![CDATA[麻省理工学院和国际货币基金组织最近的一项研究得出结论，人工智能对就业市场的影响可能并不像人们担心的那样具有破坏性——事实上，它可以创造更多的就业机会。这两份报告都对人工智能持积极态度，表明虽然一些角色可能会发生变化，但绿色技术和人工智能管理等领域将出现新的角色。然而，一个关键问题仍然存在：这些研究是否考虑到了生成式人工智能的快速崛起，还是仅仅关注大型语言模型 (LLM)？如果忽略了生成式人工智能，这会改变他们的预测吗？ 麻省理工学院 https://futuretech.mit.edu/news/beyond-ai-exposure-which-tasks-are-cost-effective-to-automate-with-computer-vision 单击访问页面中的文章。 国际货币基金组织 https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379?cid=bl-com-SDNEA2024001    提交人    /u/Red-candy5577   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fib1dx/mit_and_imf_say_ai_will_create_more_jobsbut_did/</guid>
-      <pubDate>Mon, 16 Sep 2024 17:47:57 GMT</pubDate>
+      <title>图像 + 提示工具转 3D 图像/视频</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fifwka/tools_for_image_prompt_to_3d_imagevideo/</link>
+      <description><![CDATA[我正在寻找可以拍摄图像并将其转换为 3D 图像或视频（可选择使用提示输入）的 AI 工具。结果应使用完全相同的图像，而不是生成新图像。  我发现的一个工具是 Luma Dream Machine。它将图像和描述对象应如何移动的提示作为输入，并返回对象执行该操作的 5 秒视频。  我正在寻找具有廉价演示（10 美元或更少）并且可以在桌面上在线完成的工具（无需通过电子邮件发送图像并等待几天）。 您建议使用哪些工具？    提交人    /u/FriesMatter462   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fifwka/tools_for_image_prompt_to_3d_imagevideo/</guid>
+      <pubDate>Mon, 16 Sep 2024 21:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对人工智能时代的数字识别（以及可能的成人内容审核）的建议是：</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fifg6g/my_proposal_for_digital_identification_in_the_age/</link>
+      <description><![CDATA[  由    /u/PlzDontBlame  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fifg6g/my_proposal_for_digital_identification_in_the_age/</guid>
+      <pubDate>Mon, 16 Sep 2024 20:45:29 GMT</pubDate>
     </item>
     <item>
       <title>求职变得简单：Jobsolv 介绍</title>
@@ -27,6 +34,13 @@
       <pubDate>Mon, 16 Sep 2024 17:07:43 GMT</pubDate>
     </item>
     <item>
+      <title>5 个用于内容创作的免费 AI 工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fi9mfq/5_free_ai_tools_for_content_creation/</link>
+      <description><![CDATA[https://medium.com/@wa.aliabbasi/top-5-free-ai-tools-for-content-creators-in-2024-d607847d91cc    提交人    /u/Brave-Ship   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fi9mfq/5_free_ai_tools_for_content_creation/</guid>
+      <pubDate>Mon, 16 Sep 2024 16:51:16 GMT</pubDate>
+    </item>
+    <item>
       <title>谁将第一个与 o1 匹配？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fi8vr5/who_will_be_first_to_match_o1/</link>
       <description><![CDATA[多久会实现？ 查看投票    由   提交  /u/Georgeo57   [link] [评论]]]></description>
@@ -41,13 +55,6 @@
       <pubDate>Mon, 16 Sep 2024 16:01:15 GMT</pubDate>
     </item>
     <item>
-      <title>微软发布颠覆性基准：人工智能助手如何提高用户生产力</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fi7wwn/microsofts_unveils_gamechanging_benchmark_here/</link>
-      <description><![CDATA[微软制作了 Windows Agent Arena 作为测试，以展示 AI 助手如何出色地协助 Windows 用户完成工作https://theaiwired.com/microsofts-unveils-game-changing-benchmark-here-how-ai-assistants-boost-user-productivity/    提交人    /u/alyis4u   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fi7wwn/microsofts_unveils_gamechanging_benchmark_here/</guid>
-      <pubDate>Mon, 16 Sep 2024 15:44:45 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能对马斯克推文的伦理看法</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fi70yi/ais_take_on_the_ethics_of_musks_tweet/</link>
       <description><![CDATA[ 煽动暴力：该声明似乎随意提及政治暗杀，这可以看作是将针对公众人物的暴力行为正常化或轻描淡写。鉴于马斯克拥有大量粉丝，这可能会煽动现实世界的威胁或行动。 不负责任地利用影响力：作为一名高调人物，马斯克的言论具有相当大的分量。发表此类言论可能会加剧恐惧和敌对的气氛，破坏民主进程和民选官员的安全。 两极分化和错误信息：该推文可能会进一步两极分化公众言论，助长分裂而不是建设性对话。它冒着传播错误信息或阴谋论的风险，而这些信息或会扭曲公众的理解，引发不必要的冲突。 破坏公众信任：有影响力人士的此类言论可能会削弱人们对公共机构和民主规范的信任，助长不稳定感，并鼓励一种更能接受暴力言论的文化。 缺乏同理心和责任感：随意的语气和思考表情符号的使用表明，对于讨论针对政治领袖的暴力行为的潜在后果缺乏同理心或严肃性，这在道德上是有问题的。  在我看来，马斯克是个危险的人。我们不应该侮辱他，而应该讨论他所做的事情的更深层次的后果。    提交人    /u/Content_Exam2232   [链接] [评论]]]></description>
@@ -60,13 +67,6 @@
       <description><![CDATA[当您听到 AI 在医疗保健中 时，您是否会想到未来的 AI 医生在疾病发生之前诊断疾病或扫描您的身体以发现问题？听起来很令人兴奋，对吧？但事实是，虽然这些想法很有前景，但其中大多数都远未成为现实。 我们 应该 关注的是 AI 已经改变医疗保健的实际方式——就在现在，今天。特别是在临床研究等领域，AI 可以帮助解决一些长期存在的挑战。 🔍 以下是 AI 真正发挥作用的地方： 1️⃣ 数据协调 临床研究人员花费数月时间整理来自不同来源的混乱、孤立的数据。AI，尤其是大型语言模型 (LLM)，可以自动化此过程，将其速度提高 100 倍，让研究人员直接进入科学领域。 🚀 2️⃣ 从非结构化数据中提取价值 大多数临床记录都是非结构化的，因此无法用于研究。法学硕士可以从这些文本中提取关键见解（例如患者治疗）并将其组织成结构化数据，最终让研究人员可以使用它。 📊 3️⃣ 人工智能界面 想象一下与您的数据“聊天”而不是编写复杂的代码！人工智能界面允许研究人员输入自然语言查询，立即提取他们需要的见解。它使研究民主化并加速创新。 ⏩ 当然，人工智能有很多炒作，但让我们关注它真正发挥作用的地方。这些实际应用让研究人员专注于科学，而不是数小时的数据整理。 你怎么看？我们是否专注于医疗保健领域 AI 的正确领域？ 🤔👇     提交人    /u/These-Salary-9215   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fi5xfq/were_overcomplicating_healthcare_ai_heres_how_we/</guid>
       <pubDate>Mon, 16 Sep 2024 14:23:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否知道有公司尝试构建 GPU 来专门运行 LLM ？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fi3zo4/do_you_know_companies_that_try_to_build_gpu_to/</link>
-      <description><![CDATA[嘿，我想知道您是否知道有公司试图构建一种新型 GPU，这种 GPU 专门用于在消费者级别运行开源 LLM。 在没有深入研究 GPU 制造的情况下，我认为构建特定 GPU 的潜力非常大，而不是在 3090 或 4090 等通用消费者 GPU 上运行 LLM。 我知道特斯拉的 p 系列本来就是这样的，但也许我们有更多的空间在硬件级别上充分利用 Transformers 架构。 有什么想法/新闻吗？ 谢谢     提交人    /u/Nothing-Surprising   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fi3zo4/do_you_know_companies_that_try_to_build_gpu_to/</guid>
-      <pubDate>Mon, 16 Sep 2024 13:00:09 GMT</pubDate>
     </item>
     <item>
       <title>MongoDB 首席执行官表示，如果人工智能炒作是互联网泡沫，那么 1996 年就是</title>
