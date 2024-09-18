@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 18 Sep 2024 06:07:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 09:06:35 GMT</lastBuildDate>
+    <item>
+      <title>每日总结 AI 研究论文 #17</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjodzp/summarising_ai_research_papers_everyday_17/</link>
+      <description><![CDATA[每日总结 AI 研究论文 #17 我每天都会发现和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“探索基于 ChatGPT 的增强策略，用于对比方面的情绪分析”，作者是 Lingling Xu、Haoran Xie、S. Joe Qin、Fu Lee Wang 和 Xiaohui Tao。 本文探讨了 ChatGPT 通过创新的数据增强技术在增强基于方面的情绪分析 (ABSA) 中的应用。ABSA 是一项细致入微的 NLP 任务，专注于识别句子中特定方面的情绪，由于标记数据集有限，这尤其具有挑战性。作者提出了三种增强策略——以上下文为中心、以方面为中心和以上下文为中心——利用 ChatGPT 的生成能力来提高情绪分类性能。以下是本文的关键见解：  数据增强策略：探索了三种不同的方法 - 以上下文为中心，修改上下文词同时保持方面术语；以方面为中心，修改方面术语同时保留上下文；以及上下文-方面，它将两种策略结合起来以创建丰富的增强数据样本。 上下文-方面增强的卓越性能：上下文-方面数据增强策略比基线 BERT 模型提供了最高的性能改进，展示了整合上下文和方面转换的潜在好处。 ChatGPT 的效率：通过利用 ChatGPT 的生成能力，作者能够创建多样化的训练样本，允许更有效地对 BERT 等较小的模型进行微调，从而在不影响模型准确性的情况下减少计算需求。 验证和对比学习的作用：在增强数据样本的同时，结合验证过程来确保不同的方面术语并不能持续提高性能。但是，整合对比学习可以提高稳健性和模型性能。 超越传统技术的增强：所提出的策略不仅通过改善数据多样性来增强 ABSA，而且还突出了大型语言模型通过精心设计的提示生成高质量训练数据的潜力。  这项研究大大增强了我们对如何在 ABSA 任务中使用 ChatGPT 等大型语言模型进行数据增强的理解，为构建更准确、更灵活的情绪分析模型提供了强大的见解。 您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    由    /u/steves1189  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjodzp/summarising_ai_research_papers_everyday_17/</guid>
+      <pubDate>Wed, 18 Sep 2024 09:05:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>有趣的 meme 视频生成</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjnom8/funny_meme_video_generation/</link>
+      <description><![CDATA[人们是如何使用 a 来延长视频的？（什么应用程序等） 就像人们使用人工智能延长“什么 9 加 10”视频一样，它在整个互联网上爆红    提交人    /u/MoinjkonTheMunchkin   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjnom8/funny_meme_video_generation/</guid>
+      <pubDate>Wed, 18 Sep 2024 08:11:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>（问题）你是如何创作音乐的</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjmo53/question_how_do_you_make_music/</link>
+      <description><![CDATA[我想知道人们使用什么人工智能来用名人声音制作歌曲，因为我想在人工智能中使用我的声音并让它唱不同的歌曲或想出歌曲    提交人    /u/codyxxz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjmo53/question_how_do_you_make_music/</guid>
+      <pubDate>Wed, 18 Sep 2024 06:53:44 GMT</pubDate>
+    </item>
     <item>
       <title>每日一分钟人工智能新闻 2024 年 9 月 17 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjkxaj/oneminute_daily_ai_news_9172024/</link>
@@ -20,20 +41,6 @@
       <pubDate>Wed, 18 Sep 2024 03:48:01 GMT</pubDate>
     </item>
     <item>
-      <title>您需要了解的有关 Openai o1 的一切</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjitpa/everything_you_need_to_know_about_openai_o1/</link>
-      <description><![CDATA[OpenAI 推出了一种名为“o1”的新模型，它是计划中的一系列“推理”模型的一部分，旨在比人类更快地解决复杂问题。除了 o1，OpenAI 还发布了一个更小、更实惠的版本，名为“o1-mini”。这个模型被广泛传言为“草莓模型”，代表着 OpenAI 向类人 AI 目标迈出了重大一步。O1 擅长编码和解决多步骤问题，表现优于之前的模型，但它比 GPT-4o 更昂贵、更慢。它以“预览版”的形式提供对于某些 ChatGPT 用户，开发人员访问的价格高达每百万输入令牌 15 美元，每百万输出令牌 60 美元 - 远高于 GPT-4o。 https://www.lycee.ai/blog/openai-o1-model-summary    提交人    /u/franckeinstein24   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjitpa/everything_you_need_to_know_about_openai_o1/</guid>
-      <pubDate>Wed, 18 Sep 2024 02:58:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最喜欢的利用人工智能的区块链项目有哪些？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjipce/what_are_your_favorite_blocchain_projects/</link>
-      <description><![CDATA[我想找出你们最喜欢的 AI 代币。 我的是 Neurolana。它是一个由人工智能驱动的交易机器人，用于 Solana 区块链，使用 NLP 和统计模型，通过历史交易数据寻找交易机会，并通过解析白皮书和社交媒体帖子后创建信任分数来筛选优质项目。在我看来，他真是个天才。你的是什么？    提交人    /u/Easy_Dig_88   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjipce/what_are_your_favorite_blocchain_projects/</guid>
-      <pubDate>Wed, 18 Sep 2024 02:52:10 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能视频创作者</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjhoq4/ai_video_creator/</link>
       <description><![CDATA[大家好， 我想知道是否有人有一个好的 AI 视频创建工具？例如，使用提示上传图像，然后该工具会根据图像渲染视频？存在类似或接近它的东西吗？    提交人    /u/Xeon888   [link] [评论]]]></description>
@@ -46,13 +53,6 @@
       <description><![CDATA[我和一位同事讨论了未来 10 年的职业前景。我可以看到人工智能的开发和集成正在加速，在看到微软和 OpenAI 在企业领域进行的研究和实施后，我们讨论了职业道路将如何改变。 在我早期，我们选择了一些我们感兴趣的东西作为工作，然后找到了一种将其作为职业的方法。在过去的 10 年或 15 年里，我看到人们转向薪酬最高的 IT 工作。数据库工程师、开发、网络和系统操作一直是其中的领导者。 在过去的 6 个月里，我看到很多人开始从事开发工作，我认为这可能不是一个好主意。这些“孩子”正在上学学习如何编码，我有一种感觉，在未来的 2 到 3 年内，人工智能将从事这项工作。  我的同事认为，开发人员不会很快被人工智能取代，甚至永远不会。 我认为人工智能是一种工具，已经知道如何完成任务的人会使用它来更快、更高效地完成任务，并获得更好的结果。 我把它比作使用两张不同图片的相似物体从一个过渡到另一个的变形技术。这曾经是手工动画，现在在大多数照片/视频创作软件中，只需单击 3 或 4 个按钮即可。没有人再手工制作动画了，但我认为开发工作（以及整个 IT 技术）正在朝着这个方向发展。我不认为它应该取代人类，但了解开发的人将能够使用人工智能完成大量高质量的工作，比那些只知道自己想要什么的人做得更好。 你怎么说？人工智能会取代人类吗？它会成为一种工具吗？还是不会产生重大影响？ 我们什么时候必须开始改变 IT 职业规划？我今年 55 岁，职业生涯即将结束，而且我处于一个相对小众的领域，如果没有灵巧的机器人，它很难实现自动化，但与我共事的 75% 的人可能需要考虑改变他们的轨迹。 我可以看到像人工智能主管、人工智能培训师、人工智能集成商和人工智能数据完整性促进者这样的职位正在成为一种趋势。    提交人    /u/grahag   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjejr3/future_careers_in_it/</guid>
       <pubDate>Tue, 17 Sep 2024 23:36:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能生成内容的激增是否会导致未来人工智能生成内容的有效性降低？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjdwug/will_the_proliferation_of_ai_generated_content/</link>
-      <description><![CDATA[我最近一直在思考以下论点，并正在寻找反对观点/建设性批评。我对人工智能只有基本的了解，因此如果能用通俗易懂的术语来表达，我会非常感激。任何与此主题相关的文章链接也非常感谢。 我的基本假设如下：  人工智能正在互联网上产生越来越多的内容 - 图片、文章等 为了生成内容，人工智能正在从互联网上获取“输入” - 可能包括人工智能生成的内容  我的结论基本上是，随着人工智能生成的内容激增并最终超过人类生成的内容，“输入”将越来越多地由人工智能生成，因此导致输出不那么现实 这开启了一个关于什么是“真实”的哲学难题但是让我们从图像生成的角度来看待这个问题，暂时把形而上学放在一边。 a. 你拍了一张一个男人吃芝士汉堡的照片 - 它看起来很“真实”；这个男人的手指数量正确，汉堡上有包装纸 - 你甚至可以识别出没有拼写错误的标志 - 它来自汉堡王 b.您使用此提示生成 AI 图像 - 我保证（目前）它将具有可识别的功能，提示您它的 AI（暂时）IE 对手指太多/太少、拼写错误等。大多数人会将其描述为看起来“不太真实”。 现在想象一下未来某个时候的互联网，其中 AI 生成的图像与实际照片的比例为 1000 比 1 - 使用此数据集生成的图像看起来会比在当前互联网上训练的软件生成的图像或没有 ai 生成的图像更真实还是更不真实？ 我相信聊天 GPT 可以通过仅使用 2019 年之前的数据来解决这个问题。 但是，我相信如果超过这个日期，它就会遇到汉堡问题，因为在此之后的许多文章等都是由 AI 生成的。  GPT 或 AI 总体上是否会对在 AI 出现后引入/变得相关的主题的用处降低？  我想如果我们在识别 AI 生成内容方面取得进步，就可以抵消这种情况，但据我所知，我们还不太擅长自动化/集成这一点。     提交人    /u/Toxic-Mist   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjdwug/will_the_proliferation_of_ai_generated_content/</guid>
-      <pubDate>Tue, 17 Sep 2024 23:09:46 GMT</pubDate>
     </item>
     <item>
       <title>新工具将 ChatGPT plus、Claude Pro 和 Midjourney 合二为一 [免费试用]</title>
@@ -76,18 +76,18 @@
       <pubDate>Tue, 17 Sep 2024 20:25:19 GMT</pubDate>
     </item>
     <item>
+      <title>OpenAI 承认其新模型增加了被用于制造生物武器的风险。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4j85/openai_admits_their_new_models_raise_the_risk_of/</link>
+      <description><![CDATA[OpenAI 承认，其最新的 AI 模型大大增加了人工智能被用于制造生物武器的风险。 文章：https://medium.com/@sadozye86/openai-admits-their-new-models-raise-the-risk-of-being-exploited-to-create-biological-weapons-b3ef7225f5ea?sk=v2%2Ff6351073-796b-4385-b1d3-db47467cb3f9   由    /u/zain017  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4j85/openai_admits_their_new_models_raise_the_risk_of/</guid>
+      <pubDate>Tue, 17 Sep 2024 17:00:32 GMT</pubDate>
+    </item>
+    <item>
       <title>您对哪些鲜为人知的人工智能应用最感兴趣？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj187e/what_lesserknown_applications_of_ai_are_you_most/</link>
       <description><![CDATA[有时感觉法学硕士或图像/视频生成目前获得了大部分媒体的关注，所以我想发布这篇文章来探索一些没有得到太多认可的人工智能应用。 你们对人工智能的新发展最感兴趣的领域是什么？您所在行业或研究中的更多利基应用可获得加分。    提交人    /u/SheikhDaBhuti   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj187e/what_lesserknown_applications_of_ai_are_you_most/</guid>
       <pubDate>Tue, 17 Sep 2024 14:50:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>克劳德 3.5 十四行诗与 GPT o1？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fitccn/claude_35_sonnet_vs_gpt_o1/</link>
-      <description><![CDATA[到目前为止，您的体验如何？在编码方面，我没有注意到 o1 比 Claude 3.5S 更好。仍然认为 Claude 可能更好更快。 你怎么看？    由   提交  /u/MX010   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fitccn/claude_35_sonnet_vs_gpt_o1/</guid>
-      <pubDate>Tue, 17 Sep 2024 08:01:22 GMT</pubDate>
     </item>
     <item>
       <title>因此，你加载一份 PDF 文档，一分钟内，AI 就会制作一男一女讨论该文档的播客</title>
