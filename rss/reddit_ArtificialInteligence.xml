@@ -4,27 +4,55 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 18 Sep 2024 09:06:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 12:08:09 GMT</lastBuildDate>
     <item>
-      <title>每日总结 AI 研究论文 #17</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjodzp/summarising_ai_research_papers_everyday_17/</link>
-      <description><![CDATA[每日总结 AI 研究论文 #17 我每天都会发现和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“探索基于 ChatGPT 的增强策略，用于对比方面的情绪分析”，作者是 Lingling Xu、Haoran Xie、S. Joe Qin、Fu Lee Wang 和 Xiaohui Tao。 本文探讨了 ChatGPT 通过创新的数据增强技术在增强基于方面的情绪分析 (ABSA) 中的应用。ABSA 是一项细致入微的 NLP 任务，专注于识别句子中特定方面的情绪，由于标记数据集有限，这尤其具有挑战性。作者提出了三种增强策略——以上下文为中心、以方面为中心和以上下文为中心——利用 ChatGPT 的生成能力来提高情绪分类性能。以下是本文的关键见解：  数据增强策略：探索了三种不同的方法 - 以上下文为中心，修改上下文词同时保持方面术语；以方面为中心，修改方面术语同时保留上下文；以及上下文-方面，它将两种策略结合起来以创建丰富的增强数据样本。 上下文-方面增强的卓越性能：上下文-方面数据增强策略比基线 BERT 模型提供了最高的性能改进，展示了整合上下文和方面转换的潜在好处。 ChatGPT 的效率：通过利用 ChatGPT 的生成能力，作者能够创建多样化的训练样本，允许更有效地对 BERT 等较小的模型进行微调，从而在不影响模型准确性的情况下减少计算需求。 验证和对比学习的作用：在增强数据样本的同时，结合验证过程来确保不同的方面术语并不能持续提高性能。但是，整合对比学习可以提高稳健性和模型性能。 超越传统技术的增强：所提出的策略不仅通过改善数据多样性来增强 ABSA，而且还突出了大型语言模型通过精心设计的提示生成高质量训练数据的潜力。  这项研究大大增强了我们对如何在 ABSA 任务中使用 ChatGPT 等大型语言模型进行数据增强的理解，为构建更准确、更灵活的情绪分析模型提供了强大的见解。 您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    由    /u/steves1189  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjodzp/summarising_ai_research_papers_everyday_17/</guid>
-      <pubDate>Wed, 18 Sep 2024 09:05:34 GMT</pubDate>
+      <title>迈向负责任的人工智能的大胆一步</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjr441/a_bold_step_towards_responsible_ai/</link>
+      <description><![CDATA[通过汇集研究人员、从业人员和非营利组织，G42 和微软正在创建一个协作环境，以开发负责任的 AI 最佳实践。此次合作是迈向全球 AI 治理的一步。 在阿联酋 AIATC 的认可以及美国和阿联酋政府的支持下，此次合作具有重大的地缘政治影响。它展示了如何在国际层面上负责任地监管和推进人工智能。 这种伙伴关系会影响全球人工智能政策和监管吗？ 源链接：https://www.mediaoffice.abudhabi/en/technology/g42-and-microsoft-to-establish-two-research-centres-in-abu-dhabi-to-advance-development-of-responsible-artificial-intelligence/    提交人    /u/jealousrooster88   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjr441/a_bold_step_towards_responsible_ai/</guid>
+      <pubDate>Wed, 18 Sep 2024 12:04:40 GMT</pubDate>
     </item>
     <item>
-      <title>有趣的 meme 视频生成</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjnom8/funny_meme_video_generation/</link>
-      <description><![CDATA[人们是如何使用 a 来延长视频的？（什么应用程序等） 就像人们使用人工智能延长“什么 9 加 10”视频一样，它在整个互联网上爆红    提交人    /u/MoinjkonTheMunchkin   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjnom8/funny_meme_video_generation/</guid>
-      <pubDate>Wed, 18 Sep 2024 08:11:00 GMT</pubDate>
+      <title>是否有用于平面图 + 2D 渲染的 AI？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjqof5/is_there_an_ai_for_floor_plan_2d_render/</link>
+      <description><![CDATA[我想批量创建平面图。如果可能的话，只需单击一下 :) 3D 渲染也很棒。 有没有可以做到这一点的 AI 应用程序？ 我不需要任何专业的东西。对我来说，快速批量地完成它们更为重要。    提交人    /u/vovr   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjqof5/is_there_an_ai_for_floor_plan_2d_render/</guid>
+      <pubDate>Wed, 18 Sep 2024 11:41:07 GMT</pubDate>
     </item>
     <item>
-      <title>（问题）你是如何创作音乐的</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjmo53/question_how_do_you_make_music/</link>
-      <description><![CDATA[我想知道人们使用什么人工智能来用名人声音制作歌曲，因为我想在人工智能中使用我的声音并让它唱不同的歌曲或想出歌曲    提交人    /u/codyxxz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjmo53/question_how_do_you_make_music/</guid>
-      <pubDate>Wed, 18 Sep 2024 06:53:44 GMT</pubDate>
+      <title>ELI5：为什么使用生成式人工智能来改善照片或视频如此困难？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjqmf2/eli5_why_is_it_so_hard_to_use_generative_ai_to/</link>
+      <description><![CDATA[如果我没有使用正确的术语，请原谅，我刚开始接触人工智能，目前我还不是很了解。前几天我想到这个 - 我有一个视频，除了其他方面都很好，但它的保存分辨率低于应有的分辨率，因此在某些地方缺少细节。（您知道如果您在 iPhone 上通过电子邮件发送视频给某人，它会提示您以较低的分辨率发送吗？就是这种情况。）我想到也许人工智能可以分析视频并用生成人工智能填补空白。 这是我的逻辑。假设您有一张木栅栏的低质量照片。您可以说它是木栅栏（如果您问人工智能，他们会说它是木栅栏），但它缺少木纹等精细细节。因此，你将其输入到 AI 中，它会说“啊，那是木栅栏，木栅栏有木纹”，然后填充木纹，因为这是它所期望的。它使用照片或图像作为基线，只进行微小更改，而不是改变整个图像，就像你说“以卡通风格重做这幅图像”或类似的话一样。 我在 DiffusionBee 中尝试了这个概念，但 AI 并没有理解我所输入的内容。根据提示强度等设置，它要么什么也不做，要么给我一个几乎完全受基础图像启发的新图像。 我不是 AI 专家，所以也许我没有使用正确的搜索词，但我做了一些谷歌搜索，似乎没有简单的方法可以做到这一点。其他图像工具（如 Topaz）有所帮助，但显然它没有像我所指的那样做“生成”方面。也很难说出像 Topaz 这样的工具实际上是如何工作的，因为它是一种黑匣子，显然他们不会泄露其专有方法。 这有什么原因吗？这似乎是改善质量较低的视频或图像的明显解决方案。    提交人    /u/UnfoldedHeart   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjqmf2/eli5_why_is_it_so_hard_to_use_generative_ai_to/</guid>
+      <pubDate>Wed, 18 Sep 2024 11:37:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>加州新法禁止选举期间使用政治深度伪造技术</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjpohu/new_california_laws_ban_political_deepfakes/</link>
+      <description><![CDATA[ 加州正在出台新法律，打击选举前由人工智能生成的深度伪造和操纵的政治内容； 其中一项法律禁止在选举前 120 天分享欺骗性选举材料； 在副总统卡马拉·哈里斯 (Kamala Harris) 的一段人工智能修改视频在 X 上疯传之后，这项立法推动了这一进程。  来源：https://www.bitdegree.org/crypto/news/new-california-laws-ban-political-deepfakes-during-elections?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-california-laws-ban-political-deepfake    提交人    /u/webbs3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjpohu/new_california_laws_ban_political_deepfakes/</guid>
+      <pubDate>Wed, 18 Sep 2024 10:39:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Snapchat AI 通过屏幕截图了解位置</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjpef0/snapchat_ai_knows_location_from_screenshot/</link>
+      <description><![CDATA[所以我有点害怕。  最近我与 Snapchat AI Bot 分享了一张截图。出于好奇，我问它是否知道位置，它直接知道了大致区域。这只是一张房子的照片，上面有一架直升机。没有主要地标等。由于这是一张截图，所以元数据中没有位置数据，而且我从未在此聊天或之前的聊天中分享过位置。  这是如何工作的？它只是根据我设备上的 GPS 是否开启来猜测吗？我无法在以后的聊天中使用不同的图像和截图重现它。 它还告诉我我之前分享过该位置，但事实并非如此。  但是我在之前的聊天中确实分享了一张视觉上相似的图像，该图像在元数据中包含位置。在那里，我还问它是否知道这张照片是在哪里拍摄的，它猜对了。我从未在书面上提到过位置。 这是聊天截图！ 有人经历过类似的事情吗？    提交人    /u/5amy   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjpef0/snapchat_ai_knows_location_from_screenshot/</guid>
+      <pubDate>Wed, 18 Sep 2024 10:21:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>从论坛抓取信息以创建知识库</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjp3nv/scraping_from_a_forum_to_create_a_knowledgebase/</link>
+      <description><![CDATA[有人可以建议是否可以从论坛问题中抓取数据并使用 AI 应用程序将其全部关联到人们可以搜索的知识库中吗？ 如果这是一个业余问题，请原谅我。    提交人    /u/DariusCool   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjp3nv/scraping_from_a_forum_to_create_a_knowledgebase/</guid>
+      <pubDate>Wed, 18 Sep 2024 10:00:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 视频生成器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjosi7/ai_video_generator/</link>
+      <description><![CDATA[我一直在使用免费版 Kling AI 生成一些短视频，我想知道是否有一些可以免费在本地运行的高质量生成器？    提交人    /u/RedRidingRubyx   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjosi7/ai_video_generator/</guid>
+      <pubDate>Wed, 18 Sep 2024 09:37:24 GMT</pubDate>
     </item>
     <item>
       <title>每日一分钟人工智能新闻 2024 年 9 月 17 日</title>
@@ -62,39 +90,11 @@
       <pubDate>Tue, 17 Sep 2024 22:02:19 GMT</pubDate>
     </item>
     <item>
-      <title>哪些大公司正在使用AI图像进行营销？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjb6g2/which_big_companies_are_using_ai_images_for/</link>
-      <description><![CDATA[我是一名本科生，正在研究营销中的生成式人工智能，重点是观众对人工智能图像的反应。 当某家公司被指控使用人工智能生成/辅助内容时，我发现很多人对此持负面反应。我试图在研究中保持客观，同时也寻找反应更积极/中立的案例，这让我来到这里。 如果有人能帮助我找到过去几年使用过人工智能图像的公司，我将不胜感激。    提交人    /u/ReignClaw   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjb6g2/which_big_companies_are_using_ai_images_for/</guid>
-      <pubDate>Tue, 17 Sep 2024 21:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 9 月 17 日人工智能创新每日纪事：👋 Sam Altman 离开 OpenAI 安全委员会🤖Microsoft 为 Excel 和 Word 添加了更快的 Copilot🤯Groq 将打造全球最大的人工智能数据中心💥亚马逊终止远程工作🖼Google 概述了帮助您区分真实图像和虚假图像的计划</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj9tvj/a_daily_chronicle_of_ai_innovations_on_september/</link>
-      <description><![CDATA[  由    /u/enoumen  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj9tvj/a_daily_chronicle_of_ai_innovations_on_september/</guid>
-      <pubDate>Tue, 17 Sep 2024 20:25:19 GMT</pubDate>
-    </item>
-    <item>
       <title>OpenAI 承认其新模型增加了被用于制造生物武器的风险。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4j85/openai_admits_their_new_models_raise_the_risk_of/</link>
-      <description><![CDATA[OpenAI 承认，其最新的 AI 模型大大增加了人工智能被用于制造生物武器的风险。 文章：https://medium.com/@sadozye86/openai-admits-their-new-models-raise-the-risk-of-being-exploited-to-create-biological-weapons-b3ef7225f5ea?sk=v2%2Ff6351073-796b-4385-b1d3-db47467cb3f9   由    /u/zain017  提交  [链接] [评论]]]></description>
+      <description><![CDATA[OpenAI 承认，他们最新的 AI 模型大大增加了人工智能被用于制造生物武器的风险。 文章：https://medium.com/@sadozye86/openai-admits-their-new-models-raise-the-risk-of-being-exploited-to-create-biological-weapons-b3ef7225f5ea?sk=v2%2Ff6351073-796b-4385-b1d3-db47467cb3f9   由    /u/zain017  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4j85/openai_admits_their_new_models_raise_the_risk_of/</guid>
       <pubDate>Tue, 17 Sep 2024 17:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对哪些鲜为人知的人工智能应用最感兴趣？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj187e/what_lesserknown_applications_of_ai_are_you_most/</link>
-      <description><![CDATA[有时感觉法学硕士或图像/视频生成目前获得了大部分媒体的关注，所以我想发布这篇文章来探索一些没有得到太多认可的人工智能应用。 你们对人工智能的新发展最感兴趣的领域是什么？您所在行业或研究中的更多利基应用可获得加分。    提交人    /u/SheikhDaBhuti   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj187e/what_lesserknown_applications_of_ai_are_you_most/</guid>
-      <pubDate>Tue, 17 Sep 2024 14:50:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>因此，你加载一份 PDF 文档，一分钟内，AI 就会制作一男一女讨论该文档的播客</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fipw2u/so_you_load_up_a_pdf_document_and_in_a_minute_ai/</link>
-      <description><![CDATA[https://notebooklm.google.com/ 这非常令人印象深刻。我在一个随机加载的 eve online PDF 上获得了 10 分钟的播客。它....实际上做得很好，信息量很大。 声音很自然，真的，我无法分辨它们是 AI 生成的。当然，我仍然更喜欢 Pi AI，但仍然 :=) 试试看，这是谷歌最近发布的一个有趣的免费功能。    提交人    /u/TheUncleTimo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fipw2u/so_you_load_up_a_pdf_document_and_in_a_minute_ai/</guid>
-      <pubDate>Tue, 17 Sep 2024 04:28:11 GMT</pubDate>
     </item>
     <item>
       <title>帮助 R/ArtificialInteligence 获取新标志。</title>
