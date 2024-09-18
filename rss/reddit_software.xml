@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 18 Sep 2024 00:20:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 03:07:05 GMT</lastBuildDate>
+    <item>
+      <title>Screenpipe：开源 24/7 屏幕和音频捕获</title>
+      <link>https://www.reddit.com/r/software/comments/1fjfwg0/screenpipe_open_source_247_screen_audio_capture/</link>
+      <description><![CDATA[嘿r/software，我想分享一个我一直在研究的开源项目，名为 Screenpipe。它是 Rewind AI 的一个开源替代品。 一些主要功能：  连续屏幕捕获和 OCR 录音、转录和会议摘要 本地存储和处理（您拥有自己的数据） 跨平台支持（MacOS、Windows、Linux） 与 Ollama、OpenAI、Obsidian 等工具集成  目标是提供可靠的数据流，开发人员可以在其基础上构建各种用例，例如：  个人知识管理 生产力跟踪和优化 会议摘要和记录 情境感知 AI 助手  现在还为时过早，但我们有一个可运行的端到端系统。核心是用 Rust 编写的，以提高性能。我们还有一个桌面应用程序，以便于设置。 如果您有兴趣查看或贡献，您可以在 GitHub 上找到更多详细信息： https://github.com/mediar-ai/screenpipe 或网站： https://screenpi.pe/ 很想听听大家的想法！    提交人    /u/louis3195   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fjfwg0/screenpipe_open_source_247_screen_audio_capture/</guid>
+      <pubDate>Wed, 18 Sep 2024 00:35:57 GMT</pubDate>
+    </item>
     <item>
       <title>如何检查 Chrome/ium（或任何兼容 WebExt 的 Web 浏览器）是否支持 Manifest v2 或 v3 或两者？</title>
       <link>https://www.reddit.com/r/software/comments/1fjd4lp/how_to_check_whether_chromeium_or_any_webext/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我有一个很好的自动点击器，但问题是它与我鼠标的侧键不兼容。所以我必须找到一个可以兼容的自动点击器，或者一个好的免费重新映射器，可以将我的侧键检测为 F6（激活我的自动点击器的按钮）。我找遍了所有地方，但似乎找不到其中任何一个，除了 AutoHotKey，在我看来这似乎太复杂了。任何和所有的建议都值得赞赏！！！    提交人    /u/kok_exe_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fj00p8/need_help_with_autoclicker/</guid>
       <pubDate>Tue, 17 Sep 2024 14:00:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在哪里发布文件供公众免费阅读？</title>
-      <link>https://www.reddit.com/r/software/comments/1fizixv/where_can_i_post_documents_for_the_public_to_read/</link>
-      <description><![CDATA[如果这不是一个正确的提问子版块，我很抱歉，但这确实是我能想到的唯一提问的地方。我想将文档发布到网上供所有人阅读，这样它就可以永久地放在互联网上的同一个地方，而我无需担心它，而且它不能被任何人以任何方式编辑或更改。有点像 reddit 帖子是永久性的，只是我会发布一堆文档文件。我该怎么做？ 编辑 - 我无法通过付费或任何形式的维护来自己托管它，因为我无法做到。    提交人    /u/techscc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fizixv/where_can_i_post_documents_for_the_public_to_read/</guid>
-      <pubDate>Tue, 17 Sep 2024 13:39:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
