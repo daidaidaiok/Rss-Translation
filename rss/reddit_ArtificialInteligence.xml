@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 21 Sep 2024 21:04:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 00:22:46 GMT</lastBuildDate>
+    <item>
+      <title>我编写了一个 Python 脚本，使用 AI 来组织文件，100% 在你的设备上运行</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fmg7yg/i_built_a_python_script_uses_ai_to_organize_files/</link>
+      <description><![CDATA[嗨，r/ArtificialInteligence！ GitHub 上的项目链接： (https://github.com/QiuYannnn/Local-File-Organizer) 我想要一个真正了解我的文件内容的文件管理工具。以前的项目如 LlamaFS (https://github.com/iyaja/llama-fs) 不是 100% 本地的，需要 AI API。因此，我创建了一个 Python 脚本，利用 AI 来组织本地文件，完全在您的设备上运行，以完全保护隐私。它使用 Google Gemma2 2B 和 llava-v1.6-vicuna-7b 模型进行处理。 注意：您不需要任何 API 密钥和互联网连接来运行此项目，它完全在您的设备上运行模型。 它的作用：   扫描指定的输入目录中的文件 了解文件的内容（文本、图像等）以生成相关的描述、文件夹名称和文件名 根据生成的元数据将文件组织到新的目录结构中  支持的文件类型：  图像： .png、.jpg、.jpeg、.gif、.bmp 文本文件： .txt, .docx PDF： .pdf  支持的系统： macOS、Linux、Windows 它是完全开源的！ 有关演示和安装指南，这里再次提供项目链接： (https://github.com/QiuYannnn/Local-File-Organizer) 您对这个项目有何看法？您希望在未来版本中看到什么吗？ 谢谢！    提交人    /u/unseenmarscai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fmg7yg/i_built_a_python_script_uses_ai_to_organize_files/</guid>
+      <pubDate>Sat, 21 Sep 2024 23:48:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>论文编辑人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fmg6v0/ai_for_thesis_redaction/</link>
+      <description><![CDATA[大家好， 在这个人工智能威胁要取代人类智能的时代，我想听听你对撰写长篇论文的最佳工具的看法。我们都知道 ChatGPT，但随着人工智能在最近几个月的迅速发展，你还有其他关于写论文的人工智能建议吗？ 当然，最重要的标准之一是教授使用的最强大和付费的抄袭检测和人工智能使用软件（Ouriginal 等）无法检测到人工智能的使用。 我愿意接受所有建议，谢谢你的帮助。    提交人    /u/outhinking   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fmg6v0/ai_for_thesis_redaction/</guid>
+      <pubDate>Sat, 21 Sep 2024 23:47:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我问 ChatGPT，如果政府拥有不受审查和监管的人工智能，他们会怎么做。以下是答案</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fmcwqq/i_asked_chatgpt_what_governments_would_do_if_they/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fmcwqq/i_asked_chatgpt_what_governments_would_do_if_they/</guid>
+      <pubDate>Sat, 21 Sep 2024 21:04:54 GMT</pubDate>
+    </item>
     <item>
       <title>GPT-4o1“推理”</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fm9z09/gpt4o1_reasoning/</link>
@@ -48,13 +69,6 @@
       <pubDate>Sat, 21 Sep 2024 17:09:18 GMT</pubDate>
     </item>
     <item>
-      <title>如何创建优秀的 Tony Soprano AI 配音</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fm7mi3/how_do_i_create_a_good_tony_soprano_ai_voice_over/</link>
-      <description><![CDATA[大家好， 我尝试制作一个以《黑道家族》为主题的 AI 模仿 YouTube 频道：https://www.youtube.com/@SopranosAI 做得不错。但阻碍我的是，我很难为各种黑道家族角色获得良好的 AI 声音。我使用了 eleven labs 和 playht。但它们仍然很烂，我厌倦了浪费数小时编辑音频样本来迎合 AI 之神，我得到了一些好东西。  这就是我想要达到的质量。 https://www.youtube.com/watch?v=UplwuB4T-oI https://youtu.be/ai5Bb5lV2H8?si=hhKdQDhOWlcrpaYg 任何提示或技巧如果有人可以指导我如何制作不糟糕的女高音，我会很高兴。我觉得这是一个金矿，但在我获得良好的配音之前，它只是一个垃圾产品。     提交人    /u/LobsterMagnet181   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fm7mi3/how_do_i_create_a_good_tony_soprano_ai_voice_over/</guid>
-      <pubDate>Sat, 21 Sep 2024 17:02:09 GMT</pubDate>
-    </item>
-    <item>
       <title>谢谢，常见的</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fm7cwb/thanks_gemeini/</link>
       <description><![CDATA[我问 Gemini 如何祝酒，它回答道：如何祝酒令人难忘 1. 了解你的听众：* 你在为谁祝酒？这将帮助你调整你的演讲。* 什么场合？正式晚宴，休闲聚会，还是特殊活动？2. 简短而甜蜜：* 祝酒词应该简明扼要。目标是 30 秒到 1 分钟。3. 开头要有力：* 用相关的轶事、衷心的赞美或幽默的观察来吸引注意力。4. 分享个人联系：* 解释你是如何认识这个人的或者你为什么要祝酒。5. 真诚地赞美：* 强调你欣赏这个人或场合的品质或成就。6. 举杯：* 祝酒结束时，举起你的酒杯说，“敬 [人或场合]。” 7. 练习： * 排练祝酒词，确保你能自信流畅地发表祝酒词。示例： * “献给我亲爱的朋友 Sarah。我认识 Sarah 已有 [number] 年，她一直陪伴着我。她不仅才华横溢，而且心地善良、富有同情心。向 Sarah 致敬，她是一位真正的励志人物。” 请记住：最重要的是发自内心地表达自己的观点，让你的祝酒词有意义。 你想让我帮你为某个特定场合写一份祝酒词吗？ 我不知道祝酒词这么难    提交人    /u/zerox511_overwatch   [链接] [评论]]]></description>
@@ -69,25 +83,11 @@
       <pubDate>Sat, 21 Sep 2024 16:15:02 GMT</pubDate>
     </item>
     <item>
-      <title>目前，只有一种方式可以驱动人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fm5trh/for_now_theres_only_one_good_way_to_power_ai/</link>
-      <description><![CDATA[Matteo Wong：“2019 年，宾夕法尼亚州三哩岛核电站退役，标志着美国核工业的终结。1979 年，该核电站发生了美国历史上最严重的核灾难：部分反应堆熔毁，释放的辐射不足以对附近的人们造成可检测到的伤害，但仍然让美国人反对核电，并促使出台了一系列法规，这些法规在几十年内基本上扼杀了大多数核电建设。许多现有的核电站仍在运行，但 40 年后，三哩岛核电站也加入了因财务障碍和廉价天然气竞争而关闭的核电站浪潮，这些核电站的关闭让人们对美国核电的未来产生了怀疑。 https://theatln.tc/jKI9noRO  “现在，三哩岛又回来了，这次是为了满足生成式人工智能的巨大电力需求。该工厂的所有者 Constellation Energy 昨天宣布将重新开放该设施。微软正在寻求清洁能源为其数据中心供电，已同意在 20 年内从重新开放的工厂购买电力。Constellation 首席执行官 Joseph Dominguez 告诉《纽约时报》，‘这里是该行业最大的失败之地，现在它可以成为重生之地。三哩岛计划在耗资约 16 亿美元进行翻新后，于 2028 年以新名称 Crane 清洁能源中心正式重新开放。 “核电和聊天机器人可能是完美的搭配。 ChatGPT、Google 的 AI 概览和 Microsoft Copilot 所依赖的技术极其耗电。与传统的网络算法相比，这些程序需要更多的数据，更复杂，并且使用更耗电的硬件。例如，由 AI 驱动的网络搜索可能需要比传统查询多 5 到 10 倍的电量。” 阅读更多：https://theatln.tc/jKI9noRO     提交人    /u/theatlantic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fm5trh/for_now_theres_only_one_good_way_to_power_ai/</guid>
-      <pubDate>Sat, 21 Sep 2024 15:40:51 GMT</pubDate>
-    </item>
-    <item>
       <title>3 种（已知）工具改变了我使用 AI 模型的方式及其原因。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fm3hgo/3_known_tools_that_have_changed_the_way_i_use_ai/</link>
       <description><![CDATA[我想分享我日常活动的首选，我经常使用人工智能，实际上，甚至在&quot;大爆炸&quot;（又名 ChatGPT 发布）之前，我就已经在使用 GPT3，从那时起，我几乎完全取代了谷歌。 最近改变了我生活的几个工具，我建议任何人都尝试一下： 用于开发目的（Claude-Dev）： https://github.com/saoudrizwan/claude-dev 自从看到他们发布以来，我就一直在使用它，它彻底改变了我编码的方式，说清楚点，我估计自己是一个相对优秀的开发人员，而且，这让我走了很多捷径，我可以以我从未梦想过的速度交付项目。我甚至回到了旧的&quot;PHP&quot; 方式，因为它如此快速地生成大量代码片段这一事实让我改变了我的默认标准。 对于图像（Stability Ultra）： https://platform.stability.ai/ Stability，特别是 Ultra，使用他们的 API，我制作了一个小的 Node 脚本，我可以直接从 VSCode 提示，彻底改变了我制作图标、图形甚至模因的生活，如果你要求超高清的图片，它完全可以做到，在负面提示中，我总是要求不要生成任何包含&quot;手指&quot; 的图片总的来说，它非常好。 对于日常提示（Hoody）： https://hoody.com/ai 这个“仪表板”非常酷，它不仅让我可以免费访问 o1-mini，而且让我不再那么担心将我的个人提示与我的身份联系起来，最近我越来越注意自己的隐私，因为现在几乎所有的事情都会被记录下来，我认为人们并没有真正意识到政府访问你的提示意味着什么。我没有将它用于开发，因为它没有 API。  在我看来，即将推出的最令人兴奋的是 Opus 3.5，随着 Strawberry 的最近推出，他们必须设定非常高的标准，Claude-dev 可能会立即将其集成，我无法想象它能将我的工作效率提高多少。    提交人    /u/AnKaSo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fm3hgo/3_known_tools_that_have_changed_the_way_i_use_ai/</guid>
       <pubDate>Sat, 21 Sep 2024 13:50:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌在大型数字营销会议上首次推出针对广告的人工智能更新</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fm2n3a/google_debuts_ai_updates_for_ads_at_major_digital/</link>
-      <description><![CDATA[Google 为其 AI 广告工具添加了对多种语言的支持、更好的视觉生成、品牌指南和效果洞察，从而使所有格式的广告系列都更加有效。https://theaiwired.com/google-debuts-ai-updates-for-ads-at-major-digital-marketing-conference/    提交人    /u/alyis4u   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fm2n3a/google_debuts_ai_updates_for_ads_at_major_digital/</guid>
-      <pubDate>Sat, 21 Sep 2024 13:09:13 GMT</pubDate>
     </item>
     <item>
       <title>我讨厌 Google 赞助搜索结果。因此，我仅使用 Reddit、YT 和 TikTok 的众包意见构建了一个 AI 搜索引擎</title>
