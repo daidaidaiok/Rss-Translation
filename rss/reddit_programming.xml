@@ -4,13 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 22 Sep 2024 18:06:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 21:05:41 GMT</lastBuildDate>
     <item>
-      <title>可以与应该：使用人工智能筛选简历和候选人？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fmzg32/could_vs_should_using_ai_to_filter_cvs_and/</link>
-      <description><![CDATA[可以与应该：使用 AI 筛选简历和候选人！ 想象一下：现在是周日晚上，周末即将结束，您正在思考招聘的未来。让我们花点时间探讨一下 AI 筛选简历和候选人的想法，因为说实话，这是一件大事。 AI 可以完成这项工作吗？当然可以。AI 效率极高。它可以在短时间内扫描数千份简历，挑选出包含所有正确流行词并勾选与职位描述相匹配的技能的简历。从理论上讲，这是招聘人员的梦想——快速、客观且可扩展。 但是还有“应该”这个词。我们真的应该依靠 AI 来做这件事吗？这就是它开始让人感到不太舒服的地方。想想看：通过将人简化为关键字和算法，我们可能会错过他们作为人的本质——他们的热情、创造力和潜力。坦率地说，这让我很困扰。当我们依靠机器来决定某人是否值得交谈时，我们正在失去很多机会。 感觉招聘变成了一个机械过程，而不是它应该有的细致入微的人际互动。人工智能可能擅长筛选技能，但它真的能理解一个人除了简历上列出的内容之外可能带来的价值吗？性格、文化契合度，甚至他们的成长能力？这些都是你在与某人交流时看到的东西，而不仅仅是在你阅读他们的简历时。 关键在于：我坚决认为，我们应该认真考虑我们是否应该这样做，然后再关注我们是否可以这样做。**人工智能当然有它的地位。它可以是一种工具，但不是整个解决方案。至关重要的是，我们不能忽视人的因素——毕竟，我们谈论的是人，而不仅仅是数据点。 你不同意吗？你对这些话题有什么看法？    提交人    /u/LordNeic   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fmzg32/could_vs_should_using_ai_to_filter_cvs_and/</guid>
-      <pubDate>Sun, 22 Sep 2024 18:04:30 GMT</pubDate>
+      <title>集成和管理安全工具的 Windows 安全最佳实践</title>
+      <link>https://www.reddit.com/r/programming/comments/1fn3jxm/windows_security_best_practices_for_integrating/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fn3jxm/windows_security_best_practices_for_integrating/</guid>
+      <pubDate>Sun, 22 Sep 2024 21:01:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>AnimeUI，一个动漫项目的前端库！</title>
+      <link>https://www.reddit.com/r/programming/comments/1fn2xr5/animeui_a_frontend_library_for_anime_projects/</link>
+      <description><![CDATA[  由    /u/Zestyclose-Ad6874  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fn2xr5/animeui_a_frontend_library_for_anime_projects/</guid>
+      <pubDate>Sun, 22 Sep 2024 20:34:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么大多数程序员实际上编程水平很差：我们这个行业令人不安的真相</title>
+      <link>https://www.reddit.com/r/programming/comments/1fn13lb/why_most_programmers_are_actually_bad_at/</link>
+      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fn13lb/why_most_programmers_are_actually_bad_at/</guid>
+      <pubDate>Sun, 22 Sep 2024 19:15:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>alịa 在 X: “制作你自己的工具” / X</title>
+      <link>https://www.reddit.com/r/programming/comments/1fmzkvw/alịa_on_x_make_your_own_tools_x/</link>
+      <description><![CDATA[  由    /u/Alan_Lei_5170  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fmzkvw/alịa_on_x_make_your_own_tools_x/</guid>
+      <pubDate>Sun, 22 Sep 2024 18:10:16 GMT</pubDate>
     </item>
     <item>
       <title>使用 TypeScript 创建了 Gherkin Linter</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/Well_Gravity  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fmqgdk/working_with_jsonb/</guid>
       <pubDate>Sun, 22 Sep 2024 10:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 生产一年</title>
-      <link>https://www.reddit.com/r/programming/comments/1fmq302/one_year_of_rust_in_production/</link>
-      <description><![CDATA[  由    /u/skwee357  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fmq302/one_year_of_rust_in_production/</guid>
-      <pubDate>Sun, 22 Sep 2024 10:23:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>记录后端代码：2025 年指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1fmq1ri/documenting_backend_code_a_guide_for_2025/</link>
-      <description><![CDATA[  由    /u/codingdecently  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fmq1ri/documenting_backend_code_a_guide_for_2025/</guid>
-      <pubDate>Sun, 22 Sep 2024 10:21:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件架构的现代权衡分析 - Neal Ford</title>
-      <link>https://www.reddit.com/r/programming/comments/1fmp2yn/modern_tradeoff_analysis_for_software/</link>
-      <description><![CDATA[  由    /u/animesh371  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fmp2yn/modern_tradeoff_analysis_for_software/</guid>
-      <pubDate>Sun, 22 Sep 2024 09:12:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
