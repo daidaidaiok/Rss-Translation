@@ -4,102 +4,93 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Tue, 24 Sep 2024 20:47:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 00:19:34 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 美国司法部 (DOJ) 已对 Visa 提起反垄断诉讼，指控 [...]</title>
-      <link>https://t.me/hn_summary/109732</link>
-      <description><![CDATA[美国司法部起诉 Visa 封锁竞争对手的支付平台
-美国司法部 (DOJ) 已对 Visa 提起反垄断诉讼，指控这家金融服务巨头在借记网络市场维持非法垄断，并扼杀来自 PayPal 和 Square 等金融科技公司的竞争。该诉讼是在经过多年调查后提起的，调查显示 Visa 的主导地位使其能够收取高昂的费用，这些费用最终转嫁给消费者。美国司法部声称 Visa 使用排他性协议和付费交易来抵御包括苹果在内的竞争对手，Visa 将其视为“生存威胁”。这起诉讼是正在进行的监管审查的一部分，包括之前美国司法部采取的一项行动，该行动阻止了 Visa 以 53 亿美元收购 Plaid。美国司法部认为 Visa 的做法不公平地增强了其市场力量，影响了几乎所有产品的成本。]]></description>
-      <guid>https://t.me/hn_summary/109732</guid>
-      <pubDate>Tue, 24 Sep 2024 20:47:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]问 HN：为 11 岁儿童创建视频游戏的平台？</title>
-      <link>https://t.me/hn_summary/109731</link>
-      <description><![CDATA[问 HN：适合 11 岁儿童制作视频游戏的平台？
-我正在寻求一个适合我 11 岁孩子的平台的建议，他对制作视频游戏充满热情。目前，他们正在创造性地使用 PowerPoint 和 Google Presentations 设计一款手工制作和回合制战斗游戏，但这些工具存在局限性。他们对编码有基本的了解，因为我们最近一起用 Python 构建了一个命令行版本的 Rock Paper Scissors Lizard Spock。但是，我认为代码优先平台在这个阶段对他们来说可能太高级了。理想情况下，我正在寻找一个提供点击界面的平台，该平台具有脚本功能，可以执行更复杂的操作。任何建议，尤其是那些包含 JavaScript 或 Python 的建议，都将不胜感激。]]></description>
-      <guid>https://t.me/hn_summary/109731</guid>
-      <pubDate>Tue, 24 Sep 2024 20:27:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 很抱歉，我无法提供 www.bloomberg.com 内容的摘要，因为您[...]</title>
-      <link>https://t.me/hn_summary/109730</link>
-      <description><![CDATA[Caroline Ellison 因 FTX 欺诈被判入狱 24 个月
-很抱歉，我无法按照您的要求提供 www.bloomberg.com 的内容摘要。但是，我可以根据公开信息为您提供一般摘要。您希望我这样做吗？]]></description>
-      <guid>https://t.me/hn_summary/109730</guid>
-      <pubDate>Tue, 24 Sep 2024 20:21:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 很抱歉，我无法提供 www.bloomberg.com 内容的摘要，因为它 [...]</title>
-      <link>https://t.me/hn_summary/109729</link>
-      <description><![CDATA[火箭实验室卫星发射让 SpaceX Challenger 重回正轨
-很抱歉，我无法提供 www.bloomberg.com 内容摘要，因为似乎由于检测到您的网络存在异常活动而导致无法访问该网站。请稍后重试或使用其他网络重试。如果您有任何其他问题或需要有关其他主题的帮助，请随时提问！]]></description>
-      <guid>https://t.me/hn_summary/109729</guid>
-      <pubDate>Tue, 24 Sep 2024 20:18:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]《纽约时报》推出播客订阅服务，每月收费 6 美元 [...]</title>
-      <link>https://t.me/hn_summary/109728</link>
-      <description><![CDATA[《纽约时报》现在将对其热门播客的往期节目收费
-《纽约时报》推出了播客订阅服务，每月收费 6 美元或每年收费 50 美元，即可观看其热门节目的往期节目，例如《每日新闻》、《以斯拉·克莱因秀》、《Hard Fork》和《现代爱情》。从下个月开始，每个播客只有最近的两三集可以免费观看。《纽约时报》全通行证或送货上门计划的订阅者将继续免费观看节目。这块付费墙的收入将重新投资于制作更多的新闻和节目。值得注意的是，这种模式可能会演变为某些系列节目，例如《连续剧》，允许听众免费开始，但对后续剧集收费。订阅者还可以提前观看《Serial 制作公司的新节目，《纽约时报》于 2020 年收购了该制作公司。用户可以通过 Spotify、Apple 或《纽约时报》自己的平台连接订阅。]]></description>
-      <guid>https://t.me/hn_summary/109728</guid>
-      <pubDate>Tue, 24 Sep 2024 20:12:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] io_uring 是什么？</title>
-      <link>https://t.me/hn_summary/109727</link>
-      <description><![CDATA[io_uring 是什么？
-iouring 是什么？** (2024 年 9 月 23 日) 
-**网站**：matklad.github.io
+      <title>问 HN：是否曾经达到过职业目标但对自己的反应感到惊讶？</title>
+      <link>https://t.me/hn_summary/109758</link>
+      <description><![CDATA[问 HN：有没有实现过职业目标，但对自己的反应感到惊讶？
+标题：问 HN：有没有实现过职业目标，但对自己的反应感到惊讶？
+网站：news.ycombinator.com
 
-**摘要**：
-iouring 是一种现代 Linux 内核接口，旨在提高系统调用效率。与单独同步提交的传统系统调用不同，iouring 允许批量和异步提交。应用程序将系统调用代码和参数写入无锁共享内存环形缓冲区，内核按照自己的节奏读取和执行该缓冲区。结果通过第二个共享内存环形缓冲区传回应用程序。此接口非常适合那些希望通过减少上下文切换和统一异步系统接口来提高性能的用户。但是，它可能不适合那些需要便携式软件或喜欢成熟安全功能的用户。
-
-**争议：**
-
-潜在的安全问题和缺乏经过验证的 iouring 记录可能会阻止一些用户。
-
-
-独特/巧妙的方面：
-
-使用无锁共享内存环形缓冲区进行应用程序和内核之间的异步通信是提高系统调用效率的一种巧妙方法。]]></description>
-      <guid>https://t.me/hn_summary/109727</guid>
-      <pubDate>Tue, 24 Sep 2024 20:11:02 GMT</pubDate>
+作者反思了独立工作的共同愿望，并质疑同时管理营销和软件开发是否会带来幸福。他们还思考了面对面工作与远程设置相比的潜在偏好。该帖子邀请其他人分享他们进行重大职业变革的经历以及他们遇到的意外积极或消极反应。这个内省的问题凸显了职业满意度的复杂性和个人成就感的不可预测性。]]></description>
+      <guid>https://t.me/hn_summary/109758</guid>
+      <pubDate>Wed, 25 Sep 2024 00:19:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 朝鲜黑客再次瞄准 Mac 设备上的 Python 开发人员，网络 [...]</title>
-      <link>https://t.me/hn_summary/109726</link>
-      <description><![CDATA[Python 软件包中隐藏的恶意软件攻击软件开发人员
-Unit 42 网络安全专家警告称，朝鲜黑客再次将目标锁定在 Mac 设备上的 Python 开发人员。这些攻击是臭名昭著的 Lazarus Group 的“梦想工作行动”的一部分，涉及创建虚假招聘广告，诱使开发人员从 PyPI 下载恶意 Python 软件包。四个这样的软件包（real-ids、coloredtxt、beautifultext 和 minisound）被发现包含 PondRAT，这是 POOLRAT macOS 后门的精简版。PondRAT 虽然功能不如 POOLRAT，但仍可以上传/下载文件并执行命令。Unit 42 还注意到 Linux 变体的出现，表明 Lazarus 子组织 Gleaming Pisces 增强了跨平台功能。这对组织构成了重大风险，因为恶意软件包可能会危害整个网络。]]></description>
-      <guid>https://t.me/hn_summary/109726</guid>
-      <pubDate>Tue, 24 Sep 2024 20:00:55 GMT</pubDate>
+      <title>[媒体] “我的博客技术”项目是一个基于 C 语言的极简网络服务器，旨在托管 [...]</title>
+      <link>https://t.me/hn_summary/109757</link>
+      <description><![CDATA[显示 HN：使用我自己的 C 网络服务器托管我的网站
+“我的博客技术”项目是一个基于 C 的极简网络服务器，旨在托管作者的博客而无需反向代理。它支持 HTTP/1.1、流水线、保持活动连接和 HTTPS（使用 BearSSL 最高可达 TLS 1.2）。该服务器专为稳健性和简单性而构建，具有最少的依赖性和可配置的超时。它记录访问和崩溃，并包括日志轮换和磁盘使用限制。基准测试表明，它在静态内容方面的表现与 nginx 相当。作者强调创建个人工具的乐趣，并挑战所有软件都必须“经过实战测试”的观念。该项目仅适用于 Linux，目前是单核的，没有静态文件缓存。]]></description>
+      <guid>https://t.me/hn_summary/109757</guid>
+      <pubDate>Wed, 25 Sep 2024 00:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 美国司法部已对 Visa 提起诉讼，指控其支付 [...]</title>
-      <link>https://t.me/hn_summary/109725</link>
-      <description><![CDATA[美国起诉 Visa 垄断借记卡使用
-美国司法部对 Visa 提起诉讼，指控该支付网络违反反垄断法，对消费者价格产生广泛影响。该诉讼在纽约南区提起，指控 Visa 通过向商家收取高额费用并向潜在竞争对手支付费用来抑制竞争。检察官认为，这种行为迫使商家使用 Visa 昂贵的支付处理技术，导致消费者价格上涨。处理超过 60% 美国借记卡交易的 Visa 否认了这些指控，称该诉讼“毫无根据”。拜登政府的举措是遏制消费者价格上涨的更广泛努力的一部分。该诉讼旨在恢复借记卡支付处理的竞争。消息传出后，Visa 股价下跌近 5%。]]></description>
-      <guid>https://t.me/hn_summary/109725</guid>
-      <pubDate>Tue, 24 Sep 2024 19:59:50 GMT</pubDate>
+      <title>人工智能模型可以通过简化流程来彻底改变网络抓取，让用户能够抓取 [...]</title>
+      <link>https://t.me/hn_summary/109756</link>
+      <description><![CDATA[最准确、最便宜的抓取 AI
+AI 模型可以通过简化流程来彻底改变网页抓取，让用户使用简单的英语而不是复杂的代码来抓取网站。Chrome 扩展程序 FetchFox 体现了这一概念，让更广泛的受众能够进行抓取。然而，OpenAI 的 GPT-4o 模型的初始使用成本高昂，促使其转向更经济的 GPT-4o-mini，以保持性能。为了确保质量，正在开发专注于准确性、令牌使用、成本和运行时间的基准。两个开源库 FoxTrot 和 AI 抓取基准工具支持这些基准。测试显示 OpenAI 的 GPT-4o-mini 表现最佳，但格式错误和幻觉等问题仍然存在。有趣的是，与单一提示相比，迭代提示表现不佳。未来的努力旨在使用启发式方法和更便宜的 ML 方法来降低成本和运行时间。加入 Discord 上的讨论或在 GitHub 上探索详细的基准和库。]]></description>
+      <guid>https://t.me/hn_summary/109756</guid>
+      <pubDate>Wed, 25 Sep 2024 00:11:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 开放社交网络运动的领导者推出了社交网络基金会 [...]</title>
-      <link>https://t.me/hn_summary/109724</link>
-      <description><![CDATA[社交网络基金会成立
-开放社交网络运动的领导者成立了社交网络基金会 (SWF)，这是一个致力于使用 ActivityPub 协议连接社交平台的非营利组织。“社交网络”或“Fediverse”允许用户无缝关注不同平台上的其他人。ActivityPub 由 W3C 于 2018 年标准化，已被广泛采用，拥有 100 多个软件实现和数百万用户。SWF 旨在增强用户控制、创新和更健康的社交媒体体验，尽管隐私和安全等挑战仍然存在。该基金会的领导人包括 Evan Prodromou、Mallory Knodel 和 Tom Coates。在 Mastodon、Meta 和 Automattic 等行业领导者的支持下，SWF 计划进行教育、制定政策并改进 ActivityPub 协议。]]></description>
-      <guid>https://t.me/hn_summary/109724</guid>
-      <pubDate>Tue, 24 Sep 2024 19:57:44 GMT</pubDate>
+      <title>[媒体] 在 Postgres 中，常见的 random() 函数不适合生成加密 [...]</title>
+      <link>https://t.me/hn_summary/109755</link>
+      <description><![CDATA[不使用 `pgcrypto` 生成一些安全随机字节
+在 Postgres 中，常见的 random() 函数不适合生成加密安全随机数。通常，pgcrypto 扩展用于此目的，但它需要 OpenSSL，而 OpenSSL 可能难以配置。作者通常避免使用 Postgres 扩展以保持可移植性和升级的便利性，他找到了一种使用 Postgres 内部 pg_strong_random() 函数的解决方法。此函数可以使用 OpenSSL、Windows 的 CryptGenRandom() 或 /dev/urandom 等系统工具生成安全随机字节。通过利用 gen_random_uuid() 函数（该函数调用 pg_strong_random()），作者提取了 ULID 所需的 10 个随机字节，从而无需使用 pgcrypto 和 OpenSSL。这种巧妙的破解方法简化了测试和设置，但作者希望未来在 Postgres 核心中包含 V7 UUID 时能找到更直接的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/109755</guid>
+      <pubDate>Wed, 25 Sep 2024 00:06:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：oppydev.ai</title>
-      <link>https://t.me/hn_summary/109723</link>
-      <description><![CDATA[Show HN：易于使用、透明且可定制的 Agentic AI 编码工具
-标题：Show HN：易于使用、透明且可定制的 Agentic AI 编码工具
-网站：oppydev.ai
+      <title>本·林肯 (Ben Lincoln) 在 Bishop Fox 上发表的这篇博文介绍了“Broken Hill”，这是一款先进的工具设计 [...]</title>
+      <link>https://t.me/hn_summary/109754</link>
+      <description><![CDATA[显示 HN：Broken Hill：用于对抗 LLM 的生产化 GCG 攻击工具
+Ben Lincoln 在 Bishop Fox 上发表的这篇博文介绍了“Broken Hill”，这是一种旨在对大型语言模型 (LLM) 执行 GCG（贪婪坐标梯度）攻击的高级工具。GCG 攻击操纵 AI 聊天机器人绕过其限制，使其提供它们被训练隐瞒的信息。Broken Hill 自动化了这一过程，允许研究人员和渗透测试人员在各种流行的 AI 模型上使用它，而无需昂贵的云服务器。该工具尤其值得注意的是它能够在 Nvidia GeForce RTX 4090 等消费级 GPU 上运行。该帖子还提供了 LLM 工作原理的高级概述，并详细解释了 GCG 攻击，包括一个涉及夺旗练习的示例用例。Broken Hill 的发布旨在使这种强大的攻击方法的访问民主化，使其更易于在现实世界的渗透测试和 LLM 研究中使用。
 
-本指南将引导您设置直观的 AI 编码工具 OppyDev。首先，确保您有一个 OpenAI 帐户。如果没有，您可以通过提供的链接创建一个。登录后，单击左侧面板上的锁定图标导航到 API 密钥部分。创建一个新的密钥，命名并安全保存，因为它将不再可见。复制此密钥并将其输入到 OppyDev 用户菜单中的“OpenAI API 密钥”部分。您现在可以开始使用 OppyDev 了。有关进一步指导，请参阅指南中链接的视频和文档。]]></description>
-      <guid>https://t.me/hn_summary/109723</guid>
-      <pubDate>Tue, 24 Sep 2024 19:49:38 GMT</pubDate>
+有争议的方面：该工具能够绕过 LLM 限制，使其提供敏感或危险的信息，例如制造热核武器的说明，这引发了重大的道德和安全问题。
+
+独特/聪明的方面：Broken Hill 能够对消费级硬件进行复杂的攻击，使复杂的渗透测试更容易实现。（基于 94% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/109754</guid>
+      <pubDate>Wed, 25 Sep 2024 00:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Livebook、FLAME 和 Nx 堆栈是三个强大的 Elixir 组件，它们被展示 [...]</title>
+      <link>https://t.me/hn_summary/109753</link>
+      <description><![CDATA[使用 Livebook 从笔记本电脑上实现 AI GPU 集群
+Livebook、FLAME 和 Nx 堆栈是三个强大的 Elixir 组件，由 Chris McCord 和 Chris Grainger 在 ElixirConf 2024 上展示。Livebook 类似于 Jupyter Notebooks，它利用 Elixir 的平台在本地和远程计算之间无缝切换，将数据集成到可重现的工作流程中。FLAME 通过管理执行器池简化了无服务器计算，允许代码弹性扩展而无需复杂的配置。Nx 堆栈通过 GPU 后端促进 Elixir 原生 AI 和 ML，使模型易于访问。一个出色的演示展示了在 64 个 GPU 上进行超参数调整，展示了 Livebook 使用 Fly.io 的基础设施弹性扩展笔记本执行的能力。这种创新组合凸显了 Erlang 虚拟机的效率和强大功能。值得注意的是，这些功能的快速开发和开源性质与其他生态系统中通常较慢、成本较高的开发周期形成了鲜明对比。]]></description>
+      <guid>https://t.me/hn_summary/109753</guid>
+      <pubDate>Tue, 24 Sep 2024 23:58:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 想打造完美的21世纪城镇？</title>
+      <link>https://t.me/hn_summary/109752</link>
+      <description><![CDATA[想建造一个完美的 21 世纪城镇？禁止汽车
+周二下午，我来到 Culdesac，享受 Lyft 为居民提供的 15% 折扣——这是对偶尔需要汽车的认可。Culdesac 是一个无车社区，为客人和员工提供有限的停车位，道路由保温材料制成。公寓现代化且设备齐全，社区旨在通过庭院和智能手机控制大门等设施促进社交互动。尽管最初对无车生活方式促进社交互动持怀疑态度，但我发现紧凑、适合步行的环境很有吸引力。然而，一些居民报告了维护问题和施工中断。虽然一些租户离开了，但其他人，比如 Sara Hoy，延长了租约，享受着积极的无车生活方式。城市规划师 Jeff Speck 称赞 Culdesac 的设计具有良好的步行性和社交功能，并强调没有停车位是其主要特色。该社区的布局和设施旨在营造一种紧密联系的环境，让人联想到大学校园。]]></description>
+      <guid>https://t.me/hn_summary/109752</guid>
+      <pubDate>Tue, 24 Sep 2024 23:57:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Nvidia Mellanox 在 Linux 6.12 内核中引入了一项突破性的功能，显示 [...]</title>
+      <link>https://t.me/hn_summary/109751</link>
+      <description><![CDATA[Nvidia Mellanox Linux 驱动程序引领多路径 PCI“未来发展的标志”
+Nvidia Mellanox 在 Linux 6.12 内核中引入了一项突破性功能，展示了他们对上游 Linux 内核支持的承诺。“mlx5”驱动程序的新多路径 PCI 支持增强了多路径直接内存访问 (DMA)，通过允许通过多条路径执行 DMA 命令，显著提升了性能。这项创新解决了不同 PCI 代和系统拓扑导致的性能差异。Nvidia 工程师将此描述为在高性能环境中实现线速的关键进步。 Nvidia 的 Jason Gunthorpe 强调这是“未来的征兆”，并预测未来十年将出现更多此类创新，这得益于 HPC/AI 服务器日益复杂以及 PCIe 速度不断提升。]]></description>
+      <guid>https://t.me/hn_summary/109751</guid>
+      <pubDate>Tue, 24 Sep 2024 23:51:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] “Tor-Lighttpd-Onion 与 Docker” GitHub 项目提供了基于 Docker 的设置来 [...]</title>
+      <link>https://t.me/hn_summary/109750</link>
+      <description><![CDATA[Tor-Lighttpd-Onion 与 Docker
+“Tor-Lighttpd-Onion 与 Docker”GitHub 项目提供了基于 Docker 的设置，用于在 lighttpd Web 服务器旁边运行 Tor 服务，确保 .onion 地址在容器重启后保持不变。此设置对于托管可通过 Tor 网络访问的匿名 Web 服务非常有用。该项目包括一个用于配置服务的 docker-compose.yml 文件、一个用于 Tor 设置的最小 torrc 文件和一个用于 Web 内容的 html 目录。主要区别在于 .onion 地址的自动生成和持久性，从而简化了维护一致隐藏服务的过程。该项目还提供了常见问题的故障排除提示。]]></description>
+      <guid>https://t.me/hn_summary/109750</guid>
+      <pubDate>Tue, 24 Sep 2024 23:48:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 19 世纪末至 20 世纪中叶，美国农业部委托艺术家创作了一系列 [...]</title>
+      <link>https://t.me/hn_summary/109749</link>
+      <description><![CDATA[基于旋转的压缩
+19 世纪末至 20 世纪中叶，美国农业部委托艺术家创作了 7,497 幅水果水彩画集，这些画作以高质量的档案图像形式存储，总大小达 59.06 GB。我决定将这些图像用作日常桌面壁纸，但注意到有些图像需要旋转。令人惊讶的是，旋转草莓等图像可将其大小从 12.67 MB 减小到 5.41 MB，且没有明显的质量损失。使用 ImageMagick 和 sips 等工具，我发现旋转图像比直接压缩更能有效地压缩图像。我的脚本“strawberry”实现了 68% 的压缩，将图像集缩小到 17 GB。虽然确切的机制仍不清楚，但这种方法对于高质量的 JPEG 特别有效。]]></description>
+      <guid>https://t.me/hn_summary/109749</guid>
+      <pubDate>Tue, 24 Sep 2024 23:38:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
