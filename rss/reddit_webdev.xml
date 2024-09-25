@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 25 Sep 2024 00:22:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 03:12:52 GMT</lastBuildDate>
+    <item>
+      <title>你们都在哪里求职？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fou4ea/where_are_you_guys_applying_to_jobs/</link>
+      <description><![CDATA[我是一名高级 Web 开发人员，我也从事 DevOps，刚刚从头开始创建了一家公司（等待应用商店完成审核），过去两周我一直在申请，但一直收到拒绝信。现在当我说我是高级开发人员时，你找不到比他更高级的开发人员了，他独自建立了一整家公司。也许我不应该把这个写在简历上？ PHP 和 laravel、svelte 和 Vue 以及 vanilla js（我是老派的），还有很多 css 和 vite 以及 Ubuntu 等等。 我的作品集有点垃圾和陈旧，因为我处理的大多数代码都在登录后面。所以不知道该怎么办。 到目前为止，我正在使用 LinkedIn、ziprecruiter、indeed、dice、gun.io（我真的希望这个能更多地使用）。我是否遗漏了什么？ 也许我的简历很烂？ https://mytek.la/resume/John%20Dye.pdf 我并不绝望，但情况正在好转 :/    提交人    /u/Nimrod5000   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fou4ea/where_are_you_guys_applying_to_jobs/</guid>
+      <pubDate>Wed, 25 Sep 2024 02:31:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>git repos 的行业惯例是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fosyje/whats_industry_practice_for_git_repos/</link>
+      <description><![CDATA[我使用 github 将我的项目备份保存在不能被水泼到的地方。我对 git 的了解足以解决推送、拉取和合并冲突。但是，我的提交信息读起来像意识流，基本上相当于：“这就是我现在正在做的事情，这是现在的代码。”  我知道这很草率，我想改进它。与将所有内容提交给主程序相比，正确的 git 工作流程是什么？    提交者    /u/mooreolith   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fosyje/whats_industry_practice_for_git_repos/</guid>
+      <pubDate>Wed, 25 Sep 2024 01:30:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Athena Crisis 1.0 现已推出：一款使用 React、JS 和 CSS 从头构建的开源视频游戏。直接在网站上试用演示版。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fos7tt/athena_crisis_10_is_out_now_an_open_source_video/</link>
+      <description><![CDATA[  由    /u/cpojer  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fos7tt/athena_crisis_10_is_out_now_an_open_source_video/</guid>
+      <pubDate>Wed, 25 Sep 2024 00:53:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅使用 React/Node 即可实现免费实时音频通话？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fos0a3/free_real_time_audio_calls_with_just_reactnode/</link>
+      <description><![CDATA[我现在想要的是一个网页，每个加入的客户端都会立即与其他客户端通话，他们可以取消静音以实时交谈。就像缩放呼叫一样，但只有音频。 我已经研究了好几天，我发现的每个 YouTube 视频最终都只是用户使用第三方 API，但我现在不想这样做。我给了 chatgpt（我知道）几个小时来尝试提出解决方案，但是是的，我无法让任何东西工作。我不断看到 socket.io 出现。 我只需要这个特定部分的帮助。我对 Node 和 React 以及部署和其他一切都很熟悉。    提交人    /u/poofycade   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fos0a3/free_real_time_audio_calls_with_just_reactnode/</guid>
+      <pubDate>Wed, 25 Sep 2024 00:42:34 GMT</pubDate>
+    </item>
     <item>
       <title>简化并向初学者解释渲染方法</title>
       <link>https://www.reddit.com/r/webdev/comments/1for2az/rendering_methods_simplified_and_explained_to_a/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我刚刚加入一家公司，我收到的第一封电子邮件来自他们当前的网站托管网站 FizzPopMedia。 它基本上说“等等等等，有些东西你可以修复，付钱给我们！” 我的问题是如何从 fizz pop media 获取他们的网站代码，以便我自己维护和托管它？ 在我所有的学习中，这个问题从来没有被解决过。    提交人    /u/Current-Cheetah-299   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fomwnw/getting_source_code_for_my_companys_websites_to/</guid>
       <pubDate>Tue, 24 Sep 2024 20:45:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>脚本在一个网站上有效，在另一个网站上无效</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fom7u0/script_works_on_one_site_not_another/</link>
-      <description><![CDATA[我的客户有一个脚本，可以显示带有钻石信息的 iframe。除了我客户的网站外，它对我添加的任何网站都很好用。由于控制台消息，我以为是 Referrer-Policy 的问题，但我将策略更改为 Header set Referrer-Policy &quot;strict-origin-when-cross-origin&quot;，消息消失了，问题没有得到解决。有什么想法吗？页面是 https://www.grantsjewelry.com/info_dia_ed/ 编辑：iframe 来自外部网站，而不是她自己的网站。    提交人    /u/Squiggy45   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fom7u0/script_works_on_one_site_not_another/</guid>
-      <pubDate>Tue, 24 Sep 2024 20:15:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>政府 CMS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fom1na/government_cmses/</link>
-      <description><![CDATA[嘿嘿！我管理着我工作所在地的市政当局的网站。我非常想更换我们的 CMS...它很烂，而且超级昂贵。 我不是顶级的 Web 开发人员（我可以摆弄 CSS 和 JS，但愿不会破坏任何东西），并且会邀请其他网站贡献者。 有人对他们市政当局网站的 CMS 感到满意吗？我正在考虑 Granicus、Open Gov、Town Web 和 Revize。我希望得到一些不是由私募股权拥有、花费巨资且速度缓慢的东西。    提交人    /u/YogaRonSwanson   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fom1na/government_cmses/</guid>
-      <pubDate>Tue, 24 Sep 2024 20:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 Cookie 使用的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fom1bd/questions_about_usage_of_cookies/</link>
-      <description><![CDATA[嘿 r/webdev， 我正在开发一个 Next.js 应用，我对处理用户数据有几个问题：  Cookie 中的地理位置数据：  我目前将用户地理位置数据存储在 cookie 中。这是我在中间件中所做操作的简化版本： export async function middleware(request: NextRequest) { const response = NextResponse.next(); const { city, country } = geolocation(request); const geo = { city, country }; response.cookies.set(&#39;userGeoData&#39;, JSON.stringify(geo), { httpOnly: false }); return response; &gt; 然后，在我的 React 组件中，我读取此 cookie 以访问地理位置数据。  存储访问者电子邮件：  当访问者提交包含其电子邮件的表单（未经身份验证）时，我将这封电子邮件存储在 cookie 中，以便稍后用于预填表格。 我的问题是：  使用 cookie 存储地理位置数据是一种好做法吗？我应该注意哪些安全或性能问题？ 在 Next.js 应用中，有没有比 cookie 更好的方法来处理地理位置数据？ 当访问者未经身份验证时，是否可以将访问者的电子邮件存储在 cookie 中？这种方法是否存在隐私或安全问题？ 您将如何在 Next.js 应用中处理这些场景（地理位置和访问者电子邮件）？  我想确保我遵循数据处理和用户隐私的最佳实践。任何见解或替代方法都将不胜感激。谢谢！    提交人    /u/FrancoCanzani   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fom1bd/questions_about_usage_of_cookies/</guid>
-      <pubDate>Tue, 24 Sep 2024 20:08:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>那么，如何为新项目真正选择数据库呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1folkga/so_how_do_you_really_pick_a_database_for_a_new/</link>
-      <description><![CDATA[我尝试搜索该信息，但说实话，这只会让我更加困惑。 我了解到，一般的想法是，如果我的数据是关系型数据，则应使用 sql，否则应使用 nosql。 但是，这仍然给我留下了很多选择，例如，我如何在 mySQL 和 postgreSQL 之间进行选择？ 如果我的大部分数据是关系型数据，但我仍然有一些非关系型数据，该怎么办？ 我还了解到，nosql 较新，通常具有更好的水平扩展性，如果我预计流量较大，我是否总是选择 nosql ？    提交人    /u/Eight111   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1folkga/so_how_do_you_really_pick_a_database_for_a_new/</guid>
-      <pubDate>Tue, 24 Sep 2024 19:48:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
