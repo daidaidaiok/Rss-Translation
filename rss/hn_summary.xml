@@ -4,115 +4,94 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Thu, 26 Sep 2024 00:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 02:50:25 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 介绍剪贴板历史记录，第一个开源剪贴板历史记录管理器 Chrome [...]</title>
-      <link>https://t.me/hn_summary/109935</link>
-      <description><![CDATA[Show HN：一款全新、改进且开源的剪贴板历史记录 Chrome 扩展程序
-介绍 Clipboard History，这是第一个开源剪贴板历史记录管理器 Chrome 扩展程序，旨在安全高效地管理您的剪贴板历史记录。此工具可确保您复制的所有内容都已备份且易于访问，从而消除丢失重要内容的风险。Clipboard History 优先考虑安全性和隐私性，通过完全开源解决了对不受限制的剪贴板访问的担忧。用户可以从 GitHub 查看或下载源代码，确保透明度和可信度。有关更新和改进，请查看 GitHub 上的更新日志。享受剪贴板历史记录管理器带来的生产力优势，而不会影响安全性。]]></description>
-      <guid>https://t.me/hn_summary/109935</guid>
-      <pubDate>Thu, 26 Sep 2024 00:11:00 GMT</pubDate>
+      <title>免费下载我们令人惊叹的丑陋壁纸！</title>
+      <link>https://t.me/hn_summary/109946</link>
+      <description><![CDATA[丑陋壁纸 - 2000 年代早期风格
+免费下载我们令人惊叹的丑陋壁纸！通过我们独特的系列，沉浸在 2000 年代早期风格的怀旧魅力中。这些壁纸完美融合了复古美学和古怪的设计，保证让您的设备脱颖而出。无论您是喜欢大胆图案还是古怪图形，我们的选择都能满足每个人的需求。拥抱非传统，今天就为您的屏幕增添一丝 2000 年代早期的气息！]]></description>
+      <guid>https://t.me/hn_summary/109946</guid>
+      <pubDate>Thu, 26 Sep 2024 02:50:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] FoundationDB 记录层是一个 Java API，它在顶层构建一个面向记录的存储 [...]</title>
-      <link>https://t.me/hn_summary/109934</link>
-      <description><![CDATA[FoundationDB/fdb-record-layer：基于 FoundationDB 构建的面向记录的存储
-FoundationDB 记录层是一种 Java API，它在 FoundationDB 之上构建面向记录的存储，类似于简单的关系数据库。它通过诸如 protobuf 定义的记录、各种索引类型（值、排名、聚合）和对复杂类型（列表、嵌套记录）的支持等功能满足了对结构化数据存储的需求。它提供了用于扫描、过滤和排序的查询 API，无需查询语言，并支持具有共享架构的多个离散记录存储。记录层是轻量级的，专为分布式、无状态环境而设计，并且可扩展为自定义索引类型。它可以直接使用，也可以作为更复杂系统的基础。]]></description>
-      <guid>https://t.me/hn_summary/109934</guid>
-      <pubDate>Wed, 25 Sep 2024 23:48:50 GMT</pubDate>
+      <title>[媒体] 标题：纽约市长埃里克·亚当斯被起诉</title>
+      <link>https://t.me/hn_summary/109945</link>
+      <description><![CDATA[纽约市长 Eric Adams 被起诉
+标题：纽约市长 Eric Adams 被起诉
+
+网站：www.cnn.com
+
+消息人士告诉 CNN，纽约市长 Eric Adams 至少被控一项联邦刑事指控。《纽约时报》首先报道了这一起诉，此前联邦政府对竞选筹款违规行为和外国影响进行了长期调查。具体指控仍未披露。亚当斯一直否认有任何不当行为，并强调他指示他的竞选团队和政府遵守法律。亚当斯在回应起诉书时表示：“如果我被指控，我是无辜的，我将尽我所能和精神与之抗争。”市长预计将有几天的时间自首。CNN 正在寻求亚当斯的律师和市政厅的评论，而纽约南区美国检察官办公室拒绝发表评论。这个故事正在发展中，将会更新。]]></description>
+      <guid>https://t.me/hn_summary/109945</guid>
+      <pubDate>Thu, 26 Sep 2024 02:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 当然！</title>
-      <link>https://t.me/hn_summary/109933</link>
-      <description><![CDATA[显示 HN：公共域 Torrent 站点
-当然！以下是所提供内容的摘要：
-
----
-
-
-标题：显示 HN：公共领域种子网站
-
-网站：propagate.info
-
-欢迎来到 propagate.info 上的“亚特兰蒂斯新图书馆”，这是一个革命性的公共领域种子网站。该平台旨在免费且轻松地访问大量公共领域作品。我们的使命是通过向所有人提供这些资源来实现知识民主化并保护文化遗产。该网站易于使用，并确保所有内容均合法共享，促进开放获取和知识自由的文化。加入我们，探索和分享公共领域的宝藏。
-
----
-
-如果您想强调任何具体或额外的内容，请告诉我！]]></description>
-      <guid>https://t.me/hn_summary/109933</guid>
-      <pubDate>Wed, 25 Sep 2024 23:46:46 GMT</pubDate>
+      <title>[媒体] FastIndex 是一个开源、自托管的搜索引擎索引工具，旨在作为 [...]</title>
+      <link>https://t.me/hn_summary/109944</link>
+      <description><![CDATA[显示 HN：FastIndex，一个开源搜索引擎索引工具
+FastIndex 是一个开源、可自托管的搜索引擎索引工具，旨在替代 TagParrot 和 URLMonitor 等其他索引器。它基于 Laravel 11 和 Laravel Livewire 构建，可确保高速运行并保护 Google Search Console 免受 API 滥用和限制。FastIndex 提供的功能包括检查断开的链接、提供有关站点地图和页面的见解以及管理无限的站点、页面、站点地图、服务帐户和用户。该项目的与众不同之处在于完全不受限制且可自托管。有关更多详细信息，用户可以参考项目的 Wiki 或在 X @maurohouseless 上关注作者。]]></description>
+      <guid>https://t.me/hn_summary/109944</guid>
+      <pubDate>Thu, 26 Sep 2024 01:58:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇文章中，Matt Mullenweg 回应了银湖资本（一家市值 1020 亿美元的投资公司）的诽谤活动 [...]</title>
-      <link>https://t.me/hn_summary/109932</link>
-      <description><![CDATA[慈善捐款 – Matt Mullenweg
-在这篇文章中，Matt Mullenweg 谈到了市值 1020 亿美元的私募股权公司 Silver Lake 的诽谤活动，以及他们之间持续不断的冲突。他通过分享 2011 年至 2023 年美国国税局 (IRS) 的 501c3 慈善捐款记录，揭示了他之前保密的个人慈善事业。Mullenweg 强调，真正的慈善事业不是为了获得认可，但他感到有必要披露自己的贡献以反驳负面说法。他挑战 Silver Lake 的 Lee Wittlinger 和 WP Engine 的 Heather Brunner 披露他们过去 12 年的慈善捐款。这种透明举措既令人惊讶又独一无二，凸显了 Mullenweg 对诚信的承诺。]]></description>
-      <guid>https://t.me/hn_summary/109932</guid>
-      <pubDate>Wed, 25 Sep 2024 23:15:30 GMT</pubDate>
+      <title>[媒体] 在 WordCamp US 上，Matt Mullenweg 的主题演讲强调了贡献和开源伦理 [...]</title>
+      <link>https://t.me/hn_summary/109943</link>
+      <description><![CDATA[WP Engine 必须获胜
+在 WordCamp US 上，Matt Mullenweg 的主题演讲强调了贡献和开源道德，特别敦促社区避免使用 WP Engine。这引发了一系列事件，包括 WP Engine 的停止和终止以及 Mullenweg 的 Twitter Spaces 讨论。此后，WordPress 基金会已为“管理 WordPress”和“托管 WordPress”申请了商标。WP Engine 声称，尽管有公平使用法，Automattic 仍要求对商标使用收取相当大的收入百分比。Automattic 的反信确认了 8% 的收入要求。争议在于 Automattic 可能控制“WordPress”的任何商业使用，这可能会扼杀开源社区和商业活动。WP Engine 的胜利对 WordPress 项目的未来至关重要。]]></description>
+      <guid>https://t.me/hn_summary/109943</guid>
+      <pubDate>Thu, 26 Sep 2024 01:53:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 友谊常被描述为生活的阳光，是生活中深刻而重要的元素[...]</title>
-      <link>https://t.me/hn_summary/109931</link>
-      <description><![CDATA[内向者的友谊指南：梭罗论坦诚联系
-友谊，常被描述为生命的阳光，是人类生存中深刻而必不可少的元素。在探索亨利·戴维·梭罗对友谊的反思时，我们深入探讨了他作为一个渴望真诚联系的内向者的挣扎和见解。梭罗的日记记录揭示了他根深蒂固的自我怀疑和孤立，也揭示了他对陪伴的深切渴望。尽管面临挑战，梭罗还是对友谊有了深刻的理解，认为友谊是共同利益和相互信任的结合。他的反思强调了真正的联系所需的脆弱性和开放性，使他的见解既永恒又深刻。 
-
-争议：梭罗强烈的自我批评和因无法与人沟通而产生的绝望情绪可能会被视为有争议的，因为它挑战了人们对他孤独、满足的浪漫看法。
-
-独特见解：梭罗认为友谊是一种奉献形式，他相信利益统一是真正友谊的基础，这为人际关系提供了独特而深刻的视角。]]></description>
-      <guid>https://t.me/hn_summary/109931</guid>
-      <pubDate>Wed, 25 Sep 2024 23:15:28 GMT</pubDate>
+      <title>[媒体] 作为工程经理，如何管理oncall？</title>
+      <link>https://t.me/hn_summary/109942</link>
+      <description><![CDATA[工程经理如何管理值班？
+作为一名相对较新的工程经理，我负责管理一个处理中等数量值班问题的团队，通常每周 4-5 个。我们的值班职责包括管理生产事件和监控应用程序和基础设施警报。主要挑战是确保值班工程师有足够的时间专注于系统改进，特别是增强运营体验 (Opex)。通常，他们会被转移到生产功能或以前问题的长期修复上，几乎没有空间进行主动改进。我寻求一个框架来明确定义值班优先级，平衡即时生产需求和 Opex 改进，管理长期修复而不会让当前值班工程师不堪重负，并创建一种结构化方法，以确保持续专注于随着时间的推移改善运营体验。]]></description>
+      <guid>https://t.me/hn_summary/109942</guid>
+      <pubDate>Thu, 26 Sep 2024 01:32:52 GMT</pubDate>
     </item>
     <item>
-      <title>标题：Nvidia 愿意为英特尔多支付 50% 的费用</title>
-      <link>https://t.me/hn_summary/109930</link>
-      <description><![CDATA[Nvidia 可以为英特尔多支付 50%
-标题：Nvidia 可以为英特尔多支付 50%
-
-网站：www.forbes.com
-
-
-令人惊讶的是，市值近 3 万亿美元的 Nvidia 可能会为英特尔支付比高通高出 50% 的价格，而高通最近曾与英特尔接洽，希望收购英特尔。Nvidia 的大量现金储备和市场地位使其成为更合适的收购者。尽管英特尔最近遭遇挫折且股价大幅下跌，但由于其复苏迹象良好且采取了削减成本的措施，它仍然是一个有吸引力的收购目标。英伟达收购英特尔可以利用英特尔的代工厂，降低生产成本，并确保供应链稳定，尤其是在与中国的地缘政治紧张的情况下。然而，监管障碍和英特尔自身的增长潜力可能会使这笔交易变得复杂。]]></description>
-      <guid>https://t.me/hn_summary/109930</guid>
-      <pubDate>Wed, 25 Sep 2024 23:15:24 GMT</pubDate>
+      <title>[媒体] OpenAI 正在考虑授予首席执行官 Sam Altman 7% 的股权，因为该组织 [...]</title>
+      <link>https://t.me/hn_summary/109941</link>
+      <description><![CDATA[OpenAI 讨论在盈利模式转型中给予 Altman 7% 的股份
+OpenAI 正考虑在组织向盈利模式转型时授予首席执行官 Sam Altman 7% 的股权。此举旨在将领导层激励与公司的财务目标保持一致。然而，这一决定在科技界引发了争论，批评者认为，这可能会损害 OpenAI 确保人工智能造福全人类的使命。支持者认为，这将吸引和留住顶尖人才，推动创新。这一转变标志着 OpenAI 与最初的非营利结构发生了重大变化，引发了人们对利润与道德人工智能发展之间平衡的质疑。]]></description>
+      <guid>https://t.me/hn_summary/109941</guid>
+      <pubDate>Thu, 26 Sep 2024 01:31:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] WP Engine 已被禁止访问 WordPress.org 的资源，原因是他们最近 [...]</title>
-      <link>https://t.me/hn_summary/109929</link>
-      <description><![CDATA[WP Engine 被禁止访问 WordPress.org
-WP Engine 因其最近的行为被禁止访问 WordPress.org 的资源，这些行为扰乱了数千个客户网站。WP Engine 试图阻止 WordPress.org 向社区通报 WP Engine 禁用和货币化核心 WordPress 功能的努力。因此，WP Engine 现在必须独立管理 WordPress 体验的各个方面，包括用户登录、更新、插件、主题和安全研究。该帖子强调，鉴于 WP Engine 的敌对行为，WordPress.org 不应向 WP Engine 提供免费服务。建议用户选择任何其他托管服务提供商来体验正版 WordPress。争议在于 WP Engine 涉嫌以营利为目的操纵 WordPress 功能以及随后的法律纠纷。]]></description>
-      <guid>https://t.me/hn_summary/109929</guid>
-      <pubDate>Wed, 25 Sep 2024 23:04:19 GMT</pubDate>
+      <title>[媒体] 在《背景噪音》杂志的“广告的终结”一文中，作者认为，虽然我们声称[...]</title>
+      <link>https://t.me/hn_summary/109940</link>
+      <description><![CDATA[广告的终结
+在 Background Noise 的“广告的终结”一文中，作者认为，虽然我们声称讨厌广告，但实际上广告为我们在网上享受的绝大多数内容提供了资金，让互联网感觉自由。广告已经从简单的横幅广告发展成为像 Google 和 Meta 这样的复杂收入机器，甚至支持小众出版商和独立创作者。然而，人工智能正在通过提供直接答案和执行任务来颠覆这种模式，减少我们与广告支持内容的互动。这种转变威胁着当前基于广告的生态系统，可能导致更多优质、基于订阅的内容和新的货币化策略。作者强调，这种转变可能会扩大那些负担得起订阅费用的人和那些负担不起订阅费用的人之间的差距，从根本上改变我们与在线内容的关系。]]></description>
+      <guid>https://t.me/hn_summary/109940</guid>
+      <pubDate>Thu, 26 Sep 2024 01:01:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Napkins.dev 为网络开发者推出了一项创新解决方案：只需上传一张图片 [...]</title>
-      <link>https://t.me/hn_summary/109928</link>
-      <description><![CDATA[由 Llama 3.2 Vision 提供支持的开源线框到应用程序
-Napkins.dev 为 Web 开发人员引入了一种创新解决方案：只需上传您的网站设计图片，我们的平台就会使用 React 和 Tailwind 将其转换为功能齐全的应用程序。这款开源工具由 Llama 3.2 Vision 提供支持，简化了开发流程，使其更快、更高效。这种方法不仅节省了时间，还弥合了设计和开发之间的差距，确保您的愿景准确地转化为代码。 Llama 3.2 Vision 的使用尤其值得注意，因为它利用先进的 AI 来提高生成代码的准确性和质量。]]></description>
-      <guid>https://t.me/hn_summary/109928</guid>
-      <pubDate>Wed, 25 Sep 2024 22:37:08 GMT</pubDate>
+      <title>[媒体] 在数字时代，由于 Java 等语言的存在，创建软件变得非常简单 [...]</title>
+      <link>https://t.me/hn_summary/109939</link>
+      <description><![CDATA[从打孔卡到 Python：Grace Hopper 的 A-0 编译器铺平了道路
+在数字时代，由于 Java 和 Python 等语言的存在，创建软件变得非常简单。然而，早期的程序员依靠打孔卡以二进制代码与计算机通信。这种情况在 1952 年随着 Grace Hopper 的 A-0 编译器的出现而改变，该编译器将高级语言翻译成机器可读的代码，彻底改变了编程。Hopper 是 Eckert-Mauchly 计算机公司的高级数学家，她开发了 A-0 编译器，现在已成为 IEEE 里程碑，使编码更快、更易于访问。尽管最初有人持怀疑态度，但她的创新为 COBOL 等现代编程语言铺平了道路。A-0 编译器的诞生在 Eckert-Mauchly 创立的宾夕法尼亚大学举行了庆祝活动。]]></description>
+      <guid>https://t.me/hn_summary/109939</guid>
+      <pubDate>Thu, 26 Sep 2024 00:53:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Roy Clay Sr.</title>
-      <link>https://t.me/hn_summary/109927</link>
-      <description><![CDATA[打破种族障碍的硅谷先驱罗伊·克莱去世，享年 95 岁
-硅谷开拓性的黑人技术专家罗伊·克莱去世，享年 95 岁。克莱被称为“硅谷教父”，在开发个人电脑和打破科技行业的种族障碍方面发挥了重要作用。他的职业生涯跨越近五十年，包括在惠普担任关键职务，领导了 HP 2116A 小型计算机的创建。克莱还倡导多元化，从历史悠久的黑人大学招募人才。尽管他做出了重大贡献，但与其他硅谷人物相比，克莱的成就常常被忽视。他的回忆录《势不可挡》记录了他从密苏里州的一个普通家庭成长为一名科技先驱的历程。]]></description>
-      <guid>https://t.me/hn_summary/109927</guid>
-      <pubDate>Wed, 25 Sep 2024 22:08:57 GMT</pubDate>
+      <title>[媒体] Git-absorb 是一个旨在简化整合未提交的cha [...]</title>
+      <link>https://t.me/hn_summary/109938</link>
+      <description><![CDATA[Git-absorb：Git 提交 – 修复，但自动
+Git-absorb 是一种旨在简化将未提交的更改集成到 Git 存储库中现有提交的过程的工具。受 Facebook 为 Mercurial 开发的 hg attract 的启发，它可以自动创建 fixup! 提交，然后可以使用 Git 的自动压缩功能将其压缩到相应的提交中。这对于维护原子提交和应用审核反馈特别有用，而无需手动管理提交 SHA 或执行交互式变基。该项目通过自动确定哪些提交可以安全修改以及哪些暂存更改属于每个提交来脱颖而出。它支持各种安装方法，包括系统包管理器和从源代码编译。]]></description>
+      <guid>https://t.me/hn_summary/109938</guid>
+      <pubDate>Thu, 26 Sep 2024 00:36:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：www.theregister.com</title>
-      <link>https://t.me/hn_summary/109926</link>
-      <description><![CDATA[揭秘 3D 打印、Raspberry Pi 驱动的“自杀舱”
-标题：揭秘 3D 打印、Raspberry Pi 驱动的“自杀舱”
-网站：www.theregister.com
+      <title>[媒体] www.paperplanes.de 上的文章“一致性哈希的简单魔法”深入探讨了 [...]</title>
+      <link>https://t.me/hn_summary/109937</link>
+      <description><![CDATA[一致性哈希的简单魔法 (2011)
+www.paperplanes.de 上的文章“一致性哈希的简单魔法”深入探讨了一致性哈希在分布式系统中的优雅性和实用性。一致性哈希是 Akamai 在 90 年代末开发的一个概念，它通过对键使用哈希函数来简化跨节点的数据分布。与传统分片不同，此方法通过随机分布数据来避免热点。它还有助于分区，使扩展和复制更加可预测和高效。本文重点介绍了一致性哈希如何成为 Memcached、Amazon Dynamo、Cassandra 和 Riak 等系统的关键，增强了它们的可扩展性和可用性。如需深入了解，作者推荐 Riak 手册。
 
-由澳大利亚支持安乐死活动家 Philip Nitschke 设计的备受争议的 3D 打印自杀舱首次投入使用，导致瑞士多人被捕。该装置被称为“Sarco”，由一名 64 岁的美国女性使用。 Sarco 由使用者启动，使用者按下按钮将氮气充满舱室，从而实现平静的死亡。该舱室设计为 DIY 友好型，需要 3D 打印机和 Raspberry Pi 进行组装和操作。设计文件不出售，但可以通过订阅 Exit International 的 Peaceful Pill 电子手册获得。Swissmedic 尚未将 Sarco 归类为医疗设备，这导致法律上的不确定性以及因煽动和协助自杀而被捕。Nitschke 还在开发一种用于安乐死阿尔茨海默病患者的植入物。
+令人惊讶/巧妙的方面：本文强调了一致性哈希在平衡负载和简化复制方面的巧妙之处，无需任何数据块的主节点。
 
-争议：Sarco 舱室的使用导致了法律诉讼和逮捕，凸显了协助自杀的道德和法律复杂性。
-
-独特/巧妙：Sarco 的设计旨在消除对医疗专业人员和难以获得的药物的需求，使其成为寻求安乐死的人高度可及的选择。]]></description>
-      <guid>https://t.me/hn_summary/109926</guid>
-      <pubDate>Wed, 25 Sep 2024 21:44:45 GMT</pubDate>
+争议点：本文简要介绍了丢失密钥顺序的权衡，这对于某些应用程序来说可能是一个重要的考虑因素。]]></description>
+      <guid>https://t.me/hn_summary/109937</guid>
+      <pubDate>Thu, 26 Sep 2024 00:33:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,11 +4,11 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 26 Sep 2024 00:25:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 03:10:46 GMT</lastBuildDate>
     <item>
       <title>这是什么东西？（HarvestTime.exe）</title>
       <link>https://www.reddit.com/r/software/comments/1fphtuc/what_is_this_thing_harvesttimeexe/</link>
-      <description><![CDATA[https://preview.redd.it/mpggfctr91rd1.png?width=508&amp;format=png&amp;auto=webp&amp;s=d65433c82f66ffd2b3a6377cad725dfdfb85847b 我有这个独立的可执行文件。它被称为“HarvestTime.exe”。至少从 2010 年 12 月起，我就在各种计算机上安装了这个程序。很明显，这是一个只能进行加法运算的时间计算器。现在，问题来了：我不知道从哪里得到它，也找不到任何相关信息。 根据 VirusTotal 的说法，这是一个旧的 Windows 32 位应用程序。具体来说，是一个 PEEXE（不管它是什么）。 VirusTotal 还提到，有两款防病毒工具表示该软件至少含有一种病毒：  MaxSecure：Trojan.Malware.121218.susgen（显然是 误报？） SecureAge：恶意（没有太多信息……）  尽管它性质可疑，但它对我而言非常有用。我就是找不到任何关于它的信息。应用内没有“关于”功能或任何其他功能。它和它看起来一模一样。奇怪的是，一年多前，这个文件也曾在 VirusTotal 上被其他人扫描过，这说明我不是唯一拥有副本的人。 以下是一些相关信息和链接。  文件相同：HarvestTime.exe 文件大小：414 KB (424,236 字节) 文件版本：1.0.48.5 VirusTotal 报告链接： https://www.virustotal.com/gui/file/150a7842702067c9dfd130b0464839db4d259fe9117666b545291a185d053aea 临时下载链接： https://drive.google.com/file/d/1IJYBW6IYj6ODtOlBK71EfBZ0MvprY6Ex  任何的东西都会非常有帮助。非常感谢。    提交人    /u/SuihtilCod   [link] [评论]]]></description>
+      <description><![CDATA[https://preview.redd.it/mpggfctr91rd1.png?width=508&amp;format=png&amp;auto=webp&amp;s=d65433c82f66ffd2b3a6377cad725dfdfb85847b 我有这个独立的可执行文件。它被称为“HarvestTime.exe”。至少从 2010 年 12 月起，我就在各种计算机上安装了这个程序。很明显，这是一个只能做加法的时间计算器。现在，问题来了：我不知道从哪里得到它，也找不到任何关于它的信息。 根据 VirusTotal 的说法，这是一个旧的 Windows 32 位应用程序。具体来说，是一个 PEEXE（不管它是什么）。 VirusTotal 还提到，有两款防病毒工具表示该软件至少含有一种病毒：  MaxSecure：Trojan.Malware.121218.susgen（显然是 误报？） SecureAge：恶意（没有太多信息……）  尽管它性质可疑，但它对我而言非常有用。我就是找不到任何关于它的信息。应用内没有“关于”功能或任何其他功能。它和它看起来一模一样。奇怪的是，一年多前，这个文件也曾在 VirusTotal 上被其他人扫描过，这说明我不是唯一拥有副本的人。 以下是一些相关信息和链接。  文件相同：HarvestTime.exe 文件大小：414 KB (424,236 字节) 文件版本：1.0.48.5 VirusTotal 报告链接： https://www.virustotal.com/gui/file/150a7842702067c9dfd130b0464839db4d259fe9117666b545291a185d053aea 临时下载链接： https://drive.google.com/file/d/1IJYBW6IYj6ODtOlBK71EfBZ0MvprY6Ex  任何东西都会非常有帮助。非常感谢。    提交人    /u/SuihtilCod   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fphtuc/what_is_this_thing_harvesttimeexe/</guid>
       <pubDate>Wed, 25 Sep 2024 22:58:50 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>你能推荐一个截图程序吗？</title>
       <link>https://www.reddit.com/r/software/comments/1fpaww0/can_you_recommend_a_program_for_screenshots/</link>
-      <description><![CDATA[大家好！我正在寻找一个可以让我轻松截取屏幕截图并在其中添加一些箭头（如“看这里”）和一些文本的程序。 有很多软件可以做到这一点，但我发现它们都没有考虑到“轻松”。 我需要的是按下一个按钮（或按钮组合），单击一个工具（箭头/文本），绘制箭头或添加文本并保存图像。 基本上，我想要的应该不会比 win+shift+s 或启动截图工具难得多。 我确实找到了一个这样的程序，但我不信任它。默认情况下（！）此程序的免费版本允许您将屏幕保存到云端。自然而然地，一个问题出现了：“谁来付钱？” 我绝对不介意为这样的程序付费，但我希望它是开源的。 编辑：怎么回事？谁在这里给评论差评，为什么？    提交人    /u/ImmoralFox   [link] [评论]]]></description>
+      <description><![CDATA[大家好！我正在寻找一个可以让我轻松截取屏幕截图并向其中添加一些箭头（如“看这里”）和一些文本的程序。 有很多软件可以做到这一点，但我发现它们都没有考虑到“轻松”。 我需要的是按下一个按钮（或按钮组合），单击一个工具（箭头/文本），绘制箭头或添加文本并保存图像。 基本上，我想要的应该不会比 win+shift+s 或启动截图工具难得多。 我确实找到了一个这样的程序，但我不信任它。默认情况下（！）此程序的免费版本允许您将屏幕保存到云端。自然而然地，一个问题出现了：“谁来付钱？” 我绝对不介意为这样的程序付费，但我希望它是开源的。 编辑：怎么回事？谁在这里给评论差评，为什么？    提交人    /u/ImmoralFox   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fpaww0/can_you_recommend_a_program_for_screenshots/</guid>
       <pubDate>Wed, 25 Sep 2024 17:59:48 GMT</pubDate>
     </item>
