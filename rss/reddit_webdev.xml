@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 26 Sep 2024 03:11:11 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Thu, 26 Sep 2024 06:07:58 GMT</lastBuildDate>
+    <item>
+      <title>如何传输结构化数据？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpp39a/how_do_you_stream_structured_data/</link>
+      <description><![CDATA[我需要从后端流式传输到前端，但我不确定应该使用哪种数据结构。 我曾考虑过一种方法，即我可以发送一个 JSON 对象，并在后端不断向同一个对象添加数据，并在每个块中流式传输完整对象。 这显然存在一些缺陷。此外，我可能会认为由于数据的大小，块的边界不可靠。为了避免这种情况，我想采用一种方法，让我在每个块中发送部分数据，同时仍保持双方的逻辑简单。 我在 Google 上搜索过这个问题，但没能找到令人满意的方法。我很好奇是否有任何明显的解决方案是我遗漏的。 您如何处理流式传输结构化数据？    提交人    /u/a_cube_root_of_one   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpp39a/how_do_you_stream_structured_data/</guid>
+      <pubDate>Thu, 26 Sep 2024 05:36:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WWYC—您的收费是多少？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpmv4h/wwyc_what_would_you_charge/</link>
+      <description><![CDATA[我接手了一个客户，他在 BlueHost 下有 4 个相对简单的 WordPress 网站，我正在将它们迁移到 AWS，并将在未来管理它们。我目前正在为这个客户构建自定义软件，我按小时收费，但我不确定在迁移过程之后如何收取网站管理费用。我认为我不会在这些网站上花费太多时间，他们将承担基本的云费用。这个客户与他们当前的网站经理有着长期的合作关系，他只收取 75 美元/小时的费用。所以如果没有工作要做，就没有收入，这似乎不是网络代理的常态。 管理网站的人——你实际上花了多少时间进行更新？你每月收费多少，包括哪些服务/每月多少小时的工作？我稍微预料到这个客户会有一些反对意见，因为他们已经被目前的网站经理宠坏了，而且几乎不收取任何费用。 网站管理对我来说是一个新的领域，因此我很感激任何专业知识和指导。    提交人    /u/fettuccine8080   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpmv4h/wwyc_what_would_you_charge/</guid>
+      <pubDate>Thu, 26 Sep 2024 03:19:08 GMT</pubDate>
+    </item>
     <item>
       <title>如何规范来自不同网站的 SVG</title>
       <link>https://www.reddit.com/r/webdev/comments/1fpmn7z/how_to_normalize_svgs_sourced_from_different/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>我应该如何设计我的投资组合？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fpkp83/how_should_i_style_my_portfolio/</link>
-      <description><![CDATA[我刚刚开始使用 Angular 为自己构建作品集（我使用 Angular 的经验很丰富，而且我接下来想从事这种类型的工作），想知道你们在样式方面有什么建议。我很想使用一些网站构建应用程序来快速制作作品集，但我认为利用这个机会展示我的 Angular 技能是最明智的。我是一名优秀的 Angular 开发人员，但从未声称自己是 UI/UX 专家。 我已经在谷歌和 reddit 上搜索了很多，但我想听听您对这个用例有什么建议？我已经开始使用 Angular Material 创建作品集，但很快就想起了其中一些组件看起来多么无聊/乏味。我希望我的作品集看起来更时尚一些，但我认为我应该避免使用任何预制模板。我并不想过度装饰作品集，事实上我喜欢简约的设计，只是我不擅长从头开始创造时尚的设计。 我知道有些人可能会说只需定制所有内容，我也不是 100% 反对，但老实说，我只想尽快建立一个好看的作品集，这样我就可以开始从事另一个 Angular 项目，我可以在作品集本身上展示它。 由于我可以采取的所有路线，我正在做决定。任何建议都将不胜感激。    提交人    /u/_bort_sampson   [链接] [评论]]]></description>
+      <description><![CDATA[我刚刚开始使用 Angular 为自己构建作品集（我使用 Angular 的经验很丰富，而且我接下来想从事这种类型的工作），想知道你们在样式方面有什么建议。我很想使用一些网站构建应用程序来快速制作作品集，但我认为利用这个机会展示我的 Angular 技能是最明智的。我是一名优秀的 Angular 开发人员，但从未声称自己是 UI/UX 专家。 我已经在谷歌和 reddit 上搜索了很多，但我想听听您对这个用例的建议？我已经开始使用 Angular Material 创建作品集，但很快就想起了其中一些组件看起来多么无聊/乏味。我希望我的作品集看起来更时尚一些，但我认为我应该避免使用任何预制模板。我并不想过度装饰作品集，事实上我喜欢简约的设计，只是我不擅长从头开始创造时尚的设计。 我知道有些人可能会说只需定制所有内容，我并不是 100% 反对，但老实说，我只想尽快建立一个好看的作品集，这样我就可以开始从事另一个 Angular 项目，我可以在作品集本身上展示它。 由于我可以采取的所有路线，我正在做决定。任何建议都将不胜感激。    提交人    /u/_bort_sampson   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fpkp83/how_should_i_style_my_portfolio/</guid>
       <pubDate>Thu, 26 Sep 2024 01:22:43 GMT</pubDate>
     </item>
@@ -83,7 +97,7 @@
       <pubDate>Wed, 25 Sep 2024 23:22:45 GMT</pubDate>
     </item>
     <item>
-      <title>[Nuxt ChatGPT] [新] ChatGPT 克隆具有增强的功能，包括将创建的文档组织和排序到文件夹中的能力，为管理对话提供了更好的用户体验。</title>
+      <title>[Nuxt ChatGPT] [新] ChatGPT 克隆具有增强的功能，包括将创建的文档组织和排序到文件夹中的能力，从而为管理对话提供更好的用户体验。</title>
       <link>https://www.reddit.com/r/webdev/comments/1fpi914/nuxt_chatgpt_new_chatgpt_clone_with_enhanced/</link>
       <description><![CDATA[        提交人    /u/schnapsterdog   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fpi914/nuxt_chatgpt_new_chatgpt_clone_with_enhanced/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[        提交人    /u/UnfadeTech   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fpgpor/i_need_your_thoughts_on_my_ecommerce_website/</guid>
       <pubDate>Wed, 25 Sep 2024 22:07:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助了解域名注册商吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fpg0p1/help_with_understanding_domain_registrar/</link>
-      <description><![CDATA[我目前使用 Bluehost 作为我的域名，因为我以前在他们那里托管网站和邮件。我将邮件托管转移到其他地方，完全停止了网站托管，现在我更愿意完全摆脱 Bluehost，而且我也喜欢将东西放在几个地方。 我如何确定什么是好的域名注册商以及他们能提供什么？他们听起来都一样，而你正在寻找稳定性。我错了吗？我还有另一个域名要从 Bluehost 转移，但它已经在一个月前与他们续订了。 任何帮助都将非常有帮助，谢谢。    提交人    /u/tinpanalleypics   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fpg0p1/help_with_understanding_domain_registrar/</guid>
-      <pubDate>Wed, 25 Sep 2024 21:36:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助在生产中集成 react/node</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fpdp9y/help_integration_reactnode_in_production/</link>
-      <description><![CDATA[每次出现此错误时，我无法将前端与后端连接起来，我可以单独访问后端，但这两个不能集成。如果我使用 localhost，我只能连接前端，否则不行  无法加载资源：net::ERR_SSL_PROTOCOL_ERROR 这是我的服务器配置和前端  server { listen 443 ssl; server_name example.com.br www.example.com.br; # 前端设置 location / { root /var/www/example/client; index index.html; try_files $uri $uri/ /index.html; } # API 设置（连接到 Node.js 后端） location /api/ { proxy_pass http://localhost:8800; proxy_http_version 1.1; proxy_set_header Upgrade $http_upgrade; proxy_set_header 连接“升级”; proxy_set_header 主机 $host; proxy_cache_bypass $http_upgrade; # 允许 CORS add_header &#39;Access-Control-Allow-Origin&#39; &#39;*&#39; 始终; add_header &#39;Access-Control-Allow-Methods&#39; &#39;GET, POST, OPTIONS, DELETE, PUT&#39; 始终; add_header &#39;Access-Control-Allow-Headers&#39; &#39;Content-Type, Authorization&#39; 始终; add_header &#39;Access-Control-Allow-Credentials&#39; &#39;true&#39; 始终; } # SSL 设置（由 Certbot 管理） ssl_certificate /etc/letsencrypt/live/www.example.com.br/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.example.com.br/privkey.pem;包括/etc/letsencrypt/options-ssl-nginx.conf; ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; }  前面 尝试{ const response = await fetch(&quot;https://example.com.br:8800/api/chatgpt&quot;, { mode: &#39;no-cors&#39;, method: &quot;POST&quot;, headers: { &quot;Content-Type&quot;: &quot;application/json&quot;, }, body: JSON.stringify({ message: input, userUID }), } );     提交人    /u/Tricky_Calendar8130   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fpdp9y/help_integration_reactnode_in_production/</guid>
-      <pubDate>Wed, 25 Sep 2024 19:57:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
