@@ -4,13 +4,27 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 26 Sep 2024 06:07:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 09:07:02 GMT</lastBuildDate>
+    <item>
+      <title>台式电脑与笔记本电脑性能的疑问</title>
+      <link>https://www.reddit.com/r/editors/comments/1fpqpcl/desktop_vs_laptop_performance_doubts/</link>
+      <description><![CDATA[大家好，过去 3 年我一直在使用台式电脑，后来我买了一台 macbook air m1，以获得*一些*便携性。有时我会去短途旅行，因为我知道我可以通过 anydesk 连接到我的电脑编辑轻量级视频或更正较重的项目，同时又具有轻量级笔记本电脑的便携性。 我计划开始经常旅行，尝试利用远程工作，因此对我来说，购买一台功能更强大的笔记本电脑并可能摆脱当前的机器是明智之举。首先，我几天就要搬家，要住两个月，搬运电脑和显示器是一件很麻烦的事，但这就是我目前拥有的东西。 我的主要问题是，我一直认为笔记本电脑的规格不如台式机的规格。 我害怕换一台，就像卖掉我的台式机，然后后悔，因为它可能缺少什么、过热或有什么缺点。如果我可以信任一台笔记本电脑，那我会选择哪一台呢？ 我喜欢我的 MacBook 的制造质量和尺寸的电池寿命。所以我猜即将推出的 M4 MacBook 会更好。另一方面，我可以更好地处理 Windows 操作系统，它有更多兼容的软件等等，但我对 Windows 笔记本电脑的印象往往看起来笨重、塑料感强，听起来就像一架载重的喷气式飞机。 至少，我想匹配我当前 PC 的规格，但我想投资一台不会让我失望的面向未来的机器，即使我有点喜欢 3D 动画。  当前 PC：i7 10700K 32GB ram 3070，如 5 个 ssd/nvmes，我使用 2 个 27 英寸 4k LG 显示器 我买了一个 16 英寸4k Oled 便携式显示器，所以我想这将是我旅行时使用的第二台显示器，以及 Mx 键和 Mx 主鼠标作为外围设备。  我的预算有点高，我真的不想妥协购买一台让我失望的机器，所以 3000-3500 欧元。 我看到的两个选项是  （尚未发布）Macbook Pro 16 m4，我猜是 18gb 基本内存（最让我担心的事情）大概在 3200 欧元左右。我认为将内存升级到合适的东西会使它飙升到接近 4000，所以那里很大。从好的方面来看，我认为苹果硅片的效率很高，多年后可能会更有价值。 华硕 ProArt P16。从纸面上看，它看起来像一台超强大的笔记本电脑，4k OLED、Ryzen 9 HX370、4070、64GB RAM、2TB SSD，售价 3200 欧元。它看起来很薄，我认为是金属制成的，但屏幕在视频上看起来很不稳定，就像它很脆弱或做工很差一样。我担心散热和电池寿命，但总的来说看起来是个不错的选择。不过，未来的转售价值更差。  你们中有人只用笔记本电脑进行专业工作吗？ 我很想听听你对类似设置的想法或经验，谢谢❤️    提交人    /u/Natnsk   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fpqpcl/desktop_vs_laptop_performance_doubts/</guid>
+      <pubDate>Thu, 26 Sep 2024 07:36:10 GMT</pubDate>
+    </item>
     <item>
       <title>Sony Venice -> 需要 AVID 工作流程建议。要不要代理？</title>
       <link>https://www.reddit.com/r/editors/comments/1fpp5ao/sony_venice_avid_workflow_advice_needed_to_proxy/</link>
       <description><![CDATA[我接手了一个非常混乱的短片项目，不得不用后期制作人的身份取代我的编辑身份来解决这个问题。找不到很多关于 Sony/AVID 工作流程的文档。我迟到了，希望在事情进一步发展之前控制好组织。 这是一部短片，拍摄时没有后期计划。一台摄像机是索尼 Venice，另一台未知。大部分 Venice 镜头都是以 4K 拍摄的，有些可能是以 8K 拍摄的。看起来创建了 ProRes 代理。使用 nablet 插件，我可以在 AVID 中查看和播放高分辨率剪辑。 最大的问题是 - 如何使用 AVID 中的代理，然后重新链接到高分辨率内容以获得最终输出？我引入了几个剪辑，但基本的重新链接似乎不起作用。 此外，所有高分辨率剪辑都在其自己的文件夹中。每个剪辑一个文件夹。所以现在我必须在源浏览器中一次链接一个，有没有批量方法可以做到这一点？ 或者一般来说，有没有关于如何通过 AVID 运行 Sony Venice X-OCN 剪辑的良好文档？ 或者......我甚至必须代理高分辨率内容的工作流程吗？AVID 是否放弃了该过程，并且 nablet 插件是否足够稳定以在完整分辨率下剪切？ 对于 mods：Mac Pro 塔式机、Sonoma//AVID 2024.6 或任何当前版本//素材：Sony Venice X-OCN    提交人    /u/47edits   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fpp5ao/sony_venice_avid_workflow_advice_needed_to_proxy/</guid>
       <pubDate>Thu, 26 Sep 2024 05:40:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Premiere 中的 XML To Resolve 不起作用</title>
+      <link>https://www.reddit.com/r/editors/comments/1fpo9ur/xml_from_premiere_to_resolve_not_working/</link>
+      <description><![CDATA[我有个客户，他总是和一位特定的调色师合作，而这个人很难相处。我不知道发生了什么，但他从来都无法链接 XML 的视频（我们所有的文件都位于两个不同的外部硬盘上的同一个文件夹中）。他让我通过项目经理进行收集，并将副本上传到 gdrive。我就是搞不懂，我以前从来没有遇到过这个问题！如果我做错了什么，请帮帮我！  这是我的过程：   复制视频最终版本的时间线 删除声音和艺术，只留下原始素材 编辑 -&gt; 导出 -&gt; Final Cut Pro (.xml) 通过 WeTransfer 发送 XML 保存并导入 DaVinci Resolve。   我不更改文件名，也不在箱子里移动它们。我只是不明白它怎么就不起作用！那是软件问题吗？我导出错了吗？他导入不当吗？如果你猜到发生了什么，我将不胜感激。每次我完成某件事都是这样的戏剧性。    提交人    /u/delusionalbesterd   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fpo9ur/xml_from_premiere_to_resolve_not_working/</guid>
+      <pubDate>Thu, 26 Sep 2024 04:42:53 GMT</pubDate>
     </item>
     <item>
       <title>刚接触“专业”显示器（和专业编辑），不确定要使用什么预设</title>
@@ -55,13 +69,6 @@
       <pubDate>Wed, 25 Sep 2024 19:33:36 GMT</pubDate>
     </item>
     <item>
-      <title>经过 6 个月的开发，我们的 8 人团队将 AutoCut 引入 DaVinci Resolve</title>
-      <link>https://www.reddit.com/r/editors/comments/1fp9cam/after_6_months_of_development_our_8person_team/</link>
-      <description><![CDATA[我非常感谢我的八人团队，他们让这一切成为现实。我们刚开始的时候甚至不确定这是否可行，但经过六个月的努力，我们做到了！ 我们的社区一直要求我们将 AutoCut 引入 DaVinci Resolve。凭借在 Premiere Pro 上四年的经验和成功经验，编辑们非常喜欢我们的插件，我们知道我们必须实现它。 然而，我们决心让插件与 DaVinci Resolve 的免费版和 Studio 版兼容。这个目标带来了巨大的挑战，需要投入大量的时间、精力和金钱。这就是为什么你可能从未见过像这样在两个版本上无缝运行的插件。 AutoCut 是 DaVinci Resolve 的第一个插件，提供：  自动静音消除 自动多机位播客编辑 自动带转录的动画字幕  为了庆祝此次发布，如果您在接下来的 48 小时内评论“AutoCut”，我会在 Reddit 上联系您，并且，对于 Reddit 社区来说，特别的是，将您的免费试用期从 14 天延长到 90 天！可以访问所有功能 - 无需信用卡。 您可以在此处下载并在安装后获取 14 天试用密钥：AutoCut 网站 我迫不及待地想听听您的想法。在我们继续改进 AutoCut 的过程中，您的反馈将非常宝贵！ 我们将继续致力于整合 Premiere Pro 版 AutoCut 上已有的所有功能，如果您对功能有任何其他想法，请随时分享！    提交人    /u/AutoCut   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fp9cam/after_6_months_of_development_our_8person_team/</guid>
-      <pubDate>Wed, 25 Sep 2024 16:55:05 GMT</pubDate>
-    </item>
-    <item>
       <title>复原解锁序列的技巧</title>
       <link>https://www.reddit.com/r/editors/comments/1fp1c7t/reversioning_an_unlocked_sequence_tips/</link>
       <description><![CDATA[标题说明了一切。我正在为一部事实电视连续剧担任编辑助理，该连续剧将在全球多个不同的网络上播出，其中一个网络要求进行非常大的复原，将剧集混合在一起，并对时间线进行重大的结构更改。 从理论上讲，这应该不是一项艰巨的任务，但不幸的是，由于不可预见的情况，原始时间线的图片锁定已被推迟。现在制作方表示他们仍然希望按计划继续进行复原。所以我今天的问题是，我究竟如何才能使我的复原序列与原始序列的时间保持同步？ 我目前的策略是将源时间线名称、时间码和场景编号刻录到一集长视频混音中，我将其放在包含所有视频层的子母版之上。我将音频混合成几个立体声音轨，将音乐、音效、通信等分开。我还对所有内容进行了颜色编码。 从组织上讲，这肯定有助于跟踪所有内容，但我担心，随着对原始序列的每一个微小更改，混音中的时间码会变得越来越不正确，这意味着我可能必须定期手动放入新的混音/子母版才能跟上它。这似乎非常耗时且效率低下。 我已经绞尽脑汁一天了，但想不出 AVID 中可以改善这种情况的系统。有什么想法吗？我们使用 AVID 2022.12.4 来了解上下文    提交人    /u/AquaD74   [链接] [评论]]]></description>
@@ -95,13 +102,6 @@
       <description><![CDATA[大家好，我想买一个宏键盘用于编辑，比如 Tourbox Elite、loupedeck + 侧面的小键盘，上面有我最常用的所有快捷键，因为当我必须按任何涉及 2 个以上键的快捷键时，我总是感到分心，当有三个键时，我的头会爆炸，你用过类似的东西吗？你会建议吗？    提交人    /u/HovercraftDazzling48   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1foti5m/do_you_use_a_marco_pad_when_editing_let_me_know/</guid>
       <pubDate>Wed, 25 Sep 2024 01:58:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用视频增强/升级软件？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fos5iw/how_do_you_use_video_enhancementupscaling_software/</link>
-      <description><![CDATA[大家好， 我希望这篇文章没有违反本版块的规则，但我一直在创建视频升级服务 (refocused.ai)，并且对使用 TopazLabs Video AI 等软件或服务的专业编辑有一些问题。  您通常会升级哪种类型的视频，为什么选择升级它们？您倾向于将视频升级到什么分辨率/比特率？您升级到 HD、4k 或 8k 的频率是多少？ 您多久使用一次视频升级软件？在一年的时间里，您升级了多少素材（以小时、帧等为单位）？ 您主要在本地设置上升级素材吗？还是使用云端进行处理？如果您不使用云，您是否能够/愿意使用远程处理来升级视频（如果可用）？ 质量与时间/成本 - 我知道这个问题有点模糊，但是渲染升级后的视频需要多长时间才算太长？例如 2 秒/帧 vs 100 秒/帧。在什么时候您会考虑远程处理？ 匹配编码：如果输出仅限于编码子集（即 raw/h264/h265/av1）是否重要？  我很感谢你们所有人的回复！如果您有兴趣尝试该服务，我正在寻找 beta 用户，请随时给我留言。    提交人    /u/Significant-Pen1276   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fos5iw/how_do_you_use_video_enhancementupscaling_software/</guid>
-      <pubDate>Wed, 25 Sep 2024 00:49:40 GMT</pubDate>
     </item>
     <item>
       <title>洛杉矶的短期编辑套房？</title>
