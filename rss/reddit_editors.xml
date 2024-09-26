@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 26 Sep 2024 09:07:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 12:09:17 GMT</lastBuildDate>
+    <item>
+      <title>有时候这很困难，对吧？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fpttwh/sometimes_its_just_difficult_right/</link>
+      <description><![CDATA[我最近接手了一个项目，客户对我们提出了严厉批评（有些批评我们接受，有些批评是因为他们汇报工作做得很差，哈哈）。由于我是这个项目的主要负责人，所以我要为所有出错的事情承担责任，我理解并接受这一点。一般来说，我能很好地应对批评，但几天前，我突然意识到自己还需要成长和学习多少。我确实正在改变职业生涯中的一些事情，以便能够适应这种情况，因为我已经意识到这一点有一段时间了。但结合上述项目，我现在受到了很大的打击，我开始质疑一切。遇到这些障碍很正常，对吧？你有过感到沮丧的经历吗？    提交人    /u/jxennzz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fpttwh/sometimes_its_just_difficult_right/</guid>
+      <pubDate>Thu, 26 Sep 2024 11:24:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>从客户端下载 Dropbox 的替代方案？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fps228/alternative_to_dropbox_downloads_from_client/</link>
+      <description><![CDATA[一位客户向我发送了一个 50GB 的 Dropbox 共享文件夹，它说我必须购买更多空间才能打开它？有没有什么办法可以解决这个问题？我不想为了下载文件而购买 Dropbox。我发誓以前你可以直接分享一个链接让别人下载。    提交人    /u/BurnerOhGod   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fps228/alternative_to_dropbox_downloads_from_client/</guid>
+      <pubDate>Thu, 26 Sep 2024 09:23:18 GMT</pubDate>
+    </item>
     <item>
       <title>台式电脑与笔记本电脑性能的疑问</title>
       <link>https://www.reddit.com/r/editors/comments/1fpqpcl/desktop_vs_laptop_performance_doubts/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[我接手了一个非常混乱的短片项目，不得不用后期制作人的身份取代我的编辑身份来解决这个问题。找不到很多关于 Sony/AVID 工作流程的文档。我迟到了，希望在事情进一步发展之前控制好组织。 这是一部短片，拍摄时没有后期计划。一台摄像机是索尼 Venice，另一台未知。大部分 Venice 镜头都是以 4K 拍摄的，有些可能是以 8K 拍摄的。看起来创建了 ProRes 代理。使用 nablet 插件，我可以在 AVID 中查看和播放高分辨率剪辑。 最大的问题是 - 如何使用 AVID 中的代理，然后重新链接到高分辨率内容以获得最终输出？我引入了几个剪辑，但基本的重新链接似乎不起作用。 此外，所有高分辨率剪辑都在其自己的文件夹中。每个剪辑一个文件夹。所以现在我必须在源浏览器中一次链接一个，有没有批量方法可以做到这一点？ 或者一般来说，有没有关于如何通过 AVID 运行 Sony Venice X-OCN 剪辑的良好文档？ 或者......我甚至必须代理高分辨率内容的工作流程吗？AVID 是否放弃了该过程，并且 nablet 插件是否足够稳定以在完整分辨率下剪切？ 对于 mods：Mac Pro 塔式机、Sonoma//AVID 2024.6 或任何当前版本//素材：Sony Venice X-OCN    提交人    /u/47edits   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fpp5ao/sony_venice_avid_workflow_advice_needed_to_proxy/</guid>
       <pubDate>Thu, 26 Sep 2024 05:40:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Premiere 中的 XML To Resolve 不起作用</title>
-      <link>https://www.reddit.com/r/editors/comments/1fpo9ur/xml_from_premiere_to_resolve_not_working/</link>
-      <description><![CDATA[我有个客户，他总是和一位特定的调色师合作，而这个人很难相处。我不知道发生了什么，但他从来都无法链接 XML 的视频（我们所有的文件都位于两个不同的外部硬盘上的同一个文件夹中）。他让我通过项目经理进行收集，并将副本上传到 gdrive。我就是搞不懂，我以前从来没有遇到过这个问题！如果我做错了什么，请帮帮我！  这是我的过程：   复制视频最终版本的时间线 删除声音和艺术，只留下原始素材 编辑 -&gt; 导出 -&gt; Final Cut Pro (.xml) 通过 WeTransfer 发送 XML 保存并导入 DaVinci Resolve。   我不更改文件名，也不在箱子里移动它们。我只是不明白它怎么就不起作用！那是软件问题吗？我导出错了吗？他导入不当吗？如果你猜到发生了什么，我将不胜感激。每次我完成某件事都是这样的戏剧性。    提交人    /u/delusionalbesterd   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fpo9ur/xml_from_premiere_to_resolve_not_working/</guid>
-      <pubDate>Thu, 26 Sep 2024 04:42:53 GMT</pubDate>
     </item>
     <item>
       <title>刚接触“专业”显示器（和专业编辑），不确定要使用什么预设</title>
@@ -95,13 +102,6 @@
       <description><![CDATA[我正在编辑一个独立功能，我们需要购买两个 RAID 阵列用于备份。我被困在这两个东西之间： OWC Gemini 40TB 2-Bay Thunderbolt 3 Raid 阵列（2 x 20TB） https://www.bhphotovideo.com/c/product/1785246-REG/owc_owctb3gm000h40_40tb_gemini_2_thunderbolt_usb_c.html/overview OWC ThunderBay 4 48TB 4-Bay Thunderbolt 3 RAID 阵列（4 x 12TB，RAID 5 企业版） https://www.bhphotovideo.com/c/product/1431796-REG/owc_other_world_computing_owctb3sre48_0s_48tb_thunderbay_4_raid_5.html 我对 Raid 工作流程还不熟悉。这两个都应该有足够的容量来满足我们整个项目的需要。Gemini 更便宜，但评论少得多。其中一个比另一个更快、更可靠、更容易设置等吗？由于我要购买两个阵列，我应该各买一个吗？我原本打算使用 Raid 5 来实现冗余，但这不适用于 Gemini。这有问题吗？如有任何建议或见解，我们将不胜感激。    提交人    /u/samgraff47   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fows7g/indie_feature_backup_question_owc_gemini_vs_owc/</guid>
       <pubDate>Wed, 25 Sep 2024 05:05:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>你在编辑时使用宏命令板吗？（即使你不使用它们，也请告诉我你的想法）</title>
-      <link>https://www.reddit.com/r/editors/comments/1foti5m/do_you_use_a_marco_pad_when_editing_let_me_know/</link>
-      <description><![CDATA[大家好，我想买一个宏键盘用于编辑，比如 Tourbox Elite、loupedeck + 侧面的小键盘，上面有我最常用的所有快捷键，因为当我必须按任何涉及 2 个以上键的快捷键时，我总是感到分心，当有三个键时，我的头会爆炸，你用过类似的东西吗？你会建议吗？    提交人    /u/HovercraftDazzling48   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1foti5m/do_you_use_a_marco_pad_when_editing_let_me_know/</guid>
-      <pubDate>Wed, 25 Sep 2024 01:58:48 GMT</pubDate>
     </item>
     <item>
       <title>洛杉矶的短期编辑套房？</title>
