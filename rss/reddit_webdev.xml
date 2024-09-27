@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 27 Sep 2024 00:22:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 03:11:12 GMT</lastBuildDate>
+    <item>
+      <title>寻找网页设计应用程序/网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqbahu/looking_for_a_web_design_appsite/</link>
+      <description><![CDATA[我正在寻找一个用于网页设计/开发的工具/应用程序/网站，它有以下要求：  使用基本的 HTML 内容来构建页面（例如 div、按钮等），没有 React、Web 组件、模板等 双向 HTML：拖放 HTML/CSS 并编辑 HTML 代码 有在线演示（不是必需的，但最好有）  可以付费或免费。 你有什么建议吗？    提交人    /u/transframer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqbahu/looking_for_a_web_design_appsite/</guid>
+      <pubDate>Fri, 27 Sep 2024 00:28:10 GMT</pubDate>
+    </item>
     <item>
       <title>对于带有 Sumup 付款的小型电子商务 + 博客，应使用什么 CMS [Woo/PrestaShop/Custom/其他]？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fqa53c/what_cms_to_use_for_a_small_ecommerceblog_with/</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 26 Sep 2024 23:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>我根据童年记忆制作了一款游戏（DVD 热门角）</title>
+      <title>我根据童年记忆制作了一款游戏（DVD 热播角）</title>
       <link>https://www.reddit.com/r/webdev/comments/1fqa3dk/i_built_a_game_based_on_a_childhood_memory_dvd/</link>
       <description><![CDATA[        提交人    /u/notomarsol   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fqa3dk/i_built_a_game_based_on_a_childhood_memory_dvd/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[      我正在考虑开始一个新项目，并且对 VueJS 有一点经验。不过，从趋势来看，似乎 NextJS（红线）是下一步要学习的，或者只是使用普通的旧 React。有趣的是，Angular 和 NodeJS 同样受欢迎。 有人有一份好的指南/文档，可以帮助在 2024 年为新项目选择合适的框架吗？ 谢谢！ https://trends.google.com/trends/explore?date=all&amp;geo=US&amp;q=%2Fg%2F11c0vmgx5d,%2Fg%2F11h4q9rcf3,%2Fg%2F11c6w0ddw9,%2Fm%2F012l1vxv,%2Fm%2F0bbxf89&amp;hl=en JS 框架的 Google 趋势    提交人    /u/charlesthayer   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fq2t9x/q_javascript_framework_trends_sept_2024_what_to/</guid>
       <pubDate>Thu, 26 Sep 2024 18:08:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该尝试哪种 Web 技术栈？我是 React + Asp.NET 开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq2emc/what_web_stack_should_i_try_im_react_aspnet/</link>
-      <description><![CDATA[嗨，我已经在前端使用 React 并在后端使用 ASP.NET 一段时间了，我对这个堆栈非常熟悉。它非常适合构建强大的 Web 应用程序，但我觉得是时候扩展我的视野了。 我很好奇还有哪些其他堆栈可能值得探索。对于想要扩展的人，您会推荐什么？    提交者    /u/ASTERY_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq2emc/what_web_stack_should_i_try_im_react_aspnet/</guid>
-      <pubDate>Thu, 26 Sep 2024 17:52:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
