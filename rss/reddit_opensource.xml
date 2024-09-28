@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 28 Sep 2024 15:06:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 18:07:25 GMT</lastBuildDate>
+    <item>
+      <title>您能分享一个 Github 上公开提供的优秀路线图的示例吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1frjenb/can_you_share_an_example_of_a_great_publicly/</link>
+      <description><![CDATA[嗨， 对于从事开源项目的项目经理，您是否有几个直接在 Github 中使用的出色路线图示例？或者您是否认为 Github 的“项目”功能有限，无法创建良好的路线图，而您更愿意与其他产品集成？ 这是一个随机示例，但我正在寻找更好的东西：https://github.com/orgs/fonoster/projects/9    提交人    /u/canarysplit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1frjenb/can_you_share_an_example_of_a_great_publicly/</guid>
+      <pubDate>Sat, 28 Sep 2024 17:27:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 Java 或 Javascript/Typescript 项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1frj75z/looking_for_projects_in_java_or/</link>
+      <description><![CDATA[我是一名拥有 3 年经验的软件工程师，我希望为 Java、Javascript/Typescript 中的一些开源项目做出贡献。 我在 Github 上搜索过，但要么 repos 不经常更新，要么最近没有太多问题。 如果您正在或知道任何需要贡献者的项目，请随时联系我。我很乐意帮助修复错误、添加新功能或完成任何其他需要完成的工作。 谢谢    提交人    /u/iibracool   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1frj75z/looking_for_projects_in_java_or/</guid>
+      <pubDate>Sat, 28 Sep 2024 17:17:27 GMT</pubDate>
+    </item>
     <item>
       <title>从网页生成 PDF</title>
       <link>https://www.reddit.com/r/opensource/comments/1frfdzw/generating_a_pdf_from_a_webpage/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fq37k6/is_open_source_ever_hyphenated/</guid>
       <pubDate>Thu, 26 Sep 2024 18:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于 CCTV 监控的 VMS、ONVIF</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fq2okr/vms_for_cctv_surveillance_onvif/</link>
-      <description><![CDATA[最佳或评价最高的开源，具有良好支持 VMS，用于在 Windows 或 Windows 服务器上工作的 cctv 监控，还支持客户端    由   提交  /u/zet28   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fq2okr/vms_for_cctv_surveillance_onvif/</guid>
-      <pubDate>Thu, 26 Sep 2024 18:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Russ Cox 的下一步行动：为开源项目提供人工智能帮助代理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fq012t/russ_coxs_next_act_aipowered_help_agents_for_open/</link>
-      <description><![CDATA[        由    /u/gadgetygirl 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fq012t/russ_coxs_next_act_aipowered_help_agents_for_open/</guid>
-      <pubDate>Thu, 26 Sep 2024 16:13:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
