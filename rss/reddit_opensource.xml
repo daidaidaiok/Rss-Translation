@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 29 Sep 2024 00:24:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 03:13:56 GMT</lastBuildDate>
+    <item>
+      <title>您是哪种类型的开源贡献者？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fruyvm/what_type_of_opensource_contributor_are_you/</link>
+      <description><![CDATA[我一直在分析人们在使用开源存储库时面临的挑战，我发现贡献者通常根据他们的需求和经验分为三类。我很想知道你最认同哪一类！ 1. 有具体问题但找不到解决方案 你遇到了一个特定的问题或错误，但你正在努力寻找解决方法。你真正需要的是存储库内一个高质量的问答系统，以便更快地获得有用的答案。 2. 想从开源项目中学习，但不知道从哪里开始 你有兴趣学习和贡献开源，但你不确定如何有效地开始。你可能会受益于一个指导学习系统来帮助你浏览项目。 3.想要贡献代码但需要明确的指导 您已准备好编写代码并做出贡献，但需要更好的指导来了解如何开始执行特定任务。基于特定问题指导您的学习系统将为您带来翻天覆地的变化。 ​    提交人    /u/More-Shop9383   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fruyvm/what_type_of_opensource_contributor_are_you/</guid>
+      <pubDate>Sun, 29 Sep 2024 03:04:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源开发者应该学习设计</title>
+      <link>https://www.reddit.com/r/opensource/comments/1frsw2i/open_source_developers_should_learn_design/</link>
+      <description><![CDATA[UI 和 UX 是许多 FOSS 项目最缺乏的部分，它阻碍了许多开源项目的发展。许多程序主要或仅由开源爱好者使用，而不是专业人士或业余爱好者使用。因此，买不起专有软件的人更愿意盗版它们，而不是使用 FOSS 替代品。确实没有多少开源项目具有良好的设计和经过深思熟虑的用户体验（也是用户真正需要的功能）。 Blender 花了十多年的时间才最终决定并重写了 UI，此后近十年后，它在改进其 UI（~2013，2.49 vs 2.5）后开始流行起来，使其更易于理解和使用，并在添加了大量请求或需要的功能（如实时渲染）后第二次流行起来（2019，2.8）。然而 GIMP 仍然无法使用，只有赞美它或说每天都使用它的人不是设计师，或者只是怪胎，这都是因为糟糕的 UI 和糟糕的 UX。 我知道我会因为这篇文章而遭到很多仇恨，但我不在乎。我只是希望社区开始了解界面和用户体验的重要性。您可以学习 UI 设计、产品和 UX 设计，或吸引设计师为开源项目做出贡献。是的，开源开发人员已经有很多事情要做，但不妨开始学习，并通过不投入更多时间而改进东西，而是做一些不同的事情，以不同的方式思考，拥有知识而不是猜测。当然，这可能不会有太大变化，特别是在开始的时候，但对于整个社区来说，这将是朝着正确方向迈出的一小步。 UI 并不意味着美观，而是可用性、清晰度、无阻碍性。 UX 并不意味着拥有过多的功能，而只是一些使体验更简单、更容易的功能，甚至可能删除一些功能。 这里有一个您可以开始的免费资源：https://www.uxdatabase.io 关于 Blender 的 UI 的讨论，它使它变成了今天的样子：https://youtu.be/prD6BFYIWRY    提交人    /u/khronoblakov   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1frsw2i/open_source_developers_should_learn_design/</guid>
+      <pubDate>Sun, 29 Sep 2024 01:06:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源软件如何改变了你的生活？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1frs6yq/how_are_open_source_software_changed_your_life/</link>
+      <description><![CDATA[我先来。 我大约在 11 岁的时候学会了编码（我现在 40 岁了）。图书馆里，坐在我旁边的人在写 JavaScript，我问那是什么，然后我们就开始写了。从那时起，我进入了 IRC 的世界，开始问东西是如何工作的。然后，我开始设置自己的 IRCd 服务器、Web 服务器等，以了解东西是如何工作的。这一切都让我接触到了 Linux，当然还有 GNU，当然还有开源的概念。 随着时间的推移，我因为开源软件而获得了 IT 工作。最终，我成为了一名 Linux 系统工程师，这让我加入了 FOSDEM。我于 2014 年加入，在那里我遇到了我现在的妻子（她不是 IT 行业的人 - 我们在旅馆认识的。）如果不是因为开源，我现在就不会住在澳大利亚了。这是一段相当漫长的旅程。 开源对你的生活有什么影响？我很想听听那些因为开源软件而改变人生的人的故事。我正在制作一部关于开源软件对现实生活的影响的纪录片，而不是只关注全球影响，我认为很多人都知道这一点。 我期待着阅读您的回复。    提交人    /u/opsfactoryau   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1frs6yq/how_are_open_source_software_changed_your_life/</guid>
+      <pubDate>Sun, 29 Sep 2024 00:28:23 GMT</pubDate>
+    </item>
     <item>
       <title>从事我热衷的 FOSS 项目 - Darnahi</title>
       <link>https://www.reddit.com/r/opensource/comments/1frr9zk/working_on_a_foss_project_i_am_passionate_about/</link>
@@ -39,13 +60,6 @@
       <description><![CDATA[我是一名拥有 3 年经验的软件工程师，我希望为 Java、Javascript/Typescript 中的一些开源项目做出贡献。 我在 Github 上搜索过，但要么 repos 不经常更新，要么最近没有太多问题。 如果您正在或知道任何需要贡献者的项目，请随时联系我。我很乐意帮助修复错误、添加新功能或完成任何其他需要完成的工作。 谢谢    提交人    /u/iibracool   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1frj75z/looking_for_projects_in_java_or/</guid>
       <pubDate>Sat, 28 Sep 2024 17:17:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>从网页生成 PDF</title>
-      <link>https://www.reddit.com/r/opensource/comments/1frfdzw/generating_a_pdf_from_a_webpage/</link>
-      <description><![CDATA[我正在寻找一个工具或浏览器扩展来从网页创建 PDF 文件。打印为 PDF 对我来说不起作用，因为结果非常不稳定，具体取决于网站的打印样式表。只要简单易读就足够了。有没有类似的东西？基本上就像现代的 wkhtmltopdf？    提交人    /u/eyebalance   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1frfdzw/generating_a_pdf_from_a_webpage/</guid>
-      <pubDate>Sat, 28 Sep 2024 14:23:10 GMT</pubDate>
     </item>
     <item>
       <title>微软白板的替代品？</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[我的个人音乐收藏由 Mac Music 应用管理，但我没有订阅 Apple Music。相反，我有一个 Plex Media Server 来访问我在云端的个人收藏。 为了将笔记本电脑上的音乐同步到我的个人云，我编写了一个 rsync 脚本，其中包含一个执行单向同步的 cron 作业。这也可以用于任何本地目标备份。 让我知道你的想法 https://github.com/quangly/rsync-apple-music 并在那里关注我。    提交人    /u/TravelArtScience   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fr3kjv/syncing_macosx_apple_music_to_personal_cloud/</guid>
       <pubDate>Sat, 28 Sep 2024 01:39:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>canvasLab——发布 v0.7.179</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fr31lf/canvaslab_release_v07179/</link>
-      <description><![CDATA[HTML5 画布插图和动画框架 Github：canvasLab v0.7.179    由   提交  /u/cheerful_jellyfish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fr31lf/canvaslab_release_v07179/</guid>
-      <pubDate>Sat, 28 Sep 2024 01:10:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人曾经让 InvoiceNinja v5.2.2 在 Enterprise Linux 上成功运行过吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fqrgj2/has_anyone_ever_got_invoiceninja_v522_to/</link>
-      <description><![CDATA[我一直在尝试在最低版本的 Rocky Linux 9 / PHP 8.2 上设置 InvoiceNinja v5.2.2（根据 AAL 许可，而 AAL 已获得 OSI的OSD批准），但是遇到了很大的困难...只有1 指南，但目前有点过时了。 一旦我似乎完成了所有需要做的事情，我就会在浏览器中看到 IN 的设置页面，您可以在其中填充数据库连接、成功测试并创建您的第一个用户。但是，一旦我完成设置，无论发生什么，每次都只会出现一个空白的页面输出。我可以看到它确实创建了所有 mysql 表，我的第一个用户也在那里。最重要的是，laravel、nginx、php-fpm 等的任何日志文件中都不会打印任何错误...我知道这听起来像是权限问题，但我已经多次梳理过权限，本质上 nginx 用户只拥有应用程序目录中的所有内容，并且可以随意读写。当然，SELinux 也是暂时允许的。 目前，我怀疑我可能在正确管理其与 composer 和 npm 的依赖关系时遇到了一些问题。 我只是好奇是否有人已经这样做过，并且可以在我深入研究并浪费更多时间或完全放弃之前帮助我检查一下这次部署的合理性！请让我知道！！    提交人    /u/MasterZosh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fqrgj2/has_anyone_ever_got_invoiceninja_v522_to/</guid>
-      <pubDate>Fri, 27 Sep 2024 16:12:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
