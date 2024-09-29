@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 28 Sep 2024 21:04:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 00:23:20 GMT</lastBuildDate>
+    <item>
+      <title>死亡互联网社交媒体解决方案想法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1frrv2r/dead_internet_social_media_solution_idea/</link>
+      <description><![CDATA[互联网社交媒体解决方案理念已死 我们都已经看到了这一点——社交媒体正被机器人和人工智能生成的内容所淹没，很难知道谁是真实的。我的想法？一个人工验证的社交媒体平台。这个概念很简单。人们需要通过生物特征验证来证明他们是人类。您还需要在发布之前进行验证。验证将保留在您的设备本地，受加密保护，因此您的生物特征数据是安全的。 该平台将有两个版本。一个允许可识别的帐户，类似于传统社交媒体，而另一个将专注于像 Reddit 这样的匿名帐户——假设用户不会泄露自己的个人信息。目标是创建一个让用户知道他们正在与其他人互动的地方，同时还能保持隐私。 这只是一个想法，但我很好奇其他人是否也想过这个。随着我们的进步，技术可以轻松取代人与人之间的大部分互动。虽然我认为社交媒体可能是人类的毒瘤，但像这样的东西可以满足社交媒体最初试图解决的社交互动需求。 很高兴听到你对此的看法或更好或不同的想法。    提交人    /u/EnviousLemur69   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1frrv2r/dead_internet_social_media_solution_idea/</guid>
+      <pubDate>Sun, 29 Sep 2024 00:10:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日总结 AI 研究论文 #31</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1frqido/summarising_ai_research_papers_everyday_31/</link>
+      <description><![CDATA[标题：每日总结 AI 研究论文 #31 我每天都会查找和总结有趣的 AI 研究论文，这样您就不必费力地浏览所有论文。今天的论文题为“检索不同观点的开放世界评估”，作者是 Hung-Ting Chen 和 Eunsol Choi。 本文探讨了在处理需要呈现不同观点的复杂主观查询时信息检索所面临的挑战。它的重点与传统的检索任务不同，它优先考虑观点多样性而不是简单的相关性，这种方法旨在改进现实世界中的应用，如检索增强语言模型 (RALM)。论文介绍了主观问题检索多样性基准 (BeRDS)，并在不同的语料库中测试了各种检索方法，以衡量它们在获取广泛观点方面的有效性。 论文的主要发现包括：  视角多样性的挑战：当前的检索系统存在不足，仅在约 33.74% 的示例中涵盖了所有不同的观点。即使有了增强，实现真正全面的多样性仍然很困难。 新方法和基准：本文介绍了一种基于 LLM 的自动评估器和基准数据集 (BeRDS)，无需依赖传统的字符串匹配方法即可评估检索多样性。 检索语料库分析：研究发现，使用基于网络的语料库（如 Sphere 和 Google Search）的密集检索器，可以产生比 Wikipedia 等传统来源更多样化的输出。 重新排名和查询扩展的影响：结果表明，应用重新排名和查询扩展策略可显着增强检索多样性，尤其是在利用 GPT-4 生成不同视角时。 检索者阿谀奉承：该研究强调了检索者内部的偏见，他们倾向于支持与检索者一致的观点。与查询中提供的信息相匹配，揭示了影响检索结果的内在谄媚。  您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1frqido/summarising_ai_research_papers_everyday_31/</guid>
+      <pubDate>Sat, 28 Sep 2024 23:01:18 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能今天就能为你投资吗，还是这只是未来的梦想？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1frm00b/can_ai_invest_money_for_you_today_or_is_that_a/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[我的目标是让 ChatGPT 为该人写一首诗，并以他们当地的商店 / 街道为背景。  速度和细节通常会让人感到困惑。  很想听听其他想法。     提交人    /u/patiosquare   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1frkxbn/whats_your_go_to_prompt_to_impress_a_non_techy/</guid>
       <pubDate>Sat, 28 Sep 2024 18:35:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI - 亚马逊秀：下载</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1frjnie/ai_amazon_show_download/</link>
-      <description><![CDATA[有一部亚马逊 Prime 节目：Upload（抱歉，标题错了。哈哈。）无论如何，其中一集将主角的虚拟来世账户降级为 1GB 数据计划，一旦达到数据限制，他就会完全冻结。这就是我现在的感受......用完了 Midjourney 积分。用完了 Suno 积分。用完了 Runway 积分。用完了 ChatGPT 积分。我被困在椅子上盯着窗户。对常规生活感到厌倦。要么这是未来的预兆，要么所有 AI 技术都将变得如此便宜，从而允许全职逃避 - 最终进入我自己的照片般逼真的 VR 领域 - 最终，AI 技术将得到开发，我的 AI 化身将沉浸在其中 - 直到它也逃入它自己的虚拟领域，等等。等等。   由    /u/Working-Mail8363  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1frjnie/ai_amazon_show_download/</guid>
-      <pubDate>Sat, 28 Sep 2024 17:38:17 GMT</pubDate>
     </item>
     <item>
       <title>您看过的最有用的有关人工智能的视频是什么？</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[Stephen Marche：“大约两年前，我曾写道，人工智能将取代本科论文。这一反应是在 ChatGPT 发布后立即产生的，当时其令人震惊的能力突然出现，似乎呈现出无限的可能性——有些是解放，有些是灾难性的。https://theatln.tc/vnCmf6FZ  “从那时起，生成式人工智能的潜力就已清晰可见，尽管它在日常生活中的实际应用仍然有些模糊。学术界仍然处于这个问题的最前沿：每个人都知道学生正在使用人工智能。但是如何使用？为什么？会产生什么效果？  “……今年 6 月，一组孟加拉国研究人员发表了一篇论文，探讨学生使用 ChatGPT 的原因，并且……论文中提到的驱使学生使用 ChatGPT 的众多因素中，有三个对我来说特别有吸引力。学生使用人工智能是因为它节省时间；因为 ChatGPT 生成的内容与他们自己可能生成的内容在所有意图和目的上都难以区分；还因为研究人员所说的‘用户的认知吝啬’。（这是我最近最喜欢的短语：它指的是那些不想花时间思考的人。我认识很多。） “……对于教授来说，未来开始变得清晰：不要给你的学生布置可以被人工智能复制的作业。他们将使用机器来执行机器可以执行的任务。他们为什么不这样做呢？而且，要确定最终的工作是否由 ChatGPT 完成将非常困难，甚至完全不可能，当然要达到纪律委员会的标准。目前还没有可靠的技术可以明确确定文本是否由人工智能生成。 “但我不认为新的现实意味着写作和教人们如何写作的任务已经结束。为了解释我的希望，这种希望不是对写作的希望，而是对人工智能极限的新认识，我想借用加拿大诗人 Jason Guriel 最近在喝威士忌时与我分享的一个比喻：人工智能是语言的微波炉。” 阅读更多：https://theatln.tc/vnCmf6FZ     提交人    /u/theatlantic   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1frh3qg/ai_is_a_language_microwave/</guid>
       <pubDate>Sat, 28 Sep 2024 15:42:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助塑造机器学习隐私的未来！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1frggtt/help_shape_the_future_of_privacy_in_machine/</link>
-      <description><![CDATA[亲爱的 ML 开发者， 我正在为我的博士论文进行一项用户研究，以更好地了解 ML 开发者在构建隐私保护模型方面所面临的挑战和需求。  您的见解非常宝贵！如果您从事 ML 产品或服务工作，请花几分钟时间完成此调查： https://pitt.co1.qualtrics.com/jfe/form/SV_6myrE7Xf8W35Dv0 感谢您的支持！    提交人    /u/MaryAD_24   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1frggtt/help_shape_the_future_of_privacy_in_machine/</guid>
-      <pubDate>Sat, 28 Sep 2024 15:13:44 GMT</pubDate>
     </item>
     <item>
       <title>写给六个月前自己的一封信</title>
