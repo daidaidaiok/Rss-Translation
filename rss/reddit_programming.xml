@@ -4,20 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 30 Sep 2024 06:08:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 09:07:11 GMT</lastBuildDate>
+    <item>
+      <title>使用 Tmux、Vim 和 VSCode 实现高效的开发人员工作流程</title>
+      <link>https://www.reddit.com/r/programming/comments/1fsqiyw/productive_developer_workflow_with_tmux_vim_and/</link>
+      <description><![CDATA[  由    /u/inelp  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fsqiyw/productive_developer_workflow_with_tmux_vim_and/</guid>
+      <pubDate>Mon, 30 Sep 2024 08:14:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>保护你的微服务：综合指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1fsq2g2/securing_your_microservices_a_comprehensive_guide/</link>
+      <description><![CDATA[  由    /u/InspectionSpirite  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fsq2g2/securing_your_microservices_a_comprehensive_guide/</guid>
+      <pubDate>Mon, 30 Sep 2024 07:38:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Godot 用于应用程序开发</title>
+      <link>https://www.reddit.com/r/programming/comments/1fspqic/godot_for_app_development/</link>
+      <description><![CDATA[  由    /u/Wor_king2000  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fspqic/godot_for_app_development/</guid>
+      <pubDate>Mon, 30 Sep 2024 07:12:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>建筑现代化 • Nick Tune & Eduardo da Sliva</title>
+      <link>https://www.reddit.com/r/programming/comments/1fspnq2/architecture_modernization_nick_tune_eduardo_da/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fspnq2/architecture_modernization_nick_tune_eduardo_da/</guid>
+      <pubDate>Mon, 30 Sep 2024 07:07:00 GMT</pubDate>
+    </item>
     <item>
       <title>在 React 中编写代码时可以遵循的一些好技巧</title>
       <link>https://www.reddit.com/r/programming/comments/1fsoblx/some_good_tips_to_follow_on_writing_code_in_react/</link>
       <description><![CDATA[  由    /u/freakma-shadow  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fsoblx/some_good_tips_to_follow_on_writing_code_in_react/</guid>
       <pubDate>Mon, 30 Sep 2024 05:31:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>广播还是不广播：微妙的视角</title>
-      <link>https://www.reddit.com/r/programming/comments/1fso9s3/to_broadcast_or_not_to_broadcast_a_nuanced/</link>
-      <description><![CDATA[  由    /u/gavinhoward  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fso9s3/to_broadcast_or_not_to_broadcast_a_nuanced/</guid>
-      <pubDate>Mon, 30 Sep 2024 05:28:03 GMT</pubDate>
     </item>
     <item>
       <title>如何使用 Google Gemini AI 随机生成网站登录页面（第一部分）</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/Feitgemel  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fscw24/how_to_classify_dinosaurs_cnn_tutorial/</guid>
       <pubDate>Sun, 29 Sep 2024 19:43:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技行业悄然离职现象兴起：开发人员为何纷纷离职</title>
-      <link>https://www.reddit.com/r/programming/comments/1fsb7ip/the_rise_of_quiet_quitting_in_tech_why_developers/</link>
-      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fsb7ip/the_rise_of_quiet_quitting_in_tech_why_developers/</guid>
-      <pubDate>Sun, 29 Sep 2024 18:31:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>脑残开发者</title>
-      <link>https://www.reddit.com/r/programming/comments/1fsb1ug/the_grug_brained_developer/</link>
-      <description><![CDATA[  由    /u/crappy_entrepreneur  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fsb1ug/the_grug_brained_developer/</guid>
-      <pubDate>Sun, 29 Sep 2024 18:24:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Alpine.js 增强客户端</title>
-      <link>https://www.reddit.com/r/programming/comments/1fs8pqv/augmenting_the_client_with_alpinejs/</link>
-      <description><![CDATA[  由    /u/nfrankel  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fs8pqv/augmenting_the_client_with_alpinejs/</guid>
-      <pubDate>Sun, 29 Sep 2024 16:44:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
