@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 01 Oct 2024 21:07:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 00:22:10 GMT</lastBuildDate>
+    <item>
+      <title>作为一名全栈开发人员，如何提高设计水平的资源？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu2iu2/resources_for_getting_better_at_design_as_a_full/</link>
+      <description><![CDATA[我不想成为一名“设计师”，但我确实想更好地了解如何使我构建的产品/工具看起来和感觉更好。任何提示/资源。现在我利用了很多组件库，比如shadcn。像Claude和v0这样的工具很好，但我想了解如何构建更好的设计     提交人    /u/Defiant-Clue5463   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu2iu2/resources_for_getting_better_at_design_as_a_full/</guid>
+      <pubDate>Tue, 01 Oct 2024 23:38:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next.js 与无头 cms 最佳实践</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu150o/nextjs_with_a_headless_cms_best_practices/</link>
+      <description><![CDATA[大家好，我主要是一名后端开发人员，正在学习一些前端，我想知道使用 next.js 在前端处理来自 cms 的页面的最佳实践是什么。  例如，最好有一个动态路由页面 [slug]，它可以提取所有 cms 页面并动态构建它们，从而产生类似的项目结构 [Slug] - .index.js 或者最好手动在应用程序路由器中添加页面并让它们调用该页面的无头 cms 端点，从而产生类似的结构 主页 - index.js 关于 - index.js ...... 等等 这将适用于页面不共享通用模板的宣传册网站，而不是博客网站。 我查找了一些使用 ghost 或 strapi 的示例，但是就页面和路由处理而言，我似乎无法理解目前将 next 与 cms 集成的概念。    提交人    /u/SGKeox   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu150o/nextjs_with_a_headless_cms_best_practices/</guid>
+      <pubDate>Tue, 01 Oct 2024 22:34:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>有免费套餐的体面的日志管理吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu0xsl/decent_log_management_with_free_tiers/</link>
+      <description><![CDATA[我一直在寻找带有免费套餐的日志管理。它适用于我的业余项目，因此不需要任何特别花哨的东西。现在我正在使用 BetterStack，因为他们的免费套餐相当慷慨，但仪表板和调试体验令人失望。 我查看了 DataDog - 我觉得你可能会陷入陷阱并实际上支付一大笔钱。 查看了 New Relic - 以前用过，但设置起来有点麻烦 查看了 Sematext - 他们正在停止他们的免费套餐...    提交人    /u/AdequateSource   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu0xsl/decent_log_management_with_free_tiers/</guid>
+      <pubDate>Tue, 01 Oct 2024 22:25:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立一个小型副项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu0ngm/building_a_small_side_project/</link>
+      <description><![CDATA[所以我终于找到了我想在工作时间之外构建并不断改进的东西。 我可以选择使用 Springboot、Nodejs 和 NestJs 作为我的后端，我不想在托管上支付很多费用。 如果您能帮助我了解哪种选择对我的后端更有用，我将非常感激，我将使用免费的 supabase 数据库 (postgresql)    提交人    /u/Several-Box2976   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu0ngm/building_a_small_side_project/</guid>
+      <pubDate>Tue, 01 Oct 2024 22:12:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要相信Envato</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu06wj/do_not_trust_envato/</link>
+      <description><![CDATA[ 他们的评分是假的  他们站在骗子供应商一边，反对真正的客户  他们存在一些深层次的安全问题   我最近在 Envato 上购买了一款产品，遇到了一些问题，这导致我给了它低评分。没关系。这种事经常发生。 然后，有一天，没有任何警告，评分就消失了。非常令人困惑。所以我很不高兴，所以我再次给了非常低的评分。 评分再次被删除，他们指责我要求更高的评分以换取更高的评分（我没有这样做）。我做了一些调查，他们有一个票务申请平台。不知何故，供应商能够代表我创建一个帐户（使用我的电子邮件）并创建一个虚假互动，让我要求更高的评分。  我现在被禁止再次对该项目进行评级，否则我的帐户会被禁止哈哈  不要相信。     提交人    /u/helloworldlalaland   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu06wj/do_not_trust_envato/</guid>
+      <pubDate>Tue, 01 Oct 2024 21:51:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 GoDaddy 设置 MySQL 和 PHP？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ftzsoc/how_to_set_up_mysql_and_php_using_godaddy/</link>
+      <description><![CDATA[我正在使用 GoDaddy，但找不到设置 MySQL/PHP 的方法。我没有使用 Linux 或 cpanel，而是使用 Mac OS。我对这一切都很陌生，需要一些帮助。     提交人    /u/CanooingToTheMoon   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ftzsoc/how_to_set_up_mysql_and_php_using_godaddy/</guid>
+      <pubDate>Tue, 01 Oct 2024 21:35:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找创建论坛的最快方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ftzch6/looking_for_the_fastest_way_to_create_a_forum/</link>
+      <description><![CDATA[大家好， 我一直想建立一个论坛，就像我以前参加过的那些论坛一样。对于那些有创建论坛经验的人来说，什么是最快、最有效的方法来建立一个论坛？ 你会推荐使用带有 bbPress 插件的 WordPress 吗，还是有其他更快、更容易设置的平台？我觉得用现代技术栈从头开始构建一个论坛有点小题大做，但我愿意听取建议（我最熟悉的是 React 和 .NET）。 任何建议都将不胜感激！    提交人    /u/doc_suede   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ftzch6/looking_for_the_fastest_way_to_create_a_forum/</guid>
+      <pubDate>Tue, 01 Oct 2024 21:15:47 GMT</pubDate>
+    </item>
     <item>
       <title>创建一个带有付费墙的网站而不需要用户创建帐户？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ftywui/creating_a_website_with_a_paywall_without/</link>
@@ -34,13 +83,6 @@
       <pubDate>Tue, 01 Oct 2024 19:48:18 GMT</pubDate>
     </item>
     <item>
-      <title>我应该从 python 开始吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftx5ca/should_i_start_with_python/</link>
-      <description><![CDATA[我已经用 Python 开始了我的编程之旅，因为对于像我这样的初学者来说，它易于阅读和理解。我计划将来成为一名 Web 开发人员，但我不确定从这种语言开始是否是成为一名 Web 开发人员的最佳选择。 我是这个领域的新手，所以我可能说了一些可能没有意义的东西。    提交人    /u/fa_25   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftx5ca/should_i_start_with_python/</guid>
-      <pubDate>Tue, 01 Oct 2024 19:44:49 GMT</pubDate>
-    </item>
-    <item>
       <title>Twitter 帖子嵌入 - 需要高级 API 吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ftwfen/twitter_post_embed_require_premium_api/</link>
       <description><![CDATA[大家好，想要显示网页上嵌入的 Twitter URL 列表。  不进行任何过滤或搜索，只想查看推文的详细信息（内容，可能是作者，个人资料图片）。 无法找到有关将它们嵌入网站的限制以及这样做的潜在限制/限制的太多信息 - 以及我是否需要 API 高级计划（100 美元以上）。 有人对此有任何见解吗？以及是否可以在不达到任何读取限制的情况下完成它？    提交人    /u/CallMeShiibbyy   [链接] [评论]]]></description>
@@ -67,48 +109,6 @@
       <description><![CDATA[我已经拥有域名。 对于小型房地产经纪公司来说，选择主机、生态系统或编程语言等的最佳做法是什么？ 需要能够使用 IDX（与多重上市服务集成的方法）。 理想情况下，我想雇人来建立网站，然后每年左右更新一次。 我想确保从正确的设置开始，以便将来的更改不需要完全重新设计。 谢谢！    提交人    /u/just-cruisin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ftspvf/basic_website_for_real_estate_brokerage_questions/</guid>
       <pubDate>Tue, 01 Oct 2024 16:44:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>直接一体化静态网站解决方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fts8zc/straight_forward_all_in_one_static_website/</link>
-      <description><![CDATA[我有几年的开发经验，自然会收到很多朋友的“你能让我……”的问题。其中一些是朋友的合理要求，他们正试图为自己的小型企业建立基本的网络形象。有任何网站建设者推荐吗？还是 wix、wp 和 square space 仍然是起点？ 我希望有一个透明的东西，这样就不会在成本上产生混淆。除了就设置和编辑成本达成协议外，我不打算收取任何费用，但他们将负责平台产生的任何托管和相关费用。 最好是可以设置并忘记的东西。没有什么复杂的，可以处理 3 或 4 页静态站点的东西。    提交人    /u/Cube293   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fts8zc/straight_forward_all_in_one_static_website/</guid>
-      <pubDate>Tue, 01 Oct 2024 16:25:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML 代码审查 | 我是“初级网络编程”班的大学生，我的教授希望我能够在即将开展的工作中真实地掌握网站结构。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftrhd3/html_code_review_im_a_college_student_in_a/</link>
-      <description><![CDATA[如果有人可以从这个 Google Drive 文件夹中查看我的网站 html 文件代码结构，我希望我能看到大家的想法。我打算获得有关在 Visual Studio Code 中形成的所有这些的反馈。我将摘录教授对此作业提交的评论，以便你们可以比较它在经验丰富的眼中是什么样子。这些引文是有序的。 https://drive.google.com/drive/folders/17WL21dNoLbDhI_fWtG3jAdFkpurWBwlL?usp=sharing   &quot;确保在提交 HTML 代码之前始终对其进行验证。您仍然有一个问题，但主标签是一个小问题。&quot;  我只关注了一个指南视频，他介绍了 Visual Studio Code 中脚本的主标签，所以我不喜欢他对我认为准确的内容进行模糊提及的方式。  &quot;此外，您的导航仍然不起作用。&quot;  我需要解释这个特定部分出了什么问题。我的导航区域发生了我无法理解的奇怪变化。当我第一次创建网站时，html 地址中的数字字符串会与我第一次形成两个网站时不同。现在，当实时查看网站时，我看到它们类似“127.0.0.1:5502”但第一次看到一个略有不同的地址，我认为它是相同的，但以“5501”结尾。因此，我的教授告诉我，当地址有时会因某种原因而发生变化时，此地址在 Nav 部分不起作用，因此我为导航放置的任何地址现在都不会解决。我认为这必须基于我与他之间的位置差异，因为该地址看起来像 IP 的结构。  &quot;如果您查看有关如何使用相对路径的视频 [作为我课堂课程之一的指导视频]，该视频应该有助于解决该问题。我相信我演示了如何通过使用文件探索构建网站来检查它是否真正有效。请参考视频寻求帮助。你确实获得了及格分数，但我建议你在进入 [下一章] m3 精通之前进行这些更正。&quot;  在这里，他指的是如何从 Images 文件夹中放置内容。我本想通过一个关于代码中相对路径结构示例的指导视频来学习，但老实说，我完全不知道这两个 html 文件中的路径在他看来有什么问题。如果你们中的任何人都能发现两个文件脚本中相对路径的缺陷，我很想知道。 通过对我的工作进行审查，我希望弄清楚在两个站点的脚本中需要纠正什么，以便最终准备好我的脚本结构，以便为下一个任务做好准备。我不想花太长时间自己弄清楚任何事情，所以当我能从 Reddit 找到一个快速有效的验证时，我决定在这里列出我的所有信息。我希望我能从这篇文章的反馈中知道要适应什么，并基本上看到我的代码中一些重写的​​部分应该是什么样的。谢谢。    提交人    /u/Acanuro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftrhd3/html_code_review_im_a_college_student_in_a/</guid>
-      <pubDate>Tue, 01 Oct 2024 15:53:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能快速工程终极指南：从基础到高级技能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftrcdr/the_ultimate_guide_to_ai_prompt_engineering_from/</link>
-      <description><![CDATA[        由    /u/pcodesdev  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftrcdr/the_ultimate_guide_to_ai_prompt_engineering_from/</guid>
-      <pubDate>Tue, 01 Oct 2024 15:47:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个 66f80066-6a90-9011-8e95-6a5a5b74cdaa 是哪种 ID 格式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftrans/which_id_format_is_this/</link>
-      <description><![CDATA[我最近注意到，openai 聊天链接以前是 UUID，但现在似乎更改为 66f80066-6a90-9011-8e95-6a5a5b74cdaa。好奇想知道这是哪种 ID 格式。    提交人    /u/astar0n   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftrans/which_id_format_is_this/</guid>
-      <pubDate>Tue, 01 Oct 2024 15:45:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>您见过的关于项目的最佳自述文件是？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftqxc6/best_readme_you_saw_of_a_project/</link>
-      <description><![CDATA[对我来说，它是 Catpuccin，让我微笑    提交人    /u/Epi_stol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftqxc6/best_readme_you_saw_of_a_project/</guid>
-      <pubDate>Tue, 01 Oct 2024 15:30:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助将我的本地存储 MERN 堆栈指南针转换为 Mongodb Atlas</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftpl5h/need_help_converting_my_local_storage_mern_stack/</link>
-      <description><![CDATA[首先，我是 Mongodb 的新手。我使用 Mongodb 和我的 React 制作了一个简单的网站，该网站带有登录和注册系统，并保存用户提供的列表并为每个用户单独保存。 我利用 localhost 27017 将数据存储在我的电脑上，并利用 Compass 与数据交互。 现在我想将这个应用程序转移到 Atlas，这样我就不必每次都启动我的 server.js，而只需使用 Atlas 服务来发送数据和检索数据。 我看了一些视频，但那些视频让我比以往更加困惑，而且对我来说不起作用。我该如何切换到 Atlas ？ 请纠正我的假设或推荐任何谈论此问题的视频。 我还使用 localhost:5000 将数据发送到我的项目中的各种集合。 我现在该怎么做？  const mongoose = require(&#39;mongoose&#39;); const connectDB = async () =&gt; { try { await mongoose.connect(&#39;mongodb://localhost:27017/anime-tracker&#39;, { useNewUrlParser: true, useUnifiedTopology: true, }); console.log(&#39;MongoDB 已连接&#39;); } catch (err) { console.error(err.message); process.exit(1); } }; module.exports = connectDB;     提交人    /u/Radiant_Butterfly982   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftpl5h/need_help_converting_my_local_storage_mern_stack/</guid>
-      <pubDate>Tue, 01 Oct 2024 14:34:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
