@@ -3,8 +3,36 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 02 Oct 2024 00:22:10 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Wed, 02 Oct 2024 03:10:16 GMT</lastBuildDate>
+    <item>
+      <title>微前端应该是你的最后手段</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu6n1f/microfrontends_should_be_your_last_resort/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu6n1f/microfrontends_should_be_your_last_resort/</guid>
+      <pubDate>Wed, 02 Oct 2024 03:09:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有访问控制的订阅网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu62f6/subscription_website_with_access_control/</link>
+      <description><![CDATA[我为学生和老师制作了一个生成器工具，我想按月收费出售它。 我计划拥有：  免费模式（假设每月 3 次访问） 受限模式（每月 10 次访问） 无限模式  我为其创建了一个 WordPress 网站，并尝试了不同的插件，如 Memberpress 和 Paid Memberships Pro。 它们都可以“限制”生成器工具所在的页面。但我找不到任何选项来控制访问/月。 有办法吗？ 注意：我不是开发人员，虽然我可以编写一些代码，但不会太多。    提交人    /u/CoolVersion   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu62f6/subscription_website_with_access_control/</guid>
+      <pubDate>Wed, 02 Oct 2024 02:38:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>在您所在的地方，市场更倾向于 c# 还是 python？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu5jgo/in_where_you_live_is_the_market_more_inclined_to/</link>
+      <description><![CDATA[我住在我国人口和财富排名第三的城市。Python 在后端基本上不存在，与 c# 和 java 相比几乎没有工作机会。我认为整个国家都是如此。我想知道世界其他地方的趋势是什么，无论是好奇心还是决策。    提交人    /u/Alarmed_Insect_3171   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu5jgo/in_where_you_live_is_the_market_more_inclined_to/</guid>
+      <pubDate>Wed, 02 Oct 2024 02:11:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>性格测试？将其作为 DnD 活动</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu3vwm/personality_test_make_it_dnd_campaign/</link>
+      <description><![CDATA[      我在 TikTok 上看到了一个 DnD 活动幻灯片，它给了我一个可以玩的想法。我没有回答整个“告诉我你......的时间”在面试中，为了衡量一个人的个性，它将是 DnD 主题。 示例 多个王国希望协作训练一个魔法威胁检测系统，但不共享他们的敏感数据。您将如何为此实施联邦学习系统？ 我创建了一个简单的界面，您可以在其中选择您的角色和性格，然后回答三个问题 - 一种鼓励创造力、跳出框框思考然后获得反馈的方式。 我将它分享到我的开发网络群聊中以获取反馈，我真的很期待他们的认真态度。他们通过搞笑的答案把它变成了玩物，甚至引起了激烈的争论。谁知道将 DnD 和技术问题结合起来会引起如此大的争议？ 😂 https://preview.redd.it/it8kwoqbp8sd1.jpg?width=1384&amp;format=pjpg&amp;auto=webp&amp;s=50da2fc2ddd0e0497a2cdb64648e7a04219983b6 https://preview.redd.it/0rxmdpqbp8sd1.jpg?width=720&amp;format=pjpg&amp;auto=webp&amp;s=6f98194a953a4752eecef8d95ccd3766e421f45f https://preview.redd.it/r3khewqbp8sd1.jpg?width=433&amp;format=pjpg&amp;auto=webp&amp;s=8cc2168e659c95cbdd9ad73324d956a14c526adc 我必须附上一些截图。请随意尝试，分享您的角色和最喜欢的问题。我也非常感谢您对此的反馈。 https://personality-test-gamma.vercel.app/ 愿你的掷骰子永远对你有利！🎲✨    提交人    /u/Long_Complex_4395   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu3vwm/personality_test_make_it_dnd_campaign/</guid>
+      <pubDate>Wed, 02 Oct 2024 00:45:09 GMT</pubDate>
+    </item>
     <item>
       <title>作为一名全栈开发人员，如何提高设计水平的资源？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fu2iu2/resources_for_getting_better_at_design_as_a_full/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我尝试在这里发帖，但被删除了。我想让一些专业人士看看并批评我的网站。有什么好的 subreddits 吗？    提交人    /u/WadieZN   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ftx8e6/best_subreddits_to_ask_for_a_portfolio_feedback/</guid>
       <pubDate>Tue, 01 Oct 2024 19:48:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Twitter 帖子嵌入 - 需要高级 API 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftwfen/twitter_post_embed_require_premium_api/</link>
-      <description><![CDATA[大家好，想要显示网页上嵌入的 Twitter URL 列表。  不进行任何过滤或搜索，只想查看推文的详细信息（内容，可能是作者，个人资料图片）。 无法找到有关将它们嵌入网站的限制以及这样做的潜在限制/限制的太多信息 - 以及我是否需要 API 高级计划（100 美元以上）。 有人对此有任何见解吗？以及是否可以在不达到任何读取限制的情况下完成它？    提交人    /u/CallMeShiibbyy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftwfen/twitter_post_embed_require_premium_api/</guid>
-      <pubDate>Tue, 01 Oct 2024 19:15:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关如何推广我的免费教育网站的建议。有什么建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftv7nl/looking_for_advice_on_how_to_promote_my_free/</link>
-      <description><![CDATA[大家好！我是帕克，父母都是中学老师。我亲眼目睹了教师面临的挑战，尤其是疫情爆发以来学生能力差距不断扩大的情况。为了提供帮助，我开发了一款免费、无广告的数学游戏，该游戏可以适应每个学生的技能水平，培养他们的数学技能和成长心态。无需注册，无需盈利——只是一个支持学生和教师的工具。我目前的挑战是，我不想从这个网站上赚钱，而且作为一名在职大学生，我用于推广的资金也有限。在不花钱做广告的情况下，有什么最好的方法可以宣传并让我的网站出现在老师和学生面前？我将不胜感激任何建议。祝你有美好的一天，提前谢谢你们！    提交人    /u/Offbrandcheeto14   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftv7nl/looking_for_advice_on_how_to_promote_my_free/</guid>
-      <pubDate>Tue, 01 Oct 2024 18:26:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法强制粘贴链接时在 Google 表格中显示哪张图片？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftujwz/is_there_a_way_to_force_which_image_appears_in/</link>
-      <description><![CDATA[当我在 Google 表格中粘贴指向我网站的链接，然后查看该链接的预览时，显示的图像不是 og:image 或任何其他元图像，而只是网站英雄部分中的图像之一。我尝试过其他网站，也是同样的情况，所以这看起来是表格的功能，而不是我的元图像中的错误。 但是，有没有办法指示 Google 表格应该优先选择哪张图片？表格是否有特定的元标记？    提交人    /u/ZeMysticDentifrice   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftujwz/is_there_a_way_to_force_which_image_appears_in/</guid>
-      <pubDate>Tue, 01 Oct 2024 17:59:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>房地产经纪问题基本网站（美国）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftspvf/basic_website_for_real_estate_brokerage_questions/</link>
-      <description><![CDATA[我已经拥有域名。 对于小型房地产经纪公司来说，选择主机、生态系统或编程语言等的最佳做法是什么？ 需要能够使用 IDX（与多重上市服务集成的方法）。 理想情况下，我想雇人来建立网站，然后每年左右更新一次。 我想确保从正确的设置开始，以便将来的更改不需要完全重新设计。 谢谢！    提交人    /u/just-cruisin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftspvf/basic_website_for_real_estate_brokerage_questions/</guid>
-      <pubDate>Tue, 01 Oct 2024 16:44:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
