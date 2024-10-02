@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 02 Oct 2024 03:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 06:08:18 GMT</lastBuildDate>
     <item>
       <title>Tailwind 同步</title>
       <link>https://www.producthunt.com/posts/tailwind-sync</link>
@@ -34,20 +34,6 @@
       <pubDate>Sun, 29 Sep 2024 19:10:50 GMT</pubDate>
     </item>
     <item>
-      <title>构建平台</title>
-      <link>https://www.producthunt.com/posts/buildpad</link>
-      <description><![CDATA[
-打造人们真正想要的产品
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/buildpad</guid>
-      <pubDate>Sat, 28 Sep 2024 05:26:30 GMT</pubDate>
-    </item>
-    <item>
       <title>宁静时刻</title>
       <link>https://www.producthunt.com/posts/serenitymoment</link>
       <description><![CDATA[
@@ -60,20 +46,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/serenitymoment</guid>
       <pubDate>Fri, 27 Sep 2024 20:00:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>路由器</title>
-      <link>https://www.producthunt.com/posts/router-so</link>
-      <description><![CDATA[
-面向开发人员的无头表单处理和潜在客户路由
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/router-so</guid>
-      <pubDate>Fri, 27 Sep 2024 16:20:57 GMT</pubDate>
     </item>
     <item>
       <title>BBC 轨道</title>
@@ -104,6 +76,20 @@
       <pubDate>Thu, 26 Sep 2024 20:08:12 GMT</pubDate>
     </item>
     <item>
+      <title>触觉实验室</title>
+      <link>https://www.producthunt.com/posts/hapticlabs</link>
+      <description><![CDATA[
+设计自定义触觉效果，让您的应用热闹起来
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/hapticlabs</guid>
+      <pubDate>Thu, 26 Sep 2024 16:50:00 GMT</pubDate>
+    </item>
+    <item>
       <title>视频 SDK 3.0</title>
       <link>https://www.producthunt.com/posts/video-sdk-3-0</link>
       <description><![CDATA[
@@ -116,6 +102,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/video-sdk-3-0</guid>
       <pubDate>Wed, 25 Sep 2024 10:10:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>反引述</title>
+      <link>https://www.producthunt.com/posts/antiquoted</link>
+      <description><![CDATA[
+将不同的声音与商业作家和播客联系起来
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/antiquoted</guid>
+      <pubDate>Tue, 24 Sep 2024 11:59:47 GMT</pubDate>
     </item>
     <item>
       <title>坦珀斯塔克</title>
@@ -160,18 +160,18 @@
       <pubDate>Fri, 20 Sep 2024 16:34:25 GMT</pubDate>
     </item>
     <item>
-      <title>适用于 iOS 和 iPadOS 的 UpVPN</title>
-      <link>https://www.producthunt.com/posts/upvpn-for-ios-and-ipados</link>
+      <title>完成</title>
+      <link>https://www.producthunt.com/posts/beedone-3</link>
       <description><![CDATA[
-基于 WireGuard 的现代无服务器 VPN
+AI 生产力应用游戏
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/upvpn-for-ios-and-ipados</guid>
-      <pubDate>Fri, 13 Sep 2024 15:52:10 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/beedone-3</guid>
+      <pubDate>Fri, 20 Sep 2024 08:01:24 GMT</pubDate>
     </item>
     <item>
       <title>馈线板</title>
