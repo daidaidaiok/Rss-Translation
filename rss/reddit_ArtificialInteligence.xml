@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 03 Oct 2024 09:05:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 12:08:18 GMT</lastBuildDate>
+    <item>
+      <title>寻找 Luma Dream Machine 替代品</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fv60qe/looking_for_luma_dream_machine_alternative/</link>
+      <description><![CDATA[因此，我正在寻找一个免费的（luma dream machine）替代品，如果它有无限的生成，那就完美了，但我对每天 100 次生成或 50 次生成感到满意，我想为静止图像制作动画。    提交人    /u/the-sami   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fv60qe/looking_for_luma_dream_machine_alternative/</guid>
+      <pubDate>Thu, 03 Oct 2024 12:01:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 的里程碑式融资：66 亿美元的游戏规则改变者</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fv4tne/openais_landmark_funding_the_66_billion_game/</link>
+      <description><![CDATA[  由    /u/moonbunR  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fv4tne/openais_landmark_funding_the_66_billion_game/</guid>
+      <pubDate>Thu, 03 Oct 2024 10:49:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日总结 AI 研究论文 #36</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fv3qg8/summarising_ai_research_papers_everyday_36/</link>
+      <description><![CDATA[标题：每天总结 AI 研究论文 #36 我每天都会查找和总结有趣的 AI 研究论文，这样您就不必仔细阅读所有论文。今天的论文题为“使用 LLM 的情感丰富嵌入生成情感感知响应”，作者是 Abdur Ra​​sool、Muhammad Irfan Shahzad、Hafsa Aslam 和 Vincent Chan。 本文解决了增强心理治疗应用中使用的大型语言模型 (LLM) 的同理心和语境理解能力的挑战。作者介绍了一种新颖的框架，将最先进的 LLM 与多个情感词典相结合，以在自动聊天机器人辅助治疗期间生成富有同理心和连贯的反应。以下是论文的要点：  情感词典的整合：该框架将 NRC 情感词典、VADER、WordNet 和 SentiWordNet 等情感词典与 LLAMA 2、Flan-T5、ChatGPT 3.0 和 ChatGPT 4.0 等 LLM 结合在一起。这种丰富的方法增强了模型对情感和语义细微差别的理解。 增强的反应生成：通过分割治疗记录和计算情感丰富的嵌入，该框架显着改善了富有同情心和情境适当反应的生成，如实验评估所示。 改进的性能指标：结合情感词典导致 LLM 生成的响应的同理心、连贯性、信息性和流畅性得分显着提高，突出了情感嵌入在增强心理治疗支持方面的关键作用。 权衡和挑战：尽管取得了这些进步，但模型经常面临同理心和连贯性之间的权衡。虽然整合情感词汇可以提高同理心，但连贯性有时会减弱，这表明需要在不同的指标之间进行平衡的改进。 未来方向：该研究表明需要专门针对精神病应用进行模型微调，并鼓励开发更复杂的评估指标，以更好地捕捉情商 AI 系统的细微表现。  您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文   由    /u/steves1189  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fv3qg8/summarising_ai_research_papers_everyday_36/</guid>
+      <pubDate>Thu, 03 Oct 2024 09:29:15 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 获 66 亿美元融资，由微软和 Nvidia 投资者支持</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fv2gzu/openai_lands_66b_in_funding_backed_by_microsoft/</link>
@@ -20,27 +41,6 @@
       <pubDate>Thu, 03 Oct 2024 05:09:18 GMT</pubDate>
     </item>
     <item>
-      <title>我想出售我的 AI Voice Agent Builder 平台</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fuznni/i_wanted_to_sell_my_ai_voice_agent_builder/</link>
-      <description><![CDATA[以下是列出的功能： 主要功能：  人工智能：利用先进的人工智能模型进行智能对话 语音集成：您的客户将使用音频与机器人交谈并解决他们的疑问，就像我们要求专家而不是机器人一样 自然语言处理：理解并以高精度响应语音 多语言支持：以多种语言进行交流 自定义语音过滤器：使用多种过滤器（例如选择人工智能模型等）个性化人工智能助手 后端集成：将您的机器人连接到您的服务器以进行实时问答互动 知识上传：通过上传特定知识的文件来训练机器人 轻松的平台集成：与 Shopify、Next.js 或 HTML 网站无缝集成  如果您有兴趣，请在 dm 中告诉我    提交人    /u/Life-Log-9050   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fuznni/i_wanted_to_sell_my_ai_voice_agent_builder/</guid>
-      <pubDate>Thu, 03 Oct 2024 04:25:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让低沉嗓音的翻唱歌曲听起来好听呢？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fuyx24/how_do_you_make_song_covers_with_a_deep_voice/</link>
-      <description><![CDATA[每当我想让一个声音低沉、单调的角色唱翻唱歌曲时，它听起来都很糟糕、很刺耳。有什么办法可以让他们听起来更好听吗？    提交人    /u/Legitimate-Rip-813   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fuyx24/how_do_you_make_song_covers_with_a_deep_voice/</guid>
-      <pubDate>Thu, 03 Oct 2024 03:41:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有学生使用人工智能做课堂笔记或教科书笔记</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fuyac6/does_any_students_use_ai_for_notes_in_class_or/</link>
-      <description><![CDATA[  由    /u/Automatic_Potato4778  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fuyac6/does_any_students_use_ai_for_notes_in_class_or/</guid>
-      <pubDate>Thu, 03 Oct 2024 03:05:41 GMT</pubDate>
-    </item>
-    <item>
       <title>每日一分钟人工智能新闻 2024 年 10 月 2 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fuwkgz/oneminute_daily_ai_news_1022024/</link>
       <description><![CDATA[ OpenAI 完成交易，估值达 1570 亿美元。[1] 埃森哲 成立新的 Nvidia 业务集团，专注于代理式 AI 的采用。[2] 大学生使用 Meta 的智能眼镜实时对人们进行人肉搜索。[3] 微软 表示，“Copilot” AI 伴侣经过更新，具有情商和对话能力。[4]  来源包括：https://bushaicave.com/2024/10/02/10-2-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
@@ -48,7 +48,7 @@
       <pubDate>Thu, 03 Oct 2024 01:33:39 GMT</pubDate>
     </item>
     <item>
-      <title>需要帮助选择人工智能</title>
+      <title>需要帮助选择 Ai</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fus6tq/need_help_choosing_ai/</link>
       <description><![CDATA[我即将参加一场关于女儿监护权的法庭听证会。我下载了一个文本文件，里面有我们曾经来回发送的所有短信。大约有 250 万个字符。我很好奇是否有产品或应用程序可以让我提取出我们短信中的每一条争论。我想我是在问。有没有什么东西可以提取出来？分析文本并提取某个主题，比如争论？如果有，请告诉我应该使用什么。而且我现在已经很穷了，所以一个免费的选项会很棒。任何帮助都将不胜感激。    提交人    /u/Milhouse2001   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fus6tq/need_help_choosing_ai/</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>人工智能能助力医学进步吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fuk6n1/could_artificial_intelligence_help_medical/</link>
-      <description><![CDATA[人工智能在数据、诊断等方面的医疗保健应用日益广泛。 人工智能能否比人类更聪明，加速医学进步，例如发现基因模式并提出基因编辑疗法。或者，通过对新型化合物进行模拟，人工智能能否比人类更好地提出新药建议？    提交人    /u/sstiel   [link] [评论]]]></description>
+      <description><![CDATA[人工智能在数据、诊断等方面在医疗保健领域的应用日益广泛。 人工智能能否比人类更聪明，并加速医学进步，例如发现基因模式并提出基因编辑疗法。或者，通过对新型化合物进行模拟，人工智能在提出新药物方面是否也能比人类做得更好？    提交人    /u/sstiel   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fuk6n1/could_artificial_intelligence_help_medical/</guid>
       <pubDate>Wed, 02 Oct 2024 16:19:19 GMT</pubDate>
     </item>
