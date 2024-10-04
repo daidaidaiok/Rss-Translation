@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 04 Oct 2024 09:06:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 12:08:11 GMT</lastBuildDate>
+    <item>
+      <title>面部识别 AI Ray-Bans</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvxazq/facial_recognition_ai_raybans/</link>
+      <description><![CDATA[大家觉得怎么样，可怕还是棒极了？ https://x.com/AnhPhuNguyen1/status/1840786336992682409?t=p8RKcucCGsN9wOirc6pWWQ&amp;s=19    提交人    /u/thatodd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvxazq/facial_recognition_ai_raybans/</guid>
+      <pubDate>Fri, 04 Oct 2024 11:54:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>苏诺实验</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvwey2/suno_experiment/</link>
+      <description><![CDATA[大家好。我想知道 Suno 模仿现有歌曲的难易程度如何，因此我进行了一个小实验。我选择了 4 首真实歌曲：（[摇滚] The Warning 的 Hell you call a dream、[sea shanty] Peyton Parrish 的 My mother told me、[西班牙摇滚] Estopa 的 Vino tinto 和 [动力金属] Powerwolf 的 Venom of Venus），并尽我所能指导 Suno 尝试实现类似的结果。我花了 5 代才得到前三首歌曲，在感觉和整体声音方面感觉“接近”的东西，而 Venom of Venus 只用了 3 代。结果如下：  https://suno.com/song/5bf839b7-18a6-4573-8e84-f654aaa32001 https://suno.com/song/31badba3-8538-46d1-986d-860276e21edc https://suno.com/song/2c96009e-d90c-4b8d-8c8e-5af0d6c42bd4 https://suno.com/song/9922ffe1-4eaa-4525-af07-786c8f03c928  对于那些不了解 Suno 的人来说，它是一个可以让人创作歌曲的人工智能。您可以给出关于流派、歌手性别、声音类型、乐器、应该唤起的感觉的指示......您还可以添加带有括号中指示的自定义歌词。例如：[verse 1]、[chorus]、[slow]... 如果您从未听过任何歌曲，我希望您先听听 AI，然后将真歌与假歌进行比较。我有几个观察结果：AI 似乎很难添加没有乐器的部分，只是唱歌，它有时也很难获得歌曲给人的“感觉”（当然，这些都是复杂的歌曲。我故意这样做的），它在口音方面很吃力：我以为 Vino tinto 会很难模仿，因为是西班牙语，但实际上最终无法模仿的是这首歌的“安达卢西亚风味”。我自己就是安达卢西亚人，甚至尝试重写歌词并向 AI 发出指令都很难获得那种“情趣”，我计划对英语口音进行更多调查（苏格兰、澳大利亚、英国、爱尔兰……）。 免责声明：我做这个实验是为了以一种有趣的方式来测试 AI，而不是为了自己赚钱，用 AI 抄袭艺术家的行为侵犯了版权，任何人都不应该这样做。这就是为什么这些歌曲永远不会在 Suno 的网站上公开，而只会作为这个小实验的汇编在这里分享，我计划在某个时间再次做这个小实验，也许会有更多的知识。 欢迎任何意见、想法、批评、投诉、添加或减法。    提交人    /u/Avocado_Fucker12   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvwey2/suno_experiment/</guid>
+      <pubDate>Fri, 04 Oct 2024 11:00:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以在 PC 上直接使用无需订阅的 AI 图像或视频生成工具吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvwe0p/ai_image_or_video_generating_tools_with_no/</link>
+      <description><![CDATA[有没有类似 Adob​​e After Effects 的东西，比如你可以购买、下载并直接在 PC 上使用的实际程序？我尝试过 Stable Diffusion，但它太混乱、太复杂、漏洞百出。我尝试过这些在线生成器工具，但它们似乎都有掠夺性的定价行为，比如我不会每月支付 20 欧元来摆弄一些 AI 艺术作品。有没有类似 Stable Diffusion 的东西，但更好？    提交人    /u/190cm_Lietuvis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvwe0p/ai_image_or_video_generating_tools_with_no/</guid>
+      <pubDate>Fri, 04 Oct 2024 10:59:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>◇~关于人工智能聊天机器人的调查~◇</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvwckb/survey_on_ai_chatbot/</link>
+      <description><![CDATA[(马来西亚) 大家好！我叫 Daniel Cheok，是诺丁汉大学马来西亚分校的一名大四学生，正在为我的最终项目做准备。我相信你们都熟悉角色聊天机器人，我主要向马来西亚人或目前在马来西亚的人呼吁，因为我正在为我的研究项目探索这一点，如果您能提供意见，马来西亚人是否使用过或听说过这些服务，我将不胜感激。这可能是一项研究，研究角色聊天机器人在东南亚的影响（因为大多数研究都是在西方样本/人口统计中进行的）您的回复将帮助我决定是否可以继续这个主题。匿名表格只需不到 3 分钟即可填写，因此任何帮助都将不胜感激！ https://forms.gle/dtNWMU3QAZVcHQyq5 感谢您的合作    提交人    /u/platypus_fetus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvwckb/survey_on_ai_chatbot/</guid>
+      <pubDate>Fri, 04 Oct 2024 10:56:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>公司治理中的人工智能辩论：需要杀手锏！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvw4nd/debate_on_ai_in_corporate_governance_need_killer/</link>
+      <description><![CDATA[我正在准备一场辩论比赛，需要一些帮助。主题是公司治理中的人工智能：挑战和机遇，我站在挑战一边。 有人有一些精彩的观点或问题可以向对方提出吗？我很想听听你的想法或你能想到的任何有力论据！ 让我知道你有什么！    提交人    /u/Electronic-Tailor416   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvw4nd/debate_on_ai_in_corporate_governance_need_killer/</guid>
+      <pubDate>Fri, 04 Oct 2024 10:42:11 GMT</pubDate>
+    </item>
     <item>
       <title>我如何利用书本知识和人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvui32/how_i_actually_make_use_of_my_book_knowledge_with/</link>
@@ -34,27 +69,6 @@
       <pubDate>Fri, 04 Oct 2024 07:31:59 GMT</pubDate>
     </item>
     <item>
-      <title>从头开始创建大型语言模型 (LLM)</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvt13a/create_a_large_language_model_llm_from_scratch/</link>
-      <description><![CDATA[了解如何从头开始创建自己的 LLM。本文将引导您完成所需的高级步骤、所需的工具以及在此过程中需要注意的事项：https://ai.plainenglish.io/how-to-create-a-large-language-model-llm-from-scratch-68dbf1ea7409    提交人    /u/TheLostWanderer47   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvt13a/create_a_large_language_model_llm_from_scratch/</guid>
-      <pubDate>Fri, 04 Oct 2024 06:48:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何免费的 AI 专业头像生成器吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvsogl/any_free_ai_professional_headshot_generators/</link>
-      <description><![CDATA[除了 Stable Diffusion，我找不到任何免费的头像生成器。虽然我知道人们想要赚钱，但现在肯定应该有某种解决方法，对吧？我正在寻找可以编辑我已有的专业照片的东西。 也许不是生成全新照片的东西，而是修饰一些功能。    提交人    /u/kingvt   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvsogl/any_free_ai_professional_headshot_generators/</guid>
-      <pubDate>Fri, 04 Oct 2024 06:22:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究/使用 AI 工具的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvpxhd/what_are_your_best_methods_in_studyingusing_ai/</link>
-      <description><![CDATA[我只是想看看大家学习时都用了什么类型的 AI 工具，这样我就可以把它们添加到我的列表中。只是想好好度过这个学期，哈哈。很想听听你的建议/经验。    提交人    /u/ebbflowww   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvpxhd/what_are_your_best_methods_in_studyingusing_ai/</guid>
-      <pubDate>Fri, 04 Oct 2024 03:25:13 GMT</pubDate>
-    </item>
-    <item>
       <title>哪个免费的 AI 聊天提供最准确的信息？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvoe94/which_free_ai_chat_provides_the_most_accurate/</link>
       <description><![CDATA[我主要喜欢问汽车维修问题，以及类似的需要准确性的话题。 使用过谷歌 ai、meta 和 chatgpt。但哪一个最有可能提供最准确的最新信息？ 不打算花钱买一个，因为我用的不多，不值得。    提交人    /u/lushlover92   [link] [评论]]]></description>
@@ -76,13 +90,6 @@
       <pubDate>Thu, 03 Oct 2024 19:47:06 GMT</pubDate>
     </item>
     <item>
-      <title>生活中的人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvdp8g/ai_in_your_life/</link>
-      <description><![CDATA[您在日常生活中使用并改变了您生活的人工智能主要有哪些？无论您是学生、工作者、企业家等...例如，您使用 Perplexity 代替 Google，或使用 NotebookLM 进行学习等...    提交人    /u/FraV02   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvdp8g/ai_in_your_life/</guid>
-      <pubDate>Thu, 03 Oct 2024 17:50:21 GMT</pubDate>
-    </item>
-    <item>
       <title>您每天使用哪些 LLM 支持的产品超过 2 次？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvd4kh/which_llm_powered_products_do_you_use_2x_per_day/</link>
       <description><![CDATA[哪些 LLM 或“现代 AI”（扩散模型、耳语、Claude/GPT/Gemini）驱动的产品您每天使用&gt;2 次，并且至少在过去几周内每天使用&gt;2 次？ 对我来说：  ChatGPT Claude Perplexity 各种 Whisper 转录工具，用于文本转语音或转录 mp3  NotebookLM 很酷，但不是日常使用。Suno 和 Midjourney 很酷，但不是日常使用。 除非您在开发产品之外真正每天使用它&gt;2 次，否则请不要推销自己的产品。   由    /u/TikkunCreation  提交  [链接] [评论]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/moonbunR  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fv4tne/openais_landmark_funding_the_66_billion_game/</guid>
       <pubDate>Thu, 03 Oct 2024 10:49:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
-      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解 subreddit 的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
-      <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
