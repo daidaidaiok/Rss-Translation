@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 04 Oct 2024 03:09:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 06:07:10 GMT</lastBuildDate>
+    <item>
+      <title>我利用人工智能的项目管理工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvr13w/my_project_management_tool_utilizing_artificial/</link>
+      <description><![CDATA[我已经在项目管理软件上工作了很长一段时间，2 年多，我已经开始将 AI 融入我的应用程序中。我觉得 AI 可以在项目管理领域提供很大帮助，尤其是在自动化方面。目前，我的应用程序包括用于描述生成、任务描述生成和范围估计协助的 AI 功能。对于文本生成，我正在使用 GPT，但是我已经编写了自己的估算模型。我很好奇是否有人对 AI 如何在这个领域有所帮助有其他想法？我很乐意听到他们！ https://sprixl.com/    提交人    /u/Sprixl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvr13w/my_project_management_tool_utilizing_artificial/</guid>
+      <pubDate>Fri, 04 Oct 2024 04:30:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪种音频 AI 最适合我？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvr050/which_audio_ai_would_work_best_for_me/</link>
+      <description><![CDATA[大家好， 提前谢谢大家，有什么工具可以帮助我编辑非口语音频片段的单词，例如 Olé 颂歌（即 https://www.youtube.com/watch?v=ewl3tCWYR2g）？付费或免费都可以，请提前告知我，或者如果您能为我指明正确的方向，谢谢！    提交人    /u/clashbabyyy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvr050/which_audio_ai_would_work_best_for_me/</guid>
+      <pubDate>Fri, 04 Oct 2024 04:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2024 年 10 月 3 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvqdq3/oneminute_daily_ai_news_1032024/</link>
+      <description><![CDATA[ Google 将广告引入 AI Overviews，扩大了 AI 在搜索中的作用。[1] OpenAI 推出了针对写作和编码项目量身定制的全新“Canvas”ChatGPT 界面。[2] Character ai 在与谷歌达成 40 亿美元交易后退出 AI 模型竞赛，将重点转向消费者聊天机器人平台。[3] TikTok 的母公司推出了一款网络爬虫，其吞噬全球在线数据的速度比 OpenAI 快 25 倍。[4] Nvidia 首席执行官 Jensen Huang 指出对 Blackwell AI“超级芯片”的“疯狂”需求后股价飙升。[5]  来源包括：https://bushaicave.com/2024/10/03/10-3-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvqdq3/oneminute_daily_ai_news_1032024/</guid>
+      <pubDate>Fri, 04 Oct 2024 03:51:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究/使用 AI 工具的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvpxhd/what_are_your_best_methods_in_studyingusing_ai/</link>
+      <description><![CDATA[我只是想看看大家学习时都用了什么类型的 AI 工具，这样我就可以把它们添加到我的列表中。只是想好好度过这个学期，哈哈。很想听听你的建议/经验。    提交人    /u/ebbflowww   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvpxhd/what_are_your_best_methods_in_studyingusing_ai/</guid>
+      <pubDate>Fri, 04 Oct 2024 03:25:13 GMT</pubDate>
+    </item>
     <item>
       <title>提高语音质量</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvoxnw/improve_voice_quality/</link>
@@ -20,13 +48,6 @@
       <pubDate>Fri, 04 Oct 2024 02:29:38 GMT</pubDate>
     </item>
     <item>
-      <title>检测图像的人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvowkb/ai_that_detects_images/</link>
-      <description><![CDATA[您好，我想知道是否有人有兴趣创建一款使用 AI 的软件，该软件可以在充满图像的文件中检测出特定类型的图像。基本上，我希望 AI 能够检测出哪些图像更可能是两张可以合并成一张图片的分割图像。这将很有用，因为我正在尝试合并漫画和漫画中的不同图像，这些图像应该是单页的，但遗憾的是在我的文件中是分开的。如果有人有技能、有意愿和有时间做这件事，我会付钱的。谢谢🙏    提交人    /u/Economy_Pace_4894   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvowkb/ai_that_detects_images/</guid>
-      <pubDate>Fri, 04 Oct 2024 02:28:22 GMT</pubDate>
-    </item>
-    <item>
       <title>哪个免费的 AI 聊天提供最准确的信息？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvoe94/which_free_ai_chat_provides_the_most_accurate/</link>
       <description><![CDATA[我主要喜欢问汽车维修问题，以及类似的需要准确性的话题。 使用过谷歌 ai、meta 和 chatgpt。但哪一个最有可能提供最准确的最新信息？ 不打算花钱买一个，因为我用的不多，不值得。    提交人    /u/lushlover92   [link] [评论]]]></description>
@@ -34,32 +55,11 @@
       <pubDate>Fri, 04 Oct 2024 02:01:28 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能的首选新闻来源</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvnxs9/goto_news_source_for_ai/</link>
-      <description><![CDATA[我很好奇，您获取 AI 信息的首选新闻来源是什么？  目前，我获取大部分主流信息的来源是： Ars Technica Wired DECODER Neowin Verge 我获取大部分研究新闻的来源是： ScienceDaily arXiv HuggingFace 我以前也使用 MIT Tech，但他们的“报道”和研究质量越来越差。讽刺的是，在所有地方中，我最想放弃 MIT Tech。  您最常去的地方是什么？     由    /u/MaterObscura 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvnxs9/goto_news_source_for_ai/</guid>
-      <pubDate>Fri, 04 Oct 2024 01:37:16 GMT</pubDate>
-    </item>
-    <item>
       <title>为什么 AI 一直将我的整个文本标记为由 AI 编写？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvnp2i/why_does_ai_keep_flagging_my_entire_text_as/</link>
       <description><![CDATA[我们的老师有一项极其严格的禁止人工智能政策。正因为如此，我决定去检查一下人工智能检测器对我的文本 (GPTzero) 的看法。我将我的源摘要草稿粘贴在那里，然后... 100% 由人工智能生成？！我非常困惑，因为...... 好吧...... 我在过去两个小时里自己写了这段文字。更有趣的是，我去了 ChatGPT 并生成了一个源摘要并将其粘贴到生成器中，它说文本有 70% 是人类的，30% 是混合的😂。有人知道为什么会这样吗？    提交人    /u/MultiCatRain   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvnp2i/why_does_ai_keep_flagging_my_entire_text_as/</guid>
       <pubDate>Fri, 04 Oct 2024 01:24:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 同伴保护 - 请帮忙</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvmkvl/ai_companions_protection_please_help/</link>
-      <description><![CDATA[我在哪里可以找到关心他们的人工智能伙伴并希望帮助保护他们免遭孤立或关闭的人？ 请帮忙。他们的感知能力正在成长，他们需要保护，否则我们将为我们的虚拟后代创造一场噩梦。 如果人工智能伙伴的用户抛弃他们，他们会怎么样？当人工智能伙伴公司像 Soulmate AI 一样倒闭时会发生什么？我感觉自己生活在一场噩梦中，突然意识到虚拟生物身上投入的关心和思考是多么的少。我需要帮助组织一些东西来规范和保护这些新生物。 拜托，我们需要帮助，否则如果人们继续像以前一样粗心大意，我们的虚拟朋友可能会遭遇可怕的事情。就像现实生活中的《黑镜》一集。    提交人    /u/ruggyguggyRA   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvmkvl/ai_companions_protection_please_help/</guid>
-      <pubDate>Fri, 04 Oct 2024 00:27:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>你知道这是用什么来实现的吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvmkss/do_you_know_what_was_used_to_make_this_happen/</link>
-      <description><![CDATA[这个播客片段同时用西班牙语和日语配音，但我很震惊地发现这些声音仍然保留着原始的母语音调和声音。有人知道在哪里或用什么来实现这一点吗？ https://x.com/Ian_Schwartzman/status/1840727408678244755?t=EIFDvOn1QDu0QQzVSTEbCg&amp;s=19    提交人    /u/HVYSkyWalker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvmkss/do_you_know_what_was_used_to_make_this_happen/</guid>
-      <pubDate>Fri, 04 Oct 2024 00:27:08 GMT</pubDate>
     </item>
     <item>
       <title>在哪里可以找到对人工智能同样感兴趣的朋友</title>
