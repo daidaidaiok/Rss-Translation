@@ -4,7 +4,7 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Fri, 04 Oct 2024 18:08:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 21:07:18 GMT</lastBuildDate>
     <item>
       <title>他们试图阻止我成为一名独立黑客</title>
       <link>https://feed.indiehackers.world/post/83b9dec313</link>
@@ -19,6 +19,14 @@ Insight Pipeline 帮助独立黑客与用户交流，以便他们了解客户的
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/83b9dec313</guid>
       <pubDate>Fri, 04 Oct 2024 10:11:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求家长共同开发一款幼儿教育应用程序</title>
+      <link>https://feed.indiehackers.world/post/8ec30c202d</link>
+      <description><![CDATA[即使您对共同创立不感兴趣，我也很乐意听取您对我的 V1 的建议和反馈。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/8ec30c202d</guid>
+      <pubDate>Thu, 03 Oct 2024 03:01:22 GMT</pubDate>
     </item>
     <item>
       <title>我在 31 天内每天开发并发布一款 iPhone 应用的历程</title>
@@ -59,9 +67,9 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Mon, 30 Sep 2024 14:06:40 GMT</pubDate>
     </item>
     <item>
-      <title>你需要停止相信的关于创建 TikTok 克隆版的 5 个神话</title>
+      <title>你需要停止相信的关于创建 TikTok 克隆版的 5 个谣言</title>
       <link>https://feed.indiehackers.world/post/95ec98c3b6</link>
-      <description><![CDATA[通过消除这些误解，您可以以清晰的思维方式、战略眼光和对创新的关注来开展您的 TikTok 克隆项目。准备好留下自己的印记吧！
+      <description><![CDATA[通过消除这些误解，您可以以清晰的思维方式、战略眼光和对创新的关注来开展 TikTok 克隆项目。准备好留下自己的印记吧！
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/95ec98c3b6</guid>
       <pubDate>Mon, 30 Sep 2024 12:52:15 GMT</pubDate>
@@ -165,15 +173,6 @@ Discord Indiehackers Chat广告此处]]></description>
 Discord Indiehackers Chat广告 这里]]></description>
       <guid>https://feed.indiehackers.world/post/ba41e477ed</guid>
       <pubDate>Fri, 27 Sep 2024 16:32:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>新鲜事：创始人对“公共建筑”失去信心</title>
-      <link>https://feed.indiehackers.world/post/d55cc37319</link>
-      <description><![CDATA[此外，您可以提交一个部分，以便我们将其纳入未来的新闻通讯中。
-特别感谢 Jay Avery 编辑本期内容、Gabriella Federico 提供插图以及 Stephen Flanders、Darko Gjorgjievski 和 James Fleischmann 贡献帖子。—_Channing_
-Discord Indiehackers Chat广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/d55cc37319</guid>
-      <pubDate>Fri, 27 Sep 2024 14:24:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
