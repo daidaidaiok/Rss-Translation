@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sat, 05 Oct 2024 21:07:05 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 06 Oct 2024 00:24:12 GMT</lastBuildDate>
+    <item>
+      <title>我制作的新 VSCode 扩展：LeoJS（Leo Outline Editor 的 Typescript 实现）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fx30r6/new_vscode_extension_i_made_leojs_typescript/</link>
+      <description><![CDATA[        由    /u/boltex   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fx30r6/new_vscode_extension_i_made_leojs_typescript/</guid>
+      <pubDate>Sat, 05 Oct 2024 23:16:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要主页的灵感和提示</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fx0tgc/need_inspiration_and_tips_for_homepage/</link>
+      <description><![CDATA[      我是一名优秀的后端开发人员，前端我可以做，但问题是我没有丰富的经验和良好的艺术感。我已经在网站中添加了很多东西，但甚至不知道如何在我的首页上正确展示这些东西。 为了方便起见，当前网站围绕 Pokemon Go 展开，并支持以下功能：  跟踪您捕获的 Pokemon 以及您希望拥有的 Pokemon 您可以查看其他用户的 Pokemon（他们拥有什么以及他们需要什么）并通过消息向他们提供交易 您可以对此进行截图，作为您的 Pokemon 库存/愿望清单，以便将其发布在 reddit、facebook 等不同平台上 您可以找到大量的训练师代码列表，这些代码基本上是需要更多朋友的人的 ID  我看过 dribble 和很多网站，但仍然无法弄清楚应该如何呈现这些功能并让人们轻松访问。 这是网站链接：pogotrades.com 我会添加更多内容，但我想在主页上展示即将推出的功能并不好，但您可能会有不同意见，这没关系。如果有人向我推荐，我也可以在主页上添加。我只是不知道如何以得体的方式将所有这些内容放在我的主页上。我的艺术感最差，因此非常欢迎所有建议！提前感谢大家。 https://preview.redd.it/rwk9sb2h90td1.png?width=1826&amp;format=png&amp;auto=webp&amp;s=1b144783b20cb6f6eeacf834dda140879a5a72d7 上面的图片是我的首页，它有一张最喜欢的口袋妖怪的浮动卡片。下面是两个随机人物的 Pokemon 轮播，由他们的愿望清单和库存分隔开。    提交人    /u/AndayWalaBurger1   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fx0tgc/need_inspiration_and_tips_for_homepage/</guid>
+      <pubDate>Sat, 05 Oct 2024 21:27:47 GMT</pubDate>
+    </item>
     <item>
       <title>不是 Wordpress 的博客 CMS？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fwzxlj/blog_cms_thats_not_wordpress/</link>
@@ -71,7 +85,7 @@
     <item>
       <title>使用 Stripe 实现终身订阅并提供免费试用的标准方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fwxmt4/whats_the_standard_way_to_implement_a_lifetime/</link>
-      <description><![CDATA[看来这并不是 Stripe 真正提供的功能，而且我发现的所有解决方案似乎都很老套。 我发现最好的方法是创建一个订阅，并在试用期结束时成功付款后取消它，同时仍允许用户访问该应用程序。 有没有更好的方法可以做到这一点？ 我已经问过人工智能模型了，所以我对人类的回答很感兴趣。    提交人    /u/inglandation   [链接] [评论]]]></description>
+      <description><![CDATA[这似乎并不是 Stripe 真正提供的功能，而且我发现的所有解决方案似乎都很老套。 我发现最好的方法是创建一个订阅，并在试用期结束时在付款成功后取消它，同时仍然允许用户访问该应用程序。 有没有更好的方法可以做到这一点？ 我已经问过人工智能模型了，所以我对人类的回答很感兴趣。    提交人    /u/inglandation   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fwxmt4/whats_the_standard_way_to_implement_a_lifetime/</guid>
       <pubDate>Sat, 05 Oct 2024 19:00:51 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[        由    /u/dimden 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fwvnht/ultimatews_a_much_times_faster_ws_server_module/</guid>
       <pubDate>Sat, 05 Oct 2024 17:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>您离不开哪些前端包？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fwvbzb/what_are_frontendpackages_you_cant_live_without/</link>
-      <description><![CDATA[受我在工作场所建立全新前端工作流程的启发，您最喜欢的前端包是什么？ 我（作为 Vue 开发人员）的选择是 VueUse，它可以使几乎所有东西都具有响应性，Pinia 用于状态管理，以及 TailwindUI（不是一个包，但我认为它算数），因为我们有时可以偷懒。    提交人    /u/dannypas00   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fwvbzb/what_are_frontendpackages_you_cant_live_without/</guid>
-      <pubDate>Sat, 05 Oct 2024 17:15:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[周六秀] 协作式计算机视觉数据集平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fwv7z1/show_off_saturday_a_collaborative_computer_vision/</link>
-      <description><![CDATA[        提交人    /u/DiddlyDinq   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fwv7z1/show_off_saturday_a_collaborative_computer_vision/</guid>
-      <pubDate>Sat, 05 Oct 2024 17:10:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
