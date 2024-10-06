@@ -4,13 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 06 Oct 2024 18:06:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 21:05:45 GMT</lastBuildDate>
     <item>
-      <title>我需要帮助从 Ajax 向 DB 表插入行或不确定是否应该通过后端？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fxm08p/i_need_help_inserting_row_to_db_table_from_ajax/</link>
-      <description><![CDATA[  由    /u/Ok_Category4860  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fxm08p/i_need_help_inserting_row_to_db_table_from_ajax/</guid>
-      <pubDate>Sun, 06 Oct 2024 17:35:40 GMT</pubDate>
+      <title>学习 NumPy、Pandas 和 Matplotlib 的最佳免费资源</title>
+      <link>https://www.reddit.com/r/programming/comments/1fxqh9g/the_best_free_resources_to_learn_numpy_pandas_and/</link>
+      <description><![CDATA[  由    /u/Soul__Reaper_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fxqh9g/the_best_free_resources_to_learn_numpy_pandas_and/</guid>
+      <pubDate>Sun, 06 Oct 2024 20:47:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>机器学习的终极初学者路线图</title>
+      <link>https://www.reddit.com/r/programming/comments/1fxqg3i/the_ultimate_beginner_roadmap_to_machine_learning/</link>
+      <description><![CDATA[  由    /u/Soul__Reaper_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fxqg3i/the_ultimate_beginner_roadmap_to_machine_learning/</guid>
+      <pubDate>Sun, 06 Oct 2024 20:46:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>它会缩小吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fxpeiy/does_it_scale_down/</link>
+      <description><![CDATA[  由    /u/klaasvanschelven  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fxpeiy/does_it_scale_down/</guid>
+      <pubDate>Sun, 06 Oct 2024 20:01:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 HTMX 增强客户端</title>
+      <link>https://www.reddit.com/r/programming/comments/1fxmwq6/augmenting_the_client_with_htmx/</link>
+      <description><![CDATA[  由    /u/nfrankel  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fxmwq6/augmenting_the_client_with_htmx/</guid>
+      <pubDate>Sun, 06 Oct 2024 18:14:34 GMT</pubDate>
     </item>
     <item>
       <title>本周的 JavaScript 新闻：VoidZero 的统一 JavaScript 工具链、新的 ESLint 功能、MongoDB 8.0 等。</title>
@@ -27,13 +48,6 @@
       <pubDate>Sun, 06 Oct 2024 17:20:28 GMT</pubDate>
     </item>
     <item>
-      <title>开发者的 Netflix</title>
-      <link>https://www.reddit.com/r/programming/comments/1fxkyig/the_netflix_of_developers/</link>
-      <description><![CDATA[我最近偶然发现了这个 YouTube 频道，他们有一些关于编程语言起源的精彩纪录片，例如 Node.js 和 Ruby on Rails、React.js 等。令我惊讶的是，视频质量非常棒！您可能会认为这是付费流媒体平台上的一部高预算电影。所以，如果您还没有看过，我强烈建议您这样做！    提交人    /u/True-Great   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fxkyig/the_netflix_of_developers/</guid>
-      <pubDate>Sun, 06 Oct 2024 16:50:50 GMT</pubDate>
-    </item>
-    <item>
       <title>HTTP 服务器如何确定 Content-Length？</title>
       <link>https://www.reddit.com/r/programming/comments/1fxkxtb/how_do_http_servers_figure_out_contentlength/</link>
       <description><![CDATA[  由    /u/despacit0_  提交  [链接] [评论]]]></description>
@@ -48,25 +62,11 @@
       <pubDate>Sun, 06 Oct 2024 16:45:52 GMT</pubDate>
     </item>
     <item>
-      <title>告诉 GPT 它可以抓取我的 -</title>
-      <link>https://www.reddit.com/r/programming/comments/1fxkm1t/tell_gpt_it_can_scrape_my/</link>
-      <description><![CDATA[  由    /u/odd_sherlock  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fxkm1t/tell_gpt_it_can_scrape_my/</guid>
-      <pubDate>Sun, 06 Oct 2024 16:35:32 GMT</pubDate>
-    </item>
-    <item>
       <title>服务器上的 React 不是 PHP</title>
       <link>https://www.reddit.com/r/programming/comments/1fxkkgj/react_on_the_server_is_not_php/</link>
       <description><![CDATA[  由    /u/Grannen  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fxkkgj/react_on_the_server_is_not_php/</guid>
       <pubDate>Sun, 06 Oct 2024 16:33:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的软件工程师如何编写技术设计</title>
-      <link>https://www.reddit.com/r/programming/comments/1fxjkla/how_the_best_software_engineers_write_technical/</link>
-      <description><![CDATA[  由    /u/erFrankie99  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fxjkla/how_the_best_software_engineers_write_technical/</guid>
-      <pubDate>Sun, 06 Oct 2024 15:50:18 GMT</pubDate>
     </item>
     <item>
       <title>可靠性的平衡</title>
