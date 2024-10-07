@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 07 Oct 2024 00:22:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 03:12:25 GMT</lastBuildDate>
+    <item>
+      <title>截图工具像 PicPick 一样在编辑器中带有相同的多文件选项卡导航吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1fxwa69/screenshot_tool_like_picpick_with_same_multifile/</link>
+      <description><![CDATA[我不喜欢 PicPick，因为它是一款在您不使用时使用第四高平均背景 CPU 的应用程序（仅次于 Defender 和 Edge 浏览器等程序）。但是，我尝试了 ShareX、Greenshot、Zight 等，它们在处理在编辑器中打开的多个屏幕截图方面都很差劲。PicPick 对编辑器中打开的所有屏幕截图使用选项卡结构，就像 Adob​​e Photoshop 一样。ShareX，每个捕获都在自己单独的编辑器实例中。很多时候，我进行的编辑涉及快速复制编辑多个屏幕截图并组合来自不同屏幕截图的元素。PicPick 的编辑器就像一个简化的 Photoshop，做这些要容易得多。但它*一直*使用 0.3-0.5% 的 CPU，而其他编辑器在不使用时不占用 CPU，或者至少占用 0.1% 或更少。这听起来似乎不多，但在笔记本电脑上，平均使用 0.4% 的东西会持续缩短电池寿命。    提交人    /u/BeingBalanced   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fxwa69/screenshot_tool_like_picpick_with_same_multifile/</guid>
+      <pubDate>Mon, 07 Oct 2024 01:29:46 GMT</pubDate>
+    </item>
     <item>
       <title>GUI git 应用程序（GitKraken、Tower 等）的功能集与 Lazygit 和 Magit 等 TUI 相比如何？</title>
       <link>https://www.reddit.com/r/software/comments/1fxuwoo/how_do_the_feature_sets_gui_git_apps_gitkraken/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我以为很容易找到，但四处寻找后我什么也没找到 我正在寻找一种软件，可以根据第一次点击后的时间长短来停止第二次点击 （我知道这很可能是开关的问题，我最终必须更换它们，但现在我想尝试用软件修复它）    提交人    /u/Happy-Magazine-69   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fxbvs5/does_anyone_know_of_a_software_that_can_fix_a/</guid>
       <pubDate>Sun, 06 Oct 2024 08:26:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>程序用于判断一个目录中是否存在与另一个目录相比不存在的文件。</title>
-      <link>https://www.reddit.com/r/software/comments/1fxb7pb/program_to_tell_if_there_any_files_are_not/</link>
-      <description><![CDATA[我不知道是否有任何类型的重复查找器（如果这是适合此处使用的软件）具有此类功能，但我正在寻找一种在 Windows 上扫描两个目录中的文件的方法，然后报告一个文件夹中存在但不在另一个文件夹中的任何文件，但基于 CRC/Hash/文件名以外的其他内容。我试图合并一些我知道 99% 相同的数据，但有少量随机文件存在于一个文件夹中而不存在于另一个文件夹中，但我知道所有文件名不幸都不同。  例如文件夹 1 包含文件“File1”、“File2”和“File3”，文件夹 2 包含文件“FileA”、“FileB”和“FileC”。 File1 和 FileA 具有相同的数据，File2 和 FileB 也是如此，但 FileC 的数据与 File3 或文件夹 1 中的任何其他文件的数据都不匹配。    提交人    /u/Cyber​​_Akuma   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fxb7pb/program_to_tell_if_there_any_files_are_not/</guid>
-      <pubDate>Sun, 06 Oct 2024 07:35:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
