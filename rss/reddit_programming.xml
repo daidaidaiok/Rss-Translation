@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 07 Oct 2024 21:06:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 00:21:42 GMT</lastBuildDate>
+    <item>
+      <title>人工智能会说，‘如果我能更快地编写代码、犯更少的错误，并且还有时间嘲笑你们是多么过时，为什么还要雇佣人类呢！’🤖💻😂</title>
+      <link>https://www.reddit.com/r/programming/comments/1fymlhd/ai_be_like_why_hire_humans_when_i_can_write_code/</link>
+      <description><![CDATA[  由    /u/GenTube0  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fymlhd/ai_be_like_why_hire_humans_when_i_can_write_code/</guid>
+      <pubDate>Tue, 08 Oct 2024 00:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个 IP 地址 API，我需要您的意见，我应该添加哪些数据字段？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fymfj7/i_created_a_ip_address_api_and_i_need_your/</link>
+      <description><![CDATA[  由    /u/incolumitas  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fymfj7/i_created_a_ip_address_api_and_i_need_your/</guid>
+      <pubDate>Mon, 07 Oct 2024 23:54:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是基础设施即数据？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fyjau0/what_is_infrastructure_as_data/</link>
+      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fyjau0/what_is_infrastructure_as_data/</guid>
+      <pubDate>Mon, 07 Oct 2024 21:33:15 GMT</pubDate>
+    </item>
     <item>
       <title>Dependy：我在 Flutter 中的第一个包</title>
       <link>https://www.reddit.com/r/programming/comments/1fyhv1s/dependy_my_first_package_in_flutter/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/kirshiyin  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fyackm/mastering_helm_from_scratch_part_2_the_essentials/</guid>
       <pubDate>Mon, 07 Oct 2024 15:25:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Astro 中向 Rehype 添加 UML 图表</title>
-      <link>https://www.reddit.com/r/programming/comments/1fy8t54/adding_uml_diagrams_to_rehype_in_astro/</link>
-      <description><![CDATA[  由    /u/david-teather  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fy8t54/adding_uml_diagrams_to_rehype_in_astro/</guid>
-      <pubDate>Mon, 07 Oct 2024 14:20:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>队列、流、作业和工作流实用指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1fy6xih/a_practical_guide_to_queues_streams_jobs_and/</link>
-      <description><![CDATA[  由    /u/my_dev_acc  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fy6xih/a_practical_guide_to_queues_streams_jobs_and/</guid>
-      <pubDate>Mon, 07 Oct 2024 12:55:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能时代的 Python 编程简介</title>
-      <link>https://www.reddit.com/r/programming/comments/1fy2t96/an_introduction_to_programming_using_python_in/</link>
-      <description><![CDATA[  由    /u/dontkry4me  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fy2t96/an_introduction_to_programming_using_python_in/</guid>
-      <pubDate>Mon, 07 Oct 2024 08:29:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

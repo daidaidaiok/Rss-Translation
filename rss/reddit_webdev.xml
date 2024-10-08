@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 07 Oct 2024 21:06:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 00:22:09 GMT</lastBuildDate>
+    <item>
+      <title>Github 页面帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fykae4/github_pages_help/</link>
+      <description><![CDATA[我有一个小型 IT 公司网站，但 github 页面显示它不是用于商业用途。我们都选择忽略这一点，对吧？！或者我应该将我的 IT 公司页面转移到其他免费的网络托管服务？它必须是免费的，因为我是一个可怜的网络开发人员，我无法自行托管，即使我知道如何做，因为我邪恶的岳父不允许我访问我的路由器来转发这样的端口。    由   提交  /u/cyber-py-guy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fykae4/github_pages_help/</guid>
+      <pubDate>Mon, 07 Oct 2024 22:15:17 GMT</pubDate>
+    </item>
     <item>
       <title>应对复杂性增加导致不知所措的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1fyigsl/advice_on_feeling_overwhelmed_as_complexity_grows/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好！ 我的学校项目团队希望公众在扫描二维码后回答一个问题。二维码之后，例如，会有一个登录页面，其中包含一个需要回答的调查问题。那么我该如何存储/创建匿名答案的存储库？我可以将其链接到 Google 表单或类似的东西吗？提前谢谢大家！！     提交人    /u/AppropriateTomato178   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fycc7e/storagerepository_of_answers_from_qr_code_survey/</guid>
       <pubDate>Mon, 07 Oct 2024 16:46:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>解决 Redis 缓存失效导致页面内容重复的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fybgmu/help_with_redis_cache_invalidation_causing/</link>
-      <description><![CDATA[我正在开展一个项目，使用 Redis 缓存分页帖子内容以优化性能。我实施了基于时间戳的缓存失效策略，但遇到了一个问题，即第 1 页和第 2 页显示重复内容，即使缓存应该正确失效。以下是我目前所做的工作：  设置：我使用带有 Redis 的 Docker，缓存设置为每 6 小时过期一次。每个页面都有一个缓存键（api:post:recent:{page），我存储一个 last_updated 时间戳来决定何时使缓存失效。 问题：第 1 页和第 2 页的时间戳不同，但其中一半仍显示相同的内容。我检查了 Redis 缓存，时间戳如下： 第 1 页：1728297841（2024-10-07 10:44:01 UTC） 第 2 页：1728311020（2024-10-07 14:23:40 UTC） last_updated：1728297841（2024-10-07 10:44:01 UTC）   我怀疑缓存失效逻辑没有按预期工作。由于第 2 页具有较新的时间戳，因此它绕过了失效，但最终仍显示来自第 1 页的重复内容。 我目前的方法：  对于每个请求，我都会检查页面的时间戳是否大于或等于 last_updated 值。如果不是，我会获取新数据并更新缓存。  问题：  我是否应该为每个页面使用单独的 last_updated 键，或者是否有更好的方法来全局处理这个问题？ 这可能是请求之间的竞争条件或时间问题吗？ 是否有更有效的分页内容缓存失效策略？  非常感谢您对如何解决此问题的任何见解或建议！   由    /u/Royal-Stunning  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fybgmu/help_with_redis_cache_invalidation_causing/</guid>
-      <pubDate>Mon, 07 Oct 2024 16:10:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
