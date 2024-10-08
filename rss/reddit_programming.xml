@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 08 Oct 2024 03:12:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 06:08:12 GMT</lastBuildDate>
+    <item>
+      <title>Tailwind 平衡了抽象和透明度</title>
+      <link>https://www.reddit.com/r/programming/comments/1fyrm9h/tailwind_balances_abstraction_and_transparency/</link>
+      <description><![CDATA[  由    /u/iloveafternoonnaps  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fyrm9h/tailwind_balances_abstraction_and_transparency/</guid>
+      <pubDate>Tue, 08 Oct 2024 04:27:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件工程师成功所需的 3 种非技术技能</title>
+      <link>https://www.reddit.com/r/programming/comments/1fyrfqz/3_nontechnical_skills_every_software_engineer/</link>
+      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fyrfqz/3_nontechnical_skills_every_software_engineer/</guid>
+      <pubDate>Tue, 08 Oct 2024 04:15:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>法学硕士生活：个人评论和 80-20 规则</title>
+      <link>https://www.reddit.com/r/programming/comments/1fyqy37/living_with_llms_personal_remarks_and_the_8020/</link>
+      <description><![CDATA[  由    /u/mtyurt  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fyqy37/living_with_llms_personal_remarks_and_the_8020/</guid>
+      <pubDate>Tue, 08 Oct 2024 03:47:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - renning22/engy：Engy 是一款人工智能开发工具，可以通过自然语言生成功能齐全的 Web 应用程序，简化从创意到工作原型的流程。</title>
+      <link>https://www.reddit.com/r/programming/comments/1fyqk5h/github_renning22engy_engy_is_an_aipowered/</link>
+      <description><![CDATA[  由    /u/No-Shop4216  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fyqk5h/github_renning22engy_engy_is_an_aipowered/</guid>
+      <pubDate>Tue, 08 Oct 2024 03:25:55 GMT</pubDate>
+    </item>
     <item>
       <title>eBPF 在 Golang 中的应用介绍</title>
       <link>https://www.reddit.com/r/programming/comments/1fyq9wf/introduction_to_the_application_of_ebpf_in_golang/</link>
@@ -18,13 +46,6 @@
       <description><![CDATA[  由    /u/djnz-1999  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fyq4a8/for_ada_lovelace_day_why_her_1843_table_is_the/</guid>
       <pubDate>Tue, 08 Oct 2024 03:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么类型的开发人员可以做到这一点？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fypadx/what_type_of_developer_can_do_this/</link>
-      <description><![CDATA[  由    /u/TheShaneChapman  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fypadx/what_type_of_developer_can_do_this/</guid>
-      <pubDate>Tue, 08 Oct 2024 02:17:52 GMT</pubDate>
     </item>
     <item>
       <title>JS Puppeteer 脚本</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/opensourcecolumbus  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fyfwt2/hype_vs_reality_of_open_source_ai_code_assistants/</guid>
       <pubDate>Mon, 07 Oct 2024 19:13:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xata.io 首席执行官和首席技术官就创建 Postgres 平台进行采访</title>
-      <link>https://www.reddit.com/r/programming/comments/1fyfonl/an_interview_with_ceo_cto_from_xataio_on_creating/</link>
-      <description><![CDATA[  由    /u/aarondf  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fyfonl/an_interview_with_ceo_cto_from_xataio_on_creating/</guid>
-      <pubDate>Mon, 07 Oct 2024 19:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wabe - TypeScript 新版本中的后端即服务（0.5.4）</title>
-      <link>https://www.reddit.com/r/programming/comments/1fydpbs/wabe_backend_as_a_service_in_typescript_new/</link>
-      <description><![CDATA[  由    /u/mrpalixir  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fydpbs/wabe_backend_as_a_service_in_typescript_new/</guid>
-      <pubDate>Mon, 07 Oct 2024 17:43:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>FastAnime：从终端观看浏览器动画的体验</title>
-      <link>https://www.reddit.com/r/programming/comments/1fydk7a/github_benex254fastanime_your_browser_anime/</link>
-      <description><![CDATA[  由    /u/BenX855  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fydk7a/github_benex254fastanime_your_browser_anime/</guid>
-      <pubDate>Mon, 07 Oct 2024 17:37:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
