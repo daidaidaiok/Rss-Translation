@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 08 Oct 2024 21:06:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 00:21:53 GMT</lastBuildDate>
+    <item>
+      <title>预算。</title>
+      <link>https://www.reddit.com/r/editors/comments/1fze6dv/budgets/</link>
+      <description><![CDATA[在我所在的东南亚地区，自疫情以来，我们的预算有所下降……如今，编辑的价值要低得多，电视/数字广告的编辑费用通常约为 5000 美元，现在约为 1500 美元，这真是太糟糕了。 你们所在地区的预算怎么样？如果你们也有，你们的策略是什么？你们有没有找到新市场、扩展网络等？    提交人    /u/ruleconcept   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fze6dv/budgets/</guid>
+      <pubDate>Tue, 08 Oct 2024 23:48:32 GMT</pubDate>
+    </item>
     <item>
       <title>我认为我更喜欢协助编辑（尤其是非脚本的编辑）</title>
       <link>https://www.reddit.com/r/editors/comments/1fz63p1/think_i_prefer_assisting_to_editing_especially/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>从 Davinci Resolve 导入 Premiere XML 时导出失败（不支持的压缩类型）</title>
       <link>https://www.reddit.com/r/editors/comments/1fz1xt8/export_failure_unsupported_compression_type_when/</link>
-      <description><![CDATA[当我将 XML 从 Resolve 导入 Premiere 时，它​​进行到 70% 左右时会卡住。我也尝试将单个剪辑导入 Premiere，其中一些可以正常导入，而另一些则显示“我们无法打开磁盘上的文件”。  有人遇到过这个问题吗？我现在在处理一些项目时总是遇到这种故障。而有些项目则运行良好。我去年没有遇到过这种情况。  我猜唯一的解决方案是采用 Prores 422 导出（整个剪辑），这没问题，但如果您需要一些颜色句柄，则并不理想。有什么解决办法吗？  我使用 Premiere 2024 和 Resolve Studio 18.6。给我带来麻烦的文件是 MXF。我使用的是 MacBook Pro 2019： Radeon Pro 560X 4GB Intel UHD Graphics 630 macOS Sonoma 14.3.1 内存 16 GB 2400 MHz DDR4 提前致谢！    提交人    /u/sammalneito   [link] [评论]]]></description>
+      <description><![CDATA[当我将 XML 从 Resolve 导入 Premiere 时，它​​进行到 70% 左右时会卡住。我也尝试将单个剪辑导入 Premiere，其中一些可以正常导入，而另一些则显示“我们无法打开磁盘上的文件”。  有人遇到过这个问题吗？我现在在处理一些项目时总是遇到这种故障。而有些项目则运行良好。我去年没有遇到过这种情况。  我猜唯一的解决方案是采用 Prores 422 导出（整个剪辑），这没问题，但如果您需要一些颜色句柄，则不是理想的选择。有什么解决办法吗？  我使用 Premiere 2024 和 Resolve Studio 18.6。给我带来麻烦的文件是 MXF。我使用的是 MacBook Pro 2019： Radeon Pro 560X 4GB Intel UHD Graphics 630 macOS Sonoma 14.3.1 内存 16 GB 2400 MHz DDR4 提前致谢！    提交人    /u/sammalneito   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fz1xt8/export_failure_unsupported_compression_type_when/</guid>
       <pubDate>Tue, 08 Oct 2024 15:02:53 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>硬盘编辑工作流程</title>
       <link>https://www.reddit.com/r/editors/comments/1fyqt2u/hard_drive_editing_workflow/</link>
-      <description><![CDATA[因此，目前我一直在使用 SSD 编辑并将原始文件放在 raid 上。但有时我有一个工作文件，我可能会重新访问它，我会使用其中的同意。因此，当我必须返回文件但又不想将其保存在 SSD 上时，我需要一个速度适中的方案。 有什么想法吗？    由   提交  /u/KelDurant   [link] [评论]]]></description>
+      <description><![CDATA[所以目前一直在使用 SSD 编辑并将原始文件放在 raid 上。但有时我有一个工作文件，我可能会重新访问它，我会使用其中的同意。所以当我必须返回文件但又不想将其保存在我的 SSD 上时，我需要一个速度的中间地带。 有什么想法吗？    由   提交  /u/KelDurant   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fyqt2u/hard_drive_editing_workflow/</guid>
       <pubDate>Tue, 08 Oct 2024 03:39:59 GMT</pubDate>
     </item>
@@ -88,13 +95,6 @@
       <description><![CDATA[嗨，我是一名视频编辑 + 产品摄影师。我的大部分编辑剪辑都是在 Xavc HS 4.2.2 10bit raw 4k 120fps/60fps 中。有时我必须堆叠多个 4k 图层并添加一些效果。如果您不知道，那么这个东西会让系统出汗一段时间。我卖掉了我的台式机，现在我想升级。就我个人而言，大多数专业人士通常使用 mac。但我从小就使用电脑 + macbook 太贵了。我可以买得起 18/512，但内存和存储空间不足以满足我的工作需要。或者我可以从 m2 pro 系列中选择 32/512 变体，因为它可能在我的预算之内。除此之外，我还在考虑购买游戏笔记本电脑，例如配备 rtx 4070（32/2tb）的华硕 Rog Strix g18 intel 13th gen。或者还有另一种选择可以再次购买台式机，但这次我不太想买，因为我所在地区电力故障不可预测。我知道游戏笔记本电脑没有像 MacBook 那样的电池，但这对我来说无所谓。我想 a7siii bois 可以提供帮助并告诉我他们的系统。    提交人    /u/False-Fan-3981   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fyp056/what_system_should_i_buy_for_422_10bit_raw_editing/</guid>
       <pubDate>Tue, 08 Oct 2024 02:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>故事感？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fynx19/storysense/</link>
-      <description><![CDATA[有人接触过 storiesense ai 吗？    提交人    /u/professional_reddit9   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fynx19/storysense/</guid>
-      <pubDate>Tue, 08 Oct 2024 01:07:53 GMT</pubDate>
     </item>
     <item>
       <title>Premiere 中的标记问题</title>
