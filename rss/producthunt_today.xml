@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 11 Oct 2024 09:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 12:10:06 GMT</lastBuildDate>
     <item>
       <title>填写 2.0</title>
       <link>https://www.producthunt.com/posts/fillout-2-0</link>
@@ -79,7 +79,7 @@ React 组件，用于以可视化方式创建 UI
       <title>锁桥</title>
       <link>https://www.producthunt.com/posts/lockbridge</link>
       <description><![CDATA[
-通过零信任加密实现安全、无缝的文件传输
+使用零信任加密实现安全、无缝的文件传输
 
 
 讨论
@@ -93,7 +93,7 @@ React 组件，用于以可视化方式创建 UI
       <title>生成任何东西</title>
       <link>https://www.producthunt.com/posts/generate-anything</link>
       <description><![CDATA[
-生成、装配和动画：一站式完成！
+生成、装配和制作 3D 动画：一站式搞定！
 
 
 讨论
@@ -188,7 +188,7 @@ React 组件，用于以可视化方式创建 UI
       <pubDate>Mon, 07 Oct 2024 18:38:39 GMT</pubDate>
     </item>
     <item>
-      <title>Octomind 质量保证代理</title>
+      <title>Octomind QA 代理</title>
       <link>https://www.producthunt.com/posts/octomind-qa-agent</link>
       <description><![CDATA[
 您构建。我们的 QA 代理进行测试。
