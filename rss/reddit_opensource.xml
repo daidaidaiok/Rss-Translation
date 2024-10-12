@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 12 Oct 2024 15:07:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 18:07:18 GMT</lastBuildDate>
+    <item>
+      <title>需要以编程方式替换 PDF 中的姓名和电子邮件地址</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g22ymp/need_to_programmatically_replace_a_name_and_email/</link>
+      <description><![CDATA[嗨，我有一本书（关于实用项目管理），我想免费提供给我的网站用户，并想在第二页上放置请求这本书的用户的姓名和电子邮件地址。  所以现在，我在第二页有一个占位符名称“John Smith”和占位符电子邮件地址“john.smith@domain.ext”。我正在寻找可以用当前用户名和电子邮件地址替换该名称和电子邮件地址的开源软件。  我知道桌面 PDF 编辑器可以做到这一点，但我需要从代码中自动执行此操作，每当用户请求文档副本时。关于有助于此的库/包/软件有什么建议吗？    提交人    /u/foss4all   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g22ymp/need_to_programmatically_replace_a_name_and_email/</guid>
+      <pubDate>Sat, 12 Oct 2024 15:45:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找“用你的代码聊天” osp 的贡献者！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g22l8r/looking_for_contributers_for_a_chat_with_your/</link>
+      <description><![CDATA[https://github.com/anuragdalia/contaxt 计划是创建一个超级可定制的“与您的代码聊天”系统，因为一种解决方案永远不会适用于所有人。  期待获得一些有用的建议。  Fork 做出贡献！🤝 点赞以表达爱意 ♥️     提交人    /u/anuragdalia   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g22l8r/looking_for_contributers_for_a_chat_with_your/</guid>
+      <pubDate>Sat, 12 Oct 2024 15:28:09 GMT</pubDate>
+    </item>
     <item>
       <title>一个强大的 Python 库，用于创建 AI 驱动的 Telegram 机器人</title>
       <link>https://www.reddit.com/r/opensource/comments/1g21nj6/a_powerful_python_library_for_creating_aipowered/</link>
@@ -62,13 +76,6 @@
       <pubDate>Fri, 11 Oct 2024 21:12:10 GMT</pubDate>
     </item>
     <item>
-      <title>克隆亲人的声音</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g1jhmy/cloning_a_loved_ones_voice/</link>
-      <description><![CDATA[我希望有人能帮助我。我正在寻找一种 AI 工具或软件，可以从音频文件中获取某人的声音，并用它将我说的话改成那个声音。我问这个问题的原因是，大约一年前我失去了祖父，我妈妈的生日也快到了。我真的很想加入一段音频，用他的声音对她说生日快乐。我希望以这种方式来做，因为我想使用的语言在大多数 AI 语音转文本选项中并不常见，所以我在请求中更具体一些。这意义重大，所以我希望有某种方法可以实现这一点。感谢任何帮助或建议。    提交人    /u/SmoothSade   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g1jhmy/cloning_a_loved_ones_voice/</guid>
-      <pubDate>Fri, 11 Oct 2024 20:37:34 GMT</pubDate>
-    </item>
-    <item>
       <title>我需要关于需要在代码中验证的 Signal 的技术答案</title>
       <link>https://www.reddit.com/r/opensource/comments/1g1hwz9/i_need_a_technical_answer_about_signal_that_needs/</link>
       <description><![CDATA[嗨，我不知道这里是不是问这个问题的正确地方，但我需要验证的问题是我在 r/signal 上问过的问题，但无法收到可信的答案，我相信可以通过查看源代码来验证，但这不是我的专长。 问题：如果有人将电话号码更改为 Signal Messenger 上的帐户，以前的帐户历史记录是否仍可追溯到原始电话号码或新电话号码？ 有人可以帮我找到这个答案吗？    提交人    /u/RemarkableLook5485   [链接] [评论]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由    /u/SoftwareCitadel  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g18n9w/ikto_a_nats_based_wireguard_mesh_network_builder/</guid>
       <pubDate>Fri, 11 Oct 2024 12:30:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我设计了一个简单的 8 位 CPU，称为 Flip01</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g15s8c/i_designed_a_simple_8bit_cpu_called_flip01/</link>
-      <description><![CDATA[嗨！ 这是一个带有 16 位地址总线的小型 8 位 CPU，您可以在 GitHub 上找到它。 我很乐意收到您的反馈，无论是关于如何改进它的建议，还是一些批评！ 非常感谢！    提交人    /u/Training_Impact_5767   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g15s8c/i_designed_a_simple_8bit_cpu_called_flip01/</guid>
-      <pubDate>Fri, 11 Oct 2024 09:26:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
