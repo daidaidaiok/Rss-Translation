@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 11 Oct 2024 21:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 00:21:00 GMT</lastBuildDate>
+    <item>
+      <title>2024 年 11 月 2 日在波茨坦举行的 Squeak 会议</title>
+      <link>https://www.reddit.com/r/programming/comments/1g1nw7t/squeak_meeting_on_november_2_2024_in_potsdam/</link>
+      <description><![CDATA[  由    /u/itsmeront  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g1nw7t/squeak_meeting_on_november_2_2024_in_potsdam/</guid>
+      <pubDate>Sat, 12 Oct 2024 00:08:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 资源编译器 (rc.exe) 的每个错误/怪癖，可能</title>
+      <link>https://www.reddit.com/r/programming/comments/1g1mmi0/every_bugquirk_of_the_windows_resource_compiler/</link>
+      <description><![CDATA[  由    /u/squeek502  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g1mmi0/every_bugquirk_of_the_windows_resource_compiler/</guid>
+      <pubDate>Fri, 11 Oct 2024 23:04:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用三字母索引的正则表达式匹配</title>
+      <link>https://www.reddit.com/r/programming/comments/1g1mdqq/regular_expression_matching_with_a_trigram_index/</link>
+      <description><![CDATA[  由    /u/creativefisher  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g1mdqq/regular_expression_matching_with_a_trigram_index/</guid>
+      <pubDate>Fri, 11 Oct 2024 22:52:19 GMT</pubDate>
+    </item>
     <item>
       <title>大家好！今天，我想分享一个我正在做的新项目：ARPA 编程语言及其配套的 ARPA Studio IDE。</title>
       <link>https://www.reddit.com/r/programming/comments/1g1jnq6/hello_everyone_today_i_would_like_to_share_a_new/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/sdxyz42  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g18hzy/how_facebook_was_able_to_support_a_billion_users/</guid>
       <pubDate>Fri, 11 Oct 2024 12:22:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>结构化并发的实用会话类型</title>
-      <link>https://www.reddit.com/r/programming/comments/1g17iti/practical_session_types_for_structured_concurrency/</link>
-      <description><![CDATA[大家好！我很乐意分享我制作的一些东西！ 一段时间以来，我一直对线性逻辑和会话类型着迷，但很遗憾它们并没有真正应用于实践。关于如何通过这种方式使并发变得结构化和健壮，有很多精彩的研究，以下是我推荐的一些论文：  命题作为会话 Par 意味着并行：乘法线性逻辑证明作为并发函数程序 线性逻辑中的客户端 - 服务器会话 会话类型重新审视  原因似乎是很难设计出以符合人体工程学且易于使用的方式运用这些概念的库，甚至是语言。 所以，这是我试图做得更好的想法。让我向你展示一个我制作的新库，我毫不掩饰地称之为“par”。  Crates.io： https://crates.io/crates/par GitHub： https://github.com/faiface/par  让我知道你的想法！如果您想加入并做出贡献，我们也非常欢迎您！ 特点  指定完整的并发协议 - 排序、分支、递归、高阶模式。 类型检查协议遵守 - 实现期望，履行义务。 死锁自由 - 静态排除循环通信。 多个并发参与者。 非常适合 Rust 的类型系统：  使用 enum 进行选择。 对循环协议的类型使用递归。  建立在 async/.await 之上。运行时不可知。 人体工程学设计 — 例如。 atm.choose(Operation::CheckBalance) 模块中的标准模式：  队列 — 按顺序传输任意数量的项目。 服务器 — 同时处理动态数量的客户端。  没有不安全！ 可访问的文档作为学习工具。     提交人    /u/faiface   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g17iti/practical_session_types_for_structured_concurrency/</guid>
-      <pubDate>Fri, 11 Oct 2024 11:27:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Go 迭代器的乐趣</title>
-      <link>https://www.reddit.com/r/programming/comments/1g15syx/fun_with_go_iterators/</link>
-      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g15syx/fun_with_go_iterators/</guid>
-      <pubDate>Fri, 11 Oct 2024 09:27:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>JavaScript 已损坏！</title>
-      <link>https://www.reddit.com/r/programming/comments/1g15d6b/javascript_is_broken/</link>
-      <description><![CDATA[  由   提交  /u/HolidayCartoonist323   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g15d6b/javascript_is_broken/</guid>
-      <pubDate>Fri, 11 Oct 2024 08:53:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
