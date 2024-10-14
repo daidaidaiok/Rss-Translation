@@ -4,13 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 14 Oct 2024 12:09:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 15:06:47 GMT</lastBuildDate>
     <item>
-      <title>如何使用前端服务工作者优化缓慢的加载时间？WebGL</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3e4l6/how_i_optimized_slow_loading_time_using_service/</link>
-      <description><![CDATA[  由    /u/dzooni3  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3e4l6/how_i_optimized_slow_loading_time_using_service/</guid>
-      <pubDate>Mon, 14 Oct 2024 12:07:22 GMT</pubDate>
+      <title>我有 30 年的经验，但仍然需要一位导师。你也一样。</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3hy96/i_have_30_years_of_experience_and_still_need_a/</link>
+      <description><![CDATA[  由    /u/shift_devs  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3hy96/i_have_30_years_of_experience_and_still_need_a/</guid>
+      <pubDate>Mon, 14 Oct 2024 15:04:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Snap.js——Lodash 函数的复制粘贴替代品</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3hvjp/snapjs_copypaste_alternatives_to_lodash_functions/</link>
+      <description><![CDATA[  由    /u/theScottyJam  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3hvjp/snapjs_copypaste_alternatives_to_lodash_functions/</guid>
+      <pubDate>Mon, 14 Oct 2024 15:01:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>您好，我想更改名为“aimmy”的开源应用程序的 UI 名称，但我不知道该怎么做。有哪位专业人士可以指导我吗？如果可以，请在 discord 上给我发私信“hiperleo01”。再次感谢！</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3fkof/hello_so_i_am_trying_to_change_the_name_on_the_ui/</link>
+      <description><![CDATA[  由    /u/Hiperleo01  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3fkof/hello_so_i_am_trying_to_change_the_name_on_the_ui/</guid>
+      <pubDate>Mon, 14 Oct 2024 13:19:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>设置 Vault 以供贵组织广泛采用的 5 个步骤</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3fklp/5_steps_to_set_up_vault_for_widespread_adoption/</link>
+      <description><![CDATA[  由    /u/warkollons0  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3fklp/5_steps_to_set_up_vault_for_widespread_adoption/</guid>
+      <pubDate>Mon, 14 Oct 2024 13:19:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>两个工作流程提示</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3fjpb/two_workflow_tips/</link>
+      <description><![CDATA[  由    /u/usmansufiaa  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3fjpb/two_workflow_tips/</guid>
+      <pubDate>Mon, 14 Oct 2024 13:18:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 TypeScript 实用类型终极指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3e6lr/the_ultimate_guide_to_typescripts_utility_types/</link>
+      <description><![CDATA[  由    /u/HolidayCartoonist323  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3e6lr/the_ultimate_guide_to_typescripts_utility_types/</guid>
+      <pubDate>Mon, 14 Oct 2024 12:10:24 GMT</pubDate>
     </item>
     <item>
       <title>GitHub - hviana/faster_react：使用 React + Faster 的全栈 Web 框架。自动路由、重新加载和组件捆绑。SSR + Hydration。100% Deno，无 Node 依赖。完全无服务器环境。请在存储库中帮我打一个⭐，我会在 GitHub 上关注你。</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[  由    /u/neifn  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g3czpb/launch_kubernetes_cluster_with_grafana/</guid>
       <pubDate>Mon, 14 Oct 2024 10:55:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Poly Monorepos 与 Nx</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3cnnk/poly_monorepos_with_nx/</link>
-      <description><![CDATA[  由    /u/wineandcode  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3cnnk/poly_monorepos_with_nx/</guid>
-      <pubDate>Mon, 14 Oct 2024 10:30:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>多个目标的外部部署</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3cgg8/implementaciones_externas_para_varios_destinos/</link>
-      <description><![CDATA[ 由   提交/u/emanuelpeg  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3cgg8/implementaciones_externas_para_varios_destinos/</guid>
-      <pubDate>Mon, 14 Oct 2024 10:16:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>正确使用 Git</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3br2i/using_git_the_right_way/</link>
-      <description><![CDATA[  由    /u/listx  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3br2i/using_git_the_right_way/</guid>
-      <pubDate>Mon, 14 Oct 2024 09:23:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>FunkyWeave：我创建的一个新记录器，使用 Graphviz 可视化项目内的函数调用流程</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3bhmu/funkyweave_a_new_logger_i_created_to_visualize/</link>
-      <description><![CDATA[  由    /u/soapy_donuts  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3bhmu/funkyweave_a_new_logger_i_created_to_visualize/</guid>
-      <pubDate>Mon, 14 Oct 2024 09:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>这不是一个抽象，而只是一个间接层</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3b0ve/thats_not_an_abstraction_thats_just_a_layer_of/</link>
-      <description><![CDATA[  由    /u/fernandohur  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3b0ve/thats_not_an_abstraction_thats_just_a_layer_of/</guid>
-      <pubDate>Mon, 14 Oct 2024 08:24:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
