@@ -4,7 +4,98 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 14 Oct 2024 09:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 12:09:30 GMT</lastBuildDate>
+    <item>
+      <title>如何使用前端服务工作者优化缓慢的加载时间？WebGL</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3e4l6/how_i_optimized_slow_loading_time_using_service/</link>
+      <description><![CDATA[  由    /u/dzooni3  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3e4l6/how_i_optimized_slow_loading_time_using_service/</guid>
+      <pubDate>Mon, 14 Oct 2024 12:07:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - hviana/faster_react：使用 React + Faster 的全栈 Web 框架。自动路由、重新加载和组件捆绑。SSR + Hydration。100% Deno，无 Node 依赖。完全无服务器环境。请在存储库中帮我打一个⭐，我会在 GitHub 上关注你。</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3e3tr/github_hvianafaster_react_full_stack_web/</link>
+      <description><![CDATA[  由    /u/Exotic_Drawing_9257  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3e3tr/github_hvianafaster_react_full_stack_web/</guid>
+      <pubDate>Mon, 14 Oct 2024 12:06:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>这就是为什么我认为 Java 是初学者最好的学习语言之一！</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3dsef/this_is_why_i_think_java_is_one_of_the_best/</link>
+      <description><![CDATA[  由    /u/nicoconut15  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3dsef/this_is_why_i_think_java_is_one_of_the_best/</guid>
+      <pubDate>Mon, 14 Oct 2024 11:48:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将铁路承包业务规模扩大到六位数</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3da2i/i_scaled_my_rails_contracting_business_to_high/</link>
+      <description><![CDATA[  由    /u/mehdifarsi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3da2i/i_scaled_my_rails_contracting_business_to_high/</guid>
+      <pubDate>Mon, 14 Oct 2024 11:14:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将铁路承包业务规模扩大到六位数</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3d9zv/i_scaled_my_rails_contracting_business_to_high/</link>
+      <description><![CDATA[  由    /u/mehdifarsi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3d9zv/i_scaled_my_rails_contracting_business_to_high/</guid>
+      <pubDate>Mon, 14 Oct 2024 11:14:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>掌握 Next.js 应用目录结构（2024 版）</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3d9wj/mastering_nextjs_app_directory_structure_2024/</link>
+      <description><![CDATA[  由    /u/TheLostWanderer47  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3d9wj/mastering_nextjs_app_directory_structure_2024/</guid>
+      <pubDate>Mon, 14 Oct 2024 11:14:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 3.12 与 Python 3.13 – 性能测试。在搭载 AMD Ryzen 7000 系列和第 13 代 Intel Core 处理器的台式机、笔记本电脑或迷你电脑上，共进行了 100 项各种基准测试。</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3d9iq/python_312_vs_python_313_performance_testing_a/</link>
+      <description><![CDATA[  由    /u/DataQuality  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3d9iq/python_312_vs_python_313_performance_testing_a/</guid>
+      <pubDate>Mon, 14 Oct 2024 11:13:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法从源代码构建 7-Zip 的优化版本</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3d9ib/the_optimised_version_of_7zip_cant_be_built_from/</link>
+      <description><![CDATA[  由    /u/Xaneris47  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3d9ib/the_optimised_version_of_7zip_cant_be_built_from/</guid>
+      <pubDate>Mon, 14 Oct 2024 11:13:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>代码审查反模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3d5z2/code_review_antipatterns/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3d5z2/code_review_antipatterns/</guid>
+      <pubDate>Mon, 14 Oct 2024 11:06:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 AWS 上使用 Grafana、OpenTelemetry、Fluent Bit 和 Prometheus 启动 Kubernetes 集群</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3czpb/launch_kubernetes_cluster_with_grafana/</link>
+      <description><![CDATA[  由    /u/neifn  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3czpb/launch_kubernetes_cluster_with_grafana/</guid>
+      <pubDate>Mon, 14 Oct 2024 10:55:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Poly Monorepos 与 Nx</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3cnnk/poly_monorepos_with_nx/</link>
+      <description><![CDATA[  由    /u/wineandcode  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3cnnk/poly_monorepos_with_nx/</guid>
+      <pubDate>Mon, 14 Oct 2024 10:30:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>多个目标的外部部署</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3cgg8/implementaciones_externas_para_varios_destinos/</link>
+      <description><![CDATA[ 由   提交/u/emanuelpeg  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3cgg8/implementaciones_externas_para_varios_destinos/</guid>
+      <pubDate>Mon, 14 Oct 2024 10:16:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>正确使用 Git</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3br2i/using_git_the_right_way/</link>
+      <description><![CDATA[  由    /u/listx  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3br2i/using_git_the_right_way/</guid>
+      <pubDate>Mon, 14 Oct 2024 09:23:49 GMT</pubDate>
+    </item>
     <item>
       <title>FunkyWeave：我创建的一个新记录器，使用 Graphviz 可视化项目内的函数调用流程</title>
       <link>https://www.reddit.com/r/programming/comments/1g3bhmu/funkyweave_a_new_logger_i_created_to_visualize/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[  由    /u/fernandohur  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g3b0ve/thats_not_an_abstraction_thats_just_a_layer_of/</guid>
       <pubDate>Mon, 14 Oct 2024 08:24:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>理解 CSS @layer-Guide</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3a10b/understanding_css_layerguide/</link>
-      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3a10b/understanding_css_layerguide/</guid>
-      <pubDate>Mon, 14 Oct 2024 06:53:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Browsertech Digest：Cloudflare 的持久多人游戏护城河</title>
-      <link>https://www.reddit.com/r/programming/comments/1g38azm/browsertech_digest_cloudflares_durable/</link>
-      <description><![CDATA[  由    /u/stronghup  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g38azm/browsertech_digest_cloudflares_durable/</guid>
-      <pubDate>Mon, 14 Oct 2024 04:43:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress 的正确之处</title>
-      <link>https://www.reddit.com/r/programming/comments/1g37ca2/what_wordpress_gets_right/</link>
-      <description><![CDATA[  由    /u/a_rather_small_moose  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g37ca2/what_wordpress_gets_right/</guid>
-      <pubDate>Mon, 14 Oct 2024 03:41:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Django 构建强大的学生管理系统：从初学者到高级的分步指南！</title>
-      <link>https://www.reddit.com/r/programming/comments/1g36pqx/build_a_powerful_student_management_system_with/</link>
-      <description><![CDATA[  由    /u/Ok-Look3220  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g36pqx/build_a_powerful_student_management_system_with/</guid>
-      <pubDate>Mon, 14 Oct 2024 03:05:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>机器学习详解：了解基础知识</title>
-      <link>https://www.reddit.com/r/programming/comments/1g31e80/machine_learning_explained_understanding_the/</link>
-      <description><![CDATA[  由    /u/Distinct-Curve-660  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g31e80/machine_learning_explained_understanding_the/</guid>
-      <pubDate>Sun, 13 Oct 2024 22:19:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>抛弃 Git Checkout：改用 Git Switch 和 Git Restore</title>
-      <link>https://www.reddit.com/r/programming/comments/1g30xlh/ditch_git_checkout_use_git_switch_and_git_restore/</link>
-      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g30xlh/ditch_git_checkout_use_git_switch_and_git_restore/</guid>
-      <pubDate>Sun, 13 Oct 2024 21:57:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ruby on Rails 8.0 首个测试版发布：在生产中对 SQLite 下了大赌注 • DEVCLASS</title>
-      <link>https://www.reddit.com/r/programming/comments/1g2z70k/ruby_on_rails_80_first_beta_release_a_big_bet_on/</link>
-      <description><![CDATA[  由    /u/stronghup  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g2z70k/ruby_on_rails_80_first_beta_release_a_big_bet_on/</guid>
-      <pubDate>Sun, 13 Oct 2024 20:36:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 Hugo 网站部署到 Cloudflare</title>
-      <link>https://www.reddit.com/r/programming/comments/1g2xfnh/deploy_a_hugo_website_to_cloudflare/</link>
-      <description><![CDATA[  由    /u/TanisCodes  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g2xfnh/deploy_a_hugo_website_to_cloudflare/</guid>
-      <pubDate>Sun, 13 Oct 2024 19:18:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Go 的灵活接口：按需抽象</title>
-      <link>https://www.reddit.com/r/programming/comments/1g2wfk8/gos_flexible_interfaces_abstraction_on_demand/</link>
-      <description><![CDATA[  由    /u/AntonOkolelov  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g2wfk8/gos_flexible_interfaces_abstraction_on_demand/</guid>
-      <pubDate>Sun, 13 Oct 2024 18:35:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>纯文本的教训</title>
-      <link>https://www.reddit.com/r/programming/comments/1g2vrgn/lessons_from_plain_text/</link>
-      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g2vrgn/lessons_from_plain_text/</guid>
-      <pubDate>Sun, 13 Oct 2024 18:05:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>掌握系统设计面试：成功的 6 步框架</title>
-      <link>https://www.reddit.com/r/programming/comments/1g2uxkw/master_system_design_interviews_a_6step_framework/</link>
-      <description><![CDATA[  由    /u/animesh371  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g2uxkw/master_system_design_interviews_a_6step_framework/</guid>
-      <pubDate>Sun, 13 Oct 2024 17:29:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周的 JavaScript 新闻：TC39、TypeScript 5.7 Beta、Node.js 20.18.0 等的重大更新。</title>
-      <link>https://www.reddit.com/r/programming/comments/1g2uec7/this_weeks_javascript_news_huge_updates_from_tc39/</link>
-      <description><![CDATA[  由    /u/ThisWeekinJavaScript  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g2uec7/this_weeks_javascript_news_huge_updates_from_tc39/</guid>
-      <pubDate>Sun, 13 Oct 2024 17:05:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Javascript 中的时间长度</title>
-      <link>https://www.reddit.com/r/programming/comments/1g2t9d3/time_duration_in_javascript/</link>
-      <description><![CDATA[  由    /u/iagolast  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g2t9d3/time_duration_in_javascript/</guid>
-      <pubDate>Sun, 13 Oct 2024 16:15:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
