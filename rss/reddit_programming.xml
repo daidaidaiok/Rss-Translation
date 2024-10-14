@@ -4,13 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 14 Oct 2024 15:06:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 18:07:18 GMT</lastBuildDate>
     <item>
-      <title>我有 30 年的经验，但仍然需要一位导师。你也一样。</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3hy96/i_have_30_years_of_experience_and_still_need_a/</link>
-      <description><![CDATA[  由    /u/shift_devs  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3hy96/i_have_30_years_of_experience_and_still_need_a/</guid>
-      <pubDate>Mon, 14 Oct 2024 15:04:36 GMT</pubDate>
+      <title>教授世界上最大的编程课</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3lgxg/teaching_the_worlds_largest_programming_lesson/</link>
+      <description><![CDATA[  由    /u/RojerGS  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3lgxg/teaching_the_worlds_largest_programming_lesson/</guid>
+      <pubDate>Mon, 14 Oct 2024 17:28:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 Combine 迁移到 AsyncAlgorithms</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3lbou/migrating_combine_to_asyncalgorithms/</link>
+      <description><![CDATA[  由    /u/jacobs-tech-tavern  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3lbou/migrating_combine_to_asyncalgorithms/</guid>
+      <pubDate>Mon, 14 Oct 2024 17:22:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何构建开源社交媒体调度工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3kvgk/how_i_built_my_opensource_social_media_scheduling/</link>
+      <description><![CDATA[  由    /u/sleepysiding22  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3kvgk/how_i_built_my_opensource_social_media_scheduling/</guid>
+      <pubDate>Mon, 14 Oct 2024 17:04:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>NeuronScript：神经网络编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3j3zd/neuronscript_neural_network_programming_language/</link>
+      <description><![CDATA[  由    /u/evngl  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3j3zd/neuronscript_neural_network_programming_language/</guid>
+      <pubDate>Mon, 14 Oct 2024 15:52:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解 JavaScript 中文件和 Blob 对象之间的区别</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3iofk/understanding_the_difference_between_file_and/</link>
+      <description><![CDATA[  由    /u/jsdevspace  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3iofk/understanding_the_difference_between_file_and/</guid>
+      <pubDate>Mon, 14 Oct 2024 15:35:01 GMT</pubDate>
     </item>
     <item>
       <title>Snap.js——Lodash 函数的复制粘贴替代品</title>
@@ -18,13 +46,6 @@
       <description><![CDATA[  由    /u/theScottyJam  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g3hvjp/snapjs_copypaste_alternatives_to_lodash_functions/</guid>
       <pubDate>Mon, 14 Oct 2024 15:01:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>您好，我想更改名为“aimmy”的开源应用程序的 UI 名称，但我不知道该怎么做。有哪位专业人士可以指导我吗？如果可以，请在 discord 上给我发私信“hiperleo01”。再次感谢！</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3fkof/hello_so_i_am_trying_to_change_the_name_on_the_ui/</link>
-      <description><![CDATA[  由    /u/Hiperleo01  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3fkof/hello_so_i_am_trying_to_change_the_name_on_the_ui/</guid>
-      <pubDate>Mon, 14 Oct 2024 13:19:40 GMT</pubDate>
     </item>
     <item>
       <title>设置 Vault 以供贵组织广泛采用的 5 个步骤</title>
@@ -48,32 +69,11 @@
       <pubDate>Mon, 14 Oct 2024 12:10:24 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub - hviana/faster_react：使用 React + Faster 的全栈 Web 框架。自动路由、重新加载和组件捆绑。SSR + Hydration。100% Deno，无 Node 依赖。完全无服务器环境。请在存储库中帮我打一个⭐，我会在 GitHub 上关注你。</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3e3tr/github_hvianafaster_react_full_stack_web/</link>
-      <description><![CDATA[  由    /u/Exotic_Drawing_9257  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3e3tr/github_hvianafaster_react_full_stack_web/</guid>
-      <pubDate>Mon, 14 Oct 2024 12:06:11 GMT</pubDate>
-    </item>
-    <item>
       <title>这就是为什么我认为 Java 是初学者最好的学习语言之一！</title>
       <link>https://www.reddit.com/r/programming/comments/1g3dsef/this_is_why_i_think_java_is_one_of_the_best/</link>
       <description><![CDATA[  由    /u/nicoconut15  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g3dsef/this_is_why_i_think_java_is_one_of_the_best/</guid>
       <pubDate>Mon, 14 Oct 2024 11:48:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将铁路承包业务规模扩大到六位数</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3da2i/i_scaled_my_rails_contracting_business_to_high/</link>
-      <description><![CDATA[  由    /u/mehdifarsi  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3da2i/i_scaled_my_rails_contracting_business_to_high/</guid>
-      <pubDate>Mon, 14 Oct 2024 11:14:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将铁路承包业务规模扩大到六位数</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3d9zv/i_scaled_my_rails_contracting_business_to_high/</link>
-      <description><![CDATA[  由    /u/mehdifarsi  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3d9zv/i_scaled_my_rails_contracting_business_to_high/</guid>
-      <pubDate>Mon, 14 Oct 2024 11:14:22 GMT</pubDate>
     </item>
     <item>
       <title>掌握 Next.js 应用目录结构（2024 版）</title>
