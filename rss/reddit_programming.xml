@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 14 Oct 2024 00:32:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 06:08:31 GMT</lastBuildDate>
+    <item>
+      <title>Browsertech Digest：Cloudflare 的持久多人游戏护城河</title>
+      <link>https://www.reddit.com/r/programming/comments/1g38azm/browsertech_digest_cloudflares_durable/</link>
+      <description><![CDATA[  由    /u/stronghup  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g38azm/browsertech_digest_cloudflares_durable/</guid>
+      <pubDate>Mon, 14 Oct 2024 04:43:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress 的正确之处</title>
+      <link>https://www.reddit.com/r/programming/comments/1g37ca2/what_wordpress_gets_right/</link>
+      <description><![CDATA[  由    /u/a_rather_small_moose  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g37ca2/what_wordpress_gets_right/</guid>
+      <pubDate>Mon, 14 Oct 2024 03:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Django 构建强大的学生管理系统：从初学者到高级的分步指南！</title>
+      <link>https://www.reddit.com/r/programming/comments/1g36pqx/build_a_powerful_student_management_system_with/</link>
+      <description><![CDATA[  由    /u/Ok-Look3220  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g36pqx/build_a_powerful_student_management_system_with/</guid>
+      <pubDate>Mon, 14 Oct 2024 03:05:01 GMT</pubDate>
+    </item>
     <item>
       <title>机器学习详解：了解基础知识</title>
       <link>https://www.reddit.com/r/programming/comments/1g31e80/machine_learning_explained_understanding_the/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/cesariofs_  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g2psb9/creating_a_shareable_profile_inspired_by_linktree/</guid>
       <pubDate>Sun, 13 Oct 2024 13:35:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 GraphQL 扩展到每分钟 5 亿个请求</title>
-      <link>https://www.reddit.com/r/programming/comments/1g2o9b8/scaling_to_half_a_billion_requests_a_minute_over/</link>
-      <description><![CDATA[  由    /u/West-Chocolate2977  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g2o9b8/scaling_to_half_a_billion_requests_a_minute_over/</guid>
-      <pubDate>Sun, 13 Oct 2024 12:11:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Greenmask 开源数据库匿名化和合成数据生成工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1g2o0bx/greenmask_opensource_database_anonymization_and/</link>
-      <description><![CDATA[  由    /u/anyweny  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g2o0bx/greenmask_opensource_database_anonymization_and/</guid>
-      <pubDate>Sun, 13 Oct 2024 11:56:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>编程艺术以及我不使用法学硕士的原因</title>
-      <link>https://www.reddit.com/r/programming/comments/1g2n812/the_art_of_programming_and_why_i_wont_use_llm/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g2n812/the_art_of_programming_and_why_i_wont_use_llm/</guid>
-      <pubDate>Sun, 13 Oct 2024 11:05:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
