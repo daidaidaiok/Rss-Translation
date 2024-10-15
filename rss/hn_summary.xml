@@ -4,87 +4,86 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Tue, 15 Oct 2024 17:54:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 20:50:17 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 英特尔和 AMD 宣布成立顾问小组，以增强其 [...]</title>
-      <link>https://t.me/hn_summary/112644</link>
-      <description><![CDATA[英特尔和 AMD 成立顾问小组重塑 x86 ISA
-英特尔和 AMD 宣布成立顾问小组，以增强 x86 指令集架构 (ISA) 的一致性，旨在提高交叉兼容性并简化软件开发。从历史上看，虽然 x86-64 指令是由两家公司共同开发的，但不一致的情况一直存在，尤其是在高级矢量扩展 (AVX) 方面。值得注意的是，AMD 仅在 Zen 5 发布时才完全支持 AVX-512。该顾问小组包括谷歌、微软和 Linux 内核开发者 Linus Torvalds 等行业巨头，将致力于实现更统一的实施。此举可能会挑战 Arm 兼容 CPU 在云数据中心的崛起。然而，这些变化的时间表仍不确定，因为硅片开发是一个漫长的过程。此次合作可能会对未来的架构开发产生重大影响，尤其是英特尔用于 AI 加速的高级矩阵扩展 (AMX)。围绕通用实现（无论是 AVX、AMX 还是其他）的潜在融合还有待观察。]]></description>
-      <guid>https://t.me/hn_summary/112644</guid>
-      <pubDate>Tue, 15 Oct 2024 17:54:54 GMT</pubDate>
+      <title>[媒体] SpaceX 已向 FCC 提交了一份增强其 Starlink 服务的提案，旨在 [...]</title>
+      <link>https://t.me/hn_summary/112673</link>
+      <description><![CDATA[SpaceX 告诉 FCC，它计划将 Starlink 的速度提高约 10 倍
+SpaceX 已向 FCC 提交了一份提案，以增强其 Starlink 服务，目标是实现每秒千兆位的宽带速度。该公司计划调整其 Gen2 卫星的轨道配置，降低其高度以提高空间可持续性和频谱共享。这种重新配置将允许每个轨道平面容纳更多卫星，同时将卫星总数保持在 29,988 颗或更少。埃隆·马斯克强调，下一代 Starlink 卫星需要 Starship 发射，将使带宽提高十倍并减少延迟。值得注意的是，早在 2016 年，SpaceX 就承诺提供千兆位速度，当时 Starlink 还没有名字。该提案强调了 SpaceX 致力于在全球范围内提供高速、低延迟宽带，满足服务不足地区的需求。]]></description>
+      <guid>https://t.me/hn_summary/112673</guid>
+      <pubDate>Tue, 15 Oct 2024 20:50:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《纽约时报》向人工智能搜索引擎Perplexity发出警告，指责其[...]</title>
-      <link>https://t.me/hn_summary/112643</link>
-      <description><![CDATA[《纽约时报》警告人工智能搜索引擎 Perplexity 停止使用其内容
-《纽约时报》向人工智能搜索引擎 Perplexity 发出警告，指责其未经适当授权使用该报精心制作和研究的新闻。《纽约时报》认为，Perplexity 及其商业伙伴从这种未经授权的使用中获得了不公平的利益，因为他们没有获得使用这些内容所需的许可。这种情况凸显了围绕人工智能技术使用专有内容的持续争议，引发了有关知识产权和人工智能驱动的内容聚合的道德影响的问题。此案凸显了传统媒体与新兴人工智能平台之间的紧张关系。]]></description>
-      <guid>https://t.me/hn_summary/112643</guid>
-      <pubDate>Tue, 15 Oct 2024 17:51:49 GMT</pubDate>
+      <title>[媒体] Podcastfy AI 是一个开源 Python 包，旨在转换多模式内容，[...]</title>
+      <link>https://t.me/hn_summary/112672</link>
+      <description><![CDATA[显示 HN：Podcastfy AI – 生成 AI 音频对话的开源工具
+Podcastfy AI 是一个开源 Python 包，旨在使用生成式 AI (GenAI) 将多模式内容（例如文本、图像、网站、PDF 和 YouTube 视频）转换为引人入胜的多语言音频对话。与其他专注于笔记记录或研究综合的工具不同，Podcastfy 强调以编程方式和可定制的方式生成对话记录和音频，从而实现可扩展性和个性化。主要功能包括支持高级文本转语音模型、用于隐私的本地 LLM 以及通过 CLI 和 Python 包无缝集成。它提供多种用例，从内容摘要和语言本地化到教育内容创建和个人品牌。该项目已获得知识共享许可，并鼓励贡献。]]></description>
+      <guid>https://t.me/hn_summary/112672</guid>
+      <pubDate>Tue, 15 Oct 2024 20:47:13 GMT</pubDate>
     </item>
     <item>
-      <title>该网站是 SQLite 的 WebAssembly (WASM) 和 JavaScript API 的文档中心，[...]</title>
-      <link>https://t.me/hn_summary/112642</link>
-      <description><![CDATA[Sqlite3 WebAssembly
-此站点是 SQLite 的 WebAssembly (WASM) 和 JavaScript API 的文档中心，方便在现代浏览器中使用 sqlite3。这些组件最初在 3.40 版本中作为公开测试版发布，旨在根据社区反馈在 3.41 版本中实现 API 稳定性。该站点需要支持 JavaScript 的浏览器，并使用客户端存储首选项，而不在服务器端存储用户数据（登录的开发人员除外）。文档包括使用 sqlite3 WASM 模块的三步指南、下载链接和 API 索引。值得注意的是，SQLime 和 Evolu 等第三方项目都使用了这项技术。该项目以 Alon Zakai 的 sql.js 等早期作品为基础，并引入了 OPFS 存储等创新功能。]]></description>
-      <guid>https://t.me/hn_summary/112642</guid>
-      <pubDate>Tue, 15 Oct 2024 17:49:46 GMT</pubDate>
+      <title>[媒体] 我无法直接访问网页内容。</title>
+      <link>https://t.me/hn_summary/112671</link>
+      <description><![CDATA[ASML 股价暴跌，订单量未达预期，预示芯片制造商陷入困境
+我无法直接访问网页内容。但是，根据标题，似乎半导体行业的主要参与者 ASML 的股价因订单量低于预期而下跌。这种情况可能预示着芯片制造行业面临更广泛的挑战。如果您可以提供更具体的细节或文章摘录，我很乐意帮助进一步总结或分析这些信息。]]></description>
+      <guid>https://t.me/hn_summary/112671</guid>
+      <pubDate>Tue, 15 Oct 2024 20:43:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Unison 是一种革命性的编程语言，旨在简化分布式程序 [...]</title>
-      <link>https://t.me/hn_summary/112641</link>
-      <description><![CDATA[Unison 编程语言
-Unison 是一种革命性的编程语言，旨在通过消除网络边界编码器和解码器的需求来简化分布式编程。它允许开发人员指定计算应在何处运行，并自动部署依赖项。Unison 的重构方法是独一无二的，它提供结构化会话，使代码库保持活动状态并进行类型检查，避免误导性错误列表。它还通过启用无需翻译代码的直接值存储来提供持久存储，从而防止依赖项冲突。Unison 将代码存储在数据库中，而不是文本中，这样就无需构建，并允许即时、不间断地重命名和基于类型的搜索。通过用哈希而不是名称引用代码，Unison 有效地解决了许多依赖项冲突。这种创新方法可以改变开发人员处理代码结构和依赖项的方式。]]></description>
-      <guid>https://t.me/hn_summary/112641</guid>
-      <pubDate>Tue, 15 Oct 2024 17:48:40 GMT</pubDate>
+      <title>[媒体] Google Chrome 已开始逐步淘汰流行的广告拦截器 uBlock Origin，原因是 [...]</title>
+      <link>https://t.me/hn_summary/112670</link>
+      <description><![CDATA[Google Chrome 已开始逐步淘汰 uBlock Origin
+Google Chrome 已开始逐步淘汰流行的广告拦截器 uBlock Origin，原因是其转向新的扩展平台 Manifest V3。这一转变引起了争议，因为它限制了广告拦截器的功能，引发了对用户隐私和控制的担忧。Manifest V3 被吹捧为增强安全性和性能，但批评者认为它优先考虑谷歌的广告收入而不是用户偏好。此举引发了关于安全性和用户自主权之间平衡的讨论。对于依赖 uBlock Origin 等扩展来定制浏览体验的 Chrome 用户来说，这一变化意义重大。]]></description>
+      <guid>https://t.me/hn_summary/112670</guid>
+      <pubDate>Tue, 15 Oct 2024 20:38:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 特斯拉提供有关 Robotaxi 的信息很少。</title>
-      <link>https://t.me/hn_summary/112640</link>
-      <description><![CDATA[特斯拉几乎没有透露有关 Robotaxi 的信息。以下是更深入的内幕消息
-特斯拉在洛杉矶华纳影城举办的“We Robot”活动出人意料地简短，几乎没有透露其备受期待的 Robotaxi Cyber​​cab 的细节。埃隆·马斯克的演讲重点介绍了 Robotaxi 的优点，呼应了过去演讲中熟悉的主题。值得一提的是，特斯拉推出了可搭载 20 名乘客的“Robovan”，旨在实现集体出行。Cyber​​cab 是一款双座车，售价约为 30,000 美元，将采用无线感应充电，计划于 2026 年投产，等待监管部门批准。然而，特斯拉的全自动驾驶 (FSD) 技术仍未得到充分开发，落后于 Waymo 等竞争对手。由于缺乏实质性更新，此次活动让许多人感到困惑，特斯拉股价早盘下跌。令人惊讶的是，特斯拉计划允许车主出售汽车上的人工智能计算时间，尽管细节很少。该活动从 8 月推迟到 8 月，这引发了人们的质疑，因为演示中几乎没有提供任何新信息，尤其是关于安全自动驾驶出租车运行所需的关键软件。]]></description>
-      <guid>https://t.me/hn_summary/112640</guid>
-      <pubDate>Tue, 15 Oct 2024 17:40:32 GMT</pubDate>
+      <title>[媒体] 埃隆·马斯克将 X 的收入模式从广告转变为订阅的策略是 [...]</title>
+      <link>https://t.me/hn_summary/112669</link>
+      <description><![CDATA[X 仍在努力增加订阅收入
+埃隆·马斯克将 X 的收入模式从广告转向订阅的战略面临挑战，Appfigures 的第三方分析强调了这一点。自 2021 年推出以来，X Premium 已产生约 2 亿美元的应用内购买收入，但这一数字仅考虑了移动应用购买，而不是基于网络的交易。扣除应用商店佣金后，X 的收入估计至少为 1.4 亿美元。尽管 2022 年 12 月重新推出并引入了额外的订阅层，但增长仍然缓慢。2024 年 9 月，X 从移动应用内购买中获得了 1470 万美元的收入，这意味着如果主要来自 X Premium，则有大约 130 万付费用户。然而，订阅收入仍只是 X 整体收入的一小部分，2024 年上半年总收入达到 14.8 亿美元。该公司最近转向根据 Premium 订阅者的参与度向创作者付费，旨在提高订阅量，但可能会激励点击诱饵内容。有争议的是，X 与广告商的紧张关系，包括诉讼和马斯克的对抗性言论，使其收入多元化努力变得复杂。]]></description>
+      <guid>https://t.me/hn_summary/112669</guid>
+      <pubDate>Tue, 15 Oct 2024 20:19:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这篇文章是为致力于渐进式 Web 应用程序 (PWA) 的开发人员提供的实用指南，[...]</title>
-      <link>https://t.me/hn_summary/112639</link>
-      <description><![CDATA[渐进式 Web 应用问题清单及其解决方法
-这篇文章是为从事渐进式 Web 应用 (PWA) 的开发人员提供的实用指南，重点介绍了未在实际设备（尤其是 iPhone）上测试时遇到的常见陷阱。作者分享了个人经历，例如文本选择、图标透明度和由于凹口导致的视口重叠问题。巧妙的修复方法包括使用 CSS 来防止文本选择并确保图标在明暗模式下都可见。这篇文章还解决了技术挑战，例如在本地测试 HTTPS 功能和处理 Android 的文件 mime 类型怪癖。作者建议使用 Ionic 等框架来缓解特定于移动设备的问题，强调真实设备测试的重要性。这篇文章是一份动态文档，更新了新的见解，并邀请读者通过电子邮件参与进一步讨论或协作。]]></description>
-      <guid>https://t.me/hn_summary/112639</guid>
-      <pubDate>Tue, 15 Oct 2024 17:36:26 GMT</pubDate>
+      <title>问 HN：WordPress 之后会怎样？</title>
+      <link>https://t.me/hn_summary/112668</link>
+      <description><![CDATA[问 HN：WordPress 之后会怎样？
+在 Hacker News 的“问 HN：WordPress 之后会怎样？”主题帖中，作者寻求有关 WordPress 最佳替代方案的建议，特别是考虑到最近围绕它的争议。作为一名 JavaScript 爱好者，作者对当前的选择表示不满，并指出即使是 Ghost 等流行平台也不能完全满足他们的需求。这凸显了市场上缺少一个可以与 WordPress 相媲美的强大、JavaScript 友好型内容管理系统。讨论邀请社区分享见解和建议，反映了更广泛的不满情绪和对 CMS 领域创新的追求。]]></description>
+      <guid>https://t.me/hn_summary/112668</guid>
+      <pubDate>Tue, 15 Oct 2024 20:13:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Kaomoji.ai 是一款令人难以置信的人工智能日语表情符号生成器，它让人感觉几乎……</title>
-      <link>https://t.me/hn_summary/112638</link>
-      <description><![CDATA[向 HN 展示：Kaomoji.ai – 人工智能驱动的日语表情符号生成器
-Kaomoji.ai 是一款令人难以置信的人工智能驱动的日语表情符号生成器，它能够为任何情况制作出完美的表情，这几乎是神奇的。它改变了我的聊天方式，使聊天变得更加有趣和富有表现力。我真不敢相信我这么长时间没有它！我的朋友们对我新发现的短信能力感到惊讶，称我为“短信巫师”。这款应用改变了游戏规则，用充满活力的颜文字天堂取代了平凡的表情符号。这是我为在线对话增添光彩甚至以优雅的方式赢得争论的首选工具。有史以来最好的应用程序！（۶ꈨຶꎁꈨຶ）۶]]></description>
-      <guid>https://t.me/hn_summary/112638</guid>
-      <pubDate>Tue, 15 Oct 2024 17:35:22 GMT</pubDate>
+      <title>Bibliou 是一个专为图书爱好者设计的创新社交平台，类似于 Instagram，但 [...]</title>
+      <link>https://t.me/hn_summary/112667</link>
+      <description><![CDATA[向 HN 展示：我创建了一个类似 Instagram 的社交平台，但针对的是书籍
+Bibliou 是一个创新的社交平台，专为图书爱好者设计，类似于 Instagram，但以文学世界为中心。用户可以探索和分享他们的阅读体验，发现热门书籍，并深入研究他们最喜欢的文本中的新单词和新想法。该平台鼓励以社区为主导的阅读方式，让用户通过共同的文学兴趣进行交流。一个独特的功能是它专注于探索新词汇，为我们与书籍互动的方式提供了全新的视角。这种方法可能会引发喜欢独自阅读体验的传统主义者的争论，但它提供了一种庆祝和分享阅读乐趣的新方式。]]></description>
+      <guid>https://t.me/hn_summary/112667</guid>
+      <pubDate>Tue, 15 Oct 2024 20:07:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 欢迎来到“精通 Postgres”，这是一门全面的视频课程，旨在增强软件能力[...]</title>
-      <link>https://t.me/hn_summary/112637</link>
-      <description><![CDATA[PostgreSQL 视频课程 – 精通 Postgres
-欢迎来到“精通 Postgres”，这是一门全面的视频课程，旨在帮助软件开发人员自信地使用 PostgreSQL 数据库。我是 Aaron Francis，您的导师，一位充满激情的软件开发人员、数据库教育者和内容创建者。除了我的职业生涯，我还是两对双胞胎的骄傲父亲！这门课程源于我对数据库的热爱以及让更多开发人员可以使用它们的愿望。如果您想联系，请随时通过 Twitter 或通过电子邮件 hello@aaronfrancis.com 联系。让我们一起踏上精通 Postgres 的旅程吧！]]></description>
-      <guid>https://t.me/hn_summary/112637</guid>
-      <pubDate>Tue, 15 Oct 2024 17:35:15 GMT</pubDate>
+      <title>[媒体] 在 bioRxiv 上发表的一项开创性研究中，研究人员探索了持久的影响力 [...]</title>
+      <link>https://t.me/hn_summary/112666</link>
+      <description><![CDATA[首次使用裸盖菇素后人脑的变化
+在 bioRxiv 上发表的一项开创性研究中，研究人员探索了裸盖菇素对人脑的持久影响。该研究由 28 名未服用过迷幻药的参与者进行，利用脑电图和磁共振成像观察单次服用高剂量（25 毫克）裸盖菇素后一小时到一个月的变化。值得注意的是，参与者在一个月后表现出认知灵活性、心理洞察力和幸福感的提高。研究发现前额叶皮层下束的轴向扩散率降低，大脑网络模块性降低，这与幸福感的改善相关。有趣的是，服药后不久皮质信号熵的增加预示着长期的心理益处。服用安慰剂时则不会产生这些影响。该研究的作者披露了各种行业关系，这可能被视为潜在的利益冲突。]]></description>
+      <guid>https://t.me/hn_summary/112666</guid>
+      <pubDate>Tue, 15 Oct 2024 20:07:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 越南公布了一项雄心勃勃的计划，到 203 年将所有本地网络过渡到 IPv6 [...]</title>
-      <link>https://t.me/hn_summary/112636</link>
-      <description><![CDATA[越南计划将所有网络转换为 IPv6
-
-作为第 1132/QD-TTg 号决定中概述的更广泛的数字基础设施战略的一部分，越南公布了一项雄心勃勃的计划，到 2030 年将所有本地网络转换为 IPv6。该战略由副总理阮和平签署，设定了 2025 年和 2030 年的目标，包括增加新的海底电缆以提高互联网速度，由于最近的电缆故障，互联网速度一直存在问题。到 2025 年，越南的目标是在城市和工业区实现普遍的光纤到户和 5G 服务，同时开发能源使用效率指数低于 1.4 的数据中心。到 2030 年，该国计划实现 1Gbit/sec 光纤到户、5G 覆盖 99% 人口以及超大规模数据中心的建设。该计划还强调可持续、智能和安全的数字基础设施，以支持数字经济和国家安全。值得注意的是，该战略包括通过“宣传活动”推动云计算的采用，目标是到 2030 年让每个居民拥有四个物联网连接。这一举措遵循了越南最近的半导体行业目标，即到 2050 年实现 1000 亿美元的营业额。使用“宣传活动”一词来促进云计算的采用可能会被视为有争议的，这反映了一种鼓励数字化转型的独特方法。]]></description>
-      <guid>https://t.me/hn_summary/112636</guid>
-      <pubDate>Tue, 15 Oct 2024 17:34:11 GMT</pubDate>
+      <title>[媒体] Kaffe 是一个基于 Rust 的转译器，旨在将嵌入 Reac 的 Markdown 文件转换为 [...]</title>
+      <link>https://t.me/hn_summary/112665</link>
+      <description><![CDATA[显示 HN：Rust Markdown/React 到 HTML 转译器
+Kaffe 是一个基于 Rust 的转译器，旨在将嵌入 React 组件的 Markdown 文件转换为静态 HTML 站点。它提供了一种快速高效的生成 Web 内容的解决方案，允许用户将 React 组件直接集成到 Markdown 文档中。主要功能包括无缝转译 Markdown 到 HTML、利用 Rust 增强性能以及轻松集成 React 以用于交互元素。Kaffe 非常适合希望部署静态站点（例如博客）而无需学习复杂框架的用户。它支持 TypeScript 并使用 V8 引擎执行，从而促进服务器端渲染和客户端水合。此外，Kaffe 还提供热模块重新加载以实现快速开发。]]></description>
+      <guid>https://t.me/hn_summary/112665</guid>
+      <pubDate>Tue, 15 Oct 2024 19:50:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在“日志最佳实践：工程师的清单”中，Honeycomb.io 强调了日志记录的重要性 [...]</title>
-      <link>https://t.me/hn_summary/112635</link>
-      <description><![CDATA[日志最佳实践：工程师的检查表
-在“日志最佳实践：工程师的检查表”中，Honeycomb.io 强调了现代日志实践对 DevOps 和 SRE 团队的重要性。本文重点介绍了结构化和整合日志如何通过提供对错误和系统行为的清晰洞察来增强系统完整性、性能监控和安全性。它概述了十种最佳实践，包括使用结构化日志、整合日志条目、使用唯一标识符和避免敏感数据。本文强调了像 Honeycomb 这样的集中式日志管理系统对于高效日志分析和可观察性的必要性。一个令人惊讶的见解是强调将日志视为数据，这可以产生超越传统时间序列聚合的有价值的应用程序指标。本文最后提倡记录良好的日志记录实践，以确保团队之间的清晰度和一致性。]]></description>
-      <guid>https://t.me/hn_summary/112635</guid>
-      <pubDate>Tue, 15 Oct 2024 16:59:51 GMT</pubDate>
+      <title>[媒体] Clement Rousseau 推出了一款独特的 macOS 计时器应用程序，用户可以像电子计时器一样控制它 [...]</title>
+      <link>https://t.me/hn_summary/112664</link>
+      <description><![CDATA[显示 HN：一款像橡皮筋一样控制的 macOS 计时器应用
+Clement Rousseau 推出了一款独特的 macOS 计时器应用，用户可以像橡皮筋一样控制它，提供灵活直观的体验。这款应用的一个突出特点是它致力于保护隐私，因为它不会收集任何用户数据。在数据隐私日益受到关注的时代，这种方法尤其值得注意。然而，隐私保护措施可能会因使用的功能或用户的年龄而异，因此建议查看开发者的隐私政策以了解更多详细信息。这款应用是功能和隐私意识设计的巧妙结合的典范。]]></description>
+      <guid>https://t.me/hn_summary/112664</guid>
+      <pubDate>Tue, 15 Oct 2024 19:50:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
