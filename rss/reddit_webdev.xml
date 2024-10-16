@@ -4,20 +4,34 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 16 Oct 2024 09:07:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 12:09:49 GMT</lastBuildDate>
+    <item>
+      <title>书呆子哈克顿</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g4w2yc/nerdy_hackton/</link>
+      <description><![CDATA[我去法国南部见我多年未见的大学朋友。现在我们都是高级开发人员，周五晚上（下雨我们不出门）我们决定做 hackaton，两个开发人员从下午 5 点到凌晨 2 点，从一个简单的想法构思到部署。 我很乐于接受各种想法，所以请分享一些你想在这个周末现场看到的很酷的东西，我会让它变得可扩展，我会在 github 上公开分享代码。和这个 subreddit    提交人    /u/abdouelmes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g4w2yc/nerdy_hackton/</guid>
+      <pubDate>Wed, 16 Oct 2024 10:23:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>这份工作感觉毫无意义又很愚蠢</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g4vwnv/this_job_feels_so_pointless_and_silly/</link>
+      <description><![CDATA[我坐在办公室里，周围的人都在认真讨论网站上需要更改的横幅，就像是某种军事行动一样。有这么深奥吗？为什么每个人都这么认真地对待自己？ 如果鞋子图像在屏幕宽度小于 350px 时离文本太近，地球会停止转动吗？ 我认真考虑辞职，只为做一些真正感觉自己正在改变世界的事情。抱怨结束！    提交人    /u/StillAsleep_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g4vwnv/this_job_feels_so_pointless_and_silly/</guid>
+      <pubDate>Wed, 16 Oct 2024 10:11:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>用户友好型——WordPress 的免费替代品？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g4vbmg/user_friendly_free_alternative_to_wordpress/</link>
+      <description><![CDATA[您好，我已经使用 WordPress 几年了，因为它使用方便而且免费，因为我的页面更像是一个博客。我时不时地用它发布文章和媒体画廊。似乎 WordPress 不再是最好的选择 (?)，但 Squarespace 等我必须付费。我对代码等非常无知，所以我正在寻找像 WordPress 一样易于设置和使用的东西。这是一个现实的选择吗？谢谢。    提交者    /u/Ok-Appointment6049   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g4vbmg/user_friendly_free_alternative_to_wordpress/</guid>
+      <pubDate>Wed, 16 Oct 2024 09:29:25 GMT</pubDate>
+    </item>
     <item>
       <title>客户端渲染锁定（Vue/Nuxt）</title>
       <link>https://www.reddit.com/r/webdev/comments/1g4v0od/client_side_render_lockin_vuenuxt/</link>
-      <description><![CDATA[目前使用 Vue / Nuxt 从客户端渲染转向 SSR。 我们花了一年时间研究自定义身份验证解决方案，直到我们准备好转向机密客户端 OIDC 设置。这意味着我们将机密存储在 Web 服务器上。此 OIDC 模块也需要 SSR，我们需要从 Web 服务器执行所有外部 API 调用。这次重写不是问题，而且一直是计划，不暴露访问令牌。 但是，打开 SSR 后重写各种客户端逻辑非常繁重。 在使用这样的框架时，我们的客户端是否应该已经基本符合 SSR 标准，比如使用 onMounted 而不是在任何随机点直接访问 window/document/localStorage 等？ 在开发时，是否应该通常检查 SSR 合规性并来回切换？ 我只是问这是否是未来项目中需要考虑的事情。 当然，将来会提前检查这样的要求。    提交人    /u/kakemot   [链接] [评论]]]></description>
+      <description><![CDATA[目前使用 Vue / Nuxt 从客户端渲染转向 SSR。 在预生产阶段，我们花了一年时间使用自定义身份验证来开发解决方案，直到我们准备好转向机密客户端 OIDC 设置。这意味着我们将机密存储在 Web 服务器上。此 OIDC 模块也需要 SSR，我们需要从 Web 服务器执行所有外部 API 调用。这种重写不是问题，而且一直是计划，不暴露访问令牌。 因此我们将 SSR 设置为 true。开启 SSR 后重写各种客户端逻辑可能相当繁重。 在使用此类框架时，我们的客户端是否应该已经基本符合 SSR 标准，例如使用 onMounted 而不是随时直接访问 window/document/localStorage 等？ 开发时是否应该经常检查 SSR 合规性并在两者之间切换？ 当然，此类要求需要在未来提前检查。我对类似的案例很好奇。    提交人    /u/kakemot   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g4v0od/client_side_render_lockin_vuenuxt/</guid>
       <pubDate>Wed, 16 Oct 2024 09:06:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的解决方案是快速开发产品组合 + linktree</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g4updz/my_solution_for_a_quick_dev_portfolio_linktree/</link>
-      <description><![CDATA[      大家好， 所以在改造我的个人网站时，我在想如果有一个基于 Github 个人资料的快速投资组合会有多酷。我在考虑合并 Github 个人资料 + Linktree + CV 时产生了这个想法。一些快速且易于共享的东西。 我基本上把所有东西放在一起，并想出了一个简单的网络应用程序，它可以提取您的 GitHub 统计信息，并让您无需额外工作即可分享您最喜欢的链接（Linktree）和您的技术技能（CV）。  现在，我知道我们都讨厌自我推销，但我实际上真的在寻找贡献者和想要加入我进一步构建应用程序的人，因为我真的希望获得大量作为行业新开发人员在团队合作方面的经验。 如果您有兴趣，以下是它目前的样子（https://route2.dev/s1lvax）： https://preview.redd.it/4nrxv4xty2vd1.png?width=1194&amp;format=png&amp;auto=webp&amp;s=cec02fb583d904f8207fd9d7f6ee5327a95eb628    提交人    /u/cesariofs_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g4updz/my_solution_for_a_quick_dev_portfolio_linktree/</guid>
-      <pubDate>Wed, 16 Oct 2024 08:42:22 GMT</pubDate>
     </item>
     <item>
       <title>处理非常大的 OpenAPI 规范</title>
@@ -88,20 +102,6 @@
       <description><![CDATA[        提交人    /u/PerkyDreamin   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g4q0tb/instagramfacebook_graph_api_why_cant_i_get_a_page/</guid>
       <pubDate>Wed, 16 Oct 2024 03:19:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>迫切需要帮助：尝试构建最流畅的图像滑块，但我遇到了一些奇怪的 Safari 浏览器绘制问题（帖子中的示例视频）。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g4e2bc/desperately_need_help_trying_to_build_the/</link>
-      <description><![CDATA[我正在构建一个由滚轮控制的图像滑块。 它运行良好，但有一个非常微妙的故障破坏了效果。当图像第一次进入视口时，我们可以看到它们在很短的时间内渲染。然后，当我到达滑块的末尾并且每个图像都至少被看过一次时，我可以顺利地滚动滑块并且没有任何问题。 --&gt; 这是该问题的视频捕获 &lt;-- --&gt; 轮播的实时版本 &lt;-- --&gt; CodeSandbox 与轮播代码 &lt;-- 以下是一些重要细节：  该问题似乎仅发生在桌面版 Safari 和移动设备（iOS Chrome 和 Safari）上 我正在使用 requestAnimationFrame 页面加载时，图像全部一次性加载（我已检查网络选项卡）。这是预期的行为。因此，我们看到的不是正在加载的图像，而是它们被浏览器呈现。 图像标签没有 lazy=&quot;true&quot;，它们只是随页面加载的常规图像 我尝试在图像包装器（将被翻译）和图像本身上设置 will-change:transform，但没有成功。 我尝试使用 js decode() 方法手动解码图像，但没有成功 我尝试使用滑块库（Keen Slider），它似乎非常可靠，这个特定问题也发生了  如果您对可能出现的问题有任何建议或提示，我将不胜感激!!!! 此外，如果有更好的subreddit 有这种问题，请告诉我！ 爱    提交人    /u/monsieurninja   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g4e2bc/desperately_need_help_trying_to_build_the/</guid>
-      <pubDate>Tue, 15 Oct 2024 18:01:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gsap 被 Webflow 收购</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g4ddiz/gsap_got_aquired_by_webflow/</link>
-      <description><![CDATA[刚刚在 Webflow conf 中看到它。有什么想法吗？    提交人    /u/Autumnlight_02   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g4ddiz/gsap_got_aquired_by_webflow/</guid>
-      <pubDate>Tue, 15 Oct 2024 17:32:09 GMT</pubDate>
     </item>
     <item>
       <title>创建用于上传内容的画廊网站的最佳和最简单的方法是什么？</title>
