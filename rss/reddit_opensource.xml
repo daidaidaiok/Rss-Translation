@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 16 Oct 2024 00:27:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 03:16:57 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一款用于查找免费游戏和赠品的应用程序！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g4msoe/i_made_an_app_for_finding_free_games_and_giveaways/</link>
+      <description><![CDATA[大家好， 我想分享一个我一直在做的项目，叫做免费游戏追踪器。这是一款 Android、Web 和 Windows 应用程序，可让您轻松找到免费游戏赠品和 DLC - 无需再在不同网站或 Discord 频道之间跳转！ 在此处查看：https://pyoneerc1.itch.io/free-games-tracker 主要特点：  即时访问：只需轻轻一点，即可查看所有当前免费游戏。 自动更新：该应用程序会自动获取最新优惠，因此您始终可以随时了解最新信息。 无混乱：它只关注限时赠品和独家 DLC - 这里没有免费游戏（我为此制作了其他应用程序）  感谢您的关注！如有任何反馈，我们将不胜感激！    由   提交  /u/OkNeedleworker6500   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g4msoe/i_made_an_app_for_finding_free_games_and_giveaways/</guid>
+      <pubDate>Wed, 16 Oct 2024 00:29:49 GMT</pubDate>
+    </item>
     <item>
       <title>是否有适用于 MS Word 开源版本的推荐？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g4mh58/recs_for_open_source_versions_of_ms_word/</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[标题。说我有 7 个我经常使用的最喜欢的应用程序（并且我经常在它们之间切换）。我想要有浮动菜单（始终可见），这样我只需按一下就可以在应用程序之间切换。 它可以是浮动按钮的形式，甚至是固定栏（如“•back •home *windowSwitch”栏）。最重要的是它必须在应用程序中可见（这样我可以通过单击切换到另一个应用程序）    提交人    /u/MorePeppers9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g4mc82/any_android_launcher_with_floating_or_fixed/</guid>
       <pubDate>Wed, 16 Oct 2024 00:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在公开发布的同时最好地继续私人开发？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g4kx22/how_best_to_continue_private_development_while/</link>
-      <description><![CDATA[您好，我和我的团队在过去 6 个月中一直在开发一个开源研究程序，并计划很快向公众发布。我们的目标是让这个软件免费，供任何想要的人使用。 我们目前将我们的程序放在私人 GitHub 存储库中，但显然想将其公开。但是，我们希望继续开发，但将这些开发分支设为私有。在 GitHub 上，这似乎不是一个功能。继续开发的最佳方式是什么，我不确定在开源社区中这样做的标准方式是什么，所以我想在这里问。这是我第一次发布任何开源内容，所以我不确定最佳做法是什么。    提交人    /u/AskedSuperior   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g4kx22/how_best_to_continue_private_development_while/</guid>
-      <pubDate>Tue, 15 Oct 2024 22:58:32 GMT</pubDate>
     </item>
     <item>
       <title>JsTraceToIX 1.0——调试 React、Vue 和 Node.js 变得更容易！——无需用“console.log”弄乱你的代码库！</title>
