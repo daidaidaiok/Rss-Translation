@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 16 Oct 2024 15:07:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 18:10:28 GMT</lastBuildDate>
+    <item>
+      <title>训练 AI 生成网站设计 - 测试 1 和 2</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g55ajn/training_an_ai_to_generate_website_designs_tests/</link>
+      <description><![CDATA[      炫酷的科技图片 嗨，各位网络开发者们， 我觉得看看 AI 模型能否训练出高质量的网站设计会很有趣。 这些 AI 生成的图片来自我在调整学习率和超参数时进行的前两次测试。 注意：这些是非常小的测试，因此图像质量不是很好/很精致。 我现在正在进行主要训练，很快就会在这里分享结果！ 我实际上是一名全栈网络和自动化开发人员，但直到最近才开始深入研究令人惊叹的（通常并不那么神奇！）AI / ML的世界。 如果您想和我一起踏上这次冒险，请加入等候名单： https://upperhorizo​​n.com/waitlist-wd?utm_campaign=reddit-webdev 与此同时，享受这些设计： 我喜欢顶部的抽象图形 颜色和小细节都很棒 https://preview.redd.it/o20n75sik5vd1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=dfe4dcc760feb8268c932021ad29c8ad9facc9ed https://preview.redd.it/21nyjdwpm5vd1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=79697441f9c2beade3d9123f975b2c66a3e6741c https://preview.redd.it/kk17j6wpm5vd1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=5104b4184bdb186e1de6aeb8364cf583baf648ac https://preview.redd.it/98p4xcwpm5vd1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=9fcdbbf23c0d3cd9f8055cdbf8b4a3c92fffa3f5 https://preview.redd.it/9oakwcwpm5vd1.png?width=1236&amp;format=png&amp;auto=webp&amp;s=f0c403b32bc361571657635b2688c01eaf1b16d4 https://preview.redd.it/elguucwpm5vd1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=d32997ca700785fa1c5dbb63d9827b8467ccf017 https://preview.redd.it/5jrqzdwpm5vd1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=043576d049dc30279beaf79644a9436ef6349605    提交人    /u/kittenchief   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g55ajn/training_an_ai_to_generate_website_designs_tests/</guid>
+      <pubDate>Wed, 16 Oct 2024 17:41:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>域名搜索后被抢走——需要建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g556ss/domain_name_sniped_after_search_need_advice/</link>
+      <description><![CDATA[大家好， 我最近搜索了域名 atlasafe.com，计划注册。我第一次检查时（大约 10 月 9 日），它是可用的。然而，今天我发现它已被注册并链接到使用 Vamtam 生成的通用 WordPress 网站。 时机可疑，因为我在 Instantdomainsearch 和 Namecheap 等域名注册网站上进行了多次搜索。现在，似乎有人在我之前注册了它。 这是一个常见问题吗？我的域名搜索是否可能受到监控和出售？有人遇到过这种情况吗？在这种情况下我该怎么办？ 这是我发现的：  我的搜索：https://i.imgur.com/jIjhKHQ.png 新注册人：https://i.imgur.com/xZsvs1O.png  任何建议或类似的经验都将不胜感激。 提前致谢。 更新： 在 namecheap 上，当我在 10 月 9 日 第一次检查时，它可以注册。但是，我刚刚再次查看了 Namecheap，现在显示该域名实际上是 2 年前注册的，这显然不是我上周搜索时的情况，也不是因为该域名之前从未注册过。 Namecheap 2 年提及：https://i.imgur.com/Ft3bZL2.png Namecheap whois：https://i.imgur.com/XLAgiuU.png    提交人    /u/beeriz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g556ss/domain_name_sniped_after_search_need_advice/</guid>
+      <pubDate>Wed, 16 Oct 2024 17:36:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否曾在最初的试用期内辞去雇主的工作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g54x6f/did_you_ever_quit_working_for_an_employer_during/</link>
+      <description><![CDATA[一开始面试的时候一切都很好，但在最初的几周里，你会有一种奇怪的感觉，觉得这与你想要的不符。你有过这样的经历吗？你是如何处理的？    提交人    /u/duncante   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g54x6f/did_you_ever_quit_working_for_an_employer_during/</guid>
+      <pubDate>Wed, 16 Oct 2024 17:25:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们的联系表单使用什么后端？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g54w5b/what_backend_do_you_guys_use_for_your_contact/</link>
+      <description><![CDATA[我正在寻找可靠的东西来将我的前端联系表单连接到客户。  过去我用过 Netlify，它们很好，但没有实现“谢谢”页面的选项。  我也是后端开发人员，所以我知道我可以用 Nodemailer 或其他东西实现我自己的后端，但我不想这样做，因为这会增加额外的成本和维护，我不想处理。  所以我很好奇你们在日常客户交付中使用什么？  干杯     提交人    /u/Error403_FORBlDDEN   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g54w5b/what_backend_do_you_guys_use_for_your_contact/</guid>
+      <pubDate>Wed, 16 Oct 2024 17:24:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>LinkedIn 加载速度很慢吗？还是只有我一个人有这个问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g53om8/is_linkedin_loading_slowly_or_is_it_just_me/</link>
+      <description><![CDATA[我经常使用 LinkedIn 作为社交网络来查看帖子和工作机会并浏览有趣的东西。但是，我注意到它要么需要很长时间才能加载，要么会失败，所以现在我必须刷新页面。好的工作机会被隐藏了，因为您有 120 个可能不感兴趣的推广工作机会。 我了解工作机会部分，我正在考虑制作一个插件来直接过滤它们，但该网站几乎需要 10 秒 才能加载所有组件，这一事实令人沮丧。我使用 Opera 作为浏览器，我切换到 Chromium 看看它是否更好；它速度更快，但仍然需要很长时间才能加载所有内容。 我的问题是：只有我吗？    提交人    /u/ultra_SCAT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g53om8/is_linkedin_loading_slowly_or_is_it_just_me/</guid>
+      <pubDate>Wed, 16 Oct 2024 16:34:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>联邦贸易委员会宣布最终“点击取消”规则，让消费者更轻松地终止定期订阅和会员资格</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g53m54/federal_trade_commission_announces_final/</link>
+      <description><![CDATA[        提交人    /u/MissionToAfrica   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g53m54/federal_trade_commission_announces_final/</guid>
+      <pubDate>Wed, 16 Oct 2024 16:31:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>其他人在日常站立会议期间也会使用笔记吗？还是只有我这样做？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g53566/do_others_use_notes_during_daily_standups_or_is/</link>
+      <description><![CDATA[大家好， 每当我发表每日站立式更新时，我都会有点紧张，尤其是当会议或电话中有大约十个人时。为了帮助自己保持正轨，我在笔记本电脑屏幕上使用便签，上面写了一些总结我需要说的要点。因为我用的是笔记本电脑，摄像头朝向我，就像下面的便签一样……没有人能真正看出我在参考笔记。 有时我觉得我是唯一一个这样做的人，因为我看到一些同事发表这些完美的站立式更新。他们毫不费力地讲话，在没有任何明显提示的情况下涵盖了两三段更新。这让我想知道他们是如何做到这一点的。他们天生就擅长，还是他们有自己的策略？ 你们当中有人在站立式会议上使用提示卡、便签或任何类型的谈话要点吗？您如何应对紧张情绪，并确保涵盖所有要点而不会结巴？     提交人    /u/Unable_Count_1635   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g53566/do_others_use_notes_during_daily_standups_or_is/</guid>
+      <pubDate>Wed, 16 Oct 2024 16:12:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>100 多个开源 SVG Spinners 合集（链接见评论）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g532zn/collection_of_100_open_source_svg_spinners_link/</link>
+      <description><![CDATA[        提交人    /u/TheNerdistRedditor   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g532zn/collection_of_100_open_source_svg_spinners_link/</guid>
+      <pubDate>Wed, 16 Oct 2024 16:09:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>马来西亚后端 Web 开发人员薪资</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g52yy9/malaysia_backend_web_developer_salary/</link>
+      <description><![CDATA[有人可以分享马来西亚各个级别的后端网络开发人员的薪水吗？ 任何其他适合马来西亚人的远程工作也欢迎。 我也想知道你是如何计算出新工作谈判的平均工资的。    提交人    /u/anya-xd   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g52yy9/malaysia_backend_web_developer_salary/</guid>
+      <pubDate>Wed, 16 Oct 2024 16:05:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何开始收集访客数据？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g52tvq/how_can_i_start_collecting_data_on_visitors/</link>
+      <description><![CDATA[当然，从道德上讲。 我可以使用 Facebook 像素检索任何类型的数据吗？还是说这些数据只是单程发送给其创建者？有没有办法利用这些经纪人已经拥有的数据源，还是我需要自己以某种方式收集？如果某个地方有可用的服务，我不介意为每个用户支付几美分。 此外，我可以构建自己的跟踪器，但我不知道如果没有某种辅助服务（例如将其链接到 Facebook 像素），它可以收集多少数据。跟踪器如何从它看到的浏览中获取上下文？ 我正在尝试查找或收集用于广告的相同数据。我有一个独特的想法，我认为它会被用户群很好地接受，而且它是可选的，所以我希望不要为此太松懈。我只是真的不知道从哪里开始 谢谢    提交人    /u/The137   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g52tvq/how_can_i_start_collecting_data_on_visitors/</guid>
+      <pubDate>Wed, 16 Oct 2024 15:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>单元测试与集成测试</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g52qt7/unit_vs_integration_tests/</link>
+      <description><![CDATA[究竟是什么原因导致优先选择其中一个？ 我遇到过这样一种情况：我们的代码中配置了断路器，主要用于对其他服务进行网络调用（REST）时，我们还为其配置了一个回退函数。如果实际方法抛出异常，则执行回退方法。 现在，回退方法所做的唯一一件事就是再次抛出异常（就像这样，一行代码抛出异常）。在我看来，编写集成测试似乎有点小题大做，对我来说，这是一个很好的单元测试案例，但是我的经理强调集成测试是必要的，并且它适合集成测试的案例。 我想知道关于此问题的更广泛的意见。    提交人    /u/anonymous_devil22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g52qt7/unit_vs_integration_tests/</guid>
+      <pubDate>Wed, 16 Oct 2024 15:56:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 激怒 IT 部门 — 45 天证书过期之争</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g52kpg/apple_enrages_it_45day_cert_expiration_fury/</link>
+      <description><![CDATA[        由    /u/CrankyBear  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g52kpg/apple_enrages_it_45day_cert_expiration_fury/</guid>
+      <pubDate>Wed, 16 Oct 2024 15:48:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人能解释一下为什么欧洲银行要求我们将登录名和 PIN/密码交给第三方应用程序而不是使用 OAuth 2.1 之类的东西吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g52h0c/can_someone_explain_why_european_banks_are_asking/</link>
+      <description><![CDATA[        由    /u/boyahmed 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g52h0c/can_someone_explain_why_european_banks_are_asking/</guid>
+      <pubDate>Wed, 16 Oct 2024 15:44:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>拒绝 cookies 是否会影响访客数量跟踪？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g525vi/does_cookies_rejection_affect_visitor_number/</link>
+      <description><![CDATA[我想这是最适合提出这个问题的 subreddit。如果网页访问者拒绝 cookie，会怎么样？这次访问是否完全被我忽略了？即使网站可能很棒，它也会给人留下“不够好”的印象    提交人    /u/ShadedWizard   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g525vi/does_cookies_rejection_affect_visitor_number/</guid>
+      <pubDate>Wed, 16 Oct 2024 15:31:24 GMT</pubDate>
+    </item>
     <item>
       <title>Safari 技术预览版中的 SVG 路径问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1g51ky6/svg_path_issues_in_safari_technology_preview/</link>
       <description><![CDATA[基本上是这样的：https://x.com/drsmrtnik/status/1846565403025133808，请帮忙:)    提交人    /u/DrSmrtnik   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g51ky6/svg_path_issues_in_safari_technology_preview/</guid>
       <pubDate>Wed, 16 Oct 2024 15:06:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Node v23.0.0（当前版本）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g51gwt/node_v2300_current/</link>
-      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g51gwt/node_v2300_current/</guid>
-      <pubDate>Wed, 16 Oct 2024 15:01:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>何时运行自动化测试</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g518zd/when_to_run_automated_tests/</link>
-      <description><![CDATA[大家好， 这只是一个简单的问题，寻求观点/意见。 在我们目前为工作构建的 Web 应用程序的 CI 工作流中，每当 PR 合并到主 PR 中时，我们都会运行自动测试，如果测试失败，您将无法合并 PR，直到测试被修复。 在将应用程序部署到我们的开发或生产环境时，我们没有运行任何自动测试。 注意事项  我们有一个 QA 团队，他们会测试所有的工作并提出需要修复的错误，正如您所期望的那样 这只涉及前端 React App，后端 Django 应用程序位于不同的 repo 中，具有不同的 CI 管道 我们不会自动将代码提升到我们的 DEV 环境，工程师必须手动触发构建过程  我的问题是，在部署之前再次运行自动测试是否值得发生了什么，并使部署触发器依赖于自动化测试的通过？ 提前致谢！    提交人    /u/preacher2041   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g518zd/when_to_run_automated_tests/</guid>
-      <pubDate>Wed, 16 Oct 2024 14:52:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我肯定很笨，被骗了，不知道有人能帮帮我吗，我厌倦了在网上花几个小时试图解决我的智力低下问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g515bi/i_just_must_be_stupid_got_scammed_idk_can_someone/</link>
-      <description><![CDATA[我从 go daddy 购买了一个域名。该网站只是从我猜的 godaddy 网站构建器中投射一个默认页面。好吧，我不想使用模板和水印。我想完全控制我的网站的外观。所以我从 go daddy 购买了企业网站托管或其他东西。但该网站仍然显示默认的“即将推出”页面。我只想能够编写代码并让域名加载我编写的代码，我该怎么做？     提交人    /u/HotCourt6842   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g515bi/i_just_must_be_stupid_got_scammed_idk_can_someone/</guid>
-      <pubDate>Wed, 16 Oct 2024 14:47:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>反馈循环</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g51377/the_feedback_loop/</link>
-      <description><![CDATA[想知道人们对反馈循环做了什么，例如，你有一个设计（例如来自 Figma），实现了该设计，将其发送回利益相关者，他们得到了评论。 我知道一些 CMS 内置了此功能，但如果您没有其中之一怎么办？ 我们正在苦苦挣扎，屏幕截图太可怕了，复制粘贴的 Word 也好不到哪里去。只是想知道是否有我们可以研究的工具或工具类，也许是基于可访问性树的东西（因为大多数反馈都围绕措辞，而不是实际设计（已经经过了反馈循环）    提交人    /u/cjb110   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g51377/the_feedback_loop/</guid>
-      <pubDate>Wed, 16 Oct 2024 14:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Webflow 收购 GreenSock/GSAP</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g50yhr/webflow_acquires_greensockgsap/</link>
-      <description><![CDATA[自从 GSAP 被称为 TweenLite、TweenMax 等（2008 年）以来，我就一直在使用它，所以这个消息真的令人惊讶。这表明 Webflow 知道什么对他们的平台很重要，但与此同时，这是第一次公开可用的 GSAP 悬而未决。它现在是公开可用的，也许还会持续很长一段时间。但如果你已经在 GSAP 上建立了网站和产品，那么这种新的不确定性并不令人兴奋。 新闻稿：https://webflow.com/blog/webflow-conf-2024-keynote-recap#gsap    提交人    /u/shableep   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g50yhr/webflow_acquires_greensockgsap/</guid>
-      <pubDate>Wed, 16 Oct 2024 14:39:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>搜索整个网站，包括链接的数据库？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g50vsa/search_entire_website_including_linked_databases/</link>
-      <description><![CDATA[是否有可以同时搜索代码和数据库以查找搜索词的工具？ 上下文：为客户开发网站，该客户使用其网页构建器应用 (Wix) 的删除工具删除了一款产品。如果您使用搜索栏，即使清除了缓存，该产品仍会显示出来。链接本身不会返回任何产品信息。缓存已被清除。搜索栏本身是一个没有过滤选项的应用，我无法添加代码来插入例外。 我想同时搜索该产品的整个后端代码（包括任何链接的数据库），以找出幽灵信息所在的位置，因此我想知道是否有可以使用的工具。 谢谢！    提交人    /u/Lomi_Lomi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g50vsa/search_entire_website_including_linked_databases/</guid>
-      <pubDate>Wed, 16 Oct 2024 14:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>奖品竞赛网站支付处理器（英国）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g50gg0/payment_processor_for_prize_competition_website_uk/</link>
-      <description><![CDATA[我和我的朋友正在合作建立一个有奖竞赛网站。我正在处理所涉及的所有技术并开发网站，并且正在努力为我们这些新商家寻找良好的支付处理器选项。不能使用 Stripe、PayPal 或其他很多支付方式，所以我想知道你们是否有什么想法？干杯。    提交人    /u/RadicalAnon   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g50gg0/payment_processor_for_prize_competition_website_uk/</guid>
-      <pubDate>Wed, 16 Oct 2024 14:17:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>aPulse——单文件 Nodejs 服务器状态监控工具。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g505h5/apulse_a_onefile_nodejs_server_status_monitoring/</link>
-      <description><![CDATA[       由    /u/ybouane  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g505h5/apulse_a_onefile_nodejs_server_status_monitoring/</guid>
-      <pubDate>Wed, 16 Oct 2024 14:03:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>OPAL 简介 - 一种细粒度权限授权服务</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g4zyx7/intro_to_opal_an_authorization_service_for/</link>
-      <description><![CDATA[       由    /u/Permit_io  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g4zyx7/intro_to_opal_an_authorization_service_for/</guid>
-      <pubDate>Wed, 16 Oct 2024 13:55:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>你有自己的 global.css 文件吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g4zw8y/do_you_have_your_own_globalcss_file/</link>
-      <description><![CDATA[作为一名正在学习 Web 开发（使用 React）的人，我刚刚注意到 global.css 文件对于在所有页面和组件中保持相同外观有多么方便。 我会建立一个至少包含 5 种匹配颜色的调色板。我会为不同的设备设置响应式字体大小。我还可以设置按钮的外观和行为方式。等等…… 问题是，这是一种常见的做法吗？这就是您或您的公司保持每个项目前端样式统一的方式吗？ 示例： .global-title { font-size: 0.8rem; font-weight: 600; } /* 中等屏幕 */ @media (min-width: 768px) { .global-title { font-size: 1rem; } } /* 大屏幕 */ @media (min-width: 1024px) { .global-title { font-size: 1.2rem; } }     提交人    /u/Ok_Pea_7649   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g4zw8y/do_you_have_your_own_globalcss_file/</guid>
-      <pubDate>Wed, 16 Oct 2024 13:52:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Llamafile v0.8.14：全新 UI、性能提升等</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g4zrsy/llamafile_v0814_a_new_ui_performance_gains_and/</link>
-      <description><![CDATA[        由    /u/feross 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g4zrsy/llamafile_v0814_a_new_ui_performance_gains_and/</guid>
-      <pubDate>Wed, 16 Oct 2024 13:46:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress 与 WP Engine 的较量以及您应该关心它的原因</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g4y68w/the_wordpress_vs_wp_engine_drama_and_why_you/</link>
-      <description><![CDATA[几周以来，WordPress 和 WP Engine 的创始人 Mat Mullenweg 卷入了一场公开而激烈的争吵。 这场闹剧很好地提醒了任何用户（企业主、开发人员等）平台的风险。 我在一篇文章中总结了这场争议：WordPress 与 WP Engine 之争    提交人    /u/AdityaSaroj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g4y68w/the_wordpress_vs_wp_engine_drama_and_why_you/</guid>
-      <pubDate>Wed, 16 Oct 2024 12:28:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>存储在 Azure Blob 存储中的 Wav 文件未在 html <audio /> 元素上进行搜索</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g4y5de/wav_file_stored_on_azure_blob_storage_is_not/</link>
-      <description><![CDATA[因此，我在 Azure 上存储了 wav 格式的音频文件。当我将它们的 URL 放入音频元素中时，它会随机地在控制台上的媒体中给出 200 ok 响应或 206。问题在于 200 ok 响应。它不允许用户搜索。当我尝试时，它只是重新启动音频播放。而当响应为 206 时，它工作得完全正常。我被卡住了。有人处理过类似的问题吗？请帮我解决它。    提交人    /u/Acrobatic_Ad3171   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g4y5de/wav_file_stored_on_azure_blob_storage_is_not/</guid>
-      <pubDate>Wed, 16 Oct 2024 12:27:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>充分利用 Claude Projects 的秘诀</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g4xygh/a_tip_for_getting_the_most_out_of_claude_projects/</link>
-      <description><![CDATA[我一直在使用 Anthropic 的 Claude 3.5 Sonnet 作为我的主要 AI 助手。它远非完美，所有 AI 工具都是如此。但是，它比没有项目“上下文”的普通 ChatGPT 或 Claude 聊天更有用。 如果您还没有使用它，我认为主要的好处是您可以将项目知识（即文件）上传到项目中，然后在聊天期间引用它们。它非常有用。 为了充分利用它，我一直在做的是保留一个简单的 markdown 文件，它是我项目的完整摘要。说实话，即使我没有使用 AI，它也是一个非常有用的工具，因为它可以可靠地跟踪我的所有想法、项目的当前状态等。 例如，以下是我当前项目文档中的各个部分：  给 AI 的注释 - 例如“犯错时不要道歉”、“不要编辑这个文档”、“当我告诉你阅读时，不要尝试打印这份文档的全部内容”、“提醒，我使用 fish shell、kitty 和 yarn，所以当你给我 CLI 说明时，请使用那些工具”；基本上，我注意到它定期做的事情 项目摘要（功能、术语定义、系统功能摘要） 架构概述 史诗与按平台细分的功能（即用户平台、管理平台、营销网站） 关键决策 已完成的任务 待办事项 / 后续步骤 未解决的问题 / 问题 / 疑虑 开发工具（前端框架和包、后端框架和包、单元 / 集成 / 端到端测试、开发环境、托管 / 生产 / devops、项目管理工具 数据库表（每个表的概述 - 其用途、未解决的问题和列的列表） 数据库结构 数据库种子计划 - 即种子文件中每个表应包含哪些内容的列表，以便种子文件在平台功能方面创建一个完全具有代表性的数据库 数据库表结构 - 每个表、每个表中的列、该列中的数据类型（与我使用的数据库一致 - 在我的数据库引擎Database Engine 是一种数据库管理系统，它包括以下信息：数据库引擎Database Engine（例如，sqlite）、列的默认值、列是必需的还是可选的，以及有关列的其他注释 - 日期/时间格式、唯一性等 索引、触发器、行级安全性和策略 - 上面说的，需要创建的所有其他索引的列表，用于 update_at 列之类的触发器，行级安全性，以及关于哪种类型的用户可以访问哪些类型的数据以及他们可以用它做什么（读取、写入、删除、更新）的策略  项目目录树/结构；这对于 AI 查看当前文件/文件夹结构、已存在文件等很有用。  无论如何 - 我发现，每当我开始新的聊天时，即使在 Claude 项目结构中，AI 也会丢失我们之前聊天的知识。所以，这个文档允许我提供这一点。我只是在更新文档时保留时间戳，然后每次更新时，我都会删除旧副本，上传新副本。 然后，当我在项目中开始新的聊天时（您无法进行一次长时间的聊天，聊天时间越长，消耗的使用量就越快），聊天的第一段是我告诉 Claude 审阅文档，如果我需要它注意某个特定部分，我会指出该部分。  我不知道这对任何人是否有用，但我发现它非常有用。它还帮助我以更正式的方式制定我的想法和决定，而不仅仅是“去做”并构建项目，因为这意味着我必须考虑我想做什么，并写下来，而不是只是即兴发挥。     提交人    /u/stormthulu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g4xygh/a_tip_for_getting_the_most_out_of_claude_projects/</guid>
-      <pubDate>Wed, 16 Oct 2024 12:17:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
