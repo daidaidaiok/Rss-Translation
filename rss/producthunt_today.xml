@@ -4,34 +4,48 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 17 Oct 2024 18:07:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 21:07:22 GMT</lastBuildDate>
     <item>
-      <title>玩节点</title>
-      <link>https://www.producthunt.com/posts/playnode</link>
+      <title>适用于 iOS 的 Groq</title>
+      <link>https://www.producthunt.com/posts/groq-for-ios</link>
       <description><![CDATA[
-共享 AI 游乐场，可同时探索多个想法
+快速获得答案
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/playnode</guid>
-      <pubDate>Wed, 16 Oct 2024 21:51:31 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/groq-for-ios</guid>
+      <pubDate>Thu, 17 Oct 2024 01:05:21 GMT</pubDate>
     </item>
     <item>
-      <title>Marqly 3.0</title>
-      <link>https://www.producthunt.com/posts/marqly-3-0</link>
+      <title>安全日志</title>
+      <link>https://www.producthunt.com/posts/securelog</link>
       <description><![CDATA[
-书签管理器，革命性十足。
+防止代码、日志和管道中的机密泄露
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/marqly-3-0</guid>
-      <pubDate>Wed, 16 Oct 2024 15:06:53 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/securelog</guid>
+      <pubDate>Wed, 16 Oct 2024 19:14:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>萨瓦操作系统</title>
+      <link>https://www.producthunt.com/posts/sava-os</link>
+      <description><![CDATA[
+适用于您的网络浏览器的桌面界面
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/sava-os</guid>
+      <pubDate>Wed, 16 Oct 2024 18:12:35 GMT</pubDate>
     </item>
     <item>
       <title>我的手机在伦敦安全吗？</title>
@@ -60,6 +74,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/smart-invoices</guid>
       <pubDate>Wed, 16 Oct 2024 07:48:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>ImageKit 的 AI 转换</title>
+      <link>https://www.producthunt.com/posts/ai-transformations-by-imagekit</link>
+      <description><![CDATA[
+通过基于 URL 的 API 在地址栏中创建 + 编辑图像
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ai-transformations-by-imagekit</guid>
+      <pubDate>Wed, 16 Oct 2024 02:15:14 GMT</pubDate>
     </item>
     <item>
       <title>HomeKit 的家用电池</title>
@@ -104,48 +132,6 @@ iOS 和 watchOS 上的 HomeKit 低电量通知和小部件
       <pubDate>Tue, 15 Oct 2024 08:24:48 GMT</pubDate>
     </item>
     <item>
-      <title>团队高效能人士</title>
-      <link>https://www.producthunt.com/posts/highperformr-for-teams-1</link>
-      <description><![CDATA[
-适用于小型团队的 AI 原生社交媒体协作工具
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/highperformr-for-teams-1</guid>
-      <pubDate>Tue, 15 Oct 2024 05:18:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>播客天才</title>
-      <link>https://www.producthunt.com/posts/podcast-genie</link>
-      <description><![CDATA[
-几分钟内即可从主题转为播客
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/podcast-genie</guid>
-      <pubDate>Mon, 14 Oct 2024 15:07:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>开始</title>
-      <link>https://www.producthunt.com/posts/outset-2</link>
-      <description><![CDATA[
-制定适合自己生活的锻炼计划，把自己放在第一位
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/outset-2</guid>
-      <pubDate>Mon, 14 Oct 2024 08:08:11 GMT</pubDate>
-    </item>
-    <item>
       <title>股份分割</title>
       <link>https://www.producthunt.com/posts/share-split</link>
       <description><![CDATA[
@@ -186,6 +172,20 @@ MVP 阶段项目的联合创始人股权协议
 ]]></description>
       <guid>https://www.producthunt.com/posts/feta</guid>
       <pubDate>Mon, 07 Oct 2024 07:52:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>码蚁AI</title>
+      <link>https://www.producthunt.com/posts/codeant-ai-2</link>
+      <description><![CDATA[
+人工智能代码审查可将代码审查时间和错误减少一半
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/codeant-ai-2</guid>
+      <pubDate>Wed, 02 Oct 2024 16:56:31 GMT</pubDate>
     </item>
     <item>
       <title>Prisma 优化</title>
