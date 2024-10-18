@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 18 Oct 2024 09:09:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 12:09:26 GMT</lastBuildDate>
+    <item>
+      <title>寻找 Android PDF 编辑器或替代标准</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g6e18o/looking_for_an_android_pdf_editor_or_alternative/</link>
+      <description><![CDATA[TL;DR：我需要一个适用于 Android 的 PDF 编辑器，最好是开源的。最低要求是它无需互联网和 Google Play 服务即可运行。 我工作的地方，我们会拜访客户、修理东西，也许还会销售产品。我们填写交货单，签字后再回去。通常都是在纸上，但我们也有一个有用的 PDF 模板，其中包含文本字段、按钮等，可以数字化完成所有这些操作。 我正在寻找一个 Android 应用，使用它我可以：  填写字段 通过触摸屏在文档的某个位置签名。 对某些文本字段使用重置按钮 使用自动插入当前日期的按钮  我知道我不是第一个问这个问题的人，但是说真的吗？有没有适用于 Android 的可用开源 PDF 编辑器？？ 在最坏的情况下，我愿意以完全不同的标准重新创建模板，有什么建议吗？    提交人    /u/ThomasOe27   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g6e18o/looking_for_an_android_pdf_editor_or_alternative/</guid>
+      <pubDate>Fri, 18 Oct 2024 09:29:44 GMT</pubDate>
+    </item>
     <item>
       <title>寻求指导：使我的程序开源是好是坏？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g6bihy/looking_for_guidance_how_might_making_my_program/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>TidesDB - 专为闪存和 RAM 优化而设计的高性能、耐用、事务性嵌入式存储引擎。</title>
       <link>https://www.reddit.com/r/opensource/comments/1g5anad/tidesdb_highperformance_durable_transactional/</link>
-      <description><![CDATA[各位开源爱好者们好！ 希望你们都一切顺利。我很高兴与大家分享，我一直在开发一种开源嵌入式、高性能、耐用的事务存储引擎，该引擎实现了 LSMT 数据结构，用于优化闪存和内存存储。这是一个轻量级、广泛的 C++ 库。  https://github.com/tidesdb/tidesdb  特点~ - 轻量级可嵌入存储引擎 - 可变长度字节数组键和值 - 简单而有效的 API（Put、Get、Delete） - 范围功能（NGet、Range、NRange、GreaterThan、LessThan、GreaterThanEq、LessThanEq） - SSTables 和 WAL 的自定义分页器 - LSM-Tree 数据结构实现（日志结构化合并树） - 预写日志（WAL 队列用于更快的写入） - 崩溃恢复/重放 WAL（恢复） - 内存中无锁跳过列表（memtable） - 事务控制（BeginTransaction、CommitTransaction、 RollbackTransaction) 提交失败时事务自动回滚 - 墓碑删除 - 刷新和压缩操作时阻塞最少 - 后台内存表刷新 - 后台配对多线程压缩 - 可配置选项 - 支持大量数据 - 线程安全  我很乐意听到您的想法、建议或任何您可能有的想法。  谢谢！    提交人    /u/diagraphic   [link] [评论]]]></description>
+      <description><![CDATA[各位开源爱好者们好！ 希望你们一切都好。我很高兴与大家分享，我一直在开发一种开源嵌入式、高性能、耐用的事务存储引擎，该引擎实现了 LSMT 数据结构，用于优化闪存和内存存储。这是一个轻量级、广泛的 C++ 库。  https://github.com/tidesdb/tidesdb  特点~ - 轻量级可嵌入存储引擎 - 可变长度字节数组键和值 - 简单而有效的 API（Put、Get、Delete） - 范围功能（NGet、Range、NRange、GreaterThan、LessThan、GreaterThanEq、LessThanEq） - SSTables 和 WAL 的自定义分页器 - LSM-Tree 数据结构实现（日志结构化合并树） - 预写日志（WAL 队列用于更快的写入） - 崩溃恢复/重放 WAL（恢复） - 内存中无锁跳过列表（memtable） - 事务控制（BeginTransaction、CommitTransaction、 RollbackTransaction) 提交失败时事务自动回滚 - 墓碑删除 - 刷新和压缩操作时阻塞最少 - 后台内存表刷新 - 后台配对多线程压缩 - 可配置选项 - 支持大量数据 - 线程安全  我很乐意听到您的想法、建议或任何您可能有的想法。  谢谢！    提交人    /u/diagraphic   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g5anad/tidesdb_highperformance_durable_transactional/</guid>
       <pubDate>Wed, 16 Oct 2024 21:29:16 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由    /u/opensourceinitiative  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g4x3n2/clearlydefineds_steering_and_outreach_committees/</guid>
       <pubDate>Wed, 16 Oct 2024 11:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - singulatron/superplatform：内部部署 AI 平台和微服务生态系统。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g4w9pd/github_singulatronsuperplatform_onpremise_ai/</link>
-      <description><![CDATA[        由    /u/crufter  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g4w9pd/github_singulatronsuperplatform_onpremise_ai/</guid>
-      <pubDate>Wed, 16 Oct 2024 10:36:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
