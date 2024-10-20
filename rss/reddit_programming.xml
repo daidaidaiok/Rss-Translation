@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 20 Oct 2024 06:07:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 09:05:50 GMT</lastBuildDate>
+    <item>
+      <title>面向开发人员的顶级 JavaScript 工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1g7tvot/top_javascript_tools_for_developers/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g7tvot/top_javascript_tools_for_developers/</guid>
+      <pubDate>Sun, 20 Oct 2024 08:09:25 GMT</pubDate>
+    </item>
     <item>
       <title>法学硕士 (LLM) 是否擅长对人员进行排名？</title>
       <link>https://www.reddit.com/r/programming/comments/1g7s8rl/are_llms_any_good_at_ranking_people/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/h4l  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g75r84/how_is_this_website_so_fast_breaking_down_the/</guid>
       <pubDate>Sat, 19 Oct 2024 10:11:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>本文提供了 Apache Flink 中的单元测试和集成测试的实用指南。以金融欺诈检测应用程序为例，我们将演示如何编写有效的测试以确保 Flink 作业的正确性。</title>
-      <link>https://www.reddit.com/r/programming/comments/1g75k6e/this_article_provides_a_practical_guideline_for/</link>
-      <description><![CDATA[  由    /u/Vasilkosturski  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g75k6e/this_article_provides_a_practical_guideline_for/</guid>
-      <pubDate>Sat, 19 Oct 2024 09:56:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
