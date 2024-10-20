@@ -4,86 +4,86 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Sun, 20 Oct 2024 00:19:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 05:38:56 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在《自然职业社区》的这篇文章中，作者强调了对[...]的监督。</title>
-      <link>https://t.me/hn_summary/113228</link>
-      <description><![CDATA[邀请研究人员参加活动时，请停止使用“夏季”、“冬季”等词语
-在《自然职业社区》的这篇文章中，作者强调了在科学交流和活动邀请中使用北半球特定季节语言的疏忽，这可能会疏远南半球的研究人员。尽管科学界强调精确性，但“夏季”或“冬季”等术语的使用往往没有考虑到它们的区域特异性。这种疏忽在气候科学等领域尤其令人惊讶，因为了解全球差异至关重要。作者建议使用特定的月份而不是季节，以避免混淆并确保包容性。此外，他们建议尊重全球工作与生活的平衡，并调整分析以考虑半球的差异。这种方法促进了更具包容性和准确性的科学论述。]]></description>
-      <guid>https://t.me/hn_summary/113228</guid>
-      <pubDate>Sun, 20 Oct 2024 00:19:09 GMT</pubDate>
+      <title>[媒体] 在《电子邮件隐私的技术现实》一书中，Solène Rapenne 探讨了电子邮件隐私的固有问题 [...]</title>
+      <link>https://t.me/hn_summary/113248</link>
+      <description><![CDATA[电子邮件隐私的技术现实
+在《电子邮件隐私的技术现实》中，Solène Rapenne 探讨了电子邮件通信中固有的隐私漏洞，强调电子邮件的基础架构在设计时并未考虑到现代隐私问题。该指南详细介绍了电子邮件标头如何无意中暴露敏感信息、与 MIME 编码内容相关的风险以及加密的局限性。Rapenne 强调了通过电子邮件客户端添加的额外标头进行分析的可能性以及电子邮件中 ​​HTML 渲染带来的隐私风险，例如跟踪像素和网络钓鱼攻击。该指南还讨论了确保端到端加密的挑战和服务器端加密的局限性，并指出虽然加密可以增强隐私，但并非万无一失。一个令人惊讶的见解是电子邮件标题可以泄露个人信息的程度，以及禁用 HTML 渲染以减轻隐私风险的巧妙建议。争议在于电子邮件协议固有的不安全性以及对用户数字素养的依赖，以有效地管理加密。（基于 67% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/113248</guid>
+      <pubDate>Sun, 20 Oct 2024 05:38:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在最近的更新中，GNU Boot 项目发现其发布版本中存在非自由软件 [...]</title>
-      <link>https://t.me/hn_summary/113227</link>
-      <description><![CDATA[GNU Boot 版本中再次发现非自由软件，许多发行版受到影响
-在最近的一次更新中，GNU Boot 项目在其版本中发现了非自由软件，影响了许多发行版。该问题最初在 RC1 版本中发现，涉及非自由微代码，通过手动重新制作 tarball 并与 Canoeboot 和 Guix 协调解决了该问题。然而，后来在 Coreboot 和各种 GNU/Linux 发行版使用的 vboot 源代码中发现了一个更广泛的问题，其中包含微代码和固件等非自由元素。这需要重新发布所有受影响的 tarball 并与多个发行版进行协调。该项目正在积极联系免费的 GNU/Linux 发行版和其他发行版（如 Debian 和 Fedora）以解决该问题，并通过他们的错误报告系统跟踪努力。争议在于，在一个致力于自由软件原则的项目中却存在非自由软件。]]></description>
-      <guid>https://t.me/hn_summary/113227</guid>
-      <pubDate>Sun, 20 Oct 2024 00:12:03 GMT</pubDate>
+      <title>[媒体] 加州大学洛杉矶分校的研究人员推出了 SLIViT，这是一种能够快速且经济高效地 [...]</title>
+      <link>https://t.me/hn_summary/113247</link>
+      <description><![CDATA[AI 医学图像模型提供快速、经济高效的专家分析
+加州大学洛杉矶分校的研究人员推出了 SLIViT，这是一种可以快速且经济高效地分析 3D 医学图像的 AI 模型，可能会改变医学成像分析。这种深度学习框架擅长识别各种成像方式（例如视网膜扫描和 MRI）中的疾病风险生物标志物，优于许多现有模型。值得注意的是，SLIViT 在可访问的 2D 数据集上使用了一种新颖的预训练方法，这令人惊讶，因为它允许模型准确分析 3D 扫描，而 3D 扫描通常是一种昂贵且稀缺的资源。此外，它在迁移学习方面的熟练程度使其能够适应不同的成像方式和器官，从而增强了其多功能性。这项由 NVIDIA GPU 提供支持的创新有望减轻医学影像专家的负担并改善患者的治疗效果，尤其是在专家资源有限的地区。]]></description>
+      <guid>https://t.me/hn_summary/113247</guid>
+      <pubDate>Sun, 20 Oct 2024 04:58:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 飓风过后，佛罗里达州食肉细菌病例激增 [...]</title>
-      <link>https://t.me/hn_summary/113226</link>
-      <description><![CDATA[飓风海伦和米尔顿过后，佛罗里达州食肉菌病例增加
-据佛罗里达州卫生部门报道，飓风海伦和米尔顿过后，佛罗里达州食肉菌病例激增。坦帕湾地区的各县，尤其是希尔斯伯勒和皮内拉斯，创伤弧菌感染病例显著增加，这种细菌在温暖的沿海水域很常见，在大雨或洪水后会大量繁殖。飓风海伦来袭之前，皮内拉斯没有病例，但现在报告了 13 例，而希尔斯伯勒的病例从 1 例增加到 7 例。全州病例从 9 月初的 6 例增加到今年的 76 例。佛罗里达州卫生部建议避开洪水并采取预防措施防止感染。值得注意的是，这一模式与 2022 年飓风伊恩过后出现的类似峰值相似。]]></description>
-      <guid>https://t.me/hn_summary/113226</guid>
-      <pubDate>Sun, 20 Oct 2024 00:03:57 GMT</pubDate>
+      <title>问 HN：一台 5 年前的 i7 笔记本电脑能与今天生产的笔记本电脑竞争吗？</title>
+      <link>https://t.me/hn_summary/113246</link>
+      <description><![CDATA[问 HN：一台 5 年前的 i7 笔记本电脑能与今天生产的笔记本电脑相媲美吗？
+作者质疑一台 5 年前的戴尔 i7 笔记本电脑能否与现代机型相媲美，因为摩尔定律在很大程度上被认为是过时的，表明最近的 i7 处理器的速度提升很小。他们思考购买旧笔记本电脑是否是使用电子表格和网络应用程序等任务的划算选择。争议在于，目前的 i7 处理器并不比旧处理器快很多，这可能会引发技术爱好者的争论。聪明之处在于对性能与成本的实际考虑，强调对于某些任务，旧技术可能就足够了，挑战了对最新硬件的不断追求。]]></description>
+      <guid>https://t.me/hn_summary/113246</guid>
+      <pubDate>Sun, 20 Oct 2024 04:53:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 北京将扩大自动驾驶示范区面积至3000平方公里[...]</title>
-      <link>https://t.me/hn_summary/113225</link>
-      <description><![CDATA[北京计划扩大自动驾驶测试区域
-北京将扩大其自动驾驶示范区至3000平方公里，是目前城区面积的两倍多。这一举措是在2024年世界智能网联汽车大会上宣布的，旨在巩固北京在自动驾驶技术领域的领导地位。自2020年以来，北京已开发了600多平方公里的智能基础设施，向百度和京东等33家公司发放了道路测试许可证。这些公司合计测试里程超过3200万公里。此次扩张将包括无人驾驶送货和巡逻服务等多种应用。北京还在起草新法规来规范这一快速发展的行业，中国有望在 2030 年成为自动驾驶汽车的最大市场。值得注意的是，此次扩张的规模和快速的发展速度凸显了中国积极推动技术驱动型增长，这可能会引发有关监管挑战和安全标准的疑问。]]></description>
-      <guid>https://t.me/hn_summary/113225</guid>
-      <pubDate>Sat, 19 Oct 2024 23:41:47 GMT</pubDate>
+      <title>[媒体] 在ycao.net上的文章《LLM永远不会成为AGI：证据》中，作者认为[...]</title>
+      <link>https://t.me/hn_summary/113245</link>
+      <description><![CDATA[LLM 永远不会成为 AGI：证明
+在 ycao.net 上的文章“LLM 永远不会成为 AGI：证明”中，作者认为，由于复杂性理论的根本限制，大型语言模型 (LLM) 无法实现通用人工智能 (AGI)。证明取决于这样一个事实：LLM 在复杂度为 $O(n)$ 下运行，其中 $n$ 是输出的长度。作者提出了一个问题：确定字符串 $s$ 是否为回文，人类可以在 $O(n)$ 时间内解决。然而，由于该问题的输出长度是恒定的，LLM 需要在 $O(1)$ 时间内解决该问题才能获得 AGI 资格，这就产生了矛盾。这个巧妙的论点凸显了 LLM 的一个根本限制，表明它们无法与人类的解决问题的能力相匹配。]]></description>
+      <guid>https://t.me/hn_summary/113245</guid>
+      <pubDate>Sun, 20 Oct 2024 04:47:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 我很高兴与大家分享我开发的一款新 Web 应用程序，该应用程序利用 Web Crypto API 来实现 [...]</title>
-      <link>https://t.me/hn_summary/113224</link>
-      <description><![CDATA[向 HN 展示：我创建了一个使用 Web Crypto API 加密/解密消息的 Web 应用程序
-我很高兴与大家分享我开发的一个新 Web 应用程序，该应用程序利用 Web Crypto API 使用公钥和私钥加密和解密消息。此实验可确保只有预期的作者和接收者才能访问消息内容，从而增强隐私和安全性。您可以在 GitHub 上探索源代码以了解其工作原理。该项目是使用现代 Web 技术保护通信的实践演示，对于任何对密码学感兴趣的人来说都是一个很好的工具。]]></description>
-      <guid>https://t.me/hn_summary/113224</guid>
-      <pubDate>Sat, 19 Oct 2024 23:35:40 GMT</pubDate>
+      <title>[媒体] 在《全民上大学对男孩不利》一书中，作者反思了大学经历[...]</title>
+      <link>https://t.me/hn_summary/113244</link>
+      <description><![CDATA[全民上大学不利于男孩
+在《全民上大学不利于男孩》一书中，作者回顾了一段幽默的大学经历，其中涉及恶作剧，并质疑全民上大学心态的更广泛影响。该文章强调了大学录取和学位获得方面存在显著的性别差距，借鉴了理查德·里夫斯在《男孩和男人》一书中的见解，他认为当前的教育体系由于发育方面的生物学差异而偏向女孩。争议在于，该体系的结构不利于男孩，他们可能从眼前的、有形的目标中受益更多，而不是长期的学术追求。作者提倡职业培训和学徒制等替代途径，强调需要进行教育改革，以更好地适应不同的能力和动机。这种观点挑战了传统的精英主义，即以大学作为通往成功的主要途径，认为一刀切的方法已经让很多人失败，尤其是男孩。]]></description>
+      <guid>https://t.me/hn_summary/113244</guid>
+      <pubDate>Sun, 20 Oct 2024 04:33:23 GMT</pubDate>
     </item>
     <item>
-      <title>Hacker News 上题为“向 ChatGPT 询问这个问题 - 如果可能的话粘贴回答”的帖子邀请 [...]</title>
-      <link>https://t.me/hn_summary/113223</link>
-      <description><![CDATA[向 ChatGPT 询问这个问题 - 如果可能，请粘贴回复
-Hacker News 上的帖子“向 ChatGPT 询问这个问题 - 如果可能，请粘贴回复”邀请用户与 ChatGPT 互动，询问它“您对我了解什么，而我可能不知道自己了解什么？”这个有趣的提示鼓励探索人工智能在提供可能让用户对自己的行为或模式感到惊讶的见解方面的能力。讨论强调了使用人工智能反思个人盲点的巧妙之处，尽管它引发了有关隐私和人工智能对个人做出假设的道德影响的潜在争议。这个帖子既好奇又谨慎，反映了社区对人工智能潜力及其界限的兴趣。]]></description>
-      <guid>https://t.me/hn_summary/113223</guid>
-      <pubDate>Sat, 19 Oct 2024 23:25:35 GMT</pubDate>
+      <title>[媒体] 在现代云数据中心中，确保硬件和固件的安全至关重要。</title>
+      <link>https://t.me/hn_summary/113243</link>
+      <description><![CDATA[保护硬件和固件供应链
+在现代云数据中心，确保硬件和固件的安全至关重要。微软通过开放计算项目 (OCP) 与行业合作伙伴合作，建立开放规范，以增强整个行业的安全性。一项重要计划 Caliptra 为 ASIC 提供开放的信任根，提供唯一的设备身份和固件真实性验证。OCP 安全评估框架和支持 (SAFE) 计划于 2023 年启动，标准化安全审查，生成加密签名的简短报告 (SFR) 以确保透明度和政策执行。SAFE 的增长包括五个新的安全审查提供商，增强了整个行业的安全标准。微软的硬件密钥管理服务 (HKMS) 和 SCITT 框架进一步确保了供应链透明度和设备完整性。这种综合方法结合了 Caliptra 和 SAFE，大大提高了系统的安全性和可信度。值得注意的是，SAFE 框架的加密措施和 SCITT 计划的供应链透明度在增强安全性方面是独特且创新的。]]></description>
+      <guid>https://t.me/hn_summary/113243</guid>
+      <pubDate>Sun, 20 Oct 2024 04:16:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Next Platform 的文章讨论了 AI 数据中心加速器蓬勃发展的市场 [...]</title>
-      <link>https://t.me/hn_summary/113222</link>
-      <description><![CDATA[世界将消耗 2 万亿美元的 AI 服务器，而 AI 将反过来消耗世界
-Next Platform 的这篇文章讨论了由 AMD 和 Nvidia 等公司推动的 AI 数据中心加速器蓬勃发展的市场。尽管 GPU 部署迅速，但 AI 加速器收入的增长率正在放缓，作者将其归因于市场力量的复杂相互作用，而不是直接原因。AMD 的预测表明，到 2028 年，全球在 AI 系统上的支出可能达到 2 万亿美元，其中 AI 加速器占了这一支出的很大一部分。文章强调了潜在的经济影响，表明虽然 AI 可以提高效率和收入，但也可能导致工作流失。作者幽默地指出了全民基本收入 (UBI) 倡导者首先确保自身财务稳定的讽刺之处，强调了持续工作的必要性。该作品巧妙地将市场分析与哲学思考交织在一起，质疑人工智能崛起的更广泛影响。]]></description>
-      <guid>https://t.me/hn_summary/113222</guid>
-      <pubDate>Sat, 19 Oct 2024 22:45:20 GMT</pubDate>
+      <title>[媒体] 计算中的术语“守护进程”经常被误解为磁盘和执行的首字母缩写 [...]</title>
+      <link>https://t.me/hn_summary/113242</link>
+      <description><![CDATA[计算中“守护进程”的起源
+计算中的“守护进程”一词经常被误解为 Disk And Executive MONitor 的首字母缩写，实际上源自物理学中麦克斯韦的守护进程，正如 Fernando J. Corbato 教授所解释的那样。这个守护进程是一个虚构的代理，它不知疲倦地对分子进行分类，类似于计算中的后台进程。1963 年，Corbato 的 MAC 项目团队选择了“守护进程”一词来描述这些进程。与首字母缩写词的混淆凸显了一个常见的词源错误。此外，“守护进程”和“恶魔”在历史上的可互换性增加了复杂性，“守护进程”保留了更中性或指导精神的内涵。 （根据 77% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/113242</guid>
+      <pubDate>Sun, 20 Oct 2024 04:11:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在本指南中，我探讨了如何使用 S3 预签名上传 URL 与 Hetzner 的新 S3-com [...]</title>
-      <link>https://t.me/hn_summary/113221</link>
-      <description><![CDATA[将 S3 预签名上传 URL 与 Hetzners 的新对象存储结合使用
-在本指南中，我将探讨如何将 S3 预签名上传 URL 与 Hetzner 的新 S3 兼容对象存储结合使用。此设置允许用户在 Web 应用程序中直接上传，利用熟悉的 AWS SDK 而无需供应商锁定。虽然 Hetzner 提供了用于创建存储桶的访问权限和密钥，但它缺乏配置 CORS 策略的本机方法，而 CORS 策略对于启用预签名 URL 上传至关重要。我演示了如何使用 AWS CLI 手动设置 CORS 策略，尽管端点 URL 配置出现了小问题。对于寻求与 Hetzner 存储无缝集成的开发人员来说，这种解决方法至关重要。如果您觉得本指南有用，请考虑分享它并探索 Launchway 以获得全面的 SaaS 入门套件。]]></description>
-      <guid>https://t.me/hn_summary/113221</guid>
-      <pubDate>Sat, 19 Oct 2024 22:31:12 GMT</pubDate>
+      <title>[媒体] 谷歌首席执行官 Sundar Pichai 在最近的公告中分享了重大领导层变动 [...]</title>
+      <link>https://t.me/hn_summary/113241</link>
+      <description><![CDATA[Google 任命 Nick Fox 取代 Prabhakar Raghavan 领导搜索和广告产品
+在最近的公告中，Google 首席执行官 Sundar Pichai 分享了公司内部的重大领导层变动。在 Google 各个部门担任了 12 年有影响力的领导后，Prabhakar Raghavan 将转任首席技术专家，专注于技术指导和创新。经验丰富的 Google 高管 Nick Fox 将接替他担任知识与信息 (K&amp;I) 主管，负责搜索、广告、地理和商业产品。这一转变符合 Google 的战略，即加强其服务中的 AI 集成，包括 Gemini 应用程序和地图和购物中的 AI 驱动功能。重组旨在简化运营并加速 AI 进步。值得注意的是，在 Prabhakar 任职期间，谷歌推出了 AI 概览功能，Gmail 和云端硬盘也取得了显著增长。此次交接标志着人们对 Prabhakar 的贡献心存感激，并对 Nick 的领导能力充满信心。]]></description>
+      <guid>https://t.me/hn_summary/113241</guid>
+      <pubDate>Sun, 20 Oct 2024 03:46:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 我们很高兴推出 Mosaic，这是 Bonfire 提供的一项创新服务，它使组织能够 [...]</title>
-      <link>https://t.me/hn_summary/113220</link>
-      <description><![CDATA[Mosaic：共同设计您自己的联合数字空间
-我们很高兴推出 Mosaic，这是 Bonfire 的一项创新服务，它使组织能够根据其独特需求创建定制的联合数字空间。Mosaic 融合了传统网站和社交网络平台的功能，允许广泛的信息共享和社区协作。与传统平台不同，Mosaic 提供自托管选项，免除用户订阅费并授予对其数字环境的完全控制权。这一举措在当今的网络世界中尤为重要，成功取决于不同社区之间的无缝沟通和协作。Mosaic 利用 fediverse，这是一个优先考虑数据所有权和用户控制的去中心化网络，为大型科技公司的利润驱动模式提供了令人耳目一新的替代方案。我们的开源框架确保解决方案有利于更广泛的生态系统，促进创新和协作的循环。一个突出的例子是我们与独立电影档案馆合作的项目，将其转变为一个动态的互动空间。Mosaic 展示了组织如何通过连接蓬勃发展，为造福所有人的数字共享做出贡献。加入我们，构建一个满足您社区需求的联合数字空间。]]></description>
-      <guid>https://t.me/hn_summary/113220</guid>
-      <pubDate>Sat, 19 Oct 2024 22:30:09 GMT</pubDate>
+      <title>[媒体] 微软基本上停止了 Windows 的运营。</title>
+      <link>https://t.me/hn_summary/113240</link>
+      <description><![CDATA[微软基本上停止了 Windows。然后会发生什么？
+作者以讽刺和有些愤世嫉俗的语气讨论了即将终止对 Windows 10 的支持以及向 Windows 11 的过渡问题。Windows 11 的两个主要问题是它与许多现有硬件不兼容，以及一项名为“回忆”的有争议的功能，据称该功能会记录屏幕上的所有内容，带来重大安全风险。作者幽默地探讨了各种场景，从微软做出让步到荒谬的可能性，如外星人入侵或微软首席执行官的人民审判。这篇文章强调了如果用户被迫升级而不解决这些问题，可能会出现混乱和安全漏洞，并通过巧妙而夸张的场景强调了这种情况的荒谬性。]]></description>
+      <guid>https://t.me/hn_summary/113240</guid>
+      <pubDate>Sun, 20 Oct 2024 03:34:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 基于消息队列的架构曾经是分布式系统的宠儿，但现在已成为 [...]</title>
-      <link>https://t.me/hn_summary/113219</link>
-      <description><![CDATA[基于消息队列的架构揭示了分布式系统演进的哪些方面
-基于消息队列的架构曾经是分布式系统的宠儿，如今已成为现代基础设施的基础但并不令人兴奋。这些系统（包括 RabbitMQ、Kafka 和 Redis 等流行工具）通过消息传输和发布-订阅模式促进微服务中的通信。尽管它们的炒作减少，但它们仍然至关重要，类似于 TerraForm 和 Linux。热度的下降归因于技术成熟度和不断发展的开发人员思维方式。然而，面向消息的中间件市场仍在继续增长，Confluent 最近收购了 WarpStream Labs 就是明证。本系列将探索消息传递的过去、现在和未来，并从行业专家那里汲取见解。值得注意的是，Redis 作为分布式系统中的消息代理的角色尤为有趣。]]></description>
-      <guid>https://t.me/hn_summary/113219</guid>
-      <pubDate>Sat, 19 Oct 2024 22:30:06 GMT</pubDate>
+      <title>[媒体] 在我们的研究中，我们探索了友谊互惠的动态及其对社会的影响[...]</title>
+      <link>https://t.me/hn_summary/113239</link>
+      <description><![CDATA[对友谊关系的认知不足限制了推动变革的能力 (2016)
+在我们的研究中，我们使用本科课程的数据探索了友谊互惠的动态及其对社会影响的影响。参与者在友谊量表上互相评分，并预测其他人会如何评价他们。尽管对相互友谊寄予厚望，但只有大约一半的友谊是互惠的。这与其他数据集的结果一致，表明非互惠友谊的普遍趋势，可能是由于社会地位的渴望。我们对 FunFit 实验的分析表明，互惠友谊比单方面的友谊施加了更大的同侪压力，凸显了互惠和方向性在社会影响中的重要性。有趣的是，当自我被他人视为朋友时，影响力会比自我将他人视为朋友时更强。这挑战了传统的社会感染观点，强调了友谊动态在同伴影响中的微妙作用。（基于 67% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/113239</guid>
+      <pubDate>Sun, 20 Oct 2024 03:08:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
