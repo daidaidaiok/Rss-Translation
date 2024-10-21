@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 20 Oct 2024 21:06:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 00:23:51 GMT</lastBuildDate>
+    <item>
+      <title>技术栈对决：我的项目中的全栈网站与 Web 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1g8cwcd/tech_stack_showdown_full_stack_website_vs_web_app/</link>
+      <description><![CDATA[我目前正处于构建基于 Web 的产品的初始阶段，我正在尝试确定最佳路线。  我已经准备好了线框，但尚未开始制作原型，因为我不确定采用全栈网站或 Web 应用程序的路线是否更有意义。我对 html、css 有一些有限的经验，并且之前曾使用过 squarespace 和 carrd 等网站来构建多个网站。  这款产品作为应用程序可能会“更好”，但很难说它是否会有更多的用途（尤其是当我认为 Web 应用程序路线的成本可能是动态网站的 2.5 倍，并且具有我们无限期需要的功能）。我的直觉告诉我，先走网站路线，然后再构建应用程序（如果需要）更有意义。 第一步是原型/MVP，我陷入困境，因为我不想在应该使用的平台上走错路，或者在当地（美国）或国外招聘更有价值。已经考虑过 Figma 或 Webflow 作为原型。 以下是一些“必须具备”的功能。以后还有很多“好东西”。 功能 •用户登录 •两组用户的匹配功能 •根据帐户设置信息匹配用户的标签 •用于与产品交互的基于积分的系统 •购买积分或订阅其他服务的能力 •测试以确认用户已在 YouTube 上观看了教育视频 •可能使用 2FA •速度也是一个因素 我从头开始构建网站时的初步研究似乎指向 React 与 Node.js、Redux 和 MongoDB（或 GraphQL）的组合，但我不知道这种组合是否真的可以一起工作。我也不知道从头开始构建是否有意义。 如果有人有任何经验可以分享，将不胜感激。没有错误的回应——一切都有帮助！    提交人    /u/Formal_Experience674   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g8cwcd/tech_stack_showdown_full_stack_website_vs_web_app/</guid>
+      <pubDate>Mon, 21 Oct 2024 00:07:32 GMT</pubDate>
+    </item>
     <item>
       <title>Chrome DevTools 中引入 AI 辅助功能</title>
       <link>https://www.reddit.com/r/programming/comments/1g870tv/introducing_ai_assistance_in_chrome_devtools/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/albeXL  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g7y127/how_to_represent_singlevariable_functions_using/</guid>
       <pubDate>Sun, 20 Oct 2024 12:53:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>8 种有效的调试策略，让你像专业人士一样发现并修复错误</title>
-      <link>https://www.reddit.com/r/programming/comments/1g7xhhz/8_effective_debugging_strategies_to_find_and_fix/</link>
-      <description><![CDATA[  由    /u/pepincho  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g7xhhz/8_effective_debugging_strategies_to_find_and_fix/</guid>
-      <pubDate>Sun, 20 Oct 2024 12:23:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
